@@ -1,0 +1,26 @@
+﻿[Submission1.Objectives]
+Repel the enemy attack.
+[Submission1.Description]
+The main strikes of the enemy’s Volokolamsk-based attack group are aimed at Solnechnogorsk and Istra City. The Germans have already gotten close to the area between the Istra Reservoir and the  Istra River. In some locations, German troops even managed to cross over to the eastern bank of the river.
+
+You must contain the enemy’s attack and keep the approaches to the city under your control. 
+
+Your order is to:
+-Repel the enemy attack.
+[Submission1.Success]
+The High Command’s order has been fulfilled! The attack by the German invaders was repelled.
+[Submission1.Failed]
+The Germans have managed to break through the defenses and occupy the city! You failed to fulfill your orders from High Command!
+[Submission2.Objectives]
+Repel the enemy flank attacks.
+[Submission2.Description]
+Enemy troops advancing from the north and the south towards the village in order to attack our flanks. You must resist these flanking actions!
+
+Your order is to:
+- Repel the enemy flank attacks.
+[Submission2.Success]
+High Command’s order has been fulfilled! You have repelled the enemy attacks.
+[Submission2.Failed]
+Your troops were defeated! You failed to fulfill your orders!
+[StringTable.Retreat]
+The squad covering the left flank is fleeing from the battlefield!

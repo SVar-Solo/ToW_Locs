@@ -1,0 +1,18 @@
+﻿[Mission.Objectives]
+La misión principal consiste en evitar que las tropas alemanas lleguen a la zona de evacuación.
+[Mission.Description]
+Debido a tantos días de combate, el ejército francés ha sufrido graves pérdidas, aumentadas por el bombardeo constante de la Luftwaffe. Pero incluso con semejantes pérdidas, nuestras tropas siguen intentando mantener la línea y ayudar a las fuerzas aliadas a embarcar y retirarse por el Canal de la Mancha. Hoy la misión principal es contener a las tropas alemanas y evitar que lleguen a las zonas de evacuación situadas en la costa.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+¡Misión fallida!
+[Submission_1.Objectives]
+Rechace todos los ataques de las tropas alemanas.
+[Submission_1.Description]
+La línea de defensa del ejército francés está bastante dispersa porque le faltan soldados. Nos han dejado con algunos tanques, y la aviación alemana se ha ensañado con nuestra aviación. Los efectivos aéreos restantes de los aliados se tienen que encargar de cubrir las zonas de evacuación. A pesar de esta situación tan apurada, hay que rechazar todos los ataques alemanes para que las evacuaciones puedan continuar.
+[Submission_1.Success]
+Ha rechazado los ataques. La evacuación ha finalizado con éxito.
+[Submission_1.Failed]
+¡Has perdido! Las unidades alemanas han abierto brecha y están diezmando a las tropas restantes que intentan evacuar.
+[StringTable.reserv]
+¡Han llegado refuerzos!

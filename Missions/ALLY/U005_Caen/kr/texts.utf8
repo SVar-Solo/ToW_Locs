@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+도주하는 적 부대를 섬멸하라.
+[Main_mission.Description]
+아군 정보 보고에 따르면 캉의 방어선은 분쇄되었고 적은 허둥지둥 도주하고 있다. 하지만 아군이 포위망을 닫는 데 늦어, 일부 적 부대가 빠져나갈까 우려된다. 귀관의 임무는 그 독일군이 빠져나가지 못하게 막는 것이다.
+
+명령:
+-	작은 마을 부근에 병력을 집결시키고 근처 교차로를 반드시 사수하라. 적이 언제 나타날지 모르므로 어떤 경우에도 이 지역을 떠나지 마라.
+[Main_Mission.Success]
+적을 격파했다! 이제 이 지역은 안전하다!
+[Main_Mission.Failed]
+패배했다. 적이 귀관의 손에서 빠져나갔다. 
+[Submission_1.Objectives]
+적 전차를 파괴하라.
+[Submission_1.Description]
+여러 독일군 부대의 잔여 병력이 포위망을 돌파하려 하고 있다. 적이 약해지기는 했으나 여전히 심각한 전력이다. 독일군 기갑 부대도 확인되었다.
+
+명령:
+-	적의 돌파를 저지하라. 마주치는 적 전차는 모두 파괴하라.
+[Submission_1.Success]
+축하한다! 적군을 저지했다!
+[Submission_1.Failed]
+패배했고 적 부대가 아군의 포위망에서 빠져나갔다.
+[Submission_2.Objectives]
+적군을 저지하라!
+[Submission_2.Description]
+이 지역에는 예상보다 많은 적군이 있다. 적은 또 한 번 돌파를 시도하고 있다. 
+
+명령:
+-	적군을 섬멸하라.
+[Submission_2.Success]
+성공했다! 적군을 격멸했다!
+[Submission_2.Failed]
+임무에 실패했다! 
+[Submission_3.Objectives]
+농가를 점령하라. 적이 있으면 섬멸하라.
+[Submission_3.Description]
+독일군은 돌파에 실패했으나 적은 아직 섬멸되지 않았다. 사령부는 남은 적 진지를 소탕할 즉각적인 공세를 개시하는 것이 최선이라고 판단한다.
+
+명령:
+-	공세를 개시하라. 농장을 공격하여 적을 섬멸하라.
+[Submission_3.Success]
+적을 섬멸했다! 농장은 아군이 장악했다!
+[Submission_3.Failed]
+농장 점령에 실패했다.
+[StringTable.Reserv]
+증원 부대가 도착했다.

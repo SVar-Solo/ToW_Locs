@@ -1,0 +1,107 @@
+﻿[StringTable.Strongpoint1lost]
+Point d’appui 1 perdu !
+[StringTable.Strongpoint2lost]
+Point d’appui 2 perdu !
+[StringTable.Strongpoint3lost]
+Point d’appui 3 perdu !
+[StringTable.Strongpoint4lost]
+Point d’appui 4 perdu !
+[StringTable.Strongpoint5lost]
+Point d’appui 5 perdu !
+[StringTable.Strongpoint6lost]
+Point d’appui 6 perdu !
+[StringTable.StrongpointsLost]
+Cinq points d’appui sont perdus !
+[StringTable.StuartTankLost]
+Le Stuart d’Alan Mitchell est endommagé et ne pourra plus repousser les attaques ennemies !
+[StringTable.StuartCrewLost]
+L’équipage du Stuart est mort, les points d’appui ne tiendront pas sans son soutien !
+[StringTable.IntroSubtitle1]
+Capitaine Whistler : Bon, tous les villages sont pris, maintenant on attend les Fritz.
+[StringTable.IntroSubtitle2]
+Lieutenant Parker : Mon capitaine, et s’ils nous prennent un par un ?
+[StringTable.IntroSubtitle3]
+Whistler : Foutaises, Parker. Il leur faut des chars pour ça, et ils n’en ont que quelques-uns et ...
+[StringTable.IntroSubtitle4]
+ils ne sont pas ici. C’est quoi, ça ? J’entends un bruit de chenilles ! Merde !
+[StringTable.IntroSubtitle4a]
+Les grenades, en position ! On va leur montrer !
+[StringTable.IntroSubtitle5]
+Parker : Je n’y vois rien avec cette poussière ! C’est un Stuart ! Et si les Allemands nous bernaient ?
+[StringTable.IntroSubtitle6]
+Whistler : Parker, espèce de trouillard ! Attirez l’attention de cet équipage de char !
+[StringTable.IntroSubtitle6a]
+Parker (pour lui-même) : Mon capitaine, Dieu vous a certes doté de courage...
+[StringTable.IntroSubtitle6b]
+autant qu’il vous a privé de toute notion élémentaire du métier de la guerre !
+[StringTable.IntroSubtitle7]
+Whistler : Tu vois, Parker, ce ne sont pas des Allemands. Les gars, avec votre char...
+[StringTable.IntroSubtitle8]
+on peut botter le cul des Fritz. À nous seuls...
+[StringTable.IntroSubtitle9]
+de toute façon, vous n’arriverez pas jusqu’à nos troupes. Prenez vos postes !
+[StringTable.IntroSubtitle10]
+Parker, Mitchell et les soldats : À vos ordres, mon capitaine !
+[StringTable.WinSubtitle1]
+Lieutenant Parker : Merci, mon pote !
+[StringTable.WinSubtitle2]
+Passons à la Flying Bottle à Frisco après la guerre, d’accord ?
+[StringTable.WinSubtitle3]
+Alan Mitchell : Tu es de Californie ? C’est assez loin de chez moi, mais on passera sûrement...
+[StringTable.WinSubtitle4]
+Alan Mitchell : Où est Whistler ?
+[StringTable.WinSubtitle5]
+Parker : Il est mort, il s’est précipité dans la cour quand les Allemands sont arrivés...
+[StringTable.WinSubtitle6]
+et il a pris une rafale à bout portant. Il était très courageux, mais...
+[StringTable.WinSubtitle7]
+il allait finir comme ça, tôt ou tard.
+[StringTable.WinSubtitle8]
+Voix d’un radio dans le char : Nos troupes sont en route !
+[StringTable.FailSubtitle1]
+Oberleutnant Daniel Nowitzki : Eh bien, les héros !...
+[StringTable.FailSubtitle2]
+À vrai dire, à votre place, j’aurais choisi de me battre...
+[StringTable.FailSubtitle3]
+mais il faut avoir des talents particuliers...
+[StringTable.FailSubtitle4]
+pour organiser les choses d’une façon aussi stupide. Quand on trouvera votre chef,.. [StringTable.FailSubtitle5]
+je lui paierai à boire, s’il est vivant, ou je déposerai des fleurs sur sa tombe,
+[StringTable.FailSubtitle6]
+s’il est mort. Avec une dédicace
+[StringTable.FailSubtitle7]
+« Pour un courage et une stupidité inégalés ! »
+[MainTask.Objectives]
+Tenez au moins deux des points fortifiés
+[MainTask.Success]
+Radiogramme du lieutenant-colonel Waters : Grâce à votre habile organisation défensive et à l’engagement des réserves ennemies, nous avons réussi à vaincre leur force d’avant-garde et à vous envoyer des renforts. Bon travail, les gars !
+[MainTask.Failed]
+Du rapport du lieutenant-colonel Waters au commandement : l’ennemi s’est emparé des points fortifiés et ses réserves ont renforcé la force d’avant-garde. La mission assignée n’a pas été accomplie...
+[MainTask.Description]
+Radiogramme du lieutenant-colonel Waters : Utilisez le réseau de points fortifiés et le char léger Stuart pour engager et détruire les réserves ennemies qui arrivent. Tenez au moins deux des points fortifiés. N’oubliez pas que votre char attirera des forces ennemies bien plus nombreuses que ne s’y attend le capitaine Whistler. Si le char est endommagé, les Allemands écraseront à coup sûr nos groupes isolés.
+[StringTable.EnemyIsDefeated]
+Mon capitaine, les Fritz battent en retraite ! On dirait qu’on est beaucoup trop coriaces pour eux !
+[StringTable.SecondWaveDefeated]
+Mon capitaine ! La deuxième vague d’attaques des Fritz a été repoussée !
+[StringTable.FirstWaveDefeated]
+Ah, fils de pute, vous ne vous attendiez pas à notre char, hein ? Ils filent, mon capitaine !
+[StringTable.SecondWaveIncoming]
+Mon capitaine ! Ils avancent de nouveau ! Cette fois, ils nous attaquent par deux directions !
+[StringTable.SecondWave1Defeated]
+Mon capitaine ! L’attaque du sud-ouest a été repoussée ! Après avoir perdu leurs chars, et quand leur infanterie a vu arriver notre Stuart, ils ont pris la fuite !
+[StringTable.SecondWave2Defeated]
+Mon capitaine ! L’ennemi au sud-est bat en retraite après quelques rafales de notre char !
+[StringTable.ThirdWave1Defeated]
+Mon capitaine ! Après la destruction du char, l’unité d’infanterie ennemie a pris la fuite !
+[StringTable.ThirdWave2Defeated]
+Mon capitaine ! Après avoir perdu son char, l’unité d’infanterie ennemie s’est repliée, notre Stuart en vue !
+[StringTable.ThirdWave3Defeated]
+Mon capitaine ! Le groupe de semi-chenillés et d’infanterie ennemis a cessé l’attaque !
+[StringTable.ThirdWaveIncoming]
+Mon capitaine ! L’ennemi a engagé des forces bien plus lourdes, nous sommes attaqués dans trois directions !
+[StringTable.FirstStrongpointLost]
+Radiogramme du lieutenant-colonel Waters : Nous ne pouvons pas reprendre le point fortifié perdu, mais votre Stuart peut déloger l’infanterie ennemie qui l’occupe ! Agissez selon la situation et chassez l’ennemi des points fortifiés capturés !
+[StringTable.MitchellIsKilled]
+Alan Mitchell a été tué !
+[StringTable.ReturnInTank]
+Remettez dans le char les membres d’équipage débarqués pour accomplir la mission.

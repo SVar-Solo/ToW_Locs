@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Erobern und halten Sie das Dorf Otto.
+[Mission.Description]
+Laut Aufklärungsberichten hat sich eine kleine britische Einheit im Dorf verschanzt, aber die Verteidigungsanlagen sind sorgfältig vorbereitet. Sie befehligen Infanteristen des 902. motorisierten Infanterie Regiments und Panzer des 6. Panzer Regiments.
+
+Ihre Befehle lauten:
+- vernichten Sie die gegnerische Verteidigungsstellungen im Dorf Otto.
+[Mission.Success]
+Gute Arbeit! Die feindliche Stellung wurde zerbrochen.
+[Mission.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!
+[Submission_1.Objectives]
+Greifen Sie die feindlichen Stellungen in Otto an.
+[Submission_1.Description]
+Das Dorf Otto befindet sich südöstlich von Ihrer Ausgangsstellung. Es handelt such um eine recht grosse Siedlung. Die Briten haben eine ziemlich starke Verteidigung aufgebaut. Nur durch sorgfältige Koordinationen Ihrer Einheiten werden Sie es schaffen, den Feind zu besiegen.
+
+Ihre Befehle lauten:
+- nehmen Sie das Dorf Otto ein.
+[Submission_1.Success]
+Gute Arbeit! Das Dorf ist in unserer Hand.
+[Submission_1.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.
+[Submission_2.Objectives]
+Organisieren Sie eine Verteidigungsstellung und halten Sie die erbeuteten Positionen.
+[Submission_2.Description]
+Nach dem Verlust des Dorfes wird der Feind sicherlich einen Gegenangriff starten um die Stellung an diesem Frontabschnitt wieder zu erlangen. 
+
+Ihre Befehle lauten:
+- schlagen Sie alle Angriffe der britischen Streitkräfte zurück.
+[Submission_2.Success]
+Gute Arbeit! Die feindlichen Angriffe wurden zurückgeschlagen.
+[Submission_2.Failed]
+Mission gescheitert! Ihre Armee zieht sich zurück.

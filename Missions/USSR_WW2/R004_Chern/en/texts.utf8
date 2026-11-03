@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Beat off the German troops coming from the West.
+[Mission1.Description]
+The enemy 3rd Tank Division is moving from the West of Chern to smash our troops in this sector and get closer to Tula. The enemy has a large numerical superiority.
+
+Your orders: 
+-	 Stop the enemy 3rd Tank Division
+[Mission1.Success]
+The attack of the enemy troops has been beaten off! The Germans were unable to break through.
+[Mission1.Failed]
+The enemy managed to break through the defense and get to the station! One more step back towards Moscow...
+[Mission1_1.Objectives]
+Beat off the enemy attack from the South.
+[Mission1_1.Description]
+The German troops have broken through the frontline south of Chern and are now moving fast in our direction. They intend to surround our troops and link up with the 3rd Tank Division in their advance on Tula.
+
+Your orders:
+- 	Stop the enemy assault from the South.
+[Mission1_1.Success]
+The enemy attack has been successfully repulsed!
+[Mission1_1.Failed]
+The enemy has broken through to the station! You’ve failed the operation.
+[Submission1.Objectives]
+Hold and defend the Chern station.
+[Submission1.Description]
+German troops continue to attack our positions around the Chern station. We are all that stands between them and Tula and they must be stopped.
+
+Your order is: 
+- 	Hold the defenses around the Chern station 
+- 	Keep the enemy troops from breaking through to Tula.
+[Submission1.Success]
+The enemy has been destroyed! The commander’s orders have been carried out!
+[Submission1.Failed]
+The enemy broken through your defenses and the road to Tula is open!
+[StringTable.Reserv]
+Reinforcements have arrived.

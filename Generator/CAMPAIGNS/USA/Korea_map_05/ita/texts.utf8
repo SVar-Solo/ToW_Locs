@@ -1,0 +1,249 @@
+﻿[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Sferrate un attacco preventivo contro il nemico attaccante. Non permettete ai nemici di conquistare il ponte.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Il ponte è strategicamente importante, ma al momento è difeso solo da una piccola squadra di fanteria. Secondo la ricognizione, il nemico si prepara ad attaccare la posizione. Dovete avanzare rapidamente e sferrare un attacco preventivo contro il nemico attaccante.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missione fallita. Il nemico ha conquistato il ponte.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Missione fallita. Il nemico ha conquistato il ponte.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Missione fallita. Il nemico ha conquistato il ponte.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Il ponte è strategicamente importante. Dovete avanzare e sferrare un attacco preventivo contro il nemico attaccante. Fate attenzione al fianco sinistro, vulnerabile e che potrebbe essere sfondato dalle squadre di fanteria. Dovete mantenere il ponte a tutti i costi.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Il ponte è strategicamente importante. Dovete avanzare e sferrare un attacco preventivo contro il nemico attaccante. Fate attenzione al fianco sinistro, vulnerabile e che potrebbe essere sfondato dalle squadre di fanteria. Dovete mantenere il ponte a tutti i costi.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Sferrate un attacco preventivo contro il nemico attaccante. Non permettete ai nemici di conquistare il ponte.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Sferrate un attacco preventivo contro il nemico attaccante. Non permettete ai nemici di conquistare il ponte.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Il supporto di artiglieria attende ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Il supporto di artiglieria attende ordini.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati di riserva è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati di riserva è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Eliminate i nemici che difendono e conquistate il centro abitato segnato sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Eliminate i nemici nel centro abitato segnato sulla mappa. Conquistate la località e tenetevi pronti a respingere tutti i contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Conquistare il centro abitato nella valle.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Marcia forzata fino all'area segnata sulla mappa e lanciate subito un attacco in movimento contro l'avanguardia nemica, prima che abbia il tempo di organizzare le difese. Conquistate il centro abitato e tenetevi pronti a respingere tutti i contrattacchi.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Respingere tutti i contrattacchi nemici al centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Il centro abitato nella valle è un punto difensivo strategico dell'area e sorge sul principale corridoio di trasporto. Se perdiamo questa posizione, le nostre comunicazioni nell'area saranno interrotte. Non dovete permettere al nemico di conquistare questa posizione.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Respingere tutti i contrattacchi nemici al centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Il centro abitato nella valle è un punto difensivo strategico dell'area e sorge sul principale corridoio di trasporto. Se perdiamo questa posizione, le nostre comunicazioni nell'area saranno interrotte. Non dovete permettere al nemico di conquistare questa posizione.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Conquistare il nodo stradale nella valle.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Marcia forzata fino all'area segnata sulla mappa. Poi organizzate le difese e mettete in sicurezza il nodo stradale. Tenetevi pronti a respingere tutti i contrattacchi nemici.
+
+[Reinforcement.Group1[Reinforcement]]
+Mezzi corazzati e fanteria
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Respingere tutti gli attacchi nemici al centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Respingere tutti gli attacchi nemici nell'area circostante.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Respingere tutti gli attacchi nemici nell'area circostante.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Respingere tutti gli attacchi nemici nell'area circostante.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Respingere tutti gli attacchi nemici nell'area circostante.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Conquistare e mantenere il villaggio
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Marcia forzata fino al villaggio segnato sulla mappa. Organizzate lì le difese e mantenetelo per il tempo stabilito, fino all'arrivo del grosso delle nostre forze.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Marcia forzata fino al villaggio segnato sulla mappa. Organizzate lì le difese e mantenetelo per il tempo stabilito, fino all'arrivo del grosso delle nostre forze.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Marcia forzata fino al villaggio segnato sulla mappa. Organizzate lì le difese e mantenetelo per il tempo stabilito, fino all'arrivo del grosso delle nostre forze.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Conquistare e mantenere il villaggio
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Conquistare e mantenere il villaggio
+
+[Reinforcement.Group2[Reinforcement]]
+
+

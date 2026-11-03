@@ -1,0 +1,17 @@
+﻿[Mission.Description]
+Em 11 de agosto de 1944, às 3h00, a vanguarda da 95ª Divisão de Fuzileiros da Guarda (95ª sd da Guarda), que ocupava a rodovia Khmelnyk-Szydlov na área de Skadla-Rachice, foi atacada por um grande grupo de tanques inimigos e infantaria motorizada. Durante a batalha, o destacamento sofreu pesadas perdas e foi empurrado para a direção sudeste. O inimigo continua avançando na direção de Szydlov. Foi recebida uma ordem: "Com as forças do 1076º IPTAP, desloque-se para a direção ameaçada e repila os ataques dos tanques inimigos."
+[StringTable.1]
+Ordem de combate: assumir a defesa nos acessos à cidade de Szydlov e repelir os ataques de tanques e infantaria motorizada.
+[StringTable.2]
+A 2ª bateria chegou ao campo de batalha.
+[StringTable.3]
+As baterias sofreram pesadas perdas. Os combatentes sobreviventes devem recuar para a área de Szydlov.
+[StringTable.4]
+A ordem foi cumprida, os ataques dos tanques inimigos foram repelidos.
+
+
+
+[Mission.Objectives]
+Mantenha as posições
+[Mission.Success]
+[Mission.Failed]

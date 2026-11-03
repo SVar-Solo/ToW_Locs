@@ -1,0 +1,37 @@
+﻿[Submission_1.Objectives]
+Utrzymaj się do przybycia posiłków. Zniszcz jak najwięcej nieprzyjacielskich jednostek.
+[Submission_1.Description]
+Twoje rozkazy:
+-	Utrzymać się do przybycia posiłków. 
+-	Zniszczyć jak najwięcej jednostek wroga.
+
+[Submission_1.Success]
+Przybyły posiłki!
+[Submission_1.Failed]
+Porażka. Nie utrzymałeś się wystarczająco długo.
+[Submission_2.Objectives]
+Utrzymać pozycje.
+[Submission_2.Description]
+Terminal Ponuri jest kluczowym elementem naszej obrony w północnej części Łuku Kurskiego. Niemieckie dowództwo, zdając sobie z tego sprawę, wystawiło do walki w tym sektorze najcięższe czołgi i jednostki artylerii samobieżnej. 
+Twoje rozkazy:
+-	Utrzymać pozycje w terminalu Ponuri. 
+[Submission_2.Success]
+Dobra robota. Udało wam się utrzymać mimo przewagi nieprzyjaciela.
+[Submission_2.Failed]
+Zawiedliście ojczyznę! Twoje wojska zostały zniszczone.
+[Mission.Objectives]
+Zatrzymać niemieckie natarcie. 
+[Mission.Description]
+Na całej północnej części Łuku Kurskiego. Niemieckie jednostki walczyły ciężko w pobliżu terminala Ponuri. 
+Twoje rozkazy: 
+-	Nie pozwól na przełamanie linii frontu w pobliżu terminalu. 
+[Mission.Success]
+Zadanie zostało wykonane! Niemcom nie udało się przełamać frontu. 
+[Mission.Failed]
+Nie udało ci się zatrzymać Niemców. Teraz zmierzają wprost na Kursk. 
+[StringTable.T34_Income]
+Masz do dyspozycji czołgi.
+[StringTable.SPG_reserv]
+Przybyły działa samobieżne. 
+[StringTable.Inf_reserv]
+Masz do dyspozycji rezerwy piechoty.

@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+시르체프 - 두브로보 방어선을 돌파하고 시르체프의 지휘소를 파괴하라.
+[Mission.Description]
+전투단은 전차와 돌격포의 지원을 받아 시르체프를 동쪽으로 통과하며 두브로보 - 시르체프 방향으로 진격한다. 적 거점을 격파한 뒤 시르체프 북쪽 페나강 동안에 도달한다. 시르체프의 소련군 지휘소를 반드시 파괴하라.
+[Submission_1.Objectives]
+시르체프 - 두브로보 방어선을 돌파하라. 보병으로 목표를 확보하라.
+[Submission_2.Objectives]
+시르체프 마을에 적 지휘소가 있다. 계속 진격하여 지휘소를 파괴해야 한다.
+[Submission_1.Success]
+적 방어선을 점령했다.
+[Submission_1.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[Submission_2.Success]
+적 지휘소를 파괴했다. 시르체프를 아군이 점령했다.
+[Submission_2.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[Mission.Success]
+시르체프 - 두브로바 적 방어선을 돌파했다. 시르체프의 적 지휘소를 파괴했다.
+[Mission.Failed]
+명령을 수행하지 못했다. 적이 너무 강하다! 
+[StringTable.Ger_infantry]
+예비 보병 부대가 지휘관의 통제하에 들어왔다.
+[StringTable.Ger_support]
+전차, 자주포, 보병 부대가 예비로 있다. 공격이 성공적으로 개시되면 이들에 대한 지휘권이 부여된다.
+
+[StringTable.Inf]
+보병
+[StringTable.Tanks]
+전차
+[StringTable.SPG]
+자주포
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

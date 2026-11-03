@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Attack and secure the enemy positions marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+The enemy positions in this valley are guarding the main transport corridor, which connects their eastern and western forces. You must capture the enemy positions marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Your casualties are too heavy. Mission failed.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Attack the enemy positions marked on the map. Destroy their defenses and repel all enemy counterattacks.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Your casualties are too heavy. Mission failed.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+The enemy positions in this valley are guarding the main transport corridor, which connects their eastern and western forces. You must capture the enemy positions marked on the map.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Repel all enemy attacks, and support the defending troops by launching a counterattack.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repel all enemy attacks within the time specified by headquarters.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillery support is available, awaiting orders.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Reserve tank force is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Reserve tank force is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Reserve infantry team is awaiting orders.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Reserve infantry team is awaiting orders.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Failed]
+Mission failed.
+
+[Reinforcement.Group1[Reinforcement]]
+Armored vehicles and infantry
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Attack and secure the enemy positions marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+The enemy positions in this valley are guarding the main transport corridor, which connects their eastern and western forces. You must capture the enemy positions marked on the map.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Attack the enemy positions marked on the map. Destroy their defenses and repel all enemy counterattacks.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+According to reconnaissance, an enemy advance party has captured the village marked on the map. Reclaim it before the enemy has a chance to replenish their strength and establish their defenses. While attacking, maintain your reconnaissance - and watch out for approaching enemy reserves.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Objectives]
+Capture and hold the village
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Objectives]
+Capture and hold the village
+

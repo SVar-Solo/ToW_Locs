@@ -1,0 +1,88 @@
+﻿[MainTask.Objectives]
+Capture la aldea
+[MainTask.Success]
+Los soldados enemigos supervivientes se rinden, la aldea es nuestra. ¡Sigan así, muchachos!
+[MainTask.Failed]
+El enemigo ha resultado ser demasiado fuerte para su unidad de tanques. ¡La operación queda cancelada!
+[MainTask.Description]
+Nuestro objetivo final en esta zona es capturar una aldea en manos del enemigo; sin embargo, debido a la fuerte defensa enemiga, no podemos desplegar a la vez nuestra infantería, artillería y aviación. Por lo tanto, su grupo de tanques ligeros debe realizar primero un ataque de tanteo, destruir las fuerzas enemigas que obstaculicen nuestras acciones fuera de la aldea y apoyar después el ataque de nuestra infantería.
+[FlakSuppress.Objectives]
+Neutralice los cañones antiaéreos
+[FlakSuppress.Success]
+Los cañones antiaéreos autopropulsados enemigos han sido neutralizados y nuestro servicio de monitoreo ha registrado con éxito las coordenadas de la aldea. Nuestros oficiales de enlace ya se las han comunicado a los pilotos y a la batería de artillería, ¡así que manténganse lejos de la aldea! ¡Dentro de unos minutos se va a poner muy difícil allí!
+[FlakSuppress.Description]
+Según los informes de inteligencia, la aldea está bien protegida contra ataques aéreos por cañones antiaéreos autopropulsados enemigos. Por lo tanto, nuestro primer objetivo es localizarlos y neutralizarlos. Esto permitirá que nuestra aviación aparezca en el campo de batalla. Fueron estos cañones antiaéreos autopropulsados los que nos impidieron obtener fotografías aéreas detalladas del terreno, y parece que los mapas de que disponemos carecen de precisión. Nuestro aeródromo más cercano queda justo al alcance de nuestros bombarderos, de modo que la detección de las coordenadas de la aldea mediante la marcación de la señal de radio de su tanque beneficiará no solo a nuestros pilotos, sino también a nuestra batería de artillería.
+[DealWithReinforcement.Objectives]
+Detenga los refuerzos
+[DealWithReinforcement.Success]
+¡Los refuerzos enemigos que se aproximaban han sido derrotados!
+[DealWithReinforcement.Description]
+Las fuerzas de reserva del enemigo, aunque poco numerosas, deben tenerse en cuenta. Destruya los refuerzos enemigos que se aproximan a la aldea.
+[StringTable.SupportsAreIncoming]
+Los preparativos del ataque de artillería han concluido, las coordenadas exactas han sido comunicadas a los pilotos y sus aviones están en camino. ¡Abandonen de inmediato la zona de ataque!
+[StringTable.InfantryInAction]
+¡Nuestra infantería atacará justo después de los ataques de artillería y aéreos! ¡Denle el apoyo que necesitan!
+[StringTable.IntroSubtitle1]
+Capitán Jackson: ¿Y bien, novatos? Vamos con su primera batalla...
+[StringTable.IntroSubtitle2]
+... ¡no se supone que deban andar por ahí con esa cara de pocos amigos!
+[StringTable.IntroSubtitle3]
+- - ¡Eh, Mitchell, quítate esa sonrisa de la cara!
+[StringTable.IntroSubtitle4]
+- - ¡Después de la batalla te voy a enseñar lo que es la disciplina y la subordinación!
+[StringTable.IntroSubtitle5]
+El comandante de tanque Alan Mitchell a su dotación: 
+[StringTable.IntroSubtitle6]
+- - ¡Chicos, si nosotros somos novatos, Jackson es un pipiolo!
+[StringTable.IntroSubtitle7]
+- - Mientras nosotros nos dejábamos el alma en el Camp Beauregard...
+[StringTable.IntroSubtitle8]
+...¡él era crupier en un casino, así que sabe de guerra menos que nosotros!
+[StringTable.IntroSubtitle9]
+(tras reírse un buen rato) ¿Cómo sabes eso, Alan?
+[StringTable.IntroSubtitle10]
+- - ¡Mi futuro suegro sí que sabe cosas útiles!
+[StringTable.StuartTankLost]
+¡El tanque de Alan Mitchell ha sido puesto fuera de combate!
+[StringTable.StuartCrewLost]
+¡La dotación del tanque de Alan Mitchell ha sufrido bajas!
+[StringTable.WinSubtitle1]
+Alan Mitchell: ¡Sí, chicos, fue duro!
+[StringTable.WinSubtitle2]
+Conductor del tanque: Voy a aparcar justo junto a ese camión.
+[StringTable.WinSubtitle3]
+Alan Mitchell: Vale, y sobre lo de que Jackson era crupier...
+ [StringTable.WinSubtitle4]
+...mejor nos callamos la boca. ¿Entendido?
+[StringTable.WinSubtitle5]
+Jackson a sus ayudantes: Ahora seguro que nos ascienden, ...
+[StringTable.WinSubtitle6]
+...tanto de grado como de puesto, y Mitchell será sargento...
+[StringTable.WinSubtitle7]
+...¡para siempre!
+[StringTable.WinSubtitle8]
+Alan Mitchell: ¡Permiso para informar, señor! (informa sobre la batalla)
+[StringTable.FailSubtitle1]
+Teniente Hans Neumann: ¡Rudolf, ve a revisar el tanque!
+[StringTable.FailSubtitle2]
+Oberschütze Rudolf Hagen: ¡Jawohl! ...
+[StringTable.FailSubtitle3]
+Sí, qué escena más infernal... Este fiambre de aquí sujeta una tablilla.
+[StringTable.FailSubtitle4]
+Teniente Neumann: ¡Dámela! Veamos...
+[StringTable.FailSubtitle5]
+Vaya, la foto de una chica, unas cartas, un tomo de Shakespeare...
+[StringTable.FailSubtitle6]
+...¡pero ni mapas ni otros documentos! ¡Los destruyó al morir!
+[StringTable.FailSubtitle7]
+Oberschütze Rudolf Hagen: Esta señorita Nelly Smith es un bombón...
+[StringTable.FailSubtitle8]
+...mejor me memorizo la dirección. ¡Cuando conquistemos América tendré con quién divertirme!
+[StringTable.FailSubtitle9]
+El teniente, enrollando la carta: ¡Hagen, cállate! Jamás serás capaz de amar y morir...
+[StringTable.FailSubtitle10]
+...¡como lo hizo este Mitchell!
+[StringTable.MitchellIsKilled]
+¡Alan Mitchell ha muerto!
+[StringTable.ReturnInTank]
+Envíe de vuelta al tanque a los tripulantes desmontados para completar la misión.

@@ -1,0 +1,240 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Attaccate le posizioni nemiche segnate sulla mappa. Distruggete le loro difese e mettete in sicurezza le posizioni.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Le posizioni nemiche in questa valle sorvegliano il principale corridoio di trasporto che collega le loro forze orientali e occidentali. Dovete conquistare le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Le vostre perdite sono troppo pesanti. Missione fallita.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Attaccate le posizioni nemiche segnate sulla mappa. Distruggete le loro difese e mettete in sicurezza le posizioni. Respingete eventuali contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Le vostre perdite sono troppo pesanti. Missione fallita.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Le posizioni nemiche in questa valle sorvegliano il principale corridoio di trasporto che collega le loro forze orientali e occidentali. Dovete conquistare le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e sostenete le truppe in difesa con le vostre forze d'attacco lanciando frequenti contrattacchi.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Il nostro distaccamento avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Dobbiamo mantenere le posizioni conquistate e impedire al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici entro il tempo stabilito dal quartier generale.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Il nostro distaccamento avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Dobbiamo mantenere le posizioni conquistate e impedire al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Il nostro distaccamento avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Dobbiamo mantenere le posizioni conquistate e impedire al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+L'artiglieria è disponibile e attende ordini.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+La forza di carri armati di riserva è disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+La forza di carri armati di riserva è disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Attaccate le posizioni nemiche segnate sulla mappa. Distruggete le loro difese e mettete in sicurezza le posizioni.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Le posizioni nemiche in questa valle sorvegliano il principale corridoio di trasporto che collega le loro forze orientali e occidentali. Dovete conquistare le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Le vostre perdite sono troppo pesanti. Missione fallita.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Attaccate le posizioni nemiche segnate sulla mappa. Distruggete le loro difese e mettete in sicurezza le posizioni. Respingete eventuali contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Le vostre perdite sono troppo pesanti. Missione fallita.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Le posizioni nemiche in questa valle sorvegliano il principale corridoio di trasporto che collega le loro forze orientali e occidentali. Dovete conquistare le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e sostenete le truppe in difesa con le vostre forze d'attacco lanciando frequenti contrattacchi.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Il nostro distaccamento avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Dobbiamo mantenere le posizioni conquistate e impedire al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici entro il tempo stabilito dal quartier generale.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Il nostro distaccamento avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Dobbiamo mantenere le posizioni conquistate e impedire al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Il nostro distaccamento avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Dobbiamo mantenere le posizioni conquistate e impedire al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+L'artiglieria è disponibile e attende ordini.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_support]
+La forza di carri armati di riserva è disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_support]
+La forza di carri armati di riserva è disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[Reinforcement.Group_tanks]
+Gruppo corazzato di riserva
+
+[Reinforcement.Group_inf]
+Fanteria
+

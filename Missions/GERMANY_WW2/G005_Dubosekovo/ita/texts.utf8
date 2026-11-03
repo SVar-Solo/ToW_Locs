@@ -1,0 +1,48 @@
+﻿[Mission1.Objectives]
+Prendi la stazione ferroviaria di Dubosekovo.
+[Mission1.Description]
+Secondo le ricognizioni aeree, i russi hanno fatto un ottimo lavoro nel fortificare le loro posizioni nella zona della stazione di Dubosekovo. Fino ad ora i russi si sono difesi meglio di quanto ci si aspettava e le nostre perdite sono state alte. In ogni caso l'Alto Comando Tedesco ritiene che sarai in grado di catturare questo obiettivo di importanza strategica.
+
+I tuoi ordini sono:
+-	Inizia l'offensiva verso la stazione di Dubosekovo
+-	Elimina le truppe russe che si sono attestate nelle posizioni difensive nell'area.
+[Mission1.Success]
+La stazione ferroviaria è stata presa. Dopo aver riparato i binari, potremo trasportare i rifornimenti dalle retrovie!
+[Mission1.Failed]
+Il tuo attacco è fallito! Non sei riuscito a prendere la stazione ferroviaria!
+[Mission2.Objectives]
+Mantieni le posizioni catturate alla stazione di Dubosekovo di fronte al contrattacco russo..
+[Mission2.Description]
+Un gruppo di truppe russe sta avanzando nella direzione della stazione ferroviaria di Dubosekovo che abbiamo appena preso. Difendila a tutti i costi.
+I tuoi ordini sono:
+
+-	Respingi l'attacco delle truppe russe.
+-	Impedisci alle truppe russe di catturate la stazione.
+[Mission2.Success]
+L'attacco nemico è stato respinto. Ben fatto! 
+[Mission2.Failed]
+Hai fallito! Purtroppo i russi hanno ripreso la stazione ferroviaria!
+[Submission1.Objectives]
+Bombarda le posizioni nemiche.
+[Submission1.Description]
+Prima di lanciare un'offensiva verso la stazione ferroviaria nemica, bombarda pesantemente le posizioni nemiche.
+
+I tuoi ordini sono:
+-	Bombarda le posizioni nemiche.
+[Submission1.Success]
+Il bombardamento ha avuto successo. Non c'è alcun dubbio che i russi fuggiranno all'arrivo dei nostri carri armati!
+[Submission1.Failed]
+Il tuo bombardamento è stato inefficace!
+[Submission2.Objectives]
+Chiama il supporto aereo.
+[Submission2.Description]
+Per distruggere l'artiglieria e la fanteria del nemico, hai bisogno di colpire dall'alto e chiamare il supporto aereo.
+
+I tuoi ordini sono:
+-	Chiama il supporto aereo disponibile.
+[Submission2.Success]
+I nostri aerei hanno iniziato l'attacco sulle posizioni nemiche.
+[Submission2.Failed]
+Le nostre unità aeree non sono state capaci di fornirti un adeguato supporto!
+[StringTable.Reserv]
+I rinforzi sono arrivati in tuo aiuto.

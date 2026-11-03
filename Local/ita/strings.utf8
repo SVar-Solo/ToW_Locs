@@ -1,0 +1,1344 @@
+﻿
+ac_free	PUNTI DISPONIBILI:
+ac_total	PUNTI TOTALI:
+Advanced_minimap_view_sector	Proiezione estesa della telecamera sulla minimappa
+AIAmmoType.AP	AP
+AIAmmoType.APBC	APBC
+AIAmmoType.APC	APC
+AIAmmoType.APCBC	APCBC
+AIAmmoType.APCR	APCR
+AIAmmoType.APDS	APDS
+AIAmmoType.APHE	APHE
+AIAmmoType.APHEBC	APHEBC
+AIAmmoType.API	API
+AIAmmoType.HE	HE
+AIAmmoType.HEAC	HEAC
+AIAmmoType.HEAT	HEAT
+AIAmmoType.HEI	HEI
+AIAmmoType.INC	INC
+AIAmmoType.SMOKE	Fumogeno
+AIAmmoType.SMOKE_GRN	Fumogeno
+AITypes.Country.GER	GERMANIA
+AITypes.Country.ITA	ITALIA
+AITypes.Country.RUS	URSS
+AITypes.Country.UK	REGNO UNITO
+AITypes.Country.USA	USA
+AITypes.Country.PRK	PRK
+AITypes.Country.FR	FRANCIA
+AITypes.Country.POL	POLONIA
+ArmyCompositionEx.AllTroops	TUTTE LE TRUPPE
+ArmyCompositionEx.Balance	BILANCIAMENTO
+ArmyCompositionEx.Buttons.Continue	Continua
+ArmyCompositionEx.Buttons.Tooltip.ByDefault	Ripristina predefiniti
+ArmyCompositionEx.Buttons.Tooltip.Clear	Sposta tutte le unità nell'elenco riserve
+ArmyCompositionEx.Buttons.Tooltip.ToDeployment	Sposta le unità selezionate nell'elenco dell'esercito
+ArmyCompositionEx.Buttons.Tooltip.ToReserves	Sposta le unità selezionate nell'elenco riserve
+ArmyCompositionEx.ByCost	COSTO
+ArmyCompositionEx.ByDefault	PREDEF.
+ArmyCompositionEx.ByName	NOME
+ArmyCompositionEx.ByType	TIPO
+ArmyCompositionEx.Clear	SVUOTA
+ArmyCompositionEx.Continue	CONTINUA
+ArmyCompositionEx.Deployment	SCHIERAMENTO
+ArmyCompositionEx.Load	CARICA
+ArmyCompositionEx.Reserves	RISERVE
+ArmyCompositionEx.Return	INDIETRO
+ArmyCompositionEx.Save	SALVA
+ArmyCompositionEx.SortBy	ORDINA PER
+ArmyCompositionEx.Title	ORDINE DI BATTAGLIA
+ARTILLERY	Artiglieria
+ATTACK_PLANE	Aerei d'attacco al suolo
+AuthorsEx.Title.Authors	CREDITI
+BATTLE_EXPERIENCE	ESPERIENZA DI BATTAGLIA:
+BATTLE_POINTS_FOR_MISSION	ADDESTRAMENTO:
+BOMBER_PLANE	Bombardieri
+BriefingIcons.Chistyakov	Tenente generale
+BriefingIcons.Eisenhower	Generale
+BriefingIcons.GERCorporal	Gefreiter
+BriefingIcons.Gerhard	Major
+BriefingIcons.GERMajor	Major
+BriefingIcons.Gernleyn	Maggior generale
+BriefingIcons.Heartman	Verner Hartmann
+BriefingIcons.Ivanov	Capitano
+BriefingIcons.Montgomery	Generale
+BriefingIcons.NonCommissionedOfficer	Unter-Offizier
+BriefingIcons.Private	Sergente
+BriefingIcons.PRKOfficer	Capitano Kim Don Djong
+BriefingIcons.PRKPrivate	Soldato Don Yule Ma
+BriefingIcons.Rommel	Generale Erwin Eugen Johannes Rommel
+BriefingIcons.UKMajor	Maggiore
+BriefingIcons.UKSergeant	Sergente
+BriefingIcons.USALieutenantColonel	Ten. Colonnello
+BriefingIcons.USAOfficer	Tenente
+BriefingIcons.USAPrivate	Soldato
+BriefingIcons.USASergeant	Sergente
+BriefingsPanelEx.Briefing	BRIEFING
+BriefingsPanelEx.PrimaryTask	Compito principale
+BriefingsPanelEx.SecondaryTasks	Compiti aggiuntivi
+Camera_Mode	MODALITÀ CAMERA
+Camera_Mode1	CAMERA LIBERA
+Camera_Mode2	AGGANCIA AL CENTRO
+Camera_Mode3	AGGANCIA AL CURSORE
+CampaignGenerator.AvailableBattleGroups	GRUPPI DI COMBATTIMENTO DISPONIBILI
+CampaignGenerator.AvailableMaps	MAPPE DISPONIBILI
+CampaignGenerator.AvailableSupportsAndReinforcements	SUPPORTI E RINFORZI DISPONIBILI
+CampaignGenerator.CampaignTurns	TURNI DELLA CAMPAGNA
+CampaignGenerator.EnemyCountry	NEMICO
+CampaignGenerator.Fuel	CARBURANTE
+CampaignGenerator.NeutralCountry	NEUTRALE
+CampaignGenerator.NoBonusObject	NESSUNO
+CampaignGenerator.PlayerCountry	GIOCATORE
+CampaignGenerator.Title	GENERATORE DI CAMPAGNE
+CampaignGenerator.ZoneAffinity	CONTROLLATA DA
+CampaignGenerator.ZoneBonus	OGGETTO BONUS
+CampaignGenerator.ZoneDescription	DESCRIZIONE DELL'AREA
+CampaignGenerator.ZoneLandscape	TERRENO
+CampaignGenerator.ZoneName	NOME DELL'AREA
+CampaignGenerator.Zones	AREE
+CampaignGenerator.ZoneType	TIPO DI AREA
+CANCEL_LOADING_MISSION	ANNULLARE IL CARICAMENTO DELLA MISSIONE?
+COMPLETED_BATTLES	OPERAZIONI:
+CONNECTING_PTS	CONNESSIONE...
+Countries.GER	GERMANIA
+Countries.ITA	ITALIA
+Countries.PRK	COREA DEL NORD
+Countries.RUS	URSS
+Countries.UK	REGNO UNITO
+Countries.USA	STATI UNITI
+Countries.FR	FRANCIA
+Countries.POL	POLONIA
+CREATE_PROFILE	CREA NUOVO PROFILO
+DamageMessages.Additional.Destroyed	Distrutto
+DamageMessages.Additional.Detonation	Detonazione catastrofica
+DamageMessages.Additional.Fire	Incendio
+DamageMessages.Additional.NoCriticalDamages	Nessun danno grave
+DamageMessages.Additional.Ricochet	Rimbalzo
+DamageMessages.Additional.ShellHasCollapsed	Proiettile frantumato
+DamageMessages.Additional.ShellNormalization	Proiettile normalizzato
+DamageMessages.Hit.Cabin	Colpo alla sovrastruttura
+DamageMessages.Hit.Cabin.Aft	Colpo alla sovrastruttura (posteriore)
+DamageMessages.Hit.Cabin.Crown	Colpo alla sovrastruttura (frontale)
+DamageMessages.Hit.Cabin.LeftSide	Colpo alla sovrastruttura (fianco sinistro)
+DamageMessages.Hit.Cabin.RightSide	Colpo alla sovrastruttura (fianco destro)
+DamageMessages.Hit.Cabin.Roof	Colpo alla sovrastruttura (tetto)
+DamageMessages.Hit.Hull	Colpo allo scafo
+DamageMessages.Hit.Hull.Aft	Colpo allo scafo (posteriore)
+DamageMessages.Hit.Hull.Crown	Colpo allo scafo (frontale)
+DamageMessages.Hit.Hull.LeftSide	Colpo allo scafo (fianco sinistro)
+DamageMessages.Hit.Hull.RightSide	Colpo allo scafo (fianco destro)
+DamageMessages.Hit.Hull.Roof	Colpo allo scafo (tetto)
+DamageMessages.Hit.Tower	Colpo alla torretta
+DamageMessages.Hit.Tower.Aft	Colpo alla torretta (posteriore)
+DamageMessages.Hit.Tower.Crown	Colpo alla torretta (frontale)
+DamageMessages.Hit.Tower.LeftSide	Colpo alla torretta (fianco sinistro)
+DamageMessages.Hit.Tower.RightSide	Colpo alla torretta (fianco destro)
+DamageMessages.Hit.Tower.Roof	Colpo alla torretta (tetto)
+DamageMessages.Hit.Track	Colpo al cingolo
+DamageMessages.Hit.Weapon	Colpo al cannone
+DamageMessages.Hit.WeaponMask	Colpo al mantelletto
+DamageMessages.Hit.Wheel	Colpo alla ruota
+DamageMessages.Mode.All	Info danni: completa
+DamageMessages.Mode.Hits	Info danni: colpi
+DamageMessages.Mode.None	Info danni: disattivata
+DamageMessages.Mode.Penetrations	Info danni: perforazioni
+DamageMessages.Mode.Ricochets	Info danni: rimbalzi
+DamageMessages.Mode.ShellCollapses	Info danni: proiettili frantumati
+DamageMessages.Perforation.Cabin	Perforazione della sovrastruttura
+DamageMessages.Perforation.Cabin.Aft	Perforazione della sovrastruttura (posteriore)
+DamageMessages.Perforation.Cabin.Crown	Perforazione della sovrastruttura (frontale)
+DamageMessages.Perforation.Cabin.LeftSide	Perforazione della sovrastruttura (fianco sinistro)
+DamageMessages.Perforation.Cabin.RightSide	Perforazione della sovrastruttura (fianco destro)
+DamageMessages.Perforation.Cabin.Roof	Perforazione della sovrastruttura (tetto)
+DamageMessages.Perforation.Hull	Perforazione dello scafo
+DamageMessages.Perforation.Hull.Aft	Perforazione dello scafo (posteriore)
+DamageMessages.Perforation.Hull.Crown	Perforazione dello scafo (frontale)
+DamageMessages.Perforation.Hull.LeftSide	Perforazione dello scafo (fianco sinistro)
+DamageMessages.Perforation.Hull.RightSide	Perforazione dello scafo (fianco destro)
+DamageMessages.Perforation.Hull.Roof	Perforazione dello scafo (tetto)
+DamageMessages.Perforation.Optics	Ottica danneggiata
+DamageMessages.Perforation.Tower	Perforazione della torretta
+DamageMessages.Perforation.Tower.Aft	Perforazione della torretta (posteriore)
+DamageMessages.Perforation.Tower.Crown	Perforazione della torretta (frontale)
+DamageMessages.Perforation.Tower.LeftSide	Perforazione della torretta (fianco sinistro)
+DamageMessages.Perforation.Tower.RightSide	Perforazione della torretta (fianco destro)
+DamageMessages.Perforation.Tower.Roof	Perforazione della torretta (tetto)
+DamageMessages.Perforation.Track	Cingolo danneggiato
+DamageMessages.Perforation.Weapon	Cannone principale danneggiato
+DamageMessages.Perforation.WeaponMask	Perforazione del mantelletto
+DamageMessages.Perforation.Wheel	Ruota danneggiata
+DamageMessages.UserUnits.BrokenTransmission	Trasmissione guasta
+DamageMessages.UserUnits.BrokenWeapon	Cannone principale guasto
+DamageMessages.UserUnits.CommanderWasKilled	Comandante caduto
+DamageMessages.UserUnits.CrewLosses	Perdite
+DamageMessages.UserUnits.CrewtIsLost	Equipaggio perduto
+DamageMessages.UserUnits.DestroyedEngine	Motore guasto
+DamageMessages.UserUnits.DetachmentIsLost	Squadra perduta
+DamageMessages.UserUnits.DetachmentLosses	Perdite
+DamageMessages.UserUnits.DriverWasKilled	Pilota caduto
+DamageMessages.UserUnits.GunnerWasKilled	Puntatore caduto
+DamageMessages.UserUnits.InnerArmorChipping	Scheggiatura interna della corazza
+DamageMessages.UserUnits.LoaderWasKilled	Servente caduto
+DamageMessages.UserUnits.MachineGunnerWasKilled	Mitragliere caduto
+DamageMessages.UserUnits.Petrified	Immobilizzato
+DamageMessages.UserUnits.TowerWasJammed	Torretta bloccata
+PanicMessages.ReasonEmpty			Panico
+PanicMessages.ReasonHit				Colpito
+PanicMessages.ReasonFlinch			Sotto il fuoco
+PanicMessages.ReasonWounds			Ferito
+PanicMessages.ReasonAlliesDeath		Morte di alleati
+PanicMessages.ReasonAlliesInPanic	Scarsa coesione
+PanicMessages.ReasonEnemyAdvantage	Superiorità nemica
+DELETE_PROFILE	ELIMINA PROFILO
+DELETE_THIS_RECORD	ELIMINARE QUESTO SALVATAGGIO?
+Disable_all	Disattiva audio
+DispositionMode.WaitingForClientsMessage	IN ATTESA DEI GIOCATORI
+DispositionPanel.DispositionPanelTitle	FASE DI SCHIERAMENTO
+DispositionPanel.FinishDispositionMoide	CONTINUA
+DLC.ActivationStatus.GeneralError	errore - guasto generico
+DLC.ActivationStatus.NoServerConnection	errore - impossibile connettersi al server di attivazione
+DLC.ActivationStatus.Pending	attivazione in corso
+DLC.ActivationStatus.Rejection	errore - attivazione non possibile per il numero di serie attuale del gioco
+DLC.ActivationStatus.Success	attivazione riuscita
+DLC.ActivationStatus.WrongSerialNumber	errore - numero di serie non valido
+DLCActivationEx.ActivateDLCSerial	ATTIVA
+DLCActivationEx.ActivationStatus	Stato dell'attivazione
+DLCActivationEx.EnterSerialNumber	Numero di serie del DLC:
+DropCountPanel.Cancel	ANNULLA
+DropCountPanel.OK	OK
+DropCountPanel.Title	quantità
+EAX	Attiva EAX
+EncyclopaediaEx.Title.Encyclopaedia	ENCICLOPEDIA
+END_MISSION	TERMINARE LA BATTAGLIA?
+EscapeMenuEx.Continue	CONTINUA
+EscapeMenuEx.ContinueTooltip	Continua la partita
+EscapeMenuEx.Diary	DIARIO
+EscapeMenuEx.DiaryTooltip	Apri il diario
+EscapeMenuEx.EndMission	TERMINA MISSIONE
+EscapeMenuEx.EndMissionTooltip	Termina la missione
+EscapeMenuEx.LoadGame	CARICA PARTITA
+EscapeMenuEx.LoadGameTooltip	Carica una partita salvata
+EscapeMenuEx.Options	OPZIONI
+EscapeMenuEx.OptionsTooltip	Opzioni
+EscapeMenuEx.Restart	RICOMINCIA
+EscapeMenuEx.RestartTooltip	Ricomincia la missione
+EscapeMenuEx.Retreat	RITIRATA
+EscapeMenuEx.SaveGame	SALVA PARTITA
+EscapeMenuEx.SaveGameTooltip	Salva la partita
+EscapeMenuEx.WinMission	VINCI MISSIONE
+EscapeMenuEx.WinMissionTooltip	Vinci la missione
+FIGHTER_PLANE	Caccia
+FireHint.OutOfRange	Fuori dalla gittata
+FireHint.OutOfHorAngles Fuori dal settore di tiro orizzontale
+FireHint.OutOfMaxAngleDown Fuori dal settore di tiro verticale (basso)
+FireHint.OutOfMaxAngleUp	Fuori dal settore di tiro verticale (alto)
+FireHint.ObstacleOnTrajectory	Ostacolo sulla linea di tiro
+FireHint.NoAmmo	L'arma non è carica
+FrontEnd.Buttons.Cancel	ANNULLA
+FrontEnd.Buttons.Continue	CONTINUA
+FrontEnd.Buttons.MainMenu	MENU PRINCIPALE
+FrontEndBase.Localization.Alliance	ALLEANZA
+FrontEndBase.Localization.Army	ESERCITO
+FrontEndBase.Localization.AutoSave	- SALVATAGGIO AUTOMATICO -
+FrontEndBase.Localization.AutoSave.Map	- SALV. AUTOMATICO (mappa) -
+FrontEndBase.Localization.AutoSave.Skills	- SALV. AUTOMATICO (abilità) -
+FrontEndBase.Localization.Battle	BATTAGLIA
+FrontEndBase.Localization.Battles	BATTAGLIE
+FrontEndBase.Localization.Campaigns	CAMPAGNE
+FrontEndBase.Localization.CampaignsWWII		Theatre of War
+FrontEndBase.Localization.CampaignsAfrica	Africa 1943. Centauro
+FrontEndBase.Localization.CampaignsKursk	Kursk 1943. Caen
+FrontEndBase.Localization.CampaignsKorea	Corea 1950
+FrontEndBase.Localization.Country	NAZIONE
+FrontEndBase.Localization.CountryFilter.GER	Mostra / nascondi unità tedesche
+FrontEndBase.Localization.CountryFilter.ITA	Mostra / nascondi unità italiane
+FrontEndBase.Localization.CountryFilter.PRK	Mostra / nascondi unità coreane
+FrontEndBase.Localization.CountryFilter.RUS	Mostra / nascondi unità russe
+FrontEndBase.Localization.CountryFilter.UK	Mostra / nascondi unità britanniche
+FrontEndBase.Localization.CountryFilter.USA	Mostra / nascondi unità americane
+FrontEndBase.Localization.CountryFilter.POL	Mostra / nascondi unità polacche
+FrontEndBase.Localization.CountryFilter.FR	Mostra / nascondi unità francesi
+FrontEndBase.Localization.Create	CREA
+FrontEndBase.Localization.DateTime	DATA \ ORA
+FrontEndBase.Localization.DateTime.Date	GIORNO
+FrontEndBase.Localization.DateTime.Month	MESE
+FrontEndBase.Localization.DateTime.Year	ANNO
+FrontEndBase.Localization.Defeat	SCONFITTA
+FrontEndBase.Localization.Epilogue	Epilogo
+FrontEndBase.Localization.Experience	ESP
+FrontEndBase.Localization.Groups	TRUPPE
+FrontEndBase.Localization.Load	CARICA
+FrontEndBase.Localization.NewSave NUOVO SALVATAGGIO
+FrontEndBase.Localization.Months.Short.April	APR
+FrontEndBase.Localization.Months.Short.August	AGO
+FrontEndBase.Localization.Months.Short.December	DIC
+FrontEndBase.Localization.Months.Short.February	FEB
+FrontEndBase.Localization.Months.Short.January	GEN
+FrontEndBase.Localization.Months.Short.July	LUG
+FrontEndBase.Localization.Months.Short.June	GIU
+FrontEndBase.Localization.Months.Short.March	MAR
+FrontEndBase.Localization.Months.Short.May	MAG
+FrontEndBase.Localization.Months.Short.November	NOV
+FrontEndBase.Localization.Months.Short.October	OTT
+FrontEndBase.Localization.Months.Short.September	SET
+FrontEndBase.Localization.MyArmy	IL MIO ESERCITO
+FrontEndBase.Localization.Name	NOME
+FrontEndBase.Localization.Owner	GRUPPO
+FrontEndBase.Localization.Player	GIOCATORE
+FrontEndBase.Localization.Players	GIOCATORI
+FrontEndBase.Localization.Points	PUNTI
+FrontEndBase.Localization.QuickSave	- SALVATAGGIO RAPIDO -
+FrontEndBase.Localization.Rank	GRADO
+FrontEndBase.Localization.Reinforcements	RINFORZI
+FrontEndBase.Localization.Remove	RIMUOVI
+FrontEndBase.Localization.RemoveAll	RIMUOVI TUTTO
+FrontEndBase.Localization.Result	RISULTATO
+FrontEndBase.Localization.Retreat	RITIRATA
+FrontEndBase.Localization.Saves	SALVATAGGI
+FrontEndBase.Localization.Staff	STATO MAGGIORE
+FrontEndBase.Localization.StartBattle	INIZIA BATTAGLIA
+FrontEndBase.Localization.Status	STATO
+FrontEndBase.Localization.Task	COMPITO
+FrontEndBase.Localization.Title	TITOLO
+FrontEndBase.Localization.Tutorial	TUTORIAL
+FrontEndBase.Localization.Type	TIPO
+FrontEndBase.Localization.UserCampaigns	CAMPAGNE UTENTE
+FrontEndBase.Localization.Victory	VITTORIA
+FrontEndBase.Localization.Reinforcement	Rinforzo
+GameSettings_CheckCameraWheelInvert	INVERTI ROTELLA DEL MOUSE
+GameSettings_MouseButtonsInvert	INVERTI TASTI DEL MOUSE (SINISTRO \ DESTRO)
+GameSettings_ShowTooltip	MOSTRA SUGGERIMENTI
+GameSettings_TooltipDelay	RITARDO SUGGERIMENTI (ms)
+GlobalData.PressRightMouseButtonMessage	Premi il tasto destro del mouse per modificare la selezione
+Grenades	Granate
+HISTORICAL_UNITS_CHANGE_NORIFICATION	Questa opzione verrà applicata\nsolo all'avvio di una nuova campagna
+HumanCharacteristics.APGrenades	granate AC
+HumanCharacteristics.Awards	decorazioni
+HumanCharacteristics.HEGrenades	granate a frammentazione
+HumanCharacteristics.Job	incarico
+HumanCharacteristics.Rank	grado
+HumanCharacteristics.SMGrenades	granate fumogene
+HumanCharacteristics.State	condizione
+HumanCharacteristics.Weapon	arma
+HumanCharacteristics.Morale	morale
+HumanCharacteristics.Grenades granate
+HumanCharacteristics.AP	AC
+HumanCharacteristics.HE	FR
+HumanCharacteristics.SM	FUM
+
+HumanCharacteristics.APGrenades.ToolTip Numero di granate anticarro e mine
+HumanCharacteristics.HEGrenades.ToolTip Numero di granate e mine antiuomo
+HumanCharacteristics.Job.ToolTip Posizione
+HumanCharacteristics.Rank.ToolTip Grado
+HumanCharacteristics.SMGrenades.ToolTip Numero di granate fumogene
+HumanCharacteristics.State.ToolTip Azione in corso
+HumanCharacteristics.Weapon.ToolTip Tipo di arma impugnata
+
+HumanCharacteristics.Morale.ToolTip.Level Spirito combattivo
+HumanCharacteristics.Morale.ToolTip.Hit Colpito
+HumanCharacteristics.Morale.ToolTip.Flinch Sotto il fuoco
+HumanCharacteristics.Morale.ToolTip.EnemiesDeath Nemico eliminato
+HumanCharacteristics.Morale.ToolTip.AlliesDeath Morte di alleati
+HumanCharacteristics.Morale.ToolTip.Leadership Comando
+HumanCharacteristics.Morale.ToolTip.InCrew Nell'equipaggio
+HumanCharacteristics.Morale.ToolTip.AlliesInPanic Alleati in preda al panico
+HumanCharacteristics.Morale.ToolTip.AlliesPower Alleati vicini
+HumanCharacteristics.Morale.ToolTip.Danger Livello di pericolo
+HumanCharacteristics.Morale.ToolTip.Wounds Ferite
+HumanDataWindow.Skills.Accuracy	tiro
+HumanDataWindow.Skills.Driving	guida
+HumanDataWindow.Skills.Experience	esperienza
+HumanDataWindow.Skills.Experience.Desc	esperienza del soldato
+HumanDataWindow.Skills.Gunner	puntamento
+HumanDataWindow.Skills.Scouting	ricognizione
+HumanDataWindow.Skills.Title	abilità
+HumanInventory.Backpack	zaino
+HumanInventory.Buttons.ClosePanel	CHIUDI
+HumanInventory.Buttons.PickAllItems	Raccogli tutto
+HumanInventory.Buttons.PickBestItems	Raccogli il meglio
+HumanInventory.Inventory	inventario
+IconListBoxItem_emptyAmmoName	MUNIZIONI
+IconListBoxItem_emptyWpnName	ARMA
+InetServer.AccessDenied	Accesso negato
+InetServer.ConnectGameNotRegistered	Il gioco non è registrato sul server di ricerca
+InetServer.ConnectionLost	Connessione al server di ricerca persa
+InetServer.ConnectIServerOverloaded	Server di ricerca sovraccarico
+InetServer.ConnectIServerUnavailable	Sistema del server di ricerca non disponibile
+InetServer.ConnectPasswordRestricted	Password non consentita sul server di ricerca
+InetServer.ConnectServerNameAlreadyExists	Questo nome è già in uso
+InetServer.JoinServerUnavailable	Il server di gioco non è più disponibile
+InetServer.UnknownError	Errore sconosciuto nel sistema dei server di ricerca
+Infantry_Group	Gruppo di fanteria
+Infantry_Group_Crew	Equipaggio di
+Infantry_Group_Passengers	Passeggeri di
+ItemsInfoWindow.Ammos	Munizioni
+ItemsInfoWindow.Ammunition	Equipaggiamento
+ItemsInfoWindow.Weapons	Armi
+JET_MORTAR_SUPPORT	Artiglieria a razzi
+Job.Commander	Comandante
+Job.Commander_Engineer	Comandante									   
+Job.Driver	Pilota
+Job.Engineer	Genieri
+Job.Infantry	Fante
+Job.Loader	Servente
+Job.MachineGunner	Mitragliere
+Job.Passenger	Passeggero
+Job.Passenger10	Passeggero
+Job.Passenger11	Passeggero
+Job.Passenger12	Passeggero
+Job.Passenger2	Passeggero
+Job.Passenger3	Passeggero
+Job.Passenger4	Passeggero
+Job.Passenger5	Passeggero
+Job.Passenger6	Passeggero
+Job.Passenger7	Passeggero
+Job.Passenger8	Passeggero
+Job.Passenger9	Passeggero
+Job.Recon	Esploratore
+Job.Shooter	Puntatore
+Job.Sniper	Cecchino
+LandscapeTypeEnum.MARSHES_AND_MEADOWS	PALUDI E PRATI
+LandscapeTypeEnum.MOUNTAINS	MONTAGNE
+LandscapeTypeEnum.RIVERS_AND_CANALS	FIUMI E CANALI
+LandscapeTypeEnum.TOWNS_AND_VILLAGES	CITTÀ E VILLAGGI
+LandscapeTypeEnum.VALLEYS	VALLI
+LandscapeTypeEnum.WOODS	BOSCHI
+LoadingEx.Cancel	ANNULLA
+LoadingEx.CancelTooltip	Interrompi il caricamento della missione
+LOAD_COMPLETE	Partita caricata
+LocalNetMenu.NET_PASSWORD	INSERISCI LA PASSWORD
+MainMenuButtonPanel.MainMenuTitle	MENU
+MainMenuEx.Authors	CREDITI
+MainMenuEx.Battles	BATTAGLIE
+MainMenuEx.Campaigns	CAMPAGNE
+MainMenuEx.DesignerMode	EDITOR
+MainMenuEx.DLCActivation	ATTIVAZIONE DLC
+MainMenuEx.Encyclopedia	ENCICLOPEDIA
+MainMenuEx.Exit	ESCI
+MainMenuEx.GameMode	GIOCA
+MainMenuEx.Multiplayer	MULTIGIOCATORE
+MainMenuEx.PlayIntro	VEDI INTRO
+MainMenuEx.PlayIntroTooltip	Riproduci l'intro
+MainMenuEx.Settings	OPZIONI
+MainMenuEx.TemplateCampaign	MODELLO DI CAMPAGNA
+MainMenuEx.TutorialMode	TUTORIAL
+Master_volume	VOLUME GENERALE
+MessageBoxEx.No	NO
+MessageBoxEx.Yes	SÌ
+MESSAGE_RESOLUTION_CHANGED	La risoluzione dello schermo è cambiata. Applicare le modifiche?
+Minimap_btn_Quest_Tooltip	Briefing
+MissionDiaryEx.Buttons.ArmyComposition	ORDINE DI BATTAGLIA
+MissionDiaryEx.Buttons.StartBattle	INIZIA BATTAGLIA
+MissionDiaryEx.Difficulty.ExperiencedFighter	REGOLARE
+MissionDiaryEx.Difficulty.Recruit	RECLUTA
+MissionDiaryEx.Difficulty.Veteran	VETERANO
+MissionDiaryEx.DifficultyLevel	DIFFICOLTÀ
+MissionDiaryEx.Morale	MORALE
+MissionDiaryEx.Title.Diary	DIARIO
+MissionDiaryEx.Title.MissionDescription	DESCRIZIONE DELLA MISSIONE
+MissionEnd.DISCONNECT_FROM_SERVER	DISCONNETTERSI DAL SERVER?
+MissionEndEx.Enemy	NEMICO
+MissionEscape.DISCONNECT_FROM_SERVER	DISCONNETTERSI DAL SERVER?
+MissionEscape.DROP_ALL_CLIENTS_AND_END_MISSION	DISCONNETTERE TUTTI I CLIENT E TERMINARE LA PARTITA?
+MissionGenerator.BattleSize	Dimensione del campo di battaglia
+MissionGenerator.BattleSize.Large	Grande (1600 x 1600)
+MissionGenerator.BattleSize.Medium	Media (1200 x 1200)
+MissionGenerator.BattleSize.Small	Piccola (800 x 800)
+MissionGenerator.BattleType	Tipo di battaglia
+MissionGenerator.BattleType.AIStorm	Scontro d'incontro
+MissionGenerator.BattleType.Attack	Attacco
+MissionGenerator.BattleType.Defend	Difesa
+MissionGenerator.BattleType.Siege	Difesa a tempo
+MissionGenerator.BattleType.Storm	Assalto
+MissionGenerator.Campaign	CAMPAGNA
+MissionGenerator.CampaignDescription	DESCRIZIONE DELLA CAMPAGNA
+MissionGenerator.CampaignName	NOME DELLA CAMPAGNA
+MissionGenerator.Computer	COMPUTER
+MissionGenerator.Country	Nazione
+MissionGenerator.DefaultCampaignDescription	Descrizione della nuova campagna
+MissionGenerator.DefaultCampaignName	Nuova campagna
+MissionGenerator.DefaultMissionDescription	Descrizione della nuova missione
+MissionGenerator.DefaultMissionName	Nuova missione
+MissionGenerator.LaunchMission	AVVIA
+MissionGenerator.Map	Mappa
+MissionGenerator.Mission.Description	Descrizione della missione
+MissionGenerator.Mission.Name	Titolo della missione
+MissionGenerator.NewCampaign	NUOVA CAMPAGNA
+MissionGenerator.NewCampaignGeneration	NUOVA CAMPAGNA
+MissionGenerator.Random	Casuale
+MissionGenerator.SaveMission	SALVA
+MissionGenerator.SingleMissions	MISSIONI SINGOLE
+MissionGenerator.Support	Supporto
+MissionGenerator.Support.Artillery	Artiglieria
+MissionGenerator.Support.Aviation	Supporto aereo
+MissionGenerator.Support.Mixed	Misto
+MissionGenerator.Support.None	Nessuno
+MissionGenerator.Title	GENERATORE DI MISSIONI
+MissionGenerator.Troops.Experience	Esperienza
+MissionGenerator.Troops.Experience.Elite	Elite
+MissionGenerator.Troops.Experience.Novice	Reclute
+MissionGenerator.Troops.Experience.Regular	Regolari
+MissionGenerator.Troops.Experience.Veterans	Veterani
+MissionGenerator.Troops.Type	Tipo di reggimento
+MissionGenerator.Troops.Type.Artillery	Battaglione d'artiglieria
+MissionGenerator.Troops.Type.Cars	Divisione motorizzata
+MissionGenerator.Troops.Type.Infantry	Divisione di fanteria
+MissionGenerator.Troops.Type.Tanks	Battaglione carri
+MissionGenerator.Weather	Meteo
+MissionRec.UNKNOWN_MIS_DESCRIPTION	Nuova missione
+MissionsListEx.ConfirmCampaignRemoval	Rimuovere davvero la campagna selezionata?
+MissionsListEx.ConfirmMissionRemoval	Rimuovere davvero la missione selezionata?
+MissionsListEx.MissingStoresMessage	Per usare la missione selezionata, acquista uno dei seguenti\nelementi:
+MissionStatistics.AbsoluteDefeat	SCONFITTA TOTALE
+MissionStatistics.AbsoluteVictory	VITTORIA SCHIACCIANTE
+MissionStatistics.Defeat	SCONFITTA
+MissionStatistics.Tie	VITTORIA DI PIRRO
+MissionStatistics.TotalDefeat	SCONFITTA DISASTROSA
+MissionStatistics.TotalVictory	VITTORIA INCONDIZIONATA
+MissionStatistics.Victory	VITTORIA
+MISSION_RETREAT	Sei sicuro di voler ordinare la ritirata?
+MISSION_VICTORY	Hai vinto!
+MORTAR_SUPPORT	Supporto di mortai
+MultiplayerChat.ForAll	[ A tutti ]
+MultiplayerChat.ForAlliance	[ Agli alleati ]
+MultiplayerCoordinationEx.ArmyCompositionAbortOnMapChange	Attenzione!\n\nIl server ha cambiato il campo di battaglia,\nil che ha modificato le tue truppe.
+MultiplayerCoordinationEx.ArmyTemplate	MODELLO DI ESERCITI
+MultiplayerCoordinationEx.AttackDefend	ATTACCO-DIFESA
+MultiplayerCoordinationEx.Battlefield	CAMPO DI BATTAGLIA
+MultiplayerCoordinationEx.CaptureTheFlag	CATTURA LA BANDIERA
+MultiplayerCoordinationEx.Chat	CHAT
+MultiplayerCoordinationEx.CheaterDetectedMessage.Part1	Attenzione!\n\nIl giocatore '
+MultiplayerCoordinationEx.CheaterDetectedMessage.Part2	'\n\n è stato disconnesso per aver barato!
+MultiplayerCoordinationEx.ClientConnected	Un client si è connesso:
+MultiplayerCoordinationEx.ClientDisconnected	Un client si è disconnesso:
+MultiplayerCoordinationEx.CommandPoints	PUNTI COMANDO
+MultiplayerCoordinationEx.FirstAlliance	SQUADRA A
+MultiplayerCoordinationEx.ForAll	TUTTI
+MultiplayerCoordinationEx.ForAlliance	ALLEATI
+MultiplayerCoordinationEx.GameType	TIPO DI PARTITA
+MultiplayerCoordinationEx.Missions	MISSIONI
+MultiplayerCoordinationEx.NegativePointsMessage	Il tuo punteggio è negativo: verrai reindirizzato alla\nschermata dell'ordine di battaglia, dove dovrai modificare lo schieramento.
+MultiplayerCoordinationEx.OnAllianceMembersChange	Attenzione!\n\nLa tua squadra alleata è cambiata: i punti comando\ndisponibili sono stati aggiornati e\nle tue truppe sono state modificate.
+MultiplayerCoordinationEx.PointsLeftMessage	Hai punti non utilizzati, che puoi spendere\nnella schermata dell'ordine di battaglia.
+MultiplayerCoordinationEx.Random	CAS
+MultiplayerCoordinationEx.Ready	PRONTO
+MultiplayerCoordinationEx.SecondAlliance	SQUADRA B
+MultiplayerCoordinationEx.Send	INVIA
+MultiplayerCoordinationEx.ServerPointsLeftMessage	Hai punti non utilizzati, che puoi spendere\nnella schermata dell'ordine di battaglia.\n\nVuoi continuare comunque?
+MultiplayerCoordinationEx.TeamPlay	GIOCO A SQUADRE
+MultiplayerCoordinationEx.TimeInMinutes	TEMPO (minuti)
+MultiplayerEx.ConnectTo	CONNETTITI
+MultiplayerEx.CreateServer	AVVIA SERVER
+MultiplayerEx.DirectIP	IP DIRETTO
+MultiplayerEx.Internet	INTERNET
+MultiplayerEx.IServerErrorOnServerCreationMessage	\n\nIl server di gioco sarà disponibile solo nella rete locale.
+MultiplayerEx.LAN	LAN
+MultiplayerEx.MaxPlayers	NUMERO MAX DI GIOCATORI
+MultiplayerEx.MPGamesTable.Map	MAPPA
+MultiplayerEx.MPGamesTable.Ping	PING
+MultiplayerEx.MPGamesTable.Players	GIOCATORI
+MultiplayerEx.MPGamesTable.Server	SERVER
+MultiplayerEx.MPGamesTable.Version	VERSIONE
+MultiplayerEx.Password	PASSWORD
+MultiplayerEx.PasswordConfirmation	CONFERMA PASSWORD
+MultiplayerEx.PlayerName	NOME GIOCATORE
+MultiplayerEx.Port	PORTA
+MultiplayerEx.Reset	RESET
+MultiplayerEx.ServerIP	INDIRIZZO IP DEL SERVER
+MultiplayerEx.ServerName	NOME DEL SERVER
+MultiplayerPointsExchangeEx.Log.PointsSentByUser	punti inviati dal giocatore
+MultiplayerPointsExchangeEx.Log.PointsSentToUser	punti inviati al giocatore
+MultiplayerPointsExchangeEx.Title	Trasferimento al giocatore
+MultiplayerPointsExchangeEx.Points	Punti
+MultiplayerPointsExchangeEx.Units	Unità
+MultiplayerPointsExchangeEx.PointsTip	Trasferisci il numero di punti impostato al giocatore indicato
+MultiplayerPointsExchangeEx.UnitsTip	Trasferisci le unità selezionate al giocatore indicato
+Music_volume	VOLUME MUSICA
+need_cost	PUNTI NECESSARI:
+NETBOTNAME	COMPUTER
+NetErrorCodes.BAD_GAME_VERSION	Versione del server non corretta
+NetErrorCodes.BAD_HOST_NAME	Nome host non valido: {0}
+NetErrorCodes.BAD_PASSWORD	Password errata
+NetErrorCodes.CONNECTION_TOUT_NF	Timeout per errore di rete
+NetErrorCodes.CONNECTION_WITH_CLIENT_LOST	Connessione con il giocatore {0} persa
+NetErrorCodes.CONNECTION_WITH_SERVER_LOST	Connessione con il server {0} persa
+NetErrorCodes.CONNECT_TIMEOUT	Connessione non riuscita: timeout
+NetErrorCodes.DISCONNECTED_BY_SERVER	Sei stato disconnesso dal server
+NetErrorCodes.NO_SERVER	Nessun server
+NetErrorCodes.OK	OK
+NetErrorCodes.PLAYER_LEFT_THE_GAME	Il giocatore {0} ha lasciato la partita
+NetErrorCodes.PORT_IS_UNAVAILABLE	Host {0} o porta {1} non disponibile
+NetErrorCodes.SERVER_IS_FULL	Server al completo
+NetErrorCodes.SERVER_IS_PLAYING	Partita già iniziata
+NetErrorCodes.SERVER_NOT_CREATED	Server non creato
+NetErrorCodes.SOCKET_DISABLED	Socket di rete disattivato
+NetErrorCodes.SOCKET_FULL	Socket di rete pieno
+NetErrorCodes.SOCKS_FAILURE	Impossibile creare/connettere {0}:{1} tramite SOCKS5
+NetErrorCodes.UNKNOWN	SCONOSCIUTO
+NetErrorCodes.YOU_ARE_BLOCKED	Sei stato bloccato dal server
+NetMapsMenu.ALLIANCE_GROUP1	GRUPPO 1
+NetMapsMenu.ALLIANCE_GROUP2	GRUPPO 2
+NetMapsMenu.ALLIANCE_GROUP3	GRUPPO 3
+NetMapsMenu.ALLIANCE_GROUP4	GRUPPO 4
+NetMapsMenu.ALLIANCE_GROUP5	GRUPPO 5
+NetMapsMenu.ALLIANCE_GROUP6	GRUPPO 6
+NetMapsMenu.ALLIANCE_GROUP7	GRUPPO 7
+NetMapsMenu.ALLIANCE_GROUP8	GRUPPO 8
+NetMapsMenu.ALLIANCE_NONE	NESSUNO
+NetMapsMenu.ARMY_RANDOM	CASUALE
+NetMapsMenu.COLOR_BLUE	BLU
+NetMapsMenu.COLOR_BROWN	MARRONE
+NetMapsMenu.COLOR_CRIMSON	CREMISI
+NetMapsMenu.COLOR_GREEN	VERDE
+NetMapsMenu.COLOR_PURPLE	VIOLA
+NetMapsMenu.COLOR_RANDOM	CASUALE
+NetMapsMenu.COLOR_TURQUOISE	TURCHESE
+NetMapsMenu.COLOR_YELLOW	GIALLO
+NetMapsMenu.DISCONNECT_FROM_SERVER	DISCONNETTERSI DAL SERVER?
+NetMapsMenu.DROP_ALL_CLIENTS_AND_DISCONNECT	DISCONNETTERE TUTTI I CLIENT E DISCONNETTERSI?
+NetMapsMenu.PLAYER_CLOSED	CHIUSO
+NetMapsMenu.PLAYER_COMPUTER	COMPUTER
+NetMapsMenu.PLAYER_OPEN	APERTO
+NetMapsMenu.СOLOR_RED	ROSSO
+NetMissionSubtype.DM_DESTROY_HUMEN	DEATHMATCH: ELIMINA TUTTI I SOLDATI
+NetMissionSubtype.DM_DESTROY_VEHICLES	DEATHMATCH: DISTRUGGI TUTTI I VEICOLI
+NetMissionSubtype.UNKNOWN	SCONOSCIUTO
+NetUsersListBoxItem.CLOSED	CHIUSO
+NetUsersListBoxItem.OPEN	APERTO
+NET_PING_NA	N/D
+NET_PLAYER_NAME	INSERISCI IL NOME DEL GIOCATORE IN RETE
+NEW_PLAYER	NUOVO GIOCATORE
+NOT_LOCALIZED	NOT_LOCALIZED
+Object_volume	VOLUME EFFETTI
+OptionsCamera.KEYB_LINEAR_SPEED	MOVIMENTO DA TASTIERA
+OptionsCamera.KEYB_ROTATE_SPEED	ROTAZIONE DA TASTIERA
+OptionsCamera.MAX_HEIGHT	ALTEZZA MASSIMA DELLA CAMERA (in metri)
+OptionsCamera.MIN_HEIGHT	ALTEZZA MINIMA DELLA CAMERA (in metri)
+OptionsCamera.MOUSE_SPEED	MOVIMENTO E ROTAZIONE COL MOUSE
+OptionsCamera.MOUSE_WHEEL_SPEED	ZOOM AVANTI / INDIETRO COL MOUSE
+OptionsCamera.SCREEN_BORDER_SPEED	SENSIBILITÀ DELLO SCORRIMENTO
+OptionsEx.Camera.KeyboardMoveSens	VELOCITÀ MOVIMENTO (TASTIERA)
+OptionsEx.Camera.KeyboardRotateSens	VELOCITÀ ROTAZIONE (TASTIERA)
+OptionsEx.Camera.MaxHeight	ALTEZZA MAX CAMERA
+OptionsEx.Camera.MinHeight	ALTEZZA MIN CAMERA
+OptionsEx.Camera.Mode	MODALITÀ CAMERA
+OptionsEx.Camera.Mode.Free	LIBERA
+OptionsEx.Camera.Mode.RTS	RTS
+OptionsEx.Camera.MouseSens	VELOCITÀ MOVIMENTO E ROTAZIONE (MOUSE)
+OptionsEx.Camera.ScrollSpeed	VELOCITÀ DI SCORRIMENTO
+OptionsEx.Camera.ZoomSpeed	VELOCITÀ DELLO ZOOM
+OptionsEx.Controls.Command	COMANDO
+OptionsEx.Controls.HotKey1	TASTO 1
+OptionsEx.Controls.HotKey2	TASTO 2
+OptionsEx.Controls.Tab.Camera	CAMERA
+OptionsEx.Controls.Tab.Group	GRUPPI
+OptionsEx.Controls.Tab.Interface	INTERFACCIA
+OptionsEx.Controls.Tab.User	UTENTE
+OptionsEx.Controls.WaitKey	PREMI UN TASTO
+OptionsEx.Game.Autosave	SALVATAGGIO AUTOMATICO
+OptionsEx.Game.ClassicSelectionMode	SELEZIONE CLASSICA DELLE UNITÀ
+OptionsEx.Game.CommanderInfluence	MOSTRA INFLUENZA DEI COMANDANTI
+OptionsEx.Game.CompatibilityMode	MODALITÀ COMPATIBILITÀ
+OptionsEx.Game.EnableCameraShaking	TREMOLIO DELLA CAMERA
+OptionsEx.Game.IgnoreMissionFail	IGNORA MISSIONE FALLITA
+OptionsEx.Game.InvertMouse	INVERTI MOUSE
+OptionsEx.Game.InvertWheel	INVERTI ROTELLA DEL MOUSE
+OptionsEx.Game.ScrollSpeedMenu	VELOCITÀ DI SCORRIMENTO NEL MENU
+OptionsEx.Game.ShowCursorDistance	MOSTRA DISTANZA DEL CURSORE
+OptionsEx.Game.ShowEnemyType	MOSTRA TIPO DEL NEMICO
+OptionsEx.Game.ShowFrustroom	PROIEZIONE DETTAGLIATA SULLA MINIMAPPA
+OptionsEx.Game.ShowHumanBlood	MOSTRA SANGUE
+OptionsEx.Game.ShowIcons	MOSTRA ICONE
+OptionsEx.Game.ShowSectorOfFire	MOSTRA SETTORE DI TIRO
+OptionsEx.Game.ShowTarget	LINEA DI MIRA
+OptionsEx.Game.SmartPause	PAUSA INTELLIGENTE
+OptionsEx.Game.StrategicMode.BigBattleGroups	ICONE DETTAGLIATE DEI GRUPPI DI COMBATTIMENTO
+OptionsEx.Game.StrategicMode.EliteMode	MANTIENI IN MEMORIA LE TEXTURE DELLA MAPPA STRATEGICA
+OptionsEx.Game.StrategicMode.HistoricalUnits	SET DI UNITÀ STORICHE
+OptionsEx.Game.TooltipDelay	RITARDO SUGGERIMENTI
+OptionsEx.GlobalButtons.Apply	APPLICA
+OptionsEx.GlobalButtons.Restore	RIPRISTINA
+OptionsEx.Interface.DamageHits	MAX VETTORI DI COLPO PER UNITÀ
+OptionsEx.Interface.DamageRicochetes	MAX RIMBALZI PER UNITÀ
+OptionsEx.Interface.FontsScaling	SCALA DEI CARATTERI
+OptionsEx.Interface.InterfaceScaling	SCALA AUTOMATICA DELL'INTERFACCIA
+OptionsEx.Interface.MinCaliber	CALIBRO MINIMO DEI VETTORI DI COLPO
+OptionsEx.Interface.ShowSelectionIndicator	MOSTRA INDICATORE DI SELEZIONE
+OptionsEx.Interface.ShowTargetIndicator	MOSTRA INDICATORE DEL BERSAGLIO
+OptionsEx.Interface.ScalePercentIncr	INGRANDIMENTO INTERFACCIA 
+OptionsEx.RestoreDefaultsConfirmation	Ripristinare i valori predefiniti?
+OptionsEx.Sound.EAX	EAX
+OptionsEx.Sound.Effects	EFFETTI
+OptionsEx.Sound.Invert	INVERTI CANALI STEREO
+OptionsEx.Sound.Music	MUSICA
+OptionsEx.Sound.Mute	MUTO
+OptionsEx.Sound.Speech	VOCI
+OptionsEx.Sound.Volume	VOLUME
+OptionsEx.Tabs.Camera	CAMERA
+OptionsEx.Tabs.Controls	COMANDI
+OptionsEx.Tabs.Game	GIOCO
+OptionsEx.Tabs.Graphics	GRAFICA
+OptionsEx.Tabs.Interface	INTERFACCIA
+OptionsEx.Tabs.Sound	AUDIO
+OptionsEx.Title	OPZIONI
+OptionsGameSettings.DO_USER_AUTOSAVE	SALVATAGGIO AUTOMATICO
+OptionsGameSettings.GOTO_NEXT_CAMPAIGN_MISSION_IF_FAIL	IGNORA FALLIMENTO DELLA MISSIONE
+OptionsVideo.HZ	Hz
+PausePanel.PausePanelTitle	PAUSA
+Play_music	Musica sempre attiva
+QuestState_ACTIVE	Ordini ricevuti:
+QUIT_MESSAGE	Sei sicuro?
+RealismDetail_High	Alto
+RealismDetail_Low	Basso
+RealismDetail_Medium	Medio
+RECON_PLANE	Aerei da ricognizione
+REPLACE_OLD_RECORD	SOSTITUIRE IL SALVATAGGIO PRECEDENTE?
+Resolution	Impostazioni schermo
+FullscreenMode	Schermo intero (sconsigliato)
+IsBySystem  Usa impostazioni del desktop
+Monitor Schermo
+PrimaryMonitor	Principale
+RESTART_MISSION	RICOMINCIARE LA BATTAGLIA?
+RESTART_TO_CHANGE_FONTS_SCALING_MODE	RIAVVIA PER CAMBIARE LA SCALA DEI CARATTERI
+RESTART_TO_CHANGE_INTERFACE_SCALING_MODE	RIAVVIA PER CAMBIARE LA SCALA DELL'INTERFACCIA
+RESTART_TO_CHANGE_RESOLUTION	RIAVVIA PER CAMBIARE RISOLUZIONE O SCHERMO
+Reverse_stereo	Inverti canali stereo
+SaveLoadEx.LoadSave	CARICA
+SaveLoadEx.WriteSave	SALVA
+SaveLoadList.AUTOSAVEEND	SALV. AUTOMATICO (FINE)
+SaveLoadList.AUTOSAVESTART	SALV. AUTOMATICO (INIZIO)
+SAVELOAD_TOOLTIP_ARMYCOMPOSITION_SAVE	Salva "Unità" nel menu
+SAVELOAD_TOOLTIP_AUTOSAVE_END	Salvataggio automatico a fine battaglia
+SAVELOAD_TOOLTIP_AUTOSAVE_START	Salvataggio automatico a inizio battaglia
+SAVELOAD_TOOLTIP_DIF_HIGH_LEVEL	Difficoltà alta
+SAVELOAD_TOOLTIP_DIF_LOW_LEVEL	Difficoltà bassa
+SAVELOAD_TOOLTIP_DIF_MEDIUM_LEVEL	Difficoltà media
+SAVELOAD_TOOLTIP_MORALE	Morale
+SAVELOAD_TOOLTIP_SKILLS_SAVE	Salva nel menu
+SAVE_COMPLETE	Partita salvata
+SAVING_PTS	SALVATAGGIO...
+SERVER_DEFAULT_NAME	THEATRE OF WAR
+Show_target_icons	Indicatori dei bersagli
+Show_unit_icons	Mostra sempre le icone delle unità
+Show_unit_sectors	Settore d'attacco
+SkillsEx.Accuracy	TIRO
+SkillsEx.AutoAssign	ASSEGNA AUTO
+SkillsEx.Bestowal	DECORA
+SkillsEx.Captured	CATTURATI
+SkillsEx.Clear	AZZERA
+SkillsEx.Continue	CONTINUA
+SkillsEx.Destroyed	DISTRUTTI
+SkillsEx.Driving	GUIDA
+SkillsEx.Experience.Elite	ELITE
+SkillsEx.Experience.Elite.Short	E
+SkillsEx.Experience.ExperiencedFighter	REGOLARE
+SkillsEx.Experience.ExperiencedFighter.Short	R
+SkillsEx.Experience.Recruit	RECLUTA
+SkillsEx.Experience.Recruit.Short	C
+SkillsEx.Experience.Veteran	VETERANO
+SkillsEx.Experience.Veteran.Short	V
+SkillsEx.Gunner	PUNTAMENTO
+SkillsEx.Intelligence INTELLIGENZA
+SkillsEx.Leadership COMANDO 
+SkillsEx.Load	CARICA
+SkillsEx.MainMenu	MENU PRINCIPALE
+SkillsEx.Next	AVANTI
+SkillsEx.Previous	INDIETRO
+SkillsEx.Promotion	PROMUOVI
+SkillsEx.Save	SALVA
+SkillsEx.Scouting	RICOGNIZIONE
+SkillsEx.SkillPoints	PUNTI ABILITÀ
+SkillsEx.Skills	ABILITÀ
+SkillsEx.Statistics	STATISTICHE
+SkillsEx.Title	ABILITÀ DELLO STATO MAGGIORE
+SkillsEx.Tooltips.AutoAssignGroupSkills	Assegna automaticamente i punti abilità alle unità selezionate
+SkillsEx.Tooltips.AutoAssignUnitSkills	Assegna automaticamente i punti abilità all'unità selezionata
+SkillsEx.Tooltips.Award	Decora l'unità selezionata - influisce sul comando
+SkillsEx.Tooltips.ClearGroupSkillsButton	Annulla l'assegnazione dei punti abilità alle unità selezionate
+SkillsEx.Tooltips.ClearUnitSkills	Annulla l'assegnazione dei punti abilità all'unità selezionata
+SkillsEx.Tooltips.Continue	Continua
+SkillsEx.Tooltips.Load	Carica missione
+SkillsEx.Tooltips.MainMenu	Torna al menu principale
+SkillsEx.Tooltips.NextUnit	Passa all'unità successiva
+SkillsEx.Tooltips.PreviousUnit	Passa all'unità precedente
+SkillsEx.Tooltips.Promote	Promuovi l'unità selezionata - influisce sul comando
+SkillsEx.Tooltips.Save	Salva missione
+SkillsEx.TotalPoints	TOTALE
+SkillsEx.VictoryPoints	PUNTI VITTORIA
+StatisticsPanelEx.AlliesPoints	PUNTI ALLEATI
+StatisticsPanelEx.AllyArmy	ESERCITO ALLEATO
+StatisticsPanelEx.Capture	CATTURE
+StatisticsPanelEx.EnemiesPoints	PUNTI NEMICI
+StatisticsPanelEx.Losses	PERDITE
+StatisticsPanelEx.MissionTime	DURATA MISSIONE
+StatisticsPanelEx.SupportsCall	RICHIESTE DI RINFORZI
+StatisticsPanelEx.Victories	VITTORIE
+StatisticsPanelEx.VictoryPoints	PUNTI VITTORIA
+StatisticsTable.Achievements	ELIMINATI
+StatisticsTable.EnemyArmy	ESERCITO NEMICO
+StatisticsTable.Losses	PERSI
+StatisticsTable.PlayerArmy	ESERCITO DEL GIOCATORE
+StrategicMode.Battle.ZoneAttack	ha iniziato l'assalto a
+StrategicMode.Battle.ZoneCapture	ha conquistato
+StrategicMode.Battle.ZoneDefence	tiene la linea a
+StrategicMode.Battle.ZoneSiege	attacca le forze nemiche accerchiate a
+StrategicMode.Battle.ZoneStorm	segnala contatto con il nemico a
+StrategicMode.BattleGroup.AI.DefensiveMode	è passato alla difensiva
+StrategicMode.BattleGroup.Ammunition	Munizioni:
+StrategicMode.BattleGroup.Devastated	è stato annientato dal nemico
+StrategicMode.BattleGroup.DevastatedAndMerged	è stato devastato. I superstiti sono passati agli ordini di
+StrategicMode.BattleGroup.EscapePathBlockedByTerrain	non può ritirarsi (terreno impraticabile)
+StrategicMode.BattleGroup.EscapePathBlockedByTerrain.MustDie	non è riuscito a ritirarsi a causa della natura del terreno ed è stato annientato
+StrategicMode.BattleGroup.Experience	Esperienza:
+StrategicMode.BattleGroup.Fuel	Carburante disponibile:
+StrategicMode.BattleGroup.NoEscape	non può ritirarsi (tutte le vie sono tagliate)
+StrategicMode.BattleGroup.NoEscape.MustDie	non è riuscito a ritirarsi ed è stato annientato
+StrategicMode.BattleGroup.NoFuelForRetreat	non può ritirarsi (riserve di carburante esaurite)
+StrategicMode.BattleGroup.NoFuelForRetreat.MustDie	non è riuscito a ritirarsi per mancanza di carburante ed è stato annientato
+StrategicMode.BattleGroup.NoMovesForRetreat	non può ritirarsi (movimenti esauriti)
+StrategicMode.BattleGroup.NoMovesForRetreat.MustDie	non è riuscito a ritirarsi per mancanza di movimenti ed è stato annientato
+StrategicMode.BattleGroup.Player.DefensiveMode	è passato alla difensiva: puoi ritirarti o contrattaccare il gruppo nemico
+StrategicMode.BattleGroup.Turns	Movimenti rimasti:
+StrategicMode.BattleGroup.Unlimited	illimitati
+StrategicMode.BattleGroup.Victory	ha sconfitto
+StrategicMode.BattleGroups	Gruppi di combattimento
+StrategicMode.BattleLog	Registro di battaglia
+StrategicMode.CampaignTurns	Turni:
+StrategicMode.Composition	Ordine di battaglia
+StrategicMode.CrushedBattleGroupEscapedMessage1	Il gruppo di combattimento nemico
+StrategicMode.CrushedBattleGroupEscapedMessage2	\nè stato costretto a ritirarsi in preda al panico
+StrategicMode.CrushedBattleGroupMessage1	Il gruppo di combattimento nemico
+StrategicMode.CrushedBattleGroupMessage2	\nè stato annientato dalla potenza delle tue truppe
+StrategicMode.CurrentTurn	Turno attuale:
+StrategicMode.Defeat.EnemyBattleGroup	gruppo di combattimento nemico
+StrategicMode.Defeat.PlayerBattleGroup	gruppo di combattimento del giocatore
+StrategicMode.EndTurn	Fine turno
+StrategicMode.EnemyBattleGroup	Gruppo di combattimento nemico
+StrategicMode.EnemyMissionTemplate	MODELLO MISSIONE NEMICA
+StrategicMode.ForcedBattle	TEST DEI MODELLI
+StrategicMode.ForcedBattle.AI_STORM	Assalto dell'IA
+StrategicMode.ForcedBattleTitle	Battaglia forzata a
+StrategicMode.MissionType	TIPO DI MISSIONE
+StrategicMode.MovementWarning1	Terminare davvero il turno? Un gruppo di combattimento\n
+StrategicMode.MovementWarning2	può ancora muoversi.
+StrategicMode.PlayerBattleGroup	Gruppo di combattimento del giocatore
+StrategicMode.PlayerMissionTemplate	MODELLO MISSIONE DEL GIOCATORE
+StrategicMode.Points.Attack	Punti CONQUISTA:
+StrategicMode.Points.Capture	Punti CONQUISTA SENZA COMBATTERE:
+StrategicMode.Points.Defence	Punti DIFESA/CONTROLLO:
+StrategicMode.Points.Siege	Punti DIFESA DALL'ACCERCHIAMENTO:
+StrategicMode.Points.Storm	Punti SCONTRO D'INCONTRO:
+StrategicMode.Points.Victory	Punti vittoria:
+StrategicMode.SupportsAndReinforcements	Supporti e rinforzi
+StrategicMode.Tooltips.StrategyMapCenter	Questo elemento definisce la posizione iniziale sulla mappa strategica
+StrategicMode.Tooltips.ZoneCenter	Questo elemento definisce il centro logico di un territorio
+StrategicMode.Turn	TURNO:
+STRATEGY_MAP_ELITE_MODE_CONFIRMATION	Questa modalità richiede una scheda video con almeno 512 MB\ndi VRAM. Usare comunque questa modalità?
+SupportsActivation.Artillery	Sei autorizzato a richiedere supporto d'artiglieria
+SupportsActivation.Aviation	Sei autorizzato a richiedere supporto aereo
+SupportsActivation.MLR	Sei autorizzato a richiedere supporto di artiglieria a razzi
+SupportsActivation.Mortar	Sei autorizzato a richiedere supporto di mortai
+SupportsActivation.Reinforcement	Sei autorizzato a richiedere rinforzi
+SupportsPanelEx.InsufficientPoints	Punti insufficienti
+SupportsPanelEx.NoCommanders	Nessun comandante in grado di richiedere supporto
+SupportsPanelEx.UnitsLimitExceeded	Limite di unità superato
+TacticMap.Captured	CATTURATI
+TacticMap.Destroyed	DISTRUTTI
+TacticMap.EnemyLosses	Perdite nemiche
+TacticMap.PlayerLosses	Perdite del giocatore
+TacticMap.ReturnToGameMode	Torna al gioco
+TacticMap.Task	OBIETTIVO N.
+TacticMap.Title	MAPPA TATTICA
+TacticMapButtonPanel.TacticMapTitle	MAPPA
+TipsBox.Header	Lo sapevi che...
+TipsBox.NextTip	AVANTI
+TipsBox.ShowTips	MOSTRA I CONSIGLI NELLA MODALITÀ STRATEGICA
+Tooltip.Anti_Tank_Rifle	fucile AC
+Tooltip.Faust	lanciarazzi
+Tooltip.Grenade	granata
+Tooltip.Machine_Gun	mitragliatrice
+Tooltip.Pistol	pistola
+Tooltip.Rifle	fucile
+Tooltip.Sniper_Rifle	fucile di precisione
+Tooltip.Submachine_Gun	mitra
+UnitFilterTooltips.All	Tutti
+UnitFilterTooltips.ArmoredCar	Autoblindo
+UnitFilterTooltips.Artillery	Artiglieria
+UnitFilterTooltips.Car	Veicoli
+UnitFilterTooltips.Detachment	Squadre
+UnitFilterTooltips.Flak	Contraerea
+UnitFilterTooltips.Helicopter	Elicotteri
+UnitFilterTooltips.Howitzer	Obici
+UnitFilterTooltips.Infantry	Fanteria
+UnitFilterTooltips.MachineGun	Mitragliatrici pesanti
+UnitFilterTooltips.Mortar	Mortai
+UnitFilterTooltips.Multiple	Filtro multiplo
+UnitFilterTooltips.Plane	Aviazione
+UnitFilterTooltips.SPG	Semoventi
+UnitFilterTooltips.Tank	Carri armati
+UnitWindow.HEALTH_STATE0	sano
+UnitWindow.HEALTH_STATE1	ferito
+UnitWindow.HEALTH_STATE2	ferito gravemente
+UnitWindow.HEALTH_STATE3	in condizioni critiche
+UnitWindow.MORALE_STATE0	audace
+UnitWindow.MORALE_STATE1	cauto
+UnitWindow.MORALE_STATE2	scosso
+UnitWindow.MORALE_STATE3	bloccato
+UnitWindow.MORALE_STATE4	nel panico
+UnitWindow.STATE0	inattivo
+UnitWindow.STATE1	nel panico
+UnitWindow.STATE2	in movimento
+UnitWindow.STATE3	all'attacco
+UnitWindow.STATE4	in difesa
+UnitWindow.STATE5	in ricarica
+USE1CPU_CANNOT_BE_SET	PRIVILEGI INSUFFICIENTI PER USARE 1 CPU
+VehicleArmorDataWindow.Hull.Back	posteriore
+VehicleArmorDataWindow.Hull.Bottom	fondo
+VehicleArmorDataWindow.Hull.Front	frontale
+VehicleArmorDataWindow.Hull.Name	corazza dello scafo
+VehicleArmorDataWindow.Hull.Side	fianco
+VehicleArmorDataWindow.Hull.Top	tetto
+VehicleArmorDataWindow.Turret.Back	posteriore
+VehicleArmorDataWindow.Turret.Front	frontale
+VehicleArmorDataWindow.Turret.Mask	mantelletto
+VehicleArmorDataWindow.Turret.Name	corazza della torretta
+VehicleArmorDataWindow.Turret.Side	fianco
+VehicleArmorDataWindow.Turret.Top	tetto
+VehicleCharacteristicsPanelEx.Crew	equipaggio
+VehicleCharacteristicsPanelEx.Distance	distanza
+VehicleCharacteristicsPanelEx.kmph	km/h
+VehicleCharacteristicsPanelEx.m	m
+VehicleCharacteristicsPanelEx.Passengers	passeggeri
+VehicleCharacteristicsPanelEx.People	uomini
+VehicleCharacteristicsPanelEx.Speed	velocità
+VehicleCharacteristicsPanelEx.VehicleNumber	numero
+CrewOpticsStatus.BeginString	Ottica n.
+CrewOpticsStatus.StatusOk		OK
+CrewOpticsStatus.StatusDamaged	Danneggiata
+CrewOpticsStatus.StatusBroken	GUASTA
+Version	Versione:
+VictoryPanel.FinishMission	FINE
+VictoryPanel.Victory	VITTORIA!
+VideoSettings.paramName.DetailPreset	PRESET
+VideoSettings.paramName.IsBySystem  Usa impostazioni del desktop
+VideoSettings.paramName.FogQuality	DISEGNA SEMPRE LA NEBBIA
+VideoSettings.paramName.GrassAll	DETTAGLIO ERBA
+VideoSettings.paramName.HDREnable	HDR
+VideoSettings.paramName.AntiAliasingEnable	ANTIALIASING
+VideoSettings.paramName.FPS_LIMIT	LIMITE FPS
+VideoSettings.paramName.HideBodies	NASCONDI CADAVERI
+VideoSettings.paramName.mouseHardwareCursor	CURSORE MOUSE HARDWARE
+VideoSettings.paramName.Noise	ALTO DETTAGLIO DEL TERRENO
+VideoSettings.paramName.ObjectsQuality	QUALITÀ DEI MODELLI
+VideoSettings.paramName.PSM	OMBRE
+VideoSettings.paramName.RenderRoads	MOSTRA STRADE
+VideoSettings.paramName.ShowAmmunition	MOSTRA SEMPRE L'EQUIPAGGIAMENTO
+VideoSettings.paramName.Sky	ALTO DETTAGLIO DEL CIELO
+VideoSettings.paramName.SoftParticles	PARTICELLE MORBIDE
+VideoSettings.paramName.SSAO	OCCLUSIONE AMBIENTALE
+VideoSettings.paramName.TreeDistance	DISTANZA DI VISUALIZZAZIONE ALBERI
+VideoSettings.paramName.TreesDistLod	DETTAGLIO ALBERI
+VideoSettings.paramName.UseOneCpu	USA UNA SOLA CPU
+VideoSettings.paramName.VehicleEffects	MOSTRA EFFETTI DI MOVIMENTO DEI VEICOLI
+VideoSettings.paramName.WaterQuality	DETTAGLIO ACQUA
+VideoSettings.paramValue.DetailPreset.Custom	PERSONALIZZATO
+VideoSettings.paramValue.DetailPreset.High	ALTO
+VideoSettings.paramValue.DetailPreset.Low	BASSO
+VideoSettings.paramValue.DetailPreset.Medium	MEDIO
+VideoSettings.paramValue.GrassAll.Dense	ERBA FITTA
+VideoSettings.paramValue.GrassAll.Medium	NORMALE
+VideoSettings.paramValue.GrassAll.No_Grass	NESSUNA
+VideoSettings.paramValue.GrassAll.Rare	ERBA RADA
+VideoSettings.paramValue.GrassAll.Very_Dense	ERBA MOLTO FITTA
+VideoSettings.paramValue.ObjectsQuality.High	ALTA
+VideoSettings.paramValue.ObjectsQuality.Low	BASSA
+VideoSettings.paramValue.ObjectsQuality.Medium	NORMALE
+VideoSettings.paramValue.ObjectsQuality.Very_Low	MOLTO BASSA
+VideoSettings.paramValue.PSM.None	NESSUNA
+VideoSettings.paramValue.PSM.Object_shadowing	OMBRE DEGLI OGGETTI
+VideoSettings.paramValue.PSM.Shadows_and_selfshading	AUTOOMBREGGIATURA
+VideoSettings.paramValue.SoftParticles.No	MEDIO
+VideoSettings.paramValue.SoftParticles.Yes	ALTO
+VideoSettings.paramValue.TreeDistance.Far	ALTA
+VideoSettings.paramValue.TreeDistance.Medium	NORMALE
+VideoSettings.paramValue.TreeDistance.Near	BASSA
+VideoSettings.paramValue.TreesDistLod.High	ALTO
+VideoSettings.paramValue.TreesDistLod.Low	BASSO
+VideoSettings.paramValue.TreesDistLod.Medium	MEDIO
+VideoSettings.paramValue.WaterQuality.High	ALTO
+VideoSettings.paramValue.WaterQuality.Low	BASSO
+VideoSettings.paramValue.WaterQuality.Medium	MEDIO
+Voice_volume	VOLUME VOCI
+WAITING_PTS	ATTENDERE
+WeaponAmmoInfoWindow.ACCURATE_DISTANCE	Gittata efficace, m
+WeaponAmmoInfoWindow.dim_grouping	ang. min.
+WeaponAmmoInfoWindow.EFFECTIVE_DISTANCE	Gittata massima, m
+WeaponAmmoInfoWindow.grouping_at	Dispersione
+WeaponAmmoInfoWindow.NO_AMMO	Senza munizioni
+WeaponAmmoInfoWindow.NO_WEAPON	Senz'arma
+WeaponAmmoInfoWindow.THROW_DISTANCE	Distanza di lancio, m
+WeaponCharacteristics.Grouping	dispersione
+WeaponCharacteristics.GroupingMetrics	'
+WeaponCharacteristics.InitialSpeed	velocità iniziale
+WeaponCharacteristics.MaxDistance	distanza max.
+WeaponCharacteristics.Meters	m
+WeaponCharacteristics.MetersPerSecond	m/s
+WeaponCharacteristics.Penetration	Penetrazione
+WeaponCharacteristics.RateOfFire	cadenza di tiro
+WeaponCharacteristics.ReloadTime	ricarica:
+WeaponCharacteristics.Seconds	s
+WeaponCharacteristics.ShotsPerMinute	col/min
+WeaponStaticVariety.Bow	Mitragliatrice di prua / SIN - seleziona, DES - disattiva
+WeaponStaticVariety.Cupola	Arma della cupola / SIN - seleziona, DES - disattiva
+WeaponStaticVariety.Mortar	Mortaio / SIN - seleziona, DES - disattiva
+WeaponStaticVariety.Primary	Cannone principale / SIN - seleziona, DES - disattiva
+WeaponStaticVariety.Rear	Arma posteriore / SIN - seleziona, DES - disattiva
+WeaponStaticVariety.Secondary	Arma secondaria / SIN - seleziona, DES - disattiva
+WeaponStaticVariety.Twin	Coassiale / SIN - seleziona, DES - disattiva
+WeatherPresets.default2	Predefinito
+WeatherPresets.medenin_10_00	Medenin, 10:00
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.close_window	Chiudi finestra
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_all_the_items_of_the_slot	Lascia tutti gli oggetti di questo slot
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_and_pick_items_automatically	Lascia e raccogli oggetti automaticamente
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_the_item	Lascia l'oggetto
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.pick_all_the_items_of_the_slot	Raccogli tutti gli oggetti di questo slot
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.pick_the_item	Raccogli l'oggetto
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.change_the_skin	Cambia texture del modello
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_down	Ruota in basso
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_to_the_left	Ruota a sinistra
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_to_the_right	Ruota a destra
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_up	Ruota in alto
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.zoom_in	Ingrandisci
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.zoom_out	Riduci
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.armored_cars	Autoblindo
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.artillery	Artiglieria
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.cars	Veicoli
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.flaks	Contraerea
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.hmg	Mitragliatrici pesanti
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.spg	Semoventi
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.tanks	Carri armati
+xmlskinlk.basebutton.tooltip.ingame.xml.attach	Aggancia
+xmlskinlk.basebutton.tooltip.ingame.xml.attack	Attacca
+xmlskinlk.basebutton.tooltip.ingame.xml.attack_ground	Fuoco d'area
+xmlskinlk.basebutton.tooltip.ingame.xml.bottom	Basso
+xmlskinlk.basebutton.tooltip.ingame.xml.center	Centro
+xmlskinlk.basebutton.tooltip.ingame.xml.column	Colonna
+xmlskinlk.basebutton.tooltip.ingame.xml.custom	Libero
+xmlskinlk.basebutton.tooltip.ingame.xml.defend	Difendi / Ruota
+xmlskinlk.basebutton.tooltip.ingame.xml.disperse	Sparso
+xmlskinlk.basebutton.tooltip.ingame.xml.evacuate	Scendi
+xmlskinlk.basebutton.tooltip.ingame.xml.gather	Serrato
+xmlskinlk.basebutton.tooltip.ingame.xml.hold_fire	Cessate il fuoco
+xmlskinlk.basebutton.tooltip.ingame.xml.hold_position	Mantieni posizione
+xmlskinlk.basebutton.tooltip.ingame.xml.lay	Striscia
+xmlskinlk.basebutton.tooltip.ingame.xml.line	Linea
+xmlskinlk.basebutton.tooltip.ingame.xml.lowspeed	I veicoli si muovono alla velocità della fanteria
+xmlskinlk.basebutton.tooltip.ingame.xml.mineclearing	Sminamento
+xmlskinlk.basebutton.tooltip.ingame.xml.mining	Posa mine
+xmlskinlk.basebutton.tooltip.ingame.xml.move	Muovi
+xmlskinlk.basebutton.tooltip.ingame.xml.passengers	Passeggeri
+xmlskinlk.basebutton.tooltip.ingame.xml.retreat	Retromarcia / Ritirata
+xmlskinlk.basebutton.tooltip.ingame.xml.rotate	Ruota
+xmlskinlk.basebutton.tooltip.ingame.xml.sit	Scatto
+xmlskinlk.basebutton.tooltip.ingame.xml.stay	Passo di corsa
+xmlskinlk.basebutton.tooltip.ingame.xml.stop	Alt
+xmlskinlk.basebutton.tooltip.ingame.xml.storm	Assalto
+xmlskinlk.basebutton.tooltip.ingame.xml.top	Alto
+xmlskinlk.basebutton.tooltip.ingame.xml.weapons	Armi
+xmlskinlk.basebutton.tooltip.ingame.xml.wedge	Cuneo
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_high	Veterano
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_low	Recluta
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_medium	Regolare
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.morale	Le truppe sono nel panico
+xmlskinlk.basebutton.tooltip.nongamestd.xml.armored_cars	Autoblindo
+xmlskinlk.basebutton.tooltip.nongamestd.xml.artillery	Artiglieria
+xmlskinlk.basebutton.tooltip.nongamestd.xml.cars	Veicoli
+xmlskinlk.basebutton.tooltip.nongamestd.xml.flak	Contraerea
+xmlskinlk.basebutton.tooltip.nongamestd.xml.fortification	Fortificazioni
+xmlskinlk.basebutton.tooltip.nongamestd.xml.infantry_groups	Fanteria
+xmlskinlk.basebutton.tooltip.nongamestd.xml.machineguns	Mitragliatrici pesanti
+xmlskinlk.basebutton.tooltip.nongamestd.xml.spg	Semoventi
+xmlskinlk.basebutton.tooltip.nongamestd.xml.tanks	Carri armati
+xmlskinlk.basebuttonex.tooltip.armycompositionlistex.xml.LeftScroll	Scorri a sinistra
+xmlskinlk.basebuttonex.tooltip.armycompositionlistex.xml.RightScroll	Scorri a destra
+xmlskinlk.basebuttonex.tooltip.briefingbuttonpanelex.xml.briefing	Briefing
+xmlskinlk.basebuttonex.tooltip.CameraModeButtonPanel.xml.CameraMode	Modalità camera
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.actionMode	Limita/consenti movimento libero
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.aimfireattackground	Fuoco d'area mirato
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.ambush	Imboscata
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.attack	Attacca
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.attackground	Fuoco d'area
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.autopickup	Raccolta automatica
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.centerattack	Mira al centro
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.clawformation	Formazione ad artiglio
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.columnformation	Formazione in colonna
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.crewout	Abbandona il veicolo
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.defend	Difendi / Ruota
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.deffireattackground	Fuoco d'area difensivo
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.exit	Indietro
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.fireMode	Modalità di fuoco
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.formation	Formazione
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.formationalign	Allineamento automatico
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.FreeAction	Modalità libera
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.freeattack	Mira libera
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.freeformation	Formazione libera
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.gearattack	Mira in basso
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.headattack	Mira in alto
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.holdfire	Cessate il fuoco
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.holdpos	Mantieni posizione
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.hook	Aggancia
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.inventory	Inventario
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.lineformation	Formazione in linea
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.lowspeed	I veicoli si muovono alla velocità della fanteria
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.mineclearing	Sminamento
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.mining	Posa mine
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.move	Muovi
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.retreat	Retromarcia / Ritirata
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.repair	Riparazione del telaio
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.shadowmove	Furtivo
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.shortrush	Modalità scatto breve
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.smoke	Cortina fumogena / DES - tiro immediato, se possibile
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.sneak	Furtivo
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.stop	Alt
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.storm	Assalto
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.unhook	Sgancia
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.CancelButton	Annulla
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.OKButton	Ok
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.ScrollDownButton	Riduci
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.ScrollUpButton	Aumenta
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ManualRotation	Attiva la rotazione col mouse
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.OpenHatches	Apri i portelli
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.Rotate	Ruota il modello
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ZoomIn	Ingrandisci
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ZoomOut	Riduci
+xmlskinlk.basebuttonex.tooltip.frontendbase.xml.ScrollDown	Scorri in basso
+xmlskinlk.basebuttonex.tooltip.frontendbase.xml.ScrollUp	Scorri in alto
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group0	Gruppo 10
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group1	Gruppo 1
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group2	Gruppo 2
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group3	Gruppo 3
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group4	Gruppo 4
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group5	Gruppo 5
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group6	Gruppo 6
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group7	Gruppo 7
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group8	Gruppo 8
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group9	Gruppo 9
+xmlskinlk.basebuttonex.tooltip.inventorybuttonpanel.xml.Inventory	Inventario
+xmlskinlk.basebuttonex.tooltip.inventorybuttonpanel.xml.VehicleCharacteristics	Caratteristiche del veicolo
+xmlskinlk.basebuttonex.tooltip.logbuttonpanel.xml.Log	Diario
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.AIMessagesFilter	Filtro messaggi degli oggetti di gioco
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.AlliesMessagesFilter	Filtro messaggi degli alleati
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.BriefingMessagesFilter	Filtro messaggi del briefing
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.EnemyMessagesFilter	Filtro messaggi dei nemici
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollDown	Scorri in basso
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollToBottom	All'ultimo messaggio
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollUp	Scorri in alto
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.SystemMessagesFilter	Filtro messaggi di sistema
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.closePanel	Chiudi
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.leftScroll	Scorri a sinistra
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.pickAllItems	Raccogli tutto
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.pickBestItems	Raccogli il meglio
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.rightScroll	Scorri a destra
+xmlskinlk.basebuttonex.tooltip.mainmenubuttonpanel.xml.mainmenu	Menu principale
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.briefing	Briefing
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.mainmenu	Menu principale
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.statistics	Statistiche
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.tacticmap	Mappa tattica
+xmlskinlk.basebuttonex.tooltip.minimapex.xml.resizebutton	Trascina per ridimensionare la mappa
+xmlskinlk.basebuttonex.tooltip.selectedgrouppanel.xml.leftScroll	Scorri a sinistra
+xmlskinlk.basebuttonex.tooltip.selectedgrouppanel.xml.rightScroll	Scorri a destra
+xmlskinlk.basebuttonex.tooltip.skillsex.xml.Decrease	Diminuisci
+xmlskinlk.basebuttonex.tooltip.skillsex.xml.Increase	Aumenta
+xmlskinlk.basebuttonex.tooltip.statisticsbuttonpanelex.xml.statistics	Statistiche
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.artillery	Artiglieria
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.cars	Veicoli
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.flaks	Contraerea
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.infantry	Fanteria
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.machineguns	Mitragliatrici pesanti
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.planes	Aerei
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.tanks	Carri armati
+xmlskinlk.basebuttonex.tooltip.supportspanel.xml.scrollleft	Scorri a sinistra
+xmlskinlk.basebuttonex.tooltip.supportspanel.xml.scrollright	Scorri a destra
+xmlskinlk.basebuttonex.tooltip.tacticmapbuttonpanel.xml.tacticmap	Mappa tattica
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.allunitsfilter	TUTTI
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.artilleryfilter	ARTIGLIERIA
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.carsfilter	VEICOLI
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.flakartilleryfilter	CONTRAEREA
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.infantryfilter	FANTERIA
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.machinegunsfilter	MITRAGLIATRICI PESANTI
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.planefilter	Aviazione
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.returntogame	RIPRENDI
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.statistics	STATISTICHE
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.tanksfilter	CARRI ARMATI
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.tasks	OBIETTIVI
+xmlskinlk.basebuttonex.tooltip.taskspanel.xml.ScrollDown	Scorri in basso
+xmlskinlk.basebuttonex.tooltip.taskspanel.xml.ScrollUp	Scorri in alto
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.FastSpeed	Velocità di gioco doppia
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.NormalSpeed	Velocità di gioco normale
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.PausePlay	Pausa
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.SlowSpeed	Velocità di gioco dimezzata
+xmlskinlk.basebuttonex.tooltip.timerpanelex.xml.Timer	Timer
+xmlskinlk.basebuttonex.tooltip.weaponpanel.xml.exit	Indietro
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.attack	Attacca!
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.attack2	Attacca 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.defend	Difendi
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.defend2	Difendi 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.move	Muovi
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.move2	Muovi 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.storm	Assalto
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.storm2	Assalto 2
+xmlskinlk.textguiitem.army_composition.xml.1	1
+xmlskinlk.textguiitem.army_composition.xml.2	2
+xmlskinlk.textguiitem.army_composition.xml.3	3
+xmlskinlk.textguiitem.army_composition.xml.4	4
+xmlskinlk.textguiitem.army_composition.xml.5	5
+xmlskinlk.textguiitem.army_composition.xml.6	6
+xmlskinlk.textguiitem.army_composition.xml.need_place	SLOT LIBERI INSUFFICIENTI
+xmlskinlk.textguiitem.army_composition.xml.you_cannot_take_this_unit_or_group	NON PUOI PRENDERE QUESTA UNITÀ/QUESTO GRUPPO
+xmlskinlk.textguiitem.combatsbase.xml.description	DESCRIZIONE
+xmlskinlk.textguiitem.combatsbase.xml.name	NOME
+xmlskinlk.textguiitem.createnetgamedialog.xml.name_of_the_game	NOME DELLA PARTITA
+xmlskinlk.textguiitem.createnetgamedialog.xml.number_of_players	NUMERO DI GIOCATORI
+xmlskinlk.textguiitem.createnetgamedialog.xml.password	PASSWORD
+xmlskinlk.textguiitem.encunittypeitem.xml.country	NAZIONE
+xmlskinlk.textguiitem.encunittypeitem.xml.unit_name	NOME
+xmlskinlk.textguiitem.infopanelstatistics.xml.armored_car:	Autoblindo:
+xmlskinlk.textguiitem.infopanelstatistics.xml.artillery:	Artiglieria:
+xmlskinlk.textguiitem.infopanelstatistics.xml.captured	CATTURATI
+xmlskinlk.textguiitem.infopanelstatistics.xml.car:	Veicoli:
+xmlskinlk.textguiitem.infopanelstatistics.xml.current_composition	ORGANICO ATTUALE
+xmlskinlk.textguiitem.infopanelstatistics.xml.destroyed	DISTRUTTI
+xmlskinlk.textguiitem.infopanelstatistics.xml.enemy's_units	UNITÀ NEMICHE
+xmlskinlk.textguiitem.infopanelstatistics.xml.flak:	Contraerea:
+xmlskinlk.textguiitem.infopanelstatistics.xml.fortification:	Fortificazioni:
+xmlskinlk.textguiitem.infopanelstatistics.xml.human:	Personale:
+xmlskinlk.textguiitem.infopanelstatistics.xml.machine_gun:	Mitr. pesanti:
+xmlskinlk.textguiitem.infopanelstatistics.xml.player's_units	UNITÀ DEL GIOCATORE
+xmlskinlk.textguiitem.infopanelstatistics.xml.spg:	Semoventi:
+xmlskinlk.textguiitem.infopanelstatistics.xml.tank:	Carri armati:
+xmlskinlk.textguiitem.infopanelstatistics.xml.you_have	HAI
+xmlskinlk.textguiitem.internetconnectdialog.xml.network_name_or_ip_address	NOME DI RETE O INDIRIZZO IP
+xmlskinlk.textguiitem.internetconnectdialog.xml.password	PASSWORD
+xmlskinlk.textguiitem.itemswindow.xml.ammos	Munizioni
+xmlskinlk.textguiitem.itemswindow.xml.bullets_count	Numero di colpi
+xmlskinlk.textguiitem.itemswindow.xml.combat_gear	Equipaggiamento
+xmlskinlk.textguiitem.itemswindow.xml.ground	Equipaggiamento
+xmlskinlk.textguiitem.itemswindow.xml.grouping_at_100_m	Precisione a 100 m
+xmlskinlk.textguiitem.itemswindow.xml.initial_speed	Velocità iniziale, m/s
+xmlskinlk.textguiitem.itemswindow.xml.penetration	Penetrazione, mm
+xmlskinlk.textguiitem.itemswindow.xml.rate_of_fire	Cadenza di tiro, col/min
+xmlskinlk.textguiitem.itemswindow.xml.reload_time	Ricarica, s
+xmlskinlk.textguiitem.itemswindow.xml.weapons	Armi
+xmlskinlk.textguiitem.missionbriefing.xml.objectives	OBIETTIVI:
+xmlskinlk.textguiitem.missionend.xml.artillery	ARTIGLIERIA
+xmlskinlk.textguiitem.missionend.xml.battle_time	DURATA BATTAGLIA
+xmlskinlk.textguiitem.missionend.xml.captured	CATTURATI
+xmlskinlk.textguiitem.missionend.xml.destroyed	DISTRUTTI
+xmlskinlk.textguiitem.missionend.xml.enemy_casualties	PERDITE NEMICHE
+xmlskinlk.textguiitem.missionend.xml.engines	VEICOLI
+xmlskinlk.textguiitem.missionend.xml.humen	SOLDATI
+xmlskinlk.textguiitem.missionend.xml.planes	AEREI
+xmlskinlk.textguiitem.missionend.xml.player	GIOCATORE
+xmlskinlk.textguiitem.missionend.xml.player_casualties	PERDITE DEL GIOCATORE
+xmlskinlk.textguiitem.missionend.xml.tanks	CARRI ARMATI
+xmlskinlk.textguiitem.missionwindlg.xml.victory	VITTORIA
+xmlskinlk.textguiitem.multiplayerinfo.xml.players	GIOCATORI
+xmlskinlk.textguiitem.netgameslistbox.xml.map	MAPPA
+xmlskinlk.textguiitem.netgameslistbox.xml.ping	PING
+xmlskinlk.textguiitem.netgameslistbox.xml.players	GIOCATORI
+xmlskinlk.textguiitem.netgameslistbox.xml.server_name	NOME DEL SERVER
+xmlskinlk.textguiitem.netgameslistbox.xml.version	VERSIONE
+xmlskinlk.textguiitem.netmapsmenu.xml.alliance	ALLEANZA
+xmlskinlk.textguiitem.netmapsmenu.xml.army	ESERCITO
+xmlskinlk.textguiitem.netmapsmenu.xml.chat	CHAT
+xmlskinlk.textguiitem.netmapsmenu.xml.color	COLORE
+xmlskinlk.textguiitem.netmapsmenu.xml.description	DESCRIZIONE
+xmlskinlk.textguiitem.netmapsmenu.xml.mapname	NOME
+xmlskinlk.textguiitem.netmapsmenu.xml.messages	MESSAGGI
+xmlskinlk.textguiitem.netmapsmenu.xml.player	GIOCATORE
+xmlskinlk.textguiitem.netmapsmenu.xml.status	STATO
+xmlskinlk.textguiitem.netmapsmenu.xml.username	NOME
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_01	Attenzione!
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_02	Per creare un server di gioco su Internet il tuo
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_03	computer deve avere un indirizzo IP esterno.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_04	
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_05	Puoi comunque creare un server di gioco locale
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_06	o collegarti ad altri giocatori tramite
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_07	Internet.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_08	
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_09	Consulta il file Multiplayer Configuration Readme.mht
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_10	per maggiori dettagli su questo problema.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_11	
+xmlskinlk.textguiitem.nongamestd.xml.cost	COSTO
+xmlskinlk.textguiitem.nongamestd.xml.crew	EQUIPAGGIO / GRUPPO
+xmlskinlk.textguiitem.nongamestd.xml.name	NOME
+xmlskinlk.textguiitem.nongamestd.xml.unit	UNITÀ
+xmlskinlk.textguiitem.options.xml.camera_sensitivity	SENSIBILITÀ DELLA CAMERA
+xmlskinlk.textguiitem.options.xml.command	COMANDO
+xmlskinlk.textguiitem.options.xml.control_key1	TASTO DI COMANDO 1
+xmlskinlk.textguiitem.options.xml.control_key2	TASTO DI COMANDO 2
+xmlskinlk.textguiitem.options.xml.developer	SVILUPPATORE
+xmlskinlk.textguiitem.options.xml.press_a_key	PREMI UN TASTO
+xmlskinlk.textguiitem.profile.xml.available_profiles	PROFILI DISPONIBILI
+xmlskinlk.textguiitem.profile.xml.information	INFORMAZIONI
+xmlskinlk.textguiitem.saveloadgame.xml.description	DESCRIZIONE
+xmlskinlk.textguiitem.saveloadgame.xml.play_time	TEMPO DI GIOCO
+xmlskinlk.textguiitem.saveloadgame.xml.record_name	NOME DEL SALVATAGGIO
+xmlskinlk.textguiitem.saveloadgame.xml.save_time	DATA DEL SALVATAGGIO
+xmlskinlk.textguiitem.skills.xml.artillery:	Artiglieria
+xmlskinlk.textguiitem.skills.xml.awards	Conferisci decorazione
+xmlskinlk.textguiitem.skills.xml.captured	CATTURATI
+xmlskinlk.textguiitem.skills.xml.destroyed	DANNEGGIATI
+xmlskinlk.textguiitem.skills.xml.driver	Pilota
+xmlskinlk.textguiitem.skills.xml.engines:	Veicoli
+xmlskinlk.textguiitem.skills.xml.free_points:	ESP LIBERA
+xmlskinlk.textguiitem.skills.xml.gunlayer	Puntamento
+xmlskinlk.textguiitem.skills.xml.infantry:	Fanteria
+xmlskinlk.textguiitem.skills.xml.intelligence	Intelligenza
+xmlskinlk.textguiitem.skills.xml.leadership	Comando
+xmlskinlk.textguiitem.skills.xml.marksmanship	Tiro
+xmlskinlk.textguiitem.skills.xml.planes:	Aerei
+xmlskinlk.textguiitem.skills.xml.rank	Grado
+xmlskinlk.textguiitem.skills.xml.scout	Ricognizione
+xmlskinlk.textguiitem.skills.xml.tanks:	Carri armati
+xmlskinlk.textguiitem.skills.xml.used_points:	ESP USATA
+xmlskinlk.textguiitem.timespeedpanel.xml.time_is_2_times_quicker	Velocità doppia
+xmlskinlk.textguiitem.timespeedpanel.xml.time_is_2_times_slower	Velocità dimezzata
+xmlskinlk.textguiitem.unitwindow.xml.back	Posteriore
+xmlskinlk.textguiitem.unitwindow.xml.bottom	Fondo
+xmlskinlk.textguiitem.unitwindow.xml.characteristics	CARATTERISTICHE
+xmlskinlk.textguiitem.unitwindow.xml.driver	Pilota
+xmlskinlk.textguiitem.unitwindow.xml.front	Frontale
+xmlskinlk.textguiitem.unitwindow.xml.gun_layer	Puntatore
+xmlskinlk.textguiitem.unitwindow.xml.hull_armoring,_mm	Corazza scafo, mm
+xmlskinlk.textguiitem.unitwindow.xml.intelligence	Intelligenza
+xmlskinlk.textguiitem.unitwindow.xml.leadership	Comando
+xmlskinlk.textguiitem.unitwindow.xml.marksmanship	Tiro
+xmlskinlk.textguiitem.unitwindow.xml.mask	Mantelletto
+xmlskinlk.textguiitem.unitwindow.xml.maximum_speed,_km_per_hour	Velocità massima, km/h
+xmlskinlk.textguiitem.unitwindow.xml.scout	Ricognizione
+xmlskinlk.textguiitem.unitwindow.xml.side	Fianco
+xmlskinlk.textguiitem.unitwindow.xml.top	Tetto
+xmlskinlk.textguiitem.unitwindow.xml.tower_armoring,_mm	Corazza sovrastruttura, mm
+xmlskinlk.textguiitem.unitwindow.xml.turret_armoring,_mm	Corazza torretta, mm
+xmlskinlk.textguiitem.unitwindowtooltip.xml.b/m	b/m
+xmlskinlk.textguiitem.unitwindowtooltip.xml.ba	ba
+xmlskinlk.textguiitem.unitwindowtooltip.xml.driver	Pilota
+xmlskinlk.textguiitem.unitwindowtooltip.xml.f	f
+xmlskinlk.textguiitem.unitwindowtooltip.xml.gunlayer	Puntatore
+xmlskinlk.textguiitem.unitwindowtooltip.xml.health	Salute
+xmlskinlk.textguiitem.unitwindowtooltip.xml.hull	Scafo
+xmlskinlk.textguiitem.unitwindowtooltip.xml.intelligence	Intelligenza
+xmlskinlk.textguiitem.unitwindowtooltip.xml.leadership	Comando
+xmlskinlk.textguiitem.unitwindowtooltip.xml.marksmanship	Tiro
+xmlskinlk.textguiitem.unitwindowtooltip.xml.s	s
+xmlskinlk.textguiitem.unitwindowtooltip.xml.scout	Ricognizione
+xmlskinlk.textguiitem.unitwindowtooltip.xml.spirit	Morale
+xmlskinlk.textguiitem.unitwindowtooltip.xml.t	t
+xmlskinlk.textguiitem.unitwindowtooltip.xml.turret	Torretta
+xmlskinlk.textguiitem.usercampaigns.xml.description	DESCRIZIONE
+xmlskinlk.textguiitem.usercampaigns.xml.name	NOME
+ZoneTypeEnum.CLOSED	CHIUSA
+ZoneTypeEnum.INITIAL_ORIGINAL	INIZIALE (SCENARIO)
+ZoneTypeEnum.INITIAL_RANDOM	INIZIALE
+ZoneTypeEnum.OPEN_ORIGINAL	APERTA (SCENARIO)
+ZoneTypeEnum.OPEN_RANDOM	APERTA

@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Libérez Ilitchevka, Gorovatka, Chapetchino. Éliminez les forces ennemies dans la zone.
+[Mission.Description]
+Libérez Ilitchevka, Gorovatka, Chapetchino. Éliminez les forces ennemies dans la zone.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission1.Objectives]
+Libérez Ilitchevka.
+[Submission1.Description]
+Libérez Ilitchevka.
+[Submission1.Success]
+Mission accomplie.
+[Submission1.Failed]
+Mission échouée.
+[Submission2.Objectives]
+Libérez Gorovatka.
+[Submission2.Description]
+Libérez Gorovatka. Éliminez le groupe de combat mobile venant en aide à l’ennemi.
+[Submission2.Success]
+Mission accomplie.
+[Submission2.Failed]
+Mission échouée.
+[Submission3.Objectives]
+Libérez Chapetchino.
+[Submission3.Description]
+Libérez Chapetchino.
+[Submission3.Success]
+Mission accomplie.
+[Submission3.Failed]
+Mission échouée.

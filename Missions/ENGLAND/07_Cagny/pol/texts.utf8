@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Wyzwól Cagny i Frenouville.
+[Mission.Description]
+Naszymi kolejnymi celami są Cagny i Frenouville.
+[StringTable.SPGs_Tanks]
+Siły główne
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Zdobądź Cagny.
+[Submission_1.Description]
+Wyprzyj wroga z Cagny.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Wyprzyj wroga z gospodarstwa.
+[Submission_2.Description]
+Niemcy przekształcili gospodarstwo w punkt oporu. Wyeliminuj ich.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Wyzwól Frenouville.
+[Submission_3.Description]
+Kolejna miejscowość na drodze naszego natarcia. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+Misja wykonana.
+[Submission_3.Failed]
+Nie udało się wykonać zadania.
+[Submission_2.Success]
+Misja wykonana.
+[Submission_2.Failed]
+Nie udało się wykonać zadania.
+[Submission_4.Objectives]
+Działa przeciwlotnicze przy skrzyżowaniu.
+[Submission_4.Description]
+Bateria dział przeciwlotniczych kal. 88 mm blokuje nam dostęp do wrogich pozycji. Zbliżanie się jakimikolwiek siłami pancernymi spowoduje ciężkie straty. Baterię trzeba zneutralizować, zanim do walki wejdzie trzon naszych sił.
+[NewSubmission3.Success]
+Działa przeciwlotnicze zniszczone.
+[NewSubmission3.Failed]
+Nie udało się zneutralizować dział przeciwlotniczych.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Nie udało się wykonać zadania.
+[Submission_1.Success]
+Misja wykonana.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[Submission_4.Success]
+Bateria zneutralizowana. Misja wykonana.
+[Submission_4.Failed]
+Nie udało się wykonać zadania.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

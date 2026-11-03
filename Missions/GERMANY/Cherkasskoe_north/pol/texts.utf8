@@ -1,0 +1,47 @@
+﻿[StringTable. Hoerlein]
+Rozpocznij atak, po tym jak bombowce nurkujące skończą bombardowanie rosyjskich pozycji w wiosce.
+[StringTable.Nebelwerfer_support]
+Dywizjon moździerzy rakietowych jest gotów zapewnić wsparcie naszemu natarciu.
+[Mission.Objectives]
+Zajmij północną część Czerkaskoje. Zniszcz nieprzyjacielskie siły w rejonie.
+[Mission.Description]
+Grupa bojowa zajmie Czerkaskoje w połączonym ataku czołgów, dział samobieżnych i piechoty. Po zajęciu pierwszej pozycji bądź gotów na kontrataki wrogich czołgów i dział samobieżnych na twoje flanki.
+[Mission.Success]
+Czerkaskoje zostało zajęte, siły wroga zniszczone.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazów. Nieprzyjaciel jest zbyt silny!
+[Submission_2_1.Objectives]
+Odeprzyj kontrataki wroga, zniszcz czołgi i działa szturmowe.
+[Submission_2_1.Success]
+Rosyjskie czołgi zostały zniszczone!
+[Submission_2_1.Failed]
+Nasze siły wycofują się pod naporem wroga.
+[Submission_2_2.Objectives]
+Odeprzyj kontrataki wroga, zniszcz czołgi i działa szturmowe.
+[Submission_2_2.Success]
+Rosyjskie czołgi zostały zniszczone!
+[Submission_2_2.Failed]
+Nasze siły wycofują się pod naporem wroga.
+[Submission_3.Objectives]
+Ostrzał rosyjskich moździerzy spowalnia nasze natarcie. Zwiad powietrzny donosi, że ich pozycje ogniowe znajdują się w lasku na północny zachód od Czerkaskoje. Trzeba zająć te pozycje albo ostrzelać moździerze, by utrudnić im prowadzenie ognia. 
+[Submission_3.Success]
+Nieprzyjacielska bateria moździerzy została zniszczona.
+[Submission_3.Failed]
+Nie udało nam się zniszczyć wrogich moździerzy.
+[Submission_4.Objectives]
+Zniszcz rosyjskie działa przeciwczołgowe na północny wschód od Czerkaskoje.
+[Submission_4.Success]
+Rosyjski punkt obrony przeciwczołgowej został zniszczony.
+[Submission_4.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[StringTable.Hoerlein]
+Rozpocznij atak po uderzeniu bombowców na rosyjskie pozycje w wiosce.
+[StringTable.Tanks]
+Czołgi i piechota.
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

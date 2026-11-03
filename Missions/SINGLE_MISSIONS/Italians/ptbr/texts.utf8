@@ -1,0 +1,64 @@
+﻿[MainTask.Objectives]
+Capture a base de suprimentos e repila todos os possíveis contra-ataques inimigos.
+[MainTask.Description]
+[MainTask.Success]
+Radiograma de Rommel: Ao comandante italiano. O ataque inimigo foi repelido, nossas forças já estão nas imediações da estação. Parabéns pela vitória!
+[MainTask.Failed]
+Radiograma de Rommel ao quartel-general: General von Arnim! Esses italianos sofreram perdas intoleráveis e se mostraram incapazes de cumprir o objetivo. Ah, de qualquer forma, não se deve esperar muito deles!
+[StringTable.VillageCaptured]
+Radiograma de Rommel: Ao comandante italiano. Meus parabéns pela captura da estação, as tropas inglesas sobreviventes largaram as armas e imploram por misericórdia! Agradável, não é? No entanto, minhas tropas ainda estão rompendo a resistência obstinada do inimigo. O reconhecimento aéreo informa que um grupo de combate inimigo, organizado às pressas, está se aproximando de suas posições a partir do ponto 2, tentando realizar um contra-ataque. Eles chegarão à estação em 10 minutos. Use o tempo, os canhões de campanha e as metralhadoras capturados para organizar sua defesa e repelir o ataque deles! Você também terá uma esquadrilha de nossos caças para se opor a possíveis ataques inimigos.
+[StringTable.ReadyForAssault]
+Radiograma de Rommel: Ao comandante italiano. Você silenciou os canhões de campanha e as metralhadoras inimigos; agora autorizo você a engajar o restante da unidade e terá também os bombardeiros à sua disposição.
+[StringTable.IntroSubtitle1]
+Um capitão alemão se dirige aos soldados italianos:
+[StringTable.IntroSubtitle2]
+Ouvi falar muito de coragem e habilidades...
+[StringTable.IntroSubtitle3]
+dos Alpini italianos, e espero que não seja só conversa fiada!
+[StringTable.IntroSubtitle4]
+O Signore Tenente explicará os detalhes do objetivo que recebemos, [StringTable.IntroSubtitle5]
+tudo o que vou acrescentar é que este é...
+[StringTable.IntroSubtitle6]
+um dos objetivos mais importantes...
+[StringTable.IntroSubtitle7]
+que já tivemos a chance de cumprir.
+[StringTable.IntroSubtitle8]
+Então mostrem-se dignos da glória da Roma Antiga!
+[StringTable.WinSubtitle1]
+Vozes de soldados italianos: Giuseppe, você está com a bandeira?
+[StringTable.WinSubtitle1a]
+Ele... esqueceu! Esse idiota de Bolonha sempre faz tudo do jeito dele!
+[StringTable.WinSubtitle2]
+Achei!... Passa para cá, seria muito complicado se os alemães...
+[StringTable.WinSubtitle3]
+nos confundissem com ingleses. Já temos canhões ingleses!
+[StringTable.WinSubtitle4]
+O tanque da frente - um Panzer IV - é alemão!
+[StringTable.WinSubtitle5]
+Não atirem! Eles estão se aproximando... e não abram fogo!
+[StringTable.WinSubtitle6]
+Eles nos reconheceram, agora está tudo bem!
+[StringTable.WinSubtitle7]
+Tanquista alemão: Sprechen Sie Deutsch, italienischer Kamerad?...
+[StringTable.WinSubtitle8]
+Gratulieren! Sieg heil!
+[StringTable.FailSubtitle1]
+Lá vem o Ziegler.
+[StringTable.FailSubtitle2]
+Kameraden, esses carcamanos fracassaram na missão!
+[StringTable.FailSubtitle3]
+Calma, Ziegler! Você sabe qual é a diferença entre tanques italianos e alemães?
+[StringTable.FailSubtitle4a]
+Não, não sei.
+[StringTable.FailSubtitle4]
+Nossos tanques têm 3 marchas à frente e 1 à ré, e os tanques italianos têm tudo ao contrário!
+[StringTable.FailSubtitle5]
+Dietrich, eu riria com você, mas agora nossa situação pode ser descrita em apenas duas palavras:
+[StringTable.FailSubtitle6]
+ALLES KAPUTT!
+[StringTable.WinSubtitle6a]
+Graças a Deus, tivemos sorte!
+[StringTable.WinSubtitle6b]
+Ei, Giuseppe, é melhor você ficar de boca fechada e cuidar da bandeira!
+[StringTable.EnemyIsHere]
+Radiograma de Rommel: Ao comandante italiano. O reconhecimento aéreo informa que o inimigo está nas imediações da estação. Mantenha-a a todo custo! Minhas forças romperam as defesas inimigas e estão marchando para ajudá-lo!

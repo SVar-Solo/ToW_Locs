@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+摧毁敌军防御。
+[Mission1.Description]
+敌军在通往克留科沃村的接近路上构筑了一道防线。夺回该村对我军至关重要。消灭附近的所有敌军，夺回该镇！
+
+你的命令：
+- 摧毁敌军防御。
+[Mission1.Success]
+敌军的防御已被摧毁！你已成功完成命令！
+[Mission1.Failed]
+你的部队已被击溃！你未能完成命令！
+[Mission2.Objectives]
+击退敌军的反击。
+[Mission2.Description]
+德军已发起反击。你必须守住新夺取的阵地。
+
+你的命令：
+- 击退敌军的反击。
+- 守住新夺取的阵地。
+
+[Mission2.Success]
+司令部的命令已完成！敌军的反击已被击退。
+[Mission2.Failed]
+你的部队已被击溃。你失败了！

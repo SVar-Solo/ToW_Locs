@@ -1,0 +1,23 @@
+﻿[Submission1.Objectives]
+Odeprzeć nieprzyjacielski atak.
+[Submission1.Description]
+Główne uderzenia sił nieprzyjaciela operujących w rejonie Wołokołamska są skierowane na Sołnecznogorsk i miasto Istra. Niemcy zbliżyli się już do linii zbiornik Istra-rzeka Istra. W niektórych miejscach wojska niemieckie zdołały się przeprawić na wschodni brzeg rzeki.
+Musisz powstrzymać nieprzyjacielski atak i kontrolować drogi do miasta. 
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielski atak.
+[Submission1.Success]
+Zadanie wykonane! Atak niemieckiego agresora został odparty.
+[Submission1.Failed]
+Niemcom udało się przełamać obronę i zająć miasto! Nie wykonałeś zadania!
+[Submission2.Objectives]
+Odeprzeć nieprzyjacielskie ataki oskrzydlające.
+[Submission2.Description]
+Nieprzyjacielskim siłom udało się przełamać naszą obronę, teraz nacierają z północy i południa w kierunku wsi, aby zaatakować flanki naszych pozycji obronnych. Musisz zrobić wszystko, co w twojej mocy, żeby zatrzymać nieprzyjacielskie natarcie. 
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielskie ataki oskrzydlające.
+[Submission2.Success]
+Zadanie wykonane! Odparłeś ataki nieprzyjaciela.
+[Submission2.Failed]
+Twoje wojska zostały pokonane! Nie wykonałeś zadania!
+[StringTable.Retreat]
+Drużyna broniąca lewego skrzydła ucieka z pola walki!

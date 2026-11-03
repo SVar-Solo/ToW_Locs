@@ -1,0 +1,467 @@
+﻿.Throw	Granada
+Fr.13_2mm_Hotchkiss	13.2mm Hotchkiss   (ametralladora de tanque Hotchkiss)
+Fr.13_2mm_Hotchkiss.short	13.2mm Hotchkiss
+Fr.25mm_Hotchkiss_SA_34	25mm Hotchkiss SA 34 (SA-34 Hotchkiss, cañón de tanque)
+Fr.25mm_Hotchkiss_SA_34.short	25mm SA 34
+Fr.25mm_Hotchkiss_SA_34_1	25mm Hotchkiss SA 34 (SA-34 Hotchkiss, cañón de tanque)
+Fr.25mm_Hotchkiss_SA_34_1.short	25mm SA 34
+Fr.37mm_SA18	37mm Puteaux SA 18 (SA-18 Puteaux, cañón de tanque mle. 18)
+Fr.37mm_SA18.short	37mm SA 18
+Fr.47mm_SA35_L34	47mm SA 35 L34  (SA-35 cañón de tanque L34)
+Fr.47mm_SA35_L34.short	47mm SA 35 L34
+Fr.75mm_Puteaux_Mle_1897_26	75mm Mle.1897 (cañón de campaña mle. 1897)
+Fr.75mm_Puteaux_Mle_1897_26.short	75mm Mle.1897
+Fr.75mm_SA35_L17	75mm SA 35 L17  (SA-35 cañón de tanque L17)
+Fr.75mm_SA35_L17.short	75mm SA 35 L17
+Fr.7_5mm_Chatellerault_Mle_31	7.5mm Mle.1931 (ametralladora de tanque Chatellerault M6 mle. 1931)
+Fr.7_5mm_Chatellerault_Mle_31.short	7.5mm Mle.1931
+Fr.8mm_Hotchkiss	8mm Hotchkiss (Hotchkiss  ametralladora de tanque mle. 1914)
+Fr.8mm_Hotchkiss.short	8mm Hotchkiss
+Fr.MAC_1924	7.5mm MAC-1924 (ametralladora mle.1929)
+Fr.MAC_1924.short	7.5mm MAC-1924
+Fr.MAS_1907_15_M16	8mm MAS-1907 15 M16 (fusil Berthier mle 07/15 M16)
+Fr.MAS_1907_15_M16.short	8mm MAS-1907 15 M16
+Fr.MAS_36	7.5mm MAS-36 (fusil MAS 36 mle 1936)
+Fr.MAS_36.short	7.5mm MAS-36
+Fr.MAS_36_sniper	7.5mm MAS-36 (fusil de francotirador  MAS 36 mle 1936)
+Fr.MAS_36_sniper.short	7.5mm MAS-36 sniper
+Fr.Mle_1935S	7.65mm Mle.1935S (pistola mle 1935)
+Fr.Mle_1935S.short	7.65mm Mle.1935S
+Ger.105mm_leFH18M_L28	10.5cm leFH18/2 L/28 \n Obús de 105mm
+Ger.105mm_leFH18M_L28.short	10.5cm leFH18/2
+Ger.128mm_PaK_44_L55	128mm PaK 44 L/55 (Panzerabwehrkanone 44 L/55)
+Ger.128mm_PaK_44_L55.short	128mm PaK 44 L/55
+Ger.150mm_sFH18_1_L30	15cm sFH 18/1 L/30 \n Obús de 150mm
+Ger.150mm_sFH18_1_L30.short	15cm sFH 18/1 L/30
+Ger.150mm_StuH_43_1_L12	15cm StuH 43 1 L/12 \n Obús de asalto mod.1943
+Ger.150mm_StuH_43_1_L12.short	15cm StuH 43 1 L/12
+Ger.20mm_Flak38	20mm Flak 38 L/112.5 (Flugzeugabwehrkanone 38 L/112.5)
+Ger.20mm_Flak38.short	2cm Flak 38
+Ger.20mm_KwK_30_L55	20mm KwK 30 L/55  (Kampfwagenkanone 30 L/55)
+Ger.20mm_KwK_30_L55.short	2cm KwK 30 L/55
+Ger.20mm_kwk_38_l55	20mm KwK 38 L/55 (Kampfwagenkanone 38 L/55)
+Ger.20mm_kwk_38_l55.short	20mm KwK 38 L/55
+Ger.20mm_PzB_41s 	20mm PzB.41(s) (PanzerBuhse aus 1941)
+Ger.20mm_PzB_41s.short	2cm PzB.41(s)
+Ger.20_28mm_s_Pz_B_41	Schwere Panzerbüchse 41 \n 28/20mm fusil antitanque pesado mod.1941 
+Ger.20_28mm_s_Pz_B_41.short	2.8/2cm s.Pz.B.41
+Ger.23_61mm_Sturmpistole	Sturmpistole /n 61mm lanzagranadas (basada en pistola de señales)
+Ger.23_61mm_Sturmpistole.short	Sturmpistole
+Ger.25mm_KwK_121f	25mm KwK 121(f) (Kampfwagenkanone 121(f))
+Ger.25mm_KwK_121f.short	25mm KwK 121(f)
+Ger.37mm_Flak_36	37mm Flak 36 L/98 (Flugzeugabwehrkanone 36 L/98)
+Ger.37mm_Flak_36.short	3.7cm Flak 36 L/98
+Ger.37mm_kwk_34t	3.7cm KwK 34t L39 (Kampfwagenkanone 34t L/39)
+Ger.37mm_kwk_34t.short	3.7cm Kwk 34t
+Ger.37mm_KwK_36_L45	37mm KwK 36 L/45  (Kampfwagenkanone 36 L/45)
+Ger.37mm_KwK_36_L45.short	37mm KwK 36 L/45
+Ger.37mm_kwk_38t	3.7cm KwK 38t L45 (Kampfwagenkanone 38t L/45)
+Ger.37mm_kwk_38t.short	3.7cm Kwk 38t
+Ger.37mm_PaK_35_36	37mm PaK 35/36 L45 (Panzerabwehrkanone 35/36 L/45)
+Ger.37mm_PaK_35_36.short	3.7cm PaK 35/36
+Ger.50mm_KwK_38_L42	50mm KwK 38 L/42 (Kampfwagenkanone 38 L/42)
+Ger.50mm_KwK_38_L42.short	5cm KwK 38 L/42
+Ger.50mm_KwK_39_L60	50mm KwK 39 L/60 (Kampfwagenkanone 39 L/60)
+Ger.50mm_KwK_39_L60.short	5cm KwK 39 L/60
+Ger.50mm_PaK_38	50mm PaK 38 L/60 (Panzerabwehrkanone 38 L/60)
+Ger.50mm_PaK_38.short	5cm PaK 38 L/60
+Ger.60mm_smoke_intake_device Nebelkerzenabwurfvorrichtung \n smoke grenade discharger rack
+Ger.60mm_smoke_intake_device.short Smoke grenade
+Ger.75mm_KwK_37_L24	75mm KwK 37 L/24 (Kampfwagenkanone 37 L/24)
+Ger.75mm_KwK_37_L24.short	7.5cm KwK 37 L/24
+Ger.75mm_KwK_37_L24_1	75mm KwK 37 L/24 (Kampfwagenkanone 37 L/24)
+Ger.75mm_KwK_37_L24_1.short	7.5cm KwK 37 L/24
+Ger.75mm_KwK_40_L43	75mm KwK 40 L/43 (Kampfwagenkanone 40 L/43)
+Ger.75mm_KwK_40_L43.short	7.5cm KwK 40 L/43
+Ger.75mm_KwK_40_L48	75mm KwK 40 L/48 (Kampfwagenkanone 40 L/48)
+Ger.75mm_KwK_40_L48.short	7.5cm KwK 40 L/48
+Ger.75mm_KwK_42_L70	7.5cm KwK 42 L/70 \n Cañón de tanque mod.1942
+Ger.75mm_KwK_42_L70.short	7.5cm KwK 42 L/70
+Ger.75mm_le_l_G_18	75mm Le.I.G.18 (leichtes Infanteriegeschütz 18) 
+Ger.75mm_le_l_G_18.short	7.5cm Le.I.G.18
+Ger.75mm_PaK_39_L48	7.5cm PaK 39 L/48 \n Cañón antitanque mod.1939
+Ger.75mm_PaK_39_L48.short	7.5cm PaK 39 L/48
+Ger.75mm_PaK_39_L48_1	7.5cm PaK 39 L/48 \n Cañón antitanque mod.1939
+Ger.75mm_PaK_39_L48_1.short	7.5cm PaK 39 L/48
+Ger.75mm_PaK_40	75mm PaK 40 L/48 (Panzerabwehrkanone 40 L/48)
+Ger.75mm_PaK_40.short	7.5cm PaK 40 L/48
+Ger.75mm_PaK_40_3_L46	7.5cm PaK40/3 L/46 \n Cañón antitanque mod.1940
+Ger.75mm_PaK_40_3_L46.short	7.5cm PaK40/3
+Ger.75mm_PaK_42_L70	75mm PaK 42 L/70 (Panzerabwehrkanone 42 L/70)
+Ger.75mm_PaK_42_L70.short	75mm PaK 42 L/70
+Ger.75mm_PaK_97_38	75mm PaK 97/38 \n Cañón antitanque mod.1897/1938
+Ger.75mm_PaK_97_38.short	75mm PaK 97/38 
+Ger.75mm_StuK_37_L24	75mm Sturmkanone 37 L/24 \n Cañón de asalto mod.1937
+Ger.75mm_StuK_37_L24.short	75mm StuK 37 L/24
+Ger.75mm_StuK_40_L43	75mm StuK 40 L/43 (Sturmkanone 40 L/43)
+Ger.75mm_StuK_40_L43.short	75mm StuK 40 L/43
+Ger.75mm_StuK_40_L48	7.5cm StuK 40 L/48 \n Cañón de asalto mod.1940
+Ger.75mm_StuK_40_L48.short	7.5cm StuK 40 L/48
+Ger.7_92mm_FG_42	Fallschirmjagergewehr 42\n 7,92mm fusil de paracaidista aus 1942
+Ger.7_92mm_FG_42.short	7.92mm FG.42
+Ger.7_92mm_Mauser_K98k	7.92mm Mauser K98k (Karabiner 98 kurz aus 1935)
+Ger.7_92mm_Mauser_K98k.short	7.92mm K98k
+Ger.7_92mm_Mauser_K98k_Sniper	7.92mm Mauser K98k (Sniper Karabiner 98 kurz aus 1935)
+Ger.7_92mm_Mauser_K98k_Sniper.short	7.92mm K98k. sc.
+Ger.7_92mm_MG_17	Maschinengewehr 17 \n Ametralladora de 7.92mm MG.17
+Ger.7_92mm_MG_17.short	7.92mm MG.17
+Ger.7_92mm_MG_34	7.92mm MG-34 (MaschinenGewehr 34)
+Ger.7_92mm_MG_34.short	7.92mm MG-34
+Ger.7_92mm_MG_34_HMG	7.92mm MaschinenGewehr 34 (ametralladora pesada mod.1934)
+Ger.7_92mm_MG_34_HMG.short	7.92mm MG-34
+Ger.7_92mm_MG_34_twin	2 x 7.92mm MG-34 (MaschinenGewehr 34)
+Ger.7_92mm_MG_34_twin.short	7.92mm MG-34
+Ger.7_92mm_MG_37t	Maschinengewehr 37(t) \n Ametralladora de 7.92mm MG.37(t)
+Ger.7_92mm_MG_37t.short	7.92mm MG.37(t)
+Ger.7_92mm_MG_42	7.92mm MG-42 (MaschinenGewehr 42)
+Ger.7_92mm_MG_42.short	7.92mm MG-42
+Ger.7_92mm_MG_42_HMG	7.92mm MaschinenGewehr 42 (ametralladora pesada mod.1942)
+Ger.7_92mm_MG_42_HMG.short	7.92mm MG-42
+Ger.7_92mm_PzB_39	2.8/2cm schwere Panzerbüchse 41 (28/20mm fusil antitanque pesado mod.41)
+Ger.7_92mm_PzB_39.short	2.8/2cm s.Pz.B.41
+Ger.7_92mm_Walter_G41W	7.92mm fusil semiautomático Walter G.41(W)
+Ger.7_92mm_Walter_G41W.short	7.92mm Walter G.41(W)
+Ger.7_92_30mm_Gw_Gr_Ger_42_98K	Mauser karabiner 98 kurz mit Gw.Gr.Ger.42 \n 7.92mm K98k, carabina con fusil de 30mm lanzagranadas
+Ger.7_92_30mm_Gw_Gr_Ger_42_98K.short	7.92mm K98k. gw.
+Ger.7_92_30mm_GzB_39	3cm lanzagranadas antitanque GzB.39
+Ger.7_92_30mm_GzB_39.short	3cm GzB.39
+Ger.81mm_GrW_34	8cm Schwerer Granatwerfer 34 \n Mortero de 80mm
+Ger.81mm_GrW_34.short	8cm s.Gr.W. 34
+Ger.88mm_Flak_37_L56	88mm Flak 36 L/56 (Fliegerabwehrkanone 36 L/56)
+Ger.88mm_Flak_37_L56.short	88mm Flak 36 L/56
+Ger.88mm_KwK_36_L56	88mm KwK 36 L/56 (Kampfwagenkanone 36 L/56)
+Ger.88mm_KwK_36_L56.short	88mm KwK 36 L/56
+Ger.88mm_KwK_43_L71	8.8cm KwK 43 L/71 \n Cañón de tanque mod.1943
+Ger.88mm_KwK_43_L71.short	8.8cm KwK 43 L/71
+Ger.88mm_PaK_43_1_L71	8.8cm PaK 43 1 L/71 \n Cañón antitanque mod.1943
+Ger.88mm_PaK_43_1_L71.short	8.8cm PaK 43 1 L/71
+Ger.88mm_PaK_43_2_L71	8.8cm PaK 43 2 L/71 \n Cañón antitanque mod.1943
+Ger.88mm_PaK_43_2_L71.short	8.8cm PaK 43 2 L/71
+Ger.88mm_PaK_43_3_L71	8.8cm PaK 43 3 L/71 \n Cañón antitanque mod.1943
+Ger.88mm_PaK_43_3_L71.short	8.8cm PaK 43 3 L/71
+Ger.88mm_PaK_43_41	8.8cm PaK 43  L/71 \n Cañón antitanque mod. 1943 
+Ger.88mm_PaK_43_41.short	8.8cm PaK 43  L/71
+Ger.90mm_nebelkerzen_wurfladung Nebelkerzen-Wurfladung \n 90mm smoke grenade launcher
+Ger.90mm_nebelkerzen_wurfladung.short 9cm Smoke mortar
+Ger.92mm_Nahverteidigungswaffe Nahverteidigungswaffe \n 92mm close defense weapon
+Ger.92mm_Nahverteidigungswaffe.short 9.2cm Nahverteidigungswaffe
+Ger.9mm_Luger_P08	9mm Luger P-08 (Parabellum-Pistole Borchardt/Luger  aus 1908)
+Ger.9mm_Luger_P08.short	9mm P-08
+Ger.9mm_MP_40	9mm MP-40 (MaschinenPistole 40 aus 1940)
+Ger.9mm_MP_40.short	9mm MP-40
+Ger.9mm_Walter_P38	9mm Walter P-38 (Pistole Walter P38/P1 aus 1938)
+Ger.9mm_Walter_P38.short	9mm P-38
+Ger.Panzerfaust_100	Panzerfaust 100m
+Ger.Panzerfaust_100.short	Panzerfaust 100m
+Ger.Panzerfaust_150	Panzerfaust 150
+Ger.Panzerfaust_150.short	Panzerfaust 150
+Ger.Panzerfaust_30	Panzerfaust 30m
+Ger.Panzerfaust_30.short	Panzerfaust 30m
+Ger.Panzerfaust_60	Panzerfaust 60m
+Ger.Panzerfaust_60.short	Panzerfaust 60m
+Ger.Panzerfaust_Klein_30M	Panzerfaust Klein 30m \n Lanzagranadas antitanque de un solo disparo
+Ger.Panzerfaust_Klein_30M.short	Panzerfaust Klein 30m
+Ger.R_PzB_54_Panzerschrek	RPzB54 Panzerschrek \n Lanzagranadas antitanque
+Ger.R_PzB_54_Panzerschrek.short	RPzB54 Panzerschrek
+Ger.StG_44	SturmGewehr 44  \n Fusil de asalto
+Ger.StG_44.short	SturmGewehr 44
+Ita.20mm_Cannone_da_20_65_M35	20mm cannone-mitragliera da 20/65 mod.35 \n 20mm autocañón
+Ita.20mm_Cannone_da_20_65_M35.short	20mm 20/65 mod.35
+Ita.20mm_Solothurn	Fucile anticarro da 20mm “S" \n 20mm Solothurn S18/1000, fusil antitanque
+Ita.20mm_Solothurn.short	20mm S18/1000 
+Ita.37mm_PaK_35_36	37mm PaK 35/36 L45 \n Cañón antitanque mod.1935
+Ita.37mm_PaK_35_36.short	37mm PaK 35/36
+Ita.37mm_Vickers_Terni_L40	37mm Vickers-Terni L40 \n Cañón de tanque de 37mm
+Ita.37mm_Vickers_Terni_L40.short	37mm Vickers-Terni L40 
+Ita.47mm_Cannone_da_47_32_M35	47mm cannone da 47/32 mod. 35 \n Cañón de tanque de 47mm, 1935
+Ita.47mm_Cannone_da_47_32_M35.short	47mm cannone 47/32
+Ita.47mm_Cannone_da_47_40_M39	47mm cannone da 47/40 mod. 39 \n Cañón de tanque de 47mm, 1939
+Ita.47mm_Cannone_da_47_40_M39.short	47mm cannone 47/40
+Ita.50mm_PaK_38	50mm PaK 38 L/60 \n Cañón antitanque mod.1941
+Ita.50mm_PaK_38.short	50mm PaK 38 L/60
+Ita.6_5mm_Breda_30	Fucile Mitragliatore Breda mod.30 \n 6.5mm ametralladora ligera. 1930
+Ita.6_5mm_Breda_30.short	6.5mm Breda 30
+Ita.6_5mm_Carcano_M91	Fucile di Fanteria Mo.1891 \n 6.5mm Paraviccini-Carcano, fusil. M.1891
+Ita.6_5mm_Carcano_M91.short	6.5mm M1891
+Ita.75mm_Ansaldo_75_18_M34	75mm Ansaldo 75/18 M34 \n Obús de 75mm
+Ita.75mm_Ansaldo_75_18_M34.short	75mm Ansaldo 75/18
+Ita.75mm_Breda_75_34_M39	75mm Breda 75/34 M39 \n Cañón de 75mm
+Ita.75mm_Breda_75_34_M39.short	75mm Breda 75/34
+Ita.75mm_le_l_G_18	75mm Le.I.G.18 (leichtes Infanteriegeschütz 18) 
+Ita.75mm_le_l_G_18.short	7.5cm Le.I.G.18
+Ita.75mm_PaK_40	75mm PaK 40 L/48 \n Cañón antitanque mod.1940
+Ita.75mm_PaK_40.short	75mm PaK 40 L/48
+Ita.8mm_Breda_38	8mm Breda Mod. 38 \n 8mm ametralladora Breda 38
+Ita.8mm_Breda_38.short	8mm Breda 38
+Ita.9mm_Beretta_MAB_38A	Moschetto Automatico Beretta mod.1938A \n 9mm subfusil Beretta M.1938A
+Ita.9mm_Beretta_MAB_38A.short	9mm MAB 1938A 
+Ita.9mm_Beretta_M_1934	Pistola Automatica Beretta mod.1934 \n 9mm pistola Beretta M.1934
+Ita.9mm_Beretta_M_1934.short	9mm Beretta M1934
+Pol.20mm_FK_wz38	20mm FK wz38 (FK autocañón 1938)
+Pol.20mm_FK_wz38.short	20mm FK wz38
+Pol.37mm_Bofors_wz_36	37mm Bofors wz36 (cañón antitanque 1936)
+Pol.37mm_Bofors_wz_36.short	37mm Bofors wz36
+Pol.37mm_Bofors_wz_36_1	37mm Bofors wz36 (cañón antitanque 1936)
+Pol.37mm_Bofors_wz_36_1.short	37mm Bofors wz36
+Pol.47mm_Vickers_QF	47mm Vickers QF (cañón de tanque (de tiro rápido))
+Pol.47mm_Vickers_QF.short	47mm Vickers QF
+Pol.75mm_Field_Gun_wz_1897	Cañón de campaña de 75mm wz97
+Pol.75mm_Field_Gun_wz_1897.short	75mm wz97
+Pol.7_92mm_Hotchkiss_wz_25	7.92mm Hotchkiss wz25 (ametralladora 1925)
+Pol.7_92mm_Hotchkiss_wz_25.short	7.92mm wz25
+Pol.7_92mm_wz30	7.92mm wz30  (ametralladora Browning 1930)
+Pol.7_92mm_wz30.short	7.92mm wz30
+Pol.kb_ppanc_wz_35	7.92mm Kb ppanc wz35 (fusil antitanque 1935)
+Pol.kb_ppanc_wz_35.short	7.92mm Kb ppanc wz35
+Pol.Kb_wz_98	7.92mm Kb Mauser wz98  (fusil Mauser 1898)
+Pol.Kb_wz_98.short	7.92mm Kb wz98
+Pol.Kb_wz_98_PZO	7.92mm Kb wz98 PZO  (fusil de francotirador Mauser 1898)
+Pol.Kb_wz_98_PZO.short	7.92mm Kb wz98 PZO
+Pol.Rkm_wz_28_Browning	7.92mm Rkm wz28 Browning  (fusil automático Browning (BAR) 1928)
+Pol.Rkm_wz_28_Browning.short	7.92mm Rkm wz28
+Pol.Vis_wz35	9mm Vis wz35 (pistola Parabellum 1935)
+Pol.Vis_wz35.short	9mm Vis wz35
+Rus.100mm_BS_3	100mm BS-3, cañón de campaña, mod. 1944
+Rus.100mm_BS_3.short	100mm BS-3
+Rus.100mm_D_10S	100mm D-10S, cañón de tanque, mod. 1944
+Rus.100mm_D_10S.short	100mm D-10S
+Rus.100mm_D_10T	100mm D-10T, cañón de tanque, mod. 1944
+Rus.100mm_D_10T.short	100mm D-10T
+Rus.122mm_A_19	122mm A-19, cañón, mod. 1931/37
+Rus.122mm_A_19.short	122mm A-19
+Rus.122mm_A_19S	122mm A-19S, cañón, mod.1943
+Rus.122mm_A_19S.short	122mm A-19C
+Rus.122mm_D_25T	122mm D-25T, cañón de tanque, mod. 1943
+Rus.122mm_D_25T.short	122mm D-25T
+Rus.122mm_M_30	122mm M-30, obús
+Rus.122mm_M_30.short	122mm M-30
+Rus.122mm_M_30_static	122mm M-30, obús
+Rus.122mm_M_30_static.short	122mm M-30
+Rus.12_7mm_DShK_HMG	12.7mm DshK, ametralladora pesada, mod. 1938
+Rus.12_7mm_DShK_HMG.short	12.7mm DShK
+Rus.14_5mm_PTRD_AT	14.5mm PTRD, fusil antitanque
+Rus.14_5mm_PTRD_AT.short	14.5mm PTRD
+Rus.14_5mm_PTRS_AT	14.5mm PTRS, fusil antitanque semiautomático
+Rus.14_5mm_PTRS_AT.short	14.5mm PTRS
+Rus.152mm_ML_20S	152mm ML-20S, obús. mod. 1937
+Rus.152mm_ML_20S.short	152mm ML-20S
+Rus.152mm_M_10	152mm M-10, obús. mod. 1938
+Rus.152mm_M_10.short	152mm M-10
+Rus.20mm_TNSh	20mm TNSh, cañón de tanque
+Rus.20mm_TNSh.short	20mm TNSh
+Rus.23mm_Vja	23mm VYa, cañón de aviación
+Rus.23mm_VJa.short	23mm VYa
+Rus.37mm_61_K	37mm 61-K, cañón antiaéreo automático, mod.1939
+Rus.37mm_61_K.short	37mm 61-K
+Rus.45mm_20K	45mm 20K (cañón de tanque mod.1932/38)
+Rus.45mm_20K.short	45mm 20K
+Rus.45mm_20Km	45mm 20Km (cañón de tanque mod.1932/38)
+Rus.45mm_20Km.short	45mm 20Km
+Rus.45mm_AT_obr_37	45mm 53-K, cañón antitanque mod.1937
+Rus.45mm_AT_obr_37.short	45mm 53-K
+Rus.45mm_AT_obr_42	45mm M-42, cañón antitanque mod.1942
+Rus.45mm_AT_obr_42.short	45mm M-42
+Rus.50mm_mod_1941	Mortero de compañía de 50mm mod.1941
+Rus.50mm_mod_1941.short	Mortero de 50mm
+Rus.57mm_ZIS_2	57mm ZIS-2, cañón antitanque, mod. 1943
+Rus.57mm_ZIS_2.short	57mm ZIS-2
+Rus.57mm_ZIS_4	57mm ZIS-4 (cañón de tanque mod.1941)
+Rus.57mm_ZIS_4.short	57mm ZIS-4
+Rus.76_2mm_F_32	76.2mm F-32 (cañón de tanque 1936)
+Rus.76_2mm_F_32.short	76.2mm F-32
+Rus.76_2mm_F_34	76mm F-34 (cañón de tanque mod.1940)
+Rus.76_2mm_F_34.short	76mm F-34
+Rus.76_2mm_F_34_1	76mm F-34 (cañón de tanque mod.1940)
+Rus.76_2mm_F_34_1.short	76mm F-34
+Rus.76_2mm_KT_26	76mm KT-26 (cañón de tanque 1930)
+Rus.76_2mm_KT_26.short	76mm KT-26
+Rus.76_2mm_L10		76mm  L-10, cañón de tanque, mod. 1938
+Rus.76_2mm_L10.short	76mm L-10
+Rus.76_2mm_Polk_obr_27	Cañón regimental de 76mm mod.1927
+Rus.76_2mm_Polk_obr_27.short	76mm mod.1927
+Rus.76_2mm_Polk_obr_43	76mm OB-25, cañón regimental, mod. 1943
+Rus.76_2mm_Polk_obr_43.short	76mm mod. 1943
+Rus.76_2mm_ZIS_3	76mm ZIS-3, cañón, mod. 1942
+Rus.76_2mm_ZIS_3.short	76mm ZIS-3
+Rus.76_2mm_ZIS_3Sh	76mm ZIS-3Sh, cañón de asalto, mod. 1942
+Rus.76_2mm_ZIS_3Sh.short	76mm ZIS-3Sh
+Rus.76_2mm_ZIS_5	76mm ZIS-5, cañón de tanque, mod. 1941
+Rus.76_2mm_ZIS_5.short	76mm ZIS-5
+Rus.7_62mm_AK_47	7.62mm AK-47, fusil de asalto Kalashnikov, mod. 1947
+Rus.7_62mm_AK_47.short	7.62mm AK-47
+Rus.7_62mm_DP_27	7.62mm DP-27, ametralladora ligera Degtyarev, mod. 1927
+Rus.7_62mm_DP_27.short	7.62mm DP-27
+Rus.7_62mm_DT	7.62mm DT, ametralladora de tanque Degtyarev, mod. 1929
+Rus.7_62mm_DT.short	7.62mm DT
+Rus.7_62mm_Maxim_HMG	7.62mm "Maxim", ametralladora media, mod. 1910/30
+Rus.7_62mm_Maxim_HMG.short	7.62mm "Maxim"
+Rus.7_62mm_Mosin	Fusil de 7.62mm Mosin, mod. 1891/30
+Rus.7_62mm_Mosin.short	7.62mm Mosin
+Rus.7_62mm_Mosin_Carabin	Carabina de 7.62mm Mosin, mod. 1938
+Rus.7_62mm_Mosin_Carabin.short	Carabina de 7.62mm
+Rus.7_62mm_Mosin_Sniper	7.62mm fusil de francotirador Mosin, mod. 1891/30
+Rus.7_62mm_Mosin_Sniper.short	7.62mm Mosin con mira
+Rus.7_62mm_Nagant	7.62mm revólver Nagant mod. 1895
+Rus.7_62mm_Nagant.short	7.62mm Nagant
+Rus.7_62mm_PPD	7.62mm PPD (subfusil Degtyarev 1934/38)
+Rus.7_62mm_PPD.short	7.62mm PPD
+Rus.7_62mm_PPS		7,62mm PPS-43, subfusil, mod. 1943 
+Rus.7_62mm_PPS.short	7,62mm PPS-43
+Rus.7_62mm_PPSh	7.62mm PPSh-41, subfusil, mod. 1941
+Rus.7_62mm_PPSh.short	7.62mm PPSh-41
+Rus.7_62mm_RPD	7.62mm RPD, ametralladora ligera Degtyarev, mod. 1944
+Rus.7_62mm_RPD.short	7.62mm RPD
+Rus.7_62mm_SGMB_43	7.62mm SGMB \n Ametralladora pesada Goryunov, reconstruida para transportes blindados
+Rus.7_62mm_SGMB_43.short	7.62mm SGMB
+Rus.7_62mm_SG_43	7.62mm SG-43, ametralladora pesada Goryunov, mod. 1943
+Rus.7_62mm_SG_43.short	7.62mm SG-43
+Rus.7_62mm_ShKAS	7,62mm ShKAS, ametralladora de aviación 
+Rus.7_62mm_ShKAS.short	7,62mm ShKAS
+Rus.7_62mm_SKS_45	7.62mm SKS-45 \n Carabina semiautomática, mod. 1945
+Rus.7_62mm_SKS_45.short	7.62mm SKS-45
+Rus.7_62mm_SVT_40	7.62mm SVT-40, fusil semiautomático, mod. 1940
+Rus.7_62mm_SVT_40.short	7.62mm SVT-40
+Rus.7_62mm_SVT_40_Sniper	7.62mm SVT-40, fusil de francotirador semiautomático, mod. 1940
+Rus.7_62mm_SVT_40_Sniper.short	7.62mm SVT-40 con mira
+Rus.7_62mm_TT	7.62mm TT, pistola, mod. 1930
+Rus.7_62mm_TT.short	7.62mm TT
+Rus.82mm_mod_1941	Mortero de batallón de 82mm, mod. 1941
+Rus.82mm_mod_1941.short	Mortero de 82mm
+Rus.85mm_52_K	85mm 52-K, cañón antiaéreo, mod. 1939
+Rus.85mm_52_K.short	85mm 52-K
+Rus.85mm_D_5S	85mm D-5S (cañón autopropulsado mod.1943)
+Rus.85mm_D_5S.short	85mm D-5S
+Rus.85mm_D_5T	85mm D-5T  cañón de tanque, mod. 1943
+Rus.85mm_D_5T.short	85mm D-5T
+Rus.85mm_ZIS_S_53	85mm ZIS-S-53, cañón de tanque, mod. 1944
+Rus.85mm_ZIS_S_53.short	85mm ZIS-S-53 
+Rus.RPG_2	RPG-2, lanzagranadas antitanque, mod. 1947 
+Rus.RPG_2.short	RPG-2
+UK.101_6mm_smoke_mortar		Mortero de humo de 107mm (4 pulgadas)
+UK.101_6mm_smoke_mortar.short	4", mortero de humo
+UK.13_97mm_MkI_Boys	.55 Mk.I Boys (fusil antitanque. 1937)
+UK.13_97mm_MkI_Boys.short	.55 Mk.I Boys
+UK.20mm_Oerlikon_MkII	20mm Oerlikon MkII \n Cañón antiaéreo
+UK.20mm_Oerlikon_MkII.short	20mm Oerlikon MkII
+UK.290mm_petard		290mm mortero de espiga "Petard"
+UK.290mm_petard.short	290mm "Petard"	
+UK.40mm_OQF_Mk_IX	40mm OQF Mk.IX (cañón 1936)
+UK.40mm_OQF_Mk_IX.short	40mm OQF Mk.IX
+UK.40mm_OQF_Mk_IX_ARM	40mm OQF Mk.IX (cañón de tanque 1936)
+UK.40mm_OQF_Mk_IX_ARM.short	40mm OQF Mk.IX
+UK.40mm_OQF_Mk_IX_Littlejohn	40mm OQF MkIX Littlejohn \n Cañón de tanque con Littlejohn adaptador
+UK.40mm_OQF_Mk_IX_Littlejohn.short 	40mm Littlejohn
+UK.50_8mm_mortar	Mortero de 50.8mm \n Mortero de humo de retrocarga de 50.8 mm
+UK.50_8mm_mortar.short	Mortero de 50.8mm
+UK.57mm_6pdr_AT_Gun_Mk_II	57mm 6 pdr Mk.IV (cañón antitanque Mk.IV)
+UK.57mm_6pdr_AT_Gun_Mk_II.short	57mm 6 pdr Mk.IV
+UK.57mm_6pdr_AT_Gun_Mk_IV	57mm 6 pdr Mk.IV, cañón antitanque
+UK.57mm_6pdr_AT_Gun_Mk_IV.short	57mm 6 pdr Mk.IV
+UK.57mm_6pdr_tank	57mm 6 pdr Mk.III \n Cañón de tanque de 57mm Mk.III 
+UK.57mm_6pdr_tank.short	57mm 6 pdr Mk.III
+UK.57mm_QQF_Mk_III	O.Q.F. 6 pdr Mk.III \n 57 cañón de tanque Mk.III 
+UK.57mm_QQF_Mk_III.short	57mm 6 pdr Mk.III
+UK.75mm_OQF_Mk_V	75mm OQF MkV, cañón de tanque
+UK.75mm_OQF_Mk_V.short	75mm OQF MkV
+UK.76mm_17_pdr_OQF_Mk_I	76mm 17 pdr Mk.I \n Cañón antitanque de 76mm Mk.I 
+UK.76mm_17_pdr_OQF_Mk_I.short	76mm 17 pdr Mk.I
+UK.76mm_17_pdr_OQF_Mk_II	76mm 17pdr OQF MkII, cañón de tanque
+UK.76mm_17_pdr_OQF_Mk_II.short	76mm 17pdr MkII
+UK.76mm_17_pdr_OQF_Mk_IV	76mm 17pdr OQF MkIV, cañón de tanque
+UK.76mm_17_pdr_OQF_Mk_IV.short	76mm 17pdr MkIV
+UK.76mm_17_pdr_OQF_Mk_V	76mm 17pdr OQF MkV, cañón de tanque
+UK.76mm_17_pdr_OQF_Mk_V.short	76mm 17pdr MkV
+UK.76_2mm_QQF_3inch	O.Q.F. 3", obús Mk.I \n Obús de 76mm 
+UK.76_2mm_QQF_3inch.short	76mm O.Q.F. 3"
+UK.77mm_OQF_Mk_II	77mm OQF Mk.II (cañón de tanque OQF Mk.II)
+UK.77mm_OQF_Mk_II.short	77mm OQF Mk.II
+UK.7_7mm_BREN	.303 BREN (ametralladora BREN Mk.I 1938)
+UK.7_7mm_BREN.short	.303 BREN
+UK.7_7mm_Bren_Mk1	.303 BREN Mk.I (ametralladora Mk.I 1938)
+UK.7_7mm_Bren_Mk1.short	.303 BREN Mk.I
+UK.7_7mm_Enfield_No4_MK1	.303 No.4 Mk.I, fusil Lee-Enfield 1939
+UK.7_7mm_Enfield_No4_MK1.short	.303 No.4 Mk.I
+UK.7_7mm_Enfield_No4_MK1_T	.303 No 4 Mk I (T) fusil de francotirador con mira telescópica 1939
+UK.7_7mm_Enfield_No4_MK1_T.short	.303 No.4 Mk.I (T)
+UK.7_7mm_Vickers_Mk_I_HMG	.303 Vickers Mk.I (ametralladora Vickers 1912)
+UK.7_7mm_Vickers_Mk_I_HMG.short	.303 Vickers Mk.I
+UK.7_92mm_BESA	.33 BESA (ametralladora media de vehículo 1936)
+UK.7_92mm_BESA.short	.33 BESA
+UK.81mm_3_inch_Mortar	Mortero de 81mm (3 pulgadas)
+UK.81mm_3_inch_Mortar.short	81mm 3", mortero
+UK.87mm_25pdr_Mk2	87.6mm OQF 25 pdr Mk.II  (QF 25 pdr cañón-obús Mk.II L/28.8)
+UK.87mm_25pdr_Mk2.short	87.6mm OQF Mk.II
+UK.87mm_25pdr_Mk2_Bishop	87.6mm OQF 25 pdr Mk.II  \n QF 25 pdr cañón-obús Mk.II  L/28.8 
+UK.87mm_25pdr_Mk2_Bishop.short 87.6mm 25 pdr Mk.II
+UK.88mm_PIAT_Mk_I	88mm PIAT MkI \n Lanzagranadas antitanque (proyector de infantería, antitanque)
+UK.88mm_PIAT_Mk_I.short	88mm PIAT MkI
+UK.9mm_Sten_MkII	9mm Sten Mk.II (subfusil Sten Mk.II 1942)
+UK.9mm_Sten_MkII.short	9mm Sten Mk.II
+UK.9_65mm_Enfield_No2_MK1	.303 Enfield No.2 Mk.I (revólver Lee-Enfield No.2 Mk.I 1926/27)
+UK.9_65mm_Enfield_No2_MK1.short	.303 Enfield No.2 Mk.I
+UK.PIAT	PIAT \n 88mm PIAT MkI \n Lanzagranadas antitanque
+UK.PIAT.short	88mm PIAT MkI
+UK.QF_40_mm_Mark_III	Autocañón antiaéreo QF Bofors de 40mm Mk.III
+UK.QF_40_mm_Mark_III.short	QF 40mm Bofors
+USA.105mm_Howitzer_M2A1	Obús de 105mm M2A1
+USA.105mm_Howitzer_M2A1.short	105mm M2A1
+USA.11_43mm_Colt_M1911A1	.45 ACP M1911A1 Colt \n Pistola automática, .45 cal., 1911/26
+USA.11_43mm_Colt_M1911A1.short	.45 ACP M1911A1
+USA.11_43mm_M3A1_Grease_Gun	.45 ACP M3A1 \n Subfusil "Grease Gun", mod. 1942
+USA.11_43mm_M3A1_Grease_Gun.short	.45 ACP M3A1
+USA.11_43mm_Tompson_M1A1	.45 ACP M1A1 \n Subfusil "Thompson", mod. 1928
+USA.11_43mm_Tompson_M1A1.short	.45 ACP Thompson
+USA.12_7mm_Browning_M2HBx4	.50 cal M2HB Quad \n Ametralladora Browning
+USA.12_7mm_Browning_M2HBx4.short	.50 cal M2HB Quad
+USA.12_7mm_Browning_M2_HMG	.50 cal M2HB \n Ametralladora Browning
+USA.12_7mm_Browning_M2_HMG.short	.50 cal M2HB
+USA.37mm_M6	37mm M6 \n Cañón de tanque
+USA.37mm_M6.short	37mm M6
+USA.40mm_Bofors_AA_Gun	40mm Bofors \n Autocañón antiaéreo
+USA.40mm_Bofors_AA_Gun.short	40mm Bofors
+USA.40mm_Bofors_M2_AA_Gun	40mm Bofors M2, cañón antiaéreo
+USA.40mm_Bofors_M2_AA_Gun.short	40mm Bofors M2
+USA.57mm_AT_gun_M1	57mm M1 \n Cañón antitanque
+USA.57mm_AT_gun_M1.short	57mm M1
+USA.75mm_M20_recoilless_gun	75mm M20 \n Cañón sin retroceso
+USA.75mm_M20_recoilless_gun.short	75mm M20
+USA.75mm_M3	75mm M3 \n Cañón de tanque, mod. 1942
+USA.75mm_M3.short	75mm M3
+USA.75mm_M6	76mm M6 \n Cañón de tanque 
+USA.75mm_M6.short	76mm M6
+USA.76mm_M1A2	76mm M1A2 \n Cañón de tanque
+USA.76mm_M1A2.short	76mm M1A2
+USA.76mm_M5	76mm M5 \n Cañón antitanque de 76mm M5
+USA.76mm_M5.short	76mm M5
+USA.76mm_M7	76mm M7 \n Cañón de tanque
+USA.76mm_M7.short	76mm M7
+USA.7_62mm_Browning_M1918A2	.30 M1918A2, fusil automático Browning 1940
+USA.7_62mm_Browning_M1918A2.short	.30 M1918A2 BAR
+USA.7_62mm_Browning_M1919A4	.30 M1919A4, ametralladora Browning 1934
+USA.7_62mm_Browning_M1919A4.short	.30 M1919A4
+USA.7_62mm_Browning_M1919A6	7.62mm M1919A6 Browning \n Ametralladora mod. 1934
+USA.7_62mm_Browning_M1919A6.short	7.62mm M1919A6
+USA.7_62mm_Johnson_M1941	7.62mm Johnson, .30 calibre, M1941 \n Ametralladora ligera Johnson 1941
+USA.7_62mm_Johnson_M1941.short	7.62mm Johnson
+USA.7_62mm_M1_Carbine	.30 cal M1, carabina \n .30 calibre, M1, 1941
+USA.7_62mm_M1_Carbine.short	.30 cal M1, carabina
+USA.7_62mm_M1_Garand	.30 cal M1 Garand, fusil \n .30 calibre, M1, 1936)
+USA.7_62mm_M1_Garand.short	.30 cal M1 Garand
+USA.7_62mm_M7_rifle_grenade_launcher	M7A1 \n Lanzagranadas para fusil M1
+USA.7_62mm_M7_rifle_grenade_launcher.short	M7A1
+USA.7_62mm_Springfield_M1903A4	.30 cal M1903A3, fusil Springfield \n .30 calibre, 1903/42)
+USA.7_62mm_Springfield_M1903A4.short	.30 cal M1903A3
+USA.7_62mm_Springfield_M1903A4_sniper	.30 cal M1903A4 Springfield \n Fusil de francotirador de cerrojo, 1903/42)
+USA.7_62mm_Springfield_M1903A4_sniper.short	.30 cal M1903A4 con mira
+USA.81mm_Mortar_M1	81mm M1, mortero
+USA.81mm_Mortar_M1.short	81mm M1
+USA.81mm_Mortar_M1_A	81mm M1, mortero
+USA.81mm_Mortar_M1_A.short	81mm M1
+USA.90mm_M3	90mm M3 \n Cañón de tanque
+USA.90mm_M3.short	90mm M3
+USA.M1_Bazooka	Lanzacohetes M1 \n Antitanque de 60mm M1 "Bazooka"
+USA.M1_Bazooka.short	M1 Bazooka
+USA.M20A1_Super_Bazooka	M20A1 "Super Bazooka" \n 89mm lanzacohetes antitanque
+USA.M20A1_Super_Bazooka.short	M20A1 Super Bazooka
+USA.M9A1_Bazooka	M9A1 "Bazooka" \n 60mm lanzacohetes antitanque
+USA.M9A1_Bazooka.short	M9A1 Bazooka

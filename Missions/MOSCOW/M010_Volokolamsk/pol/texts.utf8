@@ -1,0 +1,41 @@
+﻿[Mission.Objectives]
+Wyzwolić wieś spod nazistowskiego panowania.
+[Mission.Description]
+Nieprzyjaciel ucieka. W ciągu kilku dni trwania kontrofensywy wojska radzieckie dotarły do Wołokołamska. O każdą wieś toczone są zażarte walki. Dowództwo powierzyło ci zadanie pościgu za wycofującym się wrogiem. 
+Twoje rozkazy:
+-	Wyzwolić wieś spod nazistowskiego panowania.
+[Mission.Success]
+Wyzwoliłeś wieś. Zadanie wykonane!
+[Mission.Failed]
+Nie wykonałeś zadania!
+[Submission_1.Objectives]
+Wyzwolić wieś.
+[Submission_1.Description]
+Na północnym zachodzie znajduje się wieś, która stała się niemiecką twierdzą strzegącą drogi do Wołokołamska. Kontroluje ona trasę Moskwa-Wołokołamsk. 
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielską obronę z pomocą dostępnych sił.
+-	Wyzwolić wieś spod jarzma najeźdźców.
+[Submission_1.Success]
+Zadanie wykonane!
+[Submission_1.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.
+[Submission_2.Objectives]
+Zniszcz zgrupowanie sił nieprzyjaciela.
+[Submission_2.Description]
+Niemcy przeszli do aktywnej obrony, wykorzystując niewielkie grupy do precyzyjnych ataków. Zwiadowcy wykryli zbliżającego się nieprzyjaciela.
+Twoje rozkazy:
+-	Zniszczyć nacierające oddziały.
+[Submission_2.Success]
+Wojska nieprzyjaciela zostały pokonane. Zadanie wykonane!
+[Submission_2.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.
+[Submission_3.Objectives]
+Odeprzeć kontratak nieprzyjaciela.
+[Submission_3.Description]
+Wieś znalazła się w naszych rękach. Ale Niemcy chcą ją odzyskać, przeprowadzając kontratak z północy.
+Twoje rozkazy:
+-	Odeprzeć kontratak nieprzyjaciela.
+[Submission_3.Success]
+kontratak nieprzyjaciela został odparty. Zadanie wykonane!
+[Submission_3.Failed]
+Nie wykonałeś zadania! Nie udało ci się utrzymać zdobytych pozycji.

@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+Eliminate the fleeing enemy units.
+[Main_mission.Description]
+According to our intelligence reports, the defense in Caen has been smashed and the enemy is fleeing in haste. Our troops were late to close the trap though and we fear that some enemy units could slip away. Your task is to stop those German troops from getting out.
+
+Your orders:
+-	Consolidate your forces near the small village and hold the nearby road junction at all costs. Don’t leave the area under any circumstances as the enemy may turn up at any moment.
+[Main_Mission.Success]
+The enemy has been defeated! Now this area is secure!
+[Main_Mission.Failed]
+You have lost. The enemy has slipped from your grasp. 
+[Submission_1.Objectives]
+Destroy the enemy tanks.
+[Submission_1.Description]
+The remnants of various German units are trying to break through the encirclement. Although the enemy has been weakened he still constitutes a serious force. German armored units have been detected as well.
+
+Your orders:
+-	Prevent the enemy from breaking through. Destroy any enemy tanks encountered.
+[Submission_1.Success]
+Congratulations! You have stopped the enemy forces!
+[Submission_1.Failed]
+You have lost and the enemy units have slipped away from our trap.
+[Submission_2.Objectives]
+Stop the enemy troops!
+[Submission_2.Description]
+The enemy has more troops in this area than expected. He is attempting another breakout. 
+
+Your orders:
+-	Eliminate the enemy troops.
+[Submission_2.Success]
+You have succeeded! The enemy troops have been destroyed!
+[Submission_2.Failed]
+You have failed the task! 
+[Submission_3.Objectives]
+Occupy the farmstead. Eliminate the enemy if located.
+[Submission_3.Description]
+The Germans have failed to break through, but the enemy has not been eliminated yet. Headquarters feels that the best move now will be to launch an immediate offensive to wipe out the remaining enemy positions.
+
+Your orders:
+-	Launch an offensive. Attack the farm and eliminate the enemy.
+[Submission_3.Success]
+The enemy has been eliminated! The farm is under our control!
+[Submission_3.Failed]
+You have failed to capture the farm.
+[StringTable.Reserv]
+Reinforcements have arrived.

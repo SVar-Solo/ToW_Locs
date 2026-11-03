@@ -1,0 +1,47 @@
+﻿[Submission_2.Objectives]
+An enemy defensive position has been located. Your task is to root the enemy out.
+[Submission_2.Description]
+Recent intelligence has enabled you to locate a German defensive position in the village ahead. To aid the progress of the US 3rd Army’s units, you need to neutralize the enemy. 
+
+Your orders:
+-	Eliminate the enemy troops.
+[Submission_2.Success]
+The village is in our hands!
+[Submission_2.Failed]
+Resistance by the Germans turned out to be more serious than expected! We have lost this battle.
+[Submission_1.Objectives]
+Scout out the settlement using all means at your disposal.
+[Submission_1.Description]
+The German troops are fleeing but have left a small rear guard, which you must now engage.
+
+Your orders:
+-	Scout out the nearest settlement.
+[Submission_1.Success]
+Our scouts have completed their recon of the settlement.
+[Submission_1.Failed]
+The scout unit has been eliminated.
+[Submission_3.Objectives]
+Continue your progress along the road. Destroy the last German defensive position before the bridge across the canal.
+[Submission_3.Description]
+
+Your orders:
+-	Continue your advance to the next settlement.
+-	Attack the enemy when located.
+[Submission_3.Success]
+The last obstacle on your way to Brussels has been eliminated!
+[Submission_3.Failed]
+You’ve lost. The entire 3rd Army advance will now be delayed due to your failure.
+[Mission.Objectives]
+Root out any German defensive positions.
+[Mission.Description]
+After the Allies landed in Normandy, German troops rapidly retreated but various remnants stood and fought. The Germans were establishing defensive positions in nearly every village, turning each of them into a fortress. Although Rommel failed to establish fortified defensive lines due to a lack of time and resources, German soldiers kept fighting desperately.
+The schedule for the operation planned by Eisenhower and Montgomery was repeatedly broken and the offensive was delayed again and again. 
+
+Your orders:
+-	Destroy German defenses.
+[Mission.Success]
+You have won and driven the German units from his defensive positions.
+[Mission.Failed]
+You have lost. The Germans still hold some key defensive positions in this area.
+[StringTable.reserv]
+Reinforcements have arrived to support you.

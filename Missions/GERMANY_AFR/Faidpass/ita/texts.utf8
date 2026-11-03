@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+Irrompere nella città
+[Mission.Description]
+Saluti, maggiore, ho grandi aspettative nel suo gruppo. Lei sarà l'asse principale dell'avanzata e il primo a irrompere nella città per ottenere la vittoria. I dati della ricognizione aerea indicano una concentrazione di cannoni anticarro a nord. Ma dovrà avanzare in fretta, in modo che il nemico non abbia il tempo di far affluire rinforzi. Che Dio e il Reich tedesco siano con voi!
+[Mission.Success]
+Missione principale compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Objectives]
+Conquistare la città
+[Submission_1.Description]
+Conquistare Sidi Bou Zid.
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+Missione fallita.
+[Submission_2.Objectives]
+Distruggere i carri armati nemici
+[Submission_2.Description]
+Distruggere i carri armati nemici.
+[Submission_2.Success]
+I carri armati nemici sono stati distrutti.
+[Submission_2.Failed]
+Missione fallita.
+[StringTable.]
+Maggiore, signore, sono stati avvistati carri armati americani.
+[StringTable.Us_Tanks_isVis]
+Maggiore, signore, sono stati avvistati carri armati americani.
+[Submission_3.Objectives]
+Respingere un contrattacco
+[Submission_3.Description]
+Sidi Bou Zid è nostra. Ma i nostri piloti segnalano che il nemico si sta preparando attivamente a un contrattacco a est della città. Le forze nemiche comprendono carri armati e fanteria. Dobbiamo prendere ogni misura e respingere il contrattacco sulla città. 
+[Submission_3.Success]
+Il contrattacco nemico è stato respinto.
+[Submission_3.Failed]
+Abbiamo perso Sidi Bou Zid.
+[StringTable.INF]
+Maggiore, i Tiger in arrivo in suo aiuto sono stati distrutti. Assuma il comando della fanteria di scorta.
+[StringTable.Infantry]
+Maggiore, i Tiger in arrivo in suo aiuto sono stati distrutti. Assuma il comando della fanteria di scorta.
+[StringTable.Infantry_change]
+Maggiore, assuma il comando della fanteria di scorta.

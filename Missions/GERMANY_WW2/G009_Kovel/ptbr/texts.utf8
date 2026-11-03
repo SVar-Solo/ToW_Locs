@@ -1,0 +1,74 @@
+﻿[SubMission_1.Objectives]
+Repila o ataque principal das unidades de vanguarda do Exército Vermelho. Depois contra-ataque o inimigo e capture um posto de combustível vital. 
+[SubMission_1.Description]
+O Exército Vermelho avança ao longo de toda a linha de frente. A última linha defensiva reforçada dos alemães passa pela cidade de Kovel. O Quartel-General ordenou uma resistência até o último homem. A inteligência de linha de frente informa que os russos provavelmente lançarão uma ação de sondagem para reconhecer nossas defesas neste setor. 
+
+Suas ordens:
+- 	Repila o ataque russo e depois lance um contra-ataque para desorganizar o inimigo. 
+- 	Capture o posto de combustível inimigo.
+[SubMission_1.Success]
+A missão foi cumprida!
+[SubMission_1.Failed]
+Você fracassou, Comandante! 
+[Mission.Objectives]
+Impeça o inimigo de romper suas defesas.
+[Mission.Description]
+Os russos lançaram uma ofensiva com o objetivo de libertar a cidade de Kovel. Você deve defender a cidade e repelir este novo ataque.
+
+Suas ordens:
+- 	Repila todos os ataques inimigos.
+[Mission.Success]
+A ofensiva russa foi detida. A Alemanha não esquecerá o heroísmo de seus soldados. 
+[Mission.Failed]
+Este é um dia negro para a Alemanha! Você não conseguiu deter os russos e perdeu esta batalha.
+
+[Submission_2.Objectives]
+Você deve levar estes caminhões-tanque intactos até o posto de combustível. 
+[Submission_2.Description]
+As equipes dos caminhões russos fugiram; leve esses caminhões até o posto de combustível! 
+
+Suas ordens:
+- 	Entregue os caminhões-tanque de gasolina ao posto de combustível na aldeia.
+[Submission_2.Success]
+Bom trabalho, Comandante. Estes caminhões de gasolina virão a calhar! 
+[Submission_2.Failed]
+Os caminhões-tanque de gasolina foram perdidos.
+[Submission_3.Objectives]
+Prepare as defesas da melhor forma possível para repelir o ataque russo iminente.
+[Submission_3.Description]
+Segundo dados de inteligência, os russos preparam outra ofensiva. Prepare-se da melhor forma possível para resistir a esta nova ameaça.
+
+Suas ordens: 
+- 	Mantenha suas posições contra as forças inimigas que avançam. 
+[Submission_3.Success]
+Bom trabalho! Você destruiu as tropas de assalto inimigas!
+[Submission_3.Failed]
+O ataque inimigo foi simplesmente forte demais para ser superado. Você fracassou.
+[Submission_5.Objectives]
+Destrua as tropas de assalto inimigas
+[Submission_5.Description]
+As tropas de assalto russas voltam a seguir para o depósito de combustível. Você deve impedir que rompam! Fique também atento a sabotadores inimigos que possam tentar se infiltrar em suas linhas e perturbar nossas posições de artilharia na retaguarda.
+
+Suas ordens:
+- 	Destrua as tropas de assalto que se aproximam.
+[Submission_5.Success]
+As unidades inimigas foram destruídas!
+[Submission_5.Failed]
+O inimigo rompeu!
+[Submission_6.Objectives]
+Destrua um comboio de caminhões-tanque de gasolina russo e capture os caminhões-tanque, se possível. 
+[Submission_6.Description]
+Durante o ataque, 4 caminhões-tanque cheios de gasolina deixaram o posto de combustível! Você precisa deter esse comboio!
+
+Suas ordens:
+- 	Capture o comboio de caminhões-tanque de gasolina, se possível. Se não puder capturá-los e eles ameaçarem escapar, você pode destruí-los.
+[Submission_6.Success]
+Bom trabalho, Comandante, você impediu que a gasolina voltasse aos russos.
+[Submission_6.Failed]
+Os caminhões-tanque de gasolina conseguiram escapar. Você não conseguiu detê-los a tempo. 
+[StringTable.inf_reserv]
+Um novo destacamento de infantaria foi designado ao seu comando.
+[StringTable.Tank_reserv]
+Um destacamento de tanques foi designado ao seu comando.
+[StringTable.SPG_reserv]
+Uma seção de canhões autopropulsados foi designada ao seu comando.

@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Dispute the enemy advance in the direction of Dubrova - Syrtsev.
+[Mission.Description]
+In conjunction with antitank artillery battery and antitank rifle platoon hold the area of the defense firmly. A special priority should be given to holding the positions on the right flank and in Syrtsev. 
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+The enemy disrupted the defensive line, our troops are retreating.
+[Submission_1.Objectives]
+Prevent the enemy from destroying the air defense battery positioned in the village. 
+[Submission_1.Success]
+Attempt to penetrate the right flank of defense is suppressed.
+[Submission_1.Failed]
+The air defense battery has been destroyed, the enemy advances on the right flank.
+[Submission_2.Objectives]
+Hold the positions in the vicinity of Syrtsev at any cost.
+[Submission_2.Success]
+Mission complete, the enemy attacks have been repelled.
+[Submission_2.Failed]
+Our forces withdraw under strikes of superior enemy.
+[Submission_3.Objectives]
+Withdraw the troops to the positions in Syrtsev. Prevent the enemy from capturing the village.
+[Submission_3.Success]
+Mission complete, the enemy attacks have been repelled.
+[Submission_3.Failed]
+Syrtsev has been occupied by the enemy, our troops withdraw.
+[StringTable.SPG_InCome]
+Assault guns from 1440th Self-propelled Artillery Regiment are now under your command.
+[StringTable.Infantry_InCome]
+An infantry unit from the 272nd Guards Regiment is now under your control. 
+[StringTable.Tanks_InCome]
+A tank group from the 1st Mechanized Brigade is now under your control. 
+[StringTable.ChangeArmy]
+The adjacent unit has been dispatched under your command.
+
+[StringTable.SPG]
+Assault guns from 1440th Self-propelled Artillery Regiment
+[StringTable.TANKS]
+Tanks from 1st Mechanized Brigade
+[StringTable.INFANTRY]
+Infantry from the 272th Guards Infantry Regiment
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

@@ -1,0 +1,70 @@
+﻿[Mission1.Objectives]
+Vertreiben Sie die faschistischen Aggressoren aus dem Dorf.
+[Mission1.Description]
+Deutsche Einheiten der Armeegruppen Süd und Mitte halten Verteidigungsstellungen am Rande der Stadt Kovel. Sie müssen vernichtet werden.
+
+Ihre Befehle: 
+-	 Vertreiben Sie die feindlichen Einheiten aus ihren Verteidigungsstellungen rund um Kovel.
+[Mission1.Success]
+Der Angriff war erfolgreich und das Dorf wurde befreit. Die Einwohner berichten von den unvorstellbaren Greueltaten, die die Faschisten während ihrer Besetzung ausgeführt hatten. Diese Geschichten haben die Herzen Ihrer Soldaten nur noch mehr unter Feuer gesetzt!
+[Mission1.Failed]
+Die Aufgabe wurde nicht erfüllt und Ihr Angriff ist versandet. Ihre unüberlegten Aktionen haben den Erfolg der gesamten Operation aufs Spiel gesetzt!
+[Submission2.Objectives]
+Halten Sie den Feind auf.
+[Submission2.Description]
+Aufklärungsberichte besagen, dass mehrere feindliche Einheiten sich dem Treibstoffdepot nähern.
+
+Ihre Befehle: 
+-	 Verhindern Sie, dass der Feind das Treibstoffdepot erobern kann.
+[Submission2.Success]
+Der feindliche Angriff wurde abgewehrt. Jetzt können wir weiter vorrücken!
+[Submission2.Failed]
+Der Feind hat das Treibstoffdepot erbeutet. Ihre Bemühungen sind fehlgeschlagen.
+[Submission1.Objectives]
+Vertreiben Sie den Feind aus dem Treibstoffdepot.
+[Submission1.Description]
+Das komplexe Strassennetz in diesem Gebiet ist völlig ungeeignet um alle Einheiten mit Nachschub, Waffen und Treibstoff ausreichend zu versorgen. Daher sind Treibstoffdepots extrem wertvoll und dürfen dem Feind nicht in die Hände fallen. Wenn Sie feindliche Depots finden müssen Sie sie mit allen verfügbaren Mitteln für Ihre eigene Benutzung erbeuten.
+
+Ihre Befehle lauten: 
+-	 Erbeuten Sie das feindliche Treibstoffdepot.
+-	 Richten Sie eine Stellung ein, damit wir Reserveeinheiten näher an die Front verlegen können. 
+[Submission1.Success]
+Das Treibstoffdepot wurde erobert und wir haben eine wertvolle logistische Einrichtung gewonnen.
+[Submission1.Failed]
+Sie konnten diese Schlüsseleinrichtung nicht einnehmen.
+[Mission1_1.Objectives]
+Rücken Sie weiter in das feindliche Gebiet vor.
+[Mission1_1.Description] 
+Die feindlichen Verteidigungslinien wurden durchschlagen! Sie sollen den Vormarsch in dieser Richtung weiter vorantreiben und die deutschen Einheiten in der vor Ihnen liegenden Stadt angreifen. Wir dürfen nicht zulassen, dass der Feind die Initiative wiedererlangt, also greifen Sie schnell an, Kommandeur.
+
+Ihre Befehle:
+-	 Greifen Sie den Feind in dem Dorf an.
+[Mission1_1.Success]
+Sie haben Ihre Befehle zur vollsten Zufriedenheit ausgefüht und die Verteidigungslinien des Feindes zerbröckeln!
+[Mission1_1.Failed]
+Die Deutschen haben ihre Stellungen im Dorf halten können.
+[Submission2_1.Objectives]
+Greifen Sie die feindliche Panzergruppe an.
+[Submission2_1.Description]
+Aufklärungsberichte deuteten auf eine schwache deutsche Flanke hin. Dir haben die leichten Verteidigungsanlagen hinter uns gelassen, sind aber jetzt schweren Panzereinheiten begegnet.
+
+Ihre Befehle: 
+-	 Greifen Sie die feindliche Panzergruppe an.
+[Submission2_1.Success]
+Die feindlichen Panzer wurden zerstört.
+[Submission2_1.Failed]
+Der Feind war zu stark. Sie sind gescheitert.
+Ihre Truppen wurden eliminiert!
+[Mission1_2.Objectives]
+Greifen Sie den Feind in dem Dorf an.
+[Mission1_2.Description]
+Die feindlichen Verteidigungslinien wurden durchschlagen! Um diesen Erfolg komplett zu machen müssen wir den Vormarsch fortsetzen und die deutschen Truppen in dem Dorf angreifen. Unsere Aufklärung berichtet, dass der Feind starke Reservetruppen aufgestellt hat, also seien Sie gewappnet, Kommendant.
+
+Ihre Befehle: 
+-	 Greifen Sie den Feind in dem Dorf an.
+[Mission1_2.Success]
+Sie haben das Dorf erfolgreich erobert.
+[Mission1_2.Failed]
+Das Dorf konnte nicht gesichert werden und der Angriffsschwung ging verloren.
+[StringTable.Reserv]
+Sie erhielten zusätzliche Verstärkungen.

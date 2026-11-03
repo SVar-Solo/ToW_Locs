@@ -1,0 +1,267 @@
+﻿Support.Art_120mm_mod_1941_HE_6units	Mörser 120mm
+Support.Art_82mm_mod_1941_HE	Mörser 82mm
+Support.Art_82mm_mod_1941_Smoke	Mörser 82mm (Nebel)
+Support.Art_Mortar_Fr_81mm_Mortar	Mörser 81mm
+Support.Art_Mortar_Ger_120mm_GrW_42	Mörser 120mm GrW 42
+Support.Art_Mortar_Ger_81mm_GrW_34	Mörser 81mm GrW 34
+Support.Art_Mortar_Ger_81mm_Smoke	Mörser 81mm Nebel
+Support.Art_Mortar_Pol_81mm_Mortar_mod_1931	Mörser 81mm mod 1931
+Support.Art_Mortar_Rus_120mm_mod_1938	Mörser 120mm mod 1938
+Support.Art_Mortar_Rus_82mm_mod_1941	Mörser 82mm mod 1941
+Support.Art_Mortar_UK_107mm_4_2_inch_HE	Mörser 107mm 4,2 Zoll HE
+Support.Art_Mortar_UK_107mm_4_2_inch_Smoke	Mörser 107mm 4,2 Zoll Nebel
+Support.Art_Mortar_UK_76_2mm_3inch	Mörser 76,2mm 3 Zoll
+Support.Art_Mortar_UK_81mm_3_inch_Mortar_HE	Mörser 3 Zoll HE
+Support.Art_Mortar_UK_81mm_3_inch_Smoke	Mörser 81mm 3 Zoll Nebel
+Support.Art_Mortar_USA_107mm_4_2_inch_HE	Mörser 107mm M30
+Support.Art_Mortar_Usa_81mm_M1_smoke	Mörser 81mm M1 (Nebel)
+Support.Art_Mortar_Usa_81mm_Mortar_M1	Mörser 81mm M1
+Support.Art_Support_132mm_BM_13	132mm BM-13 "Katjuscha" Raketenartillerie-Batterie
+Support.Art_Support_15cm_Nebelwerfer_41	150mm Nb.41 Raketenartillerie-Batterie
+Support.Art_Support_15cm_Nebelwerfer_41.short	150mm Nb.41 Batterie
+Support.Art_Support_Fr_105mm_K_17_HE_8units_5calls	Artillerie 105mm К HE
+Support.Art_Support_Ger_105mm_leFH18M_L28_HE_16units_5calls	Batterie 105mm leFH18M (16 Stück)
+Support.Art_Support_Ger_105mm_leFH18M_L28_HE_8units_5calls	Artillerie 105mm HE
+Support.Art_Support_Ger_105mm_Smoke_8units_5calls	Artillerie 105mm Nebel
+Support.Art_Support_Ger_150mm_sFH18_1_L30_HE_16units_5calls	Batterie 150mm sFH18 (16 Stück)
+Support.Art_Support_Ger_150mm_sFH18_1_L30_HE_32units_5calls	Artillerieregiment 150mm sFH18 (32 Stück)
+Support.Art_Support_Ger_150mm_sFH18_1_L30_HE_8units_5calls	Artillerie 150mm HE
+Support.Art_Support_Ita_105mm_Cannone_da_105_28_HE_18units_5calls	Artillerie 18 Rohre 105mm HE
+Support.Art_Support_Ita_105mm_Cannone_da_105_28_HE_8units_5calls	Artillerie 8 Rohre 105mm HE
+Support.Art_Support_Pol_105mm_K_17_HE_8units_5calls	Artillerie 105mm К HE
+Support.Art_Support_Rus_122mm_M_30_HE_12units_5calls	Batterie 122mm M-30 (12 Stück)
+Support.Art_Support_Rus_122mm_M_30_HE_16units_5calls	Batterie 122mm M-30 (16 Stück)
+Support.Art_Support_Rus_122mm_M_30_HE_16units_5calls.short	16x122mm M-30
+Support.Art_Support_Rus_122mm_M_30_HE_8units_5calls	Batterie 122mm M-30 (8 Stück)
+Support.Art_Support_Rus_122mm_M_30_HE_8units_5calls.short	8x122mm M-30
+Support.Art_Support_Rus_152mm_M_10_HE_8units_5calls	Artillerie 152mm HE
+Support.Art_Support_Rus_152mm_ML_20_HE_16units_5calls	Batterie 152mm ML-20 (16 Stück)
+Support.Art_Support_Rus_152mm_ML_20_HE_16units_5calls.short	16x152mm ML-20
+Support.Art_Support_Rus_152mm_ML_20_HE_32units_5calls	4 Bataillone 152mm ML-20 (32 Stück)
+Support.Art_Support_Rus_152mm_ML_20_HE_8units_5calls	Batterie 152mm ML-20 (8 Stück)
+Support.Art_Support_Rus_152mm_ML_20_HE_8units_5calls.short	8x152mm ML-20
+Support.Art_Support_UK_105mm_Howitzer_M2A1_HE_8units_5calls	Artillerie 105mm M2A1 HE
+Support.Art_Support_UK_105mm_Smoke_8units_5calls	Artillerie 105mm Nebel
+Support.Art_Support_UK_87mm_25pdr_gun_howitzer_16units_5calls	Batterie 87mm 25-Pfünder (16 Stück)
+Support.Art_Support_UK_87mm_25pdr_gun_howitzer_8units_5calls	Batterie 87mm 25-Pfünder (8 Stück)
+Support.Art_Support_UK_87mm_25pdr_gun_howitzer_Smoke_8units_5calls	Batterie 87mm 25-Pfünder (8 Stück, Nebel)
+Support.Art_Support_UK_BL_5_5_Inch_Mk_II_16units_5calls	Batterie 140mm BL 5,5 Zoll Mk. II (16 Stück)
+Support.Art_Support_UK_BL_5_5_Inch_Mk_II_32units_5calls	Batterie 140mm BL 5,5 Zoll Mk. II (32 Stück)
+Support.Art_Support_UK_BL_5_5_Inch_Mk_II_8units_5calls	Batterie 140mm BL 5,5 Zoll Mk. II (8 Stück)
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_16units_5calls	Batterie 105mm M2A1 (16 Stück)
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_16units_5calls.short	16x105mm M2A1
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_8units_5calls	Batterie 105mm M2A1 (8 Stück)
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_8units_5calls.short	8x105mm M2A1
+Support.Art_Support_USA_105mm_Smoke_8units_5calls	Artillerie 105mm Nebel
+Support.Art_Support_USA_155mm_Howitzer_M1A2_16units_5calls	Batterie 155mm M1A2 (16 Stück)
+Support.Art_Support_USA_155mm_Howitzer_M1A2_16units_5calls.short	16x155mm M1A2
+Support.Art_Support_USA_155mm_Howitzer_M1A2_HE_8units_5calls	Batterie 155mm M1A2 (8 Stück)
+Support.Art_Support_USA_155mm_Howitzer_M1A2_HE_8units_5calls.short	8x155mm M1A2
+
+Support.BattlePlane_A_26_Invader_BattlePlane_Bombs_HVAR	A-26 Schlachtflugzeug, Bomben, 5-Zoll-Raketen (4 Flugzeuge)
+Support.BattlePlane_A_26_Invader_BattlePlane_Bombs_HVAR.short	4 A-26 (HVAR)
+Support.BattlePlane_A_26_Invader_Bomber	A-26 Bomber (4 Flugzeuge)
+Support.BattlePlane_A_26_Invader_Bomber.short	4 A-26
+Support.BattlePlane_Fr_Hawk_75A_4_2units_5calls	Jagdbomber Hawk 75A (2)
+Support.BattlePlane_Ger_Bf_110C_4B_2units_5calls	Jagdbomber Bf 110C (2)
+Support.BattlePlane_Ger_Bf_110C_4B_4units_5calls	Jagdbomber Bf 110C (4)
+Support.BattlePlane_Ger_Fw_190	Jagdbomber FW 190
+Support.BattlePlane_Ger_Fw_190_2units	Jagdbomber FW 190 (2)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_1xSC_250_Kursk1943_2units	Schlachtflugzeuge Fw-190A 1xSD-250 (2)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_1xSC_250_Kursk1943_4units	Schlachtflugzeuge Fw-190A 1xSD-250 (4)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_28xSD_10_Kursk1943_2units	Schlachtflugzeuge Fw-190A 28xSD-10 (2)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_28xSD_10_Kursk1943_4units	Schlachtflugzeuge Fw-190A 28xSD-10 (4)
+Support.BattlePlane_Ger_Hs_129B_2_BK_37_3units	Jagdbomber Hs 129B BK-3,7 (3 Flugzeuge)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_Kursk1943_2units	Schlachtflugzeuge Hs-129B2 Mk-103 (2 Flugzeuge)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_Kursk1943_4units	Schlachtflugzeuge Hs-129B2 Mk-103 (4 Flugzeuge)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_afrika_2units	Schlachtflugzeuge Hs-129B2 Mk-103 Afrika (2 Flugzeuge)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_afrika_4units	Schlachtflugzeuge Hs-129B2 Mk-103 Afrika (4 Flugzeuge)
+Support.BattlePlane_Ger_Ju-87D-3_1x500_3units_afrika	Schlachtflugzeuge Ju-87D3 1xSC-500 Afrika (3 Flugzeuge)
+Support.BattlePlane_Ger_Ju-87D-3_3x250_3units_afrika	Schlachtflugzeuge Ju-87D3 3xSD-250 Afrika (3 Flugzeuge)
+Support.BattlePlane_Ger_Ju-87D-3_4x50_1x250_3units_afrika	Schlachtflugzeuge Ju-87D3 4xSC-50 + 1xSD-250 Afrika (3)
+Support.BattlePlane_Ger_Ju_87D_3_1x500_Kursk1943_3units	Schlachtflugzeuge Ju-87D3 1xSC-500 (3)
+Support.BattlePlane_Ger_Ju_87D_3_3x250_Kursk1943_3units	Schlachtflugzeuge Ju-87D3 3xSD-250 (3)
+Support.BattlePlane_Ger_Ju_87D_3_4x50_1x250_Kursk1943_3units	Schlachtflugzeuge Ju-87D3 4xSC-50 + 3xSD-250 (3)
+Support.BattlePlane_Ger_Ju_87D_3_56xSD_10_1xSD_250_Kursk1943_3units	Schlachtflugzeuge Ju-87D3 56xSD-10 + 1xSD-250 (3)
+Support.BattlePlane_Il_2_M_38_23mm_Vya_4xRBS_132_Kursk1943_2units	Schlachtflugzeuge IL-2 M38 23mm VYa + 4хRBS-132 (2)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR	P-51 Jagdbomber, 500lb Bombe, 5-Zoll-Raketen (4 Flugzeuge)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR.short	4 P-51 (500lb, HVAR)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_2units	P-51 Jagdbomber, 500lb Bombe, 5-Zoll-Raketen (2 Flugzeuge)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_2units.short	2 P-51 (500lb, HVAR)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_8units	P-51 Jagdbomber, 500lb Bombe, 5-Zoll-Raketen (8 Flugzeuge)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_8units.short	8 P-51 (500lb, HVAR)
+Support.BattlePlane_Pol_P_11c_Battleplane_2units_5calls	Jagdbomber P 11C (2)
+Support.BattlePlane_prk_IL_10_RBS132_PTAB_Gun	IL-10 Schlachtflugzeug, 4xRBS-132, Panzerbomben (4 Flugzeuge)
+Support.BattlePlane_prk_IL_10_RBS132_PTAB_Gun.short	4 IL-10 (RBS, Panzerbomben)
+Support.BattlePlane_prk_IL_10_RS132_AO25_Gun	IL-10 Schlachtflugzeug, 4xRS-132, 25kg Splitterbomben (4 Flugzeuge)
+Support.BattlePlane_prk_IL_10_RS132_AO25_Gun.short	4 IL-10 (RS, FAB-25)
+Support.BattlePlane_prk_IL_10_RS132_AO2_5_Gun	IL-10 Schlachtflugzeug, 4xRS-132, Splitterbomben (4 Flugzeuge)
+Support.BattlePlane_prk_IL_10_RS132_AO2_5_Gun.short	4 IL-10 (RS, HE-Bomben)
+Support.BattlePlane_prk_IL_10_RS132_FAB250_Gun	IL-10 Schlachtflugzeug, 4xRS-132, 250kg Sprengbomben (4 Flugzeuge)
+Support.BattlePlane_prk_IL_10_RS132_FAB250_Gun.short	4 IL-10 (RS, FAB-250)
+Support.BattlePlane_prk_IL_10_RS132_FAB50_Gun	IL-10 Schlachtflugzeug, 4xRS-132, 50kg Sprengbomben (4 Flugzeuge)
+Support.BattlePlane_prk_IL_10_RS132_FAB50_Gun.short	4 IL-10 (RS, FAB-50)
+Support.BattlePlane_Rus_IL_10_RBS132_PTAB_Gun	IL-10 Schlachtflugzeug, 4xRBS-132, Panzerbomben (4 Flugzeuge)
+Support.BattlePlane_Rus_IL_10_RBS132_PTAB_Gun.short	4 IL-10 (RBS, Panzerbomben)
+Support.BattlePlane_Rus_IL_10_RS132_AO25_Gun	IL-10 Schlachtflugzeug, 4xRS-132, 25kg Splitterbomben (4 Flugzeuge)
+Support.BattlePlane_Rus_IL_10_RS132_AO25_Gun.short	4 IL-10 (RS, FAB-25)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun	IL-10 Schlachtflugzeug, 4xRS-132, Splitterbomben (4 Flugzeuge)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun.short	4 IL-10 (RS, HE-Bomben)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun_8units	IL-10 Schlachtflugzeug, 4xRS-132, Splitterbomben (8 Flugzeuge)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun_8units.short	8 IL-10 (RS, HE-Bomben)
+Support.BattlePlane_Rus_IL_10_RS132_FAB250_Gun	IL-10 Schlachtflugzeug, 4xRS-132, 250kg Sprengbomben (4 Flugzeuge)
+Support.BattlePlane_Rus_IL_10_RS132_FAB250_Gun.short	4 IL-10 (RS, FAB-250)
+Support.BattlePlane_Rus_IL_10_RS132_FAB50_Gun	IL-10 Schlachtflugzeug, 4xRS-132, 50kg Sprengbomben (4 Flugzeuge)
+Support.BattlePlane_Rus_IL_10_RS132_FAB50_Gun.short	4 IL-10 (RS, FAB-50)
+
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_132_40xAO_10_2units	Schlachtflugzeuge IL-2 1941 spät 4xRS-132 + 10xAO-10 (2)
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_132_40xAO_10_4units	Schlachtflugzeuge IL-2 1941 spät 4xRS-132 + 10xAO-10 (4)
+Support.BattlePlane_Rus_Il_2_1941_late_8xROFS_132_4xFAB_50_2units	Schlachtflugzeuge IL-2 1941 spät 8xROFS-132 + 4xFAB-50 (2)
+Support.BattlePlane_Rus_Il_2_1941_late_8xROFS_132_4xFAB_50_4units	Schlachtflugzeuge IL-2 1941 spät 8xROFS-132 + 4xFAB-50 (4)
+Support.BattlePlane_Rus_Il_2_1941_late_20xAO_25_2units	Schlachtflugzeuge IL-2 1941 spät 20xAO-25 (2)
+Support.BattlePlane_Rus_Il_2_1941_late_20xAO_25_4units	Schlachtflugzeuge IL-2 1941 spät 20xAO-25 (4)
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_82_160xAO_2_5_2units	Schlachtflugzeuge IL-2 1941 spät 8xRS-82 + 160хAO-2.5 (2)
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_82_160xAO_2_5_4units	Schlachtflugzeuge IL-2 1941 spät 8xRS-82 + 160хAO-2.5 (4)
+
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_192xPTAB_2_5_2units	Schlachtflugzeuge IL-2 1943 4xRS-132 + 192хPTAB-2.5 (2)
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_192xPTAB_2_5_4units	Schlachtflugzeuge IL-2 1943 4xRS-132 + 192хPTAB-2.5 (4)
+Support.BattlePlane_Rus_Il_2_1943_6xFAB_100_2units	Schlachtflugzeuge IL-2 1943 6хFAB-100 (2)
+Support.BattlePlane_Rus_Il_2_1943_6xFAB_100_4units	Schlachtflugzeuge IL-2 1943 6хFAB-100 (4)
+Support.BattlePlane_Rus_Il_2_1943_4xRBS_132_6xFAB_50_2units	Schlachtflugzeuge IL-2 1943 4xRBS-132 + 6хFAB-50 (2)
+Support.BattlePlane_Rus_Il_2_1943_4xRBS_132_6xFAB_50_4units	Schlachtflugzeuge IL-2 1943 4xRBS-132 + 6хFAB-50 (4)
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_160xAO_2_5_2units	Schlachtflugzeuge IL-2 1943 4хRS-132 + 160хAO-2.5 (2)
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_160xAO_2_5_4units	Schlachtflugzeuge IL-2 1943 4хRS-132 + 160хAO-2.5 (4)
+Support.BattlePlane_Rus_Il_2_1943_20xAO_25_2units	Schlachtflugzeuge IL-2 1943 20xAO-25 (2)
+Support.BattlePlane_Rus_Il_2_1943_20xAO_25_4units	Schlachtflugzeuge IL-2 1943 20xAO-25 (4)
+
+Support.BattlePlane_Rus_Il_2_NS_37_4xFAB_50_2units	Schlachtflugzeuge IL-2 NS-37 + 4хFAB-50 (2)
+Support.BattlePlane_Rus_Il_2_NS_37_4xFAB_50_4units	Schlachtflugzeuge IL-2 NS-37 + 4хFAB-50 (4)
+
+Support.BattlePlane_UK_A-20C_2x500lbs+2x250lbs_4units_afrika	Schlachtflugzeuge A-20C 2x500lb + 2x250lb Afrika (4)
+Support.BattlePlane_UK_A-20C_2x500lbs_4units_afrika	Schlachtflugzeuge A-20C 2x500lb Afrika (4)
+Support.BattlePlane_UK_A-20C_4x250lbs_4units_afrika	Schlachtflugzeuge A-20C 4x250lb Afrika (4)
+Support.BattlePlane_UK_Hurricane_MkIIc_2units_5calls	Jagdbomber Hurricane (2)
+Support.BattlePlane_UK_P-40E_1x250lbs_2units_afrika	Schlachtflugzeuge P-40E 1x250lb Afrika (2)
+Support.BattlePlane_UK_P-40E_1x250lbs_4units_afrika	Schlachtflugzeuge P-40E 1x250lb Afrika (4)
+Support.BattlePlane_UK_P-40E_1x500lbs_2units_afrika	Schlachtflugzeuge P-40E 1x500lb Afrika (2)
+Support.BattlePlane_UK_P-40E_1x500lbs_4units_afrika	Schlachtflugzeuge P-40E 1x500lb Afrika (4)
+Support.BattlePlane_UK_Spitfire_MkVb_2units_afrika	Schlachtflugzeuge Spitfire MkVb Afrika (2)
+Support.BattlePlane_UK_Spitfire_MkVb_4units_afrika	Schlachtflugzeuge Spitfire MkVb Afrika (4)
+Support.BattlePlane_UK_Typhoon_MkIb_2units_5calls	Jagdbomber Typhoon Mk.IB (2)
+Support.BattlePlane_UK_Typhoon_MkIb_RP-3_2units	Jagdbomber Typhoon Mk.IB (2 Flugzeuge, RP-3-Raketen)
+Support.BattlePlane_USA_A-20C_2x500lbs+2x250lbs_4units_afrika	Schlachtflugzeuge A-20C 2x500lb + 2x250lb Afrika (4)
+Support.BattlePlane_USA_A-20C_2x500lbs_4units_afrika	Schlachtflugzeuge A-20C 2x500lb Afrika (4)
+Support.BattlePlane_USA_A-20C_4x250lbs_4units_afrika	Schlachtflugzeuge A-20C 4x250lb Afrika (4)
+Support.BattlePlane_USA_P-40E_1x250lbs_2units_afrika	Schlachtflugzeuge P-40E 1x250lb Afrika (2)
+Support.BattlePlane_USA_P-40E_1x250lbs_4units_afrika	Schlachtflugzeuge P-40E 1x250lb Afrika (4)
+Support.BattlePlane_USA_P-40E_1x500lbs_2units_afrika	Schlachtflugzeuge P-40E 1x500lb Afrika (2)
+Support.BattlePlane_USA_P-40E_1x500lbs_4units_afrika	Schlachtflugzeuge P-40E 1x500lb Afrika (4)
+Support.BattlePlane_USA_P_38L_Battleplane2	Schlachtflugzeuge P-38L (2)
+Support.BattlePlane_USA_P_38L_Battleplane4	Schlachtflugzeuge P-38L (4)
+Support.BattlePlane_USA_p_38l_HVAR_2units	Jagdbomber P-38 mit Raketen (2)
+Support.BattlePlane_USA_P_47D_22_2units_5calls	Jagdbomber P-47D (2)
+Support.BattlePlane_USA_P_47D_22_HVAR_2units	Jagdbomber P-47D mit Raketen (2)
+Support.BattlePlane_USA_P_51B_2units	Jagdbomber P-51B (2)
+
+Support.Bomber_Fr_Blenheim_MkIV_3units_5calls	Bomber Blenheim MkIV (3)
+Support.Bomber_Ger_Bf_110C_2units	Bomber Bf-110 (2)
+Support.Bomber_Ger_Bf_110C_4units	Bomber Bf-110 (4)
+Support.Bomber_Ger_Fw_190_ab_2units	Bomber FW-190 AB (2)
+Support.Bomber_Ger_Fw_190_ab_4units	Bomber FW-190 AB (4)
+Support.Bomber_Ger_Fw_190_bomb_2units	Bomber FW-190 (2)
+Support.Bomber_Ger_Fw_190_bomb_4units	Bomber FW-190 (4)
+Support.Bomber_Ger_He_111H_2_3units_5calls	Bomber He 111 H-2
+Support.Bomber_gorizont_Ger_Ju-87D-3_1x500_3units_afrika	Bomber Ju-87D3 1xSC-500 Afrika (3)
+Support.Bomber_gorizont_Ger_Ju-87D-3_3x250_3units_afrika	Bomber Ju-87D3 3xSD-250 Afrika (3)
+Support.Bomber_gorizont_Ger_Ju-87D-3_4x50_1x250_3units_afrika	Bomber Ju-87D3 4xSC-50 + 1xSD-250 Afrika (3)
+Support.Bomber_pike_Ger_Ju-87D-3_1x500_3units_afrika	Sturzkampfbomber Ju-87D3 1xSC-500 Afrika (3)
+Support.Bomber_pike_Ger_Ju-87D-3_3x250_3units_afrika	Sturzkampfbomber Ju-87D3 3xSD-250 Afrika (3)
+Support.Bomber_pike_Ger_Ju-87D-3_4x50_1x250_3units_afrika	Sturzkampfbomber Ju-87D3 4xSC-50 + 1xSD-250 Afrika (3)
+Support.Bomber_pike_Ger_Ju_87D_3_1x500_Kursk1943_3units	Sturzkampfbomber Ju-87D3 1xSC-500 (3)
+Support.Bomber_pike_Ger_Ju_87D_3_3x250_Kursk1943_3units	Sturzkampfbomber Ju-87D3 3xSD-250 (3)
+Support.Bomber_pike_Ger_Ju_87D_3_4x50_1x250_Kursk1943_3units	Sturzkampfbomber Ju-87D3 4xSC-50 + 1xSD-250 (3)
+Support.Bomber_Pol_P_11c_Bomber_3units_5calls	Bomber P 11c (3)
+Support.Bomber_Rus_Pe_2_4xFAB_250_4units	Bomber Pe-2 2xFAB-250 + 2xFAB-100 (4)
+Support.Bomber_Rus_Pe_2_10xFAB_100_4units	Bomber Pe-2 6xFAB-100 (4)
+Support.Bomber_Rus_Pe_2series359_3units_5calls	Bomber Pe-2 Serie 359 (3)
+Support.Bomber_UK_A-20C_4x250lbs_4units_afrika	Bomber A-20C 4x250lb Afrika (4)
+Support.Bomber_UK_A-20C_4x500lbs_4units_afrika	Bomber A-20C 4x500lb Afrika (4)
+Support.Bomber_UK_Typhoon_MkIb_Bomb_2units	Bomber Typhoon Mk.IB (2)
+Support.Bomber_UK_USA_Blenheim_MkI_3units_5calls	Bomber Blenheim Mk. I (3)
+Support.Bomber_USA_A-20C_4x250lbs_4units_afrika	Bomber A-20C 4x250lb Afrika (4)
+Support.Bomber_USA_A-20C_4x500lbs_4units_afrika	Bomber A-20C 4x500lb Afrika (4)
+Support.Bomber_USA_B_17D_3units_5calls	Bomber B-17D (3)
+Support.Bomber_USA_P_47D_2units	Bomber P-47D (2)
+Support.Bomber_USA_P_47D_4units	Bomber P-47D (4)
+
+Support.DiveBomber_Rus_Pe_2_4xFAB_250_4units	Sturzkampfbomber Pe-2 2хFAB-250 + 2xFAB-100 (4)
+Support.DiveBomber_Rus_Pe_2_10xFAB_100_4units	Sturzkampfbomber Pe-2 6xFAB-100 (4)
+Support.DiveBomber_Rus_Pe_2_6xFAB_100_4units	Sturzkampfbomber Pe-2 8хFAB-50 (4)
+
+Support.Fighter_Fr_MS_406_1units_5calls	Jäger MS 406
+Support.Fighter_Ger_Bf-109G-2_2units_afrika	Jäger Bf-109G-2 Afrika (2)
+Support.Fighter_Ger_Bf-109G-2_4units_afrika	Jäger Bf-109G-2 Afrika (4)
+Support.Fighter_Ger_Bf_109F_4_1units_5calls	Jäger Bf 109F-4
+Support.Fighter_Ger_Bf_109F_4_4units_5calls	Jäger Bf 109 (4)
+Support.Fighter_Ger_Bf_109G_2_Kursk1943_2units	Jäger Bf-109G-2 (2)
+Support.Fighter_Ger_Bf_109G_2_Kursk1943_4units	Jäger Bf-109G-2 (4)
+Support.Fighter_Ger_Fw_190A_8_1units_5calls	Jäger Fw 190A-8
+Support.Fighter_Pol_P_11c_Fighter_1units_5calls	Jäger P 11c
+Support.Fighter_Prk_La_9_2units	La-9 Jäger (zwei)
+Support.Fighter_Prk_La_9_2units.short	2 La-9 Jäger
+Support.Fighter_Prk_La_9_4units	La-9 Jäger (vier)
+Support.Fighter_Prk_La_9_4units.short	4 La-9 Jäger
+Support.Fighter_Rus_La_5_Kursk1943_2units	Jäger La-5 (2)
+Support.Fighter_Rus_La_5_Kursk1943_4units	Jäger La-5 (4)
+Support.Fighter_Rus_La_7_1units_5calls	Jäger La-7
+Support.Fighter_Rus_La_9_2units	La-9 Jäger (zwei)
+Support.Fighter_Rus_La_9_2units.short	2 La-9 Jäger
+Support.Fighter_Rus_La_9_4units	La-9 Jäger (vier)
+Support.Fighter_Rus_La_9_4units.short	4 La-9 Jäger
+Support.Fighter_Rus_Yak_1B_1units_5calls	Jäger Yak-1B
+Support.Fighter_Rus_Yak_1B_Kursk1943_2units	Jäger YaK-1B (2)
+Support.Fighter_Rus_Yak_1B_Kursk1943_4units	Jäger YaK-1B (4)
+Support.Fighter_Rus_Yak_7B_Kursk1943_2units	Jäger YaK-7B (2)
+Support.Fighter_Rus_Yak_7B_Kursk1943_4units	Jäger YaK-7B (4)
+Support.Fighter_UK_Spitfire_MkVb_1units_5calls	Jäger Spitfire MkVb
+Support.Fighter_UK_Spitfire_MkVb_2units_afrika	Jäger Spitfire Afrika (2)
+Support.Fighter_UK_Spitfire_MkVb_4units_afrika	Jäger Spitfire Afrika (4)
+Support.Fighter_USA_P-40E_2units_afrika	Jäger P-40E Afrika (2)
+Support.Fighter_USA_P-40E_4units_afrika	Jäger P-40E Afrika (4)
+Support.Fighter_USA_P_38L_Fighter2	Jäger P-38L (2)
+Support.Fighter_USA_P_38L_Fighter4	Jäger P-38L (4)
+Support.Fighter_USA_P_51_Fighter_2units	P-51 Jäger (zwei)
+Support.Fighter_USA_P_51_Fighter_2units.short	2 P-51 Jäger
+Support.Fighter_USA_P_51_Fighter_4units	P-51 Jäger (vier)
+Support.Fighter_USA_P_51_Fighter_4units.short	4 P-51 Jäger
+Support.Fighter_USA_P_51B_1units_5calls	Jäger P-51B
+
+Support.Recon_Fr_Buffalo_MkI_1unit_5calls	Aufklärer Buffalo MkI
+Support.Recon_Ger_Fi_156_1unit_5calls	Aufklärer Fi 156
+Support.Recon_Pol_P_11c_Recon_1unit_5calls	Aufklärer P 11c
+Support.Recon_Rus_Il_2	Aufklärer Il-2
+Support.Recon_Rus_Pe_2	Aufklärer Pe-2
+Support.Recon_Rus_U_2VS_1unit_5calls	Aufklärer U-2VS
+Support.Recon_UK_Gladiator_MkII_1unit_5calls	Aufklärer Gladiator MkII
+Support.Recon_UK_Spitfire_MkVb	Aufklärer Spitfire MkVb
+Support.Recon_USA_P_38L_1unit_5calls	Aufklärer P-38L
+Support.ArmoredCar	Panzerwagen
+Support.Artillery	Artillerie
+Support.Artillery_AT	Panzerabwehrartillerie
+Support.Car	Pkw
+Support.Flak	Flak
+Support.Helicopter	Hubschrauber
+Support.Howitzer	Haubitzen
+Support.INF	Infanterie
+Support.Infantry	Infanterie
+Support.Infantry_AT	Panzerabwehr-Infanterie
+Support.Recon	Aufklärung
+Support.Saper	Pioniere
+Support.Sniper	Scharfschützen
+Support.MachineGun	Schwere MGs
+Support.MixedGroup	Gemischte Gruppe
+Support.Mortar	Granatwerfer
+Support.SPG	Selbstfahrgeschütze
+Support.TANKS	Panzer
+Support.TANKS_LIGHT	Leichte Panzer
+Support.TANKS_HEAVY	Schwere Panzer

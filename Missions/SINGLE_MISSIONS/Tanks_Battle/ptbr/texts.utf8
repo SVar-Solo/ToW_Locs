@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Nossas forças foram cercadas e agora tentam romper o cerco.
+[Mission.Description]
+Seu objetivo principal é romper o cerco inimigo. Tendo aberto caminho até o rio, impeça os russos de montarem posições de defesa antitanque, para que nossas unidades seguintes possam avançar sem obstáculos.
+[Mission.Success]
+Você conseguiu romper o cerco.
+[Mission.Failed]
+Suas forças não conseguiram romper o cerco.
+[Submission_1.Objectives]
+Rompa o cerco e avance em direção à cidade no rio. Para ampliar nosso corredor de avanço, engaje e destrua todas as unidades inimigas encontradas. 
+[Submission_1.Description]
+Suas ordens:
+	- Avançar até a cidade no rio
+	- Destruir todas as tropas inimigas pelo caminho
+[Submission_1.Success]
+Vitória! Suas forças romperam o cerco e estabeleceram um ponto forte ao longo do rio.
+[Submission_1.Failed]
+Você fracassou. Nossas forças não conseguiram romper o cerco.
+[StringTable.ger_reserv]
+O quartel-general designou algumas unidades blindadas ao seu comando. Use-as com sabedoria, comandante!

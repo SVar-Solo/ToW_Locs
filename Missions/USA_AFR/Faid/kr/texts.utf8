@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+독일군의 돌파를 저지하라
+[Mission.Description]
+워터스 중령! 독일군이 서쪽으로 돌파해서는 안 된다.
+[Mission.Success]
+독일군의 공세를 저지했다.
+[Mission.Failed]
+우리는 실패했다!
+[Submission1.Objectives]
+전선을 사수하라
+[Submission1.Description]
+시디 부 지드의 전선을 사수하라.
+[Submission1.Success]
+적을 격파했고 적이 후퇴하고 있다!
+[Submission1.Failed]
+적이 방어선을 분쇄했다! 후퇴하라!
+[Submission2.Objectives]
+버텨라
+[Submission2.Description]
+증원 부대가 도착할 때까지 버텨라.
+[Submission2.Success]
+증원 부대가 도착했다!
+[Submission2.Failed]
+[Submission3.Objectives]
+즉시 좌측 측면으로 전차를 보내 돌파구를 막아라!
+[Submission3.Description]
+[Submission3.Success]
+적의 돌파구를 막았다!
+[Submission3.Failed]
+[StringTable.Army3]
+적이 좌측 측면을 돌파하고 있다! 즉시 전차를 보내 돌파구를 막아라!
+[StringTable.Enemy]
+독일군이다! 지금 행동하라!
+[StringTable.Avia]
+공습 경보!
+[StringTable.Obhod]
+적이 북쪽에서 아군을 우회하고 있다!
+[Submission4.Objectives]
+적군을 공격하라
+[Submission4.Description]
+측면을 우회하는 적군을 공격하라.
+[Submission4.Success]
+적이 후퇴하고 있다!
+[Submission4.Failed]
+[StringTable.tank]
+전차
+[StringTable.human]
+보병

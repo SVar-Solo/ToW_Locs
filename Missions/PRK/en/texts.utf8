@@ -1,0 +1,198 @@
+﻿[PRK.FullName]
+The Leap of the Tiger
+
+[PRK.Description]
+In June 1950, North Korean troops, supported by artillery, crossed the 38th north parallel and invaded the Republic of Korea. Their army consisted of 135,000 soldiers, 150 T-34-85 tanks, and other military hardware. South Korea managed to call up 150,000 soldiers, though it lacked armored vehicles and aircraft. The North Korean advance was largely successful. On June 28, they captured Seoul, the capital of the Republic of Korea. But then, from July 3 onwards, by the decision of the UN Security Council, UN forces, mostly consisting of US troops, joined the conflict on the side of South Korea. Nevertheless, they could not push back the attack of the North Koreas, who on August 20 reached Pusan, the Republic's southernmost province.
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeongbuk-do
+
+[HAMGEN_PUKTO.Description]
+<Description> tag is missing
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+<Description> tag is missing
+
+[HAMGEN_NAMDO.FullName]
+Hwanghaenam-do
+
+[HAMGEN_NAMDO.Description]
+<Description> tag is missing
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+<Description> tag is missing
+
+[PHENAN_PUKTO.FullName]
+Pyeonganbuk-do
+
+[PHENAN_PUKTO.Description]
+<Description> tag is missing
+
+[PHENAN_NAMDO.FullName]
+Pyeongannam-do
+
+[PHENAN_NAMDO.Description]
+<Description> tag is missing
+
+[PHENYAN.FullName]
+Pyeongyang
+
+[PHENYAN.Description]
+<Description> tag is missing
+
+[KANWONDO_PUKTO.FullName]
+Gangwondo-pukto
+
+[KANWONDO_PUKTO.Description]
+The North Korean province of Gangwondo-pukto is located along the border region. It is mostly highland, but the terrain along the coastline is suitable for vehicle transport.
+
+[HVANHE_PUKTO.FullName]
+Hwanghae-pukto
+
+[HVANHE_PUKTO.Description]
+The southern border of the Hwanghaebuk-do province follows the 38th parallel. Enemy forces are concentrated to the south. The province is strategically critical to the defense of Pyeongyang, the capital of North Korea.
+
+[KANWONDO_NAMDO.FullName]
+Gangwondo-Namdo
+
+[KANWONDO_NAMDO.Description]
+The northern border of the Gangwonnam-do province follows the 38th parallel, which divides the Korean Peninsula into North and South Korea. Being a mountainous land, the province does not have any heavy fortifications, and the mountain passes are treacherous: even a small defending force can contain a superior attacking force. The small villages and monasteries have been converted into defensive citadels which are very difficult to capture. Only the rocky paths unsuitable for vehicles remain unoccupied.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Being the location of Seoul, the capital of South Korea, Gyeonggi-do is a strategically critical province. While mostly plains, the province is dotted by inhabited localities, many of which have been fortified. Naturally, Seoul itself is protected by South Korea's most experienced troops, and is also surrounded by heavy fortifications. The northern border of the province follows the 38th parallel, which divides Korea into North and South.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsangbuk-do
+
+[KENSAN_PUKTO.Description]
+Gyeongsangbuk-do provides access to the east coast of the Korean Peninsula. Whoever holds this province can receive supplies by sea, a significant strategic advantage. Gyeongsangbuk-do has numerous mountain valleys, but closer to the east coast, mountains lower, and the valleys widen and flatten. This makes the area very convenient for attacking but difficult to defend.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheongbuk-do
+
+[CHUNCHON_PUKTO.Description]
+Chungcheongbuk-do is the main transport corridor to Seoul, the capital of South Korea. Numerous military bases and fortifications are concentrated in this province. Gaining control over Chungcheongbuk-do would provide a significant advantage.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheongnam-do
+
+[CHUNCHON_NAMDO.Description]
+A large part of Chungcheongnam-do is occupied by nearly impassable mountains, but there are certain areas which are susceptible to attack, though naturally these are heavily defended and fortified. All of the population centers have been converted into strong points, but some of the rocky paths are impassable to vehicles. This makes them perfect for small infantry squads, which can maneuver covertly and take the enemy by surprise.
+
+[PUSAN.FullName]
+Pusan
+
+[PUSAN.Description]
+The Pusan Perimeter is the final position of the South Korean troops. This most important strategic area serves as a beachhead for the US forces, and boasts numerous well-defended strong points. Capturing the Pusan Perimeter, as well as Pusan, Ulsan and Pohang ports, would prevent the United Nations Command forces from bringing in reinforcements and supplies.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsangnam-do
+
+[KENSAN_NAMDO.Description]
+The Gyeongsangnam-do province adjoins the Jeollabuk-do and Gyeongsangbuk-do provinces. It is mostly occupied by mountains, and is home to three national parks: Gayasan, Deogyusan and Jirisan. The highest peak is the Deogyusan mountain (1614 meters). Like the rest of the Korean Peninsula, the province has a monsoon climate: warm and damp summers, and relatively cold and dry winters. The average annual temperature is 10.6 degrees Celsius, and the annual precipitation is 1395.2 mm (as of 1993). Most of the precipitation (850mm) falls during the raining season, which lasts for three summer months.
+
+[CHOPLA_PUKTO.FullName]
+Jeollabuk-do
+
+[CHOPLA_PUKTO.Description]
+Jeollabuk-do is located on the west coast. Its port is critical to the movement of personnel and supplies. However, with the exception of the coastal areas, the province is occupied by treacherous mountains, so there are no heavy fortifications.
+
+[CHOPLA_NAMDO.FullName]
+Jeollanam-do
+
+[CHOPLA_NAMDO.Description]
+Jeollanam-do is the southernmost province of South Korea. Mountains dominate its northern region. However, towards the southern and coastal regions, the mountains level out to wide valleys. In terms of strategic significance, the southern part of the province is important to the delivery of supplies by sea, thanks to its numerous large ports. The US military command uses this to its advantage. The capture of Jeollanam-do would mean the interruption of enemy supply lines, as well as access to sea supply routes.
+
+[Battle Group 6.Name]
+203rd Tank Reg.
+
+[Battle Group 13.Name]
+205th Tank Reg.
+
+[Battle Group 4.Name]
+24th Inf. Div.
+
+[Battle Group 3.Name]
+7th Inf. Div.
+
+[Battle Group 2.Name]
+1st Inf. Div.
+
+[Battle Group 14.Name]
+1st Inf. Div.
+
+[Battle Group 8.Name]
+603th Mech. Reg.
+
+[Battle Group 12.Name]
+12th Inf. Div.
+
+[Battle Group 9.Name]
+10th Inf. Div.
+
+[PRK.Epilogue]
+In the first 82 days of the Korean War, the Korean People's Army marched south of the 38th north parallel, sweeping away all South Korean troops that stood in their way. From the beginning of September, the Korean People's Army waged an all-out offensive, defeating South Korean and US forces, and securing 90% of the country and 92% of the population. During this first stage of the war, US military command pulled in a huge numbers of aircrafts and ships, five infantry divisions, several independent infantry regiments, five High Command Reserve artillery regiments, and four separate tank battalions. In addition, US military command undertook a number of urgent measures to reinforce the South Korean troops with both military hardware and personnel. Nevertheless, they were unable to withstand the onslaught of the Korean People's Army, and the US forces were forced to retreat. The Korean People's Army was a hair's breadth from seizing the entire Pusan area, but they lacked airborne and naval forces, and were suffering significant casualties, including losses of tanks and artillery.
+
+[PRK.FailureEpilogue]
+The Korean People's Army was struggling under very severe conditions. The forces were greatly imbalanced, and the People's Army suffered a severe deficit in weaponry and personnel, in the face of the overwhelming forces of UN Command. The troops of the Korean People's Army suffered heavy losses from the air and from artillery attacks, and were ultimately forced to retreat to the northern parts of the peninsula.
+
+[Battle Group 2.FullName]
+1st Infantry Division
+
+[Battle Group 3.FullName]
+7th Infantry Division
+
+[Battle Group 4.FullName]
+24th Infantry Division
+
+[Battle Group 6.FullName]
+2nd Tank Regiment
+
+[Battle Group 18.Name]
+1st Cav. Div.
+
+[Battle Group 18.FullName]
+1st Cavalry Division
+
+[Battle Group 8.FullName]
+603th Mechanized Regiment
+
+[Battle Group 9.FullName]
+10th Infantry Division
+
+[Battle Group 12.FullName]
+12th Infantry Division
+
+[Battle Group 13.FullName]
+205th Tank Regiment
+
+[Battle Group 14.FullName]
+1st Infantry Division
+
+[Reinforcement.PRK_artillery]
+General headquarters reserve artillery
+
+[Reinforcement.prk_infantry]
+Reserve infantry
+
+[Reinforcement.PRK_Tank]
+Reserve tanks
+
+[Reinforcement.Usa_artillery]
+Reserve artillery
+
+[Reinforcement.USA_infantry]
+Reserve infantry
+
+[Reinforcement.usa_tank]
+Reserve tanks
+

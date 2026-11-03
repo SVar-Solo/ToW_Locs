@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+노보셀로프카 일대의 적 방어선을 격파하라.
+[Mission.Description]
+철수한 러시아군 부대가 전차 및 대전차포병 집단과 함께 노보셀로프카 남쪽 구역과 마을 안에서 방어로 전환했다. 적 방어선의 측면은 지뢰밭으로 엄호되어 있다. 전투단은 노보셀로프카를 강습하여 적 방어선을 돌파하고 마을을 점령하라는 명령을 받았다.
+[Mission.Success]
+임무 완료. 노보셀로프카를 점령했다.
+[Mission.Failed]
+명령을 수행하지 못했다. 적이 너무 강하다! 
+[Submission_1.Objectives]
+마을의 적 방어 시설을 격파하라.
+[Submission_1.Success]
+적 방어 시설을 격파했다. 진지를 점령했다.
+[Submission_1.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다!
+[Submission_2.Objectives]
+북쪽으로 진격을 밀어붙여 노보셀로프카 마을 남부를 점령하라.
+[Submission_2.Success]
+마을 남부를 점령했다.
+[Submission_2.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[Submission_3.Objectives]
+노보셀로프카 북서쪽의 적 진지를 점령하라.
+[Submission_3.Success]
+임무 완료. 적 병력이 북서쪽으로 물러났다.
+[Submission_3.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[Submission_4.Objectives]
+러시아군 전차의 반격을 격퇴하라!
+[Submission_4.Success]
+적 전차를 격파했다!
+[Submission_4.Failed]
+아군은 적의 압박에 밀려 후퇴한다.
+[StringTable.First_support]
+사단 예비대의 전차 집단이 지휘관의 통제하에 들어왔다.
+[StringTable.Second_support]
+보병 부대와 자주포가 지휘관의 통제하에 들어왔다.
+
+[StringTable.Inf]
+보병
+[StringTable.Tanks]
+전차
+[StringTable.SPG]
+자주포
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

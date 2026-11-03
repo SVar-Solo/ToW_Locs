@@ -1,0 +1,23 @@
+﻿[Mission1.Objectives]
+Acompanhe a coluna blindada até a área indicada.
+[Mission1.Description]
+As tropas aliadas continuam a se expandir a partir de suas cabeças de praia na Normandia. Neste momento, tomar Caen é de máxima importância, pois, uma vez em nossas mãos, nosso avanço poderá prosseguir.
+
+Uma coluna de unidades blindadas inglesas (os famosos Ratos do Deserto) segue por uma estrada principal em direção à cidade de Caen. O Alto Comando deseja fechar o cerco sobre as posições alemãs nesta área usando as forças da 7ª Divisão Blindada inglesa. 
+[Mission1.Success]
+Suas ordens foram cumpridas e certamente tomaremos Caen em breve. Os alemães não conseguirão nos jogar de volta ao mar!
+[Mission1.Failed]
+Ordem não cumprida, os alemães conseguiram derrotá-lo. Considerando todas as forças que estavam à sua disposição, é realmente inacreditável que tenha sido derrotado!     
+[Mission2.Objectives]
+Destrua os tanques inimigos.
+[Mission2.Description]
+A caminho de Caen, a coluna de tanques do regimento inglês sofreu um ataque da 2ª Companhia do 101º Batalhão (pesado) de Panzers da SS, sob o comando de Michael Wittmann. Alguns dos tanques da coluna foram danificados. Os alemães preparam-se para desferir um golpe em direção a Villers-Bocage.  
+
+Suas ordens: 
+- 	Destrua os tanques inimigos.
+[Mission2.Success]
+Ordem cumprida! Os tanques inimigos foram destruídos e a estrada para Caen está livre!
+[Mission2.Failed]
+Suas tropas foram derrotadas! Você perdeu a batalha!
+[StringTable.Reserv]
+Reforços chegaram para apoiá-lo.

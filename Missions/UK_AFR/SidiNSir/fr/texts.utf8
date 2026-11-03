@@ -1,0 +1,49 @@
+﻿[Mission.Objectives]
+Tenez la ligne
+[Mission.Description]
+Tenez la ligne près de la gare de Sidi N’Sir avec les forces du 5e bataillon du Royal Hampshire Regiment, soutenues par la 155e batterie du 172e régiment d’artillerie de campagne.
+Au matin, l’ennemi a lancé une nouvelle attaque ; nous devons le retarder aussi longtemps que possible en lui infligeant le maximum de dégâts.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission1.Objectives]
+Établissez le contact avec la batterie.
+[Submission1.Description]
+Nous sommes soutenus par la batterie d’artillerie de campagne. Il y a quelque temps, le contact avec cette position de tir a été perdu. Nous devons envoyer notre observateur d’artillerie à leur poste d’observation.
+[Submission1.Success]
+Mission accomplie. La batterie ouvrira le feu sur les cibles repérées.
+[Submission1.Failed]
+Le poste d’observation a été détruit !
+[Submission2.Objectives]
+Tenez jusqu’à l’arrivée des renforts.
+[Submission2.Description]
+Les attaques ennemies deviennent plus violentes. Nous devons tenir la ligne coûte que coûte jusqu’à l’arrivée des renforts et infliger à l’ennemi le plus de dégâts possible. Il est vital de détruire les chars ennemis. Sans appui de chars, leur infanterie sera plus facile à contenir. 
+[Submission2.Failed]
+Mission échouée.
+[Submission2.Success]
+Mission accomplie.
+[Submission3.Objectives]
+Repliez-vous vers l’arrière.
+[Submission3.Description]
+Malgré ses pertes, l’ennemi continue d’engager de nouvelles forces et d’attaquer nos positions. Nous avons aussi subi des pertes sensibles, en particulier en artillerie, et ne pouvons plus contenir les Allemands. Heureusement, nous avons tenu la ligne assez longtemps pour que la batterie arrive et se mette en position de combat. Nous pouvons maintenant nous replier vers l’arrière, protégés par ses tirs. Nous devons nous dépêcher, car notre aviation va bientôt réduire la gare en miettes.
+[Submission3.Success]
+Mission accomplie.
+[Submission3.Failed]
+Ayant perdu le contrôle de vos troupes sous l’effet de la panique, vous n’avez pas réussi à vous replier en bon ordre sur une nouvelle ligne de défense. Votre unité a été frappée par notre propre aviation. Mission échouée.
+[Submission4.Objectives]
+Tenez jusqu’à l’arrivée des renforts
+[Submission4.Description]
+Le commandement envoie une autre batterie antichar dans notre secteur. Nous devons tenir la ligne jusqu’à son arrivée.
+[Submission4.Success]
+Mission accomplie. L’artillerie est arrivée et s’est déployée.
+[Submission4.Failed]
+Mission échouée.
+[StringTable.mess1]
+Les Allemands ont été stoppés net et ont commencé à se replier. Leur attaque soudaine a échoué ; la prochaine sera bien plus violente.
+[StringTable.mess2]
+Attention ! Avions d’assaut allemands ! Servants de la DCA, à vos pièces !
+[StringTable.mess3]
+Nous n’avons pas pu tenir la gare. Le haut commandement a décidé de la détruire pour qu’elle ne tombe pas aux mains des Allemands. Des bombardiers approchent ; repliez au plus vite les forces restantes pour ne pas être touchées par nos propres bombes.
+[StringTable.mess4]
+La batterie a été détruite.

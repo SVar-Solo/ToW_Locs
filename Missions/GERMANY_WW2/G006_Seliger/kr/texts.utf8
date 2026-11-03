@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+지정 구역의 적 병력을 격멸하라.
+[Mission1.Description]
+아군 부대는 셀리게르 호 부근에 있다. 사령부는 러시아군 전선 깊숙이 침투하여 다가오는 공세를 교란하라고 명령했다. 정보에 따르면 러시아군이 신형 T-34 전차를 다시 투입하고 있으며 이는 매우 치명적이다.
+
+명령:
+- 	전선의 이 구역에서 공세를 개시하라.
+-	인근 마을에서 방어 태세를 취한 적 병력을 격멸하라.
+[Mission1.Success]
+잘했다, 지휘관! 적이 완전히 격파되었다. 이제 러시아 제3, 제4군을 아늑한 방어 진지에서 영원히 몰아낼 수 있다!  
+[Mission1.Failed]
+적이 귀관의 모든 공격을 격퇴했다. 제국 장교로서 얼마나 수치스러운 일인가!
+[Submission1.Objectives]
+적 진지를 포격하라.
+[Submission1.Description]
+총공세를 개시하기 전에 러시아군 방어 진지를 포격하라.
+
+명령:
+- 	적 방어 진지를 포격하라.
+[Submission1.Success]
+포격은 성공적이었다. 러시아군이 크게 약화되었다!
+[Submission1.Failed]
+귀관의 포병 탄막은 효과가 없었다.
+[Submission2.Objectives]
+러시아군 스노모빌 대대를 공격하라. 
+[Submission2.Description]
+항공 정찰에 따르면 적 스노모빌이 측면에서 아군에게 접근하고 있다. 포위될 위험이 있으니 이 기동 부대를 즉시 공격하라.
+
+명령: 
+-	 적이 아군을 포위하기 전에 적 부대를 공격하라.
+[Submission2.Success]
+스노모빌 부대를 제거했다!
+[Submission2.Failed]
+귀관의 부대가 완전히 패배했다. 
+[Submission3.Objectives]
+진격하는 적 병력을 공격하라.
+[Submission3.Description]
+러시아군이 북방집단군과 중앙집단군 사이를 가르며 대규모 공세를 개시했다.   
+
+명령: 
+-	 진격하는 러시아군을 공격하라.
+[Submission3.Success]
+진격하던 적 병력이 완전히 격파되었다. 반드시 포상을 받을 것이다! 
+[Submission3.Failed]
+귀관의 부대가 전멸했다! 명령을 수행하지 못했다!
+[StringTable.Reserv]
+지원을 위한 증원 부대가 도착했다.

@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Neutralisieren Sie den Feind in dem markierten Bereich.
+[Mission1.Description]
+Unsere Einheiten stehen beim Seliger See. Das HQ hat uns befohlen, tief in die russischen Linien einzudringen und einer möglichen Feindoffensive zuvorzukommen.   Unsere Aufklärung berichtet, dass die Russen wieder ihre neuen und tödlichen T-34 Panzer einsetzen.
+
+Ihre Befehle lauten:
+-	 Starten Sie eine Offensive in diesem Frontabschnitt.
+-	 Eliminieren Sie die feindlichen Tuppen, die sich in einem nahegelegenen Drof verschanzt haben.
+[Mission1.Success]
+Gute Arbeit! Der Feind wurde komplett geschlagen. Jetzt können wir die russische 3. und 4. Armee aus ihren gemütlichen Verteidigungsstellungen ein und für alle Mal herausdrängen!  
+[Mission1.Failed]
+Der Feind hat alle Ihre Angriffe zurückgeschlagen. Was für eine Schande für einen Offizier des Dritten Reiches!
+[Submission1.Objectives]
+Bombardieren Sie die feindlichen Stellungen.
+[Submission1.Description]
+Bevor Sie mit der Offensive beginnen sollten Sie die russischen Verteidigungsstellungen mit Artillerie bombardieren.
+
+Ihre Befehle:
+-	 Bombardieren Sie die feindlichen Stellungen.
+[Submission1.Success]
+Das Bombardement war ein voller Erfolg. Die russischen Truppen wurden deutlich geschwächt!
+[Submission1.Failed]
+Ihr Artillerieschlag war ineffektiv.
+[Submission2.Objectives]
+Greifen Sie das russische Schneemobil Battalion an. 
+[Submission2.Description]
+Unsere Luftaufklärung berichtet, dass sich feindliche Schneemobile unseren Einheiten aus der Flanke nähern. Starten Sie sofort einen Angriff gegen diese mobilen Einheiten, ansonsten könnten wir umzingelt werden.
+
+Ihre Befehle: 
+-	 Greifen Sie die feindlichen Einheiten ein bevor sie unsere Truppen einkreisen können.
+[Submission2.Success]
+Die Schneemobil-Einheit wurde zerschlagen!
+[Submission2.Failed]
+Ihre Truppen wurden eliminiert. 
+[Submission3.Objectives]
+Greifen Sie die feindlichen Einheiten an.
+[Submission3.Description]
+Russische Truppen haben eine grossangelegte Offensive gestartet, und einen Schlag zwischen den Armeegruppen Nord und Mitte ausgeführt.   
+
+Ihre Befehle: 
+-	 Greifen Sie die vorrückenden russischen Einheiten an.
+[Submission3.Success]
+Die feindlichen Truppen wurden zerschlagen. Sie werden sicher ausgezeichnet! 
+[Submission3.Failed]
+Ihre Truppen wurden eliminiert! Sie sind gescheitert!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

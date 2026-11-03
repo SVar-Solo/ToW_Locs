@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+진지를 사수하라
+[Mission.Description]
+시디 부 지드 일대의 진지를 사수하라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Objectives]
+시가지 사수
+[Submission_1.Description]
+군 사령부가 예비 전차를 보내 주었으나 아직 이동 중이다. 적은 시디 부 지드를 되찾으려 필사적으로 덤비고 있다. 증원이 도착할 때까지 시가지를 사수해야 한다.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.
+[Submission_2.Objectives]
+적 포병 진지 파괴
+[Submission_2.Description]
+이제 군 사령부 예비 전차의 지휘권을 갖는다. 이를 활용하여 소규모 취락을 점령하고 적 포병 진지를 파괴하라.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+임무 실패.
+[StringTable.Add_tanks]
+- 소령, 군 사령부 예비 전차를 자네에게 제공하라고 명령했네. 미군은 큰 손실을 입었으니 반격할 때가 되었네. 자네와 부하들에게 행운이 있기를.

@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Rompa la línea defensiva Syrtsev - Dubrovo y destruya el puesto de mando de Syrtsev.
+[Mission.Description]
+El grupo de combate, con apoyo de tanques y cañones de asalto, avanzará hacia Dubrovo y Syrtsev, rebasando Syrtsev por el este. Derrote a los puntos fuertes enemigos y alcance después la orilla oriental del Pena, al norte de Syrtsev. Destruya a toda costa el puesto de mando soviético de Syrtsev.
+[Submission_1.Objectives]
+Rompa la línea defensiva Syrtsev - Dubrovo. Asegure el objetivo con infantería.
+[Submission_2.Objectives]
+Hay un puesto de mando enemigo en la aldea de Syrtsev. Es necesario continuar el avance y destruir el puesto de mando.
+[Submission_1.Success]
+La línea defensiva enemiga ha sido capturada.
+[Submission_1.Failed]
+El ataque ha sido frenado; se requiere apoyo inmediato.
+[Submission_2.Success]
+El puesto de mando enemigo ha sido destruido. Syrtsev ha sido ocupada por nuestras fuerzas.
+[Submission_2.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato.
+[Mission.Success]
+La línea defensiva enemiga Syrtsev - Dubrova ha sido penetrada. El puesto de mando enemigo en Syrtsev ha sido destruido.
+[Mission.Failed]
+No hemos podido cumplir nuestras órdenes. ¡El enemigo es demasiado fuerte! 
+[StringTable.Ger_infantry]
+Una unidad de infantería de reserva queda ahora bajo su control.
+[StringTable.Ger_support]
+Hay tanques, cañones autopropulsados y unidades de infantería en reserva. Se le concederá el mando sobre ellos si el ataque comienza con éxito.
+
+[StringTable.Inf]
+Infantería
+[StringTable.Tanks]
+Tanques
+[StringTable.SPG]
+Cañones autopropulsados
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Verhindern Sie, dass der Feind bei Nowoselowka durchbricht.
+[Mission.Description]
+Verteidigen Sie die vorderste Kampflinie 500 Meter südlich von Nowoselowka und die Panzerabwehrstellungen im Dorf selbst sowie entlang des zweiten Schützengrabens an der nordwestlichen Grenze von Nowoselowka. Konzentrieren Sie Ihre Anstrengungen darauf, das Zentrum des Dorfes zu halten. Verhindern Sie, dass der Feind im Norden von Nowoselowka durchbricht.
+[Mission.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Mission.Failed]
+Feindliche Truppen haben Nowoselowka besetzt und rücken nun weiter Richtung Norden vor.
+[Submission_1.Objectives]
+Halten Sie die Stellungen, bis Verstärkung eintrifft.
+[Submission_1.Success]
+Mission abgeschlossen, der feindliche Vorstoß wurde aufgehalten.
+[Submission_1.Failed]
+Der Feind rückt weiter vor; es besteht die Gefahr, dass er im Norden durchbricht.
+[Submission_2.Objectives]
+Verhindern Sie das Vorrücken des Feindes in den nordwestlichen Teil des Dorfes.
+[Submission_2.Success]
+Der eingebrochene Feind wurde zurückgeworfen.
+[Submission_2.Failed]
+Gegenangriff zurückgeschlagen, der Feind rückt weiter vor.
+[StringTable.Support]
+Eine Gruppe von Panzern und Infanterie steht jetzt unter Ihrem Kommando.
+[StringTable.Infantry]
+Infanterie des 959. Infanterieregiments
+[StringTable.Tanks]
+Panzer des 3. Mechanisierten Korps
+[StringTable.Call_SPG]
+Selbstfahrlafetten stehen nun unter Ihrem Kommando.
+
+[StringTable.SPG]
+Selbstfahrlafetten
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Ferma l’attacco nemico.
+[Submission1.Description]
+Dopo molte battaglie e molte settimane di combattimento, gli americani hanno lanciato una massiccia offensiva per distruggere la Panzer Lehr in maniera definitiva. Hai combattuto bene e le tue truppe hanno reso fiera la Patria, ma tutto sarà stato per nulla se fallisci ora. Sei ancora in inferiorità numerica, ma questo è il tuo destino e devi affrontarlo!
+ 
+I tuoi ordini sono:
+- Ferma l’attacco nemico.
+[Submission1.Success]
+Ben fatto, comandante! L’attacco nemico è stato fermato e le tue truppe continueranno a combattere.
+[Submission1.Failed]
+Missione fallita! Le tue truppe sono state sconfitte e non hanno fermato gli americani.
+[Submission2.Objectives]
+Respingi tutti gli attacchi del nemico.
+[Submission2.Description]
+I nostri esploratori hanno avvistato forze americane provenienti da nord. Non dobbiamo permettergli di avanzare ancora. Fermali, comandante!
+ 
+I tuoi ordini sono:
+- Respingi gli attacchi del nemico
+[Submission2.Success]
+Ben fatto, comandante! Gli attacchi del nemico sono stati respinti.
+[Submission2.Failed]
+Missione fallita! Le tue truppe sono state eliminate!

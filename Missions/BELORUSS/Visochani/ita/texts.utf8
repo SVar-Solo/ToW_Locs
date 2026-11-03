@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Liberare Visociani dagli occupanti tedeschi e distruggere la testa di ponte nemica.
+[Mission.Description]
+Dovete eliminare la guarnigione nemica di Kurtenki, che controlla la strada per Visociani; mettere in sicurezza questa strada; distruggere le truppe corazzate nemiche nell'area Kurtenki-Visociani e neutralizzare l'artiglieria alla periferia sud di Visociani.
+[Mission.Success]
+Compito portato a termine, Visociani liberata.
+[Mission.Failed]
+Compito fallito.
+[Submission1.Objectives]
+Liberare Kurtenki.
+[Submission1.Description]
+Eliminare la guarnigione nemica di Kurtenki e mettere in sicurezza la strada per Visociani. Prepararsi a respingere il contrattacco nemico.
+[Submission1.Success]
+Kurtenki messa in sicurezza.
+[Submission1.Failed]
+Compito fallito.
+[Submission2.Objectives]
+Distruggere la colonna corazzata nemica che accorre in aiuto della guarnigione di Kurtenki.
+[Submission2.Description]
+La colonna corazzata nemica sta accorrendo da Visociani in aiuto della guarnigione di Kurtenki. Intercettarla e distruggerla attirandola in un'imboscata.
+[Submission2.Success]
+Colonna nemica distrutta.
+[Submission2.Failed]
+Compito fallito.
+[Submission3.Objectives]
+Un altro gruppo corazzato nemico è partito da Visociani per intercettarvi. Distruggerlo e procedere alla liberazione del villaggio.
+[Submission3.Description]
+Mettere completamente in sicurezza la strada per Visociani. Distruggere il gruppo corazzato nemico.
+[Submission3.Success]
+La strada per Visociani è libera.
+[Submission3.Failed]
+Compito portato a termine.

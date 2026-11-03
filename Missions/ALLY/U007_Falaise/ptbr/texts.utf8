@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+Realize uma ação de sondagem. Expulse o inimigo do vale. 
+[Submission_1.Description]
+As forças alemãs estão recuando! Conseguimos encurralá-las num beco sem saída perto de Falaise, mas, mesmo assim, elas ainda oferecem forte resistência. A intenção de Eisenhower de cercar completamente os alemães ainda não foi concretizada. O inimigo montou alguns focos de defesa nas colinas próximas. 
+
+Suas ordens:
+- 	Realize uma ação de sondagem na aldeia próxima e destrua todas as unidades inimigas que encontrar.
+[Submission_1.Success]
+O vale agora está sob nosso controle!
+[Submission_1.Failed]
+Você foi derrotado. 
+[Submission_2.Objectives]
+Ataque as colinas e expulse o inimigo de todas as suas posições defensivas.
+[Submission_2.Description]
+A última linha de defesa alemã está adiante. Você recebeu apoio aéreo aproximado adequado, e sua tarefa é destruir as defesas inimigas. Aproveite nossa superioridade aérea, bem como sua vantagem numérica em terra.
+
+Suas ordens:
+- 	Destrua as defesas inimigas, abra caminho até uma cabeça de ponte nas colinas e estabeleça ali uma posição firme. 
+[Submission_2.Success]
+O inimigo foi derrotado. 
+[Submission_2.Failed]
+Derrota! Você não conseguiu romper as defesas inimigas.
+[Mission.Objectives]
+Esmague a resistência inimiga e elimine completamente suas defesas.
+[Mission.Description]
+As forças alemãs recuam sob a pressão do exército aliado, mas o inimigo ainda oferece séria resistência. As peculiaridades do terreno perto de Falaise deram vantagem aos alemães, embora as forças aliadas tenham considerável superioridade numérica sobre eles. Os focos de resistência deixados nas colinas criam obstáculos frequentes e custosos para nossas tropas. Precisamos superá-los antes que os alemães tenham a chance de se reorganizar.
+
+Suas ordens: 
+- 	Suprima todos os focos de resistência alemã nas colinas. 
+- 	Tendo concentrado suas forças, desfira um golpe decisivo, rompendo e, em seguida, destruindo as principais forças de defesa alemãs. 
+[Mission.Success]
+Você venceu. Os focos de resistência do inimigo foram destruídos.
+[Mission.Failed]
+Você perdeu. As forças alemãs resistiram às suas tentativas de desalojá-las.
+[StringTable.reserv]
+Reforços chegaram para apoiá-lo.
+[Submission_3.Objectives]
+Repila o contra-ataque inimigo.
+[Submission_3.Description]
+Tendo perdido suas posições defensivas, o inimigo pretende lançar um contra-ataque com forças de reserva.
+
+Suas ordens:
+- 	Repila o contra-ataque inimigo.
+[Submission_3.Success]
+O inimigo foi destruído. Seu contra-ataque fracassou.
+[Submission_3.Failed]
+Derrota! O contra-ataque inimigo foi bem-sucedido em recuperar a vantagem.

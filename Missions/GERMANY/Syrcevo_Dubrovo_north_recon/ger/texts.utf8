@@ -1,0 +1,29 @@
+﻿[Mission.Objectives]
+Finden und zerstören Sie die feindliche Flak-Batterie.
+[Mission.Description]
+Der Divisionskommandeur hat den Befehl gegeben, Sabotage- und Aufklärungsgruppen den Auftrag zu erteilen, den Kommandoposten der Flugabwehr zu zerstören und so viele Flugabwehrkanonen wie möglich auszuschalten. Unteroffizier Steiner wird eine Gruppe hochqualifizierter Soldaten zusammenstellen und anführen. 
+[Submission_1.Objectives]
+Steiners Gruppe soll die feindlichen Flugabwehrstellungen infiltrieren und diese ausschalten. In einem der Häuser im Dorf befindet sich ein Funksender. Verwenden Sie diesen, um Luftunterstützung anzufordern.
+[StringTable.radio_avia]
+Der feindliche Funksender wurde gefunden. Sie verfügen nun über Luftunterstützung.
+[StringTable.radio_mortar]
+Der feindliche Funksender wurde gefunden. Sie verfügen nun über Mörserfeuer.
+[Submission_1.Success]
+Steiners Einheit berichtet: Die FlaK-Batterie wurde zerstört. 
+[Submission_1.Failed]
+Steiners Gruppe wurde vernichtet. Die Befehle des Divisionskommandeurs wurden nicht ausgeführt.
+[Mission.Success]
+Die Sabotage- und Aufklärungsgruppe hat ihren Auftrag ausgeführt. Warten auf Bodenangriff durch die Luftunterstützung.
+[Mission.Failed]
+Die Sabotage- und Aufklärungsgruppe wurde vernichtet. Starke feindliche Luftabwehr verhindert den Einsatz von Flugzeugen.
+[StringTable.Radio_avia_dis]
+Verbindung mit dem Kommandoposten ist unterbrochen. Luftunterstützung kann nicht angefordert werden.
+[StringTable.Radio_mortar_dis]
+Verbindung wurde unterbrochen. Ohne Zielvorgaben kann nicht gefeuert werden.
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

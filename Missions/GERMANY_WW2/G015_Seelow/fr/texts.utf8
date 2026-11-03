@@ -1,0 +1,38 @@
+﻿[Submission_1.Objectives]
+Empêcher les Russes de traverser le canal. 
+[Submission_1.Description]
+Prusse orientale… Les Russes avancent vers Berlin. La dernière chance de repousser l’ennemi se trouve sur les hauteurs de Seelow. Des collines couvrent le terrain et les vallées sont coupées par des canaux. Votre mission est de contenir l’avance ennemie en attendant que des renforts nous parviennent. De bonnes positions défensives se trouvent de chaque côté du canal. Afin de gagner du temps pour que nos renforts arrivent et se déploient, il faut empêcher les Russes de traverser le canal.
+
+Vos ordres sont : 
+- 	Tenir jusqu’à ce que les renforts arrivent. 
+- 	Empêcher les Russes de traverser le canal.
+[Submission_1.Success]
+Bien joué ! L’héroïsme de vos soldats est sans égal !
+[Submission_1.Failed]
+Vous avez perdu, l’Allemagne est condamnée.
+[Submission_2.Objectives]
+Préparer les défenses sur les hauteurs. Repousser l’attaque soviétique. 
+[Submission_2.Description]
+Le quartier général vous a attribué des unités de la réserve divisionnaire. Organisez des positions défensives sur les hauteurs et repoussez l’attaque soviétique.
+
+Vos ordres :
+- 	Combattre jusqu’au bout !
+[Submission_2.Success]
+Vous avez gagné. La guerre est probablement perdue, mais nous avons tenu une journée de plus.
+[Submission_2.Failed]
+Vous avez perdu. Notre destin est dans les mains de l’ennemi
+[Mission.Objectives]
+Tenir les hauteurs de Seelow.
+[Mission.Description]
+L’armée rouge avance vers Berlin. Ils nous dominent en matériels et en hommes. En cette heure critique, il est indispensable de tenir bon, de contenir l’assaut et de préparer une contre-offensive à partir de Berlin, pour infliger un coup sévère à l’ennemi. Le peuple allemand regarde ses soldats avec espoir ! L’ennemi, sous le commandement du maréchal Joukov, est présomptueux et se précipite en désordre. Profitez de cette erreur !
+
+Vos ordres :
+- 	Après avoir installé les défenses sur les hauteurs de Seelow, empêcher les Russes de perces nos lignes. 
+[Mission.Success]
+Vous avez tenu bon ! L’Allemagne a gagné un nouveau jour de répit sur ses ennemis.
+[Mission.Failed]
+Vous avez été battu ! La guerre est perdue !
+[StringTable.reserv]
+Des renforts sont arrivés.
+[StringTable.Last_reserv]
+Des unités de la réserve du haut commandement vous sont confiées. Il faut tenir les hauteurs à tout prix !

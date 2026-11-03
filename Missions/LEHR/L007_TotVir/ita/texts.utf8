@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Distruggi le difese nemiche e cattura il villaggio.
+[Mission.Description]
+Il nemico ha trasformato il villaggio davanti a noi in una posizione strategica che il nostro Quartier Generale vuole che occupiamo. Il terreno nell’area ha una vasta collina che sovrasta la cittadina, permettendo di osservare lontano. I nostri esploratori dicono che il nemico è ben fortificato e supportato da semoventi di artiglieria e cannoni anticarro.
+ 
+I tuoi ordini sono:
+-	Distruggi le difese nemiche.
+-	Cattura il villaggio.
+[Mission.Success]
+Ben fatto, comandante!
+[Mission.Failed]
+Missione fallita! Le tue truppe sono state eliminate!
+[Submission_1.Objectives]
+Prendi le posizioni nemiche.
+[Submission_1.Description]
+Il terreno dissestato costringerà a scontri ravvicinati e sotto i 500 metri, ma il villaggio nemico deve essere preso.
+ 
+I tuoi ordini sono:
+- Usando qualsiasi mezzo, respingi il nemico e occupa le sue posizioni!
+[Submission_1.Success]
+Ben fatto, comandante! Le tue truppe sono vittoriose.
+[Submission_1.Failed]
+Missione fallita! Le tue truppe sono state eliminate!

@@ -1,0 +1,57 @@
+﻿[Mission1.Objectives]
+Zerstören Sie die feindlichen Panzer.
+[Mission1.Description]
+Unsere Späher haben eine Gruppe deutscher Königstiger Panzer entdeckt. Zerstören Sie diese schweren Panzer bevor sie ihr Ziel erreichen können. Das hat höchste Priorität. 
+
+Ihre Befehle: 
+-	 Bewegen Sie Ihre Einheiten in die markierte Gegend und zerstören Sie den Konvoi Königstiger.
+[Mission1.Success]
+Die deutschen Panzer sind Ihren überlegenen Fähigkeiten und Waffen unterlegen.
+[Mission1.Failed]
+Trotz all der Unterstützung und Kampfkraft, die Sie besassen, haben Sie es nicht geschafft, den feindlichen Panzerkonvoi aufzuhalten.
+[Mission2.Objectives]
+Greifen Sie die feindlichen Truppen rund um das Dorf an.
+[Mission2.Description]
+Nach der Überquerung der Weichsel haben die Sowjets entdeckt, dass die Deutschen starke Verteidigungsanlagen auf dem Westufer errichtet hatten. Die Faschisten haben das Dorf vor Ihnen besetzt. Aufklärungsberichte besagen, dass sowohl Infanterie als auch Panzereinheiten die Stadt verteidigen.
+
+Ihre Befehle:
+-	 Zerstören Sie die feindlichen Truppen rund um das Dorf.
+[Mission2.Success]
+Der Feind wurde zerschlagen und das Dorf befreit! Jetzt können Ihre Einheiten sich neu formieren und den Sandomierz Brückenkopf verstärken.
+[Mission2.Failed]
+Ihre Truppen wurden eliminiert. Der Feind ist durch seinen Sieg mutiger geworden und droht jetzt Ihre Truppen zurück in die Weichsel zu stossen.
+[Submission1.Objectives]
+Erbeuten Sie die Königstiger.
+[Submission1.Description]
+Ein paar deutsche Königstiger Panzer wurden in dem Dorf gesichtet, und nirgendwo sind die Mannschaften zu sehen. Diese Panzer wären eine grossartige Kriegstrophäe, und für unsere Ingenieure von unschätzbarem Wert. 
+
+Ihre Befehle: 
+-	 Erbeuten Sie die Königstiger.
+[Submission1.Success]
+Die Panzer wurden erbeutet - grossartige Arbeit!
+[Submission1.Failed]
+Trotz aller Bemühungen haben Sie es nicht geschafft, die Panzer zu erbeuten!
+[Mission3.Objectives]
+Schlagen Sie den deutschen Angriff zurück.
+[Mission3.Description]
+Die Deutschen haben einen grossen Gegenangriff gestartet mit dem Ziel, Sandomierz wieder einzunehmen und unseren Brückenkopf zu zerstören.
+
+Ihre Befehle: 
+-	 Schlagen Sie den feindlichen Angriff um jeden Preis zurück.
+[Mission3.Success]
+Der feindliche Angriff wurde zurückgeschlagen und der Brückenkopf ist gesichert.
+[Mission3.Failed]
+Trotz des heldenhaften Einsatzes Ihrer Soldaten hat der Feind diese Schlacht gewonnen.
+[Submission2_1.Objectives]
+Vernichten Sie die feindlichen Truppen.
+[Submission2_1.Description]
+Das Dorf in Ihrem Frontabschnitt wurde von deutschen Truppen besetzt. Aufklärungsberichte besagen, dass sich mehrere Infanterie und Panzereinheiten, darunter auch weitere Königstiger, in und um die Stadt eingraben. 
+
+Ihre Befehle: 
+-	 Zerstören Sie die feindlichen Truppen in dem Dorf.
+[Submission2_1.Success]
+Die feindlichen Truppen wurden zerschlagen!
+[Submission2_1.Failed]
+Ihre Truppen wurden vernichtet - der Feind ist weiterhin in dem Dorf in Stellung!
+[StringTable.Reserv]
+Sie erhielten Verstärkungen.

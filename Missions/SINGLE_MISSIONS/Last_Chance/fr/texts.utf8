@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Menez une reconnaissance des environs et détruisez toutes les unités ennemies que vous rencontrerez. 
+ [Mission.Description]
+La majeure partie des forces alliées a été évacuée à Dunkerque et seules restent des unités françaises dispersées. L'occupation finale de la France de l'ouest a néanmoins été retardée, car les Allemands marquent une pause pour regrouper et réorganiser leurs forces. Ce délai est une opportunité à ne pas manquer, et une contre-attaque française a été préparée. 
+[Mission.Success]
+Victoire! Vous avez porté un coup sérieux à l'ennemi.
+[Mission.Failed]
+Défaite. Il se peut que tout soit perdu, puisque vous avez échoué aujourd'hui!
+[Submission_1.Objectives]
+Menez une reconnaissance sur le village voisin et vérifiez s'il est occupé par l'ennemi.
+[Submission_1.Description]
+On nous rapporte que les Allemands ont occupé le village voisin. Menez-y une reconnaissance et si vous rencontrez l'ennemi, expulsez-l'en. Les réserves dont nous disposons vous sont confiées. 
+
+Vos ordres :
+- 	Reconnaissez le village et engagez l'ennemi en cas de contact. Les renforts sont en route vers votre position. 
+[Submission_1.Success]
+Reconnaissance complétée.
+[Submission_1.Failed]
+Vous n'avez pas réussi à reconnaître la ville.
+[StringTable.Add_reserv]
+Vous avez reçu quelques chars détachés de la réserve.
+[StringTable.Add_Artillery]
+Après évaluation de votre situation, l'état-major vous assigne davantage d'artillerie.
+[Submission_2.Objectives]
+Attaquez l'ennemi situé en ville. 
+[Submission_2.Description]
+Les résultats de votre reconnaissance ont démontré que les Allemands ont réussi à déployer une force significative. Cependant, le gros de ces forces est en route depuis Dunkerque. Il nous faut sauter sur l'occasion et frapper l'ennemi au moment où il s'y attend le moins. 
+
+Vos ordres :
+	-  Tandis que l'ennemi en est encore à consolider ses positions en ville, lancer votre attaque.
+	
+[Submission_2.Success]
+L'ennemi a été éliminé. Bon travail, commandant!
+[Submission_2.Failed]
+Vous avez échoué!
+[Submission_3.Objectives]
+Repoussez l'attaque des chars ennemis.
+[Submission_3.Description]
+Les forces ennemies s'avèrent beaucoup plus puissantes que prévu. Elles ont déployé un nombre substantiel de chars dans la bataille.
+
+Vos ordres sont :
+	- Résistez à l'attaque ennemie. 
+[Submission_3.Success]
+L'ennemi a été stoppé!
+[Submission_3.Failed]
+Défaite. L'ennemi s'est montré trop fort pour être vaincu.

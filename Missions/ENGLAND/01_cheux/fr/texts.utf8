@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Avancez jusqu’au village de Cheux et prenez-le.
+[Mission.Description]
+L’ennemi ne nous attend pas, et la garnison de Cheux est peu nombreuse.
+[Submission_1.Objectives]
+Repoussez la contre-attaque.
+[Submission_1.Description]
+L’ennemi tente de faire venir des réserves pour soutenir les défenseurs.
+[NewSubmission.Success]
+Contre-attaque repoussée.
+[NewSubmission.Failed]
+L’ennemi a percé.
+[Submission_01.Success]
+Cheux prise.
+[Submission_01.Failed]
+Cheux n’a pas été prise.
+[Mission.Success]
+Village pris. Secteur sécurisé.
+[Mission.Failed]
+Les défenses ennemies étaient plus solides que prévu.
+[Submission_1.Success]
+Attaque repoussée.
+[Submission_1.Failed]
+Mission non accomplie.
+[StringTable.Tanks]
+Force de réserve disponible.

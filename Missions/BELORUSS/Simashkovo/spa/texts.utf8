@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Libere Simashkovo; rechace los contraataques enemigos; libere Shnitki; asegure la carretera a la estación de Krinki.
+[Mission.Description]
+Libere Simashkovo; rechace los contraataques enemigos; libere Shnitki; asegure la carretera a la estación de Krinki; e impida que el enemigo redespliegue refuerzos por esta carretera.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[StringTable.Subtitle_01]
+23 de junio de 1944, Bielorrusia, al oeste de Vysochany.
+[Submission1.Objectives]
+Libere Simashkovo.
+[Submission1.Description]
+Libere Simashkovo de los ocupantes alemanes y establezca posiciones defensivas. Los datos de reconocimiento confirmados indican la presencia de grupos blindados enemigos al oeste y al sur de Simashkovo. 
+[Submission1.Success]
+Simashkovo liberada.
+[Submission1.Failed]
+Tarea fallida.
+[Submission2.Objectives]
+Rechace los contraataques enemigos.
+[Submission2.Description]
+Los datos de reconocimiento confirmados indican la presencia de grupos blindados enemigos al oeste y al sur de Simashkovo. Con esta fuerza, el enemigo tratará de recuperar Simashkovo. Debe mantener Simashkovo y rechazar todos los contraataques enemigos.
+[Submission2.Success]
+Tarea cumplida. Contraataque enemigo rechazado.
+[Submission2.Failed]
+Tarea fallida.
+[Submission3.Objectives]
+Corte la carretera a la estación de Krinki.
+[Submission3.Description]
+Libere Shnitki, avance hacia el oeste y asegure la carretera a la estación y la aldea de Krinki. Siga esta carretera hacia el norte, eliminando a todas las tropas enemigas avistadas.
+[Submission3.Success]
+Tarea cumplida.
+[Submission3.Failed]
+Tarea fallida.

@@ -1,0 +1,28 @@
+﻿[Mission.Objectives]
+Empêchez l’ennemi de percer nos lignes et de déboucher sur nos arrières.
+[Mission.Description]
+Le haut commandement d’armée vous attache des renforts de chars prélevés sur ses réserves. Une compagnie d’infanterie est présentement engagée dans des actions défensives près du village de Yadromino. Elle dispose de quelques moyens antichar, dont au moins un canon antichar de 45mm.
+
+Vos ordres sont: 
+- Empêchez l’ennemi de percer nos lignes et de déboucher sur nos arrières.
+[Mission.Success]
+Mission accomplie!
+[Mission.Failed]
+Vous avez échoué!
+[Submission_1.Objectives]
+Stoppez les chars ennemis.
+[Submission_1.Description]
+Déployez vos forces pour contrer l’ennemi et exploiter rapidement ses points faibles. N’oubliez pas de supporter tout assaut d’infanterie par un appui-feu adéquat.
+
+Vos ordres sont:
+- Détruisez les chars ennemis.
+[Submission_1.Success]
+Mission accomplie! Les chars ennemis ont été détruits.
+[Submission_1.Failed]
+Vous avez échoué! Vos troupes ont été défaites.
+[StringTable.Change_Infantry]
+Le commandant de compagnie a été tué. Prenez le commandement. 
+[StringTable.Change_Artillery]
+Le commandant de la batterie d’artillerie a été mortellement blessé. Ses pièces sont maintenant sous votre commandement.
+[StringTable.Change_ALL]
+La situation actuelle nécessite une meilleure coordination des troupes. Pour y arriver, vous avez été nommé commandant de la formation entière. Vous disposez maintenant d’une compagnie d’infanterie et une batterie d’artillerie sous votre contrôle.

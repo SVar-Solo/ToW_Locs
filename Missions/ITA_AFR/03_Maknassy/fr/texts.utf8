@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Prévenez l’attaque
+[Submission_1.Description]
+L’ennemi tente de rassembler des forces pour frapper le long de la route menant aux faubourgs. Efforcez-vous d’empêcher une attaque simultanée en tirant sur les unités ennemies en cours de regroupement.
+[NewSubmission.Success]
+Mission accomplie : la batterie est détruite et ses positions sont submergées.
+[NewSubmission.Failed]
+Mission échouée.
+[Mission.Objectives]
+Défendez le faubourg de Maknassy
+[Mission.Description]
+Prenez le commandement des positions défensives et préparez-vous à repousser l’attaque. Chassez l’ennemi des faubourgs de Maknassy.
+[Submission_2.Objectives]
+Détruisez la batterie d’artillerie
+[Submission_2.Description]
+Une batterie d’artillerie ennemie a été repérée ; détruisez-la et nettoyez les positions indiquées.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.

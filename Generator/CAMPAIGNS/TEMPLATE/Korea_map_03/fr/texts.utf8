@@ -1,0 +1,495 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capturez la localité de la vallée de montagne.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capturez la localité de la vallée de montagne.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Votre équipe de combat doit s'infiltrer par le col et capturer la localité. Située dans une vallée de montagne, elle a été transformée en point d'appui par l'ennemi.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Votre équipe de combat doit s'infiltrer par le col et capturer la localité. Située dans une vallée de montagne, elle a été transformée en point d'appui par l'ennemi. Selon la reconnaissance, l'ennemi défendra activement la position et pourrait même lancer une contre-attaque.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Repoussez l'attaque ennemie. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplie. Hostiles éliminés.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Une petite équipe d'infanterie défend une localité de la vallée de montagne contre une éventuelle attaque ennemie. Le gros de vos troupes doit repousser l'attaque ennemie et empêcher les hostiles de capturer la position.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+L'ennemi a capturé la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+L'ennemi a capturé la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+La localité se trouve sur le principal couloir de transport reliant l'est et l'ouest de la province. L'ennemi a rassemblé des forces importantes pour s'emparer du col. Votre équipe de combat doit tenir la ligne pendant la durée indiquée.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+La localité se trouve sur le principal couloir de transport reliant l'est et l'ouest de la province. L'ennemi a rassemblé des forces importantes pour s'emparer du col. Votre équipe de combat doit repousser l'attaque ennemie coûte que coûte. Ne laissez pas les hostiles capturer la position.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Artillery_inf_support]
+L'artillerie de réserve est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Une équipe blindée est à votre disposition.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Une équipe blindée de réserve est sous vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Une équipe blindée de réserve est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Un appui d'artillerie est à votre disposition.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Un appui d'artillerie est à votre disposition.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Une équipe blindée de réserve est à votre disposition.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Une équipe blindée de réserve est à votre disposition.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Des mortiers sont disponibles.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Des mortiers sont disponibles.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Capturez la localité de la vallée de montagne.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Capturez la localité de la vallée de montagne.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Votre équipe de combat doit s'infiltrer par le col et capturer la localité. Située dans une vallée de montagne, elle a été transformée en point d'appui par l'ennemi.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Votre équipe de combat doit s'infiltrer par le col et capturer la localité. Située dans une vallée de montagne, elle a été transformée en point d'appui par l'ennemi. Selon la reconnaissance, l'ennemi défendra activement la position et pourrait même lancer une contre-attaque.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Repoussez l'attaque ennemie. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission accomplie. Hostiles éliminés.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Une petite équipe d'infanterie défend une localité de la vallée de montagne contre une éventuelle attaque ennemie. Le gros de vos troupes doit repousser l'attaque ennemie et empêcher les hostiles de capturer la position.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+L'ennemi a capturé la localité.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+L'ennemi a capturé la localité.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+La localité se trouve sur le principal couloir de transport reliant l'est et l'ouest de la province. L'ennemi a rassemblé des forces importantes pour s'emparer du col. Votre équipe de combat doit tenir la ligne pendant la durée indiquée.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+La localité se trouve sur le principal couloir de transport reliant l'est et l'ouest de la province. L'ennemi a rassemblé des forces importantes pour s'emparer du col. Votre équipe de combat doit repousser l'attaque ennemie coûte que coûte. Ne laissez pas les hostiles capturer la position.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Artillery_inf_support]
+L'artillerie de réserve est disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+Une équipe blindée est à votre disposition.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_support]
+Une équipe blindée de réserve est sous vos ordres.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_support]
+Une équipe blindée de réserve est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Un appui d'artillerie est à votre disposition.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Un appui d'artillerie est à votre disposition.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_support]
+Une équipe blindée de réserve est à votre disposition.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_support]
+Une équipe blindée de réserve est à votre disposition.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Des mortiers sont disponibles.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Des mortiers sont disponibles.
+
+[Reinforcement.Group_Artillery]
+Équipe de réserve d'infanterie et d'artillerie
+
+[Reinforcement.Group_tanks]
+Chars
+
+[Reinforcement.Group_infantry]
+Infanterie
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capturez une localité.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Votre équipe de combat doit s'infiltrer par le col et capturer une localité de la vallée de montagne, transformée en solide point d'appui par l'ennemi.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capturez une localité.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Votre détachement avancé doit marcher à vive allure jusqu'à la zone indiquée sur la carte et capturer la localité avant l'arrivée de l'avant-garde ennemie. Éliminez rapidement les hostiles éventuels et sécurisez le lieu. Préparez-vous ensuite sans tarder à repousser l'attaque des forces principales ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+La localité se trouve sur le principal couloir de transport reliant l'est et l'ouest de la province. L'ennemi a rassemblé des forces importantes pour s'emparer du col. Votre équipe de combat doit repousser l'attaque ennemie coûte que coûte. Ne laissez pas les hostiles capturer la position.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+La localité se trouve sur le principal couloir de transport reliant l'est et l'ouest de la province. L'ennemi a rassemblé des forces importantes pour s'emparer du col. Votre équipe de combat doit repousser l'attaque ennemie coûte que coûte. Ne laissez pas les hostiles capturer la position.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Tenez la localité pendant la durée indiquée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Un détachement avancé ennemi prévoit de lancer une attaque dans la foulée de sa marche sur une localité tactique. Tenez la localité pendant la durée indiquée, jusqu'à l'arrivée de nos forces principales.
+
+[Reinforcement.Group1[Reinforcement]]
+Blindés et infanterie
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Capturez la localité.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Votre équipe de combat doit s'infiltrer par le col et capturer une localité de la vallée de montagne, transformée en solide point d'appui par l'ennemi.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Capturez la localité.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Votre détachement avancé doit marcher à vive allure jusqu'à la zone indiquée sur la carte et capturer la localité avant l'arrivée de l'avant-garde ennemie. Éliminez rapidement les hostiles éventuels et sécurisez le lieu. Préparez-vous ensuite sans tarder à repousser l'attaque des forces principales ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+La localité se trouve sur la principale artère de transport reliant l'est et l'ouest de la province. L'ennemi a concentré des forces importantes pour s'emparer du col. Votre mission : contenir l'assaut ennemi par tous les moyens et ne pas laisser la localité tomber entre ses mains.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Repoussez toutes les attaques ennemies et empêchez les hostiles de capturer la localité.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+La localité se trouve sur la principale artère de transport reliant l'est et l'ouest de la province. L'ennemi a concentré des forces importantes pour s'emparer du col. Votre mission : contenir l'assaut ennemi par tous les moyens et ne pas laisser la localité tomber entre ses mains.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Tenez la localité pendant la durée indiquée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Un détachement avancé ennemi prévoit de lancer une attaque dans la foulée de sa marche sur une localité tactique. Tenez la localité pendant la durée indiquée, jusqu'à l'arrivée de nos forces principales.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+

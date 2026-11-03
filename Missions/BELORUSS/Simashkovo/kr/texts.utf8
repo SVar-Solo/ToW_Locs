@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+시마시코보를 해방하고, 적의 반격을 격퇴하며, 시니트키를 해방하고, 크린키 역으로 가는 도로를 확보하라.
+[Mission.Description]
+시마시코보를 해방하고, 적의 반격을 격퇴하며, 시니트키를 해방하고, 크린키 역으로 가는 도로를 확보하며, 적이 이 도로를 따라 증원 병력을 재배치하지 못하게 막아라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[StringTable.Subtitle_01]
+1944년 6월 23일, 백러시아, 비소차니 서쪽.
+[Submission1.Objectives]
+시마시코보를 해방하라.
+[Submission1.Description]
+독일 점령군으로부터 시마시코보를 해방하고 방어 진지를 구축하라. 확인된 정찰 자료에 따르면 시마시코보 서쪽과 남쪽에 적 기갑 집단이 있다. 
+[Submission1.Success]
+시마시코보를 해방했다.
+[Submission1.Failed]
+임무 실패.
+[Submission2.Objectives]
+적의 반격을 격퇴하라.
+[Submission2.Description]
+확인된 정찰 자료에 따르면 시마시코보 서쪽과 남쪽에 적 기갑 집단이 있다. 적은 이 병력으로 시마시코보를 되찾으려 할 것이다. 시마시코보를 사수하고 적의 모든 반격을 격퇴해야 한다.
+[Submission2.Success]
+임무 완수. 적의 반격을 격퇴했다.
+[Submission2.Failed]
+임무 실패.
+[Submission3.Objectives]
+크린키 역으로 가는 도로를 차단하라.
+[Submission3.Description]
+시니트키를 해방하고 서쪽으로 진격하여 크린키 역과 마을로 가는 도로를 확보하라. 이 도로를 따라 북쪽으로 이동하며 발견되는 모든 적 병력을 제거하라.
+[Submission3.Success]
+임무 완수.
+[Submission3.Failed]
+임무 실패.

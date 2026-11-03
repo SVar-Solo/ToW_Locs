@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Rompa el cerco.
+[Mission.Description]
+A mediados de julio, la mayor parte de Francia está ocupada por las tropas alemanas. Las divisiones blindadas alemanas rompieron las líneas de defensa francesas y alcanzaron la costa con una rápida embestida. París cayó el 14 de junio y el gobierno francés huyó a Burdeos.
+
+Objetivo:
+-	romper el cerco.
+[Mission.Success]
+¡Misión cumplida!
+[Mission.Failed]
+¡Misión fallida! ¡Sus tropas han muerto!
+[Submission1.Objectives]
+Salve a los soldados franceses.
+[Submission1.Description]
+Un pequeño destacamento de infantería francesa está rodeado y se oculta en una granja aislada. La infantería alemana se aproxima.
+
+Objetivo:
+- 	salvar a los soldados franceses de la muerte.
+[Submission1.Success]
+¡Misión cumplida!
+[Submission1.Failed]
+¡Misión fallida!
+[Submission2.Objectives]
+Realice un reconocimiento del terreno.
+[Submission2.Description]
+Use un francotirador para realizar un reconocimiento del terreno.
+
+Orden recibida:
+- 	realizar un reconocimiento del terreno.
+[Submission2.Success]
+¡Orden del mando cumplida!
+[Submission2.Failed]
+Orden del mando no cumplida

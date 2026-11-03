@@ -1,0 +1,21 @@
+﻿[StringTable.Subtitle_01]
+Atenção! Vocês devem subir a Colina 320 e fazer o reconhecimento.
+[StringTable.Subtitle_02]
+Sim, senhor.
+[StringTable.Subtitle_03]
+Os sete panzers estão avançando pela estrada.
+[StringTable.Subtitle_04]
+Rápido, coloquem minas antitanque na extremidade sul da ponte! 
+[StringTable.Subtitle_05]
+Sim, senhor.
+[Submission1.Objectives]
+Impeça os tanques inimigos de avançarem para o sul.
+[Submission1.Description]
+Em movimento desde pouco depois de os alemães atingirem a linha de frente dos EUA, seu pelotão chegou agora ao pé da Colina 330, logo ao sul de um riacho de margens íngremes que serpenteia pela floresta densa. Durante sua jornada frustrante e confusa, você foi enviado de um quartel-general a outro e de um posto de comando a outro; ninguém no comando parecia saber o que estava acontecendo nem o que precisavam de você. Por fim, há cerca de duas horas, o comandante de sua companhia emitiu uma missão clara: impedir que quaisquer tanques alemães avancem para o sul pela ponte que atravessa o riacho entre as Colinas 320 e 330.
+
+Sua ordem:
+- impedir que os tanques inimigos avancem para o sul.
+[Submission1.Success]
+Missão cumprida. 
+[Submission1.Failed]
+Missão fracassada.

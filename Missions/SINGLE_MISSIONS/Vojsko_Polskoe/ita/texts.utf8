@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Raggruppa tutte le unità amiche nelle vicinanze e cerca di fermare l’avanzata tedesca. Se devi arretrare, fallo attraversando il fiume Vistola.
+[Mission.Description]
+Le truppe tedesche sono passate in Polonia all’alba del primo settembre. Le unità polacche che si trovavano sul confine sono state velocemente eliminate. L’influenza del Comando polacco sul fronte è praticamente inesistente e al momento gli unici sforzi difensivi provengono dalle iniziative dei comandanti delle unità, anche se privi di ordini dei loro superiori. 
+
+I tuoi ordini sono:
+-  Raggruppa tutte le unità amiche sotto il tuo comando 
+-  Difenditi contro le unità tedesche che avanzano 
+-  Mantieni in vita il Colonnello Czeslaw Mrozek.
+ 
+
+Nota: è fondamentale mantenere in vita il Colonnello, altrimenti non sarai in grado di nuove unità polacche!
+[Mission.Success]
+Vittoria! Ben fatto Colonnello, sei riuscito a riprendere un certo controllo malgrado il caos.
+[Mission.Failed]
+Fallimento! La catena di comando si è interrotta e non sei stato in grado di organizzare una difesa efficace.
+[Submission_1.Objectives]
+Nle villaggio vicino si trova un’unità di fanteria amica che ha bisogno di essere comandata. Usa i soldati per aiutare le difese.
+[Submission_1.Description]
+I tuoi ordini sono:
+- 	Assumi il comando della guarnigione che si trova nel villaggio di fronte.
+[Submission_1.Success]
+Successo. Queste truppe sono adesso sotto il tuo comando.
+[Submission_1.Failed]
+Non sei stato in grado di aggiungere le truppe di guardia alle tue.
+[StringTable.Garnizon_1]
+La guarnigione adesso è sotto il tuo comando diretto.
+[Submission_2.Objectives]
+Procedi alla località successiva. 
+[Submission_2.Success]
+Successo. Delle importanti risorse, vitali per la vittoria, sono ora sotto il tuo diretto comando.
+[Submission_2.Description]
+La guarnigione del villaggio ha aumentato le truppe a tua disposizione, ma non hai forze a sufficienza per fermare l’avanzata tedesca. Secondo alcune informazioni, alcuni carri armati e tre cannoni anticarro si trovano in un villaggio vicino.
+
+I tuoi ordini sono:
+- 	Procedi verso il villaggio successivo e prendi l’equipaggiamento che vi si trova.
+[Submission_2.Failed]
+Fallimento. Non sei stato in grado di prendere l’equipaggiamento.
+[Submission_3.Objectives]
+Respingi tutti gli attacchi del nemico.
+[Submission_3.Description]
+Sei stato in grado di mettere sotto il tuo comando uomini ed equipaggiamento. Speriamo che siano sufficienti per fermare l’attacco tedesco. Il nemico sta arrivando lungo un fronte molto esteso, quindi stai pronto ad affrontare diverse ondate da direzioni differenti. Non devi permettere che attraversino la Vistola.
+
+I tuoi ordini sono:
+- 	Respingi tutti gli attacchi del nemico.
+- 	Impedisci ai tedeschi di attraversare la Vistola.
+[Submission_3.Success]
+L’attacco nemico è stato respinto.  Le tue azioni di oggi non saranno dimenticate!
+[Submission_3.Failed]
+L’attacco nemico era impossibile da fermare e sei stato travolto.
+[Submission_4.Objectives]
+L’attacco principale del nemico è stato arrestato, ma ora è il momento di arretrare.
+[Submission_4.Description]
+Il Colonnello Mzorek deve attraversare vivo il fiume.
+[Submission_4.Success]
+Successo! Il Colonnello è sopravvissuto e combatterà ancora. Se tutti i nostri comandanti combatteranno in questo modo coraggioso, forse la Polonia riuscirà a ricacciare gli invasori tedeschi oltre il confine!
+[Submission_4.Failed]
+Il colonnello non è sopravvissuto. Anche se ha combattuto coraggiosamente, il suo destino e forse il destino di tutta la Polonia, era già segnato.

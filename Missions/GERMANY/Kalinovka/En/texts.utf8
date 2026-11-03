@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Capture and hold Hill 232.8.
+[Mission.Description]
+The combat team with tanks, motorized infantry and artillery will advance in the direction of Hill 232.8. Defeat the enemy on the southeastern slopes of the hill and advance to its northwestern slopes. Hold the hill and prevent enemy tanks and infantry from flanking the main division forces.
+[Submission1.Objectives]
+Capture the enemy positions on Hill 232.8.
+[Submission2.Objectives]
+Repel the enemy tanks.
+[Mission.Success]
+Mission complete.
+[Mission.Failed]
+We failed to carry out our orders. The enemy is too strong!
+[Submission1.Success]
+Mission complete, Hill 232.8 has been captured.
+[Submission1.Failed]
+The attack has been stalled, immediate support is required.
+[Submission2.Success]
+Enemy counterattacks have been repelled successfully.
+[Submission2.Failed]
+Our forces withdraw under enemy pressure!
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

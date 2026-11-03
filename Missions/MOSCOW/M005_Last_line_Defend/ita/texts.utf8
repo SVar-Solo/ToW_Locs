@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Ferma l’avanzata delle forze tedesche nell’area della stazione ferroviaria di Kryukovo.
+[Mission.Description]
+I tedeschi hanno concentrato molte forze nella zona della stazione ferroviaria di Kryukovo. Il piano del nemico è di superare le nostre linee nel punto più debole e poi di circondarci. Il Quartier Generale della 16ma Armata ha inviato forze aggiuntive per la difesa della zona.
+ 
+I tuoi ordini sono:
+- Ferma l’avanzata delle forze tedesche verso la stazione ferroviaria di Kryukovo.
+[Mission.Success]
+Gli ordini del Quartier Generale sono stati eseguiti! Hai fermato l’avanzata del nemico.
+[Mission.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Le tue truppe sono state sconfitte.
+[Submission_1.Objectives]
+Respingi tutti gli attacchi del nemico.
+[Submission_1.Description]
+Non hai abbastanza forze per attuare una difesa adeguata. Elementi della 316ma Divisione di Fucilieri sono stati inviati come rinforzi, ma anche loro non bastano per una linea continua. Devi essere un saggio comandante e disporre le forze in modo tale da fermare gli attacchi del nemico. Solo in questo modo potrai evitare il massacro anche se in inferiorità numerica.
+ 
+I tuoi ordini sono:
+- Respingi tutti gli attacchi del nemico..
+[Submission_1.Success]
+Gli attacchi del nemico sono stati respinti! Gli ordini del Quartier Generale sono stati eseguiti!
+[Submission_1.Failed]
+Non sei riuscito a eseguire gli ordini del Quartier Generale! Le tue truppe sono state sconfitte.
+[StringTable.Tanks]
+La tua missione attuale prevede maggiore flessibilità e coordinazione. Proprio per questo, nuove unità di carri sono state messe sotto il tuo comando.

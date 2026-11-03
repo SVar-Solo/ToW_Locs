@@ -1,0 +1,60 @@
+﻿[MainTask.Objectives]
+Detenha a ruptura
+[MainTask.Description]
+Dirija-se ao povoado ocupado por nossas forças. Use a ajuda delas para montar uma emboscada ao comboio inimigo. Eles não podem chegar ao desfiladeiro, nenhum deles: um só alemão porá em debandada o rebanho que antes era nosso exército. Então, boa sorte, e que Deus o ajude. Lembre-se: não deixe um único alemão chegar vivo ao fim do desfiladeiro! 
+[MainTask.Success]
+O grupo móvel inimigo foi derrotado, seus remanescentes fugiram. Continue com o bom trabalho!
+[MainTask.Failed]
+Do relatório do Tenente-Coronel Waters: ...o inimigo rompeu até a saída do desfiladeiro, atropelou nossas forças, que se retiravam em desordem, e as destruiu... 
+[StringTable.Incoming]
+Os observadores de artilharia informam que o comboio inimigo está chegando ao desfiladeiro e logo se aproximará de nossas posições!
+[StringTable.IntroSubtitle1]
+Alan Mitchell: Droga, o que é aquilo?
+[StringTable.IntroSubtitle2]
+Soldados em fuga: Salve-se quem puder! Salve-se quem puder!!!
+[StringTable.IntroSubtitle3]
+Alan Mitchell: E quem não consegue? (ao rádio) Senhor, a coisa está feia, eles correm feito coelhos...
+[StringTable.IntroSubtitle3a]
+(à guarnição) Vamos parar e ter uma conversa. Armas de mão prontas!
+[StringTable.IntroSubtitle3b]
+- Mas nós não somos a Polícia do Exército! Não vamos atirar neles, só trazê-los à razão!
+[StringTable.IntroSubtitle4]
+Alan Mitchell: Parem! Para onde vocês estão correndo com tanta pressa, hein?
+[StringTable.IntroSubtitle5]
+Soldado em fuga: Vá se f***, herói! Não quero morrer, tem um zilhão de alemães! …
+[StringTable.IntroSubtitle6]
+... e você é um cabeça-oca se não quer viver, que nem os que ficaram na aldeia!
+[StringTable.IntroSubtitle7]
+Alan Mitchell: Agora sim, estamos conversando. Então nem todo mundo cagou nas calças! ... 
+[StringTable.IntroSubtitle8]
+... E você, lembre-se de que os alemães te pegam até no banheiro de um quintal em Nova York!
+[StringTable.WinSubtitle1]
+Ajudante de ordens: Senhor, eles estão voltando!
+[StringTable.WinSubtitle2]
+Tenente-Coronel Waters: Tudo estava por um fio...
+[StringTable.WinSubtitle3]
+...mas eles fizeram só o que tinham de fazer.
+[StringTable.WinSubtitle4]
+Alan Mitchell: Senhor! A guarnição...
+[StringTable.WinSubtitle5]
+Tenente-Coronel Waters: Nós dois temos de nos apressar, receberei seu relatório depois, Mitchell...
+[StringTable.WinSubtitle6]
+... a situação está ficando difícil em outro campo de batalha e preciso estar lá.
+[StringTable.WinSubtitle7]
+Você receberá mais informações pelo rádio; agora, tome, uma carta da Nelly!
+[StringTable.FailSubtitle1]
+Capitão da Wehrmacht: Então, ianques, já tiveram guerra suficiente? ...
+[StringTable.FailSubtitle2]
+Kameraden, não há necessidade de provar o fato...
+[StringTable.FailSubtitle3]
+de que os americanos são ovelhas na guerra!
+[StringTable.FailSubtitle4]
+Embora aquele tanque leve deles tenha lutado maldosamente bem, acabamos queimando-o!
+[StringTable.StuartDestroyed]
+O tanque de Alan Mitchell foi destruído!
+[StringTable.MitchellIsKilled]
+Alan Mitchell foi morto!
+[StringTable.EnemySuccessful]
+O inimigo rompeu até a saída do desfiladeiro! A missão fracassou!
+[StringTable.ReturnInTank]
+Mande os tripulantes desembarcados de volta ao tanque para completar a missão.

@@ -1,0 +1,44 @@
+﻿[Mission1.Objectives]
+Zerstören Sie die feindlichen Panzerdivisionen, die aus dem Westen vorrücken.
+[Mission1.Description]
+Die Faschisten haben Lutsk erobert. Ihr nächster Schlag wird darauf abzielen, durch die Front bei Rovno zu brechen. Laut einem Aufklärungsbericht nähern sich deutsche Panzerkonvois Rovno aus dem Westen.
+Unsere mechanisierten Truppen wurden geschickt, um das Loch, das die feindlichen Einheiten geschlagen haben, wieder zu stopfen.
+
+Ihre Befehle:
+-	 Zerstören Sie den feindlichen Panzerbattalione.
+[Mission1.Success]
+Der Befehl des Oberkommandos wurde ausgeführt! Die feindlichen Panzerbattalione, die sich aus dem Westen genähert hatten, wurden komplett zerstört. Die Deutschen haben es nicht geschafft, die Moral des russischen Soldaten zu brechen!
+[Mission1.Failed]
+Trotz der heldenhaften Taten Ihrer Soldaten wurden Ihre Einheiten zerstört! Die Deutschen sind durch unsere Verteidigungsstellungen in diesem Frontabschnitt durchgebrochen!
+[Mission1_1.Objectives]
+- Zerstören Sie den feindlichen Panzerbattalione, die sich aus dem Südwesten nähern.
+[Mission1_1.Description]
+Die Deutschen haben Lutsk erobert, und die feindlichen 13. und 14. Panzerbattalione rücken auf Rovno vor um die Frontlinie dort zu durchbrechen und näher an Kiev zu kommen. 
+Ein Aufklärungsbericht besagt, dass die Battalione sich aus dem Südwesten nähern.
+
+Ihre Befehle:
+-	 Zerstören Sie den feindlichen Panzerbattalione.
+[Mission1_1.Success]
+Der Befehl des Oberkommandos wurde ausgeführt! Die feindlichen Panzerbattalione, die sich aus dem Südwesten genähert hatten, wurden komplett zerstört. Die Deutschen haben es nicht geschafft, die Moral des russischen Soldaten zu brechen!
+[Mission1_1.Failed]
+Trotz der heldenhaften Taten Ihrer Soldaten wurden Ihre Einheiten zerstört! Die Deutschen sind durch unsere Verteidigungsstellungen in diesem Frontabschnitt durchgebrochen!
+[Submission1.Objectives]
+Stoppen Sie den Vormarsch der feindlichen Panzereinheiten.
+[Submission1.Description]
+In den ersten Tagen des Krieges hat unsere Armee schwere Verluste erlitten. Gestern eroberten die faschistischen Aggressoren die Stadt Lutsk. Verwirrung und Panik beherrschen die Front. Wir haben bis jetzt nur wenige Informationen erhalten, aber ein Aufklärungsbericht besagt, dass sich deutsche Panzerkonvois in unsere Richtung bewegen, und es ist offensichtlich, dass der nächste Schlag auf einen Durchbruch der Frontlinie bei Rovno abzielt. Das 19. Mechanisierte Korps steht bereits in heftigen Gefechten auf unserer Flanke. Ihre Aufgabe ist das Aufhalten des Vormarschs der feindlichen Panzer um jeden Preis. Das wird unseren Truppen die Chance verschaffen, sich neu zu gruppieren und vielleicht sogar einen Gegenangriff zu starten. 
+
+Ihre Befehle: 
+-	 Halten Sie den Vormarsch der feindlichen 13. und 14. Panzerbattalione in dem markierten Bereich auf durch den Einsatz der 20., 40., 43. und 35. Panzerbattalione und des 9. und 19. Mechanisierten Korps.
+
+[Submission1.Success]
+Der Befehl des Oberkommandos wurde ausgeführt! Der Vormarsch der deutschen Panzereinheiten in diesem Abschnitt wurde gestoppt!
+[Submission1.Failed]
+Trotz der heldenhaften Taten Ihrer Soldaten wurden Ihre Einheiten zerstört! Die Deutschen sind durch unsere Verteidigungsstellungen in diesem Frontabschnitt durchgebrochen!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.
+[StringTable.Subtitle_01]
+Russland. Juni 1941
+[StringTable.Ger]
+Die deutsche Armee hat Operation Barbarosse eröffnet und die Grenze nach Russland überquert.
+[StringTable.Rus]
+Die Rote Armee hat eine Gegenoffensive gestartet in der Hoffnung, den deutschen Angriff zu stoppen oder zu verzögern.

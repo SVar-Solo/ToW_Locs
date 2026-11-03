@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+방어 시설 파괴
+[Mission.Description]
+테베사 고개의 미군 방어 시설을 파괴하라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Objectives]
+발판 확보
+[Submission_1.Description]
+지도에 표시된 목표 지점의 적 화포와 병력을 제거하여 확보하라.
+[Submission_1.Success]
+발판을 확보했다.
+[Submission_1.Failed]
+임무 실패.
+[StringTable.Haubitze]
+이제 곡사포의 지휘권을 갖는다. 이를 활용하여 공세를 지원하라.
+[Submission_2.Objectives]
+제1제대 제거
+[Submission_2.Description]
+적 방어의 제1층을 제거하라.
+[Submission_2.Success]
+적 방어의 제1층을 제거했다.
+[Submission_2.Failed]
+임무 실패.
+[Submission_3.Objectives]
+제2제대 제거
+[Submission_3.Description]
+고개 출구의 적 방어 제2층을 제거하라.
+[Submission_3.Success]
+적 방어 시설을 완전히 제거했다.
+[Submission_3.Failed]
+임무 실패.
+[StringTable.Add_tanks]
+군 사령부 예비 전차를 자네에게 제공했네.

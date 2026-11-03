@@ -1,0 +1,42 @@
+﻿[Submission_1.Objectives]
+Afin d’empêcher les chars russes de percer vers nos lignes arrières, il faut les arrêter ici à tout prix.
+[Submission_1.Description]
+Les Russes ont lancé une nouvelle offensive. Ils tentent une fois encore de percer nos lignes pour ravager nos arrières. S’ils y parviennent, ils risquent de pouvoir faire leur jonction avec des forces amies et nous encercler. Nous devons l’emporter et stopper cette attaque.
+
+Vos ordres :
+-	Attaquer les unités ennemies en approche.
+[Submission_1.Success]
+Vous avez gagné and vous êtes parvenu à bloquer cette ultime offensive russe.
+[Submission_1.Failed]
+Vous avez perdu ! Des unités soviétiques ont percé nos lignes et se dirigent à présent vers nos zones arrières mal défendues.
+[Submission_2.Objectives]
+Ecraser toute résistance à la gare de Prokhorovka.
+[Submission_2.Description]
+Les Russes ont perdu l’initiative. Exploiter ce temps d’arrêt en attaquant la gare de Prokhorovka.
+
+Vos ordres :
+-	Poursuivre l’avance vers la gare de Prokhorovka et détruire toutes les unités ennemies rencontrées.
+[Submission_2.Success]
+Vous avez gagné ! Bravo commandant. Votre action aujourd’hui nous a permis de gagner un temps précieux et de reprendre l’initiative.
+[Submission_2.Failed]
+Vous avez perdu ! Une occasion en or de délivrer un coup fatal aux Russes a été gâchée.
+ [Mission.Objectives]
+Capturer la gare de Prokhorovka.
+[Mission.Description]
+L’opération Citadelle a commencé et le le 2e corps blindé SS a reçu pour mission de percer les défenses ennemies établies le long du front Kartashovka-Beregovoye-Prokhorovka-Storozhevoye.
+
+Vos ordres :
+-	Briser la défense ennemie près de la gare de Prokhorovka. 
+
+[Mission.Success]
+Félicitations ! Vous avez brisé les défenses ennemies !
+[Mission.Failed]
+Vous n’avez pas réussi à capturer la gare de Prokhorovka.
+[StringTable.Tanks_Reserv]
+Des blindés de la réserve divisionnaire sont à votre disposition.
+[StringTable.SPG_Reserv]
+De l’artillerie automotrice est disponible.
+[StringTable.Infantry_Reserv]
+Des unités d’infanterie sont à votre disposition.
+[StringTable.Inf_reserv]
+Des unités d’infanterie de la réserve sont à votre disposition.

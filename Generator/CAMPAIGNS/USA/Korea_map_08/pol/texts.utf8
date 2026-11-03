@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Misja nieudana!
+
+[Reinforcement.Group3[Reinforcement]]
+Śmigłowce i piechota
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Twój oddział bojowy musi wyeliminować broniących się wrogów na tym odcinku frontu.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Zaatakuj i zniszcz wszystkie umocnienia wroga w zaznaczonym na mapie rejonie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Nasz wysunięty oddział rozpoznawczy zdobył skrzyżowanie dróg w centrum rejonu. Wróg najprawdopodobniej spróbuje je odbić. Twój oddział bojowy ma dotrzeć do skrzyżowania i wesprzeć oddział rozpoznawczy.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Zdobądź i utrzymaj skrzyżowanie dróg w centrum rejonu.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Nasza grupa wysunięta, złożona z piechoty i artylerii samobieżnej, odcięła główny korytarz transportowy wroga. Utrzymaj zdobyte pozycje i nie pozwól wrogowi odtworzyć linii zaopatrzenia.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Zdobądź i utrzymaj skrzyżowanie dróg w centrum rejonu.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Nasz wysunięty oddział rozpoznawczy zdobył skrzyżowanie dróg w centrum rejonu. Wróg najprawdopodobniej spróbuje je odbić. Twój oddział bojowy ma dotrzeć do skrzyżowania i wesprzeć oddział rozpoznawczy.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+Zdobądź i utrzymaj skrzyżowanie dróg w centrum rejonu.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Zdobądź i utrzymaj skrzyżowanie dróg w centrum rejonu.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Zdobądź i utrzymaj skrzyżowanie dróg w centrum rejonu.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Nasz wysunięty oddział rozpoznawczy zdobył skrzyżowanie dróg w centrum rejonu. Wróg najprawdopodobniej spróbuje je odbić. Twój oddział bojowy ma dotrzeć do skrzyżowania i wesprzeć oddział rozpoznawczy.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Nasz wysunięty oddział rozpoznawczy zdobył skrzyżowanie dróg w centrum rejonu. Wróg najprawdopodobniej spróbuje je odbić. Twój oddział bojowy ma dotrzeć do skrzyżowania i wesprzeć oddział rozpoznawczy.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+Nasz wysunięty oddział rozpoznawczy zdobył skrzyżowanie dróg w centrum rejonu. Wróg najprawdopodobniej spróbuje je odbić. Twój oddział bojowy ma dotrzeć do skrzyżowania i wesprzeć oddział rozpoznawczy.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+Misja nieudana!
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Pojazdy pancerne i piechota
+

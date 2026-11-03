@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Conduci un’operazione di sabotaggio nelle retrovie nemiche presso la cittadina di Sandomierz. Trova il deposito di armi e distruggilo. Se incontri postazioni della contraerea nemica, chiama a supporto l’artiglieria a lungo raggio e l’appoggio aereo per eliminarle.
+[Mission.Description]
+L’esercito sovietico si sta avvicinando ai confini del Terzo Reich. Entrambi gli schieramenti si sono preparati per l’eventuale battaglia presso la cittadina di Sandomierz. Speciali squadre di sabotaggio sono state inviate dall’Alto Comando Sovietico per infiltrarsi oltre le linee nemiche. Hanno il compito di esplorare le posizioni nemiche e di distruggere risorse logistiche e cannoni per la difesa aerea. La tua squadra deve sabotare il deposito armamenti, individuare e distruggere le postazioni antiaeree incontrate. Hai a disposizione i migliori esploratori e un cecchino; usali saggiamente!
+[Mission.Success]
+Tutte le missioni sono state completate!
+[Mission.Failed]
+Missione fallita!
+[Submission_1.Objectives]
+Penetra nell’insediamento. Fai una ricognizione. Allontana le guardie del deposito. Trova e cattura dei Panzershrecks, che potrebbero risultare utili contro i carri armati.
+[Submission_1.Description]
+Dopo aver attraversato le linee nemiche senza essere scoperta, la tua squadra si trova nelle retrovie. Attenzione ai blocchi stradali nemici posti lungo la strada e presso gli incroci strategici. Pattuglie motorizzate sono frequenti e, nell’istante in cui vi notassero, chiamerebbero velocemente dei rinforzi. Il tuo compito principale è di distruggere il deposito armamenti.
+[Submission_1.Success]
+Zona speciale distrutta.
+[Submission_1.Failed]
+Missione fallita!
+[Submission_2.Objectives]
+Fai la ricognizione delle posizioni antiaeree nemiche. Richiedi artiglieria e supporto aereo per eliminare il nemico. Cattura il trasporto nemico per facilitare lo sfondamento sul ponte.
+[Submission_2.Description]
+Le nostre risorse aeree hanno lanciato degli attacchi costanti contro posizioni strategiche tedesche, ma con alte perdite. Il nemico è molto abile nel camuffare la sua contraerea e riuscire a vederla dall’alto è molto costoso in termini di uomini e di mezzi. La tua squadra è ben posizionata per aiutare in questo compito. Cerca nelle vicinanze dei cannoni antiaerei e quando li trovi richiedi del fuoco di artiglieria di appoggio e attacchi aerei al suolo per distruggere le loro posizioni.
+[Submission_2.Success]
+Le posizioni antiaeree nemiche sono state individuate e distrutte.
+[Submission_2.Failed]
+Missione fallita!
+[Submission_3.Objectives]
+Sfonda le difese verso il ponte sulla Vistola. Elimina le guardie su entrambe le sponde del fiume.
+[Submission_3.Description]
+Hai completato il tuo compito principale. Adesso il tuo distaccamento deve tornare a casa e l’unica via si trova oltre il ponte che attraversa la Vistola.
+[Submission_3.Success]
+Missione completata
+[Submission_3.Failed]
+Missione fallita!
+[Submission_4.Objectives]
+I nostri aerei da ricognizione hanno localizzato una colonna di carri armati in movimento sulla strada verso i ponti sulla Vistola.
+I tuoi ordini sono:
+-Distruggi la colonna di carri a ogni costo.
+[Submission_4.Description]
+I nostri aerei da ricognizione hanno localizzato una colonna di carri armati in movimento sulla strada verso i ponti sulla Vistola. Il tuo compito è di aspettare che la colonna si avvicini e poi di bloccare il ponte distruggendo il primo carro. Forse utilizzare dei Panzershrek tedeschi che abbiamo requisito sarà efficace…
+[Submission_4.Success]
+Ottimo lavoro!
+[Submission_4.Failed]
+Missione fallita!
+[Submission_5.Objectives]
+Un posto di blocco nemico è stato avvistato. Se vieni visto, uccidi le guardie.
+[Submission_5.Description]
+Un posto di blocco nemico è stato avvistato. Se vieni visto, uccidi le guardie.
+[Submission_5.Success]
+Missione completata
+[Submission_5.Failed]
+Missione fallita!
+[StringTable.Zonder]
+Il nemico ha richiesto dei rinforzi.
+[StringTable.EnemyVisible]
+Il nemico ha avvistato le tue truppe e deve essere eliminato. C’è poco tempo; hai solo 4 o 5 minuti prima che arrivino dei rinforzi.
+[StringTable.Ahtung]
+Il nemico ha avvistato la tua squadra.
+[StringTable.CallSupport]
+La contraerea tedesca è stata avvistata. La posizione non può essere distrutta solo dai tuoi sabotatori. Richiedi artiglieria e supporto aereo per eliminare il nemico. 
+[Submission_6.Objectives]
+Un posto di blocco nemico è stato avvistato. Se vieni visto, uccidi le guardie.
+[Submission_6.Description]
+Il posto di blocco si trova su di una strada di importanza strategica. Partigiani polacchi hanno segnalato che una pattuglia motorizzata controlla continuamente la strada.
+[Submission_6.Success]
+Il posto di blocco nemico è stato eliminato
+ [Submission_6.Failed]
+Hai perso e le tue truppe d’elite sono state eliminate!

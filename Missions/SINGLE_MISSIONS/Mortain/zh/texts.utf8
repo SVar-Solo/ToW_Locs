@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+抵御德军新的攻势。
+[Mission.Description]
+为避免被合围，德军统帅部发动了一次规模虽小但异常凶猛的反击，代号“吕蒂希行动”。
+
+你的命令：
+- 	阻止德军的攻势
+[Mission.Success]
+任务完成。大规模攻势已被遏止。
+[Mission.Failed]
+德军的进攻得手，我们伤亡惨重。
+[Submission1.Objectives]
+进攻敌军的这一集群。
+[Submission1.Description]
+侦察报告称，德军攻势的第一阶段似乎正从东北方向向我们压来。 
+
+你的命令：
+- 	进攻从东北方向推进而来的敌军。
+[Submission1.Success]
+任务完成。敌军正在撤退。
+[Submission1.Failed]
+任务失败。你的部队已被击败。
+[Submission2.Objectives]
+进攻敌军。
+[Submission2.Description]
+德军的攻势仍在继续，现在看来他们将从东面向我们发起进攻。
+
+你的命令：
+- 	进攻从东面推进而来的敌军。
+[Submission2.Success]
+任务完成。敌人的进攻已被阻止。
+[Submission2.Failed]
+任务失败。你的部队已被消灭。
+[Submission3.Objectives]
+进攻从北面逼近的部队。
+[Submission3.Description]
+战斗尚未取胜。敌人正在准备从北面发动另一次进攻。这次他们人数占优，但你必须取胜。
+
+你的命令：
+- 	击溃德军的主攻。
+[Submission3.Success]
+任务完成。敌人计划的这一阶段已被阻止。
+[Submission3.Failed]
+任务失败。敌人的攻势得逞，你的部队被消灭。
+[StringTable.Reserve
+增援已抵达。
+[Submission4.Objectives]
+进攻德军。
+[Submission4.Description]
+到目前为止我们一直坚守着，但德军似乎即将发动最后一次进攻，这次来自东面。
+
+你的命令：
+- 	进攻从东面逼近的敌军，防止我军被合围。
+[Submission4.Success]
+任务完成。敌人未能突破并合围我军。
+[Submission4.Failed]
+任务失败。你的部队已被消灭。
+[StringTable.Subtitle_01]
+法国。1944年8月
+[StringTable.Reserv]
+增援已抵达。

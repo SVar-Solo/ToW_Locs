@@ -1,0 +1,42 @@
+﻿[STRATEGY_MAP_TIP.1]
+Le battaglie della campagna iniziano in modalità strategica, con i gruppi di combattimento disponibili stabiliti dalla campagna. In modalità strategica il giocatore può manovrare i propri gruppi di combattimento, usarli per attaccare il nemico o difendere le proprie posizioni e persino richiedere supporto aereo e di artiglieria. La mappa strategica è composta da una serie di aree collegate tra loro, sulle quali possono manovrare i gruppi di combattimento nemici e alleati. Sulla mappa strategica il giocatore può selezionare rinforzi e supporti e assegnare queste risorse ai propri gruppi di combattimento. In seguito, quando conquista località chiave, può ricevere ulteriori rinforzi e supporti. Il giocatore può assegnare queste risorse in qualsiasi momento durante il proprio turno, ma solo ai gruppi che non sono impegnati in combattimento.
+La mappa strategica della zona determina alcune condizioni di movimento in combattimento. I gruppi di combattimento non possono entrare nelle aree chiuse.
+
+\t Descrizione delle modalità di gioco:
+1. La modalità strategica è a turni.
+2. Un singolo turno comprende il movimento del giocatore, il movimento del nemico ed eventuali combattimenti risultanti dalle manovre delle unità dei giocatori.
+3. Il numero di turni consentiti è stabilito dalla campagna.
+4. Il turno del giocatore termina quando tutti i suoi gruppi di combattimento hanno esaurito i punti azione. Il turno può essere terminato in anticipo, ad esempio se il giocatore vuole che un gruppo resti dov'è per difendere un'area dal nemico.
+5. Il turno del nemico termina allo stesso modo, quando tutti i suoi gruppi di combattimento hanno esaurito i punti azione, o prima se il nemico lo decide.
+7. Il combattimento ha luogo quando i gruppi di combattimento del giocatore e del nemico si trovano nella stessa località.
+8. Per vincere una campagna, il giocatore deve ottenere più punti del nemico oppure eliminare tutti i gruppi di combattimento nemici.
+9. I punti vengono assegnati al termine di tutti i combattimenti sulla mappa.
+
+[STRATEGY_MAP_TIP.2]
+\t Schieramento delle truppe sulla mappa strategica 
+1. Per impostazione predefinita, tutte le truppe del giocatore iniziano nella zona cuscinetto (o fronte interno). Da lì possono essere schierate in qualsiasi area di partenza della mappa tattica.
+2. Una singola area può ospitare un solo gruppo di combattimento, del giocatore o del nemico.
+3. Un'area può offrire un bonus alla forza che l'ha conquistata, ad esempio supporto aereo o di artiglieria aggiuntivo, truppe, carburante o rinforzi.
+4. Se un gruppo di combattimento è tagliato fuori da tutte le aree amiche, non può rifornirsi di munizioni, attingere alle riserve né, se ha esaurito anche i punti azione, lasciare l'area. Anche il morale delle truppe isolate diminuisce.
+
+[STRATEGY_MAP_TIP.3]
+Un gruppo di combattimento è un insieme di truppe più una riserva. Le truppe possono muoversi sulla mappa tattica e possono essere rifornite dalle proprie riserve. Una riserva appartiene esclusivamente al proprio gruppo di combattimento e può essere usata solo per reintegrare le truppe di quel gruppo, a meno che la forza alleata non sia stata accerchiata.
+
+\t Parametri del gruppo di combattimento:
+1. Livello di esperienza.
+2. Carburante. (Il carburante si consuma con il movimento, non può essere rifornito se si è accerchiati e per il resto viene reintegrato una volta per turno.)
+3. Munizioni. (Le munizioni si consumano in combattimento e non possono essere rifornite se si è accerchiati.)
+4. Supporto.
+5. Velocità di movimento. (Dipende dalla presenza di veicoli, fanteria e artiglieria e scende a 1 quando un'area adiacente è occupata dal nemico.)
+
+\t Movimento del gruppo di combattimento:
+1. I movimenti sono pianificati ed eseguiti uno dopo l'altro, un gruppo di combattimento alla volta. Un gruppo di combattimento può muoversi una sola volta per turno. I gruppi appena schierati non possono ricevere ordini nello stesso turno: non è possibile schierarli e poi muoverli nello stesso turno.
+2. Il gruppo di combattimento in corso deve fermarsi prima che possa muoversi il successivo.
+3. Tutti i movimenti devono essere effettuati prima dell'inizio del combattimento.
+4. Un gruppo di combattimento può spostarsi da un'area all'altra.
+5. Due gruppi di combattimento non possono occupare la stessa area. Un gruppo di combattimento non può attraversare un'area occupata dal nemico.
+6. Un gruppo di combattimento non può essere diviso in unità separate. Tutte le unità di un gruppo si muovono insieme.
+7. I gruppi di combattimento che hanno subito perdite non possono essere fusi con altri gruppi.
+8. Alcune caratteristiche del paesaggio possono impedire a un gruppo di combattimento di muoversi o di combattere.
+9. La ritirata è molto simile al movimento normale. Tuttavia, se un gruppo di combattimento non ha dove ritirarsi, viene distrutto.
+

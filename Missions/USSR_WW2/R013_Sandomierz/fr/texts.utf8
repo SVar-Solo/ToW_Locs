@@ -1,0 +1,56 @@
+﻿[Mission1.Objectives]
+Détruire les chars ennemis.
+[Mission1.Description]
+Nos éclaireurs ont repéré une colonne de chars Koenigstiger. Détruire ces chars avant qu’ils n’atteignent leur destination est prioritaire. 
+
+Vos ordres : 
+- 	Se mettre en position dans la zone indiquée et détruire la colonne de Koenigstiger.
+[Mission1.Success]
+Les blindés allemands ont succombé à votre supériorité tactique et votre armement.
+[Mission1.Failed]
+Malgré tous les moyens dont vous disposiez, vous n’avez pas réussi à arrêter la colonne ennemie.
+[Mission2.Objectives]
+Détruire les unités ennemies autour du village.
+[Mission2.Description]
+Après avoir traversé la Vistule, les unités soviétiques font face à des défenses formidables sur la rive gauche. Les agresseurs fascistes occupent un village plus loin. Les rapports de reconnaissance indiquent que le village est lourdement défendu par de l’infanterie et des blindés. 
+Vos ordres :
+- 	Détruire les unités ennemies autour du village.
+[Mission2.Success]
+L’ennemi a été détruit et le village libéré ! Nos unités peuvent maintenant se regrouper afin de renforcer la tête de pont de Sandomierz.
+[Mission2.Failed]
+Vos unités ont été détruites. L’ennemi est ragaillardi par cette victoire et menace de nous repousser au-delà de la Vistule.
+[Submission1.Objectives]
+Capturer les Koenigstiger.
+[Submission1.Description]
+Une paire de chars lourds Koenigstiger a été repérée dans le village, leur équipage n’étant nulle part en vue. Ces tanks représenteraient un beau trophée de guerre et nos ingénieurs pourraient les étudier.
+
+Vos ordres : 
+-	Capturer les Koenigstiger.
+[Submission1.Success]
+Les chars ont été capturés, excellent travail !
+[Submission1.Failed]
+Malgré tous vos efforts, vous n’avez pas réussi à capturez les chars !
+[Mission3.Objectives]
+Faire face à la contre-attaque allemande.
+[Mission3.Description]
+Les Allemands ont lancé une importante contre-attaque pour reprendre Sandomierz et détruire notre tête de pont.
+
+Vos ordres : 
+-	Repousser l’ennemi à tout prix.
+[Mission3.Success]
+L’attaque ennemie a été repoussée et la tête de pont est sécurisée.
+[Mission3.Failed]
+Malgré les efforts héroïques de vos soldats, l’ennemi a remporté cette bataille.
+[Submission2_1.Objectives]
+Détruire les troupes ennemies.
+[Submission2_1.Description]
+Ce village, qui se trouve dans votre secteur du front, a été occupé par les Allemands. Les rapports indiquent que de l’infanterie en nombre ainsi que des chars, dont plusieurs Koenigstiger, sont retranchés dans et autour du village.
+
+Vos ordres : 
+- 	Détruire les troupes ennemies dans le village.
+[Submission2_1.Success]
+Les troupes ennemies ont été complètement détruites !
+[Submission2_1.Failed]
+Vos troupes ont été détruites, l’ennemi garde le contrôle du village !
+[StringTable.Reserv]
+Vous avez reçu des renforts.

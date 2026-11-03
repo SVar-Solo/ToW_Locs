@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+La vostra unità meccanizzata deve aiutare i nostri alleati nella difesa e impedire al nemico di attraversare il passo di Kasserine. Agendo come ritenete opportuno, dovete sferrare colpi improvvisi ai tedeschi all’attacco. Il nemico è superiore sia per numero sia per addestramento, perciò le imboscate sono una tattica ragionevole. I due principali passaggi del passo sono stati minati dalle nostre truppe. Siete autorizzati a impiegare le forze aeree.
+[Submission_1.Description]
+Aiutare i nostri alleati
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+Missione fallita.
+[StringTable.Change_army]
+Le truppe alleate sono state poste al vostro comando.
+[Submission_2.Objectives]
+Eliminate la forza corazzata nemica. Non lasciate che attraversi il passo.
+[Submission_2.Description]
+Eliminare la forza corazzata nemica
+[Submission_2.Success]
+I carri armati nemici sono stati distrutti.
+[Submission_2.Failed]
+I carri armati nemici hanno sfondato.
+[Submission_3.Objectives]
+Il nemico ha impiegato altri carri armati dalla sua riserva. Dovete distruggerli, impedendo loro di attraversare il passo.
+[Submission_3.Description]
+Eliminare la riserva nemica
+[Submission_3.Success]
+I carri armati nemici sono stati distrutti.
+[Submission_3.Failed]
+Missione fallita.
+[Submission_4.Objectives]
+Abbiamo respinto gli attacchi nemici, ma il nemico è riuscito a installare postazioni di obici proprio davanti al passo. Battendo le nostre posizioni, ha già causato gravi danni. Prendete tutte le forze disponibili e distruggete l’artiglieria nemica.
+[Submission_4.Description]
+Distruggere l’artiglieria nemica
+[Submission_4.Success]
+Le postazioni nemiche sono state distrutte.
+[Submission_4.Failed]
+Missione fallita.

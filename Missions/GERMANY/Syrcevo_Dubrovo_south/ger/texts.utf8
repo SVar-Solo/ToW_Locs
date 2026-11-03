@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+Nehmen Sie die feindliche Stellung ein und versetzen Sie die nachrückenden Truppen in Gefechtsbereitschaft.
+[Mission.Objectives]
+Der Gefechtsverband rückt weiter in Richtung Dubrowo vor. Erobern Sie die feindliche Stellung und stoßen Sie weiter bis an den östlichen Ortsrand des Dorfes vor. Zerstören Sie die Verteidigungsstellungen des Feindes im Durchbruchssektor. Sichern Sie die Einsatzräume für die Verstärkung.
+[Mission.Success]
+Mission abgeschlossen.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark! 
+[StringTable.Smoke]
+Die linke Flanke wird durch eine Nebelwand geschützt. Bestimmen Sie den Schusswinkel für die zweite Nebelwand.
+[Submission1.Objectives]
+Erobern Sie eine der feindlichen Stellungen und stören Sie den Feuerkampf der Artillerie.
+[Submission2.Objectives]
+Wehren Sie die feindlichen Gegenangriffe ab und versetzen Sie die nachrückenden Truppen in Gefechtsbereitschaft.
+[Submission1.Success]
+Mission abgeschlossen.
+[Submission1.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[Submission2.Success]
+Mission abgeschlossen, die Verstärkung ist in den feindlichen Verteidigungsraum vorgerückt.
+[Submission2.Failed]
+Unsere Truppen mussten sich unter feindlichem Feuer zurückziehen.
+[StringTable.SM11]
+Stellung 1 wurde eingenommen.
+[StringTable.SM12]
+Stellung 2 wurde eingenommen.
+[StringTable.SM13]
+Stellung 3 wurde eingenommen.
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

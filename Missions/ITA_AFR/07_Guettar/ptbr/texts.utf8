@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Ocupe e defenda a aldeia
+[Submission_1.Description]
+Capture o povoado e organize sua defesa.
+[Submission_01.Success]
+Missão cumprida.
+[Submission_01.Failed]
+Missão fracassada.
+[Mission.Objectives]
+Destrua o inimigo
+[Mission.Description]
+Você deve manter o terreno contra as unidades inimigas que avançam, repelir os ataques inimigos e contra-atacar. Para impedir que as forças inimigas se reagrupem, limpe o campo de batalha das unidades inimigas que foram derrotadas, mas não completamente destruídas.
+[NewSubmission.Success]
+Missão cumprida.
+[NewSubmission.Failed]
+Missão fracassada.
+[Submission_2.Objectives]
+Limpe a área
+[Submission_2.Description]
+Destrua ou disperse as unidades inimigas atacantes e limpe o campo de batalha de seus remanescentes.
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+Missão fracassada.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission_2.Success]
+Missão cumprida.
+[Submission_2.Failed]
+Missão fracassada.

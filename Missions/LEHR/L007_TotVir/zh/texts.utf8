@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+摧毁敌军防御并夺取村庄。
+[Mission.Description]
+敌军已把前方的村庄变成关键战略据点，司令部要求将其夺取。该地区地形的特点是有一座俯瞰小镇的大山丘，妨碍了远距离观察。我军侦察分队报告，敌军工事坚固，并有自行火炮和反坦克炮支援。
+ 
+命令：
+- 摧毁敌军防御。
+- 夺取村庄。
+[Mission.Success]
+干得好，指挥官！
+[Mission.Failed]
+任务失败！你的部队已被击败。
+[Submission_1.Objectives]
+夺取敌军阵地。
+[Submission_1.Description]
+破碎的地形将迫使交战在500米以内展开，但前方的敌占村庄必须拿下。
+ 
+命令：
+- 不惜一切手段，将敌人逐出战场并占领其阵地！
+[Submission_1.Success]
+干得好，指挥官！你的部队取得了胜利。
+[Submission_1.Failed]
+任务失败！你失败了。

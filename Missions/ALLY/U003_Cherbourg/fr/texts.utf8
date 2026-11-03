@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+Capturer la position ennemie sur la colline.
+[Submission_1.Description]
+D’un point de vue stratégique, la colline est un emplacement important dans ce secteur du front. Elle offre un grand avantage à celui qui la contrôle. 
+
+Vos ordres : 
+- 	Repousser l’ennemi de ses positions sur la colline et y mettre en place une position défensive. 
+[Submission_1.Success]
+La colline a été capturée !
+[Submission_1.Failed]
+C’est une défaite ! Vous n’avez pas réussi à capturer la colline.
+[Submission_2.Objectives]
+Etendre la tête de pont en détruisant les fortifications ennemies dans les villages avoisinants.
+[Submission_2.Description]
+Après avoir capturé la colline, il faudra percer la ligne de défense ennemie. L’ennemi se trouve toujours sur nos flancs. Il est indispensable de développer la tête de pont.
+
+Vos ordres : 
+- 	Détruire toutes les positions ennemies sur les flancs. 
+[Submission_2.Success]
+La mission a été accomplie.
+[Submission_2.Failed]
+Vous avez échoué dans cette mission.
+[Submission_3.Objectives]
+Tenir la colline par tous les moyens.
+[Submission_3.Description]
+Les Allemands semblent préparer une contre-attaque sur vos positions ; il faut résister à leur assaut. 
+
+Vos ordres : 
+- 	Tenir la position sur la colline et détruire les forces ennemies.
+[Submission_3.Success]
+L’ennemi a été défait. La route vers Cherbourg est ouverte.
+[Submission_3.Failed]
+Vous avez été défait. La route vers Cherbourg reste close.
+[Mission.Objectives]
+Détruire les poches de résistance allemandes près du port de Cherbourg.
+[Mission.Description]
+La garnison de Cherbourg a été coupée du reste des forces allemandes et elles disposent donc de peu de réserve. Mais malgré la supériorité alliée en terme d’effectif et de moyens, la garnison a rejeté l’offre du général Collins de se rendre. 
+
+Vos ordres :
+- 	Détruire les poches de résistance allemandes près du port de Cherbourg.
+[Mission.Success]
+Vous avez remporté la victoire.
+[Mission.Failed]
+Vous avez échoué. Trop d’unités allemandes restent encore dans cette zone et vont gêner nos opérations futures.
+[StringTable.reserv]
+Des renforts sont arrivés.

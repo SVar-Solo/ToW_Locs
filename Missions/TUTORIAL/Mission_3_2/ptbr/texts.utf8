@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+Assalte o povoado
+
+[Mission.Description]
+Entre no povoado, engaje a infantaria inimiga, descubra e capture um tanque. Destrua o tanque inimigo. Recue até o ponto especificado.
+
+[Mission.Success]
+Você cumpriu todas as tarefas com sucesso!
+
+[Mission.Failed]
+Tarefa fracassada.
+
+[Submission_1.Objectives]
+Tome o povoado e capture o tanque
+
+[Submission_1.Description]
+Tome o povoado controlado pelo inimigo, descubra o tanque e capture-o.
+
+[Submission_1.Success]
+Tanque descoberto e capturado
+
+[Submission_1.Failed]
+Tarefa fracassada.
+
+[Submission_2.Objectives]
+Destrua a artilharia inimiga
+
+[Submission_2.Description]
+Destrua a artilharia inimiga. Para cumprir a tarefa com mais eficácia, use projéteis de fumaça como cobertura.
+
+[Submission_2.Success]
+Artilharia inimiga destruída
+
+[Submission_2.Failed]
+Tarefa fracassada.
+
+[Submission_3.Objectives]
+Destrua o tanque inimigo
+
+[Submission_3.Description]
+Destrua o tanque inimigo que avança do sudoeste. Você pode usar uma cortina de fumaça.
+
+[Submission_3.Success]
+Tanque inimigo destruído
+
+[Submission_3.Failed]
+Tarefa fracassada.
+
+[Submission_4.Objectives]
+Evacuar
+
+[Submission_4.Description]
+Evacue suas tropas até o ponto de evacuação. Use uma cortina de fumaça para cobrir a retirada.
+
+[Submission_4.Success]
+Suas tropas foram evacuadas
+
+[Submission_4.Failed]
+Tarefa fracassada
+
+[StringTable.Storm]
+Para um assalto mais eficaz a edifícios, primeiro determine onde está o inimigo, para não cair em fogo cruzado. Posicione vários soldados de modo que controlem com segurança a saída à distância; com os outros soldados, aproxime-se furtivamente do edifício até o alcance de arremesso de granadas. É melhor lançar granadas pela porta usando o comando "Fogo em área" {hkey:groundattack}. Você também pode usar granadas antitanque para destruir o edifício.
+
+[StringTable.Ambush]
+Use o modo de movimento rastejando {hkey:setbodymodelay} para que seus homens fiquem menos visíveis ao inimigo. Lembre-se de que no modo de movimento livre sua infantaria, estando perto de coberturas ou edifícios, tentará se esconder ali e poderá se expor ao fogo, portanto proíba-a de se mover livremente {hkey:actionmode}.
+
+[StringTable.House]
+Use as casas como cobertura: sua infantaria ficará menos vulnerável.
+
+[StringTable.Variation]
+Na maioria das situações de combate, você pode agir de várias maneiras. Neste caso, os canhões podem ser destruídos pela infantaria, usando granadas de fumaça como cobertura, ou por um tanque.
+
+[StringTable.Smoke]
+O tanque está equipado com um lançador de fumaça projetado para criar cortinas de fumaça. Se houver um comandante no tanque e o dispositivo estiver carregado, você pode usar o comando "Cortina de fumaça (disparo imediato)" {hkey:smokecloudfast}. Então a cortina de fumaça será criada imediatamente ao lado do tanque, sem especificar um ponto de tiro.
+
+[StringTable.Evac]
+Evacue suas tropas até o ponto de evacuação. Ele pode ser visto no minimapa, ou mude para o modo de mapa tático {hkey:cameratopdownview}. Use uma cortina de fumaça para cobrir a retirada. Mova o tanque em marcha à ré {hkey:retreat} até sair da linha de tiro do inimigo.

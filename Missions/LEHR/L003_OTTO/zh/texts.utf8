@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+夺取并坚守奥托村。
+[Mission.Description]
+根据我们掌握的侦察情报，英军仅以一支小部队占据着前方的村庄。尽管他们的阵地很可能工事坚固，但这是把他们赶走的难得机会。你指挥的部队包括第902装甲掷弹兵团的兵力以及部分装甲支援。
+ 
+命令：
+- 攻击占据奥托村的英军并将其驱逐。
+[Mission.Success]
+干得好，指挥官！敌军防线已被突破。
+[Mission.Failed]
+任务失败！
+[Submission_1.Objectives]
+攻击奥托村的敌军阵地。
+[Submission_1.Description]
+奥托村位于你出发阵地的东南方。显然我们先前的侦察判断有些偏差，村里的敌军兵力比预想的更多，工事也更坚固。指挥官，请谨慎协调你的攻击，拿下那座村庄！
+ 
+命令：
+- 夺取奥托村。
+[Submission_1.Success]
+干得好，指挥官！村庄已被夺取。
+[Submission_1.Failed]
+任务失败！
+[Submission_2.Objectives]
+组织你的部队，建立足以抵御任何敌军反击的防御。
+[Submission_2.Description]
+失去村庄之后，敌军必定会发动反击，试图夺回这一战利品。
+ 
+命令：
+- 击退所有进攻。
+[Submission_2.Success]
+干得好，指挥官！敌军的进攻已被击退。
+[Submission_2.Failed]
+任务失败！你的部队已被击溃。

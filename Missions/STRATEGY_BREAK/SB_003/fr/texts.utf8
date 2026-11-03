@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Traverser la rivière et avancer vers le nord.
+[Mission.Description]
+Paris est tombée le 14 juin et le gouvernement français s'est enfui à Bordeaux. Certaines unités militaires et garnisons françaises continuent de se battre. La résistance doit continuer, l'armée n'est pas vaincue tant que le dernier soldat n'a pas cessé le combat !
+[Mission.Success]
+Mission accomplie
+[Mission.Failed]
+Mission échouée
+[Submission_1.Objectives]
+Traverser un pont pour atteindre l'autre rive.
+[Submission_1.Description]
+Traverser un pont pour atteindre l'autre rive.
+[Submission_1.Success]
+Mission accomplie
+[Submission_1.Failed]
+Mission échouée
+[Submission_2.Objectives]
+Atteindre le secteur nord.
+[Submission_2.Description]
+Atteindre le secteur nord.
+[Submission_2.Success]
+Mission accomplie
+[Submission_2.Failed]
+Mission échouée

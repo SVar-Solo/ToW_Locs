@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Przekrocz rzekę i posuwaj się na północ.
+[Mission.Description]
+ Paryż upadł 14 czerwca, a rząd francuski uciekł do Bordeaux. Część francuskich jednostek wojskowych i garnizonów nadal walczy. Opór musi trwać, armia nie jest pokonana, dopóki ostatni żołnierz nie przestanie walczyć!
+[Mission.Success]
+Misja wykonana
+[Mission.Failed]
+Misja nieudana
+[Submission_1.Objectives]
+Przekrocz most, aby dostać się na przeciwległy brzeg rzeki.
+[Submission_1.Description]
+Przekrocz most, aby dostać się na przeciwległy brzeg rzeki.
+[Submission_1.Success]
+Misja wykonana
+[Submission_1.Failed]
+Misja nieudana
+[Submission_2.Objectives]
+Dotrzyj do sektora północnego.
+[Submission_2.Description]
+Dotrzyj do sektora północnego.
+[Submission_2.Success]
+Misja wykonana
+[Submission_2.Failed]
+Misja nieudana

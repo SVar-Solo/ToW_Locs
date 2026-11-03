@@ -1,0 +1,24 @@
+﻿[mission.Objectives]
+Ábrase paso hasta el puente del norte y crúcelo con todas las tropas disponibles.
+[mission.Description]
+Feroces combates se libran por toda Francia. Las tropas alemanas se acercan a París. Tras la batalla de Arras, nuestro grupo ha quedado cercado. La situación es desesperada y no hay posibilidad de sobrevivir, pero seguiremos luchando hasta el final.
+[mission.Success]
+Misión cumplida, nuestras tropas han llegado al puente.
+[mission.Failed]
+Su escuadra ha sido destruida.
+[Submission_1.Objectives]
+Realice un reconocimiento de las fuerzas enemigas.
+[Submission_1.Description]
+Realice un reconocimiento de las fuerzas enemigas.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+Misión fallida.
+[Submission_2.Objectives]
+Debe llegar al puente lo antes posible, evitando los grandes grupos enemigos.
+[Submission_2.Description]
+El enemigo que nos rodea está disperso y aún hay posibilidades de llegar hasta nuestras tropas antes de que la infantería enemiga cierre el cerco. Debe abrirse paso hasta el puente lo más rápido posible, evitando los grandes grupos enemigos.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+Misión fallida.

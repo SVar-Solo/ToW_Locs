@@ -1,0 +1,444 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Die feindliche Verteidigung ausschalten und die Anhöhe einnehmen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Die feindliche Verteidigung ausschalten und die Anhöhe einnehmen. Alle feindlichen Gegenangriffe abwehren.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Der Feind hat das Gebiet stark befestigt. Der erste Abschnitt der Vormarschlinie ist relativ flach, daher steht Panzerunterstützung zur Verfügung. Der zweite Abschnitt des Vormarschs erfolgt jedoch nur mit Infanterie. Ihr Hauptziel ist die auf der Karte markierte Anhöhe.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Der Feind hat das Gebiet stark befestigt. Der erste Abschnitt der Vormarschlinie ist relativ flach, daher steht Panzerunterstützung zur Verfügung. Der zweite Abschnitt des Vormarschs erfolgt jedoch nur mit Infanterie. Ihr Hauptziel ist die auf der Karte markierte Anhöhe. Halten Sie sich bereit: Laut Hauptquartier könnte der Feind Gegenangriffe führen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Anhöhe eingenommen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Anhöhe eingenommen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Die Truppen sind geschlagen und ziehen sich zurück.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Die Truppen sind geschlagen und ziehen sich zurück.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe halten. Alle Zugänge verminen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgebiet. Denken Sie daran: Auch der Feind kann seine schweren gepanzerten Fahrzeuge nicht einsetzen. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe halten. Alle Zugänge verminen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe bis auf Weiteres halten.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgebiet. Denken Sie daran: Auch der Feind kann seine schweren gepanzerten Fahrzeuge nicht einsetzen. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgebiet. Denken Sie daran: Auch der Feind kann seine schweren gepanzerten Fahrzeuge nicht einsetzen. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MLR_SUPPORT]
+Raketenartilleriebatterie erwartet Ihre Befehle.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MLR_SUPPORT]
+Raketenartilleriebatterie erwartet Ihre Befehle.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MLR_SUPPORT]
+Raketenartilleriebatterie erwartet Ihre Befehle.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MLR_SUPPORT]
+Raketenartilleriebatterie erwartet Ihre Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftwaffe wartet auf Befehle.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftwaffe wartet auf Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Die feindliche Verteidigung ausschalten und die Anhöhe einnehmen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Die feindliche Verteidigung ausschalten und die Anhöhe einnehmen. Alle feindlichen Gegenangriffe abwehren.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Der Feind hat das Gebiet stark befestigt. Der erste Abschnitt der Vormarschlinie ist relativ flach, daher steht Panzerunterstützung zur Verfügung. Der zweite Abschnitt des Vormarschs erfolgt jedoch nur mit Infanterie. Ihr Hauptziel ist die auf der Karte markierte Anhöhe.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Der Feind hat das Gebiet stark befestigt. Der erste Abschnitt der Vormarschlinie ist relativ flach, daher steht Panzerunterstützung zur Verfügung. Der zweite Abschnitt des Vormarschs erfolgt jedoch nur mit Infanterie. Ihr Hauptziel ist die auf der Karte markierte Anhöhe. Halten Sie sich bereit: Laut Hauptquartier könnte der Feind Gegenangriffe führen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Anhöhe eingenommen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Anhöhe eingenommen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Die Truppen sind geschlagen und ziehen sich zurück.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Die Truppen sind geschlagen und ziehen sich zurück.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe halten. Alle Zugänge verminen.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgebiet. Denken Sie daran: Auch der Feind kann seine schweren gepanzerten Fahrzeuge nicht einsetzen. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe halten. Alle Zugänge verminen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe bis auf Weiteres halten.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgebiet. Denken Sie daran: Auch der Feind kann seine schweren gepanzerten Fahrzeuge nicht einsetzen. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgebiet. Denken Sie daran: Auch der Feind kann seine schweren gepanzerten Fahrzeuge nicht einsetzen. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftwaffe wartet auf Befehle.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftwaffe wartet auf Befehle.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[Reinforcement.Group_inf]
+Infanterie
+
+[Reinforcement.Group_infantry]
+Infanterie
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Die feindliche Verteidigung ausschalten und die Anhöhe einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Die Anhöhe einnehmen und alle Feinde ausschalten. Achten Sie im unwegsamen Gebirgsgelände auf Ihre gepanzerten Fahrzeuge und Ihre Infanterie. Hubschrauber können zur Aufklärung eingesetzt werden.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Die Anhöhe einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Die Luftaufklärung hat offenbar eine feindliche Vorausabteilung entdeckt. Sie müssen die Höhe vor den Koreanern einnehmen. Verlegen Sie Ihre Truppen mit Hubschraubern schnell.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Halten Sie die Anhöhe um jeden Preis und wehren Sie alle Feindangriffe ab. Das Gelände ist schwierig, setzen Sie daher Minen und Nahkampfmittel der Infanterie gegen Panzer ein.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Halten Sie die Anhöhe um jeden Preis und wehren Sie alle Feindangriffe ab. Das Gelände ist schwierig, setzen Sie daher Minen und Nahkampfmittel der Infanterie gegen Panzer ein.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Setzen Sie Hubschrauber ein, um die taktisch wichtige Anhöhe einzunehmen, bevor der Feind sie erreicht. Bauen Sie dann Ihre Verteidigung auf und wehren Sie alle Feindangriffe ab. Verteidigen Sie die Anhöhe für die vorgegebene Zeit, bis die Hauptkräfte eintreffen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Die auf der Karte markierte Anhöhe einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Die feindliche Verteidigung ausschalten und die Anhöhe einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Die Anhöhe einnehmen und alle Feinde ausschalten. Achten Sie im unwegsamen Gebirgsgelände auf Ihre gepanzerten Fahrzeuge und Ihre Infanterie. Hubschrauber können zur Aufklärung eingesetzt werden.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Die Anhöhe einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Die Luftaufklärung hat offenbar eine feindliche Vorausabteilung entdeckt. Sie müssen die Höhe vor den Koreanern einnehmen. Verlegen Sie Ihre Truppen mit Hubschraubern schnell.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Halten Sie die Anhöhe um jeden Preis und wehren Sie alle Feindangriffe ab. Das Gelände ist schwierig, setzen Sie daher Minen und Nahkampfmittel der Infanterie gegen Panzer ein.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Halten Sie die Anhöhe um jeden Preis und wehren Sie alle Feindangriffe ab. Das Gelände ist schwierig, setzen Sie daher Minen und Nahkampfmittel der Infanterie gegen Panzer ein.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Setzen Sie Hubschrauber ein, um die taktisch wichtige Anhöhe einzunehmen, bevor der Feind sie erreicht. Bauen Sie dann Ihre Verteidigung auf und wehren Sie alle Feindangriffe ab. Verteidigen Sie die Anhöhe für die vorgegebene Zeit, bis die Hauptkräfte eintreffen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Die auf der Karte markierte Anhöhe einnehmen.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[Reinforcement.Group1[Reinforcement]]
+Hubschraubertruppe
+
+[Reinforcement.Group2[Reinforcement]]
+Gepanzerte Fahrzeuge und Infanterie
+

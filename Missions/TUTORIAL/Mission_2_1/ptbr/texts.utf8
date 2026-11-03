@@ -1,0 +1,72 @@
+﻿[Submission1.Objectives]
+Destrua a defesa inimiga.
+
+[Submission1.Description]
+O comandante da frente considera necessário destruir a defesa inimiga nesta área.
+
+Ordem recebida:
+- capturar a primeira linha de trincheiras;
+- capturar a segunda linha de trincheiras;
+- capturar a terceira linha de trincheiras.
+
+[Submission1.Success]
+Ordens do comando cumpridas! Você recebeu a patente de oficial do Exército Vermelho!
+
+[Submission1.Failed]
+Você fracassou na operação! Suas tropas foram destruídas!
+
+[StringTable.1]
+Capture a primeira linha de trincheiras.
+Mova os tanques para a frente para atirar nas posições inimigas e cobrir o avanço da infantaria. Use a infantaria para atacar as trincheiras inimigas.
+
+[StringTable.2]
+Capture a segunda linha de trincheiras. Use dois tanques para flanquear o inimigo e chegar à retaguarda para destruir a artilharia inimiga. Use a infantaria para atacar as trincheiras inimigas, cobrindo seu avanço com um tanque.
+
+Se o canhão inimigo for difícil de atingir, tente designar a um único tanque um ponto de tiro com o comando "Fogo em área" {hkey:groundattack} o mais próximo possível do canhão ou um pouco atrás dele. Certifique-se de que há linha de tiro até esse ponto (talvez seja preciso escolher uma posição mais conveniente para o seu tanque). O tanque selecionará automaticamente projéteis HE para o fogo em área.
+
+Você também pode usar tanques para esmagar canhões e infantaria fora das trincheiras.
+
+[StringTable.3]
+Capture a terceira linha de trincheiras.
+Estas trincheiras são "ativas": primeiro, elas se cobrem mutuamente com fogo; segundo, quando uma trincheira é capturada, os soldados da outra começam a atacar suas tropas, tentando expulsá-las das posições ocupadas.
+Além disso, a artilharia inimiga é coberta por tanques.
+Use dois tanques pesados para flanquear o inimigo e chegar à retaguarda para destruir a artilharia inimiga. Use a infantaria para atacar as trincheiras inimigas, seja pelo flanco direito, seja pelo esquerdo, cobrindo o avanço com um tanque leve.
+
+[StringTable.Win]
+Tarefa concluída!
+
+[StringTable.Form]
+Suas tropas podem se mover em diferentes formações. Há 4 tipos de formação no total:
+
+"Coluna" - ao se mover, as tropas formam uma coluna;
+"Escalão" - ao se mover, as tropas formam uma cunha;
+"Livre" - ao se mover, as tropas formam um arranjo livre;
+"Linha" - ao se mover, as tropas formam uma linha.
+
+A formação "Linha" é selecionada por padrão. Você pode alternar rapidamente entre as formações com a tecla {hkey:formation}. As distâncias entre as unidades, assim como a direção da formação, são reguladas movendo o mouse com o botão direito pressionado; as tropas se posicionarão no ponto final na direção especificada.
+
+Se precisar posicionar as tropas na direção desejada sem alterar sua posição atual, dê a ordem "Girar" {hkey:defend}. Veículos que não conseguem girar no lugar tentarão fazê-lo em várias manobras. Ao dar uma ordem de movimento a uma única unidade, você pode definir a direção final de rotação mantendo o botão direito pressionado por algum tempo e definindo a direção da seta com o movimento do mouse.
+
+Para veículos, está disponível o modo de movimento na velocidade da infantaria {hkey:lowspeed}.
+
+[StringTable.Action]
+Suas tropas podem se mover em qualquer um dos modos de movimento. Há 4 modos de movimento:
+"ATACAR" {hkey:attack} - ao avistar o inimigo, as tropas param e começam a atirar até que o inimigo seja destruído ou desapareça de vista. Depois disso, continuam a atacar.
+"ASSALTAR" {hkey:storm} - as tropas atiram no inimigo em curtas paradas enquanto avançam.
+"MOVER" {hkey:move} - as tropas se movem principalmente pelas estradas, ignorando os inimigos. Veículos com torre a giram durante o movimento. Essa ordem também pode ser dada com um clique duplo no botão direito do mouse.
+"RÉ/RECUAR" {hkey:retreat} - as tropas (exceto a infantaria) se movem em marcha à ré.
+
+Lembre-se sempre de que você pode parar suas tropas e cancelar as ordens dadas a elas com a ordem "Cancelar comando" {hkey:stop}. Depois disso, elas passarão ao modo "Defesa".
+
+Ao atacar trincheiras, selecione "atacar" ou "assaltar" e indique o ponto de movimentação clicando com o botão direito do mouse.
+
+[StringTable.WeaponsAndAmmos]
+Um canhão pode ser carregado com um dos tipos de munição do estoque da unidade. Um canhão carregado é descarregado ao disparar. O ícone de munição semitransparente no painel de armas mostra que ela será carregada em seguida (por exemplo, se você a selecionou à força) e nem sempre corresponde ao projétil atualmente carregado. O projétil atualmente carregado pode ser visto na dica ao passar o mouse sobre o ícone do canhão.
+
+Suas unidades tentam selecionar automaticamente um projétil adequado para cada tipo de alvo. Você pode especificar à força a munição necessária clicando com o botão direito na área de munição à direita do ícone do canhão no painel de armas. Em seguida, selecione o projétil necessário com o botão esquerdo - o canhão e a munição serão destacados em amarelo. Agora a unidade usará somente essa arma com o tipo de munição selecionado, e o comando "Girar" do tanque {hkey:defend} agora se aplicará à torre com esse canhão, e não à unidade inteira. Você também pode proibir o uso de certas munições ou tipos de arma clicando com o botão direito no ícone correspondente.
+
+[StringTable.EnemyTanks]
+Tanques inimigos saíram ao seu encontro.
+Penetrar a blindagem de um tanque muitas vezes não basta para destruí-lo. A destruição completa de um tanque inimigo pode ser obtida de várias maneiras: destruindo o casco, provocando incêndio no motor ou no tanque de combustível, atingindo o paiol de munição e causando sua detonação. Você pode neutralizar parcialmente um tanque arrebentando suas esteiras, destruindo a torre ou o canhão principal, ou atingindo tripulantes críticos individuais. Tudo isso exige atingir um módulo específico dentro do tanque. Considere também se um determinado canhão consegue penetrar a blindagem do tanque inimigo no ângulo de impacto dado, bem como qual dano o projétil causará após a penetração.
+
+Para ver os vetores de penetração de blindagem e informações sobre danos internos, ative o "Modo de informações de dano" {hkey:SwitchDamageMessagesMode}.

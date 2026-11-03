@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Nie pozwólcie nieprzyjacielowi przebić się do Nowosiłowki.
+[Mission.Description]
+Brońcie pozycji 500 m na południe od Nowosiłowki, punktu obrony przeciwczołgowej w samej wiosce i drugiej linii na północno-zachodnich obrzeżach wioski. Skupcie swoje wysiłki na utrzymaniu centrum wioski. Nie pozwólcie wrogowi przedostać się na północ od Nowosiłowki.
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Wrogie siły zajęły Nowosiłowkę i przesuwają się teraz na północ.
+[Submission_1.Objectives]
+Utrzymajcie pozycje aż do przybycia posiłków.
+[Submission_1.Success]
+Misja ukończona, powstrzymano natarcie wroga.
+[Submission_1.Failed]
+Wróg kontynuuje natarcie, istnieje zagrożenie, że przebije się na północ.
+[Submission_2.Objectives]
+Pokonajcie wroga zmierzającego ku północno-zachodniej części wsi.
+[Submission_2.Success]
+Nieprzyjacielskie natarcie zostało powstrzymane.
+[Submission_2.Failed]
+Kontratak nieudany, wróg kontynuuje natarcie.
+[StringTable.Support]
+Grupa czołgów z rezerw dywizji jest teraz pod waszą komendą.
+[StringTable.Infantry]
+Piechota z 959. Pułku Piechoty
+[StringTable.Tanks]
+Czołgi z 3. Korpusu Zmechanizowanego
+[StringTable.Call_SPG]
+Samobieżne działa artyleryjskie są teraz pod waszą komendą.
+
+[StringTable.SPG]
+Samobieżne działa artyleryjskie
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Libera la città che si trova a nord-est delle posizioni del nemico.
+[Mission.Description]
+Nell'area della città di  Saint-Lo i tedeschi hanno costruito delle robuste posizioni difensive. Secondo la ricognizione aerea, il nemico ha concentrato in quest'area la parte principale della 7ma armata. La zona si adatta molto bene a tutti i tipi di agguato e alla presenza di piccole postazioni di difesa.
+
+I tuoi ordini sono:
+- 	Organizza un attacco esplorativo di carri e di fanteria
+- 	Libera la cittadina che si trova a nord-est.
+[Mission.Success]
+Missione completata! L'operazione Cobra prosegue.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Objectives]
+Lancia un attacco esplorativo verso i due villaggi che si trovano ai limiti della città di Saint-Lo.
+[Submission_1.Description]
+Il nemico ha concentrato le sue forze principali di difesa sulle colline vicino alla città. Due villaggi si trovano lungo la strada. Non abbiamo notizie che il nemico sia lì.
+
+I tuoi ordini sono:
+-	Lancia un attacco esplorativo verso i due villaggi.
+[Submission_1.Success]
+L'attacco esplorativo è stato portato a termine. Il nemico è stato sconfitto.
+[Submission_1.Failed]
+Missione fallita.
+[Submission_2.Objectives]
+Attacca le posizioni di difese del nemico sull'altura.
+[Submission_2.Description]
+Il nemico ha formato una linea di difesa sulle strade di accesso alla città,  sfruttando l'elevazione delle colline.
+
+I tuoi ordini sono:
+-	Distruggi le difese nemiche.
+[Submission_2.Success]
+Missione completata!
+[Submission_2.Failed]
+Missione fallita.
+[Submission_3.Objectives]
+Cattura la città di Saint-Lo.
+[Submission_3.Description]
+La città di Saint-Lo è di critica importanza strategica. E' la chiave per la successiva avanzata in Francia.
+ 
+I tuoi ordini sono:
+-	Libera la città di Saint-Lo eliminando la guarnigione nemica che la difende.
+[Submission_3.Success]
+Agguato respinto!
+[Submission_3.Failed]
+Missione fallita.
+[Submission_4.Objectives]
+Distruggi la batteria di artiglieria nemica.
+[Submission_4.Description]
+I tedeschi hanno trovato una posizione molto favorevole per la loro artiglieria. L'altura dove si trova la batteria permette di tenere sotto tiro tutte le vie di accesso alla città.
+
+I tuoi ordini sono:
+-	Distruggi la batteria di artiglieria nemica sull'altura.
+[Submission_4.Success]
+La batteria di artiglieria nemica è stata distrutta.
+[Submission_4.Failed]
+Missione fallita.
+[StringTable.Reserv]
+I rinforzi sono arrivati

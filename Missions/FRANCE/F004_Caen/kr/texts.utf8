@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+지정된 지역의 방어 진지를 사수하라.
+[Mission1.Description]
+상황이 매우 심각하다. 구원받을 희망은 거의 없다. 우리의 전우 많은 이가 전투에서 쓰러졌고, 의심할 여지 없이 더 많은 이가 노르망디의 땅에 피를 뿌리며 죽을 운명이다. 정보에 따르면 독일군은 캉으로 가는 길의 모든 저항을 분쇄하기 위해 마을을 향해 빠르게 진격하고 있다. 서쪽과 동쪽의 아군 측면은 가볍게만 방어되고 있어 독일군이 그 방향으로 돌파할 가능성이 높다.   
+
+명령:
+-	마을 방어를 유지하라
+[Mission1.Success]
+명령 완수! 병사들이 진지를 지켜 냈고, 적어도 지금은 캉을 독일군에게서 구했다.
+[Mission1.Failed]
+명령 미완수! 독일군이 진지를 돌파하여 캉으로 난입했다.  
+[Submission1.Objectives]
+북서쪽에서 오는 적의 공격을 격퇴하라.
+[Submission1.Description]
+독일군이 남은 저항을 모두 분쇄할 목적으로 마을을 향해 진격하고 있다. 이 공격을 격퇴하여 독일군이 캉에 접근하지 못하게 하는 것이 사활적으로 중요하다.
+
+명령:
+-	북서쪽에서 오는 적의 공격을 격퇴하라.
+[Submission1.Success]
+독일군의 공격을 성공적으로 격퇴했다!
+[Submission1.Failed]
+적이 방어선을 돌파했다!
+[Submission2.Objectives]
+북쪽에서 오는 적의 공격을 격퇴하라.
+[Submission2.Description]
+독일군이 남은 저항을 모두 분쇄할 목적으로 마을을 향해 진격하고 있다. 이 공격을 격퇴하여 독일군이 캉에 접근하지 못하게 하는 것이 사활적으로 중요하다.
+
+명령:
+-	북쪽에서 오는 적의 공격을 격퇴하라.
+[Submission2.Success]
+적의 공격을 격퇴했다!
+[Submission2.Failed]
+적이 방어선을 박살 냈다!
+[Submission3_1.Objectives]
+적 집단을 공격하라.
+[Submission3_1.Description]
+서쪽 측면의 아군이 무너졌고 독일군이 그 방향에서 다시 마을을 향해 진격하고 있다. 적의 진격에 계속 저항하여 이 새로운 공격을 저지하라!
+
+명령:
+-	서쪽에서 진격하는 적군을 공격하라.
+[Submission3_1.Success]
+명령을 완수했고 적이 도주하고 있다. 귀관이 위기를 구했다!
+[Submission3_1.Failed]
+명령 미완수, 아군이 패배했다.
+[Submission4.Objectives]
+동쪽에서 진격하는 적 집단을 공격하라.
+[Submission4.Description]
+동쪽 측면의 아군이 짓밟혔고 독일군이 이제 캉을 향해 가고 있다. 반드시 저지해야 한다!
+
+명령:
+-	동쪽에서 진격하는 적군을 공격하라.
+[Submission4.Success]
+명령 완수!
+[Submission4.Failed]
+명령 미완수!
+[Submission5.Objectives]
+적군의 공세를 격퇴하라.
+[Submission5.Description]
+항공 정찰에 따르면 적의 또 다른 임무 부대가 캉을 향해 진격하고 있다. 가용한 병력을 모두 모아 적의 진격을 격퇴하는 것이 사활적으로 중요하다. 귀관은 독일군을 저지할 마지막 희망이다!
+
+명령:
+- 캉으로 향하는 독일군의 진격을 격퇴하라.
+[Submission5.Success]
+명령 완수! 적의 공격을 격퇴했다!
+[Submission5.Failed]
+적이 돌파했다! 아군이 전멸했다!
+[StringTable.Reserv]
+지원을 위한 증원 부대가 도착했다.
+[Submission4_1.Objectives]
+적군을 공격하라.
+[Submission4_1.Description]
+동쪽 측면의 아군이 짓밟혔고 독일군이 이제 캉을 향해 가고 있다. 반드시 저지해야 한다!
+
+명령:
+-	동쪽에서 진격하는 적군을 공격하라.
+[Submission4_1.Success]
+적의 공격을 격퇴했고 적이 도주하고 있다!
+[Submission4_1.Failed]
+적의 공격을 저지하지 못해 아군이 전멸했다!
+[Submission3.Objectives]
+적 집단을 공격하라.
+[Submission3.Description]
+서쪽 최전방 진지가 무너졌고 독일군이 이제 다시 마을을 향해 빠르게 진격하고 있다. 독일군이 돌파하여 캉을 점령하기 전에 즉시 공격해야 한다.
+
+명령:
+- 	서쪽에서 진격하는 적군을 공격하라.
+[Submission3.Success]
+명령을 완수했고 적을 격파했다!
+[Submission3.Failed]
+명령을 완수하지 못했고 아군이 패배했다.

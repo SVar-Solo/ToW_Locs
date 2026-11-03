@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+Écrasez l’ennemi
+[Mission.Description]
+Lieutenant-colonel Waters ! Vous devez mener une offensive pour écraser l’ennemi au village de Sidi Bou Zid.
+[Mission.Success]
+L’offensive est un succès ! L’ennemi prend la fuite !
+[Mission.Failed]
+Repli ! Nos troupes ont été vaincues !
+[Submission1.Objectives]
+Libérez le village
+[Submission1.Description]
+Libérez le village des troupes ennemies.
+[Submission1.Success]
+Le village a été libéré des envahisseurs.
+[Submission1.Failed]
+Nous n’avons pas réussi à déloger l’ennemi du village !
+[Submission2.Objectives]
+Rétablissez le contact
+[Submission2.Description]
+Envoyez une unité d’infanterie à la position d’artillerie d’obusiers pour rétablir le contact.
+[Submission2.Success]
+Le contact a été rétabli.
+[Submission2.Failed]
+Nous n’avons pas réussi à rétablir le contact avec l’artillerie !
+[Submission3.Objectives]
+Protégez l’artillerie
+[Submission3.Description]
+Empêchez l’ennemi de s’emparer de l’artillerie.
+[Submission3.Success]
+L’ennemi n’a pas réussi à s’emparer de l’artillerie !
+[Submission3.Failed]
+L’ennemi s’est emparé de l’artillerie !
+[Submission4.Objectives]
+Capturez l’artillerie
+[Submission4.Description]
+Reprenez la position d’artillerie !
+[Submission4.Success]
+L’artillerie est de nouveau à nous !
+[Submission4.Failed]
+L’ennemi contrôle toujours l’artillerie !
+[Submission5.Objectives]
+Détruisez l’embuscade
+[Submission5.Description]
+Détruisez l’embuscade
+[Submission5.Success]
+L’embuscade a été détruite !
+[Submission5.Failed]
+L’embuscade n’a pas été détruite !
+[Submission8.Objectives]
+Détruisez les forces ennemies qui avancent
+[Submission8.Description]
+L’ennemi a lancé une contre-offensive pour briser notre attaque à Sidi Bou Zid. Détruisez les forces ennemies qui avancent !
+[Submission8.Success]
+Les forces ennemies qui avançaient ont été détruites !
+[Submission8.Failed]
+Nos troupes ont été écrasées par les forces ennemies qui avançaient !
+[StringTable.Zasada]
+Une embuscade.
+[Submission6.Objectives]
+Détruisez les chars
+[Submission6.Description]
+Détruisez les chars ennemis qui avancent.
+[Submission6.Success]
+Les chars ennemis ont été détruits !
+[Submission6.Failed]
+Les chars ennemis n’ont pas été détruits !
+[Submission7.Objectives]
+Détruisez les chars ennemis
+[Submission7.Description]
+Une unité blindée ennemie a été repérée au sud. Détruisez-la au plus vite.
+[Submission7.Success]
+L’unité blindée ennemie a été vaincue !
+[Submission7.Failed]
+L’unité blindée ennemie n’a pas été vaincue !
+[StringTable.human]
+Infanterie
+[StringTable.spg]
+Canons automoteurs

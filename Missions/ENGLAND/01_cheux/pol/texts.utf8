@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Przejdź do wsi Cheux i zdobądź ją.
+[Mission.Description]
+Wróg nie będzie się nas spodziewał, a garnizon w Cheux jest niewielki.
+[Submission_1.Objectives]
+Odeprzyj kontrnatarcie.
+[Submission_1.Description]
+Wróg próbuje ściągnąć rezerwy, aby wesprzeć obrońców.
+[NewSubmission.Success]
+Kontrnatarcie odparte.
+[NewSubmission.Failed]
+Wróg się przebił.
+[Submission_01.Success]
+Cheux zdobyte.
+[Submission_01.Failed]
+Nie udało się zdobyć Cheux.
+[Mission.Success]
+Wieś zdobyta. Rejon zabezpieczony.
+[Mission.Failed]
+Obrona wroga okazała się silniejsza, niż zakładano.
+[Submission_1.Success]
+Atak odparty.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

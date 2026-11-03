@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Eliminate le difese nemiche e conquistate l'altura.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Eliminate le difese nemiche e conquistate l'altura. Respingete tutti i contrattacchi nemici.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Il nemico ha solide fortificazioni nell'area. La prima parte della linea di avanzata è relativamente pianeggiante, quindi sarà disponibile il supporto dei carri armati. La seconda parte dell'avanzata, invece, sarà solo di fanteria. Il vostro obiettivo principale è l'altura segnata sulla mappa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Il nemico ha solide fortificazioni nell'area. La prima parte della linea di avanzata è relativamente pianeggiante, quindi sarà disponibile il supporto dei carri armati. La seconda parte dell'avanzata, invece, sarà solo di fanteria. Il vostro obiettivo principale è l'altura segnata sulla mappa. Tenetevi pronti: secondo il quartier generale, il nemico potrebbe lanciare contrattacchi.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Altura conquistata.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Altura conquistata.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Le truppe sono state sconfitte e si stanno ritirando.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Le truppe sono state sconfitte e si stanno ritirando.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Mantenete l'altura segnata sulla mappa. Minate tutti gli accessi.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Con la vostra fanteria, mantenete l'altura nella zona dei templi, difficilmente percorribile. Ricordate che nemmeno il nemico potrà usare i suoi mezzi corazzati pesanti. Assegnate dei gruppi a posare mine e a sorvegliare le retrovie, e minate tutti gli accessi.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Altura persa.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Mantenete l'altura segnata sulla mappa. Minate tutti gli accessi.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Mantenete l'altura segnata sulla mappa fino a nuovo ordine.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Con la vostra fanteria, mantenete l'altura nella zona dei templi, difficilmente percorribile. Ricordate che nemmeno il nemico potrà usare i suoi mezzi corazzati pesanti. Assegnate dei gruppi a posare mine e a sorvegliare le retrovie, e minate tutti gli accessi.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Con la vostra fanteria, mantenete l'altura nella zona dei templi, difficilmente percorribile. Ricordate che nemmeno il nemico potrà usare i suoi mezzi corazzati pesanti. Assegnate dei gruppi a posare mine e a sorvegliare le retrovie, e minate tutti gli accessi.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Altura persa.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Altura persa.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MLR_SUPPORT]
+L'artiglieria a razzi è disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Eliminate le difese nemiche e conquistate l'altura.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Eliminate le difese nemiche e conquistate l'altura. Respingete tutti i contrattacchi nemici.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Il nemico ha solide fortificazioni nell'area. La prima parte della linea di avanzata è relativamente pianeggiante, quindi sarà disponibile il supporto dei carri armati. La seconda parte dell'avanzata, invece, sarà solo di fanteria. Il vostro obiettivo principale è l'altura segnata sulla mappa.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Il nemico ha solide fortificazioni nell'area. La prima parte della linea di avanzata è relativamente pianeggiante, quindi sarà disponibile il supporto dei carri armati. La seconda parte dell'avanzata, invece, sarà solo di fanteria. Il vostro obiettivo principale è l'altura segnata sulla mappa. Tenetevi pronti: secondo il quartier generale, il nemico potrebbe lanciare contrattacchi.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Altura conquistata.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Altura conquistata.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Le truppe sono state sconfitte e si stanno ritirando.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Le truppe sono state sconfitte e si stanno ritirando.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Mantenete l'altura segnata sulla mappa. Minate tutti gli accessi.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Con la vostra fanteria, mantenete l'altura nella zona dei templi, difficilmente percorribile. Ricordate che nemmeno il nemico potrà usare i suoi mezzi corazzati pesanti. Assegnate dei gruppi a posare mine e a sorvegliare le retrovie, e minate tutti gli accessi.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Altura persa.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Mantenete l'altura segnata sulla mappa. Minate tutti gli accessi.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Mantenete l'altura segnata sulla mappa fino a nuovo ordine.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Con la vostra fanteria, mantenete l'altura nella zona dei templi, difficilmente percorribile. Ricordate che nemmeno il nemico potrà usare i suoi mezzi corazzati pesanti. Assegnate dei gruppi a posare mine e a sorvegliare le retrovie, e minate tutti gli accessi.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Con la vostra fanteria, mantenete l'altura nella zona dei templi, difficilmente percorribile. Ricordate che nemmeno il nemico potrà usare i suoi mezzi corazzati pesanti. Assegnate dei gruppi a posare mine e a sorvegliare le retrovie, e minate tutti gli accessi.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Altura persa.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Altura persa.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[Reinforcement.Group_inf]
+Fanteria
+
+[Reinforcement.Group_infantry]
+Fanteria
+

@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+Zmiażdż wroga
+[Mission.Description]
+Podpułkowniku Waters! Musisz przeprowadzić ofensywę, aby zmiażdżyć wroga we wsi Sidi Bou Zid.
+[Mission.Success]
+Ofensywa zakończyła się sukcesem! Wróg ucieka!
+[Mission.Failed]
+Odwrót! Nasze wojska zostały pokonane!
+[Submission1.Objectives]
+Uwolnij wieś
+[Submission1.Description]
+Uwolnij wieś od wrogich oddziałów.
+[Submission1.Success]
+Wieś została uwolniona od najeźdźców.
+[Submission1.Failed]
+Nie udało nam się wyprzeć wroga ze wsi!
+[Submission2.Objectives]
+Przywróć łączność
+[Submission2.Description]
+Wyślij oddział piechoty na stanowisko haubic, aby przywrócić łączność.
+[Submission2.Success]
+Łączność została przywrócona.
+[Submission2.Failed]
+Nie udało nam się przywrócić łączności z artylerią!
+[Submission3.Objectives]
+Chroń artylerię
+[Submission3.Description]
+Nie pozwól wrogowi zdobyć artylerii.
+[Submission3.Success]
+Wróg nie zdobył artylerii!
+[Submission3.Failed]
+Wróg zdobył artylerię!
+[Submission4.Objectives]
+Zdobądź artylerię
+[Submission4.Description]
+Odbij stanowisko artylerii!
+[Submission4.Success]
+Artyleria znów jest nasza!
+[Submission4.Failed]
+Wróg nadal kontroluje artylerię!
+[Submission5.Objectives]
+Zniszcz zasadzkę
+[Submission5.Description]
+Zniszcz zasadzkę
+[Submission5.Success]
+Zasadzka została zniszczona!
+[Submission5.Failed]
+Zasadzka nie została zniszczona!
+[Submission8.Objectives]
+Zniszcz nacierające siły wroga
+[Submission8.Description]
+Wróg rozpoczął kontrofensywę, aby powstrzymać nasz atak pod Sidi Bou Zid. Zniszcz nacierające siły wroga!
+[Submission8.Success]
+Nacierające siły wroga zostały zniszczone!
+[Submission8.Failed]
+Nasze wojska zostały zmiażdżone przez nacierające siły wroga!
+[StringTable.Zasada]
+Zasadzka.
+[Submission6.Objectives]
+Zniszcz czołgi
+[Submission6.Description]
+Zniszcz nacierające wrogie czołgi.
+[Submission6.Success]
+Wrogie czołgi zostały zniszczone!
+[Submission6.Failed]
+Wrogie czołgi nie zostały zniszczone!
+[Submission7.Objectives]
+Zniszcz wrogie czołgi
+[Submission7.Description]
+Na południu zauważono wrogą jednostkę pancerną. Zniszcz ją jak najszybciej.
+[Submission7.Success]
+Wroga jednostka pancerna została pokonana!
+[Submission7.Failed]
+Wroga jednostka pancerna nie została pokonana!
+[StringTable.human]
+Piechota
+[StringTable.spg]
+Działa samobieżne

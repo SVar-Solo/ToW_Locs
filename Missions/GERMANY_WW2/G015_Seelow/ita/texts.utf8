@@ -1,0 +1,38 @@
+﻿[Submission_1.Objectives]
+Impedisci ai russi di attraversare il canale.
+[Submission_1.Description]
+Germania orientale. I russi si stanno aprendo la strada verso Berlino. L'ultima possibilità di fermare il nemico è sulle alture di Seelow. Basse montagne alternate a valli piene di canali. La tua missione è di contenere il nemico che sta avanzando fino all'arrivo dei rinforzi. Ottime posizioni difensive sono situate su entrambi i lati dei canali. Per poter guadagnare il tempo necessario per poter disporre i rinforzi, devi impedire ai russi di attraversare il canale.
+
+I tuoi ordini sono:
+- 	Difenditi fino all'arrivo dei rinforzi.
+- 	Impedisci ai russi di attraversare il canale.
+[Submission_1.Success]
+Ben fatto! L'eroismo dei tuoi uomini è impareggiabile!
+[Submission_1.Failed]
+Hai perso, la Germania è condannata.
+[Submission_2.Objectives]
+Organizza le tue difese sulle alture. Respingi gli attacchi russi.
+[Submission_2.Description]
+Il Quartier Generale ti ha assegnato delle forze delle riserve. Stabilisci delle posizioni sulle alture e respingi gli attacchi russi.
+
+I tuoi ordini sono:
+- 	Combatti fino alla fine!
+[Submission_2.Success]
+Hai vinto. Anche se la guerra può essere perduta, tu resisti ancora.
+[Submission_2.Failed]
+Hai perso. Il nostro destino è adesso nelle mani dei nostri nemici.
+[Mission.Objectives]
+Tieni le alture di Seelow.
+[Mission.Description]
+Le forze dell'Armata Rossa si stanno aprendo la strada verso Berlino. Sono in vantaggio in termini di uomini e di mezzi. In questa situazione critica, è necessario resistere, contenere l'assalto e, ripartendo dalle mura di Berlino, infliggere un colpo decisivo al nemico. Il popolo tedesco guarda i suoi soldati con speranza! Il nemico, sotto la guida del Maresciallo Zhukov, è impaziente e va all'attacco in ordine sparso. Sfrutta i suoi errori!
+
+I tuoi ordini sono:
+- 	Dopo esserti trincerato sulle alture di Seelow, impedisci ai russi di superare le tue difese.
+[Mission.Success]
+Hai resistito! La Germania sopravvive ancora di fronte ai suoi nemici.
+[Mission.Failed]
+Sei stato sconfitto! La guerra è persa!
+[StringTable.reserv]
+Sono arrivati dei rinforzi.
+[StringTable.Last_reserv]
+Truppe provenienti dal Quartier Generale dell'esercito sono arrivate in tuo supporto. Tieni le alture a tutti i costi!

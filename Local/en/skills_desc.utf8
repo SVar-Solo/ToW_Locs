@@ -1,0 +1,18 @@
+﻿[SKILLS_DESC.Scout]
+The Scouting skill influences the soldier's camouflage and accuracy when using a sniper rifle.
+
+[SKILLS_DESC.Gunlayer]
+The Gunnery skill influences the soldier's accuracy when using large caliber guns.
+
+[SKILLS_DESC.intelligence]
+Intelligence influences how quickly the soldier gains experience.
+
+[SKILLS_DESC.leadership]
+Leadership influences the soldier’s morale.
+
+[SKILLS_DESC.driver]
+The Driving skill influences the soldier’s driving abilities.
+
+[SKILLS_DESC.accuracy]
+Marksmanship influences the soldier’s accuracy when using small arms and machineguns.
+

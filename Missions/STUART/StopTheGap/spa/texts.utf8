@@ -1,0 +1,60 @@
+﻿[MainTask.Objectives]
+Detenga la ruptura del frente
+[MainTask.Description]
+Diríjase al poblado ocupado por nuestras fuerzas. Aprovechen su ayuda para tender una emboscada al convoy enemigo. No deben llegar al paso, ni uno solo de ellos: un solo alemán pondrá en desbandada al rebaño en que se ha convertido nuestro ejército. Así que suerte, y que Dios les ayude. Recuerde: ¡que ni un solo alemán llegue vivo al final del paso! 
+[MainTask.Success]
+El grupo móvil enemigo ha sido derrotado y sus restos han huido. ¡Siga así!
+[MainTask.Failed]
+Del informe del teniente coronel Waters: ...el enemigo llegó hasta la salida del paso, arrolló a nuestras fuerzas, que se retiraban en desbandada, y las destruyó... 
+[StringTable.Incoming]
+Los observadores de artillería informan de que el convoy enemigo está llegando al paso y pronto se aproximará a nuestras posiciones.
+[StringTable.IntroSubtitle1]
+Alan Mitchell: ¿Qué diablos es eso?
+[StringTable.IntroSubtitle2]
+Soldados que corren: ¡Sálvese quien pueda! ¡¡¡Sálvese quien pueda!!!
+[StringTable.IntroSubtitle3]
+Alan Mitchell: ¿Y qué hay de los que no pueden? (por radio) Señor, la cosa pinta mal, huyen como conejos...
+[StringTable.IntroSubtitle3a]
+(a la dotación) Detengámonos a hablar un rato. ¡Armas cortas listas!
+[StringTable.IntroSubtitle3b]
+- - ¡Pero si no somos policía militar! - ¡No les vamos a disparar, solo a hacerles entrar en razón!
+[StringTable.IntroSubtitle4]
+Alan Mitchell: ¡Alto! ¿A dónde van con tanta prisa, si se puede saber?
+[StringTable.IntroSubtitle5]
+Soldado que huye: ¡Vete a la mierda, héroe! ¡No quiero morir, hay un montón de alemanes! …
+[StringTable.IntroSubtitle6]
+... ¡y tú eres un atontado si no quieres vivir, como los que se quedaron en la aldea!
+[StringTable.IntroSubtitle7]
+Alan Mitchell: Ahora sí hablamos. ¡Así que no todos se han cagado de miedo! ... 
+[StringTable.IntroSubtitle8]
+... ¡Y ustedes, tengan presente que los alemanes los alcanzarán hasta en un retrete de Nueva York!
+[StringTable.WinSubtitle1]
+Ayudante: ¡Señor, vuelven!
+[StringTable.WinSubtitle2]
+Teniente coronel Waters: Todo se sostenía de un hilo...
+[StringTable.WinSubtitle3]
+...pero hicieron justo lo que tenían que hacer.
+[StringTable.WinSubtitle4]
+Alan Mitchell: ¡Señor! La dotación...
+[StringTable.WinSubtitle5]
+Teniente coronel Waters: Los dos tenemos que darnos prisa, ya recibiré su informe más tarde, Mitchell...
+[StringTable.WinSubtitle6]
+... las cosas se ponen difíciles en otro campo de batalla y debo estar allí.
+[StringTable.WinSubtitle7]
+Recibirá más información por radio; ahora, ¡tome, una carta de Nelly!
+[StringTable.FailSubtitle1]
+Capitán de la Wehrmacht: Bueno, yanquis, ¿han tenido ya bastante guerra? ...
+[StringTable.FailSubtitle2]
+Kameraden, no hace falta demostrar el hecho...
+[StringTable.FailSubtitle3]
+¡de que los americanos son unos corderos en la guerra!
+[StringTable.FailSubtitle4]
+Aunque ese tanque ligero suyo peleó condenadamente bien, ¡al final lo hemos incendiado!
+[StringTable.StuartDestroyed]
+¡El tanque de Alan Mitchell ha sido destruido!
+[StringTable.MitchellIsKilled]
+¡Alan Mitchell ha muerto!
+[StringTable.EnemySuccessful]
+¡El enemigo ha llegado a la salida del paso! ¡La misión ha fracasado!
+[StringTable.ReturnInTank]
+Envíe de vuelta al tanque a los tripulantes desmontados para completar la misión.

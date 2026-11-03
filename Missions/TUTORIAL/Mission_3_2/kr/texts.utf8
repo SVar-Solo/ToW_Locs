@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+거주지 강습
+
+[Mission.Description]
+거주지에 진입해 적 보병과 교전하고, 전차를 발견해 노획하라. 적 전차를 파괴하라. 지정된 지점으로 후퇴하라.
+
+[Mission.Success]
+모든 과제를 성공적으로 완수했다!
+
+[Mission.Failed]
+임무 실패.
+
+[Submission_1.Objectives]
+거주지를 점령하고 전차를 노획하라
+
+[Submission_1.Description]
+적이 통제하는 거주지를 점령하고 전차를 발견해 노획하라.
+
+[Submission_1.Success]
+전차를 발견하여 노획했다
+
+[Submission_1.Failed]
+임무 실패.
+
+[Submission_2.Objectives]
+적 포병을 파괴하라
+
+[Submission_2.Description]
+적 포병을 파괴하라. 과제를 더 효과적으로 수행하려면 엄호용으로 연막탄을 사용하라.
+
+[Submission_2.Success]
+적 포병이 파괴되었다
+
+[Submission_2.Failed]
+임무 실패.
+
+[Submission_3.Objectives]
+적 전차를 파괴하라
+
+[Submission_3.Description]
+남서쪽에서 오는 적 전차를 파괴하라. 연막을 사용할 수 있다.
+
+[Submission_3.Success]
+적 전차가 파괴되었다
+
+[Submission_3.Failed]
+임무 실패.
+
+[Submission_4.Objectives]
+철수
+
+[Submission_4.Description]
+병력을 철수 지점으로 철수시켜라. 연막으로 후퇴를 엄호하라.
+
+[Submission_4.Success]
+병력이 철수했다
+
+[Submission_4.Failed]
+임무 실패
+
+[StringTable.Storm]
+건물을 가장 효과적으로 강습하려면 먼저 적의 위치를 파악하여 십자 사격을 받지 않도록 하라. 병사 몇 명을 멀리서 출구를 확실하게 통제할 수 있도록 배치하고, 나머지 병사들은 은밀하게 건물에 수류탄 투척 거리까지 접근한다. 수류탄은 '지역 사격' {hkey:groundattack} 명령으로 출입구를 통해 던지는 것이 좋다. 대전차 수류탄으로 건물을 파괴할 수도 있다.
+
+[StringTable.Ambush]
+병사들이 적에게 덜 보이도록 포복 이동 모드 {hkey:setbodymodelay}를 사용하라. 자유 이동 모드에서는 보병이 엄폐물이나 건물 근처에 있으면 그곳에 숨으려 해 사격에 노출될 수 있으므로 자유 이동을 금지 {hkey:actionmode}하라.
+
+[StringTable.House]
+집을 엄폐물로 활용하라. 보병이 덜 취약해진다.
+
+[StringTable.Variation]
+대부분의 전투 상황에서는 여러 방식으로 행동할 수 있다. 이 경우 포는 엄호용 연막 수류탄을 쓰는 보병이나 전차로 파괴할 수 있다.
+
+[StringTable.Smoke]
+전차에는 연막을 치도록 설계된 연막 발사기가 장착되어 있다. 전차에 지휘관이 있고 장치가 장전되어 있다면 '연막(즉시 발사)' {hkey:smokecloudfast} 명령을 사용할 수 있다. 그러면 사격 지점을 지정하지 않고 전차 바로 옆에 연막이 쳐진다.
+
+[StringTable.Evac]
+병력을 철수 지점으로 철수시켜라. 철수 지점은 미니맵에서 볼 수 있으며, 전술 지도 모드 {hkey:cameratopdownview}로 전환해도 된다. 연막으로 후퇴를 엄호하라. 적의 사선을 벗어날 때까지 전차를 후진 {hkey:retreat}으로 움직여라.

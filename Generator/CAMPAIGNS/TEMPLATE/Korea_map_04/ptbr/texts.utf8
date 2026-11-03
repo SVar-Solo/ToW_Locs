@@ -1,0 +1,489 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capture a localidade no vale.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capture a localidade no vale.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Localidade capturada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Localidade capturada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Tropas amigas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Tropas amigas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Seu grupo de combate abriu caminho até o principal corredor de transporte do inimigo, mas o grosso das forças inimigas defende a localidade. Destrua as defesas inimigas e capture a posição.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Seu grupo de combate abriu caminho até o principal corredor de transporte do inimigo. No entanto, o grosso das forças inimigas defende a localidade e elas também podem lançar contra-ataques. Capture a posição inimiga.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Desfira um golpe devastador nos hostis atacantes. Não deixe que o inimigo capture a localidade.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Segundo o reconhecimento, um destacamento avançado inimigo está se movendo em direção à localidade onde suas tropas estão guarnecidas. Engaje e elimine os hostis. Se algum conseguir passar, elimine-o com os defensores restantes.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repila todos os contra-ataques inimigos à localidade.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Mantenha a linha pelo tempo determinado, até nova ordem.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+O inimigo capturou a localidade.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+O inimigo capturou a localidade.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você deve manter a linha pelo tempo determinado e não deixar que o inimigo capture essa posição.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você não deve deixar que o inimigo capture essa posição.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_support]
+A equipe de infantaria mecanizada está sob o seu comando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_support]
+A equipe de infantaria mecanizada está sob o seu comando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Equipe de infantaria da reserva disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Equipe de infantaria da reserva disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Força aérea disponível e aguardando ordens.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Força aérea disponível e aguardando ordens.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Capture a localidade no vale.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Capture a localidade no vale.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Localidade capturada.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Localidade capturada.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Tropas amigas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Tropas amigas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Seu grupo de combate abriu caminho até o principal corredor de transporte do inimigo, mas o grosso das forças inimigas defende a localidade. Destrua as defesas inimigas e capture a posição.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Seu grupo de combate abriu caminho até o principal corredor de transporte do inimigo. No entanto, o grosso das forças inimigas defende a localidade e elas também podem lançar contra-ataques. Capture a posição inimiga.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Desfira um golpe devastador nos hostis atacantes. Não deixe que o inimigo capture a localidade.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Segundo o reconhecimento, um destacamento avançado inimigo está se movendo em direção à localidade onde suas tropas estão guarnecidas. Engaje e elimine os hostis. Se algum conseguir passar, elimine-o com os defensores restantes.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Repila todos os contra-ataques inimigos à localidade.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Mantenha a linha pelo tempo determinado, até nova ordem.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+O inimigo capturou a localidade.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+O inimigo capturou a localidade.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você não deve deixar que o inimigo capture essa posição. Você deve manter a linha pelo tempo determinado e não deixar que o inimigo capture essa posição.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você não deve deixar que o inimigo capture essa posição.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_inf_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Mechs_support]
+A equipe de infantaria mecanizada está sob o seu comando.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Mechs_support]
+A equipe de infantaria mecanizada está sob o seu comando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Equipe de infantaria da reserva disponível.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Equipe de infantaria da reserva disponível.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Força aérea disponível e aguardando ordens.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Força aérea disponível e aguardando ordens.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[Reinforcement.Group_tanks_inf]
+Equipe de infantaria e blindados da reserva
+
+[Reinforcement.Group_inf]
+Infantaria
+
+[Reinforcement.Group_tanks_spg_arm]
+Infantaria mecanizada da reserva
+
+[Reinforcement.Group_tanks]
+Tanques
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capture a localidade no vale.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Seu grupo de combate abriu caminho até o principal corredor de transporte do inimigo, mas o grosso das forças inimigas defende a localidade. Destrua as defesas inimigas e capture a posição.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture a localidade.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Segundo o reconhecimento, um destacamento avançado inimigo está se movendo em direção à localidade assinalada no mapa. Você deve se antecipar ao inimigo, capturar a localidade primeiro e então estabelecer suas defesas. Se o inimigo chegar lá primeiro, ataque-o imediatamente, elimine todos os hostis e capture a posição.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repila todos os ataques inimigos.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você não deve deixar que o inimigo capture essa posição.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repila todos os ataques inimigos.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você não deve deixar que o inimigo capture essa posição.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Segundo o reconhecimento, um destacamento avançado inimigo está se movendo em direção à localidade onde suas tropas estão guarnecidas. Você deve manter a localidade pelo tempo determinado, até a chegada de nossas forças principais.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Mantenha a localidade pelo tempo determinado.
+
+[Reinforcement.Group1[Reinforcement]]
+Infantaria e veículos blindados
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Capture a localidade no vale.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Seu grupo de combate abriu caminho até o principal corredor de transporte do inimigo, mas o grosso das forças inimigas defende a localidade. Destrua as defesas inimigas e capture a posição.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Capture a localidade.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Segundo o reconhecimento, um destacamento avançado inimigo está se movendo em direção à localidade assinalada no mapa. Você deve se antecipar ao inimigo, capturar a localidade primeiro e então estabelecer suas defesas. Se o inimigo chegar lá primeiro, ataque-o imediatamente, elimine todos os hostis e capture a posição.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Repila todos os ataques inimigos.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você não deve deixar que o inimigo capture essa posição.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Repila todos os ataques inimigos.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+A localidade no vale é um ponto defensivo estratégico da região e fica no principal corredor de transporte. Se perdermos essa posição, nossas comunicações na região serão cortadas. Você não deve deixar que o inimigo capture essa posição.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Segundo o reconhecimento, um destacamento avançado inimigo está se movendo em direção à localidade onde suas tropas estão guarnecidas. Você deve manter a localidade pelo tempo determinado, até a chegada de nossas forças principais.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Mantenha a localidade pelo tempo determinado.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+

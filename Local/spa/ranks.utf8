@@ -1,0 +1,149 @@
+﻿Fr.Soldat	Soldat
+Fr.Soldat_de_1Classe	Soldat de Première Classe
+Fr.Carporal	Carporal
+Fr.Carporal_Chef	Caporal-Chef
+Fr.Sergent	Sergent
+Fr.Sergent_chef	Sergent-Chef
+Fr.Adjutant	Adjudant
+Fr.Adjutant_chef	Adjudant-Chef
+Fr.Sous_Lieutenant	Sous-Lieutenant
+Fr.Lieutenant	Lieutenant
+Fr.Capitaine	Capitaine
+Fr.Major	Commandant
+Fr.Lieutenant_Colonel	Lieutenant-Colonel
+Fr.Colonel	Colonel
+
+Ger.Schutze			Schütze
+Ger.Oberschutze		Oberschütze
+Ger.Gefreiter		Gefreiter
+Ger.Obergefreiter	Obergefreiter
+Ger.Unteroffizier	Unteroffizier
+Ger.Unterfeldwebel	Unterfeldwebel
+Ger.Feldwebel		Feldwebel
+Ger.Oberfeldwebel	Oberfeldwebel
+
+Ger.Leutnant		Leutnant
+Ger.Oberleutnant	Oberleutnant
+Ger.Hauptmann		Hauptmann
+Ger.Major			Major
+Ger.Oberstleutnant	Oberstleutnant
+Ger.Oberst			Oberst
+
+Ger_SS.SS-Schutze				Mann
+Ger_SS.SS-Oberschutze  			Oberschütze
+Ger_SS.SS-Sturmmann				Sturmmann
+Ger_SS.SS-Rottenfuhrer			Rottenführer
+Ger_SS.SS-Unterscharfuhrer		Unterscharführer
+Ger_SS.SS-Scharfuhrer			Scharführer
+Ger_SS.SS-Oberscharfuhrer		Oberscharführer
+Ger_SS.SS-Hauptscharfuhrer		Hauptscharführer
+
+Ger_SS.SS-Untersturmfuhrer		Untersturmführer
+Ger_SS.SS-Oberststurmfuhrer		Obersturmführer
+Ger_SS.SS-Hauptsturmfuhrer		Hauptsturmführer
+Ger_SS.SS-Sturmbannfuhrer		Sturmbannführer
+Ger_SS.SS-Oberststurmbannfuhrer	Oberststurmbannführer
+Ger_SS.SS-Standartenfuhrer		Standartenführer
+
+Ger_LW.LW_Flieger			Flieger
+Ger_LW.LW_Gefreiter			Gefreiter
+Ger_LW.LW_Obergefreiter		Obergefreiter
+Ger_LW.LW_Stabsgefreiter	Stabsgefreiter
+Ger_LW.LW_Unteroffizier		Unteroffizier
+Ger_LW.LW_Unterfeldwebel	Unterfeldwebel
+Ger_LW.LW_Feldwebel			Feldwebel
+Ger_LW.LW_Oberfeldwebel		Oberfeldwebel
+
+Ger_LW.LW_Leutnant			Leutnant
+Ger_LW.LW_Oberleutnant		Oberleutnant
+Ger_LW.LW_Hauptmann			Hauptmann
+Ger_LW.LW_Major				Major
+Ger_LW.LW_Oberstleutnant	Oberstleutnant
+Ger_LW.LW_Oberst			Oberst
+
+
+Pol.Private	Szeregowiec
+Pol.Senior_Private	Starszy Szeregowiec
+Pol.Corporal	Kapral
+Pol.Lance_Sergeant	Plutonowy
+Pol.Sergeant	Sierjant
+Pol.Senior_Sergeant	Starszy sierjant
+Pol.Ensign	Chorazy
+Pol.Junior_Lieutenant	Podporucznik
+Pol.Lieutenant	Porucznik
+Pol.Captain	Kapitan
+Pol.Major	Major
+Pol.Lieutenant_Coloner	Podpułkownik
+Pol.Coloner	Pułkownik
+
+UK.Private	Soldado
+UK.Lance_Corporal	Cabo
+UK.Corporal	Cabo primero
+UK.Sergeant	Sargento
+UK.Staff_Sergeant	Sargento primero
+UK.Warrant_Officer	Suboficial
+UK.Warrant_Officer_1Class	Suboficial mayor
+UK.2nd_Lieutenant	Subteniente
+UK.Lieutenant	Teniente
+UK.Captain	Capitán
+UK.Major	Mayor
+UK.Lieutenant_Colonel	Teniente coronel
+UK.Colonel	Coronel
+
+USA.Private	Soldado
+USA.Private_1st_Class	Soldado de primera
+USA.Corporal	Cabo
+USA.Sergeant	Sargento
+USA.Staff_Sergeant	Sargento primero
+USA.Technical_Sergeant	Sargento técnico
+USA.Master_Sergeant	Sargento maestro
+USA.Sergeant_Major	Sargento mayor
+USA.2nd_Lieutenant	Subteniente
+USA.1st_Lieutenant	Teniente
+USA.Captain	Capitán
+USA.Major	Mayor
+USA.Lieutenant_Colonel	Teniente coronel
+USA.Colonel	Coronel
+
+Ita.Soldato	Soldato
+Ita.Soldato_selto	Soldato Selto
+Ita.Caporale	Caporale
+Ita.Caporale_maggiore	Caporale Maggiore
+Ita.Sergente	Sergente
+Ita.Sergente_maggiore	Sergente Maggiore
+Ita.Maresciallo_ordinario	Maresciallo Ordinario
+Ita.Maresciallo_capo	Maresciallo Capo
+Ita.Tenente	Tenente
+Ita.Primo_tenente	Primo Tenente
+Ita.Capitano	Capitano
+Ita.Maggiore	Maggiore
+Ita.Tenente_colonnelo	Tenente Colonnelo
+Ita.Colonnelo	Colonnelo
+
+Rus.Ryadovoy	Soldado
+Rus.Efreitor	Cabo
+Rus.Mladshiy_Serzhant	Sargento menor
+Rus.Serzhant	Sargento
+Rus.Starshiy_Serzhant	Sargento primero
+Rus.Starshina	Sargento mayor
+Rus.Mladshiy_Leitenant	Subteniente
+Rus.Leitenant	Teniente
+Rus.Starshiy_Leitenant	Teniente primero
+Rus.Kapitan	Capitán
+Rus.Major	Mayor
+Rus.Podpolkovnik	Teniente coronel
+Rus.Polkovnik	Coronel
+
+PRK.Ryadovoy	Chonsa
+PRK.Efreitor	Sangdung-buyong
+PRK.Mladshiy_Serzhant	Ha-sa
+PRK.Serzhant	Jung-sa
+PRK.Starshiy_Serzhant	Sang-sa
+PRK.Starshina	T'ukmu-sang-sa
+PRK.Leitenant	So-wi
+PRK.Starshiy_Leitenant	Jung-wi
+PRK.Kapitan	Sang-wi
+PRK.Starshiy_Kapitan	Dae-wi
+PRK.Major	So-jwa
+PRK.Podpolkovnik	Jung-jwa
+PRK.Polkovnik	Sang-chwa

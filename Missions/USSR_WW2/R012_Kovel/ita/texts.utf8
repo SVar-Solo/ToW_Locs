@@ -1,0 +1,70 @@
+﻿[Mission1.Objectives]
+Costringi gli aggressori fascisti ad allontanarsi dal villaggio.
+[Mission1.Description]
+Le unità tedesche del Gruppo d'Armata Sud e del Gruppo d'Armata del Centro sono attestate in posizioni difensive ai margini della città di Kovel. Devono essere eliminate.
+
+I tuoi ordini sono:
+- 	Allontana le unità nemiche dalle posizioni difensive intorno a Kovel.
+[Mission1.Success]
+L'attacco ha avuto successo e il villaggio è stato liberato. Gli abitanti ci hanno riferito che il nemico fascista ha commesso delle scellerate atrocità durante la loro occupazione. I loro racconti hanno infiammato ancor più i cuori dei nostri valorosi soldati1
+[Mission1.Failed]
+Non hai portato a termine i tuoi ordini e il tuo attacco non è riuscito. Le tue azioni avventate hanno messo a rischio l'intera operazione!
+[Submission2.Objectives]
+Respingi l'attacco nemico.
+[Submission2.Description]
+I rapporti dicono che molte unità nemiche si stanno dirigendo verso la stazione di rifornimento.
+
+I tuoi ordini sono:
+-	Impedisci al nemico di riprendere la stazione di rifornimento.
+[Submission2.Success]
+Il contrattacco nemico è stato respinto. Adesso puoi avanzare!
+[Submission2.Failed]
+Il nemico ha preso la stazione di rifornimento. I tuoi sforzi sono stati inutili.
+[Submission1.Objectives]
+Allontana il nemico dalla stazione di rifornimento.
+[Submission1.Description]
+Le strade di questa zona non sono sufficienti per riuscire a mantenere le nostre unità rifornite di armi e carburante. Proprio per questo le stazioni di rifornimento hanno grande importanza e non devono cadere in mani nemiche. Quindi, quando incontri dei depositi di carburante, devi cercare di prenderli a tutti i costi.
+
+I tuoi ordini sono:
+- 	Prendi il deposito di carburante tenuto dal nemico.
+- 	Stabilisci una testa di ponte che ci permetta di avvicinare le riserve alla linea del fronte.
+[Submission1.Success]
+La stazione di rifornimento è stata presa e abbiamo guadagnato un importante punto logistico.
+[Submission1.Failed]
+Non sei stato capace di catturare questo luogo di importanza strategica.
+[Mission1_1.Objectives]
+Avanza ancora di più nel territorio nemico.
+[Mission1_1.Description] 
+Le difese nemiche sono state abbattute! Devi proseguire l'avanzata e attaccare le truppe tedesche che si trovano nel villaggio. Non dobbiamo consentire al nemico di riprendere l'iniziativa!
+
+I tuoi ordini sono:
+- 	Attacca le forze nemiche nel villaggio.
+[Mission1_1.Success]
+Gli ordini che avevi ricevuto sono stati eseguiti e le difese nemiche stanno crollando!
+[Mission1_1.Failed]
+I tedeschi sono riusciti a mantenere le loro posizioni nel villaggio.
+[Submission2_1.Objectives]
+Attacca il gruppo di carri armati nemici.
+[Submission2_1.Description]
+I rapporti indicavano una certa debolezza sul fianco tedesco. Abbiamo superato le loro prime difese, ma adesso incontriamo una forte resistenza da parte di forze corazzate.
+
+I tuoi ordini sono:
+-	 Attacca il gruppo di carri armati nemici.
+[Submission2_1.Success]
+I carri armati nemici sono stati distrutti.
+[Submission2_1.Failed]
+Le unità nemiche erano troppo forti. Hai fallito, comandante.
+Le tue truppe sono state eliminate! 
+[Mission1_2.Objectives]
+Attacca le truppe nemiche nel villaggio.
+[Mission1_2.Description]
+Le difese nemiche sono state abbattute! Per sfruttare questo successo dobbiamo proseguire l'avanzata e attaccare le truppe tedesche che si trovano nel villaggio. I rapporti indicano che il nemico ha schierato molte unità della riserva, quindi stai molto attento comandante.
+
+I tuoi ordini sono:
+- 	Attacca le truppe nemiche nel villaggio.
+[Mission1_2.Success]
+Sei riuscito a conquistare il villaggio.
+[Mission1_2.Failed]
+Il villaggio non è stato preso e la tua iniziativa è persa.
+[StringTable.Reserv]
+Ti sono stati assegnati dei rinforzi aggiuntivi.

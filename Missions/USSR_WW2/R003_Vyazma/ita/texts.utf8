@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Respingi l'attacco proveniente da est da parte dei fascisti.
+[Mission1.Description]
+Le truppe tedesche hanno lanciato un'offensiva in questa parte del fronte in direzione di Vyazma. Mirano a superare le nostre difese e avvicinarsi a Mosca. E' di vitale importanza fermare l'attacco nemico e guadagnare tempo per riunire le riserve.
+
+I tuoi ordini sono:
+- 	Respingi l'attacco nemico proveniente da est.
+[Mission1.Success]
+L'attacco nemico è stato respinto! Ci hai aiutato a guadagnare un altro giorno di tempo per armare e addestrare nuovi valorosi soldati e perché far costruire ai gloriosi operai sovietici nuovi carri e nuovi aerei. I fascisti non prenderanno Mosca!
+[Mission1.Failed]
+Il nemico ha superato le nostre difese e si avvicina a Mosca. I soldati che erano sotto il tuo comando sono morti per niente. Non sei stato degno del tuo grado.
+[Mission2.Objectives]
+Ferma l'attacco tedesco proveniente da nord.
+[Mission2.Description]
+Considerevoli forze nemiche si stanno spostando da nord. Le difese delle nostre truppe sono state indebolite dall'attacco nemico proveniente da est. Raccogli tutte le forze disponibili e ferma l'avanzata degli aggressori fascisti, fino all'arrivo delle riserve. Il nemico non deve superare le nostre difese. Mosca non deve cadere!
+
+I tuoi ordini sono:
+-	 Ferma l'attacco tedesco proveniente da nord.
+[Mission2.Success]
+Con sforzi sovrumani sei riuscito a respingere l'attacco nemico!
+[Mission2.Failed]
+Il nemico ha superato le nostre difese!
+[Mission3.Objectives]
+Usa tutte le forze disponibili per un contrattacco.
+[Mission3.Description]
+Le truppe tedesche non sono riuscite a superare le nostre difese attorno al villaggio. Grazie al tempo guadagnato, parecchie unità della riserva sono arrivate. Vai al contrattacco con queste nuove forze e danneggi il più possibile le forze fasciste.
+
+I tuoi ordini sono:
+- 	Contrattacca e respingi le truppe nemiche dalla linea del fronte.
+[Mission3.Success]
+Il contrattacco ha avuto successo! I fascisti hanno subito delle pesanti perdite.
+[Mission3.Failed]
+Non hai portato a termine gli ordini. Il tuo contrattacco ha causato solo ulteriori morti tra i tuoi soldati.
+[Submission1.Objectives]
+Mantieni le posizioni nell'area indicata.
+[Submission1.Description]
+Le truppe tedesche stanno puntando verso Mosca. La capitale è in pericolo, e al momento non c'è nessun luogo che sia più importante per la salvezza della Madre Patria. Parecchie nostre armate sono rimaste circondate a Vyazma impegnando 28 divisioni fasciste. Un numero considerevole di forze nemiche si avvicina a Vyazma per  superare le nostre forze e proseguire verso Mosca.
+
+I tuoi ordini sono:
+- 	Mantieni le posizioni difensive intorno al villaggio.
+- 	Impedisci alle truppe tedesche di avanzare verso Mosca.
+[Submission1.Success]
+Gli ordini sono stati eseguiti! L'avanzata delle truppe tedesche verso Mosca è stata arrestata!
+[Submission1.Failed]
+Non hai portato a termine gli ordini! Le truppe fasciste hanno superato le difese e stanno proseguendo la loro avanzata verso Mosca!
+[StringTable.Reserv]
+I rinforzi sono arrivati.

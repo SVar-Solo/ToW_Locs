@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+목표는 그랑트빌, 솔리에, 푸르 지역을 해방하는 것이다.
+[Mission.Description]
+지정된 지역에서 적을 몰아내라.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+그랑트빌에서 적을 몰아내라.
+[Submission_1.Description]
+적 거점을 파괴하라.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1.Objectives]
+[Submission1.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission2.Objectives]
+[Submission2.Description]
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+솔리에 마을을 점령하라.
+[Submission_2.Description]
+솔리에에서 적을 몰아내라.
+[Submission_3.Objectives]
+푸르를 해방하라.
+[Submission_3.Description]
+푸르에 주둔한 적을 제거하라.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+목표를 달성하지 못했다.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[Submission_3.Success]
+임무 완수.
+[Submission_3.Failed]
+목표를 달성하지 못했다.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+목표를 달성하지 못했다.
+[StringTable.Tanks]
+예비 병력 가용

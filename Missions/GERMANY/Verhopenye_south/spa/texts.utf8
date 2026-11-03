@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Rompa las defensas enemigas en las inmediaciones de Verkhopenye.
+[Mission.Description]
+Grossdeutschland continúa el asalto a Syrtsevo y, una vez ocupada, se abre paso hacia el norte, en dirección a Verkhopenye, y despeja de enemigo ambas orillas del Pena. El grupo de combate, reforzado con tanques de la brigada de Strachwitz, avanzará hacia Syrtsevo y Verkhopenye por la orilla oriental del Pena y después alcanzará la orilla occidental. 
+[Submission_1.Objectives]
+El enemigo ha abandonado en pánico la primera línea de defensa bajo la presión de nuestra artillería y aviación. La vanguardia debe ocupar rápidamente las posiciones abandonadas y mantenerlas hasta que llegue la fuerza principal. 
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+La vanguardia ha sido rechazada por el enemigo.
+[Mission.Success]
+Misión cumplida. El puesto de mando enemigo ha sido destruido.
+[Mission.Failed]
+No hemos podido cumplir nuestras órdenes. ¡El enemigo es demasiado fuerte!
+[Submission_2.Objectives]
+Rechace los contraataques enemigos y ocupe la segunda línea de defensa de los rusos.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+El ataque ha sido sofocado; se requiere apoyo inmediato.
+[Submission_3.Objectives]
+Cruce el río Pena y destruya el puesto de mando enemigo.
+[Submission_3.Success]
+Misión cumplida.
+[Submission_3.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato.
+[StringTable.first_support]
+Un grupo compuesto por infantería, tanques y artillería queda ahora bajo su mando.
+[StringTable.second_support]
+Tanques y cañones de asalto han sido puestos bajo su mando.
+[StringTable.Inf]
+Infantería
+[StringTable.Tanks]
+Tanques
+[StringTable.SPG_close]
+Cañones de asalto StuG 40G
+[StringTable.SPG_open]
+Artillería autopropulsada
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

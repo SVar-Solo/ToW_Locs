@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Estabeleça uma base de lançamento
+[Mission.Description]
+Major Gerhard, o senhor deve estabelecer uma base de lançamento para uma ofensiva sobre Sbeitla, destruindo as defesas inimigas nesta área. Esmague o inimigo com nossos tanques.
+[Mission.Success]
+Preparamos a base de lançamento para a ofensiva. As defesas inimigas foram destruídas.
+[Mission.Failed]
+Recuar. Fracassamos em quebrar a resistência inimiga nesta área.
+[SubMission_01.Objectives]
+Destrua as equipes de reconhecimento inimigas
+[SubMission_01.Description]
+Devemos destruir as equipes de reconhecimento inimigas o mais rápido possível, para impedir que informem seu alto comando sobre nossa força e disposição.
+[SubMission_01.Success]
+As equipes de reconhecimento foram destruídas, a infantaria inimiga está fugindo.
+[SubMission_01.Failed]
+[SubMission_02.Objectives]
+Flanqueie o inimigo
+[SubMission_02.Description]
+Nossos relatórios de inteligência indicam que uma bateria de artilharia defende a estrada. Devemos flanquear a linha principal de defesa do inimigo. Faça uso do leito do rio. Presumo que o inimigo atirará contra o vale. Devemos reposicionar as tropas num lugar seguro o quanto antes.
+[SubMission_02.Success]
+Flanqueamos com sucesso o grosso do inimigo.
+[SubMission_02.Failed]
+[SubMission_03.Objectives]
+Estabeleça comunicação por rádio
+[SubMission_03.Description]
+Nosso reconhecimento encontrou um local para contato por rádio, mas ele está protegido pelo inimigo. Devemos eliminá-lo e levar um de nossos tanques ou veículos blindados até esse local.
+[SubMission_03.Success]
+O inimigo foi destruído, a elevação está assegurada.
+[SubMission_03.Failed]
+[SubMission_04.Objectives]
+Elimine a bateria de artilharia
+[SubMission_04.Description]
+O inimigo reposicionou uma bateria de artilharia na ilha. Devemos eliminá-la. 
+[SubMission_04.Success]
+A bateria de artilharia inimiga foi eliminada.
+[SubMission_04.Failed]
+[SubMission_05.Objectives]
+Encontre uma passagem segura
+[SubMission_05.Description]
+Antes da ofensiva final, devemos verificar se há campos minados nas travessias.
+[SubMission_05.Success]
+Foi encontrada uma travessia segura.
+[SubMission_05.Failed]
+[StringTable.Rommel_01]
+Conto com o senhor e seus homens, major. Entendo que estão cansados, mas a situação exige que mobilizemos nossas melhores qualidades. Dias como estes fazem nascer heróis a serem lembrados pelas gerações futuras.
+[StringTable.Gerhard_01]
+General, senhor! Não é preciso dizer isso a mim e a meus homens. Somos soldados do Reich Alemão e sempre nos lembramos disso! No entanto, sua presença aqui, na linha de frente, nos ajudará a esquecer o cansaço e a lutar com bravura!
+[StringTable.Gerhard_02]
+Sim, general, senhor! ...Droga! Perdemos contato com o alto comando. As montanhas devem estar bloqueando nossos transmissores. Precisamos restabelecer o contato o quanto antes.
+[StringTable.Gerhard_03]
+O que está acontecendo? Restabeleça o contato por rádio imediatamente!

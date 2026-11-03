@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Détruire les défenses ennemies dans le secteur indiqué.
+ [Mission.Description]
+Les Américains ont installé devant vos lignes une position fortifiée autour d’une petite localité. Selon nos unités de reconnaissance, environ une compagnie d’infanterie est en place, soutenue par des canons antichars de 57 mm et des obusiers de 105 mm.
+ 
+Vos ordres :
+- en utilisant les forces sous votre commandement, attaquez les positions ennemies et repoussez-les.
+[Mission.Success]
+Beau travail, commandant ! Les défenses ennemies ont été détruites.
+[Mission.Failed]
+Vous avez échoué ! Votre mission n’a pas été accomplie.
+[Submission_1.Objectives]
+Capturer le village.
+[Submission_1.Description]
+Contournez la principale position défensive ennemie pour vous emparer de la ville.
+ 
+Vos ordres :
+- capturer le village. 
+[Submission_1.Success]
+Beau travail, commandant ! Le village a été conquis.
+[Submission_1.Failed]
+Vous avez échoué ! Vos troupes ont été battues.

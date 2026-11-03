@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+Kommandant, nehmen Sie das Dorf auf der Insel ein und zerschlagen Sie seine Verteidigung. Angesichts ihrer Stärke gehen Sie Schritt für Schritt vor und verraten Sie nicht die Richtung des Hauptstoßes.
+[Mission.Description]
+Kommandant, Ihr Hauptziel ist die Einnahme eines Dorfes auf der Insel und die Zerstörung der dort errichteten feindlichen Verteidigung. Aufgrund ihrer Stärke planen wir, Schritt für Schritt vorzugehen und nicht alle verfügbaren Kräfte einzusetzen, da dies dem Feind zweifellos die Richtung des Hauptstoßes verraten würde.
+[Mission.Success]
+Herzlichen Glückwunsch, Kommandant! Das Ziel ist erreicht!
+[Mission.Failed]
+Kommandant, ziehen Sie Ihre überlebenden Truppen sofort zurück, wir können die feindlichen Verteidigungsanlagen nicht durchbrechen! Und denken Sie sich eine passende Ausrede für Ihr Versagen aus, die Sie Sir Winston und Ihrer Majestät vortragen werden!
+[Submission_1.Objectives]
+Kommandant, säubern Sie die nördliche Siedlung, die den Zugang zum Inseldorf deckt. Sie haben nur die Panzerwagenschwadron; die Valentines sind noch im Anmarsch. Infanterie sowie Feld- und Panzerabwehrgeschütze sind unterstellt.
+[Submission_1.Description]
+Kommandant, Ihr erstes Ziel ist es, den Feind aus der nördlichen Siedlung zu vertreiben, die den Zugang zum Dorf auf der Insel deckt. Leider sind die langsamen Valentines noch im Anmarsch, und die Panzerwagenschwadron ist alles, was Sie haben. Laut Geheimdienstberichten sollte dies jedoch ausreichen, um das Ziel zu erreichen. Ihnen ist eine Infanteriegruppe sowie Feld- und Panzerabwehrgeschütze unterstellt, nur für den Notfall.
+[Submission_1.Success]
+Die erste Phase ist abgeschlossen! Die zurückgebliebenen Valentines mit Infanterieunterstützung schließen sich Ihren Kräften an.
+[Submission_1.Failed]
+Die Mission ist fehlgeschlagen!
+[Submission_2.Objectives]
+Kommandant, neutralisieren Sie die feindlichen Feld- und Flakbatterien im Südosten (Punkt 3), damit unsere Mörser und Flugzeuge wirken können. Verstärkungen folgen.
+[Submission_2.Description]
+Kommandant, die Piloten melden feindliche Feld- und Flakbatterien. Die Feldbatterien befinden sich im südöstlichen Teil des Schlachtfelds (Punkt 3) und lassen unsere Mörser nicht das Feuer eröffnen. Unsere Flugzeuge können wegen der Flak nicht angreifen. Neutralisieren Sie sie, und Sie erhalten Ihre Verstärkungen.
+[Submission_2.Success]
+Die feindliche Batterie wurde neutralisiert. Jetzt können unsere Mörser das Feuer eröffnen!
+[Submission_2.Failed]
+Die Mission ist fehlgeschlagen!
+[Submission_3.Objectives]
+Kommandant, nehmen Sie die südliche Siedlung ein. Ihre Verteidigung ist stärker als im Norden, aber die kommenden Valentines sollten helfen; erwägen Sie eine Nebelwand an der Furt, die Entscheidung liegt jedoch bei Ihnen.
+[Submission_3.Description]
+Unser nächster Plan ist die Einnahme der südlichen Siedlung. Die Verteidigung dort ist weit stärker als im Norden, aber mit Hilfe der kommenden Valentines sollten Sie sie einnehmen können. Kommandant, die Furtstellen können feindlichem Feuer ausgesetzt sein, daher könnte eine Nebelwand über der Furt hilfreich sein. Es liegt jedoch bei Ihnen.
+[Submission_3.Success]
+Die südliche Siedlung wurde eingenommen! Alle westlichen Zugänge sind unser, und Sie haben einige Verstärkungen zur Verfügung.
+[Submission_3.Failed]
+Die Mission ist fehlgeschlagen!
+[Submission_4.Objectives]
+Kommandant, brechen Sie schnell zum feindlichen Rücken (Punkt 5) durch, mit mindestens drei Infanteristen: umzingeln oder täuschen Sie den Feind und legen Sie Koordinaten für den Luftangriff fest. Die Zeit arbeitet gegen uns!
+[Submission_4.Description]
+Kommandant, jetzt müssen wir uns beeilen! Mit einem schnellen Durchbruch in den feindlichen Rücken (Punkt 5) können wir zwei Ziele gleichzeitig erreichen: den Feind einkreisen oder ihn zumindest glauben lassen, eingekreist zu sein, und Koordinaten für einen Luftangriff auf marschierende feindliche Verstärkungen festlegen. Wir müssen mindestens drei unserer Infanteristen in diesem Gebiet haben, um dieses Ziel zu erreichen. Die Zeit arbeitet gegen uns!
+[Submission_4.Success]
+Kommandant, unsere Luftstreitkräfte haben die von Ihnen übermittelten Koordinaten genutzt und den feindlichen Konvoi, der zur Verstärkung der Verteidiger eintraf, erfolgreich bombardiert. Der Feind nimmt eine Rundumverteidigung ein und glaubt, eingekreist zu sein; alles, was wir tun müssen, ist, ihn zu vernichten!
+[Submission_4.Failed]
+Der feindliche Konvoi hat die Garnison erreicht. Kommandant, gruppieren Sie Ihre Kräfte neu, wehren Sie den Gegenangriff ab und vernichten Sie die Garnison vollständig!
+[StringTable.LateValentine]
+Ein einzelner Valentine, der sich verirrt hat, rast zur Rettung herbei; sie haben über Funk von unserer schwierigen Lage gehört!
+[StringTable.FlakCrippled]
+Die feindliche Flugabwehr ist lahmgelegt, unsere Luftstreitkräfte können jetzt eingreifen!
+[StringTable.NorthernVillageCleared]
+Kommandant, meine Glückwünsche! Die nördliche Siedlung wurde vom Feind gesäubert. Weiter vorstoßen!
+[StringTable.SouthernVillageCleared]
+Kommandant, Sie rücken stetig vor. Die Jerrys wurden aus der südlichen Siedlung vertrieben. Treiben Sie sie weiter!
+[StringTable.LastReserve]
+Kommandant, unsere Panzerkräfte haben schwere Verluste erlitten. Ich schicke unsere letzte operative Reserve. Treffen Sie keine abenteuerlichen Entscheidungen!
+[StringTable.SubtitleIntro1]
+Die Stimme von Premierminister Winston Spencer Churchill kommt aus einem Jeep-Radio:
+[StringTable.SubtitleIntro2]
+... Seine Majestät und das gesamte Vereinigte Königreich erwarten, dass unsere...
+[StringTable.SubtitleIntro3]
+... Soldaten in Tunesien ihre Pflicht tun!
+[StringTable.SubtitleIntro4]
+Offizier (leise): Alle wie einer, von Alpha bis Omega...
+[StringTable.SubtitleIntro5]
+Offizier (laut, zu seinen Untergebenen): Jungs, ich kann nur hinzufügen, dass
+[StringTable.SubtitleIntro6]
+aufgrund der Bedeutung des Ziels Montgomery selbst das Kommando übernehmen wird!
+[StringTable.SubtitleIntro7]
+Und jetzt auf Ihre Gefechtsstationen!
+[StringTable.SubtitleIntro8]
+Soldaten: Jawohl, Sir!
+[StringTable.SubtitleWin1]
+Soldaten untereinander: ...also gut, du, ich, Jenkins und Parker
+[StringTable.SubtitleWin2]
+sind am Leben, Knightly ist verwundet, das ist alles, was von unserem Zug übrig ist,...
+[StringTable.SubtitleWin3]
+die einzigen Überlebenden. Ja, und Freeman mit seinem Val aus dem zweiten. Ein Glückspilz...
+[StringTable.SubtitleWin4]
+Panzerfahrer Freeman: Jungs, Johny... (irgendein Soldat) Tot!
+[StringTable.SubtitleWin5]
+Oh, seine arme Maude! Er hat ihr jedes Mal geschrieben, wenn er die Gelegenheit hatte...
+[StringTable.SubtitleWin6]
+Also, Freeman, du wirst ihr schreiben, wofür er gestorben ist!
+[StringTable.SubtitleWin7]
+Freeman: Damit ihr kleiner Harry und Ann nie...
+[StringTable.SubtitleWin8]
+all diese schrecklichen Albträume sehen!
+[StringTable.SubtitleFail1]
+Deutsche Soldaten: Du kennst als Fachmann mit Routine ...
+[StringTable.SubtitleFail2]
+Matilda noch und Valentine. Wie habe ich dem letzten eins in den Kopf gesetzt, hm?
+[StringTable.SubtitleFail3]
+Guter Kerl! Tommys sind Trottel, nächstes Mal treiben wir sie zurück...
+[StringTable.SubtitleFail4]
+mit eingezogenem Schwanz bis nach Algerien!

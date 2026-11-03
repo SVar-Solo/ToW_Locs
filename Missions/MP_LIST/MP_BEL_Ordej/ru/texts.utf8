@@ -1,0 +1,46 @@
+﻿[StringTable.]
+[StringTable.ArmyB_WIN]
+Альянс №2 победил!
+[StringTable.ArmyA_WIN]
+Альянс №1 победил!
+[StringTable.ArmyA_king_Hill_A]
+Альянс №1 захватил флаг А!
+[StringTable.ArmyA_king_Hill_B]
+Альянс №1 захватил флаг B!
+[StringTable.ArmyA_king_Hill_C]
+Альянс №1 захватил флаг C!
+[StringTable.ArmyA_king_Hill_D]
+Альянс №1 захватил флаг D!
+[StringTable.ArmyA_king_Hill_E]
+Альянс №1 захватил флаг E!
+[StringTable.ArmyB_king_Hill_A]
+Альянс №2 захватил флаг А!
+[StringTable.ArmyB_king_Hill_B]
+Альянс №2 захватил флаг B!
+[StringTable.ArmyB_king_Hill_C]
+Альянс №2 захватил флаг C!
+[StringTable.ArmyB_king_Hill_D]
+Альянс №2 захватил флаг D!
+[StringTable.ArmyB_king_Hill_E]
+Альянс №2 захватил флаг E!
+[StringTable.Hill_A_Lost]
+Флаг А потерян!
+[StringTable.Hill_B_Lost]
+Флаг B потерян!
+[StringTable.Hill_C_Lost]
+Флаг C потерян!
+[StringTable.Hill_D_Lost]
+Флаг D потерян!
+[StringTable.Hill_E_Lost]
+Флаг E потерян!
+[StringTable.ArmyA_capture_ALL_flags]
+Альянс №1 захватил все флаги! Альянс №2 должен в течении 2-х минут отбить хотя бы один флаг, иначе он проиграет.
+[StringTable.ArmyB_capture_ALL_flags]
+Альянс №2 захватил все флаги! Альянс №1 должен в течении 2-х минут отбить хотя бы один флаг, иначе он проиграет.
+[StringTable.One_or_more_flags_lost]
+Один или несколько флагов потеряны!
+
+[StringTable.rus]
+Подкрепление
+[StringTable.ger]
+Подкрепление

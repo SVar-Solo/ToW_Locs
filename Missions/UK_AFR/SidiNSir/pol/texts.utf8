@@ -1,0 +1,49 @@
+﻿[Mission.Objectives]
+Utrzymaj linię
+[Mission.Description]
+Utrzymaj linię w pobliżu stacji kolejowej Sidi N’Sir siłami 5. Batalionu Królewskiego Pułku Hampshire, wspieranego przez 155. Baterię 172. Pułku Artylerii Polowej.
+Rankiem wróg rozpoczął nowy atak; musimy go opóźniać jak najdłużej, zadając możliwie największe straty.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana.
+[Submission1.Objectives]
+Nawiąż łączność z baterią.
+[Submission1.Description]
+Wspiera nas bateria artylerii polowej. Jakiś czas temu utraciliśmy z nią łączność. Musimy wysłać naszego artyleryjskiego korektora do ich punktu obserwacyjnego.
+[Submission1.Success]
+Misja wykonana. Bateria otworzy ogień do wykrytych celów.
+[Submission1.Failed]
+Punkt obserwacyjny został zniszczony!
+[Submission2.Objectives]
+Utrzymaj się do przybycia posiłków.
+[Submission2.Description]
+Ataki wroga są coraz zacieklejsze. Musimy utrzymać linię za wszelką cenę do czasu nadejścia posiłków i zadać wrogowi możliwie największe straty. Zniszczenie wrogich czołgów ma kluczowe znaczenie. Bez wsparcia czołgów ich piechotę będzie łatwiej powstrzymać. 
+[Submission2.Failed]
+Misja nieudana.
+[Submission2.Success]
+Misja wykonana.
+[Submission3.Objectives]
+Wycofaj się na tyły.
+[Submission3.Description]
+Mimo strat wróg nadal wprowadza do walki nowe siły i atakuje nasze pozycje. My również ponieśliśmy wyraźne straty, zwłaszcza w artylerii, i nie jesteśmy w stanie dłużej powstrzymywać Niemców. Na szczęście utrzymywaliśmy linię wystarczająco długo, by bateria podeszła i przygotowała się do walki. Teraz możemy wycofać się na tyły pod osłoną jej ognia. Musimy się spieszyć, bo nasze lotnictwo wkrótce zrówna stację z ziemią.
+[Submission3.Success]
+Misja wykonana.
+[Submission3.Failed]
+Wskutek paniki utraciłeś kontrolę nad swoimi oddziałami i nie udało ci się zorganizować odwrotu na nową linię obrony. Twój oddział został trafiony przez własne lotnictwo. Misja nieudana.
+[Submission4.Objectives]
+Utrzymaj się do przybycia posiłków
+[Submission4.Description]
+Dowództwo przysyła do naszego sektora kolejną baterię przeciwpancerną. Musimy utrzymać linię do czasu jej przybycia.
+[Submission4.Success]
+Misja wykonana. Artyleria przybyła i rozmieściła się.
+[Submission4.Failed]
+Misja nieudana.
+[StringTable.mess1]
+Niemcy zostali zatrzymani w pół drogi i zaczęli się wycofywać. Ich nagły atak się nie powiódł, następny będzie znacznie zacieklejszy.
+[StringTable.mess2]
+Uwaga! Niemieckie samoloty szturmowe! Przeciwlotnicy, do dzieła!
+[StringTable.mess3]
+Nie udało nam się utrzymać stacji. Naczelne dowództwo postanowiło ją zniszczyć, by nie wpadła w ręce Niemców. Zbliżają się bombowce, wycofaj pozostałe siły jak najszybciej, by nie zostały trafione przez własne bomby.
+[StringTable.mess4]
+Bateria została zniszczona.

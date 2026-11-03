@@ -1,0 +1,160 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Атаковать позиции противника, отмеченные на карте. Уничтожить оборону врага и занять указанные позиции.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+В долине расположены позиции противника, которые прикрывают основную транспортную артерию, соединяющую востучную и западную группировки войск. Ваша задача захватить позиции противника, отмеченные на карте.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Слишком высокие потери. Задача не выполнена.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Атаковать позиции противника, отмеченные на карте. Уничтожить оборону врага и занять указанные позиции. Отбить контратаки противника.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Слишком высокие потери. Задача не выполнена.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+В долине расположены позиции противника, которые прикрывают основную транспортную артерию, соединяющую востучную и западную группировки войск. Ваша задача захватить позиции противника, отмеченные на карте.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Отбить все атаки противника. Наступающим частям поддержать обороняющуюся группу, активно контратакуя наступающего противника.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Отбить все атаки противника.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Отбить все атаки противника за определенное штабом армии время.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Артиллерия доступна и ждет ваших указаний
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Авиационная поддержка в вашем распоряжении
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Танковая группа из резерва штаба в вашем распоряжении
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Танковая группа из резерва штаба в вашем распоряжении
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Пехота из резерва поступила под ваше командование
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Пехота из резерва поступила под ваше командование
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиация ждет приказа
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиация ждет приказа
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Атаковать позиции противника, отмеченные на карте. Уничтожить оборону врага и занять указанные позиции.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+В долине расположены позиции противника, которые прикрывают основную транспортную артерию, соединяющую востучную и западную группировки войск. Ваша задача захватить позиции противника, отмеченные на карте.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Слишком высокие потери. Задача не выполнена.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Атаковать позиции противника, отмеченные на карте. Уничтожить оборону врага и занять указанные позиции. Отбить контратаки противника.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Слишком высокие потери. Задача не выполнена.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+В долине расположены позиции противника, которые прикрывают основную транспортную артерию, соединяющую востучную и западную группировки войск. Ваша задача захватить позиции противника, отмеченные на карте.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Отбить все атаки противника. Наступающим частям поддержать обороняющуюся группу, активно контратакуя наступающего противника.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Отбить все атаки противника.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Отбить все атаки противника за определенное штабом армии время.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Артиллерия доступна и ждет ваших указаний
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Авиационная поддержка в вашем распоряжении
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_support]
+Танковая группа из резерва штаба в вашем распоряжении
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_support]
+Танковая группа из резерва штаба в вашем распоряжении
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Пехота из резерва поступила под ваше командование
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Пехота из резерва поступила под ваше командование
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиация ждет приказа
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиация ждет приказа
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[Reinforcement.Group_tanks]
+Танки из резерва
+[Reinforcement.Group_inf]
+Пехота

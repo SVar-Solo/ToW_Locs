@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Impida que el enemigo rompa el frente. 
+[Mission.Description]
+El enemigo intenta romper las defensas de la división. La orden es mantener Cherkásskoye. Debe darse especial prioridad a la defensa de la primera trinchera y del punto fuerte antitanque. Contraataque a los grupos enemigos que avancen.
+[Submission1.Objectives]
+Destruya los tanques enemigos.
+[Submission2.Objectives]
+Impida que el enemigo flanquee nuestras posiciones.
+[Submission3.Objectives]
+El enemigo ha penetrado el frente con tanques e infantería y continúa su avance.
+[Submission4.Objectives]
+Una unidad enemiga del tamaño de una compañía, con apoyo de tanques pesados y cañones de asalto, ha comenzado a asaltar la aldea. Rechace el ataque enemigo.
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+Nuestras fuerzas se retiran ante el asalto de un enemigo superior.
+[Submission1.Success]
+Misión cumplida: los tanques enemigos han sido destruidos. 
+[Submission1.Failed]
+Misión fallida: los tanques enemigos continúan su avance.
+[Submission2.Success]
+Misión cumplida: se ha impedido la maniobra de flanqueo.
+[Submission2.Failed]
+Los tanques enemigos han flanqueado nuestras posiciones.
+[Submission_2_1.Success]
+Misión cumplida: el grupo de envolvimiento ha sido destruido.
+[Submission_2_1.Failed]
+Contraataque derrotado: el enemigo prosigue el avance.
+[Submission_2_2.Success]
+Los tanques enemigos que penetraron han sido destruidos; se ha restablecido el equilibrio.
+[Submission_2_2.Failed]
+El contraataque ha fracasado. ¡Los tanques enemigos han llegado a la retaguardia de la división!
+[Submission3.Success]
+Misión cumplida. 
+[Submission3.Failed]
+¡El enemigo ha roto el frente y avanza hacia el puesto de mando de la división!
+[Submission4.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Submission4.Failed]
+Nuestras fuerzas se retiran ante los golpes de un enemigo superior. 
+[StringTable.Tanks!]
+¡Tanques! Prepárense para rechazar el ataque blindado.
+[StringTable.Stukas]
+¡Ataque aéreo! ¡A cubierto!
+[StringTable.SM2]
+Hemos dado buena cuenta de esos tanques, y los aviadores nos echaron una mano.
+[StringTable.SM2_1]
+Lo más probable ahora es que los alemanes intenten pasar por nuestras posiciones. ¡Vigilen los flancos!
+
+[StringTable.SPGs_Tanks]
+Tanques y cañones autopropulsados del 245.º RTI y del 1440.º RAA
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

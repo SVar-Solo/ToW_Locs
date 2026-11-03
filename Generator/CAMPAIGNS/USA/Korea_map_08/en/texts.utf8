@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission failed.
+
+[Reinforcement.Group3[Reinforcement]]
+Helicopters and infantry
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Your combat team must eliminate the defending hostiles in this sector of the front.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Attack and destroy all enemy defenses in the area marked on the map.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Our advance reconnaissance party has overrun a road junction in the center of the area. The enemy will most likely try to capture it. Your combat team is to advance to the road junction, and give support to the reconnaissance party.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture and hold the road junction in the center of the area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Our advance group, consisting of infantry and self-propelled artillery, has cut off the enemy’s main transport corridor. Hold the captured positions, and do not let the enemy restore their supply lines.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Capture and hold the road junction in the center of the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Our advance reconnaissance party has overrun a road junction in the center of the area. The enemy will most likely try to capture it. Your combat team is to advance to the road junction, and give support to the reconnaissance party.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+Capture and hold the road junction in the center of the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Capture and hold the road junction in the center of the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Capture and hold the road junction in the center of the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Our advance reconnaissance party has overrun a road junction in the center of the area. The enemy will most likely try to capture it. Your combat team is to advance to the road junction, and give support to the reconnaissance party.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Our advance reconnaissance party has overrun a road junction in the center of the area. The enemy will most likely try to capture it. Your combat team is to advance to the road junction, and give support to the reconnaissance party.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+Our advance reconnaissance party has overrun a road junction in the center of the area. The enemy will most likely try to capture it. Your combat team is to advance to the road junction, and give support to the reconnaissance party.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+Mission failed.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Armored vehicles and infantry
+

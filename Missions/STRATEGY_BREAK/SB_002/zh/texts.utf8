@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+突破包围。
+[Mission.Description]
+到7月中旬，法国大部分地区已被德军占领。德军装甲师突破了法军的防线，以迅猛的突击抵达海岸线。巴黎于6月14日陷落，法国政府逃往波尔多。
+
+目标：
+-	突破包围。
+[Mission.Success]
+任务完成！
+[Mission.Failed]
+任务失败！你的部队阵亡了！
+[Submission1.Objectives]
+营救法国士兵。
+[Submission1.Description]
+一小股法军步兵被包围，藏身于一处偏僻的农庄。德军步兵正在逼近。
+
+目标：
+- 	救出法国士兵，使其免于一死。
+[Submission1.Success]
+任务完成！
+[Submission1.Failed]
+任务失败！
+[Submission2.Objectives]
+实施地形侦察。
+[Submission2.Description]
+让狙击手实施地形侦察。
+
+接到命令：
+- 	实施地形侦察。
+[Submission2.Success]
+司令部的命令已完成！
+[Submission2.Failed]
+司令部的命令未完成

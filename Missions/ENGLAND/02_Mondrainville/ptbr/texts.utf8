@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Liberte Mondrainville, avance para o sul, garanta a estrada para Caen e elimine todos os pontos fortes inimigos.
+[Mission.Description]
+Avance, bloqueie a estrada para Caen e limpe a área ao redor de Mondrainville do inimigo.
+[Submission_01.Success]
+Mondrainville capturada.
+[Submission_01.Failed]
+Falha na captura de Mondrainville.
+[Submission_1.Objectives]
+Expulse o inimigo da fazenda.
+[Submission_1.Description]
+Segundo o reconhecimento aéreo, há uma bateria de artilharia inimiga na fazenda. Elimine-a.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Repila o ataque inimigo a Mondrainville.
+[Submission_3.Description]
+Na tentativa de manter Mondrainville, o inimigo envia reforços.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Garanta a estrada para Caen.
+[Submission_2.Description]
+Desaloje o inimigo do grupo de edifícios ao longo da estrada para Caen.
+[Submission_3.Success]
+Ataque repelido.
+[Submission_3.Failed]
+Missão fracassada.
+[Submission_1.Success]
+Bateria de artilharia eliminada. Fazenda garantida.
+[Submission_1.Failed]
+Falha em cumprir a tarefa.
+[Submission_2.Success]
+Estrada garantida.
+[Submission_2.Failed]
+Falha em cumprir a tarefa.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[StringTable.Tanks]
+Força de reserva disponível.

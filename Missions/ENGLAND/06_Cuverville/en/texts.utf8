@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Liberate Cuverville, and secure the roads to prepare for our further advance.
+[Mission.Description]
+The strategic village of Cuverville has roads leading south and southeast. Securing the roads is vital for our advance.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Secure the farm on the outskirts of Cuverville.
+[Submission_1.Description]
+The enemy-occupied farm.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Liberate the village of Cuverville.
+[Submission_2.Description]
+The enemy has consolidated and assumed a defensive position in Cuverville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Secure the road leading south.
+[Submission_3.Description]
+Secure the road, and eliminate all hostiles in the area.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Secure the road to the southeast of Cuverville.
+[Submission_4.Description]
+Clear the enemy from the road and the surrounding area.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+Mission accomplished.
+[Submission_4.Failed]
+Failed to accomplish the task.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Failed to accomplish the task.
+[Submission_2.Success]
+Cuverville captured. Mission accomplished.
+[Submission_2.Failed]
+Failed to accomplish the task.
+[Submission_3.Success]
+Mission accomplished.
+[Submission_3.Failed]
+Mission failed.
+[StringTable.Tanks]
+Reserve force available.

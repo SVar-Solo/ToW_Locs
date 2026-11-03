@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Sfondare le difese
+[Mission.Description]
+Maggiore Gerhard, il suo gruppo di combattimento deve avanzare su Le Kef passando per Thala. La strada per Thala attraversa il passo di Kasserine, dove secondo i nostri servizi informativi si difendono le forze statunitensi. Sfondi le difese nemiche al passo e prosegua l'avanzata.
+[Mission.Success]
+Le difese nemiche sono state distrutte.
+[Mission.Failed]
+Ritirata. Non siamo riusciti a sfondare le difese nemiche al passo.
+[Submission_1.Objectives]
+Eliminare il fianco sinistro
+[Submission_1.Description]
+Attaccare subito il nemico ed eliminare il fianco sinistro del suo schieramento difensivo. I servizi informativi riferiscono che la strada attraverso il passo è piuttosto stretta ed è battuta con precisione dall'artiglieria nemica. Ma c'è un sentiero di montagna che possiamo percorrere per raggiungere e distruggere i cannoni anticarro nemici.
+[Submission_1.Success]
+Il fianco sinistro delle difese nemiche è stato distrutto!
+[Submission_1.Failed]
+Missione fallita.
+[Submission_1_1.Objectives]
+Respingere il contrattacco
+[Submission_1_1.Description]
+Il nemico sta contrattaccando! Mobilitate subito le vostre forze e respingete l'assalto!
+[Submission_1_1.Success]
+Il contrattacco è stato respinto con successo.
+[Submission_1_1.Failed]
+Missione fallita.
+[Submission_3.Objectives]
+Eliminare le difese nemiche
+[Submission_3.Description]
+Secondo i nostri servizi informativi, un piccolo gruppo di combattimento nemico ha organizzato delle difese oltre il passo. Per avanzare su Thala, le difese nemiche devono essere eliminate.
+[Submission_3.Success]
+Le difese nemiche sono state eliminate.
+[Submission_3.Failed]
+Missione fallita.
+[Submission_2.Objectives]
+Eliminare il fianco destro
+[Submission_2.Description]
+La nostra ricognizione ha scoperto che il nemico ha minato tutti i punti di attraversamento del passo tranne uno, protetto da artiglieria e fanteria nemiche. Non abbiamo tempo per sminare, poiché la nostra aviazione segnala una grande formazione nemica in avvicinamento al passo. Per permettere alle nostre truppe di avanzare, dobbiamo schiacciare il fianco destro delle difese nemiche.
+[Submission_2.Success]
+Il fianco destro delle difese nemiche è stato distrutto.
+[Submission_2.Failed]
+Missione fallita.
+[Submission_2_1.Objectives]
+Schiacciare il nemico
+[Submission_2_1.Description]
+Il gruppo di combattimento nemico sta contrattaccando! Dobbiamo eliminarlo con un colpo schiacciante.
+[Submission_2_1.Success]
+Il gruppo di combattimento nemico è stato eliminato.
+[Submission_2_1.Failed]
+Missione fallita.
+[StringTable.Reinforcement]
+Maggiore Gerhard. Ora ha il comando dei carri armati e della fanteria della 10ª Divisione Panzer.

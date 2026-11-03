@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Elimine a las tropas enemigas en la zona especificada.
+[Mission1.Description]
+Nuestras unidades están situadas cerca del lago Seliger. El estado mayor ha ordenado una incursión en las líneas rusas y desbaratar una próxima ofensiva. Además, inteligencia informa de que los rusos vuelven a utilizar los nuevos y devastadores modelos de tanque T-34.
+
+Sus órdenes son:
+- 	Lance una ofensiva en este sector del frente.
+-	Elimine a las tropas enemigas que hayan tomado una posición defensiva en el pueblo cercano.
+[Mission1.Success]
+¡Bien hecho, comandante! Ha vencido completamente al enemigo. Ya podemos obligar al 3er.y 4o. ejército ruso a abandonar sus cómodas posiciones defensivas de una vez por todas.
+[Mission1.Failed]
+El enemigo ha rechazado todos sus ataques. ¡Qué deshonra para un oficial del Reich!
+[Submission1.Objectives]
+Cañonee las posiciones enemigas.
+[Submission1.Description]
+Antes de lanzar una ofensiva general, cañonee las posiciones defensivas rusas.
+
+Sus órdenes:
+- 	Cañonee las posiciones defensivas enemigas.
+[Submission1.Success]
+El cañoneo ha sido un éxito. Las tropas rusas han quedado considerablemente debilitadas.
+[Submission1.Failed]
+¡Su barrera de artillería ha sido ineficaz!
+[Submission2.Objectives]
+Atacar al batallón de motonieves ruso.
+[Submission2.Description]
+Según los informes aéreos, las motonieves rusas se acercan a nuestras tropas desde el flanco. Lance un ataque inmediato contra estas unidades móviles para evitar que nos envuelvan.
+
+Sus órdenes:
+-	 Ataque a las unidades enemigas antes de que envuelvan a nuestras fuerzas.
+[Submission2.Success]
+¡Las unidades de motonieves han sido eliminadas!
+[Submission2.Failed]
+Sus tropas han sido completamente derrotadas.
+[Submission3.Objectives]
+Ataque a las tropas enemigas que avanzan.
+[Submission3.Description]
+Las tropas rusas han iniciado una ofensiva a gran escala, atacando entre la Agrupación de Ejércitos Norte y la central.
+
+Sus órdenes:
+-	 Ataque a las fuerzas rusas que avanzan.
+[Submission3.Success]
+Las tropas enemigas en avanzada han sido completamente destruidas. ¡Será bien recompensado!
+[Submission3.Failed]
+¡Sus tropas han sido eliminadas! ¡No ha cumplido las órdenes!
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.

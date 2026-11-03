@@ -1,0 +1,50 @@
+﻿[Submission1.Objectives]
+击退敌军从西北方向发起的进攻。
+[Submission1.Description]
+据侦察报告，一股敌军正向杜博谢科沃开进。那里还有另一个关键铁路车站，你必须不惜一切代价守住它。潘菲洛夫将军亲自命令你坚持到底。 
+
+你的命令：
+- 	击退敌军从西北方向发起的进攻。
+[Submission1.Success]
+敌军的进攻已被阻止！
+[Submission1.Failed]
+敌军已突破防御，占领了车站。
+[Submission2.Objectives]
+击退敌军从西南方向发起的进攻。
+[Submission2.Description]
+德军第一次突破你防线的企图失败了。现在他们正准备再次突击——你已经能听到他们的坦克发动机在西南方向轰鸣。重新部署，不要让他们从这个方向迂回你部。决不后退，莫斯科就在我们身后！
+
+你的命令：
+- 	击退敌军从西南方向发起的进攻。
+
+[Submission2.Success]
+命令已完成！敌军的进攻已被击退，他们正在撤退！
+[Submission2.Failed]
+命令失败，你的防御已被突破！
+[Submission0.Objectives]
+坚守并保卫铁路车站。
+[Submission0.Description]
+敌军正迅速逼近杜博谢科沃铁路枢纽。最高统帅部认定该铁路车站至关重要，命令你不惜一切代价保卫它。
+
+你的命令是：
+- 	坚守并保卫指定地域。
+- 	德军不得夺取车站。
+[Submission0.Success]
+命令已完成！德军的突击已被击退！
+[Submission0.Failed]
+命令失败！德军夺取了杜博谢科沃车站。
+[Submission3.Objectives]
+击退敌军对车站的进攻。
+[Submission3.Description]
+德军继续向车站施压。其他战线地段的形势也好不到哪里去——我们寡不敌众，局势危急。我们必须阻止敌人夺取我们祖国的首都。
+
+你的命令：
+ - 	击退德军对车站的进攻。
+[Submission3.Success]
+命令已完成！敌军的进攻已被击退！
+[Submission3.Failed]
+敌军突破了你的防御并夺取了车站！
+[StringTable.Reserv]
+增援部队已到达。
+[StringTable.Subtitle_01]
+杜博谢科沃车站。1941年

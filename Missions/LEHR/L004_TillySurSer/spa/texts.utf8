@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Contenga el asalto enemigo.
+[Mission.Description]
+Unidades de la 50ª. División de Northumbria están avanzando contra las defensas del 2º. Batallón del 901º. Regimiento Panzergrenadier. Aunque en inferioridad numérica una vez más, tiene usted a su disposición un grupo combinado de unidades de infantería, blindadas y de artillería autopropulsada que deben imponerse al ataque en ciernes.
+ 
+Sus órdenes:
+- Mantenga sus posiciones alrededor del pueblo.
+[Mission.Success]
+¡Bien hecho, comandante! 
+[Mission.Failed]
+¡Misión fallida! Sus fuerzas se baten en retirada.
+[Submission_1.Objectives]
+Rechace todo ataque enemigo.
+[Submission_1.Description]
+En conjunto, los británicos disponen de superioridad tanto en hombres como en máquinas pero, debido al terreno, se ven obligados a atacar solamente por el frente o el flanco izquierdo. Utilice este conocimiento estratégico para disponer sus tropas en consecuencia y establecer una defensa adecuada.
+ 
+ 
+Sus órdenes son:
+- Rechace todo ataque enemigo. 
+[Submission_1.Success]
+¡Bien hecho, comandante! Las fuerzas enemigas han sido eliminadas.
+[Submission_1.Failed]
+¡Misión fallida! Su ejército ha sido derrotado.

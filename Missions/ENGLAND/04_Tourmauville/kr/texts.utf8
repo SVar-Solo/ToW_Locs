@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+투르모빌 마을을 해방하고 오동강 도하 지점을 확보하며 양쪽 강둑의 적을 소탕하라.
+[Mission.Description]
+적은 아군의 진격을 막으려고 전방의 오동강 도하 지점에 방어 진지를 구축했다. 도하 지점을 확보하고 적대 병력을 모두 제거해야 한다.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+투르모빌 부근의 다리.
+[Submission_1.Description]
+전략적으로 중요한 오동강의 다리가 투르모빌 남쪽에 있다.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+더 남쪽에 있는 또 다른 다리.
+[Submission_2.Description]
+이곳도 전략적으로 중요한 다리이다. 이 다리를 확보하면 적을 측면 우회하여 투르모빌 수비대의 배후를 공격할 수 있다.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+투르모빌을 해방하라.
+[Submission_3.Description]
+적은 투르모빌의 진지를 공고히 하고 강 도하 지점과 기타 접근로를 장악했다. 적을 마을에서 몰아내야 한다.
+[Submission_4.Objectives]
+교차로.
+[Submission_4.Description]
+교차로와 판터.
+[Submission_1.Success]
+임무 완수. 투르모빌 도하 지점을 확보했다.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[Submission_2.Success]
+목표 달성. 다리를 확보했다.
+[Submission_2.Failed]
+목표를 달성하지 못했다.
+[Submission_3.Success]
+목표 달성. 투르모빌을 점령했다.
+[Submission_3.Failed]
+목표를 달성하지 못했다.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+목표를 달성하지 못했다.
+[StringTable.Tanks]
+예비 병력 가용

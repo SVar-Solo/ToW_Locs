@@ -1,0 +1,74 @@
+﻿[SubMission_1.Objectives]
+Repousser l’attaque principale des unités de tête de l’armée rouge. Puis contre-attaquer l’ennemi pour reprendre le dépôt d’essence. 
+[SubMission_1.Description]
+L’armée rouge attaque sur tout le front. La dernière ligne de défense organisée allemande se trouve dans la ville de Kovel. Le quartier général a ordonné de défendre les positions jusqu’au dernier homme. Les renseignements indiquent que les Russes vont tenter une action de reconnaissance sur nos défenses dans ce secteur.
+
+Vos ordres sont :
+- 	Repousser l’attaque soviétique puis contre-attaquer pour désorganiser l’ennemi 
+- 	Capturer le dépôt d’essence ennemi.
+[SubMission_1.Success]
+La mission a été accomplie!
+[SubMission_1.Failed]
+Vous avez échoué, commandant !
+[Mission.Objectives]
+Empêcher l’ennemi de percer au travers de vos défenses.
+[Mission.Description]
+Les Russes ont lancé une offensive pour libérer la ville de Kovel. Il faut défendre la ville et repousser cette nouvelle attaque.
+
+Vos ordres :
+- 	Repousser les attaque ennemies.
+[Mission.Success]
+L’offensive russe a été stoppée. L’Allemagne se souviendra de l’héroïsme de ses soldats. 
+[Mission.Failed]
+C’est un jour tragique pour l’Allemagne ! Vous n’avez pas été capable d’arrêter les Russes et vous avez perdu la bataille.
+
+[Submission_2.Objectives]
+Il faut que ces camions atteignent le dépôt d’essence en bon état. 
+[Submission_2.Description]
+Les équipages des camions russes ont fuit, accompagnez ces camions au dépôt d’essence !
+
+Vos ordres :
+- 	Faire en sorte que les camions chargés d’essence arrivent jusqu’au dépôt dans le village.
+[Submission_2.Success]
+Bon travail commandant. Ces camions nous seront très utiles ! 
+[Submission_2.Failed]
+Les camions ont été perdus.
+[Submission_3.Objectives]
+Préparer les défenses au mieux pour repousser la prochaine offensive ennemie
+[Submission_3.Description]
+Selon nos informations, Les Russes préparent une nouvelle offensive. Tenez-vous prêt à résister à cette menace.
+
+Vos ordres : 
+- 	Tenir les postions contre les attaques ennemies.
+[Submission_3.Success]
+Bon travail ! Vous avez détruit les troupes d’assaut ennemies !
+[Submission_3.Failed]
+L’attaque ennemie était trop puissante et vous avez été submergé. Vous avez échoué.
+[Submission_5.Objectives]
+Détruire les troupes d’assaut ennemies
+[Submission_5.Description]
+Des unités d’assaut russes se dirigent vers le dépôt d’essence. Il faut les empêcher de percer ! Prenez également garde à des saboteurs qui pourraient tenter d’infiltrer nos lignes et attaquer nos unités d’artillerie situées à l’arrière.
+
+Vos ordres :
+- 	Détruire les troupes d’assaut ennemies en approche.
+[Submission_5.Success]
+Les unités ennemies ont été détruites !
+[Submission_5.Failed]
+L’ennemi est parvenu à percer !
+[Submission_6.Objectives]
+Détruire un convoi de camions ennemis et capturer les camions d’essence si possible.
+[Submission_6.Description]
+Pendant l’attaque, quatre camions pleins d’essence ont réussi à s’enfuir ! Il faut arrêter ce convoi !
+
+Vos ordres :
+- 	Capturer le convoi de camions d’essence si possible. Si vous ne parvenez pas à les capturer et qu’ils risquent de s’enfuir, détruisez-les.
+[Submission_6.Success]
+Bon travail commandant, vous avez empêché les Soviétiques de récupérer cette cargaison d’essence.
+[Submission_6.Failed]
+Les camions ont pu s’enfuir. Vous n’avez pas pu les arrêter à temps. 
+[StringTable.inf_reserv]
+Un nouveau détachement d’infanterie a été placé sous vos ordres.
+[StringTable.Tank_reserv]
+Un détachement de chars a été placé sous vos ordres.
+ [StringTable.SPG_reserv]
+Une section d’artillerie automotrice a été placée sous vos ordres.

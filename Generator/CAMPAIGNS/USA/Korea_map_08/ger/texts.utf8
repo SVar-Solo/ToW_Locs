@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission gescheitert.
+
+[Reinforcement.Group3[Reinforcement]]
+Hubschrauber und Infanterie
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Ihr Kampftrupp muss die verteidigenden Feinde in diesem Frontabschnitt ausschalten.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Alle feindlichen Verteidigungsstellungen im auf der Karte markierten Gebiet angreifen und vernichten.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Unser vorgeschobener Spähtrupp hat eine Straßenkreuzung in der Mitte des Gebiets überrannt. Der Feind wird höchstwahrscheinlich versuchen, sie einzunehmen. Ihr Kampftrupp soll zur Straßenkreuzung vorrücken und den Spähtrupp unterstützen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Die Straßenkreuzung in der Mitte des Gebiets einnehmen und halten.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Die Straßenkreuzung in der Mitte des Gebiets einnehmen und halten.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Unser vorgeschobener Spähtrupp hat eine Straßenkreuzung in der Mitte des Gebiets überrannt. Der Feind wird höchstwahrscheinlich versuchen, sie einzunehmen. Ihr Kampftrupp soll zur Straßenkreuzung vorrücken und den Spähtrupp unterstützen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+Die Straßenkreuzung in der Mitte des Gebiets einnehmen und halten.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Die Straßenkreuzung in der Mitte des Gebiets einnehmen und halten.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Die Straßenkreuzung in der Mitte des Gebiets einnehmen und halten.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Unser vorgeschobener Spähtrupp hat eine Straßenkreuzung in der Mitte des Gebiets überrannt. Der Feind wird höchstwahrscheinlich versuchen, sie einzunehmen. Ihr Kampftrupp soll zur Straßenkreuzung vorrücken und den Spähtrupp unterstützen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Unser vorgeschobener Spähtrupp hat eine Straßenkreuzung in der Mitte des Gebiets überrannt. Der Feind wird höchstwahrscheinlich versuchen, sie einzunehmen. Ihr Kampftrupp soll zur Straßenkreuzung vorrücken und den Spähtrupp unterstützen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+Unser vorgeschobener Spähtrupp hat eine Straßenkreuzung in der Mitte des Gebiets überrannt. Der Feind wird höchstwahrscheinlich versuchen, sie einzunehmen. Ihr Kampftrupp soll zur Straßenkreuzung vorrücken und den Spähtrupp unterstützen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+Mission gescheitert.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Panzerfahrzeuge und Infanterie
+

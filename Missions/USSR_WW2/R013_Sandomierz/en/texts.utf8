@@ -1,0 +1,57 @@
+﻿[Mission1.Objectives]
+Destroy the enemy tank units.
+[Mission1.Description]
+Our scouts have detected a column of German King Tiger tanks. Destroying these heavy tanks before they reach their destination is now a priority. 
+
+Your orders: 
+- 	Move your forces to the specified region and destroy a column of King Tiger tanks.
+[Mission1.Success]
+The German armor has succumbed to our superior skills and weapons.
+[Mission1.Failed]
+Despite all the support and combat power you were assigned, you’ve failed to stop the enemy tank column.
+[Mission2.Objectives]
+Destroy the enemy troops around the village.
+[Mission2.Description]
+After crossing the Vistula the Soviet units found out that the Germans had organized formidable defenses on the West bank. Fascist aggressors occupy the village in front of you. Recon reports say that both infantry and armor units heavily defend the town.
+
+Your orders:
+- 	Destroy the enemy troops around the village.
+[Mission2.Success]
+The enemy has been destroyed and the village freed! Now your units can consolidate your forces in order to reinforce the Sandomierz bridgehead.
+[Mission2.Failed]
+Your troops have been destroyed. The enemy has become emboldened by their victory and now threatens to push our troops back into the Vistula.
+[Submission1.Objectives]
+Capture the King Tiger tanks.
+[Submission1.Description]
+A couple of heavy German King Tigers have been spotted in the village, their crews nowhere to be found. These tanks would be great war trophies and valuable for our own engineers to study. 
+
+Your orders: 
+-	 Capture the enemy King Tiger tanks.
+[Submission1.Success]
+The tanks have been captured – Great job!
+[Submission1.Failed]
+Despite all your efforts you’ve failed to capture the tanks!
+[Mission3.Objectives]
+Hold out against the German attack.
+[Mission3.Description]
+The Germans are launching a large counter-attack aimed at reoccupying Sandomierz and destroying our bridgehead.
+
+Your orders: 
+-	 Hold off the enemy attack at any cost.
+[Mission3.Success]
+The enemy attack has been beaten off and the bridgehead secured.
+[Mission3.Failed]
+Despite your soldiers’ heroic efforts, the enemy has wan this battle.
+[Submission2_1.Objectives]
+Destroy the enemy troops.
+[Submission2_1.Description]
+This village, which is located on your part of the front, has been occupied by German troops. Recon reports say that there are several infantry and tank units, including more King Tiger tanks are now entrenching in and around the town. 
+
+Your orders: 
+- 	Destroy the enemy troops in the village.
+[Submission2_1.Success]
+The enemy troops have been completely destroyed!
+[Submission2_1.Failed]
+Your troops have been destroyed - the enemy remains in the village!
+[StringTable.Reserv]
+You have been assigned reinforcements.

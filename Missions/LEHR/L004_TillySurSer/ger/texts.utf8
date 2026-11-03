@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Halten Sie den feindlichen Angriff auf.
+[Mission.Description]
+Die EInheiten der 50. Northumbrian Division rücken gegen die Verteidigungslinie des 2. Battalions des 901. motorisierten Infanterie Regiments der Panzer Lehr Division vor. Die deutsche Infanterie muss, unterstützt durch Sturmgeschütze und Panzer, dem überwältigenden Druck der zahlenmässig überlegenen Feindtruppen standhalten.
+
+Ihre Befehle lauten:
+- halten Sie die Stellungen um das Dorf.
+[Mission.Success]
+Gute Arbeit! 
+[Mission.Failed]
+Mission gescheitert! Ihre Armee zieht sich zurück.
+[Submission_1.Objectives]
+Schlagen Sie alle feindlichen Angriffe zurück.
+[Submission_1.Description]
+Die Briten sind an Mann und Material überlegen. Der Fluss schützt ihre rechte Flanke vor feindlichen Angriffen. Daher wird der Feind vermutlich aus der Mitte oder der linken Flanke vorrücken. Die Hauptaufgabe der Briten ist es, Ihre Verteidigung im Dorf zu zerschlagen. Ihre Hauptaufgabe ist es, die Verteidigungslinien so auszurichten, dass die Überlegenheit des Feindes abgemildert wird.
+
+Ihre Befehle lauten:
+- Schlagen Sie alle feindlichen Angriffe zurück. 
+[Submission_1.Success]
+Gute Arbeit! Die feindlichen Truppen sind ausgeschaltet.
+[Submission_1.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.

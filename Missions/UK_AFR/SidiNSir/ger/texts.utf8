@@ -1,0 +1,49 @@
+﻿[Mission.Objectives]
+Hold the line
+[Mission.Description]
+Hold the line near Sidi N’Sir railway station with forces of the 5th Battalion of the Royal Hampshire Regiment, supported by the 155th Battery of the 172nd Field Artillery Regiment.
+In the morning enemy launched a new attack, we must delay them for as long as possible, inflicting as much damage as we can.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission1.Objectives]
+Establish contact with the battery.
+[Submission1.Description]
+We are supported by the field artillery battery. Some time ago, the contact with that firing emplacement was lost. We must send our artillery spotter to their observation post.
+[Submission1.Success]
+Mission accomplished. The battery will open fire at spotted targets.
+[Submission1.Failed]
+The observation post has been destroyed!
+[Submission2.Objectives]
+Hold until reinforcements arrive.
+[Submission2.Description]
+Enemy attacks are getting fiercer. We must hold the line at all cost until reinforcements arrive and deal as much damage to the enemy as possible. Destroying enemy tanks is vital. Without tank support, their infantry will be easier to hold back. 
+[Submission2.Failed]
+Mission failed.
+[Submission2.Success]
+Mission accomplished.
+[Submission3.Objectives]
+Withdraw to the rear.
+[Submission3.Description]
+Despite casualties, the enemy is still putting new forces into the field and attacking our positions. We have also suffered tangible losses, especially in artillery, and cannot hold the Germans for any longer. Fortunately, we have held the line for long enough, so the battery has approached and set up for battle. Now we can withdraw to the rear, protected by their fire. We must hurry, as our air forces will soon bomb the station to shambles.
+[Submission3.Success]
+Mission accomplished.
+[Submission3.Failed]
+Having lost control of your troops due to panic, you have failed to orderly retreat to a new line of defence. Your unit has been struck by friendly air forces. Mission failed.
+[Submission4.Objectives]
+Hold until reinforcements arrive
+[Submission4.Description]
+The command is sending another anti-tank battery to our sector. We must hold the line until it arrives.
+[Submission4.Success]
+Mission accomplished. The artillery has arrived and deployed.
+[Submission4.Failed]
+Mission failed.
+[StringTable.mess1]
+The Germans were stopped in their tracks and have started to retreat. Their sudden attack has failed, the next will be much fiercer.
+[StringTable.mess2]
+Incoming! German assault aircraft! Ack-acks, action!
+[StringTable.mess3]
+We failed to hold the station. High command has decided to wreck it to prevent it from falling into German hands. Bombers are approaching, withdraw the remaining forces as soon as possible to avoid being struck by friendly bombs.
+[StringTable.mess4]
+The battery has been destroyed.

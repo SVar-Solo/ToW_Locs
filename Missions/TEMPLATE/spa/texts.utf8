@@ -1,0 +1,237 @@
+﻿[TEMPLATE.FullName]
+Nueva campaña
+
+[TEMPLATE.Description]
+Descripción de la campaña
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeong-pukto
+
+[HAMGEN_PUKTO.Description]
+Hamgyeong-pukto es la provincia más septentrional de Corea del Norte. Limita al norte con China y su larga costa oriental está bañada por el mar del Japón. La provincia alberga el principal nudo ferroviario de Corea del Norte, por el que pasan los envíos procedentes tanto de China como de la Unión Soviética. El terreno es mayormente llano, pero en el oeste hay una gran cordillera.
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+La provincia de Ryanggang-do limita al norte con China. Ocupada en su mayor parte por montañas surcadas de estrechos desfiladeros, apenas es transitable. Aun así, Ryanggang-do es una zona estratégica muy importante, pues allí se encuentra el principal ferrocarril procedente de la Unión Soviética, que abastece a las tropas norcoreanas de material bélico y armamento.
+
+[HAMGEN_NAMDO.FullName]
+Hwanghae-namdo
+
+[HAMGEN_NAMDO.Description]
+Aunque montañosa en el oeste, Hwanghae-namdo se allana hasta convertirse en excelentes tierras de cultivo a medida que se extiende hacia el este, en dirección a su costa del mar del Japón. Esta fértil región produce arroz, trigo y colza, lo que convierte a la provincia en el principal centro agrícola de Corea del Norte. La captura de Hwanghae-namdo ofrecería una excelente base para llevar la lucha más hacia el norte.
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+Limítrofe con China por el norte, Chagang-do es una de las provincias industriales más desarrolladas de Corea del Norte. Su principal nudo ferroviario gestiona toda la carga procedente de China y de la Unión Soviética, y la provincia alberga las principales bases de abastecimiento de las tropas norcoreanas. Chagang-do no tiene salida al mar.
+
+[PHENAN_PUKTO.FullName]
+Pyeongan-pukto
+
+[PHENAN_PUKTO.Description]
+La provincia septentrional de Pyeongan-pukto limita con China. Su capital, Sineuiju, es un importante nudo de transporte, y el puerto de Yongampo es uno de los principales centros de la industria pesquera del mar Amarillo. El terreno es mayormente montañoso, con valles que dominan la zona costera.
+
+[PHENAN_NAMDO.FullName]
+Pyeongan-namdo
+
+[PHENAN_NAMDO.Description]
+La provincia norcoreana de Pyeongan-namdo, cuya capital es Pyeongseong, limita con Pyeongan-pukto y Chagang-do al norte, con Hwanghae-namdo y Gangwon-do al este y sureste, y con Hwanghae-pukto y Pyeongyang al sur. Al oeste limita con el mar Amarillo. La provincia tiene valor estratégico como zona de concentración para reubicar tropas y suministros por mar.
+
+[PHENYAN.FullName]
+Pyeongyang
+
+[PHENYAN.Description]
+Pyeongyang, nombre tanto de la ciudad capital como de la provincia que la rodea, es un importante centro económico de Corea del Norte y un gran bastión industrial. La ciudad de Pyeongyang se alza en una llanura rodeada de montañas. En 1946 se separó de Pyeongan-namdo para convertirse en provincia independiente. La ciudad y sus alrededores están fuertemente fortificados y bien defendidos.
+
+[KANWONDO_PUKTO.FullName]
+Gangwondo-pukto
+
+[KANWONDO_PUKTO.Description]
+La provincia norcoreana de Gangwondo-pukto se encuentra en la región fronteriza. Es en su mayor parte zona de montaña, pero el terreno a lo largo de la costa es apto para el transporte de vehículos.
+
+[HVANHE_PUKTO.FullName]
+Hwanghae-pukto
+
+[HVANHE_PUKTO.Description]
+La frontera sur de la provincia de Hwanghae-pukto sigue el paralelo 38. Las fuerzas enemigas se concentran al sur. La provincia es de importancia estratégica crítica para la defensa de Pyeongyang, la capital de Corea del Norte.
+
+[KANWONDO_NAMDO.FullName]
+Gangwondo-namdo
+
+[KANWONDO_NAMDO.Description]
+La frontera norte de la provincia de Gangwon-namdo sigue el paralelo 38, que divide la península de Corea en Corea del Norte y Corea del Sur. Al ser una tierra montañosa, la provincia no cuenta con fortificaciones pesadas, y los pasos de montaña son traicioneros: incluso una pequeña fuerza defensora puede contener a una fuerza atacante superior. Las pequeñas aldeas y monasterios se han convertido en ciudadelas defensivas muy difíciles de capturar. Solo quedan sin ocupar los senderos rocosos, inadecuados para vehículos.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Por ser la sede de Seúl, la capital de Corea del Sur, Gyeonggi-do es una provincia de importancia estratégica crítica. Aunque es mayormente llana, está salpicada de localidades pobladas, muchas de ellas fortificadas. Como es natural, la propia Seúl está protegida por las tropas más experimentadas de Corea del Sur y rodeada de fuertes fortificaciones. La frontera norte de la provincia sigue el paralelo 38, que divide Corea en norte y sur.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsang-pukto
+
+[KENSAN_PUKTO.Description]
+Gyeongsang-pukto da acceso a la costa oriental de la península de Corea. Quien controle esta provincia puede recibir suministros por mar, una ventaja estratégica significativa. Gyeongsang-pukto tiene numerosos valles de montaña, pero cerca de la costa oriental las montañas pierden altura y los valles se ensanchan y se aplanan. Esto hace que la zona sea muy favorable para atacar, pero difícil de defender.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheong-pukto
+
+[CHUNCHON_PUKTO.Description]
+Chungcheong-pukto es el principal corredor de transporte hacia Seúl, la capital de Corea del Sur. En esta provincia se concentran numerosas bases militares y fortificaciones. Controlar Chungcheong-pukto proporcionaría una ventaja significativa.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheong-namdo
+
+[CHUNCHON_NAMDO.Description]
+Gran parte de Chungcheong-namdo está ocupada por montañas casi infranqueables, pero hay ciertas zonas vulnerables a un ataque, aunque, como es natural, están muy defendidas y fortificadas. Todos los núcleos de población se han convertido en puntos fuertes, pero algunos de los senderos rocosos son impracticables para los vehículos. Esto los hace perfectos para pequeñas escuadras de infantería, que pueden maniobrar con sigilo y sorprender al enemigo.
+
+[PUSAN.FullName]
+Pusan
+
+[PUSAN.Description]
+El perímetro de Pusan es la posición final de las tropas surcoreanas. Esta zona estratégica de primer orden sirve de cabeza de playa para las fuerzas estadounidenses y cuenta con numerosos puntos fuertes bien defendidos. Capturar el perímetro de Pusan, así como los puertos de Pusan, Ulsan y Pohang, impediría que las fuerzas del Comando de las Naciones Unidas recibieran refuerzos y suministros.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsang-namdo
+
+[KENSAN_NAMDO.Description]
+La provincia de Gyeongsang-namdo linda con las provincias de Jeolla-pukdo y Gyeongsang-pukto. Está ocupada en su mayor parte por montañas y alberga tres parques nacionales: Gayasan, Deogyusan y Jirisan. La cima más alta es el monte Deogyusan (1614 metros). Como el resto de la península de Corea, la provincia tiene clima monzónico: veranos cálidos y húmedos e inviernos relativamente fríos y secos. La temperatura media anual es de 10,6 grados Celsius y la precipitación anual es de 1395,2 mm (datos de 1993). La mayor parte de las precipitaciones (850 mm) cae durante la estación lluviosa, que dura tres meses de verano.
+
+[CHOPLA_PUKTO.FullName]
+Jeolla-pukto
+
+[CHOPLA_PUKTO.Description]
+Jeolla-pukto se encuentra en la costa occidental. Su puerto es fundamental para el movimiento de personal y suministros. Sin embargo, salvo en las zonas costeras, la provincia está ocupada por montañas traicioneras, por lo que no hay fortificaciones pesadas.
+
+[CHOPLA_NAMDO.FullName]
+Jeolla-namdo
+
+[CHOPLA_NAMDO.Description]
+Jeolla-namdo es la provincia más meridional de Corea del Sur. Las montañas dominan su región septentrional. Sin embargo, hacia el sur y la costa, las montañas se allanan hasta convertirse en amplios valles. En cuanto a su importancia estratégica, la parte sur de la provincia es importante para la entrega de suministros por mar gracias a sus numerosos y grandes puertos.
+
+[Battle Group 6.Name]
+1.ª Div. Blindada
+
+[Battle Group 13.Name]
+2.ª Div. Blindada
+
+[Battle Group 4.Name]
+101.ª Brig. de Tanques
+
+[Battle Group 3.Name]
+101.ª Div. Mecanizada
+
+[Battle Group 2.Name]
+101.ª Div. de Infantería
+
+[Battle Group 14.Name]
+1.ª Div. de Infantería
+
+[Battle Group 8.Name]
+1.ª Div. Mecanizada
+
+[Battle Group 12.Name]
+2.ª Div. de Artillería
+
+[Battle Group 9.Name]
+1.ª Div. de Artillería
+
+[Battle Group 18.Name]
+101.ª Div. de Artillería
+
+[Reinforcement.PRK_artillery]
+Artillería
+
+[Reinforcement.PRK_tanks]
+Tanques
+
+[Battle Group 6.FullName]
+1.ª División Blindada
+
+[Battle Group 8.FullName]
+1.ª División Mecanizada
+
+[Battle Group 9.FullName]
+1.ª División de Artillería
+
+[Battle Group 12.FullName]
+2.ª División de Artillería
+
+[Battle Group 13.FullName]
+2.ª División Blindada
+
+[Battle Group 14.FullName]
+1.ª División de Infantería
+
+[Battle Group 24.Name]
+10.ª Div. de Artillería
+
+[Battle Group 24.FullName]
+10.ª Div. de Artillería
+
+[Battle Group 25.Name]
+10.ª Div. Mecanizada
+
+[Battle Group 25.FullName]
+10.ª División Mecanizada
+
+[Battle Group 26.Name]
+10.ª Div. de Infantería
+
+[Battle Group 26.FullName]
+10.ª División de Infantería
+
+[Battle Group 27.Name]
+10.ª Brig. de Tanques
+
+[Battle Group 27.FullName]
+10.ª Brigada de Tanques
+
+[Battle Group 28.Name]
+20.ª Div. Mecanizada
+
+[Battle Group 28.FullName]
+20.ª División Mecanizada
+
+[Battle Group 29.Name]
+20.ª Div. de Infantería
+
+[Battle Group 29.FullName]
+20.ª División de Infantería
+
+[TEMPLATE.Epilogue]
+El alto mando felicita a usted y a sus tropas por la victoria. El valor, el heroísmo y el desempeño sin igual de sus soldados y oficiales contribuyeron a lograr esta gran victoria. Pero jamás lo habrían conseguido sin su mando y control, su aguda visión táctica y su previsión estratégica.
+
+[TEMPLATE.FailureEpilogue]
+Sus tropas fueron derrotadas a pesar de su valor y heroísmo. El enemigo resultó demasiado fuerte. Sin embargo, toda derrota amarga es también una buena lección que acerca la futura victoria. No hay victoria sin derrota. Derrotado, un buen comandante solo se hace más fuerte y más sabio.
+
+[Battle Group 2.FullName]
+101.ª División de Infantería
+
+[Battle Group 3.FullName]
+101.ª División Mecanizada
+
+[Battle Group 4.FullName]
+101.ª Brigada de Tanques
+
+[Battle Group 18.FullName]
+101.ª División de Artillería
+
+[Reinforcement.PRK_Tank]
+Tanques
+
+[Battle Group 30.Name]
+107.ª Div. Mecanizada
+
+[Battle Group 30.FullName]
+107.ª División Mecanizada
+
+[Battle Group 31.Name]
+2.ª Brig. de Tanques
+
+[Battle Group 31.FullName]
+2.ª Brigada de Tanques
+

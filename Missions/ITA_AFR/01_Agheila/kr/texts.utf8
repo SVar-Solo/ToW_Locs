@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+호송대를 파괴하라
+[Submission_1.Description]
+엘 아게일라로 접근하는 적 호송대를 파괴하라.
+[Submission_01.Success]
+임무 완수.
+[Submission_01.Failed]
+임무 실패.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+요새화된 거점을 사수하라
+[Mission.Description]
+방어를 조직하여 요새화된 거점을 사수하고 엘 아게일라로 가는 도로를 완전히 차단하라.
+[NewSubmission.Success]
+임무 완수.
+[NewSubmission.Failed]
+임무 실패.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Success]
+호송대를 파괴했다.
+[Submission_1.Failed]
+적 호송대가 엘 아게일라로 돌파했다!
+[NewSubmission.Objectives]
+[NewSubmission.Description]

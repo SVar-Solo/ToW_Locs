@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Detenga la ruptura del frente
+[Mission.Success]
+¡El enemigo no pudo atravesar el paso!
+[Mission.Failed]
+¡Retirada! ¡El enemigo ha atravesado el paso!
+[Mission.Description]
+Detenga la ruptura de los grupos alemanes por el paso de Kasserine
+[Submission1.Objectives]
+Frene los ataques enemigos a lo largo de los posibles ejes de ruptura.
+[Submission1.Description]
+¡Teniente coronel Waters! Debe impedir que las tropas alemanas atraviesen el paso de Kasserine.
+[Submission1.Success]
+¡La orden ha sido cumplida! ¡El enemigo se retira!
+[Submission1.Failed]
+¡Nuestras tropas han fracasado! ¡El enemigo continúa su avance!
+[Submission2.Success]
+¡Han llegado los tanques británicos!
+[Submission2.Description]
+Resista hasta que lleguen los tanques británicos
+[Submission2.Objectives]
+Resistan
+[Submission2.Failed]
+¡Hemos fracasado! ¡Los refuerzos no tuvieron tiempo de llegar!
+[Submission3.Objectives]
+Localice y destruya a los observadores de fuego enemigos
+[Submission3.Description]
+Una batería de morteros dispara contra las posiciones de la 1.ª División de Infantería. Localice y elimine a los observadores de artillería enemigos.
+[Submission3.Success]
+¡Los observadores enemigos han sido eliminados!
+[Submission3.Failed]
+¡Los observadores enemigos no han sido eliminados!

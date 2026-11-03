@@ -1,0 +1,291 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capture a ponte e avance mais fundo em território inimigo, atacando a base militar assinalada no mapa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Você deve atravessar o rio para continuar o ataque. Destrua as pesadas defesas inimigas perto da ponte e da localidade vizinha e capture a ponte. Em seguida, avance mais fundo em território inimigo e invada a base militar inimiga, onde você poderá consolidar suas forças.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+O inimigo capturou a ponte.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+A ponte é uma parte crítica do corredor de transporte e o ponto tático-chave da região. Você deve repelir o ataque inimigo. Não deixe que capturem a ponte.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Repila o ataque inimigo. Não deixe que a ponte caia nas mãos do inimigo.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repila todos os ataques inimigos. Mantenha a ponte e não deixe que ela caia em mãos inimigas.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+O inimigo está fazendo o possível para capturar a ponte e atravessar o rio. Você deve manter a ponte a todo custo e não deixar que ela caia em mãos inimigas.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repila todos os ataques inimigos. Mantenha a ponte e não deixe que ela caia em mãos inimigas.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+O inimigo está fazendo o possível para capturar a ponte e atravessar o rio. Você deve manter a ponte a todo custo e não deixar que ela caia em mãos inimigas.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capture a ponte e avance mais fundo em território inimigo, atacando a base militar assinalada no mapa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Você deve atravessar o rio para continuar o ataque. Destrua as pesadas defesas inimigas perto da ponte e da localidade vizinha e capture a ponte. Em seguida, avance mais fundo em território inimigo e invada a base militar inimiga, onde você poderá consolidar suas forças.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Infantry_support]
+A equipe de infantaria está sob o seu comando.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+A equipe blindada da reserva está à sua disposição.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Apoio aéreo à sua disposição.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros à sua disposição.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+A equipe de infantaria e blindados está à sua disposição.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Equipe de infantaria e blindados da reserva disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Equipe de infantaria e blindados da reserva disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+A equipe de infantaria e blindados está à sua disposição.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capture a ponte e a cabeça de ponte. Repila todos os contra-ataques inimigos.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Você deve atravessar o rio para continuar o ataque. Destrua as pesadas defesas inimigas perto da ponte e da localidade vizinha e capture a ponte. Em seguida, avance mais fundo em território inimigo e invada a base militar inimiga, onde você poderá consolidar suas forças. Esteja pronto para repelir quaisquer contra-ataques inimigos.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture a ponte e a cabeça de ponte. Repila todos os contra-ataques inimigos.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Você deve atravessar o rio para continuar o ataque. Destrua as pesadas defesas inimigas perto da ponte e da localidade vizinha e capture a ponte. Em seguida, avance mais fundo em território inimigo e invada a base militar inimiga, onde você poderá consolidar suas forças. Esteja pronto para repelir quaisquer contra-ataques inimigos.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Repila o ataque inimigo. Não deixe que a ponte caia nas mãos do inimigo.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+A ponte é uma parte crítica do corredor de transporte e o ponto tático-chave da região. Você deve repelir o ataque inimigo. Não deixe que capturem a ponte.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Repila o ataque inimigo. Não deixe que a ponte caia nas mãos do inimigo.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+A ponte é uma parte crítica do corredor de transporte e o ponto tático-chave da região. Você deve repelir o ataque inimigo. Não deixe que capturem a ponte.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Repila todos os ataques inimigos. Mantenha a ponte e não deixe que ela caia em mãos inimigas.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+O inimigo está fazendo o possível para capturar a ponte e atravessar o rio. Você deve manter a ponte a todo custo e não deixar que ela caia em mãos inimigas.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Repila todos os ataques inimigos. Mantenha a ponte e não deixe que ela caia em mãos inimigas.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+O inimigo está fazendo o possível para capturar a ponte e atravessar o rio. Você deve manter a ponte a todo custo e não deixar que ela caia em mãos inimigas.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Repila todos os ataques inimigos. Mantenha a ponte e não deixe que ela caia em mãos inimigas.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Repila todos os ataques inimigos. Mantenha a ponte e não deixe que ela caia em mãos inimigas.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+O inimigo está fazendo o possível para capturar a ponte e atravessar o rio. Você deve manter a ponte a todo custo e não deixar que ela caia em mãos inimigas.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+O inimigo está fazendo o possível para capturar a ponte e atravessar o rio. Você deve manter a ponte a todo custo e não deixar que ela caia em mãos inimigas.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Missão fracassada.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk2.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk2.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk1.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk2.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk1.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk1.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk2.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk1.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk2.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk1.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk2.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk2.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk1.MORTAR_SUPPORT]
+A bateria de morteiros está pronta para o combate.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk2.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk1.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk2.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk1.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[Reinforcement.Group1[Reinforcement]]
+Tanques e infantaria
+

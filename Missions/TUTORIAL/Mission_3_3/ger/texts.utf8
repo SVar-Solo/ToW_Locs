@@ -1,0 +1,96 @@
+﻿[Mission.Objectives]
+Die Siedlung befreien. Sie halten, bis Verstärkung eintrifft.
+
+[Mission.Description]
+Befreien Sie mit der Ihnen zugeteilten Sabotage- und Aufklärungsgruppe die Siedlung von deutschen Truppen und halten Sie sie, bis Verstärkung eintrifft.
+
+[Mission.Success]
+Sie haben die Aufgabe erfolgreich erfüllt. Das Kommando dankt Ihnen für Ihren Dienst.
+
+[Mission.Failed]
+
+[SubMission_01.Objectives]
+Leisten Sie unseren Panzerleuten jede mögliche Hilfe. Wählen Sie die gesamte Fallschirmjägergruppe aus und schicken Sie sie zu dem Punkt beim roten Signalrauch.
+
+[SubMission_01.Description]
+Vor unseren Augen wurde ein Panzer der Panzerbrigade zerstört; es scheint, als hätten die Panzerleute das brennende Fahrzeug verlassen können. Durchsuchen Sie die Trümmer beim Panzer; vielleicht leben einige der Panzerleute noch. Leisten Sie den verwundeten Panzerleuten Hilfe.
+
+[SubMission_01.Success]
+Auftrag erfüllt. Die Panzerleute haben sich unserer Gruppe angeschlossen.
+
+[SubMission_01.Failed]
+
+[SubMission_02.Objectives]
+Den Panzer erbeuten. Verwenden Sie beim Vorrücken zum Standort des Panzers, der durch roten Signalrauch markiert ist, Angriffsbefehle. Konzentrieren Sie das Feuer der Gruppe auf feindliche Soldaten.
+
+[SubMission_02.Description]
+Nach Aufklärungsdaten verstecken die Deutschen unseren Panzer in diesem Gebiet. Wie er in ihre Hände gelangte, ist unbekannt. Erbeuten Sie den Panzer mit Hilfe der Panzerleute, die sich der Gruppe angeschlossen haben.
+
+[SubMission_02.Success]
+Auftrag erfüllt. Der Panzer ist wieder in unserer Hand.
+
+[SubMission_02.Failed]
+
+[SubMission_03.Objectives]
+Das Feuer der feindlichen Artillerie niederhalten. Verwenden Sie Handgranaten gegen Personal oder Sprenggranaten; sie vernichten nur die Geschützbedienungen.
+
+[SubMission_03.Description]
+Das Feuer der feindlichen Artillerie niederhalten. Versuchen Sie, die feindlichen Geschütze zu erbeuten; wir brauchen sie, um die Verteidigung der Siedlung zu organisieren; dafür empfiehlt es sich, Sprenggranaten oder Handgranaten gegen Personal zu verwenden.
+
+[SubMission_03.Success]
+Auftrag erfüllt. Die feindliche Artillerie existiert nicht mehr.
+
+[SubMission_03.Failed]
+
+[SubMission_04.Objectives]
+Die feindlichen Angriffe abwehren. Das Feuer aller Geschütze auf die linke Flanke konzentrieren. Rechts wurden Minenfelder entdeckt, die uns helfen werden, den Feind an der rechten Flanke zu vernichten. Den Panzer nicht auf die verminten Felder fahren lassen.
+
+[SubMission_04.Description]
+Der Feind versucht, die Siedlung zurückzuerobern. Richten Sie alle Geschütze in seine Richtung aus und halten Sie durch, bis unsere Truppen eintreffen.
+
+[SubMission_04.Success]
+Wir haben es geschafft! Hurra!
+
+[SubMission_04.Failed]
+
+[StringTable.avia_report]
+Luftunterstützung steht zur Verfügung. Geben Sie einen Punkt im Gelände an, auf den die Luftunterstützung gelenkt werden soll. Sturzkampfbomber greifen den Feind wie Erdkampfflugzeuge selbständig an, tun dies aber aus dem steilen Sturzflug.
+
+[StringTable.msg_01_01]
+Sie führen einen Aufklärungstrupp. Dies ist eine gut ausgebildete Abteilung; ihre Soldaten tragen Tarnung, die ihre Unauffälligkeit erhöht, selbst bei einem Wert von null im Parameter „Aufklärung“. Sie sind mit Maschinenpistolen bewaffnet, die auf kurze Distanzen von etwa 100 Metern äußerst wirksam sind.
+
+[StringTable.msg_01_02]
+Panzerleute haben keine Tarnung, können aber Fahrzeuge bedienen. Schützen Sie Leute mit hohen Fertigkeiten in „Fahren“ oder „Richtschütze“ sowie solche mit hohen Dienstgraden – sie heben die Moral der Soldaten in ihrer Nähe.
+
+[StringTable.msg_01_03]
+Dieses Gelände ist mit hohem Gras bewachsen, das Ihre Gruppen ab einer gewissen Entfernung vollständig verbergen kann. Die Grashöhe wirkt sich unmittelbar auf die Unterbrechung der Sichtlinie aus. Wählen Sie den Bewegungsmodus „Liegen“ {hkey:setbodymodelay}, um die Soldaten sicher im Gras zu verbergen.
+
+[StringTable.msg_02_01]
+Feindliche Infanterie greift Sie an. In den meisten Situationen genügt es, Ihre Soldaten einfach selbständig feuern zu lassen. Achten Sie auf die Schusssektoren Ihrer Soldaten, damit sie einander nicht behindern und der Feind in ihrem Sichtfeld liegt.
+
+[StringTable.msg_02_02]
+Für ein wirksameres Vorrücken lassen Sie einige Soldaten zurück, die jene decken, die ihre Position wechseln. Es empfiehlt sich, sich in kurzen Sprüngen {hkey:setbodymodeknee} zwischen Büschen und Deckungen zu bewegen und nicht zu lange im offenen Gelände zu bleiben.
+
+[StringTable.msg_02_03]
+Unter Ihrem starken Druck kann sich die feindliche Infanterie ergeben; dann wird das Symbol über solchen Feinden grau.
+
+[StringTable.msg_02_04]
+Ist das Symbol über einem Fahrzeug grau, kann dieses Objekt erbeutet werden. Beachten Sie, dass die Bedienung eines Panzers oder Geschützes die entsprechenden Fertigkeiten erfordert. Um erbeutete Ausrüstung zu bedienen, müssen die Fertigkeiten über einem bestimmten Schwellenwert liegen. Ob die Ausrüstung als erbeutet gilt, erkennen Sie am Flaggensymbol im Hintergrund ihres Symbols im Tooltip. Erbeuten Sie solche Ausrüstung und nehmen Sie sie in die nächste Kampagnenmission mit, gilt sie nicht mehr als erbeutet.
+
+[StringTable.msg_02_05]
+Um einen Panzer zu erbeuten, wählen Sie die Panzerleute aus und klicken Sie mit der rechten Maustaste auf ihn.
+
+[StringTable.msg_03_01]
+Verwenden Sie für den Panzer den Befehl Flächenfeuer {hkey:groundattack} per Rechtsklick auf das Gelände nahe am Feind oder direkt auf den Feind.
+
+[StringTable.msg_03_02]
+Nähern Sie sich der Artillerie von hinten, wo sie am verwundbarsten ist. Verwenden Sie Sprenggranaten.
+
+[StringTable.msg_04_01]
+Um das Geschütz zu drehen, muss seine Bedienung aus mindestens 2 Soldaten bestehen. Wählen Sie das Geschütz aus und klicken Sie mit der rechten Maustaste auf den Punkt in der Richtung, in die das Geschütz gedreht werden soll; halten Sie die Maustaste gedrückt, bis sich der Cursor ändert.
+
+[StringTable.msg_04_02]
+Die Munitionsausstattung des Panzers T-34 enthält 2 Arten panzerbrechender Granaten:
+APHEBC – eine Haubengranate, die nach Überwindung eines Panzerhindernisses explodiert. Sie hat eine kleine Sprengladung, die ausreicht, um Besatzungsmitglieder nahe dem Detonationspunkt zu treffen.
+APBC – ein Vollgeschoss ohne Sprengladung, das jedoch eine größere Chance hat, Module im Inneren zu treffen.
+Außerdem können beide Granatenarten Sekundärsplitter erzeugen, die Besatzung und Innenbauteile treffen.

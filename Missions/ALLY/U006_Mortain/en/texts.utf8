@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+Reinforcements have arrived.
+[Submission1.Objectives]
+Capture the village and destroy the enemy forces.
+[Submission1.Description]
+German forces have occupied the nearby village and seem to be waiting for reinforcements. You are to launch an attack on this settlement before more enemy units can arrive.
+
+Your orders are:
+-	Capture the settlement.
+-	Defeat all enemy troops.
+[Submission1.Success]
+Task successfully accomplished. The enemy forces were driven away from the village.
+[Submission1.Failed]
+Task failed.
+[Mission1.Objectives]
+Defeat all enemy forces.
+[Mission1.Description]
+German forces have started to advance toward Mortain. The enemy has captured several small settlements in this area. According to all available intel, the enemy is preparing to conduct an offensive in this direction. You must stop them!
+
+Your order is to:
+	Drive the enemy out from the occupied settlements.
+[Mission1.Success]
+Task successfully accomplished.
+[Mission1.Failed]
+Task failed.
+[Submission2.Objectives]
+Defeat the enemy forces and capture the village.
+[Submission2.Description]
+A detachment of enemy troops has established a position in the small settlement. They are preparing to launch a counter-offensive toward Mortain.
+
+Your order is to:
+	Drive the enemy away from their positions and seize the settlement.
+[Submission2.Success]
+Task successfully accomplished. The settlements are under our control.
+[Submission2.Failed]
+Task failed. Your forces have sustained heavy losses.
+[Submission3.Objectives]
+Defeat the enemy armored group.
+[Submission3.Description]
+The enemy has been reinforced with a small armored force.
+
+Your order is to:
+-	Attack and destroy all enemy armor units.
+[Submission3.Success]
+Task successfully accomplished.
+[Submission3.Failed]
+Task failed. Your forces have taken heavy losses.

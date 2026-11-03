@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Detenga el ataque enemigo.
+[Submission1.Description]
+Tras muchas largas batallas y semanas de combate, los americanos han lanzado una ofensiva en masa para destruir de una vez por todas a la Panzer Lehr. Ha luchado bien, comandante, y sus tropas son el orgullo de la patria, pero todo habrá sido en balde si falla en este crítico momento. Una vez más, está en inferioridad numérica, pero ése es nuestro sino y debe superarlo una vez más.
+ 
+ Sus órdenes:
+- Detenga el ataque enemigo.
+[Submission1.Success]
+¡Bien hecho, comandante! El ataque enemigo ha sido detenido y sus tropas vivirán para seguir luchando.
+[Submission1.Failed]
+¡Misión fallida! Su ejército ha sido derrotado y ha sido incapaz de detener a los americanos.
+[Submission2.Objectives]
+Rechace todo ataque enemigo.
+[Submission2.Description]
+Nuestros exploradores avanzados han detectado efectivos americanos que se acercan por el norte. Debemos impedir que sigan avanzando. ¡Deténgalos, comandante!
+ 
+Sus órdenes:
+- Rechace los ataques enemigos.
+[Submission2.Success]
+¡Bien hecho, comandante! Los ataques enemigos han sido rechazados.
+[Submission2.Failed]
+¡Misión fallida! Su ejército ha sido eliminado.

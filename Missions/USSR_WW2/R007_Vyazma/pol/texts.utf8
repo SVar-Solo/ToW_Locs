@@ -1,0 +1,33 @@
+﻿[Submission01.Objectives]
+Przebić się przez nieprzyjacielską obronę i wyzwolić wieś
+[Submission01.Description]
+Nadeszła decydująca chwila; musimy złamać kręgosłup faszystowskiej Grupy Armii Środek. Aby tego dokonać w tej części frontu zebrano całe rezerwy armii radzieckiej. Twoje wojska są istotnym elementem nacierającej armii. Otrzymasz wsparcie w postaci ciężkich czołgów KW-2. Dobrze je wykorzystaj i udowodnij, że jesteś wart zaufania jakim cię obdarzyliśmy.
+Twoje rozkazy:
+-	Przełamać nieprzyjacielską obronę.
+-	Wyzwolić wieś spod faszystowskiej okupacji.
+[Submission01.Success]
+Wróg ucieka! Wieś została wyzwolona! Rezultaty są imponujące. 
+[Submission01.Failed]
+Twoje natarcie zostało zdławione. Teraz zamiast nacierać, musimy szykować się na niemiecki kontratak.
+[Submission02.Objectives]
+Przełamać nieprzyjacielską obronę.
+[Submission02.Description]
+Piechota i działa przeciwpancerne chronią dróg do wsi. Musisz zniszczyć pierwszą linię nieprzyjacielskiej obrony.
+Twoje rozkazy:
+-	Przełamać nieprzyjacielską obronę.
+[Submission02.Success]
+Nieprzyjacielska obrona została przełamana.
+[Submission02.Failed]
+Twoje wojska zostały zniszczone. Nie spełniłeś pokładanych w tobie nadziei!
+[Submission03.Objectives]
+Wyzwolić wieś.
+[Submission03.Description]
+Przetrzebione siły nieprzyjaciela wycofały się do drugiej linii obrony, gdzie otrzymały posiłki. Musisz zniszczyć te jednostki i kontynuować natarcie.
+Twoje rozkazy:
+-	Wyzwolić wieś spod faszystowskiej okupacji.
+[Submission03.Success]
+Wieś została wyzwolona. To wielki sukces!!
+[Submission03.Failed]
+Bezproduktywnie poświęciłeś życie swoich żołnierzy.
+[StringTable.Reserv]
+Przybyły posiłki.

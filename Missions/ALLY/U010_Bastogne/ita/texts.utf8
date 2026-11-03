@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Libera la città di Houffalize e allontana il nemico dalla alture.
+[Mission.Description]
+Un cielo sereno è finalmente apparso dopo settimane di neve e tempo inclemente e adesso l'aviazione può provvedere al supporto aereo nell'area delle Ardenne. I carri armati di Patton hanno raggiunto la città di Bastogne e soccorso le truppe che vi erano asserragliate. Adesso che Bastogne è sicura, è tempo di attaccare i tedeschi e mettere fine alla Battaglia del Budello.
+
+I tuoi ordini sono:
+-	Attacca il nemico nella città di Houffalize e mettilo in fuga.
+- 	Continua la tua avanzata verso le alture e distruggi le difese nemiche.
+[Mission.Success]
+Hai vinto la battaglia e allontanato i tedeschi.
+[Mission.Failed]
+Hai perso la battaglia. Il nemico ha invece ottenuto un importante successo. 
+[Submission_1.Objectives]
+Cattura la città di Houffalize.
+[Submission_1.Description]
+Dopo l'attacco a sorpresa dei tedeschi all'inizio della Battaglia del Budello, le forze americane si sono trincerate dentro e intorno alla città di Bastogne, un importante incrocio di sette importanti strade. Elementi della 101ma divisione aviotrasportata hanno eroicamente resistito agli attacchi del nemico, malgrado l'inferiorità numerica e le pessime condizioni del tempo. Quando finalmente il cielo si è rischiarato, le forze di soccorso del generale Patton hanno raggiunto la città e sono iniziati i contrattacchi contro le forze tedesche.
+
+I tuoi ordini sono:
+-	Libera la città di Houffalize.
+[Submission_1.Success]
+La città è nostra!
+[Submission_1.Failed]
+Hai perso! Non sei riuscito a prendere la città.
+[Submission_2.Objectives]
+Prosegui l'iniziativa e cattura le alture a est della città di Houffalize.
+[Submission_2.Description]
+A est della città ci sono alcune importanti alture di importanza strategica. Quattro giorni fa, i tedeschi le hanno conquistate insieme alla città di Houffalize e ora stanno usando le nostre fortificazioni come difese.
+
+I tuoi ordini sono:
+-	Distruggi le difese nemiche sulle alture.
+[Submission_2.Success]
+Le alture sono nelle nostre mani!
+[Submission_2.Failed]
+Hai perso! Non sei riuscito a prendere le importanti colline intorno a Houffalize.
+[StringTable.reserv]
+I rinforzi sono arrivati in tuo aiuto.

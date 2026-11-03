@@ -1,0 +1,20 @@
+﻿[Submission1.Objectives]
+Wyprzyj wroga z zajmowanych pozycji.
+[Submission1.Description]
+Nazistowscy najeźdźcy zebrali siły na linii zbiornik Istra-miasto Istra i nie wycofają się bez walki. Musimy wyprzeć nieprzyjaciela z zajmowanych pozycji i skonsolidować wojska na tej linii.
+Twoje rozkazy:
+-	Wyprzeć nieprzyjaciela z zajmowanych pozycji.
+[Submission1.Success]
+Zadanie wykonane!
+[Submission1.Failed]
+Nie wykonałeś zadania!
+[Submission2.Objectives]
+Zniszcz nacierającego nieprzyjaciela.
+[Submission2.Description]
+Nazistowskie jednostki rozpoczęły kontratak, aby uniemożliwić naszym oddziałom przedostanie się na ten odcinek frontu. Musisz zaatakować i zniszczyć nacierającego nieprzyjaciela.
+Twoje rozkazy:
+-	Zniszcz atakujące jednostki niemieckie.
+[Submission2.Success]
+Zadanie wykonane! Wojska nieprzyjaciela zostały pokonane.
+[Submission2.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.

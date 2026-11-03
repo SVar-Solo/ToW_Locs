@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Detenha o avanço das tropas alemãs na área da estação ferroviária de Kryukovo.
+[Mission.Description]
+Os alemães concentraram uma grande força na área da estação ferroviária de Kryukovo. O plano do inimigo é romper os pontos mais fracos de nossa defesa e, num ataque localizado, tentar cercar e destruir quaisquer unidades soviéticas remanescentes. O QG do 16º Exército destinou unidades de tanques adicionais para ajudar a defender a área.
+
+Suas ordens:
+- Detenha as tropas alemãs que avançam sobre a estação ferroviária de Kryukovo.
+[Mission.Success]
+A ordem do QG foi cumprida! O avanço das tropas inimigas foi detido.
+[Mission.Failed]
+Você não cumpriu as ordens do QG! Suas tropas foram derrotadas.
+[Submission_1.Objectives]
+Repila todos os ataques inimigos.
+[Submission_1.Description]
+Você não tem forças suficientes sob seu comando para montar uma defesa em profundidade. Elementos da 316ª Divisão de Fuzileiros foram enviados a você como reforço, mas, mesmo com essas tropas adicionais, seria impossível estabelecer uma linha de defesa contínua e sólida. Você deve ser um comandante sábio e montar diversos pontos fortes para deter os ataques inimigos. Somente assim poderá resistir a esse ímpeto estando em desvantagem numérica.
+
+Suas ordens:
+- Repila todos os ataques inimigos.
+[Submission_1.Success]
+Os ataques inimigos foram repelidos! A ordem do QG foi cumprida!
+[Submission_1.Failed]
+Você fracassou em cumprir a ordem do QG! Suas tropas foram derrotadas.
+[StringTable.Tanks]
+Sua missão atual exige mais flexibilidade e coordenação. Por isso, unidades de tanques adicionais estão sendo colocadas sob o seu comando.

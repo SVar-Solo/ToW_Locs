@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+Ataque el puente, tómelo y consérvelo.
+[Submission_1.Description]
+El tiempo es de vital importancia, comandante. Debe atacar, tomar y conservar los puentes. Los alemanes no dejarán perder estos puntos estratégicos sin una dura lucha.
+
+Sus órdenes:
+-	Ataque y tome todos los puentes señalados en el mapa.
+-	Defiéndase de los contraataques que hagan los alemanes para recuperar los puentes.
+[Submission_1.Failed]
+Misión fallida. Ha sido incapaz de tomar los puentes indicados.
+[Submission_1.Success]
+¡Ha tomado los puentes indicados!
+[Mission.Objectives]
+Mantenga los puentes, empiece a avanzar sobre la población y expulse a los defensores enemigos.
+[Mission.Description]
+Tomar rápidamente los puentes de la retaguardia enemiga es una misión idónea para las tropas paracaidistas, rápidas y ligeras, que pueden pasar casi desapercibidas. Mantener esos puentes contra el intenso esfuerzo enemigo, especialmente de sus blindados pesados, es algo que hasta a las unidades de élite les cuesta lograr pero que aun así se les suele exigir.
+[Mission.Success]
+¡Victoria! Ha logrado mantener los puentes y se ha defendido de las acciones de ataque del enemigo para retomarlos.
+[Mission.Failed]
+Derrota. Pese a haber luchado como valientes, sus hombres no han logrado los objetivos.
+[Submission_2.Objectives]
+Ataque el pueblo al norte de su posición.
+[Submission_2.Description]
+Miembros de la resistencia del lugar nos han contado que al norte de los puentes hay un pequeño pueblo ocupado por el enemigo que alberga un puesto y dotación del cuartel general alemán. No podemos dejar escapar esta oportunidad de romper su capacidad de mando y control.
+
+Sus órdenes:
+-	Ataque el pueblo.
+-	Capture o mate a la plana del cuartel general enemigo.
+[Submission_2.Success]
+¡Buen trabajo, la población ha caído!
+[Submission_2.Failed]
+Ha sido incapaz de tomar la población, y la plana mayor del enemigo ha escapado.
+[StringTable.tank_reserv]
+Varios tanques han atravesado las líneas enemigas y ahora se encuentran bajo su mando.
+[StringTable.inf_reserv]
+Un destacamento adicional de paracaidistas ha llegado en su ayuda.

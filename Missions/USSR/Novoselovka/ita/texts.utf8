@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Impedire al nemico di sfondare a Novoselovka.
+[Mission.Description]
+Difendere le posizioni a 500 m a sud di Novoselovka, il caposaldo anticarro nel villaggio stesso e la seconda linea al margine nordoccidentale del villaggio. Concentrare gli sforzi sul mantenimento del centro del villaggio. Impedire al nemico di penetrare a nord di Novoselovka.
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Le forze nemiche hanno occupato Novoselovka e ora avanzano verso nord.
+[Submission_1.Objectives]
+Tenere le posizioni fino all'arrivo dei rinforzi.
+[Submission_1.Success]
+Missione compiuta, l'avanzata nemica è arrestata.
+[Submission_1.Failed]
+Il nemico incalza l'avanzata; c'è il rischio che sfondi verso nord.
+[Submission_2.Objectives]
+Sconfiggere il nemico che avanza sulla parte nordoccidentale del villaggio.
+[Submission_2.Success]
+Lo sfondamento nemico è stato sconfitto.
+[Submission_2.Failed]
+Contrattacco respinto, il nemico incalza l'avanzata.
+[StringTable.Support]
+Un gruppo di carri armati e fanteria è ora ai vostri ordini.
+[StringTable.Infantry]
+Fanteria del 959o Reggimento fanteria
+[StringTable.Tanks]
+Carri armati del 3o Corpo meccanizzato
+[StringTable.Call_SPG]
+I semoventi d'artiglieria sono ora sotto il vostro controllo.
+
+[StringTable.SPG]
+Semoventi d'artiglieria
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

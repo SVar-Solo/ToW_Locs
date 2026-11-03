@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+El objetivo es liberar las localidades de Grentheville, Soliers y Four.
+[Mission.Description]
+Expulse al enemigo de las localidades indicadas.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Desaloje al enemigo de Grentheville.
+[Submission_1.Description]
+Destruya el punto fuerte enemigo.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1.Objectives]
+[Submission1.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission2.Objectives]
+[Submission2.Description]
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Capture la aldea de Soliers.
+[Submission_2.Description]
+Expulse al enemigo de Soliers.
+[Submission_3.Objectives]
+Libere Four.
+[Submission_3.Description]
+Elimine al enemigo que guarnece Four.
+[Submission_2.Success]
+Tarea cumplida.
+[Submission_2.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_1.Success]
+Tarea cumplida.
+[Submission_1.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_3.Success]
+Tarea cumplida.
+[Submission_3.Failed]
+No se ha logrado cumplir la tarea.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+No se ha logrado cumplir la tarea.
+[StringTable.Tanks]
+Fuerza de reserva disponible.

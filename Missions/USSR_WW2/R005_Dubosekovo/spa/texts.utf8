@@ -1,0 +1,50 @@
+﻿[Submission1.Objectives]
+Rechace el ataque enemigo proveniente del noroeste.
+[Submission1.Description]
+Según los informes de reconocimiento, un grupo de tropas enemigas se dirige hacia Dubosekovo. Allí se encuentra otra estación de ferrocarril estratégica. Debe defenderla a cualquier precio. El general Panfilov le ordena personalmente que aguante hasta el final.
+
+Sus órdenes:
+- 	Rechace el ataque enemigo proveniente del noroeste.
+[Submission1.Success]
+¡El ataque enemigo se ha detenido!
+[Submission1.Failed]
+Las tropas enemigas han roto las defensas y han tomado la estación.
+[Submission2.Objectives]
+Rechace el ataque enemigo proveniente del suroeste.
+[Submission2.Description]
+El primer intento de los alemanes de atravesar sus defensas ha fracasado. Ahora se preparan para un nuevo asalto: ya se oyen los motores de los tanques rugiendo en el suroeste. Reagrúpese y no les deje que le flanqueen desde esa dirección. ¡No hay retirada posible, tenemos detrás Moscú!
+
+Sus órdenes:
+- 	Rechace el ataque enemigo proveniente del suroeste.
+
+[Submission2.Success]
+¡Órdenes cumplidas! El ataque enemigo ha sido rechazado y se están retirando.
+[Submission2.Failed]
+¡Órdenes incumplidas! Han traspasado sus defensas.
+[Submission0.Objectives]
+Mantenga y defienda la estación de tren.
+[Submission0.Description]
+Las tropas enemigas avanzan rápidamente hacia el cruce de vías de Dubosekovo. El estado mayor ha decidido que la estación de tren es vital y le ordena que la defienda a cualquier precio.
+
+Sus órdenes son:
+- 	Mantenga y defienda la zona indicada.
+- 	Las tropas alemanas no pueden tomar la estación.
+[Submission0.Success]
+¡Órdenes cumplidas! Se ha rechazado el asalto alemán.
+[Submission0.Failed]
+¡Órdenes incumplidas! Las tropas alemanas han tomado la estación de Dubosekovo.
+[Submission3.Objectives]
+Contenga cualquier ataque enemigo contra la estación.
+[Submission3.Description]
+Los alemanes siguen su ofensiva contra la estación. La situación en otras partes del frente no es mejor: estamos en inferioridad numérica y la situación es desesperada. Debemos evitar que el enemigo tome la capital de nuestra Madre Patria.
+
+Sus órdenes:
+ - 	Contenga el ataque alemán contra la estación.
+[Submission3.Success]
+¡Órdenes cumplidas! ¡El ataque enemigo ha sido contenido!
+[Submission3.Failed]
+El enemigo ha roto su defensa y ha tomado la estación.
+[StringTable.Reserv]
+Han llegado refuerzos.
+[StringTable.Subtitle_01]
+Estación de Dubosekovo, 1941

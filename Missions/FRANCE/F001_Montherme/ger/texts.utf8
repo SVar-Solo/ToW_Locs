@@ -1,0 +1,94 @@
+﻿[Mission.Objectives]
+Stellen Sie die Verteidigungslinie wieder her.
+[Mission.Description]
+Am 14. Mai brachen deutsche Truppen bei Sedan durch. Die französischen Streitkräfte konnten den kombinierten Angriffen von Panzern und Jagdbombern in dieser neuen Art von Blitzkrieg nicht widerstehen. Belgische Einheiten ziehen sich auf Antwerpen zurück und bauen eine neue Verteidigungsstellung auf. Die englischen 1. und 2. Korps halten Stellungen von Wavre bis Louvain, wo unsere 3. Division unter dem Befehl von General Montgomery sich in einem harten Gefecht befindet. Die französische 7. Armee weicht auf der See zugewandten Flanke rasch zurück. Bei fast jedem Gefecht bisher waren die Stärke und Entschlossenheit der deutschen Angreifer unaufhaltbar. In der Gegend von Monterme haben die Deutschen mit zwei vorgeschobenen Panzerdivisionen die Maas überquert, und haben unsere Verteidigungsstellungen erobert. Es ist für uns von äusserster Wichtigkeit, die Verteidigungslinie in dieser Gegend neu aufzubauen. 
+   
+Ihre Befehle lauten:
+-	 Neutralisieren Sie den Feind in diesem Gebiet und stellen Sie unsere Verteidigungslinie wieder her
+-	 Verteidigen Sie die Bahnbrücke
+[Mission.Success]
+Befehl ausgeführt!
+
+Der Feind ist bei dem Versuch gescheitert durch unsere Verteidigungslinien in diesem Abschnitt zu brechen. Das haben wir gänzlich Ihnen zu verdanken, Kommendant. Gut gemacht! Aber die deutschen Truppen haben mit einer ganzen Armada aus schweren und leichten Panzern unsere Einheiten entlang der ganzen Frontlinie zerstreut, und nichts scheint den deutschen Angriff mehr für lange aufhalten zu können! Es liegt noch viel Arbeit vor Ihnen.
+[Mission.Failed]
+Sie sind gescheitert!
+
+Deutsche Einheiten haben mit schweren und leichten Panzern unsere Truppen auf der ganzen Front zerstreut. Die Deutschen rücken mit ungeahnter Geschwindigkeit vor, so schnell wie noch nie zuvor in der Geschichte des Krieges! Sie waren in fast jedem Gefecht einfach unaufhaltbar. 
+[SubMission_01_01.Objectives]
+Vertreiben und zerstören Sie die feindlichen Sturmtruppen bei der Brücke.
+[SubMission_01_01.Description]
+Deutsche Sturmtruppen sind in der Gegend eingetroffen. Sie haben eine Zugbrücke über die Maas erobert. Es ist wahrscheinlich, dass der Feind die Brücke dazu benutzen wird, unseren Einheiten in die Flanke oder den Rücken zu fallen. Sie müssen die Brücke zurückerobern!
+
+Ihre Befehle:
+-	 Finden und zerstören Sie die deutschen Sturmtruppen
+-	 Nehmen Sie die Brücke wieder ein
+[SubMission_01_01.Success]
+Befehl erfolgreich ausgeführt!
+[SubMission_01_01.Failed]
+Misson gescheitert!
+[Submission_01_02.Objectives]
+Finden und zerstören Sie die feindlichen Sturmtruppen bei der Zugbrücke.
+[Submission_01_02.Description]
+Deutsche Sturmtruppen sind in der Gegend eingetroffen. Sie haben eine Zugbrücke über die Maas erobert. Laut unserer Aufklärung bewegt sich eine kleine Gruppe feindlicher Einheiten auf die Brücke zu und muss aufgehalten werden.
+
+Befehle:
+-	 Zerstören Sie die feindlichen Sturmtruppen
+-	 Erlangen Sie die Kontrolle über die Brücke und verteidigen Sie sie
+[Submission_01_02.Success]
+Befehl erfolgreich ausgeführt.
+[Submission_01_02.Failed]
+Sie sind gescheitert!
+[Submission_02_01.Objectives]
+Verteiben Sie den Feind
+[Submission_02_01.Description]
+Unsere Truppen konnten den koordinierten Angriffen der deutschen Panzer und Jagdbomber nicht widerstehen und haben schwere Verluste erlitten. Wir haben es nicht nur nicht geschafft unsere Verteidigungslinien wieder aufzubauen, sondern die Deutschen Sturmeinheiten haben es sogar geschafft, eine wichtige Zugbrücke in der Gegend zu erobern. Dadurch kann der Feind uns in die Flanke fallen, und unsere rückwärtigen Gebiete sind in Gefahr weiterer Angriffe.
+ 
+Ihre Befehle lauten:
+-	 Bauen Sie unsere Verteidigungsstellung auf
+-	 Finden und zerstören Sie alle Feindeinheiten in Ihrem Sektor
+[Submission_02_01.Success]
+Befehl ausgeführt! Gute Arbeit!
+[Submission_02_01.Failed]
+Misson gescheitert!
+[Submission_02_02.Objectives]
+Finden und zerstören Sie alle Feindeinheiten, denen Sie begegnen
+[Submission_02_02.Description]
+Unsere Truppen konnten eine neue Verteidigungslinie aufbauen und haben die deutschen Sturmtruppen vertrieben. Laut unseren Aufklärern versucht der Feind jetzt unsere Linien von zwei Seiten gleichzeitig anzugreifen. Rechnen Sie mit Angriffen sowohl von Monterme als auch aus der Richtung der Mass Brücke.   
+
+Ihre Befehle lauten:
+-	 Halten Sie Ihre Verteidigungsstellung
+-	 Eliminieren Sie alle angreifenden Feindeinheiten
+[Submission_02_02.Success]
+Befehle ausgeführt!
+[Submission_02_02.Failed]
+Sie sind gescheitert!
+[Submission_02_03.Objectives]
+Verteiben Sie den Feind
+[Submission_02_03.Description]
+Unsere Einheiten haben es geschafft eine Verteidigungslinie wieder auf die Beine zu stellen, aber eine deutsche Kommandoeinheit ist bei der Zugbrücke gelandet und hat sie erfolgreich unter ihre Kontrolle gebracht. Dadurch könnte der Feind uns in den Rücken oder die Flanke fallen, was unsere Truppen in eine sehr gefährliche Situation bringt. Laut unseren Aufklärern versucht der Feind jetzt unsere Linien von zwei Seiten gleichzeitig anzugreifen. Wir rechnen mit Angriffen aus Richtung von Monterme als auch von der Brücke über die Maas. Der Feind benutzt kombinierte Aktionen von Panzern und Jagdbombern.      
+
+Ihre Befehle lauten:
+-	 Richten Sie eine Verteidigungsstellung ein 
+-	 Neutralisieren Sie alle Feindeinheiten 
+[Submission_02_03.Success]
+Befehle ausgeführt!
+[Submission_02_03.Failed]
+Befehle nicht ausgeführt
+[Submission_02_04.Objectives]
+Verteiben Sie den Feind.
+[Submission_02_04.Description]
+Unsere Truppen können den koordinierten Angriffen von Panzern und Jagdbombern einfach nicht widerstehen und haben an allen Abschnitten empfindliche Verluste einstecken müssen. Aber wir haben es wenigstens geschafft, die deutschen Sturmtruppen zu vertreiben, die bei der Zugbrücke gelandet waren. Laut unseren Aufklärern versucht der Feind jetzt unsere Linien von zwei Seiten gleichzeitig anzugreifen. Wir rechnen mit Angriffen aus Richtung von Monterme als auch von der Brücke über die Maas. 
+
+Ihre Befehle:
+-	 Richten Sie eine Verteidigungsstellung ein 
+-	 Neutralisieren Sie die Feindeinheiten, die aus mehreren Richtung angreifen 
+[Submission_02_04.Success]
+Befehle ausgeführt.
+[Submission_02_04.Failed]
+Befehle nicht ausgeführt.
+[StringTable.Fr_Support]
+Verstärkungen sind eingetroffen!
+[StringTable.Support]
+Verstärkungen sind eingetroffen!
+[StringTable.Subtitle_01]
+France. Mai 1940

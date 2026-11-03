@@ -1,0 +1,35 @@
+﻿[StringTable.1]
+Den feindlichen Angriff abwehren.
+Taktik des Feindes:
+Schwere Panzer umgehen Ihre Stellungen und gelangen in den Rücken, um Ihre Artillerie zu vernichten. Infanterie greift die Gräben an. Leichte Panzer decken den Vormarsch der Infanterie.
+Ihre Taktik: Ihre Soldaten müssen ihre Stellung halten. Setzen Sie Geschütze und Soldaten mit Panzerbüchsen PTRD ein, um die schweren Panzer des Feindes bewegungsunfähig zu machen und dann zu vernichten, danach die leichten Panzer des Feindes. Setzen Sie Infanterie ein, um die auf die Stellungen vorrückende feindliche Infanterie zu vernichten.
+
+[StringTable.2]
+Den feindlichen Angriff abwehren.
+Taktik des Feindes:
+Infanterie greift die Gräben an, danach gehen Panzer zum Angriff über und decken die Infanterie mit Feuer.
+Ihre Taktik:
+Wählen Sie für die Geschütze die Sprenggranate und vernichten Sie gemeinsam mit der Infanterie die vorrückende feindliche Infanterie. Sobald die feindlichen Panzer zum Angriff übergehen, vernichten Sie sie mit gezieltem Geschützfeuer.
+
+[Submission1.Objectives]
+Die Verteidigung halten und feindliche Angriffe abwehren.
+
+[Submission1.Description]
+Deutsche Truppen rücken in diesem Frontabschnitt vor, um die Verteidigungsstellungen unserer Armee zu zerstören. Die Stawka hält es für notwendig, den Vormarsch der feindlichen Truppen in diesem Raum aufzuhalten.
+
+Befehl erhalten:
+- die Verteidigung im angegebenen Raum halten;
+- die deutschen Angriffe abwehren.
+
+[Submission1.Success]
+Befehle ausgeführt! Der feindliche Vormarsch in diesem Frontabschnitt wurde gestoppt! Sie sind des Dienstgrades eines russischen Offiziers würdig!
+
+[Submission1.Failed]
+Befehle nicht ausgeführt! Der Feind hat die Verteidigung in diesem Frontabschnitt durchbrochen!
+
+[StringTable.Win]
+Auftrag erfüllt!
+
+[StringTable.Disp]
+Aufstellungsmodus:
+Im hervorgehobenen Bereich können Sie Ihre Truppen (Infanterie, Artillerie, Panzer, Maschinengewehre usw.) verschieben – sowohl einzeln als auch in Gruppen. Um sie in die gewünschte Richtung auszurichten, ohne die Position zu ändern, wählen Sie die Truppen aus und klicken Sie mit der rechten Maustaste in die gewünschte Richtung. Prüfen Sie nach der Aufstellung der Truppen ihre Schusslinien visuell, indem Sie die Kamera näher an den Boden heranführen.

@@ -1,0 +1,43 @@
+﻿[Submission_2.Objectives]
+Znaleziono punkt obrony nieprzyjaciela. Masz zniszczyć wroga.
+[Submission_2.Description]
+Wywiad pomógł ci zlokalizować punkt nieprzyjacielskiej obrony w wiosce. Aby umożliwić 3. Armii USA dalsze natarcie, musisz zlikwidować nieprzyjaciela. 
+Twoje rozkazy:
+-	Zlikwidować nieprzyjacielskie wojska.
+[Submission_2.Success]
+Wieś jest w naszych rękach!
+[Submission_2.Failed]
+Zacięty opór Niemców okazał się silniejszy, niż oczekiwaliśmy! Przegraliśmy tę bitwę.
+[Submission_1.Objectives]
+Dokonaj rozpoznania wsi, wykorzystując wszelkie dostępne środki.
+[Submission_1.Description]
+Wojska niemieckie się wycofują, ale zostawiły ariergardę, którą musisz zaatakować. 
+Twoje rozkazy:
+-	Rozpoznać najbliższą wieś.
+[Submission_1.Success]
+Nasi zwiadowcy zakończyli rozpoznanie wsi.
+[Submission_1.Failed]
+Zniszczono jednostkę zwiadowczą.
+[Submission_3.Objectives]
+Kontynuuj natarcie wzdłuż drogi. Zniszcz ostatni niemiecki posterunek przed mostem na kanale.
+[Submission_3.Description]
+Twoje rozkazy:
+-	Kontynuuj natarcie w kierunku następnej wsi.
+-	Zaatakuj napotkanego nieprzyjaciela.
+[Submission_3.Success]
+Ostatnia przeszkoda na drodze do Brukseli została zlikwidowana!
+[Submission_3.Failed]
+Przegrałeś. Przez tę porażkę opóźni się natarcie całej 3. Armii.
+[Mission.Objectives]
+Zniszcz stanowiska niemieckiej obrony.
+[Mission.Description]
+Po alianckim lądowaniu w Normandii wojska niemieckie szybko się cofały, ale część oddziałów stawiała zaciekły opór. Niemcy tworzyli punkty obronne niemal w każdej wiosce, zamieniając je w fortece. Choć Rommelowi ostatecznie nie udało się ustanowić ufortyfikowanych linii obronnych z powodu braku czasu i środków, niemieccy żołnierze walczyli zaciekle.
+Planowany przebieg operacji Eisenhowera i Montgomery’ego był wielokrotnie zmieniany. 
+Twoje rozkazy:
+-	Zniszczyć niemiecką obronę.
+[Mission.Success]
+Zwyciężyłeś i wypchnąłeś Niemców z pozycji obronnych.
+[Mission.Failed]
+Przegrałeś. Niemcy wciąż zajmują kluczowe pozycje obronne w tym rejonie.
+[StringTable.reserv]
+Przybyły posiłki.

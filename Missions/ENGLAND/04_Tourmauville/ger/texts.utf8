@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Befreien Sie das Dorf Tourmauville, sichern Sie die Übergänge des Flusses Odon und säubern Sie beide Ufer von feindlichen Truppen.
+[Mission.Description]
+Bei dem Versuch unseren Vorstoß aufzuhalten, ist der Feind beim Odon-Übergang vor uns in die Verteidigungsstellung gegangen. Wir müssen die Übergänge sichern und alle feindlichen Truppen vernichten.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Die Brücke in der Nähe von Tourmauville.
+[Submission_1.Description]
+Eine strategisch wichtige Brücke über den Odon befindet sich südlich von Tourmauville.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Eine weitere Brücke befindet sich weiter südlich.
+[Submission_2.Description]
+Es gibt eine weitere strategisch wichtige Brücke. Dadurch sollten wir in der Lage sein, den Feind zu umgehen und einen Rückenangriff auf die Verteidigung von Tourmauville zu starten.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Befreien Sie Tourmauville.
+[Submission_3.Description]
+Der Feind hat seine Stellungen in Tourmauville verstärkt und die Kontrolle über den Flussübergang und andere Zugangspunkte übernommen. Wir müssen den Feind aus dem Dorf vertreiben.
+[Submission_4.Objectives]
+Die Straßenkreuzungen.
+[Submission_4.Description]
+Die Straßenkreuzungen und die Panther.
+[Submission_1.Success]
+Mission erfüllt. Die Straßenkreuzung von Tourmauville wurde gesichert.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_2.Success]
+Aufgabe erfüllt. Brücke gesichert.
+[Submission_2.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_3.Success]
+Aufgabe erfüllt. Tourmauville wurde erobert.
+[Submission_3.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Aufgabe wurde nicht erfüllt.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

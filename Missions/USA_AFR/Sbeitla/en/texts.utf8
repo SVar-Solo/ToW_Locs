@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Stop the attack on Sbeitla
+[Mission.Description]
+Lieutenant Colonel Waters! Germans are advancing on Sbeitla. You must blunt their attack and hold the objective, a possible staging area for an attack on the village.
+[Mission.Success]
+The order has been carried out! The enemy couldn't capture a staging are for their attack on Sbeitla.
+[Mission.Failed]
+Our troops have been defeated and the Germans are preparing an offensive on Sbeitla.
+[Submission1.Objectives]
+Hold the line
+[Submission1.Description]
+Hold the line! The enemy must not capture this staging area!
+[Submission1.Success]
+The enemy has been defeated and is fleeing!
+[Submission1.Failed]
+The enemy has crushed the defenses and is preparing an offensive on Sbeitla!
+[StringTable.Reinf]
+Colonel Waters! Reinforcements are on the way. Hold tight!
+[StringTable.Woters]
+Reinforcements have arrived.
+[Submission2.Objectives]
+Secure the point
+[Submission2.Description]
+The Germans are trying to capture the radio point. You must attack the enemy and secure the point.
+[Submission2.Success]
+The enemy has failed!
+[Submission2.Failed]
+The enemy has captured the radio point!
+[Submission3.Objectives]
+Re-establish radio contact
+[Submission3.Description]
+Eliminate the enemy securing the height and re-establish radio contact!
+[Submission3.Success]
+The enemy has been eliminated! Radio contact has been re-established!
+[Submission3.Failed]
+The enemy has repelled our attack!
+[StringTable.Enemy]
+Soldiers! Action!
+[StringTable.Enemy2]
+Enemy on the left flank!
+[StringTable.Enemy1_1]
+Enemy on the right flank!
+[StringTable.Enemy1_2]
+Enemy is trying to get to the rear!
+[StringTable.tank]
+Tanks
+[StringTable.human]
+Infantry
+[StringTable.tank_human]
+Tanks and Infantry

@@ -1,0 +1,50 @@
+﻿[Submission_1.Objectives]
+Respingete l’attacco
+[Submission_1.Description]
+Prendete posizioni difensive e preparatevi a respingere un attacco.
+[Submission_01.Success]
+Missione compiuta.
+[Submission_01.Failed]
+Missione fallita.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Tenete le posizioni occupate
+[Mission.Description]
+Prendete posizioni difensive di fronte alle truppe nemiche in avanzata, respingete i loro attacchi e non cedete terreno.
+[NewSubmission.Success]
+Missione compiuta.
+[NewSubmission.Failed]
+Missione fallita.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Success]
+Il primo attacco è stato respinto.
+[Submission_1.Failed]
+Il nemico ha sfondato la vostra difesa.
+[Submission_2.Objectives]
+Preparatevi a respingere il prossimo attacco
+[Submission_2.Description]
+Il nemico si sta riorganizzando e presto tenterà di nuovo di sfondare la vostra difesa. Preparatevi a respingere il suo prossimo attacco e schierate i rinforzi in arrivo.
+[Submission_3.Objectives]
+Ripulite l’abitato
+[Submission_3.Description]
+Ripulite dal nemico questo piccolo abitato per evitare un attacco di aggiramento alle nostre difese.
+[Submission_4.Objectives]
+Difendete le posizioni occupate
+[Submission_4.Description]
+Gli americani cercano ancora una volta di riprendersi: preparatevi a difendere le vostre posizioni nel villaggio conquistato.
+[Submission_2.Success]
+Missione compiuta.
+[Submission_2.Failed]
+Missione fallita.
+[Submission_3.Success]
+Missione compiuta.
+[Submission_3.Failed]
+Missione fallita.
+[Submission_4.Success]
+Missione compiuta.
+[Submission_4.Failed]
+Missione fallita.

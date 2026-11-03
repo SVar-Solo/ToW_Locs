@@ -1,0 +1,68 @@
+﻿[Mission.Objectives]
+The British are trying to reach Caen and you must stop them.
+[Mission.Description]
+British troops, under the command of General Montgomery, intend to seize Villers-Bocage and then push on to Caen. At your disposal are several tanks from the Schwere SS-Panzer-Abteilung 101, including tank ace Michael Wittmann. Strike fast and strike hard against the British armored column heading your way. 
+
+Your orders:
+-	 Stop the British armored column. Destroy as many enemy tanks and equipment as possible.  
+[Mission.Success]
+Mission accomplished! Your actions today will be remembered for years to come.
+[Mission.Failed]
+Mission failed! An opportunity to inflict serious damage on the British forces was lost.
+[Submission_1.Objectives]
+Attack the enemy armored column.
+[Submission_1.Description]
+Elements of the British 7th Armored Division are on road march, heading toward the small town of Villers-Bocage, on their way to Caen. 
+
+Your orders: 
+-	Use surprise, speed and your superior tanks to inflict the maximum damage on the British forces.	 
+[Submission_1.Success]
+You have decimated the British forces.
+[Submission_1.Failed]
+Your attack has failed.
+[Submission_2.Objectives]
+Keep Michael Wittmann and his tank crew alive if you can.
+[Submission_2.Description]
+Tank ace Michael Wittmann and his crew are extremely valuable as a fighting force and a symbol. You must keep him and his crew alive at all costs!
+[Submission_2.Success]
+Michael Wittmann has survived the battle and will no doubt continue to harass the allied forces in battles to come.
+[Submission_2.Failed]
+Michael Wittmann has been killed. 
+[Submission_3.Objectives]
+Continue your attack against the remaining British forces.
+[Submission_3.Description]
+You have struck fear and destruction upon the British forces. Continue to engage the remaining British forces.
+
+Your orders: 
+-	 British forces appear to be reforming around a small farm in this area, find and destroy them.
+[Submission_3.Success]
+Your attack on the farm has been successful.
+[Submission_3.Failed]
+Your attack against the British forces around the farm has failed.
+[Submission_4.Objectives]
+Capture a key strategic location near a small farm.
+[Submission_4.Description]
+The enemy has been detected around a farm near Villers-Bocage. This farm lies near a strategic crossroads and must be taken.
+
+Your orders: 
+-	 Destroy the British units around the farm.
+-	 Hold the farm against any British counter-attack.
+[Submission_4.Success]
+You have captured the farm and routed the British units.
+[Submission_4.Failed]
+Your attack on the farm has failed.
+[Submission_5.Objectives]
+Resist all attempts by the British to retake the farm.
+[Submission_5.Description]
+You have surprised the British troops and dealt them substantial damage but they are beginning to reform and regroup and are determined to take the town of Villers-Bocage. You must fend off this counter-attack.
+
+Your orders:
+-	 Beat off the enemy counter-attack.
+[Submission_5.Success]
+You’ve won! Your actions today will go down forever in the annals of war.
+[Submission_5.Failed]
+You’ve been defeated and the British push toward Caen will continue unimpeded.
+[StringTable.inf_reserv]
+An infantry squad has been placed at your disposal.
+[StringTable.tank_reserv]
+You have issued additional tanks from our reserves.

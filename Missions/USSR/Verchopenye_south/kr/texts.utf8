@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+베르호페니예 마을 남부의 방어선을 사수하라.
+[Mission.Description]
+대전차포 포대, 대전차 소총 부대, 전차 몇 대와 협력하여 베르호페니예 남동쪽의 거점을 확보하라. 페나강 다리 일대의 진지를 사수하는 데 특별한 우선순위를 두어야 한다. 적이 강을 건너지 못하게 막아라.
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+적이 페나강 서안에 교두보를 구축했고 아군은 후퇴한다.
+[Submission_1.Objectives]
+버려진 진지를 점령하라. 강 건너 철수를 엄호하라. 
+[Submission_1.Success]
+주력이 강변을 따라 방어 태세에 성공적으로 들어갔다.
+[Submission_1.Failed]
+엄호조가 격파되었다. 주력이 위험에 처했다!
+[Submission_2.Objectives]
+도하 지점 일대의 진지를 점령하라. 적이 반대편 강가로 이동하지 못하게 막아라.
+[Submission_2.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Submission_2.Failed]
+적이 다리를 점령하고 아군 강변에 교두보를 구축하고 있다!
+[Submission_3.Objectives]
+페나강 반대편으로 철수하라. 적이 강을 건너지 못하게 막아라. 
+[Submission_3.Success]
+적이 수로 장애물 앞에서 저지되었다.
+[Submission_3.Failed]
+적이 강을 건너 아군을 베르호페니예 마을 남부에서 밀어냈다.
+[StringTable.Add_to_plArmy]
+페나강변 진지의 모든 부대가 이제 지휘관의 통제하에 있다.
+[StringTable.Rus_Tanks]
+전차 집단이 예비대에서 파견되었다.
+[StringTable.infantry]
+보병 부대가 예비대에서 와서 지휘관의 통제하에 들어왔다.
+
+[StringTable.inf]
+보병
+[StringTable.Tanks]
+제6전차군단의 전차
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

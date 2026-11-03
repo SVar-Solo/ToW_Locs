@@ -1,0 +1,188 @@
+﻿[Battle Group 6.Name]
+X Korpus
+
+[Battle Group 2.Name]
+21. Samodz. Pułk Piech. Morskiej
+
+[USA.Epilogue]
+Siły ONZ i Korei Południowej zjednoczyły się we wspólnym celu – zniszczenia sił północnokoreańskich i skorygowania granic. Były zdecydowane odepchnąć Koreańczyków z Północy za północne granice Koreańskiej Republiki Ludowo-Demokratycznej i im się to udało. Był to zdumiewający zwrot, który mógł zostać osiągnięty jedynie dzięki pełnej współpracy wojsk lądowych, lotnictwa i marynarki, które wyprowadziły skoordynowane, równoczesne uderzenia na front, skrzydła i tyły wroga, przy wsparciu licznych jednostek lotniczych i artyleryjskich. Przewaga w ludziach i sprzęcie wojskowym dobrze im posłużyła, gdyż wróg nie miał obrony przeciwlotniczej, artylerii ani czołgów.
+
+[Battle Group 1.Name]
+
+
+[USA.FailureEpilogue]
+Połączona ofensywa wojsk amerykańskich i południowokoreańskich w Korei ujawniła szereg niedociągnięć w ich formacjach i jednostkach. Siły Dowództwa ONZ okazały się niezdolne do prowadzenia dostatecznie szybkiej ofensywy, a walki ujawniły niedostateczne przygotowanie posiłków. Nie były wyszkolone do walki w nocy ani do wykorzystywania na swoją korzyść górzystego terenu Korei. Stosowały ugrupowania nadające się głównie na tereny równinne, atakowały na całej szerokości frontu i ograniczały działania bojowe do godzin dziennych. Nie próbowały oskrzydlać wroga ani wykorzystać gór na swoją korzyść. Ich piechota mogła walczyć tylko wtedy, gdy wspierały ją artyleria, czołgi i lotnictwo. Powszechne korzystanie z dróg, słabo osłonięte skrzydła i tyły, a także ogólna obawa przed okrążeniem – wszystkie te słabości trapiły wojska Dowództwa ONZ.
+
+[Battle Group 2.FullName]
+21. Samodzielny Pułk Piechoty Morskiej
+
+[Battle Group 6.FullName]
+Jednostki X Korpusu
+
+[Battle Group 15.Name]
+15. Samodz. Bat. Piech.
+
+[Battle Group 15.FullName]
+15. Samodzielny Batalion Piechoty
+
+[Battle Group 16.Name]
+10. Dyw. Piech.
+
+[Battle Group 16.FullName]
+Jednostki 10. Dywizji Piechoty
+
+[Battle Group 17.Name]
+I Korpus
+
+[Battle Group 17.FullName]
+Jednostki I Korpusu
+
+[Battle Group 22.Name]
+II Korpus
+
+[Battle Group 19.Name]
+1. Bryg. Czołg.
+
+[Battle Group 21.Name]
+18. Bryg. Piech.
+
+[Battle Group 20.Name]
+70. Samodz. Pułk Piech.
+
+[Battle Group 22.FullName]
+Jednostki II Korpusu
+
+[Battle Group 20.FullName]
+70. Samodzielny Pułk Piechoty
+
+[Battle Group 21.FullName]
+18. Brygada Piechoty
+
+[Battle Group 19.FullName]
+1. Brygada Czołgów
+
+[Battle Group 23.Name]
+17. Dyw. Zmech.
+
+[Battle Group 23.FullName]
+17. Dywizja Zmechanizowana
+
+[USA.FullName]
+Kontrofensywa
+
+[USA.Description]
+Dzięki przewadze Dowództwa ONZ w wsparciu lotniczym i artyleryjskim wojskom północnokoreańskim nie udało się przełamać Obwodu Pusan i zepchnąć jego obrońców do morza. Przeciwnie, potężne kontrnatarcie armii amerykańskiej i południowokoreańskiej zmusiło Koreę Północną do porzucenia wielu kluczowych pozycji. W połowie września 1950 roku Koreańczycy z Północy byli już całkowicie w defensywie.
+Po zabezpieczeniu rejonu Pusan siły południowokoreańskie rozpoczęły planowanie kontrofensywy. Miały zniszczyć wojska północnokoreańskie i zająć całą Koreę.
+Plan przewidywał dwa uderzenia: pierwsze wojsk lądowych z rejonu Pusan, drugie wojsk desantowych z Inczon. Razem miały okrążyć i zniszczyć wojska północnokoreańskie w Korei Południowej.
+Na głównym kierunku natarcia Dowództwo ONZ rozmieściło sześć dywizji piechoty, jedną brygadę piechoty, trzy samodzielne dywizje artylerii i trzy samodzielne bataliony pancerne. Wsparcie lotnicze miało zapewnić aż 1100 samolotów szturmowych.
+Desant w Inczon miał zabezpieczyć amerykański X Korpus, w skład którego wchodziły 1. Dywizja Piechoty Morskiej (USA), 7. Dywizja Piechoty (USA), 41. Commando (Wielka Brytania) i 17. Pułk Piechoty (Republika Korei). Wsparcie miało zapewnić 250 okrętów i około 500 samolotów.
+Kontrofensywa rozpoczęła się 15 września 1950 roku.
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeongbuk-do
+
+[HAMGEN_PUKTO.Description]
+Hamgyeongbuk-do to najdalej na północ wysunięta prowincja Korei Północnej. Na północy graniczy z Chinami, a jej długie wschodnie wybrzeże oblewa Morze Japońskie. W prowincji znajduje się główny węzeł kolejowy Korei Północnej, obsługujący transporty zarówno z Chin, jak i ze Związku Radzieckiego. Teren jest w większości równinny, ale na zachodzie znajduje się duże pasmo górskie.
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+Prowincja Ryanggang-do graniczy na północy z Chinami. Zajmowana głównie przez góry poprzecinane wąskimi przełęczami, jest prawie nieprzejezdna. Mimo to Ryanggang-do jest bardzo ważnym obszarem strategicznym, gdyż biegnie tędy główna linia kolejowa ze Związku Radzieckiego, zaopatrująca wojska północnokoreańskie w sprzęt wojskowy i uzbrojenie.
+
+[HAMGEN_NAMDO.FullName]
+Hwanghaenam-do
+
+[HAMGEN_NAMDO.Description]
+Choć na zachodzie górzysta, prowincja Hwanghaenam-do ku wschodowi, w stronę wybrzeża Morza Japońskiego, przechodzi w wyśmienite tereny rolnicze. Ta żyzna ziemia dostarcza ryżu, pszenicy i rzepaku, dzięki czemu prowincja jest głównym ośrodkiem rolniczym Korei Północnej. Zdobycie Hwanghaenam-do zapewniłoby doskonałe oparcie do dalszego prowadzenia walk na północy.
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+Chagang-do, graniczące na północy z Chinami, jest jedną z najbardziej rozwiniętych prowincji przemysłowych Korei Północnej. Jej główny węzeł kolejowy obsługuje cały ładunek idący z Chin i Związku Radzieckiego, a w prowincji znajdują się główne bazy zaopatrzeniowe wojsk północnokoreańskich. Chagang-do nie ma dostępu do morza.
+
+[PHENAN_PUKTO.FullName]
+Pyeonganbuk-do
+
+[PHENAN_PUKTO.Description]
+Północna prowincja Pyeonganbuk-do graniczy z Chinami. Jej stolica, Sineuiju, jest ważnym węzłem transportowym, a port Yongampo to jeden z głównych ośrodków rybołówstwa na Morzu Żółtym. Teren jest w większości górzysty, a w rejonie wybrzeża dominują doliny.
+
+[PHENAN_NAMDO.FullName]
+Pyeongannam-do
+
+[PHENAN_NAMDO.Description]
+Północnokoreańska prowincja Pyeongannam-do, której stolicą jest Pyeongseong, graniczy na północy z prowincjami Pyeonganbuk-do i Chagang-do, na wschodzie i południowym wschodzie z Hwanghaenam-do i Gangwon-do, a na południu z Hwanghaebuk-do i Pjongjangiem. Na zachodzie graniczy z Morzem Żółtym. Prowincja ma znaczenie strategiczne jako rejon koncentracji do przerzutu wojsk i zaopatrzenia drogą morską.
+
+[PHENYAN.FullName]
+Pjongjang
+
+[PHENYAN.Description]
+Pjongjang – nazwa zarówno stolicy, jak i otaczającej ją prowincji – jest głównym ośrodkiem gospodarczym Korei Północnej oraz ważnym bastionem przemysłowym. Miasto Pjongjang leży na równinie otoczonej górami. W 1946 roku wydzielono je z Pyeongannam-do jako samodzielną prowincję. Miasto i okolice są silnie ufortyfikowane i dobrze bronione.
+
+[KANWONDO_PUKTO.FullName]
+Gangwondo-pukto
+
+[KANWONDO_PUKTO.Description]
+Północnokoreańska prowincja Gangwondo-pukto leży w regionie przygranicznym. Jest to w większości wyżyna, ale teren wzdłuż wybrzeża nadaje się do transportu pojazdami.
+
+[HVANHE_PUKTO.FullName]
+Hwanghae-pukto
+
+[HVANHE_PUKTO.Description]
+Południowa granica prowincji Hwanghaebuk-do biegnie wzdłuż 38. równoleżnika. Siły wroga skoncentrowane są na południu. Prowincja ma krytyczne znaczenie strategiczne dla obrony Pjongjangu, stolicy Korei Północnej.
+
+[KANWONDO_NAMDO.FullName]
+Gangwondo-Namdo
+
+[KANWONDO_NAMDO.Description]
+Północna granica prowincji Gangwonnam-do biegnie wzdłuż 38. równoleżnika, który dzieli Półwysep Koreański na Koreę Północną i Południową. Ponieważ jest to kraina górska, prowincja nie ma silnych fortyfikacji, a górskie przełęcze są zdradliwe: nawet niewielkie siły obronne mogą powstrzymać przeważające siły atakujące. Małe wsie i klasztory zostały przekształcone w obronne twierdze, które bardzo trudno zdobyć. Wolne pozostały jedynie skaliste ścieżki, nieprzejezdne dla pojazdów.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Jako miejsce położenia Seulu, stolicy Korei Południowej, Gyeonggi-do jest prowincją o krytycznym znaczeniu strategicznym. Choć w większości równinna, jest usiana miejscowościami, z których wiele zostało ufortyfikowanych. Naturalnie sam Seul jest chroniony przez najbardziej doświadczone wojska Korei Południowej i otoczony silnymi fortyfikacjami. Północna granica prowincji biegnie wzdłuż 38. równoleżnika, który dzieli Koreę na Północną i Południową.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsangbuk-do
+
+[KENSAN_PUKTO.Description]
+Gyeongsangbuk-do zapewnia dostęp do wschodniego wybrzeża Półwyspu Koreańskiego. Kto kontroluje tę prowincję, może otrzymywać zaopatrzenie drogą morską, co jest znaczącą przewagą strategiczną. Gyeongsangbuk-do ma liczne górskie doliny, ale bliżej wschodniego wybrzeża góry się obniżają, a doliny poszerzają i spłaszczają. Dzięki temu teren jest bardzo dogodny do ataku, ale trudny do obrony.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheongbuk-do
+
+[CHUNCHON_PUKTO.Description]
+Chungcheongbuk-do to główny korytarz transportowy do Seulu, stolicy Korei Południowej. W prowincji skoncentrowano liczne bazy wojskowe i fortyfikacje. Przejęcie kontroli nad Chungcheongbuk-do dałoby znaczącą przewagę.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheongnam-do
+
+[CHUNCHON_NAMDO.Description]
+Znaczną część Chungcheongnam-do zajmują niemal nieprzebyte góry, ale istnieją pewne obszary podatne na atak, choć naturalnie są silnie bronione i ufortyfikowane. Wszystkie ośrodki zaludnione zostały przekształcone w punkty oporu, ale niektóre skaliste ścieżki są nieprzejezdne dla pojazdów. Czyni je to idealnymi dla małych oddziałów piechoty, które mogą manewrować ukradkiem i zaskakiwać wroga.
+
+[PUSAN.FullName]
+Pusan
+
+[PUSAN.Description]
+Obwód Pusan to ostatnia pozycja wojsk południowokoreańskich. Ten niezwykle ważny obszar strategiczny służy jako przyczółek dla sił amerykańskich i może poszczycić się licznymi dobrze bronionymi punktami oporu. Zdobycie Obwodu Pusan oraz portów Pusan, Ulsan i Pohang uniemożliwiłoby siłom Dowództwa Narodów Zjednoczonych sprowadzanie posiłków i zaopatrzenia.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsangnam-do
+
+[KENSAN_NAMDO.Description]
+Prowincja Gyeongsangnam-do sąsiaduje z prowincjami Jeollabuk-do i Gyeongsangbuk-do. Zajmują ją głównie góry, a znajdują się w niej trzy parki narodowe: Gayasan, Deogyusan i Jirisan. Najwyższym szczytem jest góra Deogyusan (1614 metrów). Podobnie jak reszta Półwyspu Koreańskiego prowincja ma klimat monsunowy: lata ciepłe i wilgotne oraz zimy stosunkowo chłodne i suche. Średnia roczna temperatura wynosi 10,6 stopnia Celsjusza, a roczne opady 1395,2 mm (dane z 1993 roku). Większość opadów (850 mm) przypada na porę deszczową, trwającą trzy letnie miesiące.
+
+[CHOPLA_PUKTO.FullName]
+Jeollabuk-do
+
+[CHOPLA_PUKTO.Description]
+Jeollabuk-do leży na zachodnim wybrzeżu. Jego port ma kluczowe znaczenie dla przemieszczania ludzi i zaopatrzenia. Jednak poza obszarami przybrzeżnymi prowincja jest zajęta przez zdradliwe góry, więc nie ma w niej silnych fortyfikacji.
+
+[CHOPLA_NAMDO.FullName]
+Jeollanam-do
+
+[CHOPLA_NAMDO.Description]
+Jeollanam-do to najdalej na południe wysunięta prowincja Korei Południowej. Północny region zdominowany jest przez góry. Jednak ku południowym i przybrzeżnym regionom góry przechodzą w szerokie doliny. Pod względem znaczenia strategicznego południowa część prowincji jest ważna dla dostaw zaopatrzenia drogą morską, dzięki licznym dużym portom. Dowództwo wojskowe USA wykorzystuje to na swoją korzyść.
+

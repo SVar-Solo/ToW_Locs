@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+임무 실패.
+
+[Reinforcement.Group3[Reinforcement]]
+헬리콥터 및 보병
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+귀관의 전투단은 전선의 이 구역에서 방어하는 적을 제거해야 한다.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+지도에 표시된 구역의 모든 적 방어선을 공격하여 파괴하라.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+아군 선발 정찰대가 구역 중앙의 도로 교차로를 제압했다. 적이 이를 점령하려 할 가능성이 높다. 귀관의 전투단은 도로 교차로로 진격하여 정찰대를 지원해야 한다.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+구역 중앙의 도로 교차로를 점령하여 사수하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+적이 귀관의 전선 구역을 돌파하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+보병과 자주포로 구성된 아군 선발대가 적의 주요 수송로를 차단했다. 점령한 진지를 사수하고 적이 보급선을 복구하지 못하게 하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+구역 중앙의 도로 교차로를 점령하여 사수하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+아군 선발 정찰대가 구역 중앙의 도로 교차로를 제압했다. 적이 이를 점령하려 할 가능성이 높다. 귀관의 전투단은 도로 교차로로 진격하여 정찰대를 지원해야 한다.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+구역 중앙의 도로 교차로를 점령하여 사수하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+구역 중앙의 도로 교차로를 점령하여 사수하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+구역 중앙의 도로 교차로를 점령하여 사수하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+아군 선발 정찰대가 구역 중앙의 도로 교차로를 제압했다. 적이 이를 점령하려 할 가능성이 높다. 귀관의 전투단은 도로 교차로로 진격하여 정찰대를 지원해야 한다.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+아군 선발 정찰대가 구역 중앙의 도로 교차로를 제압했다. 적이 이를 점령하려 할 가능성이 높다. 귀관의 전투단은 도로 교차로로 진격하여 정찰대를 지원해야 한다.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+아군 선발 정찰대가 구역 중앙의 도로 교차로를 제압했다. 적이 이를 점령하려 할 가능성이 높다. 귀관의 전투단은 도로 교차로로 진격하여 정찰대를 지원해야 한다.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+임무 실패.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+장갑차량 및 보병
+

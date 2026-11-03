@@ -1,0 +1,49 @@
+﻿[Mission.Objectives]
+Mantenha a linha
+[Mission.Description]
+Mantenha a linha perto da estação ferroviária de Sidi N'Sir com as forças do 5º Batalhão do Regimento Real de Hampshire, apoiadas pela 155ª Bateria do 172º Regimento de Artilharia de Campanha.
+Pela manhã o inimigo lançou um novo ataque; devemos retardá-lo pelo máximo de tempo possível, infligindo o máximo de dano que pudermos.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission1.Objectives]
+Estabeleça contato com a bateria.
+[Submission1.Description]
+Somos apoiados pela bateria de artilharia de campanha. Há algum tempo, o contato com essa posição de tiro foi perdido. Devemos enviar nosso observador de artilharia ao posto de observação deles.
+[Submission1.Success]
+Missão cumprida. A bateria abrirá fogo contra os alvos detectados.
+[Submission1.Failed]
+O posto de observação foi destruído!
+[Submission2.Objectives]
+Mantenha-se até a chegada dos reforços.
+[Submission2.Description]
+Os ataques inimigos estão ficando mais ferozes. Devemos manter a linha a todo custo até a chegada dos reforços e infligir o máximo de dano ao inimigo. Destruir os tanques inimigos é vital. Sem o apoio de tanques, a infantaria deles será mais fácil de conter. 
+[Submission2.Failed]
+Missão fracassada.
+[Submission2.Success]
+Missão cumprida.
+[Submission3.Objectives]
+Recue para a retaguarda.
+[Submission3.Description]
+Apesar das baixas, o inimigo continua lançando novas forças ao campo e atacando nossas posições. Também sofremos perdas tangíveis, especialmente na artilharia, e não podemos mais deter os alemães. Felizmente, mantivemos a linha por tempo suficiente e a bateria se aproximou e se posicionou para o combate. Agora podemos recuar para a retaguarda, protegidos pelo fogo dela. Precisamos nos apressar, pois nossas forças aéreas logo reduzirão a estação a escombros.
+[Submission3.Success]
+Missão cumprida.
+[Submission3.Failed]
+Tendo perdido o controle de suas tropas por causa do pânico, você não conseguiu recuar em ordem para uma nova linha de defesa. Sua unidade foi atingida pela aviação aliada. Missão fracassada.
+[Submission4.Objectives]
+Mantenha-se até a chegada dos reforços
+[Submission4.Description]
+O comando está enviando outra bateria antitanque para o nosso setor. Devemos manter a linha até que ela chegue.
+[Submission4.Success]
+Missão cumprida. A artilharia chegou e se posicionou.
+[Submission4.Failed]
+Missão fracassada.
+[StringTable.mess1]
+Os alemães foram detidos e começaram a recuar. O ataque repentino deles fracassou; o próximo será muito mais feroz.
+[StringTable.mess2]
+Inimigo à vista! Aeronaves de assalto alemãs! Antiaéreas, ação!
+[StringTable.mess3]
+Não conseguimos manter a estação. O alto comando decidiu destruí-la para evitar que caia em mãos alemãs. Bombardeiros estão se aproximando; retirem as forças restantes o mais rápido possível para evitar serem atingidas pelas bombas amigas.
+[StringTable.mess4]
+A bateria foi destruída.

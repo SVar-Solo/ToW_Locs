@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+渡过河去，向北推进。
+[Mission.Description]
+ 巴黎于6月14日陷落，法国政府逃往波尔多。一些法军部队和守备部队仍在继续战斗。抵抗必须继续，只要还有最后一名士兵在战斗，军队就没有被击败！
+[Mission.Success]
+任务完成
+[Mission.Failed]
+任务失败
+[Submission_1.Objectives]
+通过桥梁到达河对岸。
+[Submission_1.Description]
+通过桥梁到达河对岸。
+[Submission_1.Success]
+任务完成
+[Submission_1.Failed]
+任务失败
+[Submission_2.Objectives]
+抵达北部地段。
+[Submission_2.Description]
+抵达北部地段。
+[Submission_2.Success]
+任务完成
+[Submission_2.Failed]
+任务失败

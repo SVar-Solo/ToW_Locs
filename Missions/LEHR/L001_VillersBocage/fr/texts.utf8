@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Défendre la zone indiquée.
+[Mission.Description]
+Vos unités, qui font partie de la division blindée d’élite Panzer-Lehr, sont en position au nord-est de Villers-Bocage. Dans la matinée du 13 juillet 1944, la 7th Armoured Division britannique a lancé une attaque pour capturer Villers-Bocage et contourner vos troupes. Les Britanniques pensent qu’une succession d’assauts sur votre flanc gauche nous obligera à engager nos réserves et leur permettra de l’emporter. Vous devez empêcher les Anglais de s’enfoncer dans notre dispositif car cela pourrait conduire à un encerclement et la destruction éventuelle de l’unité.
+ 
+Vos ordres :
+- empêcher l’ennemi d’avancer en profondeur dans notre périmètre défensif.
+[Mission.Success]
+Beau travail, commandant !
+[Mission.Failed]
+Vous avez échoué ! Vos unités ont été détruites !
+[Submission_1.Objectives]
+Repousser l’attaque ennemie.
+[Submission_1.Description]
+L’ennemi domine le ciel et peut frapper de plusieurs directions à la fois. Vos propres troupes sont dispersées et vous devez défendre un large secteur.
+ 
+Vos ordres :
+- établir des défenses suffisantes pour couvrir toutes les approches possibles.
+- réduire vos pertes au minimum.
+- repousser l’attaque ennemie. 
+[Submission_1.Success]
+Beau travail, commandant ! L’attaque ennemie a été repoussée.
+[Submission_1.Failed]
+Vous avez échoué ! Vos troupes ont été battues.
+[Submission_2.Objectives]
+Contre-attaquer l’ennemi en retraite.
+[Submission_2.Description]
+L’ennemi a subi de lourdes pertes et il bat en retraite. Utilisez vos réserves pour le poursuivre et le détruire !
+ 
+Vos ordres :
+- Contre-attaquer les forces ennemies qui retraitent.
+[Submission_2.Success]
+Beau travail, commandant ! Les forces ennemies ont été battues.
+[Submission_2.Failed]
+Vous avez échoué ! Vous avez été battu.
+[StringTable.tanks_reserv]
+Vous avez reçu en renfort des unités blindées de la réserve divisionnaire.

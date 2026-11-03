@@ -1,0 +1,36 @@
+﻿[Submission01.Objectives]
+Atraviese las defensas enemigas y libere el pueblo
+[Submission01.Description]
+Ha llegado la hora de la verdad: tenemos que romper la columna vertebral de la Agrupación de Ejércitos Central de los fascistas. Para ello, todas las reservas de tropas soviéticas han sido destinadas a este sector. Sus efectivos son un elemento importante de esta nueva ofensiva. Para ayudarle en su misión, se le han asignado tanques pesados. Utilícelos bien y justifique nuestra confianza en su habilidad.
+
+Sus órdenes:
+- 	Atraviese las defensas enemigas.
+- 	Libere el pueblo de atacantes fascistas.
+[Submission01.Success]
+¡El enemigo se retira! El pueblo ha sido liberado. Los resultados no podían ser más impresionantes.
+[Submission01.Failed]
+Su ataque ha sido aplastado. Ahora, en vez de avanzar, debemos prepararnos para un contraataque alemán.
+[Submission02.Objectives]
+Atraviese las defensas enemigas.
+[Submission02.Description]
+La infantería y los cañones antitanque protegen los alrededores del pueblo. Es necesario que destruya la primera línea de la defensa enemiga.
+
+Sus órdenes:
+- 	Atraviese las defensas enemigas.
+[Submission02.Success]
+Las defensas enemigas han sido atravesadas.
+[Submission02.Failed]
+Han destruido sus tropas. ¡No ha hecho honor a sus galones!
+[Submission03.Objectives]
+Libere el pueblo.
+[Submission03.Description]
+Las maltrechas tropas enemigas se han retirado a su segunda línea de defensa, donde han recibido refuerzos. Debe destruir esas unidades y continuar el avance.
+
+Sus órdenes:
+- 	Libere el pueblo de agresores fascistas.
+[Submission03.Success]
+El pueblo ha sido liberado. ¡Todo un éxito, comandante!
+[Submission03.Failed]
+Ha malgastado inútilmente las vidas de los soldados que estaban a sus órdenes.
+[StringTable.Reserv]
+Se le han asignado refuerzos.

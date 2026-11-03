@@ -1,0 +1,58 @@
+﻿[Mission1.Objectives]
+Elimina le unità corazzate nemiche.
+[Mission1.Description]
+I nostri esploratori hanno individuato una colonna di carri tedeschi King Tiger. Devi distruggere questi carri armati pesanti prima che arrivino alla loro destinazione.
+
+I tuoi ordini sono:
+- 	Sposta le tue forze nella zona indicata e distruggi la colonna di carri King Tiger.
+[Mission1.Success]
+I tedeschi hanno dovuto cedere di fronte alla superiorità delle nostre armi e delle nostre abilità.
+[Mission1.Failed]
+Malgrado tutto il supporto e la potenza di fuoco che avevi a disposizione, non sei riuscito a fermare la colonna corazzata nemica.
+[Mission2.Objectives]
+Elimina le truppe nemiche intorno al villaggio.
+[Mission2.Description]
+Dopo aver attraversato la Vistola, le truppe sovietiche hanno scoperto che i tedeschi hanno preparato delle formidabili difese sulla sponda occidentale. L'aggressore fascista ha occupato il villaggio che si trova davanti a te. I rapporti dicono che a difesa della città ci sono sia truppe di fanteria che di artiglieria.
+
+
+I tuoi ordini sono:
+- 	Elimina le truppe nemiche intorno al villaggio.
+[Mission2.Success]
+Il nemico è stato eliminato e il villaggio adesso è libero! Ora le tue truppe possono consolidare la testa di ponte di Sandomierz.
+[Mission2.Failed]
+Le tue truppe sono state distrutte. Il nemico ha preso confidenza e adesso minaccia di respingerci fino alla Vistola.
+[Submission1.Objectives]
+Cattura i carri armati King Tiger.
+[Submission1.Description]
+Un paio di carri armati King Tigers tedeschi sono stati avvistati nel villaggio, ma senza equipaggio. Catturare questi mezzi sarebbe molto utile sia per averli come trofei di guerra che come oggetto di studio.
+
+I tuoi ordini sono:
+-	 Cattura i carri armati King Tiger nemici.
+[Submission1.Success]
+I carri sono stati catturati: ottimo lavoro!
+[Submission1.Failed]
+Malgrado tutti i tuoi sforzi non sei riuscito a catturare i carri!
+[Mission3.Objectives]
+Resisti all'attacco tedesco.
+[Mission3.Description]
+I tedeschi stanno lanciando un contrattacco per riprendere Sandomierz e distruggere la nostra testa di ponte.
+
+I tuoi ordini sono:
+-	 Respingi a ogni costo l'attacco nemico.
+[Mission3.Success]
+L'attacco nemico è stato respinto e la testa di ponte è stata stabilita.
+[Mission3.Failed]
+Malgrado gli sforzi eroici dei tuoi soldati, il nemico ha vinto questa battaglia.
+[Submission2_1.Objectives]
+Elimina le truppe nemiche.
+[Submission2_1.Description]
+Questo villaggio, che si trova sulla tua parte del fronte, è stato occupato dalle truppe tedesche. I rapporti dicono che sono presenti parecchie unità di fanteria e di mezzi corazzati, compresi altri carri King Tiger, che si stanno trincerando dentro e intorno alla città.
+
+I tuoi ordini sono:
+- 	Elimina le truppe nemiche nel villaggio.
+[Submission2_1.Success]
+Le truppe nemiche sono state completamente eliminate!
+[Submission2_1.Failed]
+Le tue truppe sono state eliminate: il nemico ha ancora il villaggio!
+[StringTable.Reserv]
+Ti sono stati assegnati dei rinforzi aggiuntivi.

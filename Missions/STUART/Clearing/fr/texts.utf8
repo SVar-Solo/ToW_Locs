@@ -1,0 +1,88 @@
+﻿[MainTask.Objectives]
+Prenez le village
+[MainTask.Success]
+Les soldats ennemis survivants se rendent, le village est à nous. Continuez comme ça, les gars !
+[MainTask.Failed]
+L’ennemi s’est révélé trop fort pour votre unité de chars. L’opération est annulée !
+[MainTask.Description]
+Notre objectif final dans ce secteur est de prendre un village tenu par l’ennemi. Cependant, en raison de la solide défense ennemie, nous ne pouvons pas engager d’un seul coup notre infanterie, notre artillerie et notre aviation. Votre groupe de chars légers doit donc d’abord mener une attaque de sondage, détruire les forces ennemies qui entravent nos actions en dehors du village, puis appuyer l’attaque de notre infanterie.
+[FlakSuppress.Objectives]
+Neutralisez les canons antiaériens
+[FlakSuppress.Success]
+Les canons automoteurs antiaériens ennemis sont neutralisés, et notre service d’observation a réussi à relever les coordonnées du village. Nos officiers de liaison les ont déjà transmises aux pilotes et à la batterie d’artillerie : restez à l’écart du village ! Ça va chauffer là-bas d’ici quelques minutes !
+[FlakSuppress.Description]
+D’après les rapports de renseignement, le village est bien protégé contre les attaques aériennes par des canons automoteurs antiaériens ennemis. Notre premier objectif est donc de les trouver et de les neutraliser. Cela permettra à notre aviation d’intervenir sur le champ de bataille. Ce sont ces canons automoteurs antiaériens qui nous ont empêchés d’obtenir des photos aériennes détaillées du terrain, et il semble que nos cartes manquent de précision. Notre aérodrome le plus proche se trouve tout juste à portée de nos bombardiers ; la détection des coordonnées du village grâce au relèvement du signal radio de vos chars profitera donc non seulement à nos pilotes, mais aussi à notre batterie d’artillerie.
+[DealWithReinforcement.Objectives]
+Brisez les renforts
+[DealWithReinforcement.Success]
+Les renforts ennemis qui approchaient ont été vaincus !
+[DealWithReinforcement.Description]
+Les forces de réserve de l’ennemi, bien que peu nombreuses, doivent tout de même être prises en compte. Détruisez les renforts ennemis qui approchent du village.
+[StringTable.SupportsAreIncoming]
+Les préparatifs de la frappe d’artillerie sont terminés, les coordonnées précises ont été transmises aux pilotes et leurs appareils sont en route. Quittez immédiatement la zone de frappe !
+[StringTable.InfantryInAction]
+Notre infanterie va attaquer juste après les frappes d’artillerie et aériennes ! Donnez-lui l’appui dont elle a besoin !
+[StringTable.IntroSubtitle1]
+Capitaine Jackson : Alors, les bleus ?! Direction votre premier combat...
+[StringTable.IntroSubtitle2]
+... mais vous n’êtes pas censés vous balader avec une tête d’enterrement !
+[StringTable.IntroSubtitle3]
+- Eh, Mitchell, enlève-moi ce sourire de la figure !
+[StringTable.IntroSubtitle4]
+- Je vais vous montrer ce que c’est que la discipline et la subordination après la bataille !
+[StringTable.IntroSubtitle5]
+Le chef de char Alan Mitchell à son équipage :
+[StringTable.IntroSubtitle6]
+- Les gars, si nous sommes des bleus, alors Jackson est un blanc-bec !
+[StringTable.IntroSubtitle7]
+- Pendant qu’on s’esquintait à Camp Beauregard...
+[StringTable.IntroSubtitle8]
+... lui était croupier dans un casino, alors il en sait encore moins que nous sur la guerre !
+[StringTable.IntroSubtitle9]
+(après avoir ri un bon moment) Comment tu sais ça, Alan ?
+[StringTable.IntroSubtitle10]
+- Mon futur beau-père sait des choses utiles, lui !
+[StringTable.StuartTankLost]
+Le char d’Alan Mitchell a été mis hors de combat !
+[StringTable.StuartCrewLost]
+L’équipage du char d’Alan Mitchell a subi des pertes !
+[StringTable.WinSubtitle1]
+Alan Mitchell : Ouais, les gars, ça a été dur !
+[StringTable.WinSubtitle2]
+Pilote du char : Je vais me garer juste à côté de ce camion.
+[StringTable.WinSubtitle3]
+Alan Mitchell : OK, alors, à propos de Jackson le croupier...
+ [StringTable.WinSubtitle4]
+...mieux vaut qu’on garde ça pour nous. Compris ?!
+[StringTable.WinSubtitle5]
+Jackson à ses aides de camp : Cette fois, on va être promus, c’est sûr, ...
+[StringTable.WinSubtitle6]
+...en grade comme en fonction, et Mitchell restera sergent...
+[StringTable.WinSubtitle7]
+...pour toujours !
+[StringTable.WinSubtitle8]
+Alan Mitchell : Permission de faire mon rapport, mon capitaine ! (rend compte du combat)
+[StringTable.FailSubtitle1]
+Lieutenant Hans Neumann : Rudolf, va voir le char !
+[StringTable.FailSubtitle2]
+Oberschütze Rudolf Hagen : Jawohl ! ...
+[StringTable.FailSubtitle3]
+Ouais, c’est un sacré spectacle... Ce macchabée tient un carnet de bord.
+[StringTable.FailSubtitle4]
+Lieutenant Neumann : Donne-le-moi ! Voyons voir...
+[StringTable.FailSubtitle5]
+Eh bien, une photo de fille, quelques lettres, un volume de Shakespeare...
+[StringTable.FailSubtitle6]
+...mais pas de cartes ni d’autres documents ! Il les a détruits en mourant !
+[StringTable.FailSubtitle7]
+Oberschütze Rudolf Hagen : Cette mademoiselle Nelly Smith est une beauté...
+[StringTable.FailSubtitle8]
+...je ferais mieux de retenir l’adresse. Quand on aura conquis l’Amérique, j’aurai quelqu’un avec qui m’amuser !
+[StringTable.FailSubtitle9]
+Le lieutenant, en roulant la lettre : Hagen, ferme-la ! Tu ne seras jamais capable d’aimer et de mourir...
+[StringTable.FailSubtitle10]
+...comme ce Mitchell !
+[StringTable.MitchellIsKilled]
+Alan Mitchell a été tué !
+[StringTable.ReturnInTank]
+Remettez dans le char les membres d’équipage débarqués pour accomplir la mission.

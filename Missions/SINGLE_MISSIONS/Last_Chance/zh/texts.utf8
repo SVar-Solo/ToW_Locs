@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+对周边地区实施武力侦察，消灭遇到的所有敌军。
+[Mission.Description]
+盟军主力已在敦刻尔克跨海撤离，只剩下分散而顽强不屈的法军部队。由于德军正设法重新恢复自身的凝聚力，对法国西部的最终占领被推迟了。正因为这一延误，出现了一个短暂的机会窗口，法军已准备好发动一次反攻。
+[Mission.Success]
+胜利！你给了敌人沉重一击。
+[Mission.Failed]
+失败。你今天的失败可能意味着一切都完了！
+[Submission_1.Objectives]
+侦察附近村庄的敌军。
+[Submission_1.Description]
+据报告，德军已占领前方的城镇。向前侦察，若遇抵抗，则将敌人逐出城镇。我们手头仅有的预备队已划拨给你。
+
+你的命令：
+-	侦察该城镇，遇敌则交战。增援部队正在赶往你部。 
+[Submission_1.Success]
+侦察完毕。
+[Submission_1.Failed]
+你未能对该城镇进行有效侦察。
+[StringTable.Add_reserv]
+你从预备队获得了一些坦克。
+[StringTable.Add_Artillery]
+在评估了你的处境后，司令部为你增派了炮兵力量。
+[Submission_2.Objectives]
+进攻城镇内的敌人。
+[Submission_2.Description]
+侦察结果表明，德军已设法部署了相当数量的部队，但其主力仍在从敦刻尔克行军途中。我们必须抓住机会，在敌人最意想不到的时候发动打击。
+
+你的命令：
+	-  趁敌人仍在巩固城镇内的阵地，对其发起进攻。
+[Submission_2.Success]
+敌人已被消灭。干得好，指挥官！
+[Submission_2.Failed]
+你失败了！
+[Submission_3.Objectives]
+击退敌坦克的进攻。
+[Submission_3.Description]
+事实证明，敌军远比预想的强大。他们已投入大量坦克部队参战。
+
+你的命令：
+	-  抵抗敌坦克的进攻。
+[Submission_3.Success]
+敌人的进攻已被阻止！
+[Submission_3.Failed]
+失败。事实证明敌方坦克过于强悍，无法战胜。

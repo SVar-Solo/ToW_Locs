@@ -1,0 +1,64 @@
+﻿[Mission.Objectives]
+Rechace todos los ataques enemigos.
+[Mission.Description]
+Rechace todos los ataques enemigos y defienda las alturas.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission1.Objectives]
+Mantenga la Altura 1
+[Submission1.Description]
+La Altura 1 es tácticamente muy importante. Ofrece una gran vista de una parte considerable de la línea del frente, así como de toda nuestra retaguardia. Si el enemigo ocupa la Altura 1, podrá corregir el fuego de artillería y bombardear con precisión nuestras posiciones de retaguardia. Manténgala a toda costa.
+[Submission1.Success]
+¡Los ataques enemigos han sido rechazados, causándoles graves bajas!
+[Submission1.Failed]
+¡El enemigo ha capturado la Altura 1!
+[Submission2.Objectives]
+Recupere la Altura 1 al enemigo.
+[Submission2.Description]
+La infantería enemiga ha capturado la Altura 1. La orden es desalojar al enemigo de la Altura 1 con ayuda de las reservas.
+[Submission2.Success]
+La Altura 1 ha sido recuperada.
+[Submission2.Failed]
+¡El ataque ha fracasado! ¡Ahora el enemigo puede bombardear con precisión nuestras posiciones!
+[Submission3.Objectives]
+Ataque a los zapadores alemanes.
+[Submission3.Description]
+Protegidos por tanques enemigos, los zapadores enemigos intentan abrir pasos para los tanques en nuestro campo de minas. Nuestra infantería debe atacar a los zapadores alemanes e impedir que terminen su trabajo. Nuestra artillería le cubrirá con una cortina de humo.
+[Submission3.Success]
+El enemigo ha dejado de desminar y se retira. Misión cumplida.
+[Submission3.Failed]
+¡Misión fallida! Los zapadores enemigos tuvieron tiempo suficiente para abrir algunos pasos para sus tanques. ¡Ahora debemos prepararnos para rechazar un ataque de tanques!
+[Submission4.Objectives]
+Mantenga la línea de forma activa con el fuego de la batería y las fuerzas aéreas.
+[Submission4.Description]
+Mantenga la Altura 4 y las principales líneas de defensa. Desde posiciones de tiro cubiertas, cause al enemigo el mayor daño posible antes de que alcance nuestras líneas principales de defensa.
+[Submission4.Success]
+El enemigo ha sufrido graves bajas y se retira. ¡Misión cumplida!
+[Submission4.Failed]
+¡Los tanques enemigos han roto nuestras defensas y han llegado al puesto de mando!  
+[StringTable.Message1]
+El enemigo se retira. Probablemente para reagruparse y atacar de nuevo.
+[StringTable.Message2]
+El enemigo bombardea la altura, probablemente preparando un nuevo ataque. La ladera trasera no es barrida por el fuego y la infantería puede esperar allí hasta que acabe el bombardeo.
+[StringTable.Reinf1]
+Han llegado refuerzos.
+[StringTable.mess1]
+Los alemanes parecen haber corregido el tiro y disparan a matar.
+[StringTable.mess2]
+El enemigo parece haber empezado a corregir el tiro sobre nuestras posiciones. ¡Es vital recuperar la Altura 1 cuanto antes!
+[StringTable.mess4]
+Los campos de minas están marcados en el mapa. Por desgracia, solo hay minas antitanque, que no detendrán a la infantería. Además, los campos de minas deben protegerse contra el desminado.
+[StringTable.mess5]
+La infantería enemiga ha asegurado la altura. Si tienen un observador de artillería, pronto lo pasaremos mal.
+[StringTable.mess6]
+Han llegado refuerzos.
+[StringTable.mess7]
+¡Atención! ¡Tanques enemigos en el flanco izquierdo!
+[StringTable.mess8]
+Contacto con la batería establecido. ¡La artillería está lista para abrir fuego a petición!
+[StringTable.mess9]
+Los aviones se aproximan a su sector, listos para actuar a petición suya.
+[StringTable.mess3]
+Bombardeo detenido. Regresen a sus posiciones.

@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Destroy the enemy defense and capture the village.
+[Mission.Description]
+The enemy has turned the village ahead into a key strategic location which HQ has demanded be captured. The terrain in this area features a large hill overlooking the town, hindering long range observation. Our recon elements report that the enemy is well fortified and supported by self-propelled artillery and AT guns. 
+ 
+Your orders:
+- Destroy the enemy defenses.
+- Capture the village.
+[Mission.Success]
+Well done Commander!
+[Mission.Failed]
+Mission failed! Your troops have been defeated.
+[Submission_1.Objectives]
+Capture the enemy position.
+[Submission_1.Description]
+The broken terrain will force engagements under 500 meters, but the enemy village ahead must be taken.
+ 
+Your orders:
+- Using any and all means, drive the enemy from the field and occupy his positions!
+[Submission_1.Success]
+Well done Commander! Your troops are victorious.
+[Submission_1.Failed]
+Mission failed! You have failed.

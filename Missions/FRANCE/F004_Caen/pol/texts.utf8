@@ -1,0 +1,82 @@
+﻿[Mission1.Objectives]
+Utrzymać pozycje obronne we wskazanej strefie.
+[Mission1.Description]
+Sytuacja jest poważna; nie ma już prawie żadnej nadziei na ocalenie. Wielu naszych towarzyszy poległo w boju. Wywiad informuje, że niemieckie wojska szybko nacierają w kierunku wsi, by zniszczyć wszelki opór na drodze do Caen. Od zachodu na wschód nasze skrzydła są słabo chronione, więc najprawdopodobniej Niemcy spróbują się przebić właśnie tam. 
+Twoje rozkazy:
+-	Bronić wsi.
+[Mission1.Success]
+Zadanie wykonane! Twoi żołnierze uratowali Caen.
+[Mission1.Failed]
+Zadanie niewykonane! Niemieckie siły przełamały twoje pozycje i wdarły się do Caen. 
+[Submission1.Objectives]
+Odeprzeć nieprzyjacielski atak z północnego zachodu.
+[Submission1.Description]
+Niemieckie oddziały nacierają na wieś, by zdławić resztki oporu. Musimy koniecznie odeprzeć ten atak i uniemożliwić Niemcom wejście do Caen.
+Twoje rozkazy:
+-	Odeprzeć nieprzyjaciela atakującego od północnego zachodu.
+[Submission1.Success]
+Udało ci się odeprzeć niemiecki atak!
+[Submission1.Failed]
+Nieprzyjaciel przełamał naszą obronę!
+[Submission2.Objectives]
+Odeprzeć atak nieprzyjaciela z północy.
+[Submission2.Description]
+Niemieckie oddziały nacierają na wieś, by zdławić resztki oporu. Musimy koniecznie odeprzeć ten atak i uniemożliwić Niemcom wejście do Caen.
+Twoje rozkazy:
+-	Odeprzeć atak nieprzyjaciela z północy.
+[Submission2.Success]
+Atak nieprzyjaciela został odparty!
+[Submission2.Failed]
+Wróg zniszczył twoją obronę!
+[Submission3_1.Objectives]
+Zaatakuj zgrupowanie sił nieprzyjaciela.
+[Submission3_1.Description]
+Siły sojusznicze na naszym zachodnim skrzydle ugięły się i Niemcy po raz kolejny atakują wieś z tego kierunku. Kontynuuj obronę i powstrzymaj nowy atak nieprzyjaciela!
+Twoje rozkazy:
+-	Zaatakować siły nieprzyjaciela, nacierające z zachodu.
+[Submission3_1.Success]
+Zadanie wykonane. Wróg ucieka. Jesteś bohaterem!
+[Submission3_1.Failed]
+Zadanie niewykonane. Twoje wojska poniosły porażkę.
+[Submission4.Objectives]
+Zaatakować siły nieprzyjaciela, nacierające od wschodu.
+[Submission4.Description]
+Sojusznicze wojska na naszej wschodniej flance zostały rozbite. Niemcy właśnie zmierzają do Caen. Musisz ich powstrzymać!
+Twoje rozkazy:
+-	Zaatakować wojska nieprzyjaciela, nacierające od wschodu.
+[Submission4.Success]
+Zadanie wykonane!
+[Submission4.Failed]
+Zadanie niewykonane! 
+[Submission5.Objectives]
+Odeprzeć natarcie wojsk nieprzyjaciela.
+[Submission5.Description]
+Zwiad lotniczy informuje, że kolejna grupa sił nieprzyjaciela zbliża się do Caen. Musisz zebrać wszystkie dostępne siły i odeprzeć atak. Jesteś ostatnią nadzieją na zatrzymanie Niemców!
+Twoje rozkazy:
+-	Odeprzeć Niemców, nacierających w kierunku Caen.
+[Submission5.Success]
+Zadanie wykonane! Atak nieprzyjaciela został odparty!
+[Submission5.Failed]
+Wróg zdołał się przebić! Twoje wojska zostały wyeliminowane!
+[StringTable.Reserv]
+Przybyły posiłki.
+[Submission4_1.Objectives]
+Zaatakuj wojska nieprzyjaciela.
+[Submission4_1.Description]
+Sojusznicze wojska na naszej wschodniej flance zostały rozbite. Niemcy właśnie zmierzają do Caen. Musisz ich powstrzymać!
+Twoje rozkazy:
+-	Zaatakować nacierającego od wschodu nieprzyjaciela.
+[Submission4_1.Success]
+Nieprzyjacielski atak został odparty. Wróg jest w odwrocie!
+[Submission4_1.Failed]
+Nie udało ci się powstrzymać nieprzyjacielskiego ataku. Twoje wojska zostały wyeliminowane!
+[Submission3.Objectives]
+Zaatakować nieprzyjacielskie wojska.
+[Submission3.Description]
+Nasze najdalej wysunięte na zachód pozycje zostały zdobyte. Niemcy szybko nacierają w kierunku tej wsi. Musisz ich zaatakować, zanim dokonają przełamania i zajmą Caen.
+Twoje rozkazy:
+-	Uderzyć na nieprzyjaciela, nacierającego z zachodu.
+[Submission3.Success]
+Zadanie zostało wykonane. Nieprzyjaciel pokonany!
+[Submission3.Failed]
+Zadanie nie zostało wykonane. Twoje oddziały poniosły klęskę.

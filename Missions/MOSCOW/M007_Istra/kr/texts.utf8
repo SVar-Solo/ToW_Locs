@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+적을 진지에서 몰아내라.
+[Submission1.Description]
+나치 침략자들은 이스트라 저수지와 이스트라 시 사이의 선을 따라 진지를 공고히 했으며, 강력한 저항 없이는 물러나지 않을 것이다. 이 진지에서 적을 몰아내는 것이 극히 중요하다. 
+
+명령:
+-적을 진지에서 몰아내라.
+[Submission1.Success]
+명령을 완수했다!
+[Submission1.Failed]
+명령을 완수하지 못했다!
+[Submission2.Objectives]
+진격하는 적을 격파하라.
+[Submission2.Description]
+나치 부대가 전선의 이 구역에서 맹렬한 반격을 개시했다. 진격하는 적과 교전하여 격파해야 한다.
+
+명령:
+- 공격하는 독일군 부대를 격파하라.
+[Submission2.Success]
+명령을 완수했다! 적 병력을 격파했다.
+[Submission2.Failed]
+명령을 성공적으로 완수하지 못했다! 귀관의 부대가 패배했다.

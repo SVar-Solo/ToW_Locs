@@ -1,0 +1,24 @@
+﻿[mission.Objectives]
+Przedrzyj się do mostu na północy i przekrocz go wszystkimi dostępnymi siłami.
+[mission.Description]
+Zacięte walki toczą się w całej Francji. Wojska niemieckie zbliżają się do Paryża. Po bitwie pod Arras nasza grupa została okrążona. Sytuacja jest beznadziejna, nie ma szans na przetrwanie, ale będziemy walczyć do końca.
+[mission.Success]
+Misja wykonana, nasze wojska dotarły do mostu.
+[mission.Failed]
+Twój oddział został zniszczony.
+[Submission_1.Objectives]
+Przeprowadź rozpoznanie sił wroga.
+[Submission_1.Description]
+Przeprowadź rozpoznanie sił wroga.
+[Submission_1.Success]
+Misja wykonana.
+[Submission_1.Failed]
+Misja nieudana.
+[Submission_2.Objectives]
+Musisz jak najszybciej dotrzeć do mostu, omijając duże grupy wroga.
+[Submission_2.Description]
+Okrążający nas wróg jest rozciągnięty, a wciąż jest szansa dotrzeć do naszych wojsk, zanim piechota nieprzyjaciela zacieśni pierścień. Musisz jak najszybciej przebić się do mostu, omijając duże grupy wroga.
+[Submission_2.Success]
+Misja wykonana.
+[Submission_2.Failed]
+Misja nieudana.

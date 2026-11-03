@@ -1,0 +1,57 @@
+﻿[Mission1.Objectives]
+Destrua as unidades de tanques inimigas.
+[Mission1.Description]
+Nossos batedores detectaram uma coluna de tanques King Tiger alemães. Destruir esses tanques pesados antes que cheguem ao destino é agora uma prioridade.
+
+Suas ordens:
+- 	Desloque suas forças para a região indicada e destrua uma coluna de tanques King Tiger.
+[Mission1.Success]
+A blindagem alemã sucumbiu à nossa habilidade e armas superiores.
+[Mission1.Failed]
+Apesar de todo o apoio e poder de combate que lhe foram atribuídos, você não conseguiu deter a coluna de tanques inimiga.
+[Mission2.Objectives]
+Destrua as tropas inimigas em torno da aldeia.
+[Mission2.Description]
+Depois de cruzar o Vístula, as unidades soviéticas descobriram que os alemães haviam organizado defesas formidáveis na margem oeste. Agressores fascistas ocupam a aldeia à sua frente. Os relatórios de reconhecimento dizem que unidades de infantaria e blindadas defendem fortemente a cidade.
+
+Suas ordens:
+- 	Destrua as tropas inimigas em torno da aldeia.
+[Mission2.Success]
+O inimigo foi destruído e a aldeia libertada! Agora suas unidades podem consolidar suas forças para reforçar a cabeça de ponte de Sandomierz.
+[Mission2.Failed]
+Suas tropas foram destruídas. O inimigo ficou encorajado por sua vitória e agora ameaça empurrar nossas tropas de volta para o Vístula.
+[Submission1.Objectives]
+Capture os tanques King Tiger.
+[Submission1.Description]
+Um par de pesados King Tigers alemães foi avistado na aldeia, suas tripulações em lugar nenhum. Esses tanques seriam excelentes troféus de guerra e valiosos para nossos engenheiros estudarem.
+
+Suas ordens:
+-	 Capture os tanques King Tiger inimigos.
+[Submission1.Success]
+Os tanques foram capturados. Ótimo trabalho!
+[Submission1.Failed]
+Apesar de todos os seus esforços, você não conseguiu capturar os tanques!
+[Mission3.Objectives]
+Resista ao ataque alemão.
+[Mission3.Description]
+Os alemães lançam um grande contra-ataque com o objetivo de reocupar Sandomierz e destruir nossa cabeça de ponte.
+
+Suas ordens:
+-	 Contenha o ataque inimigo a qualquer custo.
+[Mission3.Success]
+O ataque inimigo foi repelido e a cabeça de ponte assegurada.
+[Mission3.Failed]
+Apesar dos esforços heróicos de seus soldados, o inimigo venceu esta batalha.
+[Submission2_1.Objectives]
+Destrua as tropas inimigas.
+[Submission2_1.Description]
+Esta aldeia, localizada em sua parte da frente, foi ocupada por tropas alemãs. Os relatórios de reconhecimento dizem que várias unidades de infantaria e de tanques, incluindo mais tanques King Tiger, estão se entrincheirando agora na cidade e em seus arredores.
+
+Suas ordens:
+- 	Destrua as tropas inimigas na aldeia.
+[Submission2_1.Success]
+As tropas inimigas foram completamente destruídas!
+[Submission2_1.Failed]
+Suas tropas foram destruídas: o inimigo permanece na aldeia!
+[StringTable.Reserv]
+Você recebeu reforços.

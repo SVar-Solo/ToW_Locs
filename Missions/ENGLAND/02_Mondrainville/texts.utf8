@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Освободить от противника  Мондренвилль, продвинуться далее в южном направлении,  взять под контроль дорогу на Кан, уничтожить опорные пункты противника. 
+[Mission.Description]
+Продолжить наступление, перерезать дорогу на Кан, уничтожить действующие в районе Мондренвилля и окрестностей войска противника.
+[Submission_01.Success]
+Взяли М
+[Submission_01.Failed]
+Не взяли М
+[Submission_1.Objectives]
+Выбить противника из зданий фермы.
+[Submission_1.Description]
+Очистить от противника комплекс сельско-хозяйственных зданий. По данным авиаразведки на этой ферме расположены позиции артиллерийской батареи противника.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Отбить атаку противника на Мондренвилль.
+[Submission_3.Description]
+Противник пытается удержать Мондренвилль, направляя подкрепления, которые должны вернуть городок под контроль врага.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Взять под контроль дорогу на Кан.
+[Submission_2.Description]
+Выбить закрепившегося противника из группы зданий у дороги на Кан.
+[Submission_3.Success]
+Атака отбита.
+[Submission_3.Failed]
+Задача провалена.
+[Submission_1.Success]
+Артиллерийская батарея уничтожена. Ферма занята нашими войсками.
+[Submission_1.Failed]
+Задача не выполнена.
+[Submission_2.Success]
+Дорога под нашим контролем.
+[Submission_2.Failed]
+Задача не выполнена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Задача провалена.
+[StringTable.Tanks]
+Группа резерва на связи.

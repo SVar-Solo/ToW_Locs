@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Establecer una cabeza de partida
+[Mission.Description]
+Mayor Gerhard, debe establecer una cabeza de partida para una ofensiva sobre Sbeitla destruyendo las defensas enemigas de esta zona. Aplaste al enemigo con nuestros tanques.
+[Mission.Success]
+Hemos preparado la cabeza de partida para la ofensiva. Las defensas enemigas han sido destruidas.
+[Mission.Failed]
+Retirada. No hemos logrado quebrar la resistencia enemiga en esta zona.
+[SubMission_01.Objectives]
+Destruir los equipos de reconocimiento enemigos
+[SubMission_01.Description]
+Debemos destruir lo antes posible a los equipos de reconocimiento enemigos para evitar que informen a su alto mando de nuestra fuerza y disposición.
+[SubMission_01.Success]
+Los equipos de reconocimiento han sido destruidos; la infantería enemiga huye.
+[SubMission_01.Failed]
+[SubMission_02.Objectives]
+Flanquear al enemigo
+[SubMission_02.Description]
+Nuestros informes de inteligencia indican que una batería de artillería defiende la carretera. Debemos flanquear la línea principal de defensa enemiga. Aproveche el lecho del río. Supongo que el enemigo disparará contra el valle. Debemos reubicar las tropas en un lugar seguro lo antes posible.
+[SubMission_02.Success]
+Hemos flanqueado con éxito al grueso del enemigo.
+[SubMission_02.Failed]
+[SubMission_03.Objectives]
+Establecer comunicación por radio
+[SubMission_03.Description]
+Nuestro reconocimiento encontró un lugar para el contacto por radio, pero está protegido por el enemigo. Debemos eliminarlo y llevar uno de nuestros tanques o vehículos blindados a ese lugar.
+[SubMission_03.Success]
+El enemigo ha sido destruido; la altura está asegurada.
+[SubMission_03.Failed]
+[SubMission_04.Objectives]
+Eliminar la batería de artillería
+[SubMission_04.Description]
+El enemigo ha reubicado una batería de artillería en la isla. Debemos eliminarla. 
+[SubMission_04.Success]
+La batería de artillería enemiga ha sido eliminada.
+[SubMission_04.Failed]
+[SubMission_05.Objectives]
+Encontrar un paso seguro
+[SubMission_05.Description]
+Antes de la ofensiva final debemos comprobar si los cruces tienen campos de minas.
+[SubMission_05.Success]
+Se ha encontrado un cruce seguro.
+[SubMission_05.Failed]
+[StringTable.Rommel_01]
+Cuento con usted y sus hombres, Mayor. Entiendo que los hombres están cansados, pero la situación exige que movilicemos nuestras mejores cualidades. Días como estos dan origen a héroes que serán recordados por las generaciones venideras.
+[StringTable.Gerhard_01]
+¡Mi general! No hace falta que nos diga esto ni a mí ni a mis hombres. ¡Somos soldados del Reich alemán y siempre lo tenemos presente! Sin embargo, su presencia aquí, en primera línea, nos ayudará a olvidar el cansancio y a luchar con valentía.
+[StringTable.Gerhard_02]
+¡Sí, mi general! ...¡Maldición! Hemos perdido el contacto con el alto mando. Las montañas deben de estar bloqueando nuestros transmisores. Debemos restablecer el contacto cuanto antes.
+[StringTable.Gerhard_03]
+¿Qué ocurre? ¡Restablezcan el contacto por radio de inmediato!

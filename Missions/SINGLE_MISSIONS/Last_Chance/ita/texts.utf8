@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Vai in ricognizione nell'area e distruggi tutte le unità nemiche che incontri.
+[Mission.Description]
+Il grosse delle truppe alleate è stato evacuato oltre il mare a Dunkirk e tutto quello che rimane sono poche deboli unità francesi. L’ultima fase dell’occupazione della Francia Occidentale è stata ritardata per permettere all’esercito tedesco di riprendere la propria coesione. A causa di questo ritardo,  i francesi hanno l’ultima opportunità di preparare un contrattacco.
+ [Mission.Success]
+Vittoria! Hai seriamente indebolito il nemico.
+[Mission.Failed]
+Sconfitta. Tutto potrebbe essere perduto a causa tua.
+[Submission_1.Objectives]
+Vai in ricognizione nella zona abitata
+ [Submission_1.Description]
+I rapporti dicono che i tedeschi hanno occupato la zona abitata che si trova davanti a noi. Vai in esplorazione e se incontri resistenza, allontana il nemico dalla città. Le riserve disponibili, ti sono state assegnate.
+
+I tuoi ordini sono:
+- Esplora la zona abitata. Ingaggia il nemico che incontri e trattienilo fino all'arrivo dei rinforzi.
+[Submission_1.Success]
+Ricognizione completata.
+[Submission_1.Failed]
+Non sei riuscito a terminare la ricognizione.
+[StringTable.Add_reserv]
+Hai ricevuto dei carri armati dalla riserva
+[StringTable.Add_Artillery]
+Dopo aver valutato la situazione, il comando ti ha fornito delle unità addizionali di artiglieria provenienti dalla riserva.
+ [Submission_2.Objectives]
+Attacca il nemico nella zona abitata
+[Submission_2.Description]
+I risultati della ricognizione hanno mostrato che i tedeschi sono riusciti a schierare un numero significativo di truppe, anche se il grosso delle loro forze è ancora in marcia da Dunkirk. Dobbiamo cogliere l'opportunità e colpire il nemico quando meno se lo aspetta.
+
+I tuoi ordini sono:
+	- usa le truppe che hai attualmente a disposizione per attaccare il nemico nella zona abitata e distruggerlo.
+[Submission_2.Success]
+Il nemico è stato eliminato. Ottimo lavoro, comandante!
+[Submission_2.Failed]
+Sconfitta.
+[Submission_3.Objectives]
+Respingi l'attacco dei carri armati nemici.
+[Submission_3.Description]
+Il nemico si sta rivelando più forte di quanto pensavamo. Infatti è riuscito a schierare un numero elevato di carri.
+
+I tuoi ordini sono:
+-	Resisti all’attacco nemico.
+[Submission_3.Success]
+Il nemico è stato fermato
+[Submission_3.Failed]
+Sconfitta. I carri nemici si sono rivelati un nemico troppo forte.

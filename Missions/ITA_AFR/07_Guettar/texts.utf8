@@ -1,0 +1,29 @@
+﻿[Submission_1.Objectives]
+Займите населённый пункт и подготовьтесь к его обороне.
+[Submission_1.Description]
+[Submission_01.Success]
+Задача выполнена.
+[Submission_01.Failed]
+Задача не выполнена.
+[Mission.Objectives]
+Необходимо удерживать оборону от наступающих частей противника, отбить вражеские атаки и перейти в наступление. Во избежание перегруппировки вражеских сил нужно полностью очистить район боевых действий от разбитых, но не уничтоженных полностью вражеских подразделений.
+[Mission.Description]
+[NewSubmission.Success]
+Задача выполнена.
+[NewSubmission.Failed]
+Задача не выполнена.
+[Submission_2.Objectives]
+Уничтожить или рассеять атакующие части противника, очистить район боевых действий от их остатков.
+[Submission_2.Description]
+[Submission_1.Success]
+Задача выполнена.
+[Submission_1.Failed]
+Задача не выполнена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Задача не выполнена.
+[Submission_2.Success]
+Задача выполнена.
+[Submission_2.Failed]
+Задача не выполнена.

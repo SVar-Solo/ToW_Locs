@@ -1,0 +1,28 @@
+﻿[Mission.Objectives]
+阻止敌军突入我军后方。
+[Mission.Description]
+你已获得集团军司令部预备队的坦克增援。在亚德罗米诺村附近的战线地段，一个步兵师的连正在进行防御作战。这个孤立的连队拥有一些反坦克装备，你也将至少有一门45毫米反坦克炮可供调遣
+
+你的命令：
+- 阻止敌军突入后方地区。
+[Mission.Success]
+你的命令已完成！
+[Mission.Failed]
+你未能完成命令！
+[Submission_1.Objectives]
+阻止所有敌军坦克。
+[Submission_1.Description]
+部署你的兵力，以便迅速反击并利用敌军的一切弱点。切记以适当的火力支援一切步兵突击。
+
+你的命令：
+- 消灭正在推进的敌军坦克。
+[Submission_1.Success]
+最高统帅部的命令已完成！敌军坦克已被消灭。
+[Submission_1.Failed]
+你未能完成最高统帅部的命令！你的部队已被击溃。
+[StringTable.Change_Infantry]
+步兵连连长已阵亡。接管他的连队。 
+[StringTable.Change_Artillery]
+炮兵连连长已身负致命伤。这些兵力现由你直接指挥。
+[StringTable.Change_ALL]
+当前形势需要更好、更直接的协调。为此，你已被任命为整个编队的指挥官。你现在指挥一个完整的步兵连和一个炮兵连。

@@ -1,0 +1,134 @@
+﻿[Mission.Objectives]
+지휘를 맡아 적의 공격을 격퇴하라
+
+[Mission.Description]
+영국군 병사 2개 조를 지휘 하에 두라. 중기관총으로 적 보병 분대를 파괴하라. 바주카를 찾아 적 전차를 파괴하라.
+
+[Mission.Success]
+축하한다, 모든 과제를 성공적으로 완수했다.
+
+[Mission.Failed]
+임무 실패
+
+[Submission_1.Objectives]
+첫 번째 조를 지휘하라
+
+[Submission_1.Description]
+차량을 영국군 병사 3명 조에 가까이 가져가면 그들이 귀관의 지휘 하에 들어온다.
+
+[Submission_1.Success]
+영국군 병사 조가 귀관의 지휘 하에 들어왔다.
+
+[Submission_1.Failed]
+임무 실패
+
+[Submission_2.Objectives]
+두 번째 조를 지휘하라
+
+[Submission_2.Description]
+차량과 합류한 병사들을 마을 외곽의 전초 조에 가까이 가져가면 그들이 귀관의 지휘 하에 들어온다.
+
+[Submission_2.Success]
+전초 부대가 귀관의 지휘 하에 들어왔다.
+
+[Submission_2.Failed]
+임무 실패
+
+[Submission_3.Objectives]
+기관총에 병력을 배치하라
+
+[Submission_3.Description]
+병력 중 보병 2명을 선택해 기관총에 배치하라.
+
+[Submission_3.Success]
+중기관총이 귀관 처분에 있다.
+
+[Submission_3.Failed]
+임무 실패
+
+[Submission_4.Objectives]
+적의 공격을 격퇴하라
+
+[Submission_4.Description]
+기관총 근처 건물에서 방어 태세를 취하고 적 보병의 공격을 격퇴하라.
+
+[Submission_4.Success]
+적의 공격이 격퇴되었다.
+
+[Submission_4.Failed]
+임무 실패
+
+[StringTable.Submission_4]
+자유 이동 모드로 건물 안에 있을 때 보병은 발견한 표적에 사격하기에 더 편하다면 위치를 약간 바꿀 수 있다. 벽 때문에 시야가 제한될 수 있음에 유의하라. 매복에는 유용하지만 전투의 전체 상황을 파악하는 데는 방해가 된다.
+
+[Submission_5.Objectives]
+적 전차를 파괴하라
+
+[Submission_5.Description]
+독일 전차가 귀관의 진지를 향해 이동하고 있다. 연기를 따라 대전차 유탄발사기가 든 컨테이너를 찾아 적 전차를 파괴하라.
+
+[Submission_5.Success]
+적 전차가 파괴되었다.
+
+[Submission_5.Failed]
+임무 실패
+
+[StringTable.Submission_5.1]
+독일 전차가 귀관의 진지를 향해 이동하고 있다. 연기를 따라 대전차 유탄발사기가 든 컨테이너를 찾아 적 전차를 파괴하라. 컨테이너는 귀관의 진지 뒤 오른쪽 불탄 트럭 옆에 있으며, 그 지점은 붉은 연기로 표시되어 있다. 무기 슬롯이 비어 있는 병사를 그곳으로 데려가 소지품 {hkey:inventory}을 연다. 병사 근처 물품 패널이 표시된다. LMB 더블클릭, 끌어다 놓기, 또는 줍기 버튼 중 하나로 물품을 집을 수 있다. 병사가 물품을 집는 데는 시간이 걸린다. 수량을 지정하려면 이동 시 CTRL(1개), SHIFT(한 묶음 전체), CTRL+SHIFT(반 묶음)를 누른다.
+
+[StringTable.Submission_5.2]
+전차가 너무 멀면 숨거나 엎드려 전차가 병사들을 발견하지 못하게 하라. 전차가 가까이 오면 공격하라. 은밀 이동 모드 {hkey:setbodymodelay}를 사용하고 자유 이동을 금지 {hkey:actionmode}하거나, '매복' 모드 {hkey:ambush}를 활성화하라.
+
+[StringTable.Submission_5.3]
+'바주카' 명중 효과를 극대화하려면 점선 구역으로 표시된 최대 사거리의 약 2/3 또는 1/2 지점에서 사격을 개시하라. 이를 위해 '바주카' 병사의 사격을 금지 {hkey:firemode}하고, 전차가 필요한 거리에 올 때까지 기다린 뒤 다시 사격을 허용 {hkey:firemode}한다. 그러면 사선이 있을 경우 병사가 스스로 사격한다. 전차를 공격하라고 직접 명령하면, 사선이 없는 경우 병사가 표적에 접근하기 시작할 수 있는데, 이는 바람직하지 않을 때도 있다.
+
+[Submission_6.Objectives]
+철수
+
+[Submission_6.Description]
+보병 수송용 차량을 노획하라. 모든 병력을 트럭에 태운 뒤 철수 지점으로 이동시켜라.
+
+[Submission_6.Success]
+병력이 철수했다.
+
+[Submission_6.Failed]
+임무 실패
+
+[Submission_7.Objectives]
+철수
+
+[Submission_7.Description]
+마을의 모든 병력을 철수 지점으로 철수시켜라.
+
+[Submission_7.Success]
+병력이 철수 지점에 도달했다
+
+[Submission_7.Failed]
+임무 실패
+
+[Submission_8.Objectives]
+철수
+
+[Submission_8.Description]
+지정된 지점으로 병력을 철수시켜야 한다. 증원 버튼으로 호출할 수 있는 차량을 사용할 수 있다.
+
+[Submission_8.Success]
+병력이 철수했다
+
+[Submission_8.Failed]
+임무 실패
+
+[Submission_9.Objectives]
+항공기로 전차를 파괴하라
+
+[Submission_9.Description]
+공격기를 호출하여 남서쪽에서 오는 전차를 파괴해야 한다. 공격기를 표적에 성공적으로 유도하려면 전차가 보병의 직접 시선 안에 있어야 한다.
+
+[Submission_9.Success]
+전차 파괴 완료!
+
+[Submission_9.Failed]
+임무 실패
+
+[StringTable.Submission_9]
+공격기를 호출하여 남서쪽에서 오는 전차를 파괴해야 한다. 공격기를 표적에 성공적으로 유도하려면 전차가 보병의 직접 시선 안에 있어야 한다. 항공기가 표적에 도달하는 데는 시간이 걸린다. 한 표적을 공격한 뒤 항공기는 두 번째 선회로 다음 표적을 공격한다.

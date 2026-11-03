@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Sortir de l'encerclement.
+[Mission.Description]
+À la mi-juillet, la majeure partie de la France a été occupée par les troupes allemandes. Les divisions blindées allemandes ont percé les lignes de défense françaises et ont atteint la côte par une poussée rapide. Paris est tombée le 14 juin et le gouvernement français s'est enfui à Bordeaux.
+
+Objectif :
+-	sortir de l'encerclement.
+[Mission.Success]
+Mission accomplie !
+[Mission.Failed]
+Mission échouée ! Vos troupes sont mortes !
+[Submission1.Objectives]
+Sauver les soldats français.
+[Submission1.Description]
+Un petit détachement d'infanterie française est encerclé et se cache dans une ferme isolée. L'infanterie allemande approche.
+
+Objectif :
+- 	sauver les soldats français de la mort.
+[Submission1.Success]
+Mission accomplie !
+[Submission1.Failed]
+Mission échouée !
+[Submission2.Objectives]
+Effectuer une reconnaissance du terrain.
+[Submission2.Description]
+Faire effectuer une reconnaissance du terrain par un tireur d'élite.
+
+Ordre reçu :
+- 	effectuer une reconnaissance du terrain.
+[Submission2.Success]
+Ordre du commandement exécuté !
+[Submission2.Failed]
+Ordre du commandement non exécuté

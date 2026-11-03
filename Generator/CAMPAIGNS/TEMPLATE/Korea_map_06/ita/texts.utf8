@@ -1,0 +1,513 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Conquistare il centro abitato segnato sulla mappa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Le forze statunitensi hanno fortificato un centro abitato nella valle di montagna e vi hanno concentrato le loro forze. Questo luogo è l'unico corridoio di trasporto che collega la parte meridionale e quella settentrionale della catena montuosa. Dovete distruggere le difese nemiche con un attacco concentrato e conquistare il centro abitato.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Il nemico sta cercando di raggiungere il passo di montagna e di assicurarsi un punto d'appoggio sul versante meridionale. Il centro abitato è difeso da una piccola forza amica. Dovete contrattaccare il nemico per respingere il suo attacco in questo luogo.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici al centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Centro abitato perso.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Centro abitato perso.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Spg_support]
+I semoventi di riserva sono ai vostri ordini.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Il gruppo corazzato è a vostra disposizione.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+La squadra di fanteria è ai vostri ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+La squadra di fanteria è ai vostri ordini.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Il gruppo corazzato è disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Il gruppo corazzato è disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è a vostra disposizione.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è a vostra disposizione.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Conquistare il centro abitato segnato sulla mappa.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Le forze statunitensi hanno fortificato un centro abitato nella valle di montagna e vi hanno concentrato le loro forze. Questo luogo è l'unico corridoio di trasporto che collega la parte meridionale e quella settentrionale della catena montuosa. Dovete distruggere le difese nemiche con un attacco concentrato e conquistare il centro abitato.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Il nemico sta cercando di raggiungere il passo di montagna e di assicurarsi un punto d'appoggio sul versante meridionale. Il centro abitato è difeso da una piccola forza amica. Dovete contrattaccare il nemico per respingere il suo attacco in questo luogo.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici al centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Centro abitato perso.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Centro abitato perso.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Spg_support]
+I semoventi di riserva sono ai vostri ordini.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+Il gruppo corazzato è a vostra disposizione.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Infantry_support]
+La squadra di fanteria è ai vostri ordini.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Infantry_support]
+La squadra di fanteria è ai vostri ordini.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_support]
+Il gruppo corazzato è disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_support]
+Il gruppo corazzato è disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è a vostra disposizione.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è a vostra disposizione.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è disponibile.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[Reinforcement.Group_infantry]
+Fanteria
+
+[Reinforcement.Group_tanks]
+Carri armati
+
+[Reinforcement.Group_SAU]
+Semoventi
+
+[Reinforcement.Group_Infantry_2]
+Fanteria
+
+[Reinforcement.Group_tanks_2]
+Gruppo corazzato di riserva
+
+[Reinforcement.Group_tanks_3]
+Gruppo corazzato di riserva
+
+[Reinforcement.Group_infantry_3]
+Squadra di fanteria di riserva
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Conquistare il centro abitato segnato sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Le forze statunitensi hanno fortificato un centro abitato nella valle di montagna e vi hanno concentrato le loro forze. Questo luogo è l'unico corridoio di trasporto che collega la parte meridionale e quella settentrionale della catena montuosa. Dovete distruggere le difese nemiche con un attacco concentrato e conquistare il centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Conquistare il centro abitato.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Secondo la ricognizione aerea, una forza nemica si sta dirigendo verso il centro abitato segnato sulla mappa. Questo luogo sorge su un nodo stradale strategico ed è fondamentale per la nostra offensiva. Non permettete al nemico di conquistare il centro abitato. Attaccate e, se possibile, eliminate i nemici in marcia. Se il nemico arriva per primo, lanciate subito l'assalto, prima che abbia il tempo di organizzare le difese.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Conquistare il centro abitato.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Secondo la ricognizione aerea, una forza nemica si sta dirigendo verso il centro abitato segnato sulla mappa. Questo luogo sorge su un nodo stradale strategico ed è fondamentale per la nostra offensiva. Non permettete al nemico di conquistare il centro abitato. Attaccate e, se possibile, eliminate i nemici in marcia. Se il nemico arriva per primo, lanciate subito l'assalto, prima che abbia il tempo di organizzare le difese.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Conquistare la quota segnata sulla mappa.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+L'altura segnata sulla mappa è la chiave strategica per il controllo di due nodi stradali, perciò conquistarla in tempo è fondamentale. Conquistate l'altura e mantenetela per il tempo stabilito, fino all'arrivo delle nostre forze principali. Tenetevi pronti a respingere eventuali contrattacchi nemici.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Conquistare il centro abitato segnato sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Le forze statunitensi hanno fortificato un centro abitato nella valle di montagna e vi hanno concentrato le loro forze. Questo luogo è l'unico corridoio di trasporto che collega la parte meridionale e quella settentrionale della catena montuosa. Dovete distruggere le difese nemiche con un attacco concentrato e conquistare il centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Secondo la ricognizione, il nemico sta concentrando le proprie forze per un attacco. Molto probabilmente tenterà di sfondare le posizioni difese dal vostro gruppo di combattimento. Non dovete permetterlo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Respingete tutti gli attacchi nemici e, se possibile, contrattaccate. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Conquistare la quota segnata sulla mappa.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+L'altura segnata sulla mappa è la chiave strategica per il controllo di due nodi stradali, perciò conquistarla in tempo è fondamentale. Conquistate l'altura e mantenetela per il tempo stabilito, fino all'arrivo delle nostre forze principali. Tenetevi pronti a respingere eventuali contrattacchi nemici.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[Reinforcement.Group1[Reinforcement]]
+Mezzi corazzati e fanteria
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Conquistare tutte le fortificazioni dell'area ed eliminare i nemici.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Il nemico tenterà di conquistare le vostre fortificazioni. Impeditelo eliminando le sue truppe.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Conquistare tutte le fortificazioni dell'area ed eliminare i nemici.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Il nemico tenterà di conquistare le vostre fortificazioni. Impeditelo eliminando le sue truppe.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Missione fallita.
+

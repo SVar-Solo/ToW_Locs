@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Libérez Simachkovo ; repoussez les contre-attaques ennemies ; libérez Chnitki ; sécurisez la route de la gare de Krinki.
+[Mission.Description]
+Libérez Simachkovo ; repoussez les contre-attaques ennemies ; libérez Chnitki ; sécurisez la route de la gare de Krinki ; et empêchez l’ennemi de redéployer des renforts le long de cette route.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[StringTable.Subtitle_01]
+23 juin 1944, Biélorussie, à l’ouest de Vyssotchany.
+[Submission1.Objectives]
+Libérez Simachkovo.
+[Submission1.Description]
+Libérez Simachkovo des occupants allemands et établissez des positions défensives. Les données de reconnaissance confirmées indiquent la présence de groupes blindés ennemis à l’ouest et au sud de Simachkovo. 
+[Submission1.Success]
+Simachkovo libéré.
+[Submission1.Failed]
+Mission échouée.
+[Submission2.Objectives]
+Repoussez les contre-attaques ennemies.
+[Submission2.Description]
+Les données de reconnaissance confirmées indiquent la présence de groupes blindés ennemis à l’ouest et au sud de Simachkovo. Avec ces forces, l’ennemi tentera de reprendre Simachkovo. Vous devez tenir Simachkovo et repousser toutes les contre-attaques ennemies.
+[Submission2.Success]
+Mission accomplie. Contre-attaque ennemie repoussée.
+[Submission2.Failed]
+Mission échouée.
+[Submission3.Objectives]
+Coupez la route de la gare de Krinki.
+[Submission3.Description]
+Libérez Chnitki, avancez vers l’ouest et sécurisez la route de la gare et du village de Krinki. Suivez cette route vers le nord en éliminant toutes les troupes ennemies repérées.
+[Submission3.Success]
+Mission accomplie.
+[Submission3.Failed]
+Mission échouée.

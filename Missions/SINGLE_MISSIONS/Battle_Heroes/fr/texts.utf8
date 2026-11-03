@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+Repoussez toute attaque allemande, puis lancez une contre-attaque. 
+[Mission.Description]
+Les Allemands sont en vue du Kremlin. Moscou ne doit pas tomber aux mains des fascistes! 
+
+Vos ordres : 
+	- Mettez un terme à l’attaque ennemie et interrompez leur avance sur Moscou. 
+	- Lancer une contre-attaque. 
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Vous n'avez pas réussi à accomplir votre mission.
+[Submission_1.Objectives]
+Stoppez l'attaque ennemie.
+[Submission_1.Description]
+Stoppez l'attaque ennemie. 
+[Submission_1.Success]
+Mission accomplie.
+[Submission_2.Failed]
+La mission est un échec.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Description]
+Vous avez tenu. L'ennemi est en fuite. En regard de la situation actuelle, des chars vous seront attribués pour vous assister. Vous devez poursuivre l'ennemi!
+
+Vos ordres : 
+	- Contre-attaquez les troupes ennemies
+[Submission_2.Objectives]
+Contre-attaquez les troupes ennemies.
+[StringTable.Reserv_inf]
+La réserve d'infanterie vient de vous être détachée. 
+[StringTable.Reserv_Tanks]
+Les chars de réserve vous ont été détachés.
+[Submission_1.Failed]
+La mission est un échec.

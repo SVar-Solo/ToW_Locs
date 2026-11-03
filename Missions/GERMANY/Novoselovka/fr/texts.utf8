@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Détruisez les défenses ennemies dans le secteur de Novosselovka.
+[Mission.Description]
+Des unités russes en retraite, accompagnées de groupes de chars et d'artillerie antichar, sont passées à la défensive dans le secteur au sud de Novosselovka et dans le village même. Les flancs de la ligne de défense ennemie sont couverts par des champs de mines. L'équipe de combat a l'ordre d'assaillir Novosselovka, de percer les défenses ennemies et de s'emparer du village.
+[Mission.Success]
+Mission accomplie, Novosselovka est occupé.
+[Mission.Failed]
+Nous avons échoué à exécuter nos ordres. L'ennemi est trop fort ! 
+[Submission_1.Objectives]
+Détruisez les défenses ennemies dans le village.
+[Submission_1.Success]
+Les défenses ennemies sont détruites. Les positions sont occupées.
+[Submission_1.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire !
+[Submission_2.Objectives]
+Poursuivez l'avance vers le nord. Occupez la partie sud du village de Novosselovka.
+[Submission_2.Success]
+La partie sud du village est occupée.
+[Submission_2.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire.
+[Submission_3.Objectives]
+Prenez les positions ennemies au nord-ouest de Novosselovka.
+[Submission_3.Success]
+Mission accomplie. Les forces ennemies se sont retirées vers le nord-ouest.
+[Submission_3.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire.
+[Submission_4.Objectives]
+Repoussez la contre-attaque des chars russes !
+[Submission_4.Success]
+Les chars ennemis ont été détruits !
+[Submission_4.Failed]
+Nos forces se replient sous la pression de l'ennemi.
+[StringTable.First_support]
+Un groupe de chars de la réserve divisionnaire est désormais sous votre commandement.
+[StringTable.Second_support]
+Une unité d'infanterie et des canons automoteurs sont désormais sous votre commandement.
+
+[StringTable.Inf]
+Infanterie
+[StringTable.Tanks]
+Chars
+[StringTable.SPG]
+Canons automoteurs
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

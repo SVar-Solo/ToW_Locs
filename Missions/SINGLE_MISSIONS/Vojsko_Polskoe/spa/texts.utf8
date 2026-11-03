@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Reúna a todas las fuerzas amigas de los alrededores y traten de resistir el avance alemán. Si tienen que replegarse, retrocedan cruzando el río Vístula.
+[Mission.Description]
+Las tropas alemanas entraron en Polonia en la mañana del 1 de septiembre. Las unidades fronterizas polacas fueron rápidamente arrolladas y dispersadas. El mando y control polaco en el frente son prácticamente inexistentes en este momento. Las únicas acciones defensivas proceden de comandantes de unidades independientes que no reciben instrucciones de ningún oficial superior.
+
+Sus órdenes:
+-  Reúna a todas las unidades amigas bajo su mando.
+-  Defiéndase del avance de las tropas alemanas.
+-  Mantenga al coronel Czeslaw Mrozek con vida.
+
+
+Nota del diseñador: Es imperativo que mantengas con vida al coronel o, de lo contrario, no podrás controlar a las nuevas unidades polacas.
+[Mission.Success]
+¡Victoria! Bien hecho, coronel, ha logrado recuperar cierta apariencia de control en medio del caos.
+[Mission.Failed]
+¡Fracaso! La capacidad de mando y control se ha venido abajo, y usted no ha sido capaz de organizar una defensa adecuada.
+[Submission_1.Objectives]
+En una localidad cercana hay una unidad de infantería amiga que precisa de liderazgo. Sírvase de ella para la defensa.
+[Submission_1.Description]
+Sus órdenes:
+- 	Asuma el mando de la guarnición del pueblo que tiene por delante.
+[Submission_1.Success]
+Lo ha conseguido. Ha podido ponerse al frente de estas tropas.
+[Submission_1.Failed]
+Ha sido incapaz de ponerse al frente de las tropas de guarnición.
+[StringTable.Garnizon_1]
+La guarnición ya está bajo su mando directo.
+[Submission_2.Objectives]
+Avance hacia la posición siguiente.
+[Submission_2.Success]
+Lo ha logrado. Los efectivos vitales para la victoria ya están a su mando.
+[Submission_2.Description]
+La guarnición del pueblo ha hecho aumentar sus efectivos, pero esas tropas por sí solas no bastan para detener todo el avance alemán. Según un jefe de pelotón, en un pueblo cercano hay unos cuantos tanques y tres armas antitanque.
+
+Sus órdenes:
+- 	Avance hasta el siguiente pueblo y hágase con el material que se encuentra allí.
+[Submission_2.Failed]
+¡Fracaso! No ha podido hacerse con el material.
+[Submission_3.Objectives]
+Rechace todo ataque enemigo.
+[Submission_3.Description]
+Ha sido capaz de reforzar sus efectivos con hombres y material. Esperemos que sea suficiente para detener el ataque alemán. El enemigo se acerca por un ancho frente, así que prepárese para defenderse de varias oleadas procedentes de cualquier dirección. No debe permitirles cruzar el Vístula.
+
+Sus órdenes:
+- 	Rechace todo ataque enemigo.
+- 	Impida que los alemanes crucen el Vístula.
+[Submission_3.Success]
+El ataque enemigo ha sido rechazado. ¡No se olvidará lo que ha hecho hoy!
+[Submission_3.Failed]
+El ataque del enemigo era imposible de vencer, y no ha podido detenerlo.
+[Submission_4.Objectives]
+Ha resistido el principal ataque enemigo, pero ha llegado el momento de retirarse.
+[Submission_4.Description]
+El coronel Mrozek debe llegar con vida al otro lado del río.
+[Submission_4.Success]
+¡Lo ha conseguido! El coronel ha sobrevivido y vivirá para luchar otro día. Si todos nuestros oficiales luchan con este valor, Polonia será capaz de hacer retroceder a los alemanes hasta la frontera.
+[Submission_4.Failed]
+El coronel no ha sobrevivido. A pesar de que luchó como un valiente, su destino y quizás el de toda Polonia estaban sentenciados.

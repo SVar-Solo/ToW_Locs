@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Arrêtez l’ennemi
+[Mission.Description]
+Prenez le commandement des unités de chars, d’infanterie et d’artillerie de la 6e division blindée et arrêtez l’avance de la 10e Panzerdivision ennemie en l’empêchant de prendre Thala. Nos troupes dispersées continuent de se replier depuis le col de Kasserine. Vous devez sécuriser les routes avec vos unités mobiles et ramener nos troupes, en les soutenant si nécessaire.
+[Mission.Success]
+Mission accomplie !
+[Mission.Failed]
+Mission échouée !
+[Submission1.Objectives]
+Attaquez l’avant-garde allemande
+[Submission1.Description]
+Des éléments d’avant-garde ennemis approchent de nos positions. Détruisez-les.
+[Submission1.Success]
+L’ordre a été exécuté !
+[Submission1.Failed]
+L’ordre n’a pas été exécuté !
+[Submission2.Objectives]
+Sécurisez la colonne
+[Submission2.Description]
+Plusieurs véhicules s’éloignent du col de Kasserine ; il semble s’agir de nos unités en repli. Vérifiez-le et organisez leur protection contre d’éventuelles attaques allemandes.
+[Submission2.Success]
+Mission accomplie !
+[Submission2.Failed]
+Mission échouée !
+[Submission4.Objectives]
+Repoussez toutes les attaques ennemies.
+[Submission4.Description]
+Tenez 20 minutes, le temps que nos avions d’assaut entrent en action. Des unités alliées sont en route et l’aviation agira en notre faveur ; elle est déjà en l’air, il faut tenir encore quelques minutes.
+[Submission4.Failed]
+Mission échouée !
+[Submission4.Success]
+Mission accomplie.
+[StringTable.SubMission4_WIN]
+Coordonnées reçues, l’artillerie ouvre le feu !
+[StringTable.Message1]
+Prenez le commandement des unités de chars, d’infanterie et d’artillerie de la 6e division blindée et arrêtez l’avance de la 10e Panzerdivision ennemie en l’empêchant de prendre Thala. 
+[StringTable.Message2]
+Repoussez toutes les attaques ennemies. Tenez 20 minutes, le temps que nos avions d’assaut entrent en action.
+[StringTable.Message3]
+À couvert ! Notre aviation va pilonner les Allemands jusqu’à les écraser dans la poussière !

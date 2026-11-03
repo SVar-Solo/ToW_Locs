@@ -1,0 +1,23 @@
+﻿[Mission1.Objectives]
+Distruggi le difese del nemico.
+[Mission1.Description]
+Le truppe nemiche hanno stabilito una linea difensiva sulla via per il villaggio di Kryukovo. E’ di vitale importanza per le nostre truppe riprendere il controllo dell’abitato. Distruggi le truppe nemiche nelle vicinanze e riprendi il villaggio!
+
+I tuoi ordini sono:
+- Distruggi le difese del nemico.
+[Mission1.Success]
+Le difese del nemico sono state distrutte! Gli ordini ricevuti sono stati eseguiti!
+[Mission1.Failed]
+Le tue truppe sono state sconfitte! Non sei riuscito a eseguire i tuoi ordini! 
+[Mission2.Objectives]
+Respingi il contrattacco del nemico.
+[Mission2.Description]
+Le truppe tedesche hanno lanciato il contrattacco. Mantieni le nuove posizioni catturate. 
+I tuoi ordini sono:
+- Respingi il contrattacco del nemico.
+- Mantieni le nuove posizioni catturate.
+
+[Mission2.Success]
+Gli ordini del Quartier Generale sono stati eseguiti! Hai fermato il contrattacco del nemico.
+[Mission2.Failed]
+Le tue truppe sono state sconfitte. Hai fallito.

@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Zapobiegnij atakowi
+[Submission_1.Description]
+Wróg próbuje zgromadzić siły, aby uderzyć wzdłuż drogi na przedmieścia. Postaraj się zapobiec jednoczesnemu atakowi, ostrzeliwując przegrupowujące się jednostki wroga.
+[NewSubmission.Success]
+Misja wykonana: bateria zniszczona, a jej stanowiska zdobyte.
+[NewSubmission.Failed]
+Misja nieudana.
+[Mission.Objectives]
+Ochroń przedmieścia Maknassy
+[Mission.Description]
+Obejmij dowodzenie nad pozycjami obronnymi i przygotuj się do odparcia ataku. Wyprzyj wroga z przedmieść Maknassy.
+[Submission_2.Objectives]
+Zniszcz baterię artylerii
+[Submission_2.Description]
+Zauważono wrogą baterię artylerii. Zniszcz ją i oczyść wskazane pozycje.
+[Submission_1.Success]
+Misja wykonana.
+[Submission_1.Failed]
+Misja nieudana.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana.
+[Submission_2.Success]
+Misja wykonana.
+[Submission_2.Failed]
+Misja nieudana.

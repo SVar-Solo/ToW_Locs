@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Avanzate fino al villaggio di Cheux e conquistatelo.
+[Mission.Description]
+Il nemico non si aspetta il nostro arrivo e la guarnigione di Cheux è piccola.
+[Submission_1.Objectives]
+Respingere il contrattacco.
+[Submission_1.Description]
+Il nemico sta cercando di far affluire riserve a sostegno dei difensori.
+[NewSubmission.Success]
+Contrattacco respinto.
+[NewSubmission.Failed]
+Il nemico ha sfondato.
+[Submission_01.Success]
+Cheux conquistata.
+[Submission_01.Failed]
+Conquista di Cheux fallita.
+[Mission.Success]
+Villaggio conquistato. Area assicurata.
+[Mission.Failed]
+Le difese nemiche erano più solide del previsto.
+[Submission_1.Success]
+Attacco respinto.
+[Submission_1.Failed]
+Compito non portato a termine.
+[StringTable.Tanks]
+Forza di riserva disponibile.

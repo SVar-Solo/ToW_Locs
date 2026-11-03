@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capture la localidad en el valle.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capture la localidad en el valle.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Localidad capturada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Localidad capturada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Tropas aliadas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Tropas aliadas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Su equipo de combate ha irrumpido en el principal corredor de transporte enemigo, pero el grueso de las fuerzas enemigas defiende la localidad. Destruya las defensas enemigas y capture la localidad.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Su equipo de combate ha irrumpido en el principal corredor de transporte enemigo, pero el grueso de las fuerzas enemigas defiende la localidad y podría estar preparando un contraataque. Capture la localidad.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Asesten un golpe demoledor a los hostiles atacantes. No permita que el enemigo capture la localidad.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Según el reconocimiento, una vanguardia enemiga avanza hacia la localidad donde están acantonadas sus tropas. Enfréntelos y elimine a todos los hostiles. Si algunos logran llegar hasta la localidad, elimínelos con los defensores restantes.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Rechace todos los contraataques enemigos contra la localidad.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Mantenga la línea durante el tiempo especificado hasta nueva orden.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+El enemigo capturó la localidad.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+El enemigo capturó la localidad.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+La localidad del valle es un punto defensivo estratégico de la zona y se encuentra en el principal corredor de transporte. Si perdemos esta posición, nuestras comunicaciones en la zona quedarán cortadas. Debe mantener la línea durante el tiempo especificado y no permitir que el enemigo capture esta posición.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+La localidad del valle es un punto defensivo estratégico de la zona y se encuentra en el principal corredor de transporte. Si perdemos esta posición, nuestras comunicaciones en la zona quedarán cortadas. No debe permitir que el enemigo capture esta posición.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Un equipo blindado de reserva está a sus órdenes.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Un equipo de infantería de reserva está a sus órdenes.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_support]
+Un equipo de infantería mecanizada está a sus órdenes.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Un equipo de infantería de reserva está a sus órdenes.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_support]
+Un equipo de infantería mecanizada está a sus órdenes.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Un equipo de infantería de reserva está disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Un equipo blindado de reserva está a sus órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Un equipo de infantería de reserva está disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Un equipo blindado de reserva está a sus órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible y espera órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible y espera órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capture la localidad en el valle.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Su equipo de combate ha irrumpido en el principal corredor de transporte enemigo. El grueso de las fuerzas enemigas defiende la localidad. Destruya las defensas enemigas y capture la posición.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture la localidad.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Según el reconocimiento, una vanguardia enemiga avanza hacia la localidad marcada en el mapa. Debe adelantarse al enemigo, capturar primero la localidad y luego organizar sus defensas. Si el enemigo llega antes, atáquelo de inmediato, elimine a todos los hostiles y capture la posición.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+La localidad del valle es un punto defensivo estratégico de la zona y se encuentra en el principal corredor de transporte. Si perdemos esta posición, nuestras comunicaciones en la zona quedarán cortadas. No debe permitir que el enemigo capture esta posición.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+La localidad del valle es un punto defensivo estratégico de la zona y se encuentra en el principal corredor de transporte. Si perdemos esta posición, nuestras comunicaciones en la zona quedarán cortadas. No debe permitir que el enemigo capture esta posición.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Según el reconocimiento, una vanguardia enemiga avanza hacia la localidad donde están acantonadas sus tropas. Debe mantener la localidad durante el tiempo especificado hasta que lleguen nuestras fuerzas principales.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Mantenga la localidad durante el tiempo especificado.
+
+[Reinforcement.Group1[Reinforcement]]
+Vehículos blindados e infantería
+

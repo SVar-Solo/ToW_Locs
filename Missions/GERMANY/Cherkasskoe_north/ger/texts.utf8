@@ -1,0 +1,47 @@
+﻿[StringTable. Hoerlein]
+Beginnen Sie den Angriff, nachdem die Sturzkampfbomber ihren Angriff auf die russischen Stellungen im Dorf beendet haben.
+[StringTable.Nebelwerfer_support]
+Eine Mörserbatterie steht zur Unterstützung des Vorstoßes bereit.
+[Mission.Objectives]
+Besetzen Sie den nördlichen Teil von Tscherkasskoje. Zerschlagen Sie die feindlichen Kräfte in dem Gebiet.
+[Mission.Description]
+Der Gefechtsverband wird in einem gemeinsamen Angriff von Panzern, Sturmgeschützen und Infanterie Tscherkasskoje einnehmen. Sobald die ersten Stellungen eingenommen wurden, bereiten Sie sich auf die Gegenangriffe durch feindliche Panzer und Panzerhaubitzen auf die Flanken vor.
+[Mission.Success]
+Tscherkasskoje wurde besetzt und die feindlichen Truppen wurden vernichtet.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark!
+[Submission_2_1.Objectives]
+Wehren Sie die Gegenangriffe ab und zerstören Sie Panzer und Sturmgeschütze.
+[Submission_2_1.Success]
+Die russischen Panzer wurden zerstört!
+[Submission_2_1.Failed]
+Unsere Truppen mussten sich unter feindlichem Feuer zurückziehen.
+[Submission_2_2.Objectives]
+Wehren Sie die Gegenangriffe ab und zerstören Sie Panzer und Sturmgeschütze.
+[Submission_2_2.Success]
+Die russischen Panzer wurden zerstört!
+[Submission_2_2.Failed]
+Unsere Truppen mussten sich unter feindlichem Feuer zurückziehen.
+[Submission_3.Objectives]
+Russischer Mörserbeschuss behindert unseren Vorstoß. Die Luftaufklärung zeigt, dass die Feuerstellungen sich im Hain nordwestlich von Tscherkasskoje befinden. Diese Stellungen müssen entweder besetzt werden oder die Mörser müssen mit Gegenfeuer neutralisiert werden. 
+[Submission_3.Success]
+Die feindliche Mörserbatterie wurde zerstört.
+[Submission_3.Failed]
+Wir konnten die feindlichen Mörser nicht zerstören.
+[Submission_4.Objectives]
+Zerstören Sie die russischen Panzerabwehrkanonen im Nordosten von Tscherkasskoje.
+[Submission_4.Success]
+Die russische Panzerabwehrstellung wurde zerstört.
+[Submission_4.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[StringTable.Hoerlein]
+Beginnen Sie den Angriff, nachdem die Sturzkampfbomber ihren Angriff auf die russischen Stellungen im Dorf beendet haben.
+[StringTable.Tanks]
+Panzer und Infanterie
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

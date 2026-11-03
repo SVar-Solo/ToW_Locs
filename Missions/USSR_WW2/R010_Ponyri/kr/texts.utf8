@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+증원이 도착할 때까지 버텨라. 최대한 많은 적 부대를 격파하라.
+[Submission_1.Description]
+
+명령:
+- 	증원이 도착할 때까지 버텨라. 
+- 	최대한 많은 적 부대를 격파하라. 
+[Submission_1.Success]
+증원 부대가 도착했다!
+[Submission_1.Failed]
+패배했다. 충분히 오래 버티지 못했다.
+[Submission_2.Objectives]
+진지를 사수하라.
+[Submission_2.Description]
+포니리 종착역은 쿠르스크 돌출부 북쪽 면 방어의 핵심 거점이다. 이를 간파한 독일군 사령부는 가장 무거운 기갑 및 자주포 부대 일부를 이 구역에 투입했다. 
+
+명령:
+- 	포니리 종착역의 진지를 사수하라. 
+[Submission_2.Success]
+잘했다, 지휘관. 압도적 불리함 속에서도 버텨냈다.
+[Submission_2.Failed]
+조국을 저버렸다! 귀관의 부대가 전멸했다.
+[Mission.Objectives]
+독일군의 진격을 저지하라. 
+[Mission.Description]
+쿠르스크 돌출부 북쪽 면 전체에 걸쳐 독일군 부대가 포니리 종착역 부근에서 치열하게 싸우고 있다. 
+
+명령: 
+- 	종착역 부근의 아군 전선이 돌파되지 않도록 막아라. 
+[Mission.Success]
+명령이 성공했다. 독일군은 전선을 돌파하지 못했다. 
+[Mission.Failed]
+독일군의 돌파를 막지 못했다. 그들은 이제 쿠르스크를 향해 곧장 진격하고 있다.
+[StringTable.T34_Income]
+증원 부대가 도착했다.
+[StringTable.SPG_reserv]
+증원 부대가 도착했다. 
+[StringTable.Inf_reserv]
+예비 보병이 이제 지휘관의 지휘하에 있다.

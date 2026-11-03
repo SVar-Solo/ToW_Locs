@@ -1,0 +1,228 @@
+﻿[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Nicht zulassen, dass der Feind die Brücke einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Die Brücke ist von strategischer Bedeutung, wird derzeit aber nur von einem kleinen Infanterietrupp verteidigt. Laut Aufklärung bereitet der Feind einen Angriff auf die Stellung vor. Sie müssen zügig vorrücken und dem angreifenden Feind mit einem Präventivschlag zuvorkommen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission gescheitert. Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert. Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert. Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Die Brücke ist von strategischer Bedeutung. Sie müssen vorrücken und dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Achten Sie auf die linke Flanke, die verwundbar ist und von Infanterietrupps durchbrochen werden könnte. Sie müssen die Brücke um jeden Preis halten.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Die Brücke ist von strategischer Bedeutung. Sie müssen vorrücken und dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Achten Sie auf die linke Flanke, die verwundbar ist und von Infanterietrupps durchbrochen werden könnte. Sie müssen die Brücke um jeden Preis halten.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Nicht zulassen, dass der Feind die Brücke einnimmt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Nicht zulassen, dass der Feind die Brücke einnimmt.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerieunterstützung wartet auf Befehle.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerieunterstützung wartet auf Befehle.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Die verteidigenden Feinde ausschalten und die auf der Karte markierte Ortschaft einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Ihr Kampftrupp hat den Auftrag, unsere Kräfte über den Fluss zu eskortieren. Nehmen Sie die Brücke ein und vernichten Sie die feindlichen Verteidigungsstellungen in der Ortschaft, die unseren Vormarsch behindern.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Ihr Kampftrupp hat den Auftrag, unsere Kräfte über den Fluss zu eskortieren. Nehmen Sie die Brücke ein und vernichten Sie die feindlichen Verteidigungsstellungen in der Ortschaft, die unseren Vormarsch behindern. Laut Aufklärung wird der Feind mit beweglicher Feuerkraft aktiv Gegenangriffe führen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Die verteidigenden Feinde ausschalten und die auf der Karte markierte Ortschaft einnehmen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Nicht zulassen, dass der Feind die Brücke einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Die Brücke ist von strategischer Bedeutung, wird derzeit aber nur von einem kleinen Infanterietrupp verteidigt. Laut Aufklärung bereitet der Feind einen Angriff auf die Stellung vor. Sie müssen zügig vorrücken und dem angreifenden Feind mit einem Präventivschlag zuvorkommen.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission gescheitert. Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert. Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert. Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Die Brücke ist von strategischer Bedeutung. Sie müssen vorrücken und dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Achten Sie auf die linke Flanke, die verwundbar ist und von Infanterietrupps durchbrochen werden könnte. Sie müssen die Brücke um jeden Preis halten.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Die Brücke ist von strategischer Bedeutung. Sie müssen vorrücken und dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Achten Sie auf die linke Flanke, die verwundbar ist und von Infanterietrupps durchbrochen werden könnte. Sie müssen die Brücke um jeden Preis halten.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Nicht zulassen, dass der Feind die Brücke einnimmt.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Dem angreifenden Feind mit einem Präventivschlag zuvorkommen. Nicht zulassen, dass der Feind die Brücke einnimmt.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillerieunterstützung wartet auf Befehle.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillerieunterstützung wartet auf Befehle.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Die verteidigenden Feinde ausschalten und die auf der Karte markierte Ortschaft einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Ihr Kampftrupp hat den Auftrag, unsere Kräfte über den Fluss zu eskortieren. Nehmen Sie die Brücke ein und vernichten Sie die feindlichen Verteidigungsstellungen in der Ortschaft, die unseren Vormarsch behindern.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Ihr Kampftrupp hat den Auftrag, unsere Kräfte über den Fluss zu eskortieren. Nehmen Sie die Brücke ein und vernichten Sie die feindlichen Verteidigungsstellungen in der Ortschaft, die unseren Vormarsch behindern. Laut Aufklärung wird der Feind mit beweglicher Feuerkraft aktiv Gegenangriffe führen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Die verteidigenden Feinde ausschalten und die auf der Karte markierte Ortschaft einnehmen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[Reinforcement.Group_tanks_infantry]
+Reserve-Infanterie-Panzer-Trupp
+
+[Reinforcement.Group1[Reinforcement]]
+Reserve-Artillerie
+

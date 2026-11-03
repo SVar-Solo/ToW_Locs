@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Befreien Sie Ilyichevka, Gorovatka, Shapechino. Vernichten Sie feindliche Kräfte im Gebiet.
+[Mission.Description]
+Befreien Sie Ilyichevka, Gorovatka, Shapechino. Vernichten Sie feindliche Kräfte im Gebiet.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Mission fehlgeschlagen.
+[Submission1.Objectives]
+Befreien Sie Ilyichevka.
+[Submission1.Description]
+Befreien Sie Ilyichevka.
+[Submission1.Success]
+Aufgabe erfüllt.
+[Submission1.Failed]
+Aufgabe fehlgeschlagen.
+[Submission2.Objectives]
+Befreien Sie Gorovatka.
+[Submission2.Description]
+Befreien Sie Gorovatka. Vernichten Sie die mobile Kampfgruppe, die dem Feind zu Hilfe kommt.
+[Submission2.Success]
+Aufgabe erfüllt.
+[Submission2.Failed]
+Aufgabe fehlgeschlagen.
+[Submission3.Objectives]
+Befreien Sie Shapechino.
+[Submission3.Description]
+Befreien Sie Shapechino.
+[Submission3.Success]
+Aufgabe erfüllt.
+[Submission3.Failed]
+Aufgabe fehlgeschlagen.

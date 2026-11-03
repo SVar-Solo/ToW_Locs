@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Liberte Vysochany dos ocupantes alemães e destrua a posição inimiga.
+[Mission.Description]
+Você deve eliminar a guarnição inimiga em Kurtenki, que controla a estrada para Vysochany; assegurar essa estrada; destruir as tropas blindadas inimigas na área Kurtenki–Vysochany; e suprimir a artilharia nos arredores sul de Vysochany.
+[Mission.Success]
+Tarefa cumprida, Vysochany libertada.
+[Mission.Failed]
+Tarefa fracassada.
+[Submission1.Objectives]
+Liberte Kurtenki.
+[Submission1.Description]
+Elimine a guarnição inimiga em Kurtenki e assegure a estrada para Vysochany. Prepare-se para repelir o contra-ataque inimigo.
+[Submission1.Success]
+Kurtenki assegurada.
+[Submission1.Failed]
+Tarefa fracassada.
+[Submission2.Objectives]
+Destrua a coluna blindada inimiga que vem em auxílio da guarnição de Kurtenki.
+[Submission2.Description]
+A coluna blindada inimiga vem de Vysochany em auxílio da guarnição de Kurtenki. Intercepte-a e destrua-a atraindo-a para uma emboscada.
+[Submission2.Success]
+Coluna inimiga destruída.
+[Submission2.Failed]
+Tarefa fracassada.
+[Submission3.Objectives]
+Outro grupo blindado inimigo partiu de Vysochany para interceptá-lo. Destrua-o e prossiga para a libertação da aldeia.
+[Submission3.Description]
+Assegure por completo a estrada para Vysochany. Destrua o grupo blindado inimigo.
+[Submission3.Success]
+A estrada para Vysochany está livre.
+[Submission3.Failed]
+Tarefa fracassada.

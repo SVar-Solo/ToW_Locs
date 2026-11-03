@@ -1,0 +1,69 @@
+﻿[StringTable.]
+
+
+[StringTable.ArmyB_WIN]
+¡La Alianza n.º 2 gana!
+
+[StringTable.ArmyA_WIN]
+¡La Alianza n.º 1 gana!
+
+[StringTable.ArmyA_king_Hill_A]
+¡La Alianza n.º 1 capturó la bandera A!
+
+[StringTable.ArmyA_king_Hill_B]
+¡La Alianza n.º 1 capturó la bandera B!
+
+[StringTable.ArmyA_king_Hill_C]
+¡La Alianza n.º 1 capturó la bandera C!
+
+[StringTable.ArmyA_king_Hill_D]
+¡La Alianza n.º 1 capturó la bandera D!
+
+[StringTable.ArmyA_king_Hill_E]
+¡La Alianza n.º 1 capturó la bandera E!
+
+[StringTable.ArmyB_king_Hill_A]
+¡La Alianza n.º 2 capturó la bandera A!
+
+[StringTable.ArmyB_king_Hill_B]
+¡La Alianza n.º 2 capturó la bandera B!
+
+[StringTable.ArmyB_king_Hill_C]
+¡La Alianza n.º 2 capturó la bandera C!
+
+[StringTable.ArmyB_king_Hill_D]
+¡La Alianza n.º 2 capturó la bandera D!
+
+[StringTable.ArmyB_king_Hill_E]
+¡La Alianza n.º 2 capturó la bandera E!
+
+[StringTable.Hill_A_Lost]
+¡Se perdió la bandera A!
+
+[StringTable.Hill_B_Lost]
+¡Se perdió la bandera B!
+
+[StringTable.Hill_C_Lost]
+¡Se perdió la bandera C!
+
+[StringTable.Hill_D_Lost]
+¡Se perdió la bandera D!
+
+[StringTable.Hill_E_Lost]
+¡Se perdió la bandera E!
+
+[StringTable.ArmyA_capture_ALL_flags]
+¡La Alianza n.º 1 capturó todas las banderas! La Alianza n.º 2 tiene 2 minutos para recuperar al menos 1 bandera o perderá la misión.
+
+[StringTable.ArmyB_capture_ALL_flags]
+¡La Alianza n.º 2 capturó todas las banderas! La Alianza n.º 1 tiene 2 minutos para recuperar al menos 1 bandera o perderá la misión.
+
+[StringTable.One_or_more_flags_lost]
+¡Se perdieron una o más banderas!
+
+[StringTable.rus]
+Refuerzos
+
+[StringTable.ger]
+Refuerzos
+

@@ -1,0 +1,69 @@
+﻿[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Objectives]
+Для захвата области необходимо уничтожить противника в этом районе.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Description]
+Враг обладает в этом районе укрепленными позициями. Необходимо уничтожить группировку противника, прорвав его оборону.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Success]
+Вы успешно выполнили задачу.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Failed]
+Вы не справились с поставленной задачей.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Objectives]
+Вам приказано остановить вражеское наступление упорной обороной в данном районе.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Success]
+Вы успешно выполнили задачу.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Failed]
+Вы не справились с поставленной задачей.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Description]
+Противник атакует ваши укрепления. Необходимо уничтожить атакующую группировку противника.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Objectives]
+Необходимо уничтожить противника в этом районе, захватив укрепленные позиции.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Description]
+Противник постарается захватить укрепленные позиции. Необходимо уничтожить группировку противника, не дав ему осуществить свой план.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Success]
+Вы успешно выполнили задачу.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Failed]
+Вы не справились с поставленной задачей.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Objectives]
+Вы в окружении, держите оборону в данном районе.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Description]
+Враг атакует ваши укрепления. Необходимо уничтожить атакующую группировку противника.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Success]
+Вы успешно выполнили задачу.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Failed]
+Вы не справились с поставленной задачей.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Objectives]
+Необходимо уничтожить противника в районе, захватив укрепленные позиции.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Success]
+Вы успешно выполнили задачу.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Failed]
+Вы не справились с поставленной задачей.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Description]
+Противник постарается захватить укрепленные позиции. Необходимо уничтожить группировку противника, не дав ему осуществить свой план.
+
+[Reinforcement.DefendGroupR1]
+2 отделения пехоты при поддержке 2-х самоходных орудий
+
+[Reinforcement.AssaultGroupR1]
+2 танка при поддержке 2-х пехотных отделений
+
+[Reinforcement.AttackGroupR1]
+2 танка при поддержке 2-х пехотных отделений
+

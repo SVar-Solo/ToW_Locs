@@ -1,0 +1,24 @@
+﻿[mission.Objectives]
+Foncez vers le pont au nord et traversez-le avec toutes les troupes disponibles.
+[mission.Description]
+De violents combats font rage partout en France. Les troupes allemandes approchent de Paris. Après la bataille d'Arras, notre groupe a été encerclé. La situation est désespérée, il n'y a aucune chance de survivre, mais nous continuerons à combattre jusqu'au bout.
+[mission.Success]
+Mission accomplie, nos troupes ont atteint le pont.
+[mission.Failed]
+Votre escouade a été anéantie.
+[Submission_1.Objectives]
+Effectuer une reconnaissance des forces ennemies.
+[Submission_1.Description]
+Effectuer une reconnaissance des forces ennemies.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Vous devez atteindre le pont le plus rapidement possible, en évitant les grands groupes ennemis.
+[Submission_2.Description]
+L'ennemi qui nous encercle est dispersé, et il y a encore une chance de rejoindre nos troupes avant que l'infanterie ennemie ne s'infiltre. Vous devez forcer le passage vers le pont aussi vite que possible, en évitant les grands groupes ennemis.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.

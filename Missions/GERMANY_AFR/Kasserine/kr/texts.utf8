@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+방어선 돌파
+[Mission.Description]
+게르하르트 소령, 자네의 전투단은 탈라를 거쳐 르케프로 진격하라. 탈라로 가는 길은 카세린 고개를 지나는데, 아군 정보에 따르면 미군이 그곳을 방어하고 있다. 고개의 적 방어선을 돌파하고 계속 진격하라.
+[Mission.Success]
+적 방어 시설을 파괴했다.
+[Mission.Failed]
+후퇴하라. 고개의 적 방어선을 돌파하지 못했다.
+[Submission_1.Objectives]
+좌측면 제거
+[Submission_1.Description]
+즉시 적을 공격하여 적 방어선의 좌측면을 제거하라. 정보에 따르면 고개를 지나는 도로는 상당히 좁고 적 포병이 이미 사격 제원을 맞춰 놓았다. 그러나 적 대전차포에 접근하여 파괴할 수 있는 산길이 있다.
+[Submission_1.Success]
+적 방어선의 좌측면을 파괴했다!
+[Submission_1.Failed]
+임무 실패.
+[Submission_1_1.Objectives]
+반격 격퇴
+[Submission_1_1.Description]
+적이 반격해 오고 있다! 즉시 병력을 동원하여 공격을 격퇴하라!
+[Submission_1_1.Success]
+반격을 성공적으로 격퇴했다.
+[Submission_1_1.Failed]
+임무 실패.
+[Submission_3.Objectives]
+적 방어 시설 제거
+[Submission_3.Description]
+아군 정보에 따르면 적의 소규모 전투단이 고개 너머에 방어선을 구축했다. 탈라로 진격하려면 적의 방어 시설을 제거해야 한다.
+[Submission_3.Success]
+적 방어 시설을 제거했다.
+[Submission_3.Failed]
+임무 실패.
+[Submission_2.Objectives]
+우측면 제거
+[Submission_2.Description]
+아군 정찰 결과 적은 한 곳을 제외한 고개의 모든 통로에 지뢰를 매설했고, 그 한 곳은 적 포병과 보병이 지키고 있다. 아군 항공기가 대규모 적 부대가 고개로 접근 중이라고 보고하여 지뢰를 제거할 시간이 없다. 아군이 진격할 수 있도록 적 방어선의 우측면을 분쇄해야 한다.
+[Submission_2.Success]
+적 방어선의 우측면을 파괴했다.
+[Submission_2.Failed]
+임무 실패.
+[Submission_2_1.Objectives]
+적 분쇄
+[Submission_2_1.Description]
+적 전투단이 반격하고 있다! 결정적 일격으로 놈들을 섬멸해야 한다.
+[Submission_2_1.Success]
+적 전투단을 섬멸했다.
+[Submission_2_1.Failed]
+임무 실패.
+[StringTable.Reinforcement]
+게르하르트 소령. 이제 제10기갑사단의 전차와 보병에 대한 지휘권을 갖는다.

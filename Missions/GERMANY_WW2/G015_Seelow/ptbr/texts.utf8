@@ -1,0 +1,38 @@
+﻿[Submission_1.Objectives]
+Impeça que os russos atravessem o canal. 
+[Submission_1.Description]
+Alemanha Oriental... Os russos avançam lutando em direção a Berlim. A última chance de conter o inimigo é nas Colinas de Seelow. Montanhas baixas cobrem o terreno e os vales são cortados por canais. Sua missão é conter as unidades inimigas que avançam até a chegada dos reforços amigos. Há boas posições defensivas em ambos os lados do canal. Para ganhar tempo suficiente para que reforços adequados cheguem e se posicionem, você deve impedir que os russos atravessem o canal. 
+
+Suas ordens: 
+- 	Resista até a chegada dos reforços. 
+- 	Impeça que os russos atravessem o canal.
+[Submission_1.Success]
+Bom trabalho! O heroísmo de seus soldados não tem igual!
+[Submission_1.Failed]
+Você perdeu, a Alemanha está condenada.
+[Submission_2.Objectives]
+Organize suas defesas nas colinas. Repila os ataques russos. 
+[Submission_2.Description]
+O Quartel-General designou forças da reserva da Divisão para você. Estabeleça posições defensivas nas colinas e repila o assalto russo.
+
+Suas ordens:
+- 	Lute até o fim!
+[Submission_2.Success]
+Você venceu. Embora a guerra possa estar perdida, resistimos por mais um dia.
+[Submission_2.Failed]
+Você perdeu. Nosso destino agora está nas mãos de nossos inimigos.
+[Mission.Objectives]
+Mantenha as Colinas de Seelow.
+[Mission.Description]
+As forças do Exército Vermelho avançam lutando em direção a Berlim. Têm vantagem em efetivos e equipamento. Nesta situação crítica, é necessário resistir, conter o assalto e, partindo das muralhas de Berlim, desferir um golpe esmagador no inimigo. O povo alemão olha para seus soldados com esperança! O inimigo, sob o comando do marechal Zhukov, é zeloso demais e avança às pressas, com pouca ordem. Aproveite os erros dele!
+
+Suas ordens:
+- 	Entrincheirado nas Colinas de Seelow, impeça que as tropas russas rompam suas defesas. 
+[Mission.Success]
+Você resistiu! A Alemanha sobrevive mais um dia diante de seus inimigos.
+[Mission.Failed]
+Você sofreu uma derrota! A guerra está perdida!
+[StringTable.reserv]
+Chegaram reforços.
+[StringTable.Last_reserv]
+Tropas da reserva do Quartel-General do Exército foram enviadas para reforçá-lo. Mantenha as colinas a qualquer custo!

@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Détruisez les défenses ennemies.
+[Mission.Description]
+Les troupes allemandes se sont encore une fois établies sur une nouvelle ligne de défense. Ils ont concentré des moyens antichar considérables près de Chismena.
+
+Vos ordres sont:
+- Détuisez les défenses ennemies situées aux environs de Chismena.
+[Mission.Success]
+Les défenses ennemies ont été détruites! Mission accomplie!
+[Mission.Failed]
+Vous avez échoué!
+[Submission_1.Objectives]
+Capturer les hauteurs.
+[Submission_1.Description]
+Les forces ennemies sont concentrées sur les hauteurs au nord du hameau. Elles comprennent des canons antichar et des canons autopropulsés.
+
+Vos ordres sont:
+- Délogez les forces ennemies des hauteurs.
+[Submission_1.Success]
+Mission accomplie! Vous avez délogé l’ennemi.
+[Submission_1.Failed]
+La mission est un échec. L’ennemi a résisté à votre attaque.

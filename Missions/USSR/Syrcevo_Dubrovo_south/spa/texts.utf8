@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Mantenga las posiciones defensivas en la línea Dubrova - Solonetz. Impida que los tanques enemigos rompan hacia Syrtsev.
+[Mission.Description]
+Junto con una batería de artillería antitanque, una unidad de fusiles antitanque y tanques, mantenga la zona defensiva. Debe darse especial prioridad a mantener las posiciones en la aldea. Use los tanques para emboscadas.
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+Nuestras fuerzas se retiran ante los golpes de un enemigo superior.
+[Submission1.Objectives]
+Rechace el ataque enemigo mediante emboscadas de tanques.
+[Submission1.Success]
+Los tanques enemigos han sido destruidos.
+[Submission1.Failed]
+Nuestros tanques han sido destruidos; el enemigo presiona el avance.
+[Submission2.Objectives]
+Prepárense para rechazar el siguiente ataque. ¡Los tanques se retiran a posiciones de tiro auxiliares! 
+[Submission2.Success]
+Misión cumplida. Todos los ataques enemigos han sido rechazados.
+[Submission2.Failed]
+Nuestros tanques han sido destruidos; el enemigo presiona el avance.
+[Submission3.Objectives]
+Contraataque al enemigo. ¡Restablezca la línea del frente! Impida que los tanques y la infantería motorizada enemigos rompan hacia nuestra retaguardia.
+[Submission3.Success]
+Misión cumplida: la línea del frente ha sido restablecida.
+[Submission3.Failed]
+Contraataque derrotado: el enemigo prosigue el avance.
+[StringTable.Tanks!]
+¡Tanques! ¡Disparen a la mínima distancia posible contra sus flancos y su retaguardia!
+[StringTable.Air!]
+¡Ataque aéreo! ¡A cubierto!
+
+[StringTable.Tank]
+Tanques de la 3.ª Brigada Motorizada
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Führen Sie eine Aufklärungsmission in der Umgebung durch und zerstören Sie alle Feindeinheiten, denen Sie begegnen.
+[Mission.Description]
+Das Gros der alliierten Einheiten wurde bei Dünkirchen über die See evakuiert, und alles was übrig geblieben ist sind verstreute und uneinsichtige französische Truppen. Die endgültige Besetzung von West-Frankreich musste jedoch verschoben werden, denn die Deutschen mussten sich erstmal sammeln. Aufgrund dieser Verzögerung eröffnete sich eine Gelegenheit für einen französischen Gegenangriff.
+[Mission.Success]
+Sieg! Sie haben dem Feind eine ernste Niederlage beigebracht.
+[Mission.Failed]
+Niederlage. Jetzt is alles verloren!
+[Submission_1.Objectives]
+Durchsuchen Sie das angrenzende Dorf nach feindlichen Truppen.
+[Submission_1.Description]
+Wir erhielten Berichte, nach denen die Deutschen das vor uns liegende Dorf besetzt haben. Kundschaften Sie das Dorf aus, und wenn Sie auf Widerstand stossen, vertreiben Sie den Feind aus dem Dorf. Wir haben keinerlei Reserven mehr zur Verfügung, als was schon auf dem Weg zu Ihnen ist.
+
+Ihre Befehle lauten:
+-	 Kundschaften Sie das Dorf aus und greifen Sie jeden Feind ein, dem Sie begegnen. Verstärkungen sind bereits unterwegs. 
+[Submission_1.Success]
+Die Kundschaftermission ist ausgeführt.
+[Submission_1.Failed]
+Sie haben es nicht geschafft, das Dorf auszukundschaften.
+[StringTable.Add_reserv]
+Einige Panzer aus der Reserve sind zu Ihnen gestossen.
+[StringTable.Add_Artillery]
+Nach Überprüfung Ihrer Situation hat das HQ Ihnen zusätzliche Artillerieunterstützung gewährt.
+[Submission_2.Objectives]
+Greifen Sie den Feind in dem Dorf an.
+[Submission_2.Description]
+Ihre Kundschafter ermittelten, dass die Deutschen eine ganze Menge an Truppen in Stellung gebracht haben, aber die Hauptstreitkräfte sind immer noch unterwegs von Dünkirchen. Wir müssen die Gelegenheit beim Schopfe packen und den Feind angreifen, wenn er es am wenigsten erwartet.
+
+Ihre Befehle:
+	- Greifen Sie den Feind an während er noch seine Stellungen vorbereitet.
+[Submission_2.Success]
+Der Feind wurde eliminiert. Gute Arbeit Kommendant!
+[Submission_2.Failed]
+Sie sind gescheitert!
+[Submission_3.Objectives]
+Schlagen Sie den feindlichen Panzerangriff zurück.
+[Submission_3.Description]
+Die feindlichen Einheiten sind viel stärker als erwartet. Sie verfügen über starke Panzereinheiten.
+
+Ihre Befehle lauten:
+	- Widerstehen Sie dem feindlichen Panzerangriff.
+[Submission_3.Success]
+Der Feindangriff wurde gestoppt!
+[Submission_3.Failed]
+Niederlage. Die feindlichen Panzer sind zu stark gewesen.

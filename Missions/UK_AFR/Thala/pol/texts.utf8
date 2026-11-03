@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Powstrzymaj wroga
+[Mission.Description]
+Obejmij dowództwo nad jednostkami czołgów, piechoty i artylerii 6. Dywizji Pancernej i powstrzymaj natarcie wrogiej 10. Dywizji Pancernej, nie dopuszczając do zdobycia przez nią Thali. Nasze rozproszone oddziały nadal wycofują się z przełęczy Kasserine. Musisz zabezpieczyć drogi swoimi jednostkami mobilnymi i sprowadzić nasze wojska z powrotem, wspierając je w razie potrzeby.
+[Mission.Success]
+Misja wykonana!
+[Mission.Failed]
+Misja nieudana!
+[Submission1.Objectives]
+Zaatakuj niemieckie czoło natarcia
+[Submission1.Description]
+Czołowe jednostki wroga zbliżają się do naszych pozycji. Zniszcz je.
+[Submission1.Success]
+Rozkaz został wykonany!
+[Submission1.Failed]
+Rozkaz nie został wykonany!
+[Submission2.Objectives]
+Zabezpiecz kolumnę
+[Submission2.Description]
+Z przełęczy Kasserine zbliża się kilka pojazdów, wygląda na to, że to nasze wycofujące się oddziały. Sprawdź, czy tak jest, i zorganizuj ich ochronę przed możliwymi atakami Niemców.
+[Submission2.Success]
+Misja wykonana!
+[Submission2.Failed]
+Misja nieudana!
+[Submission4.Objectives]
+Odeprzyj wszystkie ataki wroga.
+[Submission4.Description]
+Utrzymaj pozycję przez 20 minut, aż nasze lotnictwo szturmowe przystąpi do działania. Nadciągają jednostki sojusznicze, ponadto lotnictwo będzie działać w naszym interesie, jest już w powietrzu, trzeba wytrzymać kilka minut.
+[Submission4.Failed]
+Misja nieudana!
+[Submission4.Success]
+Misja wykonana.
+[StringTable.SubMission4_WIN]
+Współrzędne uzyskane, artyleria otwiera ogień!
+[StringTable.Message1]
+Obejmij dowództwo nad jednostkami czołgów, piechoty i artylerii 6. Dywizji Pancernej i powstrzymaj natarcie wrogiej 10. Dywizji Pancernej, nie dopuszczając do zdobycia przez nią Thali. 
+[StringTable.Message2]
+Odeprzyj wszystkie ataki wroga. Utrzymaj pozycję przez 20 minut, aż nasze lotnictwo szturmowe przystąpi do działania.
+[StringTable.Message3]
+Do schronu! Nasze lotnictwo zaraz wbije Niemców w ziemię!

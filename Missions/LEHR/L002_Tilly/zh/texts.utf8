@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+坚守并防御指定区域。
+[Submission1.Description]
+英军第30军发动了新一轮攻势，攻击正在防守蒂伊镇的第901装甲掷弹兵团。
+ 
+命令：
+- 坚守该镇
+[Submission1.Success]
+干得好，指挥官！
+[Submission1.Failed]
+任务失败！你的部队已被消灭。
+[Submission2.Objectives]
+制止敌军进攻。
+[Submission2.Description]
+英军第30军发动了一次破坏性攻击，意在扰乱你的阵地，使其第7装甲师得以恢复自身的攻势。
+ 
+命令：
+- 制止敌军进攻。
+[Submission2.Success]
+干得好，指挥官！敌军的进攻已被制止。
+[Submission2.Failed]
+任务失败！你的部队已被消灭。

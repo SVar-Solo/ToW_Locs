@@ -1,0 +1,60 @@
+﻿[MainTask.Objectives]
+Powstrzymaj przełamanie
+[MainTask.Description]
+Udaj się do osady zajętej przez nasze siły. Z ich pomocą urządź zasadzkę na wrogi konwój. Nie mogą dotrzeć do przełęczy, ani jeden z nich - jeden Niemiec obróci w ucieczkę bydło, które było kiedyś naszą armią. Więc powodzenia i niech Bóg ma was w opiece. Pamiętajcie - nie pozwólcie, by choć jeden Niemiec dotarł żywy do końca przełęczy! 
+[MainTask.Success]
+Wroga grupa ruchoma rozbita, jej niedobitki uciekły. Tak trzymać!
+[MainTask.Failed]
+Z raportu podpułkownika Watersa: ...wróg przedarł się do wyjścia z przełęczy, rozjechał nasze wycofujące się w nieładzie siły i zniszczył je... 
+[StringTable.Incoming]
+Obserwatorzy artylerii meldują, że wrogi konwój dociera do przełęczy i wkrótce zbliży się do naszych pozycji!
+[StringTable.IntroSubtitle1]
+Alan Mitchell: Cholera, co to?
+[StringTable.IntroSubtitle2]
+Uciekający żołnierze: Ratuj się, kto może! Ratuj się, kto może!!!
+[StringTable.IntroSubtitle3]
+Alan Mitchell: A co z tymi, którzy nie mogą? (do radia) Sir, wygląda to kiepsko, uciekają jak króliki...
+[StringTable.IntroSubtitle3a]
+(do załogi) Zatrzymajmy się i pogadajmy. Broń boczna w pogotowiu!
+[StringTable.IntroSubtitle3b]
+- Ale my nie jesteśmy żandarmerią! - Nie będziemy do nich strzelać, tylko przemówimy im do rozumu!
+[StringTable.IntroSubtitle4]
+Alan Mitchell: Stać! Dokąd to tak się spieszycie, ciekawe?
+[StringTable.IntroSubtitle5]
+Uciekający GI: Spier***j, bohaterze! Nie chcę zdychać, tych Niemców jest od groma! …
+[StringTable.IntroSubtitle6]
+... a ty jesteś głupkiem, jeśli nie chcesz żyć jak ci, co zostali we wsi!
+[StringTable.IntroSubtitle7]
+Alan Mitchell: No, to rozumiem. Czyli nie każdy zesrał się w gacie! ... 
+[StringTable.IntroSubtitle8]
+... A ty pamiętaj, że Niemcy dorwą cię nawet w wychodku w Nowym Jorku!
+[StringTable.WinSubtitle1]
+Adiutant: Sir, wracają!
+[StringTable.WinSubtitle2]
+Podpułkownik Waters: Wszystko wisiało na włosku...
+[StringTable.WinSubtitle3]
+...ale zrobili to, co do nich należało.
+[StringTable.WinSubtitle4]
+Alan Mitchell: Sir! Załoga...
+[StringTable.WinSubtitle5]
+Podpułkownik Waters: Obaj musimy się śpieszyć, raport dostanę później, Mitchell...
+[StringTable.WinSubtitle6]
+... robi się ciężko na innym polu bitwy, muszę tam być.
+[StringTable.WinSubtitle7]
+Dalsze informacje dostaniesz przez radio, a teraz masz, weź list od Nelly!
+[StringTable.FailSubtitle1]
+Kapitan Wehrmachtu: No i co, Jankesi, dość wam już wojny? ...
+[StringTable.FailSubtitle2]
+Kameraden, nie ma potrzeby udowadniać faktu...
+[StringTable.FailSubtitle3]
+że Amerykanie to na wojnie owce!
+[StringTable.FailSubtitle4]
+Choć ten ich lekki czołg walczył cholernie dobrze, to w końcu go spaliliśmy!
+[StringTable.StuartDestroyed]
+Czołg Alana Mitchella zniszczony!
+[StringTable.MitchellIsKilled]
+Alan Mitchell zginął!
+[StringTable.EnemySuccessful]
+Wróg przedarł się do wyjścia z przełęczy! Misja nieudana!
+[StringTable.ReturnInTank]
+Odeślij czołgistów, którzy opuścili wóz, z powrotem do czołgu, aby ukończyć misję.

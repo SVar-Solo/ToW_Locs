@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Prevent the enemy from breaking through at Novoselovka.
+[Mission.Description]
+Defend the positions 500m to the south of Novoselovka, the anti-tank strong point in the village itself, and the second line on the northwestern border of the village. Concentrate efforts on holding the center of the village. Prevent the enemy from penetrating to the north of Novoselovka.
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+Enemy forces occupied Novoselovka and are now advancing northward.
+[Submission_1.Objectives]
+Hold the positions until reinforcements arrive.
+[Submission_1.Success]
+Mission complete, the enemy advance is halted.
+[Submission_1.Failed]
+The enemy presses the advance; there is a threat of enemy breaking through northward.
+[Submission_2.Objectives]
+Defeat the enemy advancing on the northwestern part of the village.
+[Submission_2.Success]
+Enemy break-through has been defeated.
+[Submission_2.Failed]
+Counterattack defeated, the enemy presses the advance.
+[StringTable.Support]
+A group of tanks and infantry is now under your command.
+[StringTable.Infantry]
+Infantry from 959th Infantry Regiment
+[StringTable.Tanks]
+Tanks from 3rd Mechanized Corps
+[StringTable.Call_SPG]
+Self-propelled artillery guns are now under your control.
+
+[StringTable.SPG]
+Self-propelled artillery guns
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

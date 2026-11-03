@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Zerstören Sie die Verteidigungsstellungen des Feindes im Nowoselowka-Gebiet.
+[Mission.Description]
+Zurückgezogene russische Einheiten sind zusammen mit Panzern und Artilleriegruppen im Abschnitt südlich von Nowoselowka und im Dorf selbst zur Defensive übergegangen. Die Flanken der feindlichen Verteidigungslinie sind mit Minensperren blockiert. Der Gefechtsverband erhält den Befehl, Nowoselowka anzugreifen, die feindlichen Verteidigungslinien zu durchbrechen und das Dorf zu erobern.
+[Mission.Success]
+Mission abgeschlossen, Nowoselowka wurde erobert.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark! 
+[Submission_1.Objectives]
+Zerstören Sie die Verteidigungsstellungen des Feindes im Dorf.
+[Submission_1.Success]
+Feindliche Verteidigungsstellungen wurden zerstört. Stellungen wurden eingenommen.
+[Submission_1.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt!
+[Submission_2.Objectives]
+Rücken Sie weiter nach Norden vor. Besetzen Sie den südlichen Teil des Dorfes Nowoselowka.
+[Submission_2.Success]
+Der südliche Teil des Dorfes wurde besetzt.
+[Submission_2.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[Submission_3.Objectives]
+Besetzen Sie die feindlichen Stellungen nordwestlich von Nowoselowka.
+[Submission_3.Success]
+Mission abgeschlossen. Die feindlichen Truppen haben sich nach Nordwesten zurückgezogen.
+[Submission_3.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[Submission_4.Objectives]
+Wehren Sie die Gegenangriffe der russischen Panzer ab!
+[Submission_4.Success]
+Feindliche Panzer wurden zerstört!
+[Submission_4.Failed]
+Unsere Truppen mussten sich unter feindlichem Feuer zurückziehen.
+[StringTable.First_support]
+Eine Panzergruppe der Divisionsreserve steht jetzt unter Ihrem Kommando.
+[StringTable.Second_support]
+Eine Infanterieeinheit und Selbstfahrlafetten stehen jetzt unter Ihrem Kommando.
+
+[StringTable.Inf]
+Infanterie
+[StringTable.Tanks]
+Panzer
+[StringTable.SPG]
+Selbstfahrlafetten
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

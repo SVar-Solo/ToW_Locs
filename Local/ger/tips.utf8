@@ -1,0 +1,84 @@
+﻿[TIP_DESC.1]
+Nach dem Laden der Mission beginnt die Aufstellungsphase. Hier können Sie Ihre Einheiten innerhalb der Aufstellungszone positionieren, erste Befehle erteilen und bei Bedarf bestimmte Verteidigungsanlagen errichten. So können Sie eine optimale Verteidigung organisieren oder Ihren Angriff vorbereiten, bevor das Gefecht beginnt.
+
+[TIP_DESC.2]
+Beim Erteilen von Befehlen können Sie Ihre Einheiten in verschiedene Richtungen ausrichten und die Dichte ihrer Formation ändern. Halten Sie dazu nach einem Klick auf das Befehlssymbol die rechte Maustaste gedrückt und bewegen Sie die Maus. Wählen Sie dann die gewünschte Ausrichtung und den Abstand zwischen den Einheiten.
+
+[TIP_DESC.3]
+Fahrzeugbesatzungen können ihre Zieloptik in der Regel nicht benutzen, solange sich das Fahrzeug bewegt oder der Turm gedreht wird.
+
+[TIP_DESC.4]
+Nach einem erfolgreichen Gefecht können Sie die Fertigkeiten Treffsicherheit, Aufklärung, Fahren und Richten von Soldaten verbessern, die sich im Einsatz ausgezeichnet haben. Mit den entsprechenden Schaltflächen verteilen Sie die Erfahrung automatisch auf alle Ihre Soldaten oder weisen einem Soldaten Ihrer Wahl gezielt Punkte zu. Auszeichnungen und Beförderungen wirken sich auf die Führung eines Soldaten aus. Die Intelligenz eines Soldaten lässt sich nicht verändern; sie bestimmt, wie schnell er Erfahrung sammelt.
+
+[TIP_DESC.5]
+Schüsse und Bewegung verraten Einheiten. Infanterie ist in Schützengräben, Gebäuden und liegend im Gras besser getarnt. Je höher die Fertigkeit Aufklärung eines Soldaten, desto schwerer ist er zu entdecken und desto besser entdeckt er feindliche Truppen.
+
+[TIP_DESC.6]
+Beim Befehl „Flächenfeuer“ {hkey:groundattack} können Sie ein Gebiet statt eines einzelnen Punktes anvisieren. Bewegen Sie dazu die Maus bei gedrückter rechter Maustaste. Sie können auch einen bestimmten Zielpunkt auf einem beliebigen Objekt festlegen (es wird eine gelbe statische Markierung angezeigt). Im Modus „Angriff“ {hkey:attack} ist die Markierung rot und bleibt auch dann am Objekt, wenn es sich bewegt.
+
+[TIP_DESC.7]
+Mit {hkey:firemode} können Sie für die ausgewählten Einheiten schnell den Modus „Feuer einstellen“ umschalten. Die Bewegungsbeschränkung schalten Sie mit {hkey:actionmode} um.
+
+[TIP_DESC.8]
+Um die Waffen eines gefallenen Soldaten aufzunehmen, gehen Sie zu seiner Leiche, klicken Sie auf das Pistolensymbol oben in der Hauptinfoleiste {hkey:inventory} und wählen Sie die Gegenstände aus, die Sie aufnehmen oder ablegen möchten. Soldaten nehmen außerdem automatisch bessere Waffen und Munition auf.
+
+[TIP_DESC.9]
+Die optischen Geräte von Fahrzeugen können beschädigt werden. Den Zustand der optischen Geräte Ihrer Fahrzeuge sehen Sie in der Quickinfo, wenn Sie den Mauszeiger über einen Soldaten der Besatzung bewegen.
+
+[TIP_DESC.10]
+Im Hinterhalt-Modus {hkey:ambush} eröffnen Ihre Einheiten, mit Ausnahme der Infanterie, nicht das Feuer auf ein Ziel, das mehr als 500 Meter entfernt ist. Die Infanterie sucht in einem Umkreis von 5 Metern nach Deckung und eröffnet nicht das Feuer auf Ziele, die weiter als 100 Meter entfernt sind.
+
+[TIP_DESC.11]
+Ist im Modus „Verteidigung“ freie Bewegung erlaubt, kann die Infanterie die nächsten Deckungen im Umkreis von 5 Metern suchen und eine besser geeignete Schussposition einnehmen.
+
+[TIP_DESC.12]
+Infanterie kann Minenfelder im Umkreis von 2 Metern räumen. Pioniere können Minen legen und entdecken und entschärfen Minen mit deutlich höherer Wahrscheinlichkeit als gewöhnliche Infanterie. Minen können auch durch nahe Granateinschläge detonieren.
+
+[TIP_DESC.13]
+Die Druckwelle einer Explosion wird durch Hindernisse in ihrer Ausbreitung abgeschwächt. Jedes Hindernis (Geschützschild, Schützengraben, Mauer usw.) halbiert den Schaden.
+Das Splitterfeld breitet sich relativ zur Einschlagrichtung des Geschosses ungleichmäßig aus. Splitterschaden wird ebenfalls durch Hindernisse oder durch einen Soldaten in der Flugbahn des Splitters abgeblockt.
+
+[TIP_DESC.14]
+Sie können einer Einheit die Nutzung einer Waffe oder Munitionsart verbieten, indem Sie im Waffenmenü mit der rechten Maustaste auf das entsprechende Symbol klicken. Mit der linken Maustaste können Sie eine bestimmte Waffe oder Munition gezielt zur Verwendung auswählen. In diesem Fall gilt der Befehl „Drehen“ {hkey:defend} nicht für die gesamte Einheit, sondern nur für diese Waffe.
+
+[TIP_DESC.15]
+Fahrzeuge mit Nebelwerfern an Bord können sofort eine Nebelgranate abfeuern, wenn Sie mit der rechten Maustaste auf die Schaltfläche „Nebelwand“ {hkey:smokecloudfast} klicken, sofern der Kommandantenplatz besetzt ist.
+
+[TIP_DESC.16]
+Die Fertigkeit des Richtschützen beeinflusst nicht die Treffsicherheit von Maschinengewehren und Bug-MGs, wohl aber die des Koaxial-MGs.
+
+[TIP_DESC.17]
+Panzerbesatzungen können beschädigte Ketten und Räder von Fahrzeugen reparieren.
+
+[TIP_DESC.18]
+Panzer können stationäre Geschütze abschleppen und Truppen transportieren.
+
+[TIP_DESC.19]
+Die Geschwindigkeit eines Fahrzeugs hängt von seinem Eigengewicht, der Anhängelast, der Motorleistung, den Getriebeeigenschaften, der Steigung und der Bodenart ab. Planen Sie die optimale Route und berücksichtigen Sie dabei Steigungen und Bodenarten.
+
+[TIP_DESC.20]
+Infanterie in einem Schützengraben überlebt, wenn ein Panzer darüberfährt.
+
+[TIP_DESC.21]
+Die Kronen umgestürzter Bäume helfen, Ihr Fahrzeug zu tarnen.
+
+[TIP_DESC.22]
+Berücksichtigen Sie bei der Wahl einer Feuerstellung die Neigung des Geländes, da die Einheit sonst ihr Geschütz nicht auf das Ziel richten kann. Sichtlinie und Schusslinie fallen in der Regel nicht zusammen, daher kann eine Einheit nicht immer selbst auf ein beobachtetes Ziel feuern.
+
+[TIP_DESC.23]
+Viele Einheiten sind im Modus „Flächenfeuer“ {hkey:groundattack} zum indirekten Feuer fähig. Nutzen Sie ihn, um eine vermutete Feindstellung niederzuhalten.
+
+[TIP_DESC.24]
+Nutzen Sie bei Bedarf den Befehl „Rückzug“ {hkey:retreat}, um den Panzer aus dem Gefecht zu ziehen, ohne die schwach gepanzerten Seiten und das Heck preiszugeben.
+
+[TIP_DESC.25]
+Mit jedem Schuss auf ein stehendes Ziel schießt sich die Einheit allmählich ein und die Streuung der Treffer nimmt ab. Ein Wechsel des Ziels oder der Einheit setzt das Einschießen zurück.
+
+[TIP_DESC.26]
+Ein einzelner Soldat kann ein schweres MG oder einen Granatwerfer drehen, zum Verlegen sind jedoch zwei Soldaten nötig. Größere Geschütze können von mindestens zwei Soldaten gedreht und bewegt werden.
+
+[TIP_DESC.27]
+Das Sichtfeld der Kamera (Zoom) ändern Sie mit STRG + Mausrad. Halten Sie UMSCHALT gedrückt, um die Kamera schneller zu bewegen. Das Fernglas aktivieren Sie mit {hkey:binocularview}. Um den Kameramodus schnell von frei auf zentriert umzuschalten, drücken Sie {hkey:cameratypeswitch}. Mit {hkey:bindcamera} oder {hkey:linkcamera} können Sie die Kamera an eine Einheit binden.
+
+[TIP_DESC.28]
+Wenn Sie die „Schadensanzeige“ {hkey:SwitchDamageMessagesMode} einschalten, werden an Fahrzeugen die Vektoren von Treffern, Durchschlägen, Abprallern und Geschossversagen angezeigt. Auf den Schwierigkeitsgraden „leicht“ und „mittel“ erscheinen zudem kurze Meldungen neben feindlichen Einheiten, wenn diese beschädigt werden.

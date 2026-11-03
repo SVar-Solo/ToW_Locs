@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+언덕 위의 적 진지를 점령하라.
+[Submission_1.Description]
+전략적 관점에서 이 언덕은 이 전선 구역에서 매우 중요한 지점이다. 어느 쪽이든 이곳을 차지한 쪽이 큰 이점을 얻는다. 
+
+명령: 
+- 	적을 언덕 위 진지에서 몰아내고 그곳에 방어선을 구축하라. 
+[Submission_1.Success]
+언덕을 점령했다!
+[Submission_1.Failed]
+패배! 언덕을 빼앗지 못했다.
+[Submission_2.Objectives]
+인근 마을들의 적 방어 거점을 파괴하여 교두보를 확장하라. 
+[Submission_2.Description]
+언덕을 점령하면서 적 방어선을 돌파했다. 적은 여전히 측면에 있다. 이제 교두보를 확장해야 한다. 
+
+명령: 
+- 	적의 측면 진지를 모두 파괴하라. 
+[Submission_2.Success]
+임무를 완수했다.
+[Submission_2.Failed]
+임무에 실패했다.
+[Submission_3.Objectives]
+언덕을 어떻게든 사수하라.
+[Submission_3.Description]
+독일군이 아군 진지에 반격을 준비하는 듯하다. 적의 진격에 맞서 버텨야 한다. 
+
+명령: 
+- 	언덕의 진지를 사수하고 진격하는 적군을 모두 파괴하라.
+[Submission_3.Success]
+적을 격파했다. 셰르부르로 가는 길이 열렸다.
+[Submission_3.Failed]
+패배했다. 셰르부르로 가는 길은 여전히 막혀 있다.
+[Mission.Objectives]
+셰르부르 항 부근의 독일군 저항 거점을 모두 파괴하라.
+[Mission.Description]
+셰르부르 수비대는 나머지 독일군과 고립되었기에 예비 전력이 충분하지 않다. 그러나 연합군이 병력과 장비에서 우세한데도 수비대는 콜린스 장군의 항복 제안을 거부했다. 
+
+명령:
+- 	셰르부르 항 부근의 독일군 저항 거점을 모두 파괴하라.
+[Mission.Success]
+승리를 거두었다.
+[Mission.Failed]
+임무에 실패했다. 너무 많은 독일군 부대가 이 지역에 남아 앞으로의 진격을 가로막을 것이다.
+[StringTable.reserv]
+증원 부대가 도착했다.

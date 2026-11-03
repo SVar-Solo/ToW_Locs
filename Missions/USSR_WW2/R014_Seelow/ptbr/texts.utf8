@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+A primeira linha de fortificações diante das Colinas de Seelow foi rompida! Os remanescentes alemães recuam agora para sua segunda linha de fortificações. Sua tarefa é persegui-los e romper este cinturão defensivo.
+[Submission_1.Description]
+Nossos batedores relatam que à nossa frente há um longo canal, atravessado por uma ponte rodoviária intacta. Ao longo do canal há uma pequena cidade, e excelentes posições defensivas estão situadas nas alturas acima. Assalte as posições defensivas deste lado do canal e assegure a ponte.
+
+Suas ordens:
+-	 Capture as posições defensivas alemãs diante do canal.
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+Missão fracassada.
+[Submission_2.Objectives]
+Capture as alturas.
+[Submission_2.Description]
+O inimigo recuou para as alturas acima da cidade. Nossos batedores relatam posições defensivas substanciais e unidades já posicionadas. Os alemães sabem que são a única coisa entre Berlim e nós e parecem decididos a lutar até o último homem. Destrua-os, comandante, a vitória final está ao nosso alcance.
+
+Suas ordens:
+-	 Esmague a resistência inimiga e capture as Colinas de Seelow.
+[Submission_2.Success]
+As Colinas de Seelow foram tomadas. Berlim e o fim da guerra estão logo à frente.
+[Submission_2.Failed]
+Missão fracassada. Os defensores alemães conseguiram resistir ao seu ataque.
+[Mission.Objectives]
+Esmague a última resistência inimiga e capture as Colinas de Seelow.
+[Mission.Description]
+Em meados de abril, o Exército Alemão, embora abalado, ainda conservava parte de seu poder de combate. Embora o moral estivesse baixo, muitas unidades alemãs continuavam a lutar. O Alto Comando Alemão concentrou as unidades de que dispunha em Berlim e arredores, enquanto o Exército Vermelho se preparava para seu golpe final. Antes de poder assaltar Berlim, ele precisava primeiro limpar as Colinas de Seelow, nas proximidades, uma área cercada por posições defensivas, bunkers, trincheiras e unidades decididas a lutar até a morte.
+Em meados de abril, as tropas russas assaltaram as alturas, mas foram inicialmente repelidas. Agora é a sua vez, comandante, a vitória o aguarda!
+
+Suas ordens:
+-	 Tome as Colinas de Seelow a qualquer custo.
+[Mission.Success]
+As Colinas de Seelow foram capturadas! Berlim e o fim da guerra estão logo à frente.
+[Mission.Failed]
+A tarefa fracassou. Você ainda não capturou as Colinas de Seelow.
+[StringTable.reserv]
+Os reforços chegaram.

@@ -1,0 +1,69 @@
+﻿[StringTable.]
+
+
+[StringTable.ArmyB_WIN]
+Alliance #2 wins!
+
+[StringTable.ArmyA_WIN]
+Alliance #1 wins!
+
+[StringTable.ArmyA_king_Hill_A]
+Alliance #1 captured Flag A!
+
+[StringTable.ArmyA_king_Hill_B]
+Alliance #1 captured Flag B!
+
+[StringTable.ArmyA_king_Hill_C]
+Alliance #1 captured Flag C!
+
+[StringTable.ArmyA_king_Hill_D]
+Alliance #1 captured Flag D!
+
+[StringTable.ArmyA_king_Hill_E]
+Alliance #1 captured Flag E!
+
+[StringTable.ArmyB_king_Hill_A]
+Alliance #2 captured Flag A!
+
+[StringTable.ArmyB_king_Hill_B]
+Alliance #2 captured Flag B!
+
+[StringTable.ArmyB_king_Hill_C]
+Alliance #2 captured Flag C!
+
+[StringTable.ArmyB_king_Hill_D]
+Alliance #2 captured Flag D!
+
+[StringTable.ArmyB_king_Hill_E]
+Alliance #2 captured Flag E!
+
+[StringTable.Hill_A_Lost]
+Flag A was lost!
+
+[StringTable.Hill_B_Lost]
+Flag B was lost!
+
+[StringTable.Hill_C_Lost]
+Flag C was lost!
+
+[StringTable.Hill_D_Lost]
+Flag D was lost!
+
+[StringTable.Hill_E_Lost]
+Flag E was lost!
+
+[StringTable.ArmyA_capture_ALL_flags]
+Alliance #1 captured all flags! Alliance #2 has 2 minutes to reclaim at least 1 flag, or lose the mission.
+
+[StringTable.ArmyB_capture_ALL_flags]
+Alliance #2 captured all flags! Alliance #1 has 2 minutes to reclaim at least 1 flag, or lose the mission.
+
+[StringTable.One_or_more_flags_lost]
+One or more flags were lost!
+
+[StringTable.rus]
+Reinforcements
+
+[StringTable.ger]
+Reinforcements
+

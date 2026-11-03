@@ -1,0 +1,64 @@
+﻿[MainTask.Objectives]
+Capturer la base de ravitaillement, repousser toutes les contre-attaques ennemies possibles.
+[MainTask.Description]
+[MainTask.Success]
+Radiogramme de Rommel : Au commandant italien. L’attaque ennemie est repoussée, nos forces se trouvent déjà à proximité immédiate de la gare. Félicitations pour votre victoire !
+[MainTask.Failed]
+Radiogramme de Rommel au quartier général : Général von Arnim ! Ces Italiens ont subi des pertes intolérables et se sont révélés incapables d’accomplir l’objectif. Ah, de toute façon, il ne faut pas attendre grand-chose d’eux !
+[StringTable.VillageCaptured]
+Radiogramme de Rommel : Au commandant italien. Mes félicitations pour la prise de la gare, les troupes anglaises survivantes déposent les armes et demandent grâce ! C’est agréable, n’est-ce pas ? Cependant, mes troupes continuent de percer la résistance acharnée de l’ennemi. La reconnaissance aérienne signale qu’un groupement de combat ennemi organisé à la hâte approche de vos positions depuis le point 2, dans l’intention de contre-attaquer. Il atteindra la gare dans 10 minutes. Mettez à profit ce temps, les canons de campagne et les mitrailleuses capturés pour organiser votre défense et repousser leur attaque ! Vous disposerez aussi d’une patrouille de nos chasseurs pour contrer d’éventuelles frappes ennemies.
+[StringTable.ReadyForAssault]
+Radiogramme de Rommel : Au commandant italien. Vous avez réduit au silence les canons de campagne et les mitrailleuses ennemis ; je vous autorise maintenant à engager le reste de l’unité et vous aurez aussi les bombardiers à votre disposition.
+[StringTable.IntroSubtitle1]
+Un capitaine allemand s’adresse aux soldats italiens :
+[StringTable.IntroSubtitle2]
+J’ai beaucoup entendu parler du courage et des capacités...
+[StringTable.IntroSubtitle3]
+des Alpini italiens, et j’espère que ce ne sont pas que des balivernes !
+[StringTable.IntroSubtitle4]
+Le Signore Tenente va vous expliquer les détails de l’objectif que nous avons reçu, [StringTable.IntroSubtitle5]
+tout ce que je vais ajouter, c’est que c’est ...
+[StringTable.IntroSubtitle6]
+l’un des objectifs les plus importants...
+[StringTable.IntroSubtitle7]
+que nous ayons jamais eu l’occasion de remplir.
+[StringTable.IntroSubtitle8]
+Montrez-vous donc dignes de la gloire de la Rome antique !
+[StringTable.WinSubtitle1]
+Voix de soldats italiens : Giuseppe, tu as le drapeau avec toi ?
+[StringTable.WinSubtitle1a]
+Il... l’a oublié ! Cet imbécile de Bologne fait encore tout à sa manière !
+[StringTable.WinSubtitle2]
+Je l’ai trouvé !... Passe-le-moi, ce serait très ennuyeux si les Allemands...
+[StringTable.WinSubtitle3]
+nous prenaient pour des Anglais. On a déjà des canons anglais !
+[StringTable.WinSubtitle4]
+Le char de tête – un Panzer IV – est allemand !
+[StringTable.WinSubtitle5]
+Ne tirez pas ! Ils approchent... et n’ouvrez pas le feu !
+[StringTable.WinSubtitle6]
+Ils nous ont reconnus, tout va bien maintenant !
+[StringTable.WinSubtitle7]
+Équipier de char allemand : Sprechen Sie Deutsch, italienischer Kamerad ?...
+[StringTable.WinSubtitle8]
+Gratulieren ! Sieg heil !
+[StringTable.FailSubtitle1]
+Voilà Ziegler.
+[StringTable.FailSubtitle2]
+Kameraden, ces macaronis ont raté la mission !
+[StringTable.FailSubtitle3]
+Doucement, Ziegler ! Tu connais la différence entre les chars italiens et allemands ?
+[StringTable.FailSubtitle4a]
+Non.
+[StringTable.FailSubtitle4]
+Nos chars ont 3 vitesses avant et 1 marche arrière, et les chars italiens, c’est exactement l’inverse !
+[StringTable.FailSubtitle5]
+Dietrich, je rirais bien avec toi, mais notre situation se résume maintenant en deux mots :
+[StringTable.FailSubtitle6]
+ALLES KAPUTT !
+[StringTable.WinSubtitle6a]
+Dieu soit loué, on a de la chance !
+[StringTable.WinSubtitle6b]
+Hé, Giuseppe, tu ferais mieux de te taire et de surveiller le drapeau !
+[StringTable.EnemyIsHere]
+Radiogramme de Rommel : Au commandant italien. La reconnaissance aérienne signale que l’ennemi se trouve à proximité immédiate de la gare. Tenez-la coûte que coûte ! Mes forces ont percé les défenses ennemies et marchent à votre secours !

@@ -1,0 +1,35 @@
+﻿[StringTable.Reserv]
+Reinforcements have arrived to support you.
+[Mission1.Objectives]
+Hold your defensive positions in the area specified.
+[Mission1.Description]
+The German 3rd Army is making a quick dash across Eastern Poland. Their goal is to push past and outflank our Forces in the North. The Polish High Command has decided to concentrate as many forces as possible in the Southeastern regions of the country. German forces must be prevented from breaking through our front lines. 
+
+Your orders are as follows:
+-	Hold and defend your positions in the area specified.
+[Mission1.Success]
+Order fulfilled! The advance of the enemy troops has been stopped!
+[Mission1.Failed]
+Your troops have been defeated! The enemy has destroyed our defenses and has resumed their advance!
+[Submission1.Objectives]
+Attack the new enemy forces advancing from the South.
+[Submission1.Description]
+Scouts report that a small group of German troops is moving from the South in the direction of Sandomierz.  The enemy will probably try to force a breakthrough in this sector and then try to cut across the river and advance to Sandomierz.
+
+Your orders:
+-	Attack the enemy forces advancing from the South.
+[Submission1.Success]
+Order completed! The enemy troops were attacked and driven back!
+[Submission1.Failed]
+You have failed your orders! The enemy troops have inflicted serious damage to our troops.
+[Submission2.Objectives]
+Attack the enemy troops now advancing from the West.
+[Submission2.Description]
+German troops are bringing up forces for a strike in this sector. Scouts have reported that a large enemy force is moving in from the West, heading for Sandomierz.
+
+Your order is to:
+-	Attack the enemy forces advancing from the West.
+[Submission2.Success]
+Order fulfilled! The German attack from the West was driven back
+[Submission2.Failed]
+Order failed! German troops have taken advantage of the situation and inflicted serious damage to our army.

@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+Conquistare il caposaldo nemico, garantire l'ingresso in combattimento delle forze successive.
+[Mission.Objectives]
+Il gruppo di combattimento avanzerà verso Dubrovo. Sconfiggere il nemico nel caposaldo, quindi raggiungere la periferia orientale del villaggio. Distruggere le difese nemiche nel settore di sfondamento. Assicurare le zone di schieramento per i rinforzi.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Non siamo riusciti a eseguire gli ordini. Il nemico è troppo forte! 
+[StringTable.Smoke]
+Il fianco sinistro sarà coperto da una cortina fumogena. Designare l'arco di tiro per la seconda cortina fumogena.
+[Submission1.Objectives]
+Conquistare uno dei capisaldi nemici, spezzando così il suo sistema di fuoco.
+[Submission2.Objectives]
+Respingere i contrattacchi nemici. Garantire l'ingresso in combattimento delle forze successive.
+[Submission1.Success]
+Missione compiuta.
+[Submission1.Failed]
+L'attacco si è arenato, è necessario un supporto immediato.
+[Submission2.Success]
+Missione compiuta, i rinforzi sono avanzati all'interno del perimetro difensivo nemico.
+[Submission2.Failed]
+Le nostre forze ripiegano sotto la pressione del nemico.
+[StringTable.SM11]
+Il caposaldo 1 è stato conquistato.
+[StringTable.SM12]
+Il caposaldo 2 è stato conquistato.
+[StringTable.SM13]
+Il caposaldo 3 è stato conquistato.
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

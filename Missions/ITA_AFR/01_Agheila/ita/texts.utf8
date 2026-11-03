@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Distruggete il convoglio
+[Submission_1.Description]
+Distruggete il convoglio nemico che si avvicina a El Agheila.
+[Submission_01.Success]
+Missione compiuta.
+[Submission_01.Failed]
+Missione fallita.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Tenete il punto fortificato
+[Mission.Description]
+Organizzate la difesa, tenete il punto fortificato e bloccate completamente la strada per El Agheila.
+[NewSubmission.Success]
+Missione compiuta.
+[NewSubmission.Failed]
+Missione fallita.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Success]
+Il convoglio è distrutto.
+[Submission_1.Failed]
+Il convoglio nemico ha sfondato fino a El Agheila!
+[NewSubmission.Objectives]
+[NewSubmission.Description]

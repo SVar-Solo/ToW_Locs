@@ -1,0 +1,35 @@
+﻿[StringTable.1]
+Odeprzyj atak wroga.
+Taktyka wroga:
+Ciężkie czołgi oskrzydlają Cię i wychodzą na tyły, aby zniszczyć Twoją artylerię. Piechota atakuje okopy. Lekkie czołgi osłaniają natarcie piechoty.
+Twoja taktyka: Twoi żołnierze muszą utrzymać pozycję. Użyj dział i żołnierzy z karabinami przeciwpancernymi PTRD, aby unieruchomić, a następnie zniszczyć wrogie ciężkie czołgi, potem zniszcz wrogie lekkie czołgi. Użyj piechoty do zniszczenia wrogiej piechoty, nacierającej na pozycje.
+
+[StringTable.2]
+Odeprzyj atak wroga.
+Taktyka wroga:
+Piechota atakuje okopy, po czym do ataku ruszają czołgi, osłaniając piechotę ogniem.
+Twoja taktyka:
+Wybierz dla dział rodzaj pocisku HE i razem z piechotą zniszcz nacierającą wrogą piechotę. Gdy tylko wrogie czołgi ruszą do ataku, niszcz je celnym ogniem z dział.
+
+[Submission1.Objectives]
+Utrzymaj obronę i odpieraj ataki wroga.
+
+[Submission1.Description]
+Wojska niemieckie nacierają na tym odcinku frontu w celu zniszczenia obronnych pozycji naszej armii. Stawka uważa za konieczne powstrzymanie natarcia wojsk wroga w tym rejonie.
+
+Otrzymany rozkaz:
+- utrzymać obronę w wyznaczonym rejonie;
+- odeprzeć niemieckie ataki.
+
+[Submission1.Success]
+Rozkazy dowództwa wykonane! Natarcie wroga na tym odcinku frontu zostało zatrzymane! Jesteś godzien stopnia oficera rosyjskiego!
+
+[Submission1.Failed]
+Rozkazy niewykonane! Wróg przełamał obronę na tym odcinku frontu!
+
+[StringTable.Win]
+Zadanie wykonane!
+
+[StringTable.Disp]
+Tryb rozmieszczania:
+W podświetlonym obszarze możesz przemieszczać swoje wojska (piechotę, artylerię, czołgi, karabiny maszynowe itd.) – zarówno pojedynczo, jak i grupowo. Aby obrócić jednostki w wybranym kierunku bez zmiany pozycji, zaznacz je i kliknij prawym przyciskiem myszy w wybranym kierunku. Po rozmieszczeniu wojsk sprawdź wzrokowo ich linie ognia, przybliżając kamerę do ziemi.

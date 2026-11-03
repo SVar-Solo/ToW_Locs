@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+카니와 프레누빌을 해방하라.
+[Mission.Description]
+다음 목표는 카니와 프레누빌이다.
+[StringTable.SPGs_Tanks]
+주력
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+카니를 점령하라.
+[Submission_1.Description]
+카니에서 적을 몰아내라.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+농장에서 적을 몰아내라.
+[Submission_2.Description]
+독일군이 농장을 거점으로 바꾸었다. 이를 제거하라.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+프레누빌을 해방하라.
+[Submission_3.Description]
+진격로상의 또 하나의 마을이다. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+임무 완수.
+[Submission_3.Failed]
+목표를 달성하지 못했다.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+목표를 달성하지 못했다.
+[Submission_4.Objectives]
+교차로의 대공포.
+[Submission_4.Description]
+88mm 대공포 중대가 적 진지로 향하는 접근로를 가로막고 있다. 어떤 기갑 병력으로든 접근하면 막대한 피해를 입을 것이다. 아군 주력이 교전하기 전에 이 포대를 무력화해야 한다.
+[NewSubmission3.Success]
+대공포를 파괴했다.
+[NewSubmission3.Failed]
+대공포를 무력화하지 못했다.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+목표를 달성하지 못했다.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[Submission_4.Success]
+포대를 무력화했다. 임무 완수.
+[Submission_4.Failed]
+목표를 달성하지 못했다.
+[StringTable.Tanks]
+예비 병력 가용

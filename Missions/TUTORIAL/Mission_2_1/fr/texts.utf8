@@ -1,0 +1,72 @@
+﻿[Submission1.Objectives]
+Détruire la défense ennemie.
+
+[Submission1.Description]
+Le commandant du front juge nécessaire de détruire la défense ennemie dans ce secteur.
+
+Ordre reçu :
+- s’emparer de la première ligne de tranchées ;
+- s’emparer de la deuxième ligne de tranchées ;
+- s’emparer de la troisième ligne de tranchées.
+
+[Submission1.Success]
+Ordres du commandement exécutés ! Vous avez reçu le grade d’officier de l’Armée rouge !
+
+[Submission1.Failed]
+Vous avez échoué dans l’opération ! Vos troupes ont été détruites !
+
+[StringTable.1]
+S’emparer de la première ligne de tranchées.
+Avancez les chars pour tirer sur les positions ennemies et couvrir la progression de l’infanterie. Utilisez l’infanterie pour attaquer les tranchées ennemies.
+
+[StringTable.2]
+S’emparer de la deuxième ligne de tranchées. Utilisez deux chars pour déborder l’ennemi et passer sur ses arrières afin de détruire l’artillerie ennemie. Utilisez l’infanterie pour attaquer les tranchées ennemies, en couvrant sa progression avec un char.
+
+Si le canon ennemi est difficile à toucher, essayez d’assigner à un seul char un point de tir avec la commande « Tir de zone » {hkey:groundattack} le plus près possible du canon ou légèrement derrière. Assurez-vous qu’il existe une ligne de tir vers ce point (vous devrez peut-être choisir une position plus commode pour votre char). Le char sélectionnera automatiquement des obus HE pour le tir de zone.
+
+Vous pouvez aussi utiliser les chars pour écraser les canons et l’infanterie hors des tranchées.
+
+[StringTable.3]
+S’emparer de la troisième ligne de tranchées.
+Ces tranchées sont « actives » : d’abord, elles se couvrent mutuellement par le feu ; ensuite, quand une tranchée est prise, les soldats de l’autre se mettent à attaquer vos troupes pour tenter de les chasser des positions occupées.
+De plus, l’artillerie ennemie est couverte par des chars.
+Utilisez deux chars lourds pour déborder l’ennemi et passer sur ses arrières afin de détruire l’artillerie ennemie. Utilisez l’infanterie pour attaquer les tranchées ennemies, soit sur le flanc droit, soit sur le flanc gauche, en couvrant la progression avec un char léger.
+
+[StringTable.Win]
+Tâche accomplie !
+
+[StringTable.Form]
+Vos troupes peuvent se déplacer en différentes formations. Il existe 4 types de formations au total :
+
+« Colonne » – en déplacement, les troupes forment une colonne ;
+« Échelon » – en déplacement, les troupes forment un coin ;
+« Libre » – en déplacement, les troupes forment une disposition libre ;
+« Ligne » – en déplacement, les troupes forment une ligne.
+
+La formation « Ligne » est sélectionnée par défaut. Vous pouvez parcourir rapidement les formations avec la touche {hkey:formation}. Les distances entre les unités, ainsi que la direction de la formation, se règlent en déplaçant la souris avec le bouton droit enfoncé ; les troupes se déploieront au point final dans la direction indiquée.
+
+Si vous devez déployer les troupes dans une direction voulue sans changer leur position actuelle, donnez l’ordre « Pivoter » {hkey:defend}. Les véhicules qui ne peuvent pas pivoter sur place tenteront de le faire en plusieurs manœuvres. Lors d’un ordre de déplacement pour une seule unité, vous pouvez définir la direction de rotation finale en maintenant le bouton droit de la souris un moment et en réglant la direction de la flèche avec la souris.
+
+Pour les véhicules, le mode de déplacement à la vitesse de l’infanterie {hkey:lowspeed} est disponible.
+
+[StringTable.Action]
+Vos troupes peuvent se déplacer dans n’importe quel mode de déplacement. Il existe 4 modes de déplacement :
+« ATTAQUE » {hkey:attack} – à la vue de l’ennemi, les troupes s’arrêtent et tirent jusqu’à ce que l’ennemi soit détruit ou disparaisse de leur vue. Elles reprennent ensuite leur attaque.
+« ASSAUT » {hkey:storm} – les troupes tirent sur l’ennemi lors de brefs arrêts durant leur progression.
+« DÉPLACEMENT » {hkey:move} – les troupes se déplacent principalement le long des routes, en ignorant les ennemis. Les véhicules à tourelle la font pivoter pendant le déplacement. Cet ordre peut aussi être donné par un double clic droit.
+« MARCHE ARRIÈRE/RETRAITE » {hkey:retreat} – les troupes (sauf l’infanterie) se déplacent en marche arrière.
+
+Rappelez-vous toujours que vous pouvez arrêter vos troupes et annuler les ordres qui leur ont été donnés en émettant l’ordre « Annuler la commande » {hkey:stop}. Elles passeront ensuite en mode « Défense ».
+
+Pour attaquer des tranchées, sélectionnez « attaque » ou « assaut » et indiquez le point de déplacement par un clic droit.
+
+[StringTable.WeaponsAndAmmos]
+Un canon peut être chargé avec l’un des types de munitions de la dotation de l’unité. Un canon chargé se décharge en tirant. L’icône de munition semi-transparente dans le panneau des armes indique la munition qui sera chargée ensuite (par exemple si vous l’avez sélectionnée de force) et ne correspond pas toujours à l’obus actuellement chargé. L’obus actuellement chargé s’affiche dans l’infobulle en survolant l’icône du canon avec la souris.
+
+Vos unités essaient de sélectionner automatiquement un obus adapté à chaque type de cible. Vous pouvez imposer la munition voulue par un clic droit sur la zone de munitions à droite de l’icône du canon dans le panneau des armes. Sélectionnez ensuite l’obus voulu avec le clic gauche – le canon et la munition seront surlignés en jaune. L’unité n’utilisera alors que cette arme avec le type de munition choisi, et la commande « Pivoter » du char {hkey:defend} s’appliquera désormais à la tourelle portant ce canon, et non à toute l’unité. Vous pouvez aussi interdire l’emploi de certaines munitions ou de certains types d’armes par un clic droit sur l’icône correspondante.
+
+[StringTable.EnemyTanks]
+Des chars ennemis sont venus à votre rencontre.
+Percer le blindage d’un char ne suffit souvent pas à le détruire. La destruction complète d’un char ennemi peut être obtenue de diverses façons – détruire la caisse, provoquer un incendie du moteur ou du réservoir de carburant, toucher le râtelier de munitions et provoquer sa détonation. Vous pouvez neutraliser en partie un char en lui arrachant ses chenilles, en détruisant la tourelle ou le canon principal, ou en touchant certains membres d’équipage critiques. Tout cela exige de toucher un module précis à l’intérieur du char. Tenez compte aussi de la capacité d’un canon donné à percer le blindage du char ennemi à l’angle d’impact considéré, ainsi que des dégâts que l’obus causera après la pénétration.
+
+Pour voir les vecteurs de pénétration du blindage et les informations sur les dégâts internes, activez le « Mode infos de dégâts » {hkey:SwitchDamageMessagesMode}.

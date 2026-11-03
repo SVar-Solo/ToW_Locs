@@ -1,0 +1,84 @@
+﻿[TIP_DESC.1]
+After the mission is loaded, you will enter the deployment phase. This allows you to position your units within the deployment zone, issue initial orders, and establish certain defenses as needed. This way you can organize an optimal defense, or prepare your attack before the battle commences.
+
+[TIP_DESC.2]
+When issuing orders, you can position your units to face various directions, and alter how densely they will form up. To do this, after clicking the order icon, hold down the right mouse button and move the mouse, then select the desired unit position and distance between units.
+
+[TIP_DESC.3]
+Vehicle crews generally cannot use their optical sights while on the move or while rotating their turrets.
+
+[TIP_DESC.4]
+After a successful battle, you can increase the Accuracy, Scouting, Driving, and Gunnery skills of soldiers who have distinguished themselves in action. By pressing the corresponding buttons, you can distribute experience automatically among all your soldiers, or assign points to a soldier of your choice. Awards and promotions will affect a soldier's Leadership. A soldier's intelligence cannot change, it affects the rate of experience gain.
+
+[TIP_DESC.5]
+Firing and movement reveal units. Infantry is better concealed in trenches, buildings, and when lying prone in the grass. The higher the Scouting skill of a soldier, the harder it is to detect him, and the better he is at detecting enemy troops.
+
+[TIP_DESC.6]
+When issuing an "Area fire" order {hkey:groundattack}, you can target an area rather than a single point. To do this, move the mouse while holding the right mouse button. You can also set a specific aiming point on any object (a yellow static marker will be displayed), and in the "attack" mode {hkey:attack}, the marker will be red and will keep its position on object when it moves.
+
+[TIP_DESC.7]
+You can quickly toggle the Hold Fire mode for selected units with {hkey:firemode}. Movement restriction is toggled with {hkey:actionmode}.
+
+[TIP_DESC.8]
+To pick up the weapons of a fallen soldier, approach his body, click the pistol icon on top of the main information toolbar {hkey:inventory}, and select the items you wish to pick up or drop. Soldiers also automatically pick up better weapons and ammunition.
+
+[TIP_DESC.9]
+Optical devices of vehicles can be broken. You can see the status of the optical devices of your vehicles in the tooltip when you hover the cursor over a fighter in the crew.
+
+[TIP_DESC.10]
+In Ambush mode {hkey:ambush}, your units, except infantry, will not open fire on an enemy target if it is located more than 500 meters away. The infantry will try to find cover within 5 meters of themselves and will not open fire on targets further than 100 meters.
+
+[TIP_DESC.11]
+With free movement allowed in the "Defense" mode, the infantry can search for the nearest shelters within 5 meters, as well as change the firing stance to a more suitable one.
+
+[TIP_DESC.12]
+Infantry is capable of clearing minefields within 2 meters of themselves. Sappers can set mines, while their chance of detecting and safely defusing a mine is much higher than that of ordinary infantry. Mines can also detonate from close shell explosions.
+
+[TIP_DESC.13]
+The shock wave from a projectile explosion is weakened by obstacles in the way of its propagation. Each obstacle (gun armor plate, trench, wall, etc.) reduces damage by half.
+The field of fragments spreads unevenly relative to the vector of the projectile fall. Fragment damage is also blocked by obstacles or by a fighter standing in the path of the fragment.
+
+[TIP_DESC.14]
+You can prohibit a unit from using any weapon or ammunition by clicking RMB on the corresponding icon in the weapons interface. By pressing the LMB, a specific weapon or ammunition can be forcibly selected for use. In this case, the "Rotate" command {hkey:defend} will apply not to the entire unit, but only to this weapon.
+
+[TIP_DESC.15]
+Equipment with smoke mortars on board is capable of instantly firing a smoke grenade by pressing RMB on the "Smoke screen" button {hkey:smokecloudfast}, provided the commander's position is occupied.
+
+[TIP_DESC.16]
+The Gunner's skill does not affect the accuracy of machine guns and bow machine guns, but it does affect the twin.
+
+[TIP_DESC.17]
+Tankmen are able to repair broken tracks and broken wheels of vehicles.
+
+[TIP_DESC.18]
+Tanks can tow stationary guns and transport troops.
+
+[TIP_DESC.19]
+The vehicle's speed is affected by its own weight, towed weight, engine power, gearbox characteristics, slope and surface type. Plan the optimal route, taking into account the ascents and types of soil.
+
+[TIP_DESC.20]
+Infantry in a trench will not die while being under a tank.
+
+[TIP_DESC.21]
+The crowns of fallen trees will help disguise your vehicle.
+
+[TIP_DESC.22]
+When choosing a firing position, take into account the slope of the surface, otherwise the unit will not be able to aim its gun at the target. The line of sight and the firing line, as a rule, do not coincide, so a unit cannot always fire even at an observed target.
+
+[TIP_DESC.23]
+Many units are capable of indirect fire in the "Area fire" mode {hkey:groundattack}. Use it to suppress the intended enemy position.
+
+[TIP_DESC.24]
+Use the "Retreat" command {hkey:retreat} if necessary to withdraw the tank from the battle without exposing the weakly protected sides and rear.
+
+[TIP_DESC.25]
+With each shot at a stationary target, the unit gradually targets itself and the scattering of hits decreases. Shifting the target or unit resets targeting.
+
+[TIP_DESC.26]
+A single soldier can turn a heavy machine gun or a mortar, but it takes two soldiers to move. Larger guns can rotate and move at least two soldiers.
+
+[TIP_DESC.27]
+To change the camera's field of view (zoom), use CTRL + mouse wheel. To speed up camera movement, hold SHIFT. Binoculars are activated with {hkey:binocularview}. To quickly switch the camera mode from free to center-attached, press {hkey:cameratypeswitch}. You can bind the camera to a unit by pressing {hkey:bindcamera} or {hkey:linkcamera}.
+
+[TIP_DESC.28]
+By turning on "Damage info mode" {hkey:SwitchDamageMessagesMode}, the vectors of hits, penetrations, ricochets and projectile failures will be displayed on vehicles. On easy and medium difficulty levels, short pop-up messages will be displayed near enemy units when they are damaged.

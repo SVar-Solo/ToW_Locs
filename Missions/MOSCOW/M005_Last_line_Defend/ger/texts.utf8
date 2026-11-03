@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Stoppen Sie den Vormarsch der deutschen Truppen in der Gegend um die Kryukovo Bahnstation.
+[Mission.Description]
+Die Deutschen haben eine grosse Streitmacht in der Gegend um die Kryukovo Bahnstation versammelt. Der Feind plant durch die dünnsten Stellen unserer Verteidigungslinien durchzubrechen und die verbleibenden Sowjetischen Einheiten in einer Zangenbewegung einzukesseln und zu vernichten. Das Hauptquartier der 16. Armee hat zusätzliche Panzereinheiten abkommandiert um bei der Verteidigung der Gegend zu helfen.
+ 
+Ihre Befehle lauten:
+- Stoppen Sie den Vormarsch der deutschen Truppen in der Gegend um die Kryukovo Bahnstation.
+[Mission.Success]
+Der Befehl wurde ausgeführt! Der feindliche Angriff wurde gestoppt.
+[Mission.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt! Ihre Truppen wurden geschlagen.
+[Submission_1.Objectives]
+Schlagen Sie alle feindlichen Angriffe zurück.
+[Submission_1.Description]
+Sie haben nicht genügend Truppen zur Verfügung um eine tiefe Verteidigung aufzubauen. Teile der 316. Schützendivision wurden uns zur Verstärkung geschickt, aber selbst mit diesen zusätzlichen Einheiten wäre es unmöglich eine zusammenhängende solide Verteidigungslinie aufzubauen. Sie müssen mit Bedacht vorgehen und mehrere Widerstandsnester aufstellen, um die feindlichen Angriffe aufhalten zu können. Nur so werden Sie sich trotz der zahlenmässigen Unterlegenheit behaupten können.
+ 
+Ihre Befehle lauten:
+- Schlagen Sie alle feindlichen Angriffe zurück.
+[Submission_1.Success]
+Sie haben alle feindlichen Angriffe zurückgeschlagen! Der Befehl wurde ausgeführt!
+[Submission_1.Failed]
+Sie haben Ihre Mission nicht erfüllt! Ihre Truppen wurden geschlagen.
+[StringTable.Tanks]
+Um Ihre aktuelle Aufgabe zu erfüllen müssen Sie flexibel und koordiniert vorgehen. Daher werden Ihnen jetzt zusätzliche Panzereinheiten zur Verfügung gestellt.

@@ -1,0 +1,44 @@
+﻿[Mission1.Objectives]
+Destroy the enemy armored divisions advancing from the West.
+[Mission1.Description]
+The Fascist troops have captured Lutsk. The next blow is aimed at breaking through the front line near Rovno. According to a recon report, columns of German tanks are moving to Rovno from the West.
+Our mechanized corps has been dispatched to patch up the hole breached by the enemy troops.
+
+Your orders:
+- 	Destroy the enemy tank battalions.
+[Mission1.Success]
+The commander’s order has been carried out! The enemy tank battalions approaching from the West have been destroyed completely. The Germans have failed to break the morale of the Russian soldiers!
+[Mission1.Failed]
+Despite your soldiers’ heroic actions, your troops have been destroyed! The Germans have broken through the defenses in this area of the front!
+[Mission1_1.Objectives]
+Destroy the enemy tank battalions coming from the Southwest.
+[Mission1_1.Description]
+The Germans have captured Lutsk, the enemy 13th and 14th tank battalions are moving to Rovno to breach the front line and get closer to Kiev. 
+A recon report says that the tank battalions are moving from the Southwest.
+
+Your orders:
+- 	Destroy the enemy tank battalions.
+[Mission1_1.Success]
+The commander’s order has been carried out! The enemy tank battalions coming from the Southwest have been wiped out. The Germans have failed to break the morale of the Russian soldiers!
+[Mission1_1.Failed]
+Despite your soldiers’ heroic actions your troops have been destroyed! The Germans have broken through in this part of the front line!
+[Submission1.Objectives]
+Stop the advance of the enemy tank battalions.
+[Submission1.Description]
+In the first days of the war our army suffered great losses. Yesterday the Fascist aggressors captured Lutsk. Confusion and panic reign at the front. There’s been little objective information so far but recon reports say columns of German tanks are moving in our direction and it is clear that the next blow is aimed at breaking the front line at Rovno. The 19th Mechanized Corps is already engaged in heavy fighting on our flank. Your task is to hold back the advance of the enemy tanks in your area at any cost. This will give our troops a chance to regroup and possibly counterattack. 
+
+Your orders: 
+- 	Stop the advance of the enemy 13th and 14th tank battalions in the specified area by using the forces of the 20th, 40th, 43rd and 35th tank battalions of the 9th and 19th Mechanized Corps.
+
+[Submission1.Success]
+The commander’s order has been carried out! The advance of the German tank battalions in the area has been stopped!
+[Submission1.Failed]
+Despite your soldiers’ heroic actions your troops have been destroyed! The Germans have broken through the defenses in this part of the frontline!
+[StringTable.Reserv]
+Reinforcements have arrived.
+[StringTable.Subtitle_01]
+Russia. June 1941
+[StringTable.Ger]
+The German Army has launched Operation Barbarossa and crossed the frontier into Russia.
+[StringTable.Rus]
+The Red Army has launched a counter-offensive in the hopes of stopping or slowing the German onslaught.

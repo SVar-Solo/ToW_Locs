@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Zniszcz nieprzyjacielskie jednostki we wskazanym rejonie.
+[Mission.Description]
+Amerykanie przygotowali umocnienia wokół niewielkiego miasteczka. Są przed nami. Zwiadowcy informują, że znajduje się tam kompania piechoty wspierana przez przeciwpancerne działa 57mm oraz haubice 105mm.
+ 
+Rozkazy:
+- Wykorzystując siły znajdujące się pod Twoim dowództwem, uderz na pozycje nieprzyjaciela i wyprzyj go.
+[Mission.Success]
+Dobra robota! Nieprzyjacielska obrona została złamana.
+[Mission.Failed]
+Porażka! Zostałeś pokonany.
+[Submission_1.Objectives]
+Zdobądź wieś.
+[Submission_1.Description]
+Wykonaj oskrzydlenie głównej pozycji obronnej wroga, aby zająć miasto.
+ 
+Rozkazy:
+- Zdobądź wioskę. 
+[Submission_1.Success]
+Dobra robota! Wieś została zdobyta.
+[Submission_1.Failed]
+Porażka! Twoje wojska zostały zlikwidowane.

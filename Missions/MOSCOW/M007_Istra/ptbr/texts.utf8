@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Expulse o inimigo de suas posições.
+[Submission1.Description]
+Os invasores nazistas consolidaram suas posições ao longo de uma linha entre o reservatório de Istra e a cidade de Istra e provavelmente não cederão terreno sem dura resistência. É de vital importância expulsar o inimigo dessas posições.
+
+Suas ordens:
+-Expulse o inimigo de suas posições.
+[Submission1.Success]
+A sua ordem foi cumprida!
+[Submission1.Failed]
+Você não conseguiu cumprir a sua ordem!
+[Submission2.Objectives]
+Destrua o inimigo que avança.
+[Submission2.Description]
+As unidades nazistas lançaram um violento contra-ataque nesta área da frente. Você precisa engajar e destruir o inimigo que avança.
+
+Suas ordens:
+- Destrua as unidades alemãs atacantes.
+[Submission2.Success]
+As suas ordens foram cumpridas! As tropas inimigas foram derrotadas.
+[Submission2.Failed]
+Você não conseguiu cumprir as suas ordens! Suas tropas foram derrotadas.

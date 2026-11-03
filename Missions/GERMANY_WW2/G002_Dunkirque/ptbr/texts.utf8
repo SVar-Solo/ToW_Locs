@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Destrua a artilharia inimiga.
+[Submission1.Description]
+As unidades de artilharia inimigas representam uma ameaça às nossas forças, que se preparam para uma grande ofensiva. Use suas unidades blindadas e ataque as posições de artilharia inimigas.   
+
+Suas ordens:
+- 	Destrua a artilharia inimiga.
+[Submission1.Success]
+A artilharia foi destruída!
+[Submission1.Failed]
+A artilharia inimiga continua a ser uma ameaça às nossas forças por causa do seu fracasso.
+[Mission1.Objectives]
+Esmague as defesas inimigas.
+[Mission1.Description]
+As divisões aliadas em retirada se comprimiram na área de Gravelines, Arras e Bruges. O Grupo de Exércitos A e o Grupo de Exércitos B as atacam pelo leste e pelo sudeste. As tropas britânicas iniciaram a evacuação de Dunquerque para a Inglaterra. As unidades francesas cobrem a retirada inglesa assumindo posições defensivas nos arredores da cidade. Não devemos deixar as unidades inimigas escaparem pelo mar. Destrua-as com toda a pressa!      
+
+Suas ordens: 
+- 	Com as forças de que dispõe, limpe as posições defensivas nos arredores da cidade.
+[Mission1.Success]
+Parabéns! Você obteve uma vitória sobre os franceses! Graças à sua vitória, talvez ainda consigamos alcançar as unidades inglesas antes que todas evacuem.
+[Mission1.Failed]
+Infelizmente, você perdeu! Os franceses conseguiram defender a linha e os britânicos ganharam mais um dia de evacuação sem interferências. 
+[StringTable.Reserv]
+Chegaram reforços para apoiá-lo.

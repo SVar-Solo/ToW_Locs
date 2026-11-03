@@ -1,0 +1,72 @@
+﻿[Submission1.Objectives]
+Destroy the enemy defense.
+
+[Submission1.Description]
+The front commander considers it necessary to destroy the enemy defense in this area.
+
+Order received:
+- capture the first line of trenches;
+- capture the second line of trenches;
+- capture the third line of trenches.
+
+[Submission1.Success]
+Command orders fulfilled! You have been awarded the rank of Red Army officer!
+
+[Submission1.Failed]
+You have failed the operation! Your troops have been destroyed!
+
+[StringTable.1]
+Capture the first line of trenches.
+Move the tanks forward to fire at enemy positions and cover the infantry advance. Use the infantry to attack the enemy trenches.
+
+[StringTable.2]
+Capture the second line of trenches. Use two tanks to outflank the enemy and get into the rear to destroy the enemy artillery. Use the infantry to attack the enemy trenches, covering their advance with a tank.
+
+If the enemy gun is difficult to hit, try to assign a single tank a fire point with the "Area fire" {hkey:groundattack} command as close to the gun as possible or slightly behind it. Make sure there is a line of fire to that point (you may need to choose a more convenient position for your tank). The tank will automatically select HE shells for area fire.
+
+You can also use tanks to crush guns and infantry outside the trenches.
+
+[StringTable.3]
+Capture the third line of trenches.
+These trenches are "active": first, they cover each other with fire; second, when one trench is captured, the soldiers in the other will start attacking your troops, trying to drive them out of the occupied positions.
+Also, enemy artillery is covered by tanks.
+Use two heavy tanks to outflank the enemy and get into the rear to destroy the enemy artillery. Use the infantry to attack the enemy trenches either on the right flank or on the left flank, covering the advance with a light tank.
+
+[StringTable.Win]
+Task completed!
+
+[StringTable.Form]
+Your troops can move in different formations. There are 4 types of formations in total:
+
+"Column" - when moving, troops form a column;
+"Echelon" - when moving, troops form a wedge;
+"Free" - when moving, troops form a free shape;
+"Line" - when moving, troops form a line.
+
+The "Line" formation is selected by default. You can quickly cycle through formations with the {hkey:formation} key. The distances between units, as well as the formation direction, are regulated by moving the mouse with the right button held down; the troops will deploy at the final point in the specified direction.
+
+If you need to deploy troops in a desired direction without changing their current position, issue the "Rotate" {hkey:defend} order. Vehicles that cannot rotate in place will try to do so in several maneuvers. When issuing a movement order for a single unit, you can set the final rotation direction by holding RMB for some time and setting the arrow direction with mouse movement.
+
+For vehicles, the movement mode at infantry speed {hkey:lowspeed} is available.
+
+[StringTable.Action]
+Your troops can move in any of the movement modes. There are 4 movement modes:
+"ATTACK" {hkey:attack} - troops, upon seeing the enemy, will stop and start firing until the enemy is destroyed or until he disappears from sight. After that, they will continue to attack.
+"ASSAULT" {hkey:storm} - troops will fire at the enemy from short stops as they advance.
+"MOVE" {hkey:move} - troops move mainly along roads, ignoring enemies. Vehicles with a turret will rotate it during movement. This order can also be given by double-clicking the right mouse button.
+"REVERSE/RETREAT" {hkey:retreat} - troops (except infantry) move in reverse.
+
+Always remember that you can stop your troops and cancel the orders given to them by issuing the "Abort command" {hkey:stop} order. After that, they will switch to "Defense" mode.
+
+When attacking trenches, select "attack" or "assault" and indicate the movement point by clicking the right mouse button.
+
+[StringTable.WeaponsAndAmmos]
+A gun can be loaded with one of the ammunition types from the unit's ammo loadout. A loaded gun is unloaded by firing. The semi-transparent ammo icon in the weapons panel shows that it will be loaded next (for example, if you selected it forcibly) and does not always match the shell currently loaded. The currently loaded shell can be seen in the tooltip when hovering the mouse over the gun icon.
+
+Your units try to select a suitable shell for each type of target automatically. You can forcibly specify the required ammunition by right-clicking on the ammo area to the right of the gun icon in the weapons panel. Then select the required shell with LMB - the gun and ammunition will be highlighted in yellow. Now the unit will use only this weapon with the selected ammunition type, and the "Rotate" command for the tank {hkey:defend} will now apply to the turret with this gun, and not to the whole unit. You can also prohibit the use of certain ammunition or weapon types by right-clicking on the corresponding icon.
+
+[StringTable.EnemyTanks]
+Enemy tanks have come out against you.
+Penetrating a tank's armor is often not enough to destroy it. A complete destruction of an enemy tank can be achieved in various ways - destroying the hull, causing an engine or fuel tank fire, hitting the ammo rack and causing its detonation. You can partially disable a tank by knocking off its tracks, destroying the turret or main gun, or hitting individual critical crew members. All this requires hitting a specific module inside the tank. Also consider whether a particular gun can penetrate the enemy tank's armor at the given impact angle, as well as what damage the shell will cause after penetration.
+
+To see armor penetration vectors and information about internal damage, switch the "Damage info mode" {hkey:SwitchDamageMessagesMode}.

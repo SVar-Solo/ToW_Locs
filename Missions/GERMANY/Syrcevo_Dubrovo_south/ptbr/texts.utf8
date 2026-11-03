@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+Capture o ponto forte inimigo e garanta o emprego em combate das forças seguintes.
+[Mission.Objectives]
+O grupo de combate avançará em direção a Dubrovo. Derrote o inimigo no ponto forte e depois alcance os arredores a leste da aldeia. Destrua as defesas inimigas no setor de ruptura. Assegure as zonas de posicionamento dos reforços.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Fracassamos em cumprir nossas ordens. O inimigo é forte demais! 
+[StringTable.Smoke]
+O flanco esquerdo será coberto por uma cortina de fumaça. Designe o arco de fogo para a segunda cortina de fumaça.
+[Submission1.Objectives]
+Capture um dos pontos fortes inimigos, quebrando assim seu sistema de fogo.
+[Submission2.Objectives]
+Repila os contra-ataques inimigos. Garanta o emprego em combate das forças seguintes.
+[Submission1.Success]
+Missão cumprida.
+[Submission1.Failed]
+O ataque foi detido, é necessário apoio imediato.
+[Submission2.Success]
+Missão cumprida, os reforços avançaram para dentro do perímetro de defesa inimigo.
+[Submission2.Failed]
+Nossas forças recuam sob a pressão inimiga.
+[StringTable.SM11]
+O Ponto Forte 1 foi capturado.
+[StringTable.SM12]
+O Ponto Forte 2 foi capturado.
+[StringTable.SM13]
+O Ponto Forte 3 foi capturado.
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

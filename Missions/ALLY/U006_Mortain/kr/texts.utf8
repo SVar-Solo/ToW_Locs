@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+증원 부대가 도착했다.
+[Submission1.Objectives]
+마을을 점령하고 적군을 격멸하라.
+[Submission1.Description]
+독일군이 인근 마을을 점령했으며 증원을 기다리는 것으로 보인다. 더 많은 적 부대가 도착하기 전에 이 거주지를 공격해야 한다.
+
+명령:
+-	거주지를 점령하라.
+-	적군을 모두 격파하라.
+[Submission1.Success]
+임무를 성공적으로 완수했다. 적군을 마을에서 몰아냈다.
+[Submission1.Failed]
+임무 실패.
+[Mission1.Objectives]
+적군을 모두 격파하라.
+[Mission1.Description]
+독일군이 모르탱을 향해 진격하기 시작했다. 적은 이 지역의 소규모 거주지 여러 곳을 점령했다. 입수한 모든 정보에 따르면 적은 이 방향으로 공세를 준비하고 있다. 반드시 저지해야 한다!
+
+명령:
+	점령된 거주지에서 적을 몰아내라.
+[Mission1.Success]
+임무를 성공적으로 완수했다.
+[Mission1.Failed]
+임무 실패.
+[Submission2.Objectives]
+적군을 격파하고 마을을 점령하라.
+[Submission2.Description]
+적 부대 한 개 분견대가 작은 거주지에 진지를 구축했다. 적은 모르탱을 향한 반격을 준비하고 있다.
+
+명령:
+	적을 진지에서 몰아내고 거주지를 점령하라.
+[Submission2.Success]
+임무를 성공적으로 완수했다. 거주지들은 아군이 장악했다.
+[Submission2.Failed]
+임무에 실패했다. 아군이 막심한 손실을 입었다.
+[Submission3.Objectives]
+적 기갑 집단을 격파하라.
+[Submission3.Description]
+적에게 소규모 기갑 부대가 증원되었다.
+
+명령:
+-	적 기갑 부대를 모두 공격하여 파괴하라.
+[Submission3.Success]
+임무를 성공적으로 완수했다.
+[Submission3.Failed]
+임무에 실패했다. 아군이 막심한 손실을 입었다.

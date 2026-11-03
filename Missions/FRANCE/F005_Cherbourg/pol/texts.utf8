@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+Zatrzymać wszystkie niemieckie ataki. Osłaniać ewakuację alianckich oddziałów z portu Cherbourg.
+[Mission.Description]
+Czerwiec 1941, na przedmieściach portowego miasta Cherbourg stoi jeden z ostatnich batalionów uzbrojonych i poprawnie zorganizowanych francuskich żołnierzy. Francja jest okupowana przez Niemców. Machina propagandowa Goebbelsa pracuje bez wytchnienia, próbując złamać ducha francuskiego ruchu oporu. Ostatnie oddziały aliantów potrzebują więcej czasu, aby wejść na pokład transportowców i uciec na wyspy brytyjskie. Tylko Ty możesz dać im ten czas, jeśli będzie to konieczne, płacąc za niego własną krwią.
+Twoje rozkazy:
+-	Zatrzymać i odeprzeć niemieckie ataki, wykorzystując wszystkie dostępne środki. Musisz utrzymać pozycje i uniemożliwić Niemcom dostanie się do miejsc ewakuacji.
+[Mission.Success]
+Misja powiodła się!
+[Mission.Failed]
+Misja nie powiodła się!
+[Submission_1.Objectives]
+Odeprzeć ataki nieprzyjaciela.
+[Submission_1.Description]
+Twoja obrona znajduje się na kluczowym wzgórzu. Niemcy przedzierają się do portu Cherbourg po kilku różnych osiach natarcia. Kluczem do zwycięstwa będzie właściwe rozmieszczenie pozycji obronnych.
+Rozkaz: 
+-	Odeprzeć wszystkie nieprzyjacielskie ataki. 
+[Submission_1.Success]
+Odparłeś nieprzyjacielskie ataki!
+[Submission_1.Failed]
+Przegrałeś!
+[Submission_2.Objectives]
+Zaatakować wieś na zachód od wzgórza.
+[Submission_2.Description]
+Na zachód od twoich pozycji znajduje się wieś zajmowana przez Niemców. Wróg nie spodziewa się agresywnych działań z twojej strony i po cichu przemieszcza siły, przygotowując kolejne uderzenie.
+Rozkaz: 
+-	Przygotować kontratak na wioskę i całkowicie zniszczyć znajdujące się tam niemieckie jednostki. 
+[Submission_2.Success]
+Zdobyliśmy wioskę! Dobra robota!
+[Submission_2.Failed]
+Nie wykonałeś zadania!
+[Submission_3.Objectives]
+Odeprzeć nieprzyjacielski kontratak.
+[Submission_3.Description]
+Atak z zaskoczenia powiódł się! Wróg poniósł ciężkie straty w ludziach i sprzęcie. Niemiecki plan jednoczesnego ataku z dwóch stron na twoje pozycje obronne spalił na panewce. Ale nie jest to całkowite zwycięstwo, ponieważ nieprzyjaciel już przygotowuje kontratak. 
+Twoje rozkazy:
+-	Odeprzeć niemiecki kontratak.
+[Submission_3.Success]
+Zwyciężyłeś! Nieprzyjacielski kontratak został zatrzymany!
+[Submission_3.Failed]
+Przegrałeś! Nie udało ci się zatrzymać nieprzyjacielskiego kontrataku.
+[StringTable.reserv]
+Przybyły posiłki.

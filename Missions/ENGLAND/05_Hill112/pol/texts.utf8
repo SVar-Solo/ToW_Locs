@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Zdobądź Wzgórze 112.
+[Mission.Description]
+Zdobądź i utrzymaj Wzgórze 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Zabezpiecz południowo-zachodnie zbocze.
+[Submission_1.Description]
+Wyprzyj wroga z południowo-zachodniego zbocza.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Zabezpiecz wschodnie zbocze.
+[Submission_2.Description]
+Wyprzyj wroga ze wschodniego zbocza.
+[Submission_3.Objectives]
+Zabezpiecz gospodarstwo w północnej części wsi.
+[Submission_3.Description]
+Wróg zajmujący gospodarstwo może razić ogniem z flanki nasze oddziały posuwające się wzdłuż Wzgórza 112.
+[Submission_4.Objectives]
+Wyzwól wieś na południowo-zachodnim zboczu.
+[Submission_4.Description]
+Wróg we wsi może skutecznie wspierać swoje oddziały zajmujące południowo-zachodnie zbocze.
+[Submission_5.Objectives]
+Wyeliminuj kontratakujące wrogie czołgi.
+[Submission_5.Description]
+Wróg próbuje nas przegnać silnym kontrnatarciem czołgów.
+[Mission.Success]
+Wzgórze 112 wyzwolone.
+[Mission.Failed]
+Nie udało się wykonać zadania.
+[Submission_1.Success]
+Południowo-zachodnie zbocze oczyszczone.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[Submission_2.Success]
+Wróg wyparty ze wschodniego zbocza.
+[Submission_2.Failed]
+Nie udało się wykonać zadania.
+[Submission_3.Success]
+Gospodarstwo zabezpieczone.
+[Submission_3.Failed]
+Nie udało się wykonać zadania.
+[Submission_4.Success]
+Wieś wyzwolona.
+[Submission_4.Failed]
+Nie udało się wykonać zadania.
+[Submission_5.Success]
+Kontrnatarcie odparte.
+[Submission_5.Failed]
+Nie udało się wykonać zadania.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

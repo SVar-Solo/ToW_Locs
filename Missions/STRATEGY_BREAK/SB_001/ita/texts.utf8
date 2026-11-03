@@ -1,0 +1,24 @@
+﻿[mission.Objectives]
+Apritevi un varco fino al ponte a nord e attraversatelo con tutte le truppe disponibili.
+[mission.Description]
+Furiosi combattimenti infuriano in tutta la Francia. Le truppe tedesche si avvicinano a Parigi. Dopo la battaglia di Arras il nostro gruppo è stato accerchiato. La situazione è disperata e non c'è speranza di sopravvivere, ma continueremo a combattere fino alla fine.
+[mission.Success]
+Missione compiuta, le nostre truppe hanno raggiunto il ponte.
+[mission.Failed]
+La vostra squadra è stata distrutta.
+[Submission_1.Objectives]
+Eseguite una ricognizione delle forze nemiche.
+[Submission_1.Description]
+Eseguite una ricognizione delle forze nemiche.
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+Missione fallita!
+[Submission_2.Objectives]
+Dovete raggiungere il ponte il prima possibile, evitando i grossi gruppi nemici.
+[Submission_2.Description]
+Il nemico che ci circonda è schierato in modo rado e c'è ancora la possibilità di raggiungere le nostre truppe prima che la fanteria nemica si faccia sotto. Dovete aprirvi un varco fino al ponte il più rapidamente possibile, evitando i grossi gruppi nemici.
+[Submission_2.Success]
+Missione compiuta.
+[Submission_2.Failed]
+Missione fallita!

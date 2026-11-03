@@ -1,0 +1,72 @@
+﻿[Submission1.Objectives]
+Distruggete le difese nemiche.
+
+[Submission1.Description]
+Il comandante del fronte ritiene necessario distruggere le difese nemiche in quest'area.
+
+Ordini ricevuti:
+- conquistare la prima linea di trincee;
+- conquistare la seconda linea di trincee;
+- conquistare la terza linea di trincee.
+
+[Submission1.Success]
+Ordini del comando eseguiti! Vi è stato conferito il grado di ufficiale dell'Armata Rossa!
+
+[Submission1.Failed]
+Avete fallito l'operazione! Le vostre truppe sono state annientate!
+
+[StringTable.1]
+Conquistate la prima linea di trincee.
+Portate avanti i carri armati per battere le posizioni nemiche e coprire l'avanzata della fanteria. Usate la fanteria per attaccare le trincee nemiche.
+
+[StringTable.2]
+Conquistate la seconda linea di trincee. Usate due carri armati per aggirare il nemico e raggiungerne le retrovie per distruggere l'artiglieria nemica. Usate la fanteria per attaccare le trincee nemiche, coprendone l'avanzata con un carro armato.
+
+Se il pezzo nemico è difficile da colpire, provate ad assegnare a un singolo carro armato un punto di tiro con il comando "Fuoco d'area" {hkey:groundattack} il più vicino possibile al pezzo o leggermente dietro di esso. Assicuratevi che esista una linea di tiro verso quel punto (potreste dover scegliere una posizione più adatta per il vostro carro). Il carro armato selezionerà automaticamente i proiettili HE per il fuoco d'area.
+
+Potete anche usare i carri armati per schiacciare pezzi e fanteria fuori dalle trincee.
+
+[StringTable.3]
+Conquistate la terza linea di trincee.
+Queste trincee sono "attive": primo, si coprono a vicenda con il fuoco; secondo, quando una trincea viene conquistata, i soldati dell'altra inizieranno ad attaccare le vostre truppe, cercando di scacciarle dalle posizioni occupate.
+Inoltre, l'artiglieria nemica è protetta da carri armati.
+Usate due carri armati pesanti per aggirare il nemico e raggiungerne le retrovie per distruggere l'artiglieria nemica. Usate la fanteria per attaccare le trincee nemiche sul fianco destro o su quello sinistro, coprendone l'avanzata con un carro armato leggero.
+
+[StringTable.Win]
+Compito completato!
+
+[StringTable.Form]
+Le vostre truppe possono muoversi in diverse formazioni. In tutto esistono 4 tipi di formazione:
+
+"Colonna" - durante il movimento le truppe formano una colonna;
+"Scaglione" - durante il movimento le truppe formano un cuneo;
+"Libera" - durante il movimento le truppe assumono una forma libera;
+"Linea" - durante il movimento le truppe formano una linea.
+
+La formazione "Linea" è selezionata per impostazione predefinita. Potete scorrere rapidamente le formazioni con il tasto {hkey:formation}. Le distanze tra le unità, così come la direzione della formazione, si regolano muovendo il mouse con il tasto destro premuto; le truppe si schiereranno nel punto finale nella direzione indicata.
+
+Se avete bisogno di orientare le truppe nella direzione desiderata senza cambiarne la posizione attuale, impartite l'ordine "Ruota" {hkey:defend}. I veicoli che non possono ruotare sul posto cercheranno di farlo con più manovre. Quando impartisci un ordine di movimento a una singola unità, potete impostare la direzione finale tenendo premuto il tasto destro per un po' e definendo la direzione della freccia con il movimento del mouse.
+
+Per i veicoli è disponibile la modalità di movimento a velocità della fanteria {hkey:lowspeed}.
+
+[StringTable.Action]
+Le vostre truppe possono muoversi in una qualsiasi delle modalità di movimento. Esistono 4 modalità di movimento:
+"ATTACCA" {hkey:attack} - le truppe, non appena vedono il nemico, si fermano e aprono il fuoco finché il nemico non viene distrutto o finché non scompare dalla vista. Dopodiché continueranno ad attaccare.
+"ASSALTO" {hkey:storm} - le truppe sparano sul nemico con brevi soste mentre avanzano.
+"MUOVI" {hkey:move} - le truppe si muovono principalmente lungo le strade, ignorando i nemici. I veicoli dotati di torretta la ruoteranno durante il movimento. Questo ordine può essere impartito anche con un doppio clic del tasto destro del mouse.
+"RETROMARCIA/RITIRATA" {hkey:retreat} - le truppe (eccetto la fanteria) si muovono in retromarcia.
+
+Ricordate sempre che potete fermare le vostre truppe e annullare gli ordini impartiti con l'ordine "Annulla comando" {hkey:stop}. Dopodiché passeranno alla modalità "Difesa".
+
+Quando attacchi delle trincee, selezionate "Attacca" o "Assalto" e indicate il punto di movimento facendo clic con il tasto destro del mouse.
+
+[StringTable.WeaponsAndAmmos]
+Un pezzo può essere caricato con uno dei tipi di munizioni del corredo dell'unità. Un pezzo carico si scarica sparando. L'icona semitrasparente delle munizioni nel pannello delle armi indica che quelle saranno caricate successivamente (per esempio se le avete selezionate forzatamente) e non sempre corrisponde al proiettile attualmente caricato. Il proiettile attualmente caricato si vede nel suggerimento passando il mouse sull'icona del pezzo.
+
+Le vostre unità cercano di selezionare automaticamente un proiettile adatto a ogni tipo di bersaglio. Potete indicare forzatamente le munizioni richieste facendo clic con il tasto destro sull'area delle munizioni a destra dell'icona del pezzo nel pannello delle armi. Poi selezionate il proiettile richiesto con il tasto sinistro: il pezzo e le munizioni saranno evidenziati in giallo. Ora l'unità userà solo quest'arma con il tipo di munizioni selezionato, e il comando "Ruota" per il carro armato {hkey:defend} si applicherà alla torretta con questo pezzo, e non a tutta l'unità. Potete anche vietare l'uso di certi tipi di munizioni o di armi facendo clic con il tasto destro sull'icona corrispondente.
+
+[StringTable.EnemyTanks]
+I carri armati nemici sono usciti contro di te.
+Perforare la corazza di un carro armato spesso non basta per distruggerlo. La distruzione completa di un carro nemico si può ottenere in vari modi: distruggendo lo scafo, provocando un incendio del motore o del serbatoio, colpendo il deposito munizioni e causandone la detonazione. Si può mettere parzialmente fuori uso un carro armato abbattendone i cingoli, distruggendo la torretta o il cannone principale, oppure colpendo singoli membri critici dell'equipaggio. Tutto questo richiede di colpire un modulo specifico all'interno del carro. Considera anche se un determinato pezzo può perforare la corazza del carro nemico con quell'angolo d'impatto, e quali danni provocherà il proiettile dopo la perforazione.
+
+Per vedere i vettori di penetrazione della corazza e le informazioni sui danni interni, attivate la "Modalità info danni" {hkey:SwitchDamageMessagesMode}.

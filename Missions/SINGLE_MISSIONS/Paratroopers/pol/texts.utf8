@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+Zaatakuj, zdobądź i utrzymaj most.
+[Submission_1.Description]
+Czas nagli. Musicie zaatakować, zdobyć i utrzymać mosty. Niemcy nie oddadzą ich bez walki.
+Twoje rozkazy:
+-	Zaatakuj i zajmij mosty, zaznaczone na mapie
+-	Odeprzyj nieprzyjacielskie kontrataki, mające na celu odzyskanie mostów
+[Submission_1.Failed]
+Zadanie nie zostało wykonane. Nie udało ci się zdobyć wyznaczonych mostów.
+[Submission_1.Success]
+Zajęliście wyznaczone mosty.
+[Mission.Objectives]
+Utrzymać kontrolę nad mostami i rozpocząć rozszerzanie naszej obecności na miasto, wypierając obrońców. 
+[Mission.Description]
+Szybkie opanowanie mostów na tyłach wroga to idealne zadanie dla lekkich i szybkich oddziałów powietrznodesantowych, które mogą lądować prawie niepostrzeżenie. Utrzymanie mostów w obliczu skoncentrowanych działań wroga, w tym sił pancernych, to zadanie trudne nawet dla najbardziej elitarnych jednostek, które powinny być do takich zadań przyzwyczajone.
+[Mission.Success]
+Zwycięstwo! Zdobyłeś mosty i obroniłeś je przed niemieckimi kontratakami.
+[Mission.Failed]
+Porażka. Twoi ludzie dzielnie walczyli, ale nie udało im się wykonać zadania.
+[Submission_2.Objectives]
+Zaatakuj wieś na północ stąd.
+[Submission_2.Description]
+Miejscowi partyzanci poinformowali nas, że na północ od mostów znajduje się zajmowana przez Niemców wieś, w której stacjonuje sztab nieprzyjaciela. Nie możemy zmarnować takiej okazji na osłabienie ich dowodzenia.
+Twoje rozkazy:
+-	Zaatakuj wieś.
+-	Pojmij lub zabij nieprzyjacielskich oficerów sztabowych.
+[Submission_2.Success]
+Dobra robota, miasto zdobyte!
+[Submission_2.Failed]
+Nie udało ci się zdobyć miasta, personel sztabu uciekł.
+[StringTable.tank_reserv]
+Wiele czołgów przełamało linię frontu i teraz są pod twoim dowództwem.
+[StringTable.inf_reserv]
+Otrzymałeś oddział spadochroniarzy, który wylądował na zachód od twoich pozycji.

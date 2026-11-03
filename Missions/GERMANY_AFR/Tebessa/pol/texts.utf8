@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Zniszcz obronę
+[Mission.Description]
+Zniszcz amerykańską obronę na przełęczy Tebessa.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana!
+[Submission_1.Objectives]
+Zdobądź przyczółek
+[Submission_1.Description]
+Zabezpiecz cel zaznaczony na mapie, eliminując znajdujące się tam działa i wojska wroga.
+[Submission_1.Success]
+Odskocznia została zabezpieczona.
+[Submission_1.Failed]
+Misja nieudana!
+[StringTable.Haubitze]
+Masz teraz dowództwo nad haubicami. Użyj ich do wsparcia ofensywy.
+[Submission_2.Objectives]
+Wyeliminuj pierwszy rzut
+[Submission_2.Description]
+Wyeliminuj pierwszą warstwę obrony wroga.
+[Submission_2.Success]
+Pierwsza warstwa obrony wroga została wyeliminowana.
+[Submission_2.Failed]
+Misja nieudana!
+[Submission_3.Objectives]
+Wyeliminuj drugi rzut
+[Submission_3.Description]
+Wyeliminuj drugą warstwę obrony wroga przy wyjściu z przełęczy.
+[Submission_3.Success]
+Obrona wroga została całkowicie wyeliminowana.
+[Submission_3.Failed]
+Misja nieudana!
+[StringTable.Add_tanks]
+Przydzieliłem panu czołgi z odwodu sztabu armii.

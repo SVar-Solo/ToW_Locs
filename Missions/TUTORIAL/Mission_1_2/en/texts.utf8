@@ -1,0 +1,110 @@
+﻿[Submission_1.Objectives]
+Determining direct and indirect visibility.
+
+[Submission_1.Description]
+You have two soldiers at your disposal, positioned at some distance from each other. On the enemy side, a Pz.IV F2 tank is moving out of the settlement. During movement, various obstacles (houses, trees and other objects) block the visibility of this tank for your units.
+
+[Submission_1.Success]
+Task completed!
+
+[Submission_1.Failed]
+Task failed!
+
+[StringTable.Direct_undirect_vis]
+One of the soldiers sees the enemy tank in direct line of sight; when this soldier is selected, the tank icon becomes bright red. The second soldier does not directly see the tank despite the distance allowing it to be seen. This is possible because there are objects on the map that obstruct the view. In this case, the tank icon for that soldier becomes semi-transparent. This means that the soldier who has the tank in direct line of sight is "spotting" it for the soldier who does not directly see the tank. When deselection is removed from both soldiers, or when several units are selected at once, the tank icon becomes bright red. In this situation, both of your units can fire at the target if there is a line of fire.
+
+[StringTable.unvis]
+The tank is invisible to all your units. In this situation, none of your units can fire directly at the enemy target. For some time, your units will "remember" the enemy's location; in this case, the icon above the enemy will change its appearance.
+Grass, bushes and trees, including fallen ones, are also obstacles to visibility. This can be used tactically, but pay attention to the size of the crowns and the height of the grass to determine whether your unit will be hidden behind them. If you start firing, the camouflage will be removed for some time.
+In addition to direct visibility, at a certain distance, infantry can determine the approximate location of the enemy by sound if the enemy is firing, moving, or rotating the turret.
+
+[StringTable.Direct_vis]
+For all your units, the tank is in direct line of sight. Try selecting all your units one by one. The tank icon is always bright red. In this situation, if there is a line of fire, any of your units can fire at the target.
+With "line of sight" enabled in the settings, you can check the line of fire using one of the commands — "attack" {hkey:attack}, "assault" {hkey:storm} or "area fire" {hkey:groundattack}. After activating the command and before issuing the order, an arrow will be displayed from your unit to the mouse pointer. The red color of the arrow shows a section where there are no obstacles on the line of fire; black color — after an obstacle. For equipment, a tooltip will appear near the mouse pointer explaining why there is no line of fire. If you move the mouse cursor outside the unit's viewing sectors, part of the arrow will be colored blue.
+
+[StringTable.ENTER]
+The game allows you to attach the camera to your unit. The camera can rotate freely. You can also select any other unit (group of units) and control it. When you press {hkey:bindcamera}, the camera moves and attaches to the unit; when you press {hkey:linkcamera}, the camera attaches to the unit while maintaining the current distance. This functionality works for all units within the playable game zone. Outside the game zone, you cannot attach the camera to a unit.
+
+[Mission.Objectives]
+Features of visibility visualization in the game.
+
+[Mission.Description]
+Using your two soldiers and a moving enemy tank, different variants of displaying an enemy unit under various visibility conditions are simulated. In particular:
+- both player units directly see the enemy tank;
+- one of the player units sees the enemy tank in direct line of sight, while the other does not see the enemy "directly";
+- both soldiers do not see the enemy tank.
+
+							   
+									  
+										  
+[Mission.Success]
+Task completed!
+
+[Mission.Failed]
+Task failed!
+
+[Submission_2.Objectives]
+Attaching the camera directly to a unit.
+
+[Submission_2.Description]
+There are two friendly units and two enemy units on the map. One of the enemy units is outside the game zone. The game allows you to attach the camera to any unit, including an enemy unit, located inside the game zone. You cannot attach the camera to units outside the game zone.
+
+[Submission_2.Success]
+Task completed!
+
+[Submission_2.Failed]
+Task failed!
+
+[StringTable.Line_of_Fire]
+A gun has been placed at your disposal. In most cases, if an enemy unit is in direct line of sight of the gun, it has a line of fire. But there are cases when there is direct visibility, but no line of fire — this is caused by an obstacle on the gun's line of fire (terrain fold, fence, etc.), or the gun cannot be aimed at the target due to an insufficient declination/elevation angle of the barrel. If the gun does not directly see the enemy unit, but there is a unit of your army that directly sees it, in this case the line of fire is mostly absent, but there are situations where the gun does not directly see the enemy but has a line of fire. Most often, this situation occurs when the enemy unit is at a distance exceeding the visibility range, or when the enemy is hidden by vegetation. In this case, the gun can fire.
+
+[Submission_3.Objectives]
+Destroy the enemy tank.
+
+[Submission_3.Description]
+You have a gun at your disposal. Destroy the enemy tank.
+
+[Submission_3.Success]
+Task completed!
+
+[Submission_3.Failed]
+Task failed!
+
+[StringTable.Howitzer_1]
+Take command of an artillery battery. They can conduct indirect fire from a closed position if the projectile trajectory allows it. The steepness of the trajectory depends on the projectile's initial velocity. The lower the velocity, the easier it is to throw the projectile over terrain folds if the distance is short. Sometimes you will have to carefully choose the right position for the gun so that it can fire at the required area.
+
+[StringTable.Howitzer_2]
+If only one unit is selected, then when you hover the mouse cursor over the enemy, the trajectory will be calculated and the icon type at the cursor will show whether firing is possible. The trajectory calculation takes into account the initial velocity of the current projectile, so select HE shells forcibly by right-clicking on the shell icon in the weapons panel, since they have a lower initial velocity. Try to disable the enemy's light equipment using the "Area fire" {hkey:groundattack} command. If only one unit is selected, after activating the command, a line with an arrow will appear showing whether there is direct visibility to the cursor, and the icon type at the cursor shows whether there is an indirect trajectory to that point. You can indicate a single point, or specify a fire area by holding RMB.
+
+[Submission_4.Objectives]
+Disable the group of enemy light equipment.
+
+[Submission_4.Description]
+You have an artillery battery at your disposal. Disable the group of enemy vehicles.
+
+[Submission_4.Success]
+Task completed!
+
+[Submission_4.Failed]
+Task failed!
+
+[StringTable.Tank_Vis_Line_1]
+Take command of an M3 "Lee" tank.
+Each crew position in a vehicle can be equipped with optical devices or observation slits through which the crew member looks alternately. Optical devices can be disabled; information about their status can be obtained in a tooltip if you hover the mouse cursor over a crew member's position in the bottom information panel of the interface. Observation devices have a viewing sector limited vertically and horizontally, and can have optical magnification, no magnification, or reduced visibility. Open crew members observe without optical devices, like ordinary infantry.
+
+[StringTable.Tank_Vis_Line_2]
+Change your tank's position and disable the enemy Pz IV.
+The gunner in the turret cannot fire the 37-mm gun because he has no shells, but he observes through his optical devices and has spotted a tank ahead, partially hidden by a terrain fold. The gun in the sponson is capable of firing but has no line of fire.
+To check the line of fire for a specific gun in the tank, select the gun by left-clicking on the gun icon in the weapons panel, then use one of the commands (for example, "attack" {hkey:attack}, "assault" {hkey:storm} or "area fire" {hkey:groundattack}) to check the line of fire.
+
+[Submission_5.Objectives]
+Disable the enemy tank.
+
+[Submission_5.Description]
+You have an M3 "Lee" tank at your disposal. Disable the enemy tank.
+
+[Submission_5.Success]
+Task completed!
+
+[Submission_5.Failed]
+Task failed!

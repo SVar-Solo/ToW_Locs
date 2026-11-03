@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Objectives]
+Alle Feinde in diesem Gebiet ausschalten, um die Provinz einzunehmen.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Description]
+Der Feind hat in der Gegend Befestigungen errichtet. Durchbrechen Sie seine Verteidigungsstellungen und schalten Sie die Feinde aus.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Objectives]
+Das Gebiet verteidigen.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Description]
+Der Feind hat einen Angriff auf Ihre Befestigungen begonnen. Schalten Sie die angreifenden Feinde aus.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Objectives]
+Alle Befestigungen in der Gegend einnehmen und die Feinde ausschalten.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Description]
+Der Feind wird versuchen, Ihre Befestigungen einzunehmen. Verhindern Sie das, indem Sie seine Truppen ausschalten.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Objectives]
+Sie sind eingekesselt! Ein Rückzug ist unmöglich. Sie müssen das Gebiet verteidigen.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Description]
+Der Feind hat einen Angriff auf Ihre Befestigungen begonnen. Schalten Sie die angreifenden Feinde aus.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Objectives]
+Alle Befestigungen in der Gegend einnehmen und die Feinde ausschalten.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Description]
+Der Feind wird versuchen, Ihre Befestigungen einzunehmen. Verhindern Sie das, indem Sie seine Truppen ausschalten.
+
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Objectives]
+Alle Feinde in diesem Gebiet ausschalten, um die Provinz einzunehmen.
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Description]
+Der Feind hat in der Gegend Befestigungen errichtet. Durchbrechen Sie seine Verteidigungsstellungen und schalten Sie die Feinde aus.
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Objectives]
+Das Gebiet verteidigen.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Description]
+Der Feind hat einen Angriff auf Ihre Befestigungen begonnen. Schalten Sie die angreifenden Feinde aus.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Objectives]
+Alle Befestigungen in der Gegend einnehmen und die Feinde ausschalten.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Description]
+Der Feind wird versuchen, Ihre Befestigungen einzunehmen. Verhindern Sie das, indem Sie seine Truppen ausschalten.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Objectives]
+Sie sind eingekesselt! Ein Rückzug ist unmöglich. Sie müssen das Gebiet verteidigen.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Description]
+Der Feind hat einen Angriff auf Ihre Befestigungen begonnen. Schalten Sie die angreifenden Feinde aus.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Objectives]
+Alle Befestigungen in der Gegend einnehmen und die Feinde ausschalten.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Description]
+Der Feind wird versuchen, Ihre Befestigungen einzunehmen. Verhindern Sie das, indem Sie seine Truppen ausschalten.
+
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Objectives]
+Alle Feinde in diesem Gebiet ausschalten, um die Provinz einzunehmen.
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Description]
+Der Feind hat in der Gegend Befestigungen errichtet. Durchbrechen Sie seine Verteidigungsstellungen und schalten Sie die Feinde aus.
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Objectives]
+Das Gebiet verteidigen.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Description]
+Der Feind hat einen Angriff auf Ihre Befestigungen begonnen. Schalten Sie die angreifenden Feinde aus.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Objectives]
+Alle Befestigungen in der Gegend einnehmen und die Feinde ausschalten.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Description]
+Der Feind wird versuchen, Ihre Befestigungen einzunehmen. Verhindern Sie das, indem Sie seine Truppen ausschalten.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Objectives]
+Sie sind eingekesselt! Ein Rückzug ist unmöglich. Sie müssen das Gebiet verteidigen.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Description]
+Der Feind hat einen Angriff auf Ihre Befestigungen begonnen. Schalten Sie die angreifenden Feinde aus.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Objectives]
+Alle Befestigungen in der Gegend einnehmen und die Feinde ausschalten.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Description]
+Der Feind wird versuchen, Ihre Befestigungen einzunehmen. Verhindern Sie das, indem Sie seine Truppen ausschalten.
+
+
+[Reinforcement.DefendGroupR1]
+2 Infanteriegruppen, unterstützt von 2 Selbstfahrgeschützen
+
+[Reinforcement.AssaultGroupR1]
+2 Panzer, unterstützt von 2 Infanteriegruppen
+
+[Reinforcement.AttackGroupR1]
+2 Panzer, unterstützt von 2 Infanteriegruppen
+

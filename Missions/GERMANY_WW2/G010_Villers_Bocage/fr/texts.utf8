@@ -1,0 +1,68 @@
+﻿[Mission.Objectives]
+Les Britanniques tentent d’atteindre Caen et il faut les arrêter.
+[Mission.Description]
+Des unités britanniques, sous le commandement du général Montgomery, ont l’intention de s’emparer de Villers-Bocage et de pousser jusqu’à Caen. Vous disposez de plusieurs chars du schwere SS-Panzer-Abteilung 101, dont l’as des chars Michael Wittmann. Frappez avec vigueur et puissance contre la colonne britannique qui se dirige vers vous. 
+
+Vos ordres :
+-	Arrêter la colonne blindée britannique. Détruire autant de chars et d’équipement ennemis que possible. 
+[Mission.Success]
+Mission accomplie ! On se souviendra de votre fait d’armes d’aujourd’hui pendant des années.
+[Mission.Failed]
+La mission a échoué ! L’occasion d’infliger un coup décisif aux Britanniques a été perdue.
+[Submission_1.Objectives]
+Attaquer la colonne blindée britannique.
+[Submission_1.Description]
+Des éléments de 7e division blindée britannique avancent en colonne de route vers le petit village de Villers-Bocage, en marche vers Caen. 
+
+Vos ordres : 
+-	Utiliser la surprise, la vitesse et la supériorité de vos blindés pour infliger le maximum de dommages aux forces britanniques.
+[Submission_1.Success]
+Vous avez décimé les forces britanniques.
+[Submission_1.Failed]
+Votre attaque a échoué.
+[Submission_2.Objectives]
+Michael Wittmann et son équipage doivent rester en vie si possible.
+[Submission_2.Description]
+L’as des chars Michael Wittmann et son équipage présentent une grande force symbolique. Il faut les garder en vie lui et son équipage à tout prix !
+[Submission_2.Success]
+Michael Wittmann a survécu à cette bataille et il pourra continuer à combattre les forces alliées dans les prochaines batailles.
+[Submission_2.Failed]
+Michael Wittmann a été tué.
+[Submission_3.Objectives]
+Continuer à attaquer les restes des forces britanniques.
+[Submission_3.Description]
+Vous avez affolé et détruit le gros des forces britanniques. Continuez à engager le reste des unités ennemies.
+
+Vos ordres : 
+-	Des forces britanniques semblent s’être regroupées près d’une petite ferme dans les parages, il faut les trouver et les détruire.
+[Submission_3.Success]
+Votre attaque sur la ferme a réussi.
+[Submission_3.Failed]
+Votre attaque contre les forces britanniques autour de la ferme a échoué.
+[Submission_4.Objectives]
+Capturer une position stratégique près d’une ferme.
+[Submission_4.Description] 
+L’ennemi a été repéré autour d’une ferme près de Villers-Bocage. La ferme se trouve à proximité d’un carrefour stratégique, il faut s’en emparer.
+
+Vos ordres : 
+-	Détruire les unités britanniques autour de la ferme.
+-	Conserver la ferme face à la contre-attaque britannique.
+[Submission_4.Success]
+Vous avez capturé la ferme et mis en déroute les unités britanniques.
+[Submission_4.Failed]
+Votre attaque sur la ferme a échoué.
+[Submission_5.Objectives]
+Résister à toutes les tentatives britanniques pour reprendre la ferme.
+[Submission_5.Description]
+Vous avez surpris les unités britanniques et vous leur avez infligé des pertes substantielles, mais ils commencent à se reformer et se regrouper pour reprendre la ville de Villers-Bocage. Vous devez déjouer cette contre-attaque.
+
+Vos ordres :
+-	Repousser la contre-attaque ennemie.
+[Submission_5.Success]
+Vous avez gagné ! Votre action de ce jour restera dans les annales de la guerre.
+[Submission_5.Failed]
+Vous avez été défait et la progression britannique vers Caen continue sans entrave.
+[StringTable.inf_reserv]
+Un groupe d’infanterie est à votre disposition.
+[StringTable.tank_reserv]
+Des blindés supplémentaires vous ont été attribués.

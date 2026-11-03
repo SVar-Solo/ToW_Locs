@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Prevent the enemy from occuyping Hill 232.8 and breaking through to Kalinovka.
+[Mission.Description]
+Occupy and secure the defensive area on the southeastern slopes of Hill 232.8. Prevent the enemy from breaking through to Kalinovka. Concentrate your efforts on holding the positions before the ridge of the hill. At all cost ensure that units of the 10th Tank Corps are deployed into combat in the vicinity of the hill.
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+Our forces withdraw under assault from a superior enemy.
+[Submission1.Objectives]
+Hold your positions until the units from the 10th Tank Corps arrive.
+[Submission1.Success]
+Mission complete, the enemy advance has been stopped.
+[Submission1.Failed]
+The enemy has penetrated the frontline and is now pressing the advance.
+[Submission2.Objectives]
+In conjunction with the units of 10th Tank Corps counterattack the enemy.
+[Submission2.Success]
+The counterattack is going according to plan, the enemy is withdrawing.
+[Submission2.Failed]
+The counterattack has failed, our troops have been stopped by superior forces.
+[StringTable.Support]
+Groups of tanks and infantry have been placed under your command.
+
+[StringTable.Avia_Support]
+Il-2 air strike is available.
+[StringTable.Art_Support]
+A Katyusha rocket artillery battery will open fire on your mark.
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

@@ -1,0 +1,12 @@
+﻿[Submission1.Objectives]
+Stop the advance of German troops.
+[Submission1.Description]
+Superior enemy forces are advancing through to Istra City. The right flank of the 16th Army is falling back, under nearly overwhelming pressure. You must help stop the German offensive. 
+
+Your orders are to:
+- Stop any advance of German troops.
+- Prevent the German troops from breaking through our defenses.
+[Submission1.Success]
+High Command’s orders have been fulfilled! You have stopped the advance of German troops.
+[Submission1.Failed]
+You have failed to fulfill your orders! The enemy has broken through our defenses and is advancing towards Istra City.

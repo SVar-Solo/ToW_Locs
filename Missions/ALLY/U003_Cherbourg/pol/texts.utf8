@@ -1,0 +1,43 @@
+﻿[Submission_1.Objectives]
+Zająć pozycje na wzgórzu.
+[Submission_1.Description]
+To wzgórze ma olbrzymie znaczenie strategiczne na tym odcinku frontu. 
+Twoje rozkazy: 
+-	Wyprzeć nieprzyjaciela z pozycji na wzgórzu i przygotować tam obronę. 
+[Submission_1.Success]
+Wzgórze zdobyte!
+[Submission_1.Failed]
+Porażka!
+[Submission_2.Objectives]
+Powiększyć przyczółek, niszcząc nieprzyjacielską obronę w pobliskich wsiach. 
+[Submission_2.Description]
+Po zdobyciu wzgórza przebiłeś się przez nieprzyjacielską linię obrony. Wróg wciąż znajduje się na skrzydłach. Należy rozszerzyć przyczółek. 
+Twoje rozkazy: 
+-	Zniszczyć nieprzyjacielskie pozycje na skrzydłach. 
+[Submission_2.Success]
+Zadanie wykonane.
+[Submission_2.Failed]
+Misja nie powiodła się.
+[Submission_3.Objectives]
+Za wszelką cenę utrzymać wzgórze.
+[Submission_3.Description]
+Niemcy zamierzają przeprowadzić kontratak na wasze pozycje; musicie zatrzymać ich natarcie. 
+
+Twoje rozkazy: 
+-	Utrzymać pozycje na wzgórzu i zniszczyć nacierającego nieprzyjaciela.
+[Submission_3.Success]
+Wróg został pokonany. Droga do Cherbourga stoi otworem.
+[Submission_3.Failed]
+Zostałeś pokonany. Droga do Cherbourga jest zamknięta.
+[Mission.Objectives]
+Zniszczyć punkty oporu sił niemieckich w pobliżu portu Cherbourg.
+[Mission.Description]
+Garnizon Cherbourga został odcięty od głównych sił niemieckich, dlatego nie posiada wystarczających rezerw. Mimo alianckiej przewagi w ludziach i sprzęcie, garnizon odrzucił ofertę kapitulacji złożoną przez Collinsa. 
+Twoje rozkazy:
+-	Zniszczyć punkty oporu sił niemieckich w pobliżu portu Cherbourg.
+[Mission.Success]
+Zwyciężyłeś.
+[Mission.Failed]
+Przegrałeś. Zbyt wielkie siły wroga będą zakłócać naszą ofensywę w tym rejonie.
+[StringTable.reserv]
+Przybyły posiłki.

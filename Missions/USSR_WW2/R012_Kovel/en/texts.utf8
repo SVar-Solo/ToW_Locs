@@ -1,0 +1,70 @@
+﻿[Mission1.Objectives]
+Force the Fascist aggressors out of the village.
+[Mission1.Description]
+German units from Army Group South and Army Group Center are holding defensive positions in the outskirts of the town of Kovel. They must be eliminated.
+
+Your orders: 
+- 	Route the enemy units from their defensive positions around Kovel.
+[Mission1.Success]
+The attack has been successful and the village liberated. Local residents speak about the unimaginable atrocities committed by the Fascists during their occupation. These stories have added more fire to the hearts of your soldiers!
+[Mission1.Failed]
+The order has not been carried out and your attack has died out. Your rash actions have jeopardized the success of the whole operation!
+[Submission2.Objectives]
+Hold off the enemy attack.
+[Submission2.Description]
+Recon reports say that there are several enemy units moving towards a fuel station.
+
+Your orders: 
+-	Prevent the enemy from recapturing the fuel station.
+[Submission2.Success]
+The enemy counter-attack has been beaten off. Now we can press the advance!
+[Submission2.Failed]
+The enemy has captured the fuel station. Your efforts have failed.
+[Submission1.Objectives]
+Force the enemy out of the fuel station.
+[Submission1.Description]
+The complex road network in this area is highly inadequate to keep units well supplied, armed and fueled. Due to this fact, fuel stations are highly prized possessions and must not fall to the enemy. If you encounter any enemy depots, use all assets to capture them for our own use.
+
+Your orders are: 
+- 	Capture the enemy held fuel depot.
+- 	Establish a bridgehead to allow us to bring reserve units closer to the front. 
+[Submission1.Success]
+The fuel station has been captured and we have gained a valuable logistics asset.
+[Submission1.Failed]
+You were unable to capture this vital location.
+[Mission1_1.Objectives]
+Advance deeper into enemy territory.
+[Mission1_1.Description] 
+The enemy defenses have been breached! You’re to continue the advance in this direction and to attack the German units in the town ahead. We must not allow the enemy to regain the initiative so attack quickly commander.
+
+Your orders:
+- 	Attack the enemy forces in the village.
+[Mission1_1.Success]
+Your orders have been well executed and the enemy defenses are crumbling!
+[Mission1_1.Failed]
+The Germans have managed to hold their positions in the village.
+[Submission2_1.Objectives]
+Attack the enemy tank group.
+[Submission2_1.Description]
+Recon reports seemed to indicate a weakness in the German flank. We have pushed through their light defenses but are now encountering heavy armored units.
+
+Your orders: 
+-	 Attack the enemy tank group.
+[Submission2_1.Success]
+The enemy tank units have been destroyed.
+[Submission2_1.Failed]
+The enemy units were too tough. You have failed commander.
+Your troops have been destroyed!
+[Mission1_2.Objectives]
+Attack the enemy forces in the village.
+[Mission1_2.Description]
+The enemy defenses have been broken! To exploit this success we must continue the advance and attack the German troops located in the village. Intelligence reports that the enemy has deployed considerably reserve units, so be prepared commander.
+
+Your orders: 
+- 	Attack the enemy troops in the village.
+[Mission1_2.Success]
+You’ve succeeded in capturing the village.
+[Mission1_2.Failed]
+The village has not been secured and our momentum has been lost.
+[StringTable.Reserv]
+You have been assigned additional reinforcements.

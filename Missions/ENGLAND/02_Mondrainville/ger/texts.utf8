@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Befreien Sie Mondrainville, stoßen Sie weiter nach Süden vor, sichern Sie die Straße nach Caen und eliminieren Sie alle feindlichen Stellungen.
+[Mission.Description]
+Stoßen Sie weiter vor, blockieren Sie die Straße nach Caen und vernichten Sie alle feindlichen Einheiten in der Umgebung von Mondrainville.
+[Submission_01.Success]
+Mondrainville wurde erobert.
+[Submission_01.Failed]
+Die Eroberung von Mondrainville ist fehlgeschlagen.
+[Submission_1.Objectives]
+Vertreiben Sie den Feind aus dem Bauernhof.
+[Submission_1.Description]
+Die Aufklärung hat herausgefunden, dass sich eine feindliche Artilleriebatterie im Bauernhof befindet. Eliminieren Sie sie.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Wehren Sie die Angriffe des Feindes auf Mondrainville ab.
+[Submission_3.Description]
+Bei dem Versuch Mondrainville zu halten, setzt der Feind Verstärkungen ein.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Sichern Sie die Straße nach Caen.
+[Submission_2.Description]
+Vertreiben Sie den Feind aus dem Gebäudekomplex entlang der Straße nach Caen.
+[Submission_3.Success]
+Der Angriff wurde abgewehrt.
+[Submission_3.Failed]
+Mission gescheitert.
+[Submission_1.Success]
+Artilleriebatterie eliminiert. Bauernhof gesichert.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_2.Success]
+Straße gesichert.
+[Submission_2.Failed]
+Aufgabe wurde nicht erfüllt.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Mission gescheitert.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

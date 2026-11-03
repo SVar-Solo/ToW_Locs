@@ -1,0 +1,21 @@
+﻿[Mission1.Objectives]
+Dotrzyj z kolumną pancerną we wskazane miejsce.
+[Mission1.Description]
+Alianckie oddziały kontynuują natarcie z przyczółków na plażach. Teraz najważniejsze jest zajęcie Caen. Gdy tego dokonamy, będziemy mogli kontynuować natarcie.
+Kolumna angielskich jednostek pancernych (słynne Szczury Pustyni) zmierza do miasta Caen. Naczelne dowództwo chce zamknąć kleszcze na niemieckich pozycjach w tym rejonie, wykorzystując siły angielskiej 7. dywizji pancernej. 
+[Mission1.Success]
+Rozkazy dowództwa zostały wykonane. Z pewnością wkrótce zajmiemy Caen. Niemcy nie zepchną nas do morza!
+[Mission1.Failed]
+Zadanie nie zostało wykonane. Niemcy pokonali Cię. Biorąc pod uwagę siły, jakimi dysponowałeś, trudno w to uwierzyć! 
+[Mission2.Objectives]
+Zniszczyć nieprzyjacielskie czołgi.
+[Mission2.Description]
+W drodze do Caen kolumna angielskich pułków pancernych została zaatakowana przez 2. kompanię 501. batalionu ciężkich czołgów SS dowodzoną przez Michaela Wittmanna. Niektóre czołgi kolumny zostały uszkodzone. Niemcy szykują uderzenie w kierunku Villers-Bocage. 
+Twoje rozkazy: 
+-	Zniszczyć nieprzyjacielskie czołgi.
+[Mission2.Success]
+Zadanie wykonane! Nieprzyjacielskie czołgi zostały zniszczone. Droga do Caen stoi otworem!
+[Mission2.Failed]
+Twoje oddziały zostały pokonane! Przegrałeś bitwę!
+[StringTable.Reserv]
+Przybyły posiłki.

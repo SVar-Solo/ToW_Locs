@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+두브로바 - 솔로네츠 선의 방어 진지를 사수하라. 적 전차가 시르체프로 돌파하지 못하게 막아라.
+[Mission.Description]
+대전차포 포대, 대전차 소총 부대, 전차와 협력하여 방어 구역을 사수하라. 마을 안의 진지를 사수하는 데 특별한 우선순위를 두어야 한다. 전차를 매복에 활용하라.
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+아군은 우세한 적의 타격에 밀려 후퇴한다.
+[Submission1.Objectives]
+전차 매복으로 적의 공격을 격퇴하라.
+[Submission1.Success]
+적 전차를 파괴했다.
+[Submission1.Failed]
+아군 전차가 격파되었고 적이 진격을 밀어붙이고 있다.
+[Submission2.Objectives]
+다음 공격을 격퇴할 준비를 하라. 전차는 보조 사격 진지로 후퇴하라! 
+[Submission2.Success]
+임무 완료. 적의 모든 공격을 격퇴했다.
+[Submission2.Failed]
+아군 전차가 격파되었고 적이 진격을 밀어붙이고 있다.
+[Submission3.Objectives]
+적을 반격하라. 전선을 회복하라! 적 전차와 차량화 보병이 아군 후방으로 돌파하지 못하게 막아라.
+[Submission3.Success]
+임무 완료, 전선을 회복했다.
+[Submission3.Failed]
+반격이 저지되었다. 적이 진격을 밀어붙이고 있다.
+[StringTable.Tanks!]
+전차다! 측면과 후면을 가능한 한 가장 가까운 거리에서 사격하라!
+[StringTable.Air!]
+공습이다! 엄폐하라!
+
+[StringTable.Tank]
+제3차량화여단의 전차
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

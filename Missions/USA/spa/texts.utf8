@@ -1,0 +1,188 @@
+﻿[Battle Group 6.Name]
+X Cuerpo
+
+[Battle Group 2.Name]
+21.º Reg. Marina Ind.
+
+[USA.Epilogue]
+Las fuerzas de la ONU y de Corea del Sur se unieron con un objetivo común: la destrucción de las fuerzas norcoreanas y la rectificación de las fronteras. Estaban decididas a hacer retroceder a los norcoreanos más allá de las fronteras septentrionales de la República Popular Democrática de Corea, y lo lograron. Fue un vuelco asombroso, que solo pudo conseguirse con la plena cooperación de las fuerzas terrestres, aéreas y navales, que asestaron golpes coordinados y simultáneos al frente, los flancos y la retaguardia enemigos, con el apoyo de numerosas unidades aéreas y de artillería. Su superioridad en personal y material bélico les resultó muy útil, pues el enemigo carecía de defensa antiaérea, artillería y tanques.
+
+[Battle Group 1.Name]
+
+
+[USA.FailureEpilogue]
+La ofensiva conjunta de las tropas estadounidenses y surcoreanas en Corea puso de manifiesto una serie de deficiencias en sus formaciones y unidades. Las fuerzas del Mando de la ONU demostraron ser incapaces de llevar a cabo una ofensiva lo bastante rápida, y el combate dejó al descubierto la preparación insuficiente de los refuerzos. No habían sido adiestrados para combatir de noche ni para aprovechar en su favor el terreno montañoso de Corea. Empleaban formaciones adecuadas sobre todo para las llanuras, atacaban a lo largo de todo el frente y limitaban sus operaciones de combate a las horas diurnas. No intentaron envolver los flancos enemigos ni aprovechar las montañas. Su infantería solo podía combatir cuando contaba con el apoyo de la artillería, los tanques y las fuerzas aéreas. El uso intensivo de las carreteras, los flancos y retaguardias mal defendidos, así como el miedo generalizado a ser cercados: todas estas deficiencias afectaban a las tropas del Mando de la ONU.
+
+[Battle Group 2.FullName]
+21.º Regimiento Independiente de Infantería de Marina
+
+[Battle Group 6.FullName]
+Unidades del X Cuerpo
+
+[Battle Group 15.Name]
+15.º Bat. Inf. Ind.
+
+[Battle Group 15.FullName]
+15.º Batallón Independiente de Infantería
+
+[Battle Group 16.Name]
+10.ª Div. Inf.
+
+[Battle Group 16.FullName]
+Unidades de la 10.ª División de Infantería
+
+[Battle Group 17.Name]
+I Cuerpo
+
+[Battle Group 17.FullName]
+Unidades del I Cuerpo
+
+[Battle Group 22.Name]
+II Cuerpo
+
+[Battle Group 19.Name]
+1.ª Brig. Tanques
+
+[Battle Group 21.Name]
+18.ª Brig. Inf.
+
+[Battle Group 20.Name]
+70.º Reg. Inf. Ind.
+
+[Battle Group 22.FullName]
+Unidades del II Cuerpo
+
+[Battle Group 20.FullName]
+70.º Regimiento Independiente de Infantería
+
+[Battle Group 21.FullName]
+18.ª Brigada de Infantería
+
+[Battle Group 19.FullName]
+1.ª Brigada de Tanques
+
+[Battle Group 23.Name]
+17.ª Div. Mec.
+
+[Battle Group 23.FullName]
+17.ª División Mecanizada
+
+[USA.FullName]
+Contraofensiva
+
+[USA.Description]
+Gracias al superior apoyo aéreo y de artillería del Mando de la ONU, las tropas norcoreanas no lograron romper el Perímetro de Pusan ni arrojar a sus defensores al mar. Al contrario, el poderoso contraataque lanzado por las fuerzas estadounidenses y surcoreanas obligó a Corea del Norte a abandonar varias de sus posiciones clave. A mediados de septiembre de 1950, los norcoreanos estaban completamente a la defensiva.
+Tras asegurar la zona de Pusan, las fuerzas surcoreanas empezaron a planificar su contraofensiva. Destruirían a las tropas norcoreanas y ocuparían toda Corea.
+El plan contemplaba dos golpes: el primero, de las tropas terrestres desde la zona de Pusan, y el segundo, de tropas anfibias desde Incheon. Juntos cercarían y destruirían a las tropas norcoreanas en Corea del Sur.
+En el eje principal de avance, el Mando de la ONU desplegó seis divisiones de infantería, una brigada de infantería, tres divisiones de artillería independientes y tres batallones blindados independientes. El apoyo aéreo correría a cargo de hasta 1100 aviones de ataque.
+El desembarco de Incheon debía ser asegurado por el X Cuerpo estadounidense, compuesto por la 1.ª División de Infantería de Marina (EE. UU.), la 7.ª División de Infantería (EE. UU.), el 41.º Comando (Gran Bretaña) y el 17.º Regimiento de Infantería (República de Corea). Su apoyo correría a cargo de 250 buques y unos 500 aviones.
+La contraofensiva se lanzó el 15 de septiembre de 1950.
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeongbuk-do
+
+[HAMGEN_PUKTO.Description]
+Hamgyeongbuk-do es la provincia más septentrional de Corea del Norte. Limita al norte con China y su larga costa oriental está bañada por el mar del Japón. En la provincia se encuentra el principal nudo ferroviario de Corea del Norte, que gestiona los envíos procedentes tanto de China como de la Unión Soviética. El terreno es mayormente llano, pero hay una gran cadena montañosa al oeste.
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+La provincia de Ryanggang-do limita al norte con China. Ocupada en su mayor parte por montañas surcadas de estrechos pasos de montaña, es apenas transitable. Aun así, Ryanggang-do es una zona estratégica muy importante, pues en ella se encuentra el principal ferrocarril procedente de la Unión Soviética, que abastece a las tropas norcoreanas de material bélico y armamento.
+
+[HAMGEN_NAMDO.FullName]
+Hwanghaenam-do
+
+[HAMGEN_NAMDO.Description]
+Aunque montañosa en el oeste, Hwanghaenam-do se vuelve una llanura de excelentes tierras de cultivo a medida que se extiende hacia el este, hasta su costa del mar del Japón. Esta tierra fértil produce arroz, trigo y colza, lo que convierte a la provincia en el principal centro agrícola de Corea del Norte. La captura de Hwanghaenam-do proporcionaría una excelente base para continuar la lucha más al norte.
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+Limítrofe con China por el norte, Chagang-do es una de las provincias industriales más desarrolladas de Corea del Norte. Su importante nudo ferroviario gestiona toda la carga procedente de China y de la Unión Soviética, y en la provincia se hallan las principales bases de suministro de las tropas norcoreanas. Chagang-do no tiene acceso al mar.
+
+[PHENAN_PUKTO.FullName]
+Pyeonganbuk-do
+
+[PHENAN_PUKTO.Description]
+La provincia septentrional de Pyeonganbuk-do comparte frontera con China. Su capital, Sineuiju, es un importante nudo de transporte, y el puerto de Yongampo es uno de los principales centros de la industria pesquera del mar Amarillo. El terreno es mayormente montañoso, con valles que predominan en la zona costera.
+
+[PHENAN_NAMDO.FullName]
+Pyeongannam-do
+
+[PHENAN_NAMDO.Description]
+La provincia norcoreana de Pyeongannam-do, cuya capital es Pyeongseong, limita con Pyeonganbuk-do y Chagang-do al norte, con Hwanghaenam-do y Gangwon-do al este y sureste, y con Hwanghaebuk-do y Pyeongyang al sur. Al oeste limita con el mar Amarillo. La provincia tiene valor estratégico como base de partida para el reposicionamiento de tropas y suministros por mar.
+
+[PHENYAN.FullName]
+Pyeongyang
+
+[PHENYAN.Description]
+Pyeongyang, nombre tanto de la ciudad capital como de la provincia que la rodea, es un importante centro económico de Corea del Norte, así como un gran bastión industrial. La ciudad de Pyeongyang se alza en una llanura rodeada de montañas. En 1946 se separó de Pyeongannam-do para convertirse en una provincia independiente. La ciudad y sus alrededores están fuertemente fortificados y bien defendidos.
+
+[KANWONDO_PUKTO.FullName]
+Gangwondo-pukto
+
+[KANWONDO_PUKTO.Description]
+La provincia norcoreana de Gangwondo-pukto se encuentra en la región fronteriza. Es mayormente de tierras altas, pero el terreno a lo largo de la costa es apto para el transporte de vehículos.
+
+[HVANHE_PUKTO.FullName]
+Hwanghae-pukto
+
+[HVANHE_PUKTO.Description]
+La frontera sur de la provincia de Hwanghaebuk-do sigue el paralelo 38. Las fuerzas enemigas están concentradas al sur. La provincia es de importancia estratégica crítica para la defensa de Pyeongyang, la capital de Corea del Norte.
+
+[KANWONDO_NAMDO.FullName]
+Gangwondo-Namdo
+
+[KANWONDO_NAMDO.Description]
+La frontera septentrional de la provincia de Gangwonnam-do sigue el paralelo 38, que divide la península de Corea en Corea del Norte y Corea del Sur. Al tratarse de una tierra montañosa, la provincia no tiene fortificaciones pesadas, y los pasos de montaña son traicioneros: incluso una pequeña fuerza defensora puede contener a una fuerza atacante superior. Las pequeñas aldeas y monasterios se han convertido en ciudadelas defensivas muy difíciles de capturar. Solo los senderos rocosos, impracticables para vehículos, permanecen sin ocupar.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Al ser la sede de Seúl, la capital de Corea del Sur, Gyeonggi-do es una provincia de importancia estratégica crítica. Aunque es mayormente llana, está salpicada de localidades habitadas, muchas de ellas fortificadas. Naturalmente, la propia Seúl está protegida por las tropas más experimentadas de Corea del Sur y rodeada además de fuertes fortificaciones. La frontera septentrional de la provincia sigue el paralelo 38, que divide Corea en Norte y Sur.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsangbuk-do
+
+[KENSAN_PUKTO.Description]
+Gyeongsangbuk-do da acceso a la costa oriental de la península de Corea. Quien controle esta provincia puede recibir suministros por mar, una ventaja estratégica significativa. Gyeongsangbuk-do tiene numerosos valles de montaña, pero cerca de la costa oriental las montañas pierden altura y los valles se ensanchan y se allanan. Esto hace que la zona sea muy cómoda para atacar, pero difícil de defender.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheongbuk-do
+
+[CHUNCHON_PUKTO.Description]
+Chungcheongbuk-do es el principal corredor de transporte hacia Seúl, la capital de Corea del Sur. En esta provincia se concentran numerosas bases militares y fortificaciones. Controlar Chungcheongbuk-do supondría una ventaja significativa.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheongnam-do
+
+[CHUNCHON_NAMDO.Description]
+Gran parte de Chungcheongnam-do está ocupada por montañas casi infranqueables, pero hay ciertas zonas vulnerables al ataque, aunque, como es natural, están fuertemente defendidas y fortificadas. Todos los núcleos de población se han convertido en puntos fuertes, pero algunos de los senderos rocosos son impracticables para vehículos. Esto los hace perfectos para pequeñas escuadras de infantería, que pueden maniobrar con sigilo y sorprender al enemigo.
+
+[PUSAN.FullName]
+Pusan
+
+[PUSAN.Description]
+El Perímetro de Pusan es la última posición de las tropas surcoreanas. Esta zona estratégica de la máxima importancia sirve de cabeza de playa para las fuerzas estadounidenses y cuenta con numerosos puntos fuertes bien defendidos. Capturar el Perímetro de Pusan, así como los puertos de Pusan, Ulsan y Pohang, impediría que las fuerzas del Mando de las Naciones Unidas recibieran refuerzos y suministros.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsangnam-do
+
+[KENSAN_NAMDO.Description]
+La provincia de Gyeongsangnam-do limita con las provincias de Jeollabuk-do y Gyeongsangbuk-do. Está ocupada mayormente por montañas y alberga tres parques nacionales: Gayasan, Deogyusan y Jirisan. La cima más alta es el monte Deogyusan (1614 metros). Como el resto de la península de Corea, la provincia tiene clima monzónico: veranos cálidos y húmedos e inviernos relativamente fríos y secos. La temperatura media anual es de 10,6 grados Celsius y la precipitación anual es de 1395,2 mm (datos de 1993). La mayor parte de la precipitación (850 mm) cae durante la estación de lluvias, que dura los tres meses de verano.
+
+[CHOPLA_PUKTO.FullName]
+Jeollabuk-do
+
+[CHOPLA_PUKTO.Description]
+Jeollabuk-do se encuentra en la costa occidental. Su puerto es fundamental para el movimiento de personal y suministros. Sin embargo, salvo en las zonas costeras, la provincia está ocupada por montañas traicioneras, por lo que no hay fortificaciones pesadas.
+
+[CHOPLA_NAMDO.FullName]
+Jeollanam-do
+
+[CHOPLA_NAMDO.Description]
+Jeollanam-do es la provincia más meridional de Corea del Sur. Las montañas dominan su región norte. Sin embargo, hacia las regiones sur y costera, las montañas se allanan en amplios valles. En cuanto a su importancia estratégica, la parte sur de la provincia es importante para la llegada de suministros por mar, gracias a sus numerosos puertos grandes. El mando militar estadounidense lo aprovecha en su favor.
+

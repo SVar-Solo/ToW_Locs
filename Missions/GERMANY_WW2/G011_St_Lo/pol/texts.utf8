@@ -1,0 +1,45 @@
+﻿[Submission1.Objectives]
+Zorganizuj obronę na przedmieściach Saint-Lo. Powinieneś zorganizować zasadzkę na wroga, zbliżającego się do miasta.
+[Submission_1.Description]
+Zorganizuj linie obronne na przedmieściach Saint-Lo. Masz do dyspozycji elitarny oddział Fallschirmjaegers. Używaj go rozsądnie.
+Twoje rozkazy: 
+-	Przygotuj zasadzkę na zbliżających się Amerykanów.
+[Submission_1.Success]
+Amerykański oddział zwiadowczy został zniszczony.
+[Submission_1.Failed]
+Zasadzka nie udała się!
+[Submission_2.Objectives]
+Odeprzeć główne siły nieprzyjaciela. Użyć wszystkich dostępnych sił.
+[Submission_2.Description]
+Amerykanie próbują zająć Saint-Lo, kluczowe miasto w Normandii. Musimy im przeszkodzić. 
+
+Twoje rozkazy: 
+-	Za wszelką cenę odeprzeć atak sił USA. 
+[Submission_2.Success]
+Zwycięstwo! Odparłeś atak Amerykanów!
+[Submission_2.Failed]
+Porażka. Amerykanie prą do przodu i nasze plany zepchnięcia ich do morza zostały zniweczone.
+[Submission_3.Objectives]
+Za wszelką cenę utrzymać pozycje.
+[Submission_3.Description]
+Amerykanie są twardzi i uparci, ale nie możemy im pozwolić na zajęcie Saint-Lo. Tylko ty możesz ich powstrzymać!
+Twoje rozkazy: 
+-	Utrzymać pozycje i zatrzymać amerykańskie natarcie.
+[Submission_3.Success]
+Utrzymałeś się. Trzeba zatrzymywać Amerykanów zawsze, gdy to możliwe.
+[Submission_3.Failed]
+Przegrałeś. Nie możemy sobie pozwolić na takie porażki.
+[Mission.Objectives]
+Utrzymaj pozycje na wzgórzach w okolicach Saint-Lo. 
+[Mission.Description]
+Saint-Lo ma strategiczne znaczenie dla Niemców i Amerykanów. Utrata miasta oznacza w praktyce zniweczenie szansy na zepchnięcie Amerykanów do morza. Na dwóch wzgórzach na przedmieściach znajdują się znakomite stanowiska, które świetnie nadają się do obrony przed nacierającymi Amerykanami. Obrońcie to miasto, od tego zależy los Niemiec! 
+Twoje rozkazy:
+-	Rozmieść wojska na wzgórzach wokół farmy i za wszelką cenę zatrzymaj Amerykanów! 
+[Mission.Success]
+Naród niemiecki nie zapomni, czego dokonałeś. 
+[Mission.Failed]
+Z powodu twojej porażki Amerykanie zmierzają zająć Saint-Lo. Nasze szanse na zwycięstwo osłabły. 
+[StringTable.tank_reserv]
+Masz do dyspozycji czołgi i artylerię. 
+[StringTable.reserv]
+Masz do dyspozycji czołgi i piechotę.

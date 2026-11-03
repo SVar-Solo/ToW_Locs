@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Eliminate the enemy troops in the area specified.
+[Mission1.Description]
+Our units are located near Lake Seliger. HQ has ordered us to penetrate deep into the Russian lines and disrupt a forthcoming offensive.   Intelligence is also reporting that the Russians are again employing their new and deadly model T-34 tanks.
+
+Your orders are:
+- 	Launch an offensive in this sector of the front.
+-	Eliminate the enemy troops that have taken up a defensive posture in the nearby village.
+[Mission1.Success]
+Well done commander! The enemy has been totally defeated. Now, we can force back the Russian 3rd and 4th Armies from their cozy defensive positions once and for all!  
+[Mission1.Failed]
+The enemy has repelled all of your attacks. What a disgrace for an officer of the Reich!
+[Submission1.Objectives]
+Shell the enemy positions.
+[Submission1.Description]
+Before launching a general offensive, shell the Russian defensive positions.
+
+Your orders:
+- 	Shell the enemy defense positions.
+[Submission1.Success]
+The shelling has been a success. The Russian troops have been significantly weakened!
+[Submission1.Failed]
+Your artillery barrage was ineffective.
+[Submission2.Objectives]
+Attack the Russian snowmobile battalion. 
+[Submission2.Description]
+According to air intelligence, enemy snowmobiles are approaching our troops from the flank. Launch an attack immediately against these mobile units otherwise we risk being encircled.
+
+Your orders: 
+-	 Attack the enemy units before they can encircle our forces.
+[Submission2.Success]
+Snowmobile units have been eliminated!
+[Submission2.Failed]
+You troops have been totally defeated. 
+[Submission3.Objectives]
+Attack the advancing enemy troops.
+[Submission3.Description]
+Russian troops have begun a large-scale offensive, striking between Army Groups North and Center.   
+
+Your orders: 
+-	 Attack the advancing Russian forces.
+[Submission3.Success]
+The advancing enemy troops have been totally defeated. You will surely be rewarded! 
+[Submission3.Failed]
+Your troops have been eliminated! You have failed in your orders!
+[StringTable.Reserv]
+Reinforcements have arrived to support you.

@@ -1,0 +1,32 @@
+﻿[StringTable.Reserv]
+Otrzymałeś uzupełnienia.
+[Mission1.Objectives]
+Utrzymaj pozycje obronne we wskazanym rejonie.
+[Mission1.Description]
+Niemiecka 3. Armia pędzi przez wschodnią Polskę. Jej celem jest przedarcie się i oskrzydlenie naszych sił na północy. Polskie dowództwo naczelne zdecydowało się skoncentrować maksimum sił w południowo-wschodniej części kraju. Niemieckie wojska nie mogą się przebić przez nasze linie. 
+Twoje rozkazy:
+-	Utrzymaj pozycje we wskazanym rejonie.
+[Mission1.Success]
+Zadanie wykonane! Natarcie nieprzyjaciela zostało zatrzymane!
+[Mission1.Failed]
+Twoje wojska zostały pokonane! Wróg zniszczył naszą obronę i wznowił natarcie!
+[Submission1.Objectives]
+Zaatakować nowe siły nieprzyjaciela, nacierające z południa.
+[Submission1.Description]
+Zwiadowcy meldują o niewielkiej grupie wojsk niemieckich, która przesuwa się od południa w kierunku Sandomierza. Wróg spróbuje przełamać front w tym rejonie. Będzie chciał przeprawić się przez rzekę, by uderzyć na Sandomierz.
+Twoje rozkazy:
+-	Zaatakuj siły nieprzyjaciela, nacierające z południa.
+[Submission1.Success]
+Zadanie wykonane! Wojska nieprzyjaciela zostały zaatakowane i odparte!
+[Submission1.Failed]
+Nie wykonałeś rozkazów! Siły nieprzyjaciela zadały poważne straty naszym oddziałom.
+[Submission2.Objectives]
+Zaatakować siły nieprzyjaciela, nacierające z zachodu.
+[Submission2.Description]
+Wojska niemieckie gromadzą siły do uderzenia na tym odcinku frontu. Harcerze meldują, że duże zgrupowanie wojsk zbliża się od zachodu, kierując się na Sandomierz.
+Twoje rozkazy:
+-	Zaatakować siły nieprzyjaciela, nacierające z zachodu.
+[Submission2.Success]
+Zadanie wykonane! Niemiecki atak z zachodu został odparty.
+[Submission2.Failed]
+Zadanie niewykonane! Niemieckie wojska wykorzystały sytuację i zadały naszej armii poważne straty.

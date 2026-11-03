@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+방어를 지휘하라
+[Submission_1.Description]
+철도역과 거주지를 지키는 부대를 지원한 뒤 방어를 지휘하라.
+[Submission_01.Success]
+이제 모든 부대가 귀관의 지휘 아래 있다.
+[Submission_01.Failed]
+임무 실패.
+[Mission.Objectives]
+적을 저지하라
+[Mission.Description]
+거주지와 역을 계속 장악하라. 역이 점령되면 적에게 반격하여 되찾아라. 거주지를 잃는다는 것은 적이 돌파했으며 임무가 실패했다는 뜻이다.
+[NewSubmission.Success]
+역이 다시 아군 손에 들어왔다!
+[NewSubmission.Failed]
+임무 실패.
+[Mission.Success]
+임무 완수, 모든 공격을 격퇴했다.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Success]
+이제 모든 부대가 귀관의 지휘 아래 있다.
+[Submission_1.Failed]
+방어 지휘를 거부한 대가를 혹독하게 치르게 될 것이다!
+[Submission_2.Objectives]
+반격
+[Submission_2.Description]
+적이 역을 점령했다! 반격하여 되찾아라.
+[Submission_2.Success]
+임무 완수, 역이 다시 아군 손에 들어왔다.
+[Submission_2.Failed]
+임무 실패.

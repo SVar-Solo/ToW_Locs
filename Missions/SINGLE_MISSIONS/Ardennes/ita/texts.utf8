@@ -1,0 +1,21 @@
+﻿[StringTable.Subtitle_01]
+Ascoltate! Dovete scalare la collina 320 ed effettuare una ricognizione.
+[StringTable.Subtitle_02]
+Sì, signore.
+[StringTable.Subtitle_03]
+I sette Panzer avanzano lungo la strada.
+[StringTable.Subtitle_04]
+Posate subito mine anticarro sul margine meridionale del ponte! 
+[StringTable.Subtitle_05]
+Sì, signore.
+[Submission1.Objectives]
+Impedite ai carri nemici di spostarsi verso sud.
+[Submission1.Description]
+In movimento da poco dopo l'attacco tedesco alla linea del fronte statunitense, il vostro plotone ha ora raggiunto le pendici della collina 330, appena a sud di un torrente dalle sponde ripide che serpeggia nel fitto bosco. Durante il vostro viaggio frustrante e confuso siete stati rimbalzati tra quartieri generali e posti di comando: nessuno dei superiori sembrava sapere cosa stesse succedendo o cosa volesse da voi. Infine, circa due ore fa, il comandante della vostra compagnia vi ha affidato una missione chiara: impedire a qualsiasi carro armato tedesco di spostarsi verso sud attraverso il ponte che scavalca il torrente tra le colline 320 e 330.
+
+Ordine:
+- impedire ai carri nemici di spostarsi verso sud.
+[Submission1.Success]
+Missione compiuta. 
+[Submission1.Failed]
+Missione fallita.

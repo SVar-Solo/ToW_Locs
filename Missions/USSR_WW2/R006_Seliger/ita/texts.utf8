@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+Attacca la colonna corazzata nemica.
+[Submission1.Description]
+E' stata avvistata una colonna corazzata tedesca in movimento verso il villaggio in cui hai appena terminato di preparare le difese. Devi respingere questa minaccia!
+
+I tuoi ordini sono:
+- 	Prepara le difese e attacca la colonna nemica.
+[Submission1.Success]
+Gli ordini sono stati eseguiti!
+[Submission1.Failed]
+Missione fallita! La colonna tedesca non è stata distrutta.
+[Submission2.Objectives]
+Attacca i tedeschi che avanzano sui nostri fianchi.
+[Submission2.Description]
+Secondo le nostre ricognizione aeree, il nemico ha disposto le truppe non lontano dall'insediamento e adesso si muove nella tua direzione. I tedeschi si stanno preparando per un attacco e quindi dobbiamo fermare i loro piani.
+
+I tuoi ordini sono:
+- 	Attacca il nemico e impedisci che circondi le tue truppe.
+[Submission2.Success]
+Gli ordini sono stati eseguiti! I tedeschi non sono riusciti a circondare le tue truppe!
+[Submission2.Failed]
+Gli ordini non sono stati eseguiti! Le tue truppe sono state circondate.
+[Mission1.Objectives]
+Tieni le posizioni intorno all'insediamento.
+[Mission1.Description]
+Il Quartier Generale ha ricevuto dei rapporti che indicano chiaramente che il nemico sta organizzando un'avanzata nel nostro settore.
+
+I tuoi ordini sono:
+- 	Tieni le posizioni intorno all'insediamento.
+[Mission1.Success]
+Gli ordini sono stati eseguiti! Grazie alle tue azioni decisive, i tedeschi non sono riusciti a superare le nostre difese in questa parte della linea del fronte!
+[Mission1.Failed]
+La tua missione è fallita. I tedeschi sono riusciti a superare le nostre difese in questa parte del fronte!
+[Submission3.Objectives]
+Resisti all'attacco tedesco.
+[Submission3.Description]
+Dopo l'attacco alla loro colonna corazzata, i tedeschi hanno disposto delle truppe aggiuntive per prendere la città. Preparati per un altro attacco.
+
+I tuoi ordini sono:
+- 	Ferma l'assalto delle truppe fasciste.
+[Submission3.Success]
+Hai eseguito con onore gli ordini del comando e hai difeso l'insediamento!
+[Submission3.Failed]
+La tua missione è fallita: il nemico ha occupato l'insediamento.
+[Submission4.Objectives]
+Attacca le unità nemiche che sono alle nostre spalle.
+[Submission4.Description]
+Una colonna corazzata nemica è giunta alle nostre spalle; deve essere neutralizzata prima che circondi la nostra posizione.
+
+I tuoi ordini sono:
+- 	Attacca le unità nemiche che sono alle nostre spalle.
+[Submission4.Success]
+Gli ordini sono stati eseguiti e i tedeschi sono in rotta!
+[Submission4.Failed]
+Non hai eseguito gli ordini e i tedeschi hanno riportato un'altra vittoria.
+[StringTable.Reserv]
+Ti sono stati assegnati dei rinforzi.

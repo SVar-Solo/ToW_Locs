@@ -1,0 +1,198 @@
+﻿[PRK.FullName]
+猛虎一跃
+
+[PRK.Description]
+1950年6月，朝鲜人民军在炮兵支援下越过北纬38度线，入侵大韩民国。其军队包括13.5万名士兵、150辆T-34-85坦克和其他军事装备。韩国设法征召了15万名士兵，但缺乏装甲车辆和飞机。朝鲜的推进基本顺利。6月28日，他们占领了大韩民国首都首尔。但此后，从7月3日起，根据联合国安理会的决定，以美军为主的联合国军加入冲突，站在韩国一方。尽管如此，他们仍无法击退朝鲜的进攻，朝军于8月20日抵达该共和国最南端的省份釜山。
+
+[HAMGEN_PUKTO.FullName]
+咸镜北道
+
+[HAMGEN_PUKTO.Description]
+<Description> tag is missing
+
+[YANGANDO.FullName]
+两江道
+
+[YANGANDO.Description]
+<Description> tag is missing
+
+[HAMGEN_NAMDO.FullName]
+黄海南道
+
+[HAMGEN_NAMDO.Description]
+<Description> tag is missing
+
+[CHAGANDO.FullName]
+慈江道
+
+[CHAGANDO.Description]
+<Description> tag is missing
+
+[PHENAN_PUKTO.FullName]
+平安北道
+
+[PHENAN_PUKTO.Description]
+<Description> tag is missing
+
+[PHENAN_NAMDO.FullName]
+平安南道
+
+[PHENAN_NAMDO.Description]
+<Description> tag is missing
+
+[PHENYAN.FullName]
+平壤
+
+[PHENYAN.Description]
+<Description> tag is missing
+
+[KANWONDO_PUKTO.FullName]
+江原道（北）
+
+[KANWONDO_PUKTO.Description]
+朝鲜的江原道位于边境地区。该地大部分为高地，但沿海岸线的地形适合车辆通行。
+
+[HVANHE_PUKTO.FullName]
+黄海北道
+
+[HVANHE_PUKTO.Description]
+黄海北道的南部边界沿北纬38度线。敌军集中在南面。该道对于防御朝鲜首都平壤具有战略上的关键意义。
+
+[KANWONDO_NAMDO.FullName]
+江原道（南）
+
+[KANWONDO_NAMDO.Description]
+江原道（南）的北部边界沿北纬38度线，该线将朝鲜半岛分为朝鲜和韩国。该道多山，没有任何重型工事，山口地势险恶：即使是小股防御部队也能遏制优势的进攻部队。小村庄和寺院已被改造成极难攻克的防御堡垒。只有不适合车辆通行的岩石小径尚未被占据。
+
+[KENGIDO.FullName]
+京畿道
+
+[KENGIDO.Description]
+作为韩国首都首尔所在地，京畿道是战略上至关重要的省份。该道大部分为平原，但分布着众多居民点，其中许多已被加固。首尔本身自然由韩国最有经验的部队守卫，周围也有重型工事环绕。该道北部边界沿北纬38度线，该线将朝鲜分为北方和南方。
+
+[KENSAN_PUKTO.FullName]
+庆尚北道
+
+[KENSAN_PUKTO.Description]
+庆尚北道可通往朝鲜半岛东海岸。谁控制这个道，谁就能通过海路获得补给，这是一项重大的战略优势。庆尚北道有众多山谷，但越靠近东海岸，山势越低，山谷越宽阔平坦。这使得该地区非常便于进攻，却难以防守。
+
+[CHUNCHON_PUKTO.FullName]
+忠清北道
+
+[CHUNCHON_PUKTO.Description]
+忠清北道是通往韩国首都首尔的主要交通走廊。众多军事基地和工事集中在这个道。控制忠清北道将带来重大优势。
+
+[CHUNCHON_NAMDO.FullName]
+忠清南道
+
+[CHUNCHON_NAMDO.Description]
+忠清南道的大部分地区被几乎无法通行的山脉占据，但也有一些易受攻击的地区，当然这些地区防御和工事都十分严密。所有居民点都已被改造成据点，但一些岩石小径车辆无法通行。这使它们成为小股步兵分队的理想之地，他们可以隐蔽机动，出敌不意。
+
+[PUSAN.FullName]
+釜山
+
+[PUSAN.Description]
+釜山防御圈是韩军的最后阵地。这一最重要的战略区域是美军的登陆场，拥有众多防御坚固的据点。夺取釜山防御圈以及釜山、蔚山和浦项港口，将使联合国军司令部无法运入增援和补给。
+
+[KENSAN_NAMDO.FullName]
+庆尚南道
+
+[KENSAN_NAMDO.Description]
+庆尚南道与全罗北道和庆尚北道相邻。该道大部分为山地，拥有三座国家公园：伽倻山、德裕山和智异山。最高峰是德裕山（1614米）。与朝鲜半岛其他地区一样，该道属季风气候：夏季温暖潮湿，冬季相对寒冷干燥。年平均气温为10.6摄氏度，年降水量为1395.2毫米（1993年数据）。大部分降水（850毫米）出现在持续三个夏季月份的雨季。
+
+[CHOPLA_PUKTO.FullName]
+全罗北道
+
+[CHOPLA_PUKTO.Description]
+全罗北道位于西海岸。其港口对人员和物资的运输至关重要。然而，除沿海地区外，该道被险峻的山脉占据，因此没有重型工事。
+
+[CHOPLA_NAMDO.FullName]
+全罗南道
+
+[CHOPLA_NAMDO.Description]
+全罗南道是韩国最南端的省份。北部地区以山地为主。然而，向南部和沿海地区，山地逐渐变为宽阔的山谷。就战略意义而言，该道南部凭借众多大型港口，对海上补给运输十分重要。美军指挥部正利用这一点。夺取全罗南道将意味着切断敌人的补给线，并获得通往海上补给航线的通道。
+
+[Battle Group 6.Name]
+坦克第203团
+
+[Battle Group 13.Name]
+坦克第205团
+
+[Battle Group 4.Name]
+步兵第24师
+
+[Battle Group 3.Name]
+步兵第7师
+
+[Battle Group 2.Name]
+步兵第1师
+
+[Battle Group 14.Name]
+步兵第1师
+
+[Battle Group 8.Name]
+机械化第603团
+
+[Battle Group 12.Name]
+步兵第12师
+
+[Battle Group 9.Name]
+步兵第10师
+
+[PRK.Epilogue]
+在朝鲜战争的头82天里，朝鲜人民军越过北纬38度线向南进军，扫清了所有挡路的韩国军队。从9月初起，朝鲜人民军发动全面攻势，击败韩国军队和美军，控制了全国90%的土地和92%的人口。在战争的这第一阶段，美军指挥部调集了大量飞机和舰船、五个步兵师、数个独立步兵团、五个最高统帅部预备炮兵团和四个独立坦克营。此外，美军指挥部还采取了一系列紧急措施，以军事装备和人员加强韩国军队。尽管如此，他们仍无法抵挡朝鲜人民军的猛攻，美军被迫撤退。朝鲜人民军几乎就要夺取整个釜山地区，但他们缺乏空降部队和海军力量，并蒙受了重大伤亡，包括坦克和火炮的损失。
+
+[PRK.FailureEpilogue]
+朝鲜人民军在极其严峻的条件下苦苦支撑。双方力量悬殊，面对联合国军压倒性的力量，人民军在武器和人员上严重不足。朝鲜人民军部队遭受了来自空中和炮火攻击的重大损失，最终被迫撤退到半岛北部。
+
+[Battle Group 2.FullName]
+步兵第1师
+
+[Battle Group 3.FullName]
+步兵第7师
+
+[Battle Group 4.FullName]
+步兵第24师
+
+[Battle Group 6.FullName]
+坦克第2团
+
+[Battle Group 18.Name]
+骑兵第1师
+
+[Battle Group 18.FullName]
+骑兵第1师
+
+[Battle Group 8.FullName]
+机械化第603团
+
+[Battle Group 9.FullName]
+步兵第10师
+
+[Battle Group 12.FullName]
+步兵第12师
+
+[Battle Group 13.FullName]
+坦克第205团
+
+[Battle Group 14.FullName]
+步兵第1师
+
+[Reinforcement.PRK_artillery]
+最高统帅部预备炮兵
+
+[Reinforcement.prk_infantry]
+预备步兵
+
+[Reinforcement.PRK_Tank]
+预备坦克
+
+[Reinforcement.Usa_artillery]
+预备炮兵
+
+[Reinforcement.USA_infantry]
+预备步兵
+
+[Reinforcement.usa_tank]
+预备坦克
+

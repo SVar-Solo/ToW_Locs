@@ -1,0 +1,28 @@
+﻿[Mission.Objectives]
+Prevent the enemy from breaking through to our rear areas.
+[Mission.Description]
+You have been reinforced with tanks from the Army Headquarters reserve. At the front sector near the village of Yadromino, one Rifle Division Company is engaged in defensive actions. This lone company does have has some antitank assets and you will also have at least one 45mm AT gun at your disposal
+
+Your order is to:
+- Prevent the enemy from breaking through into the rear areas.
+[Mission.Success]
+Your order has been fulfilled!
+[Mission.Failed]
+You failed to fulfill your order!
+[Submission_1.Objectives]
+Stop any enemy tanks.
+[Submission_1.Description]
+Position your assets to quickly counter and exploit and enemy weaknesses. Remember to assist any infantry assault with suitable support fire.
+
+Your order is to:
+- Destroy the advancing enemy tanks.
+[Submission_1.Success]
+The High Command’s order has been fulfilled! The enemy tanks were destroyed.
+[Submission_1.Failed]
+You have failed to fulfill the orders of the High Command! Your troops were defeated.
+[StringTable.Change_Infantry]
+The rifle company commander was killed. Take charge of his company. 
+[StringTable.Change_Artillery]
+The artillery battery commander has been mortally wounded. These assets are now under your direct command.
+[StringTable.Change_ALL]
+The current situation calls for much better and direct coordination. To aid in this task, you have been appointed the commander for the entire formation. You now have a full Rifle Company and Artillery Battery under your control.

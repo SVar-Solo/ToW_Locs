@@ -1,0 +1,107 @@
+﻿[StringTable.Strongpoint1lost]
+Punkt oporu 1 stracony!
+[StringTable.Strongpoint2lost]
+Punkt oporu 2 stracony!
+[StringTable.Strongpoint3lost]
+Punkt oporu 3 stracony!
+[StringTable.Strongpoint4lost]
+Punkt oporu 4 stracony!
+[StringTable.Strongpoint5lost]
+Punkt oporu 5 stracony!
+[StringTable.Strongpoint6lost]
+Punkt oporu 6 stracony!
+[StringTable.StrongpointsLost]
+Pięć punktów oporu straconych!
+[StringTable.StuartTankLost]
+Stuart Alana Mitchella jest uszkodzony i nie odeprze ataków wroga!
+[StringTable.StuartCrewLost]
+Załoga Stuarta nie żyje, punkty oporu nie utrzymają się bez jej wsparcia!
+[StringTable.IntroSubtitle1]
+Kapitan Whistler: Dobra, wszystkie wioski zajęte, teraz czekamy na Szkopów.
+[StringTable.IntroSubtitle2]
+Porucznik Parker: Sir, a co, jeśli dorwą nas po jednym?
+[StringTable.IntroSubtitle3]
+Whistler: Bzdura, Parker. Do tego potrzebują czołgów, a mają ich tylko kilka i ...
+[StringTable.IntroSubtitle4]
+te nie są tutaj. Co to? Słyszę szczęk gąsienic! Cholera!
+[StringTable.IntroSubtitle4a]
+Granaty w ruch! Pokażemy im!
+[StringTable.IntroSubtitle5]
+Parker: Nie widzę przez ten kurz! To Stuart! A jeśli Niemcy nas oszukują?
+[StringTable.IntroSubtitle6]
+Whistler: Parker, tchórzu! Zwróć uwagę załogi tego czołgu!
+[StringTable.IntroSubtitle6a]
+Parker (do siebie): Sir, Bóg z pewnością obdarzył pana odwagą...
+[StringTable.IntroSubtitle6b]
+w takiej samej mierze, w jakiej pozbawił pana podstawowego pojęcia o rzemiośle wojennym!
+[StringTable.IntroSubtitle7]
+Whistler: Widzisz, Parker, to nie Niemcy. Chłopaki, z waszym czołgiem...
+[StringTable.IntroSubtitle8]
+możemy skopać tyłki Szkopom. Sami...
+[StringTable.IntroSubtitle9]
+i tak nie dojdziecie do naszych wojsk. Na stanowiska!
+[StringTable.IntroSubtitle10]
+Parker, Mitchell i żołnierze: Tak jest, sir!
+[StringTable.WinSubtitle1]
+Porucznik Parker: Dzięki, kolego!
+[StringTable.WinSubtitle2]
+Wpadnijmy po wojnie do „Latającej Butelki” we Frisco, co?
+[StringTable.WinSubtitle3]
+Alan Mitchell: Jesteś z Kalifornii? To dość daleko od mojego domu, ale na pewno wpadniemy...
+[StringTable.WinSubtitle4]
+Alan Mitchell: Gdzie Whistler?
+[StringTable.WinSubtitle5]
+Parker: Zginął, wypadł na podwórze, kiedy Niemcy obeszli budynek...
+[StringTable.WinSubtitle6]
+i dostał serię z bliska. Był bardzo odważny, ale...
+[StringTable.WinSubtitle7]
+prędzej czy później tak musiał skończyć.
+[StringTable.WinSubtitle8]
+Głos radiooperatora z czołgu: Nasze wojska są w drodze!
+[StringTable.FailSubtitle1]
+Starszy porucznik Daniel Nowitzki: No proszę, bohaterowie!...
+[StringTable.FailSubtitle2]
+Szczerze mówiąc, gdybym był na waszym miejscu, wybrałbym walkę...
+[StringTable.FailSubtitle3]
+ale trzeba mieć jakieś szczególne umiejętności...
+[StringTable.FailSubtitle4]
+żeby zorganizować wszystko w tak głupi sposób. Kiedy znajdziemy waszego dowódcę,.. [StringTable.FailSubtitle5]
+postawię mu wódkę, jeśli żyje, albo położę kwiaty na jego grobie,
+[StringTable.FailSubtitle6]
+jeśli nie żyje. Wszystko z dedykacją na wstędze:
+[StringTable.FailSubtitle7]
+"Za niezrównaną odwagę i głupotę!"
+[MainTask.Objectives]
+Utrzymaj co najmniej dwa punkty umocnione
+[MainTask.Success]
+Radiogram od podpułkownika Watersa: Dzięki waszej umiejętnej organizacji obrony i związaniu rezerw wroga zdołaliśmy rozbić jego siły czołowe i przysłać wam posiłki. Dobra robota, chłopcy!
+[MainTask.Failed]
+Z raportu podpułkownika Watersa dla dowództwa: wróg zdobył punkty umocnione, a jego rezerwy wzmocniły siły czołowe. Powierzone zadanie nie zostało wykonane...
+[MainTask.Description]
+Radiogram od podpułkownika Watersa: Wykorzystajcie sieć punktów umocnionych i lekki czołg Stuart, aby związać walką i zniszczyć nadciągające rezerwy wroga. Utrzymajcie co najmniej dowolne dwa z punktów umocnionych. Pamiętajcie, że wasz czołg przyciągnie znacznie liczniejsze siły wroga, niż spodziewa się kapitan Whistler. Jeśli czołg zostanie uszkodzony, Niemcy na pewno rozbiją nasze odizolowane grupy.
+[StringTable.EnemyIsDefeated]
+Sir, Szkopy się wycofują! Wygląda na to, że jesteśmy dla nich za twardzi!
+[StringTable.SecondWaveDefeated]
+Sir! Druga fala ataków Szkopów została odparta!
+[StringTable.FirstWaveDefeated]
+Och, skurwysyny, nie spodziewali się naszego czołgu, co? Zwiewają, sir!
+[StringTable.SecondWaveIncoming]
+Sir! Znów nacierają! Tym razem atakują nas z dwóch kierunków!
+[StringTable.SecondWave1Defeated]
+Sir! Atak z południowego zachodu odparty! Gdy stracili czołgi, a ich piechota zobaczyła nadjeżdżający nasz Stuart, uciekli!
+[StringTable.SecondWave2Defeated]
+Sir! Wróg na kierunku południowo-wschodnim wycofuje się po kilku seriach z naszego czołgu!
+[StringTable.ThirdWave1Defeated]
+Sir! Po zniszczeniu czołgu wroga oddział piechoty uciekł!
+[StringTable.ThirdWave2Defeated]
+Sir! Straciwszy czołg, oddział piechoty wroga wycofał się na widok naszego Stuarta!
+[StringTable.ThirdWave3Defeated]
+Sir! Grupa wrogich transporterów opancerzonych i piechoty przerwała atak!
+[StringTable.ThirdWaveIncoming]
+Sir! Wróg rzucił do walki znacznie cięższe siły, atakują nas z trzech kierunków!
+[StringTable.FirstStrongpointLost]
+Radiogram od podpułkownika Watersa: Nie jesteśmy teraz w stanie odbić punktu umocnionego, który straciliśmy, ale wasz Stuart może wyprzeć wrogą piechotę, która go zajmuje! Działajcie stosownie do sytuacji i wypierajcie wroga ze zdobytych punktów umocnionych!
+[StringTable.MitchellIsKilled]
+Alan Mitchell zginął!
+[StringTable.ReturnInTank]
+Odeślij czołgistów, którzy opuścili wóz, z powrotem do czołgu, aby ukończyć misję.

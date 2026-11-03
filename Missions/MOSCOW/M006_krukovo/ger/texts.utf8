@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Zerstören Sie die feindlichen Verteidigungslinien.
+[Mission1.Description]
+Der Feind hat eine Verteidigungslinie um das Dorf Kryukovo aufgestellt. Es ist für uns sehr wichtig, die Kontrolle über dieses Dorf wieder zu übernehmen. Vernichten Sie alle Feindeinheiten in der Näge und erobern Sie die Stadt zurück!
+
+Ihre Befehle lauten:
+- Zerstören Sie die feindlichen Verteidigungslinien.
+[Mission1.Success]
+Die feindlichen Verteidigungslinien wurden vernichtet. Sie haben Ihre Mission erfüllt!
+[Mission1.Failed]
+Ihre Truppen wurden geschlagen! Sie haben Ihre Aufgabe nicht erfüllt!
+[Mission2.Objectives]
+Schlagen Sie den feindlichen Gegenangriff zurück.
+[Mission2.Description]
+Die Deutschen haben einen Gegenangriff gestartet. Sie müssen die soeben eroberten Positionen halten.
+
+Ihre Befehle lauten:
+- Schlagen Sie den feindlichen Gegenangriff zurück.
+- Halten Sie die soeben eroberten Stellungen.
+
+[Mission2.Success]
+Die Befehle des Oberkommandos wurden erfüllt! Der feindliche Gegenangriff wurde abgewehrt.
+[Mission2.Failed]
+Ihre Truppen wurden geschlagen. Sie sind gescheitert!

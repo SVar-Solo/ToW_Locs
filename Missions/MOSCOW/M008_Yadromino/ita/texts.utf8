@@ -1,0 +1,22 @@
+﻿[Submission_1.Objectives]
+Distruggi le difese del nemico.
+[Submission_1.Description]
+Durante la loro ritirata, le truppe tedesche hanno formato una nuova linea difensiva nell’area di Yadromino. Devi distruggere queste difese nemiche in modo da proseguire la tua avanzata verso Volokolamsk.
+
+I tuoi ordini sono:
+- Distruggi le difese del nemico.
+[Submission_1.Success]
+Gli ordini sono stati eseguiti! Hai distrutto le difese del nemico.
+[Submission_1.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Le tue truppe sono state sconfitte.
+[Submission_2.Objectives]
+Respingi l’attacco nemico.
+[Submission_2.Description]
+Le truppe tedesche hanno lanciato un contrattacco per distruggere le nostre truppe nell’area. E’ necessario che tu non ceda terreno al nemico.
+
+I tuoi ordini sono:
+- Respingi l’attacco nemico.
+[Submission_2.Success]
+Missione compiuta! Hai respinto l’attacco nemico.
+[Submission_2.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Le tue truppe sono state sconfitte.

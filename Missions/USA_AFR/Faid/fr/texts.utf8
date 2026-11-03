@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Empêchez les troupes allemandes de percer
+[Mission.Description]
+Lieutenant-colonel Waters ! Les troupes allemandes ne doivent pas percer vers l’ouest.
+[Mission.Success]
+L’offensive allemande a été stoppée.
+[Mission.Failed]
+Nous avons échoué !
+[Submission1.Objectives]
+Tenez la ligne
+[Submission1.Description]
+Tenez la ligne à Sidi Bou Zid.
+[Submission1.Success]
+L’ennemi a été vaincu et se replie !
+[Submission1.Failed]
+L’ennemi a écrasé les défenses ! Repli !
+[Submission2.Objectives]
+Tenez bon
+[Submission2.Description]
+Tenez jusqu’à l’arrivée des renforts.
+[Submission2.Success]
+Les renforts sont arrivés !
+[Submission2.Failed]
+[Submission3.Objectives]
+Envoyez immédiatement des chars sur le flanc gauche pour colmater la brèche !
+[Submission3.Description]
+[Submission3.Success]
+La brèche ennemie a été colmatée !
+[Submission3.Failed]
+[StringTable.Army3]
+L’ennemi perce sur le flanc gauche ! Envoyez immédiatement des chars pour colmater la brèche !
+[StringTable.Enemy]
+Les Allemands ! Passez à l’action !
+[StringTable.Avia]
+Alerte aérienne !
+[StringTable.Obhod]
+L’ennemi nous prend de flanc par le nord !
+[Submission4.Objectives]
+Attaquez les troupes ennemies
+[Submission4.Description]
+Attaquez les troupes ennemies qui nous prennent de flanc.
+[Submission4.Success]
+L’ennemi se replie !
+[Submission4.Failed]
+[StringTable.tank]
+Chars
+[StringTable.human]
+Infanterie

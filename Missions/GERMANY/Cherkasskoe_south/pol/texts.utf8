@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Grupa bojowa zajmie południowe obrzeża Czerkaskoje i przegrupuje się w miejscu docelowym.
+[Mission.Description]
+Zwiad rozpozna wrogą pozycję, możliwości bojowe i miejsca, w których da się przebyć rów przeciwczołgowy. Przekrocz rów przeciwczołgowy tak szybko, jak to możliwe i zniszcz pierwszą linię obrony. Oflankuj i zneutralizuj sowiecką obronę i przegrupuj się na terenie zabudowanym.
+[Mission.Success]
+Południowa część Czerkaskoje została zajęta. Siły wroga wycofały się na północ.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazu. Nieprzyjaciel jest zbyt silny!
+[Submission_1.Objectives]
+Dotrzyj do pierwszej linii okopów wroga i zajmij pozycje piechotą.
+[Submission_1.Success]
+Udało nam się przebyć pas przeszkód. Atakujemy pierwszy okop.
+[Submission_1.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie!
+[Submission_2.Objectives]
+Zaatakuj wroga na południowych obrzeżach Czerkaskoje. Zajmij i utrzymaj wioskę.
+[Submission_2.Success]
+Południowa część Czerkaskoje została zajęta.
+[Submission_2.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie!
+[Submission_3.Objectives]
+Odeprzyj kontratak wrogich czołgów. Nie pozwól nieprzyjacielowi przejąć terenu zabudowanego.
+[Submission_3.Success]
+Udało się skutecznie udaremnić wrogi kontratak.
+[Submission_3.Failed]
+Nasze wojska wycofują się pod naporem sił wroga.
+[StringTable.Ifantry_support]
+Dostałeś do dyspozycji jednostkę piechoty.
+[StringTable.Inf_1]
+Piechota
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

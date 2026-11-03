@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Break out of encirclement.
+[Mission.Description]
+By the middle of July, most of France has been occupied by German troops. German armored divisions broke through French defense lines and reached the coast line with a swift thrust. Paris fell on June 14 and the French government escaped to Bordeaux.
+
+Objective:
+-	break out of encirclement.
+[Mission.Success]
+Mission accomplished!
+[Mission.Failed]
+Mission failed! Your troops died!
+[Submission1.Objectives]
+Save the French soldiers.
+[Submission1.Description]
+A small French infantry detachment is surrounded and is hiding in an isolated farmstead. German infantry is approaching.
+
+Objective:
+- 	save the French soldiers from death.
+[Submission1.Success]
+Mission accomplished!
+[Submission1.Failed]
+Mission failed!
+[Submission2.Objectives]
+Carry out terrain reconnaissance.
+[Submission2.Description]
+Have a sniper carry out terrain reconnaissance.
+
+Order received:
+- 	carry out terrain reconnaissance.
+[Submission2.Success]
+Command order fulfilled!
+[Submission2.Failed]
+Command order not fulfilled

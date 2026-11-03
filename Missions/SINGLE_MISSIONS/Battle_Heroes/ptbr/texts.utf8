@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+Repila todos os ataques alemães e depois lance um contra-ataque.
+[Mission.Description]
+Unidades alemãs estão à vista do Kremlin. Moscou não deve cair diante dos fascistas!
+
+Suas ordens:
+	- Amortecer o ataque inimigo e deter seu avanço sobre Moscou
+	- Lançar um contra-ataque
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Você fracassou em suas ordens.
+[Submission_1.Objectives]
+Amorteça o ataque inimigo
+[Submission_1.Description]
+Detenha o ataque inimigo
+[Submission_1.Success]
+Missão cumprida. 
+[Submission_2.Failed]
+Missão fracassada.
+[Submission_2.Success]
+Missão cumprida.
+[Submission_2.Description]
+Você resistiu. O inimigo está em fuga. Em vista da situação atual, tanques da reserva serão alocados para auxiliá-lo. Você deve continuar a perseguir o inimigo!
+
+Suas ordens:
+	- Contra-atacar as tropas inimigas
+[Submission_2.Objectives]
+Contra-ataque o inimigo
+[StringTable.Reserv_inf]
+A infantaria da reserva foi transferida para o seu controle
+[StringTable.Reserv_Tanks]
+Os tanques da reserva foram transferidos para o seu controle.
+[Submission_1.Failed]
+Missão fracassada.

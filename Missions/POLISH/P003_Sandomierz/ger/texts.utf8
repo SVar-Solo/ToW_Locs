@@ -1,0 +1,35 @@
+﻿[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.
+[Mission1.Objectives]
+Halten Sie Ihre Verteidigungspositionen in dem markierten Bereich.
+[Mission1.Description]
+Die deutsche 3. Armee macht einen schnellen Durchmarsch durch Ostpolen. Das Ziel ist es unsere Streitkräfte im Norden zu umgehen und aus der Flanke anzugreifen. Das polnische Oberkommande hat entschieden so viele Truppen wie möglich im Südosten des Landes zu konzentrieren. Die deutschen Streitkräfte müssen an dem Durchbruch durch unsere Frontlinien gehindert werden. 
+
+Ihre Befehle lauten wie folgt:
+-	 Halten und verteidigen Sie die markierten Bereiche.
+[Mission1.Success]
+Befehl ausgeführt! Der feindliche Angriff wurde gestoppt!
+[Mission1.Failed]
+Ihre Truppen wurden geschlagen! Der Feind hat unsere Verteidigungslinien zerschmettert und setzt seinen Vormarsch fort!
+[Submission1.Objectives]
+Greifen Sie die neuen Feindeinheiten an, die aus dem Süden vorrücken.
+[Submission1.Description]
+Späher berichten, dass eine kleine Gruppe deutscher Einheiten sich aus dem Süden in der Richtung von Sandomierz bewegt.  Der Feind wird wahrscheinlich einen Druchbruch in diesem Sektor zu erreichen versuchen, um dann über den Fluss zu setzen und nach Sandomierz zu marschieren.
+
+Ihre Befehle:
+-	 Greifen Sie die Feindeinheiten an, die aus dem Süden vorrücken.
+[Submission1.Success]
+Befehl ausgeführt! Die feindlichen Truppen wurden angegriffen und zurückgeschlagen!
+[Submission1.Failed]
+Sie sind gescheitert! Die feindlichen Einheiten haben unseren Truppen ernste Verluste zugefügt.
+[Submission2.Objectives]
+Greifen Sie die Feindeinheiten an, die jetzt aus dem Westen vorrücken.
+[Submission2.Description]
+Die Deutschen sammeln Truppen für einen Angriff in diesem Abschnitt. Späher berichten, dass eine grosse Feindeinheit aus dem Westen heranrückt, mit dem Ziel Sandomierz.
+
+Ihre Befehle lauten:
+- 	Greifen Sie die Feindeinheiten an, die jetzt aus dem Westen vorrücken.
+[Submission2.Success]
+Befehl ausgeführt! Der deutsche Angriff aus dem Westen wurden zurückgeschlagen
+[Submission2.Failed]
+Sie sind gescheitert! Die feindlichen Truppen haben die Situation ausgenützt und haben unserer Armee ernste Verluste zugefügt.

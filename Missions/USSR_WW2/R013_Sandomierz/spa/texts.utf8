@@ -1,0 +1,57 @@
+﻿[Mission1.Objectives]
+Destruya las unidades de tanques del enemigo.
+[Mission1.Description]
+Nuestros exploradores han localizado una columna de tanques Königstiger alemanes. Es prioritario destruir esos tanques pesados antes de que lleguen a su destino.
+
+Sus órdenes:
+- 	Lleve a sus fuerzas a la región especificada y destruya una columna de tanques Königstiger.
+[Mission1.Success]
+Las tropas acorazadas alemanas han sucumbido ante nuestra superioridad armamentística y táctica.
+[Mission1.Failed]
+Pese a los refuerzos de que disponía y de la potencia desplegada, no ha podido detener la columna de tanques del enemigo.
+[Mission2.Objectives]
+Destruya a las tropas enemigas que están en los alrededores del pueblo.
+[Mission2.Description]
+Tras cruzar el Vístula, las unidades soviéticas se han encontrado con que los alemanes habían organizado unas sólidas defensas en la orilla oeste. Los agresores fascistas ocupan el pueblo que tiene delante. Los informes de reconocimiento dicen que la infantería y las unidades blindadas defienden la ciudad intensamente.
+
+Sus órdenes:
+- 	Destruya a las tropas enemigas que están en los alrededores del pueblo.
+[Mission2.Success]
+¡El enemigo ha sido destruido; y el pueblo, liberado! Ahora sus unidades pueden consolidar sus fuerzas para reforzar la cabeza de puente de Sandomierz.
+[Mission2.Failed]
+Han destruido sus tropas. El enemigo se ha envalentonado con su victoria y ahora amenaza con hacer retroceder a nuestras tropas hacia el Vístula.
+[Submission1.Objectives]
+Capture los tanques Königstiger.
+[Submission1.Description]
+Se ha avistado un par de Königstiger alemanes en el pueblo, y sus dotaciones no aparecen por ninguna parte. Esos tanques serían grandes trofeos de guerra y de un gran valor para que nuestros ingenieros los estudiaran.
+
+Sus órdenes:
+-	 Capture los tanques Königstiger.
+[Submission1.Success]
+¡Los tanques han sido capturados! ¡Buen trabajo!
+[Submission1.Failed]
+Pese a sus esfuerzos, no ha conseguido capturar los tanques.
+[Mission3.Objectives]
+Resista el ataque alemán.
+[Mission3.Description]
+Los alemanes están lanzando un gran contraataque para volver a ocupar Sandomierz y destruir nuestra cabeza de puente.
+
+Sus órdenes:
+-	 Contenga el ataque enemigo a toda costa.
+[Mission3.Success]
+El ataque enemigo ha sido rechazado; y la cabeza de puente, asegurada.
+[Mission3.Failed]
+Pese a los heroicos esfuerzos de sus soldados, el enemigo ha ganado esta batalla.
+[Submission2_1.Objectives]
+Destruya las tropas enemigas.
+[Submission2_1.Description]
+Las tropas alemanas han ocupado este pueblo, que está situado en su zona del frente. Los informes de reconocimiento dicen que hay muchas unidades de tanques y de infantería, incluyendo más tanques Königstiger, que se están atrincherando en la ciudad y sus alrededores.
+
+Sus órdenes:
+- 	Destruya las tropas enemigas que hay en el pueblo.
+[Submission2_1.Success]
+¡Las tropas enemigas han sido completamente destruidas!
+[Submission2_1.Failed]
+¡Sus tropas han sido destruidas y el enemigo se ha quedado en el pueblo!
+[StringTable.Reserv]
+Se le han asignado refuerzos.

@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+Commandant, emparez-vous du village sur l’île et détruisez ses défenses. Vu leur solidité, procédez par étapes, sans révéler la direction de l’effort principal.
+[Mission.Description]
+Commandant, votre objectif principal est de s’emparer d’un village situé sur l’île et de détruire les défenses ennemies qui y ont été érigées. Compte tenu de leur solidité, nous comptons procéder par étapes, sans engager toutes les forces disponibles, faute de quoi l’ennemi devinerait à coup sûr la direction de l’effort principal.
+[Mission.Success]
+Félicitations, Commandant ! L’objectif est atteint !
+[Mission.Failed]
+Commandant, repliez dès maintenant vos troupes survivantes, nous ne parviendrons pas à percer les défenses ennemies ! Et trouvez une excuse valable pour cet échec, car il vous faudra la présenter à Sir Winston et à Sa Majesté !
+[Submission_1.Objectives]
+Commandant, nettoyez la localité nord, qui couvre l’accès au village. Vous n’avez que l’escadron d’automitrailleuses ; les Valentine sont en route. Infanterie, canons de campagne et antichars sont rattachés.
+[Submission_1.Description]
+Commandant, votre premier objectif est de nettoyer la localité nord, qui couvre l’accès au village de l’île. Malheureusement, les lents Valentine sont toujours en route et l’escadron d’automitrailleuses est tout ce dont vous disposez. Selon les renseignements, cela devrait toutefois suffire. Une escouade d’infanterie est rattachée à votre force, ainsi que des canons de campagne et antichars, en cas d’urgence.
+[Submission_1.Success]
+La première phase est achevée ! Les Valentine retardataires, avec leur appui d’infanterie, rejoignent vos forces.
+[Submission_1.Failed]
+La mission a échoué !
+[Submission_2.Objectives]
+Commandant, neutralisez les batteries de campagne et antiaériennes au sud-est (point 3) pour libérer nos mortiers et notre aviation. Des renforts suivront.
+[Submission_2.Description]
+Commandant, les pilotes signalent des batteries de campagne et antiaériennes ennemies. Les batteries de campagne se trouvent dans la partie sud-est du champ de bataille (point 3) et empêchent nos mortiers d’ouvrir le feu. Nos avions ne peuvent pas attaquer à cause des canons antiaériens. Neutralisez-les et vous recevrez des renforts.
+[Submission_2.Success]
+La batterie ennemie a été neutralisée. Nos mortiers peuvent maintenant ouvrir le feu !
+[Submission_2.Failed]
+La mission a échoué !
+[Submission_3.Objectives]
+Commandant, prenez la localité sud. Les défenses y sont plus solides, mais les Valentine qui arrivent aideront ; un écran de fumée sur le gué peut être utile, à votre discrétion.
+[Submission_3.Description]
+Notre prochain plan est de s’emparer de la localité sud. Les défenses y sont bien plus solides qu’au nord, mais avec l’aide des Valentine qui arrivent, vous devriez pouvoir la prendre. Commandant, les gués risquent d’être exposés au feu ennemi ; un écran de fumée sur le gué pourrait donc s’avérer utile. Mais c’est à vous d’en décider.
+[Submission_3.Success]
+La localité sud est prise ! Tous les passages de l’ouest sont à nous et vous disposez de quelques renforts.
+[Submission_3.Failed]
+La mission a échoué !
+[Submission_4.Objectives]
+Commandant, percez rapidement jusqu’aux arrières ennemis (point 5) avec au moins trois fantassins : encerclez ou trompez l’ennemi et fournissez les coordonnées de la frappe aérienne. Le temps joue contre nous !
+[Submission_4.Description]
+Commandant, il faut maintenant faire vite ! En perçant rapidement jusqu’aux arrières ennemis (point 5), nous atteindrons deux buts à la fois : encercler l’ennemi, ou du moins lui faire croire qu’il l’est, et fournir les coordonnées d’une frappe aérienne sur les renforts ennemis en marche. Il faut au moins trois de nos fantassins dans cette zone pour y parvenir. Le temps joue contre nous !
+[Submission_4.Success]
+Commandant, notre aviation a utilisé les coordonnées que vous avez transmises et a bombardé avec succès le convoi ennemi venu renforcer la garnison. L’ennemi adopte une défense circulaire, se croyant encerclé ; il ne nous reste qu’à le détruire !
+[Submission_4.Failed]
+Le convoi ennemi a réussi à atteindre la garnison. Commandant, regroupez vos forces, repoussez la contre-attaque et détruisez complètement la garnison !
+[StringTable.LateValentine]
+Un Valentine isolé, égaré en chemin, se précipite à la rescousse : il a entendu parler de notre situation difficile à la radio !
+[StringTable.FlakCrippled]
+La défense antiaérienne ennemie est hors de combat, notre aviation peut maintenant entrer en jeu !
+[StringTable.NorthernVillageCleared]
+Commandant, mes félicitations ! La localité nord est débarrassée de l’ennemi. Poursuivez votre effort !
+[StringTable.SouthernVillageCleared]
+Commandant, vous progressez régulièrement. Les Fridolins ont été chassés de la localité sud. Repoussez-les plus loin !
+[StringTable.LastReserve]
+Commandant, nos forces blindées ont subi de lourdes pertes, j’envoie notre dernière réserve opérationnelle. Ne prenez pas de décisions aventureuses !
+[StringTable.SubtitleIntro1]
+La voix du Premier ministre Winston Spencer Churchill sort de la radio d’une jeep :
+[StringTable.SubtitleIntro2]
+... Sa Majesté et tout le Royaume-Uni attendent de nos...
+[StringTable.SubtitleIntro3]
+soldats en Tunisie qu’ils fassent leur devoir !
+[StringTable.SubtitleIntro4]
+Officier (à voix basse) : Tous ensemble, de l’alpha à l’oméga...
+[StringTable.SubtitleIntro5]
+Officier (à voix haute, à ses subordonnés) : Les gars, tout ce que je peux ajouter, c’est que
+[StringTable.SubtitleIntro6]
+vu l’importance de l’objectif, Montgomery en personne prendra le commandement !
+[StringTable.SubtitleIntro7]
+Et maintenant, à vos postes de combat !
+[StringTable.SubtitleIntro8]
+Soldats : À vos ordres, monsieur !
+[StringTable.SubtitleWin1]
+Soldats entre eux : ...bon, toi, moi, Jenkins et Parker
+[StringTable.SubtitleWin2]
+on est vivants, Knightly est blessé, c’est tout ce qui reste de notre section,...
+[StringTable.SubtitleWin3]
+les seuls survivants. Ouais, et Freeman avec son Valentine de la deuxième. Quel veinard...
+[StringTable.SubtitleWin4]
+Le tankiste Freeman : Les gars, Johny... (un soldat) Mort !
+[StringTable.SubtitleWin5]
+Oh, sa pauvre Maude ! Il lui écrivait des lettres chaque fois qu’il en avait l’occasion...
+[StringTable.SubtitleWin6]
+Alors, Freeman, c’est toi qui vas lui écrire pour quoi il est mort !
+[StringTable.SubtitleWin7]
+Freeman : Pour que leurs petits Harry et Ann ne voient jamais...
+[StringTable.SubtitleWin8]
+tous ces horribles cauchemars !
+[StringTable.SubtitleFail1]
+Soldats allemands : Du kennst als Fachmann mit Routine ...
+[StringTable.SubtitleFail2]
+Matilda noch und Valentine. Comment j’ai fait pour toucher le dernier à la tête, hein ?
+[StringTable.SubtitleFail3]
+Guter Kerl ! Les Tommies sont des gogos, la prochaine fois on va les repousser...
+[StringTable.SubtitleFail4]
+la queue entre les jambes jusqu’en Algérie !

@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+Han llegado refuerzos.
+[Submission1.Objectives]
+Capture el pueblo y destruya las fuerzas enemigas.
+[Submission1.Description]
+Las fuerzas alemanas han ocupado el pueblo cercano y parece que están esperando refuerzos. Tendrá que lanzar un ataque contra este enclave antes de que lleguen más unidades enemigas.
+
+Sus órdenes son:
+-	Tome el enclave.
+-	Derrote a todas las tropas enemigas.
+[Submission1.Success]
+Ha logrado cumplir la tarea. Las fuerzas enemigas han sido expulsadas del pueblo.
+[Submission1.Failed]
+Tarea fallida.
+[Mission1.Objectives]
+Derrote a todas las fuerzas enemigas.
+[Mission1.Description]
+Las fuerzas alemanas han empezado a avanzar hacia Mortain. El enemigo ha capturado varios pequeños enclaves en esta zona. Según los datos de inteligencia que tenemos, el enemigo se dispone a llevar a cabo una ofensiva en esta dirección. ¡Tiene que detenerles!
+
+Sus órdenes son:
+	Saque al enemigo de los enclaves ocupados.
+[Mission1.Success]
+Ha logrado cumplir la tarea.
+[Mission1.Failed]
+Tarea fallida.
+[Submission2.Objectives]
+Derrote a las fuerzas enemigas y tome el pueblo.
+[Submission2.Description]
+Un destacamento de soldados enemigos ha tomado una posición en el pequeño enclave. Se están preparando para lanzar una contraofensiva hacia Mortain.
+
+Sus órdenes son:
+	Saque al enemigo lejos de sus posiciones y hágase con el enclave.
+[Submission2.Success]
+Ha logrado cumplir la tarea. Ahora controlamos los enclaves.
+[Submission2.Failed]
+Tarea fallida. Sus fuerzas han sufrido graves pérdidas.
+[Submission3.Objectives]
+Derrote a la agrupación blindada enemiga.
+[Submission3.Description]
+El enemigo ha recibido un pequeño destacamento blindado como refuerzo.
+
+Sus órdenes son:
+-	Atacar y destruir todas las unidades blindadas.
+[Submission3.Success]
+Ha logrado cumplir la tarea.
+[Submission3.Failed]
+Tarea fallida. Sus fuerzas han recibido graves pérdidas.

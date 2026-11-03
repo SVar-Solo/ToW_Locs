@@ -1,0 +1,88 @@
+﻿[MainTask.Objectives]
+Zdobądź wieś
+[MainTask.Success]
+Ocalali żołnierze wroga się poddają, wieś jest nasza. Tak trzymać, chłopcy!
+[MainTask.Failed]
+Wróg okazał się zbyt silny dla twojej jednostki czołgów. Operacja odwołana!
+[MainTask.Description]
+Naszym ostatecznym celem w tym rejonie jest zdobycie wsi trzymanej przez wroga, jednak z powodu silnej obrony nie możemy rzucić do walki naraz piechoty, artylerii i lotnictwa. Dlatego twoja grupa lekkich czołgów musi najpierw przeprowadzić natarcie rozpoznawcze, zniszczyć wszelkie siły wroga utrudniające nasze działania poza wsią, a następnie wesprzeć atak naszej piechoty.
+[FlakSuppress.Objectives]
+Zneutralizuj działa przeciwlotnicze
+[FlakSuppress.Success]
+Wrogie samobieżne działa przeciwlotnicze zneutralizowane, a nasza służba obserwacyjna pomyślnie zarejestrowała współrzędne wsi. Nasi oficerowie łącznikowi już przekazali je pilotom i baterii artylerii, więc trzymaj się z dala od wsi! Za kilka minut będzie tam gorąco!
+[FlakSuppress.Description]
+Według danych wywiadu wieś jest dobrze chroniona przed atakami z powietrza przez wrogie samobieżne działa przeciwlotnicze. Naszym pierwszym celem jest więc ich odnalezienie i zneutralizowanie. Pozwoli to naszemu lotnictwu pojawić się na polu walki. To właśnie te samobieżne działa przeciwlotnicze uniemożliwiły nam zdobycie szczegółowych zdjęć lotniczych terenu i wygląda na to, że posiadane przez nas mapy są niedokładne. Najbliższe lotnisko mamy w zasięgu naszych bombowców, więc ustalenie współrzędnych wsi na podstawie namiaru sygnału radiowego z twojego czołgu przyda się nie tylko naszym pilotom, ale i baterii artylerii.
+[DealWithReinforcement.Objectives]
+Rozbij posiłki
+[DealWithReinforcement.Success]
+Nadciągające posiłki wroga zostały rozbite!
+[DealWithReinforcement.Description]
+Rezerwy wroga, choć nieliczne, nadal trzeba brać pod uwagę. Zniszcz posiłki wroga zbliżające się do wsi.
+[StringTable.SupportsAreIncoming]
+Przygotowania do uderzenia artylerii zakończone, dokładne współrzędne przekazano pilotom, a ich samoloty są w drodze. Natychmiast opuść strefę uderzenia!
+[StringTable.InfantryInAction]
+Nasza piechota zaatakuje zaraz po uderzeniach artylerii i lotnictwa! Zapewnij jej wsparcie, którego potrzebuje!
+[StringTable.IntroSubtitle1]
+Kapitan Jackson: No, nowicjusze?! Na pierwszą bitwę...
+[StringTable.IntroSubtitle2]
+... nie powinniście chodzić z taką kwaśną miną!
+[StringTable.IntroSubtitle3]
+- Hej, Mitchell, zetrzyj ten uśmieszek z twarzy!
+[StringTable.IntroSubtitle4]
+- Pokażę ci, co to dyscyplina i subordynacja, po bitwie!
+[StringTable.IntroSubtitle5]
+Dowódca czołgu Alan Mitchell do swojej załogi: 
+[StringTable.IntroSubtitle6]
+- Chłopaki, jeśli my jesteśmy nowicjuszami, to Jackson jest zielony jak szczypiorek!
+[StringTable.IntroSubtitle7]
+- Kiedy my harowaliśmy do upadłego w Camp Beauregard...
+[StringTable.IntroSubtitle8]
+...on był krupierem w kasynie, więc o wojnie wie jeszcze mniej od nas!
+[StringTable.IntroSubtitle9]
+(po chwili śmiechu) Skąd to wiesz, Alan?
+[StringTable.IntroSubtitle10]
+- Mój przyszły teść wie to i owo, co się przydaje!
+[StringTable.StuartTankLost]
+Czołg Alana Mitchella został rozbity w walce!
+[StringTable.StuartCrewLost]
+Załoga czołgu Alana Mitchella poniosła straty!
+[StringTable.WinSubtitle1]
+Alan Mitchell: No, chłopaki, było ciężko!
+[StringTable.WinSubtitle2]
+Kierowca czołgu: Zaparkuję tuż przy tej ciężarówce.
+[StringTable.WinSubtitle3]
+Alan Mitchell: Dobra, a w sprawie tego, że Jackson był krupierem...
+ [StringTable.WinSubtitle4]
+...lepiej trzymajmy języki za zębami. Jasne?!
+[StringTable.WinSubtitle5]
+Jackson do swojej świty: Teraz na pewno dostaniemy awans, ...
+[StringTable.WinSubtitle6]
+...i w stopniu, i na stanowisku, a Mitchell będzie sierżantem...
+[StringTable.WinSubtitle7]
+...na zawsze!
+[StringTable.WinSubtitle8]
+Alan Mitchell: Melduję, sir! (składa meldunek z przebiegu walki)
+[StringTable.FailSubtitle1]
+Porucznik Hans Neumann: Rudolf, sprawdź ten czołg!
+[StringTable.FailSubtitle2]
+Starszy strzelec Rudolf Hagen: Jawohl! ...
+[StringTable.FailSubtitle3]
+No, niezły widok... Ten trup tutaj trzyma mapnik.
+[StringTable.FailSubtitle4]
+Porucznik Neumann: Daj mi go! Zobaczmy...
+[StringTable.FailSubtitle5]
+No proszę, zdjęcie dziewczyny, parę listów, tomik Szekspira...
+[StringTable.FailSubtitle6]
+...ale żadnych map ani innych dokumentów! Zniszczył je, umierając!
+[StringTable.FailSubtitle7]
+Starszy strzelec Rudolf Hagen: Ta panna Nelly Smith to niezła laska...
+[StringTable.FailSubtitle8]
+...lepiej zapamiętam adres. Jak podbijemy Amerykę, będę miał z kim się zabawić!
+[StringTable.FailSubtitle9]
+Porucznik, zwijając list: Hagen, zamknij się! Nigdy nie będziesz umiał kochać i umierać...
+[StringTable.FailSubtitle10]
+...tak jak ten Mitchell!
+[StringTable.MitchellIsKilled]
+Alan Mitchell zginął!
+[StringTable.ReturnInTank]
+Odeślij czołgistów, którzy opuścili wóz, z powrotem do czołgu, aby ukończyć misję.

@@ -1,0 +1,35 @@
+﻿[Submission_1.Objectives]
+Uniemożliwić Rosjanom przeprawienie się przez kanał. 
+[Submission_1.Description]
+Niemcy Wschodnie. Rosjanie przebijają się w kierunku Berlina. Ostatnią szansą na zatrzymanie wroga są wzgórza Seelow. Teren jest pokryty niskimi pagórkami i dolinami oraz poprzecinany kanałami. Twoim zadaniem jest zatrzymanie awangardy wroga do przybycia posiłków. Dobre pozycje obronne znajdują się po obu stronach kanału. Aby zyskać czas na przybycie i rozlokowanie posiłków, musisz uniemożliwić Rosjanom przedostanie się na drugą stronę strumienia. 
+Twoje rozkazy: 
+-	Utrzymać się do przybycia posiłków. 
+-	Uniemożliwić Rosjanom dostanie się na drugą stronę kanału.
+[Submission_1.Success]
+Świetnie! Twoi żołnierze wykazali się niesamowitym bohaterstwem!
+[Submission_1.Failed]
+Przegrałeś. Niemcy są zgubione. 
+[Submission_2.Objectives]
+Przygotować obronę na wzgórzach. Odeprzeć rosyjskie ataki. 
+[Submission_2.Description]
+Dowództwo przydzieliło ci jednostki z rezerwy dywizji. Przygotuj pozycje obronne na wzgórzach i odeprzyj rosyjski atak. 
+Twoje rozkazy:
+-	Walczyć do samego końca!
+[Submission_2.Success]
+Zwyciężyłeś. Być może przegramy wojnę, lecz udało nam się utrzymać jeszcze jeden dzień.
+[Submission_2.Failed]
+Przegrałeś. Nasz los spoczywa w rękach wroga.
+[Mission.Objectives]
+Utrzymać wzgórza Seelow.
+[Mission.Description]
+Siły Armii Czerwonej przedzierają się w kierunku Berlina. Mają przewagę w ludziach i sprzęcie. Większość terytorium Niemiec jest okupowana przez wroga. W tej krytycznej sytuacji musimy się utrzymać, zatrzymać natarcie i odbijając się od murów Berlina, zadać nieprzyjacielowi miażdżący cios. Naród niemiecki patrzy na swych żołnierzy z nadzieją! Wróg, dowodzony przez marszałka Żukowa, za bardzo się spieszy i popełnia błędy. Wykorzystaj je. 
+Twoje rozkazy:
+-	Po okopaniu się na wzgórzach Seelow nie pozwól Rosjanom przełamać twojej obrony. 
+[Mission.Success]
+Utrzymałeś się! Niemcy przetrwały jeszcze jeden dzień w obliczu wroga.
+[Mission.Failed]
+Poniosłeś porażkę! Przegraliśmy wojnę!
+[StringTable.reserv]
+Przybyły posiłki.
+[StringTable.Last_reserv]
+Przysłano ci jednostki z rezerw sztabu armii. Za wszelką cenę utrzymaj wzgórza!

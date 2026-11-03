@@ -1,0 +1,34 @@
+﻿ai_messages.Command_Incomplete	Command cannot be executed
+ai_messages.Soldier_Death	Killed in action
+ai_messages.Soldier_Under_Attack	Soldier is under attack
+ai_messages.Soldier_No_Ammo	Soldier is out of ammo
+ai_messages.Soldier_No_Weapon	No weapon
+ai_messages.Soldier_No_Point_In_LOF	No line of fire
+ai_messages.Soldier_In_Panic	Panicked
+ai_messages.Vehicle_Death	Vehicle destroyed
+ai_messages.Vehicle_No_Crew	Vehicle empty
+ai_messages.Artillery_Death	Gun destroyed
+ai_messages.Artillery_No_Ammo	Gun is out of ammo
+ai_messages.Artillery_No_Weapon	Gun destroyed
+ai_messages.Artillery_No_Point_In_LOF	No line of fire
+ai_messages.Tankman_Under_Attack	Vehicle is under attack
+ai_messages.Tankman_No_Ammo	Vehicle is out of ammo
+ai_messages.Tankman_No_Weapon	Vehicle weapon destroyed
+ai_messages.Tankman_Damage_Engine	Vehicle immobilized
+ai_messages.Tankman_Blocked	Vehicle path is blocked
+ai_messages.Tankman_In_Panic	In panic
+ai_messages.Tankman_No_Point_In_LOF	No line of fire
+ai_messages.Driver_Damage_Engine	Vehicle immobilized
+ai_messages.Driver_Blocked	Vehicle path is blocked
+ai_messages.Shooter_Not_Skilled	Unskilled Gunner
+ai_messages.Driver_Not_Skilled	Unskilled Driver
+ai_messages.Tankman_Stucked	Vehicle bogged down
+ai_messages.Artillery_Stucked	Bogged down
+ai_messages.Mine_Defuse	Mine disarmed
+ai_messages.Mine_Place	Mine placed
+ai_messages.Mine_Detected	Mine detected
+ai_messages.Repair_Started	Repair started
+ai_messages.Repair_Finished	Repair is finished
+ai_messages.Hold_Captive	Was captured
+ai_messages.Free_Captive	Released from captivity
+ai_messages.Panic_Message	In panic

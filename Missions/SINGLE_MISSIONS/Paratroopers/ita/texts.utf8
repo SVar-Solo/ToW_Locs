@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+Attacca, prendi e tieni il ponte
+[Submission_1.Description]
+Ogni minuto è importante, comandante. Devi attaccare, prendere e tenere i ponti. I tedeschi, però, non permetteranno che questi importanti punti strategici cadano senza combattere strenuamente.
+
+I tuoi ordini sono:
+- Attacca e prendi i ponti segnati sulla mappa
+- Difenditi dal contrattacco tedesco che mira a riprendere i ponti.
+[Submission_1.Failed]
+Missione fallita. Non sei stato capace di prendere il ponte.
+[Submission_1.Success]
+Hai catturato il ponte indicato!
+[Mission.Objectives]
+Mantieni il tuo controllo sui ponti e inizia a espandere la tua influenza sulla zona abitata in modo da allontanare il nemico.
+[Mission.Description]
+Impossessarvi rapidamente dei ponti oltre le linee nemiche è un compito che ben si addice a truppe aviotrasportate che possono essere paracadutate quasi senza essere viste. Mantenere il possesso di quei ponti contro gli sforzi concentrati del nemico, soprattutto contro dei carri armati pesanti, è però qualcosa che anche delle unità di elite potrebbero avere difficoltà a realizzare, anche quando è necessario.
+[Mission.Success]
+Vittoria! Hai tenuto i ponti e li hai difesi contro il tentativo nemico di ricatturarli.
+[Mission.Failed]
+Sconfitta. Anche se i tuoi uomini sono morti valorosamente, non sei stato in grado di raggiungere gli obiettivi.
+[Submission_2.Objectives]
+Attacca la zona abitata a nord.
+[Submission_2.Description]
+I partigiani della zona ci hanno riferito che c'è una zona abitata, a nord dei ponti, dove si troverebbe il Comando tedesco con un certo numero di ufficiali. Non dobbiamo perdere questa possibilità di sconvolgere la catena di comando nemica.
+
+I tuoi ordini sono:
+- Attacca la zona abitata
+- Cattura o elimina gli ufficiali nemici
+[Submission_2.Success]
+La città è nostra. Ottimo lavoro.
+[Submission_2.Failed]
+Missione fallita. Non hai preso la città e il Comando nemico è fuggito.
+[StringTable.tank_reserv]
+Numerosi carri armati hanno attraversato la linea del fronte. Adesso sono sotto il tuo comando.
+[StringTable.inf_reserv]
+E’ arrivato un distaccamento di truppe aviotrasportate per assisterti.

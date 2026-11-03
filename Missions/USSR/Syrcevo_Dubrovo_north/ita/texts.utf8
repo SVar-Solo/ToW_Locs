@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Contrastare l'avanzata nemica in direzione di Dubrova-Syrcev.
+[Mission.Description]
+Insieme alla batteria di artiglieria anticarro e al plotone di fucili anticarro, tenere saldamente l'area difensiva. Priorità assoluta va data al mantenimento delle posizioni sul fianco destro e a Syrcev. 
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Il nemico ha spezzato la linea difensiva, le nostre truppe si ritirano.
+[Submission_1.Objectives]
+Impedire al nemico di distruggere la batteria contraerea schierata nel villaggio. 
+[Submission_1.Success]
+Il tentativo di penetrare sul fianco destro della difesa è stato represso.
+[Submission_1.Failed]
+La batteria contraerea è stata distrutta, il nemico avanza sul fianco destro.
+[Submission_2.Objectives]
+Tenere a ogni costo le posizioni nei pressi di Syrcev.
+[Submission_2.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Submission_2.Failed]
+Le nostre forze si ritirano sotto i colpi di un nemico superiore.
+[Submission_3.Objectives]
+Ritirare le truppe sulle posizioni a Syrcev. Impedire al nemico di catturare il villaggio.
+[Submission_3.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Submission_3.Failed]
+Syrcev è stata occupata dal nemico, le nostre truppe si ritirano.
+[StringTable.SPG_InCome]
+I cannoni d'assalto del 1440o Reggimento di artiglieria semovente sono ora ai vostri ordini.
+[StringTable.Infantry_InCome]
+Un'unità di fanteria del 272o Reggimento della Guardia è ora sotto il vostro controllo. 
+[StringTable.Tanks_InCome]
+Un gruppo carri della 1a Brigata meccanizzata è ora sotto il vostro controllo. 
+[StringTable.ChangeArmy]
+L'unità adiacente è stata posta ai vostri ordini.
+
+[StringTable.SPG]
+Cannoni d'assalto del 1440o Reggimento di artiglieria semovente
+[StringTable.TANKS]
+Carri armati della 1a Brigata meccanizzata
+[StringTable.INFANTRY]
+Fanteria del 272o Reggimento fanteria della Guardia
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Dämmen Sie alle deutschen Angriffe ein. Decken Sie die Evakuierung alliierter Truppen aus dem Hafen von Cherbourg.
+[Mission.Description]
+Juni1941. In den Aussenbezirken der Hafenstadt Cherbourg steht eines der letzten Battalione bewaffneter und organisierter französischer Soldaten. Die Deutschen haben Frankreich besetzt.  Die Propagandamaschine von Dr. Goebbles macht Überstunden um zu versuchen, den französischen Widerstand zu brechen. Die letzten Alliierten Einheiten benötigen mehr Zeit um die Transportschiffe zu besteigen und auf die britische Insel zu fliehen. Es ist Ihre Aufgabe ihnen diese Zeit zu verschaffen, mit Ihrem eigenen Blut wenn nötig.
+
+Ihre Befehle lauten:
+-	 Dämmen Sie alle deutschen Angriffe ein mit allen Ihnen zur Verfügung stehenden Mitteln. Sie müssen die Linie halten und verhindern, dass die Deutschen bis zum Evakuierungssektor durchbrechen können.
+[Mission.Success]
+Ihre Mission war ein voller Erfolg!
+[Mission.Failed]
+Sie haben Ihre Mission nicht erfüllt!
+[Submission_1.Objectives]
+Schlagen Sie die feindlichen Angriffe zurück.
+[Submission_1.Description]
+Ihre Verteidigungslinien befinden Sich auf einer wichtigen Anhöhe. Die Deutschen versuchen sich bis zum Hafen von Cherbourg entlang mehrerer Vorstossachsen durchzukämpfen. Der Schlüssel zum Erfolg heute wird eine wirkungsvolle Errichtung Ihrer Verteidigungsstellungen sein.
+
+Befehle: 
+-	 Schlagen Sie alle deutschen Angriffe zurück. 
+[Submission_1.Success]
+Sie haben die feindlichen Angriffe zurückgeschlagen!
+[Submission_1.Failed]
+Sie haben verloren!
+[Submission_2.Objectives]
+Greifen Sie die Siedlung westlich der Anhöhe an.
+[Submission_2.Description]
+Westlich von Ihrer Stellung befindet sich eine Siedlung, die von den Deutschen besetzt ist. Aufgrund der aktuellen Situation erwartet der Feind keinerlei aggressive Aktivität von Ihnen und reorganisiert in aller Ruhe seine Streitkräfte in Vorbereitung für den nächsten Schlag.  
+
+Befehle: 
+-	 Organisieren Sie einen Gegenangriff auf die Siedlung und neutralisieren Sie alle dortigen deutschen Einheiten. 
+
+[Submission_2.Success]
+Das Dorf ist in unserer Hand! Gute Arbeit!
+[Submission_2.Failed]
+Sie haben Ihre Mission nicht erfüllt!
+[Submission_3.Objectives]
+Schlagen Sie den feindlichen Gegenangriff zurück.
+[Submission_3.Description]
+Der Überraschungsangriff hat funktioniert! Der Feind hat schwere Verluste an Personal und Material erlitten. Zusätzlich dazu wurde ein gleichzeitiger Angriff auf Ihre Verteidigungsstellung aus zwei Richtungen ruiniert. Doch der Erfolg ist noch nicht komplett, denn der Feind bereitet gerade jetzt einen neuerlichen Gegenangriff vor.
+
+Befehle:
+-	 Schlagen Sie den deutschen Angriff zurück.
+[Submission_3.Success]
+Sie haben gewonnen! Der feindliche Gegenangriff wurde gestoppt!
+[Submission_3.Failed]
+Sie haben verloren! Sie konnten den feindlichen Gegenangriff nicht aufhalten.
+[StringTable.reserv]
+Verstärkungen sind eingetroffen

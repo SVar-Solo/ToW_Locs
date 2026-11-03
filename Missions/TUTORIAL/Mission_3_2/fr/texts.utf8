@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+Prendre d’assaut la localité
+
+[Mission.Description]
+Entrer dans la localité, engager l’infanterie ennemie, découvrir et capturer un char. Détruire le char ennemi. Se replier jusqu’au point indiqué.
+
+[Mission.Success]
+Vous avez accompli toutes les tâches avec succès !
+
+[Mission.Failed]
+Mission échouée.
+
+[Submission_1.Objectives]
+Prendre la localité et capturer le char
+
+[Submission_1.Description]
+Prenez la localité contrôlée par l’ennemi, découvrez le char et capturez-le.
+
+[Submission_1.Success]
+Char découvert et capturé
+
+[Submission_1.Failed]
+Mission échouée.
+
+[Submission_2.Objectives]
+Détruire l’artillerie ennemie
+
+[Submission_2.Description]
+Détruire l’artillerie ennemie. Pour accomplir la tâche plus efficacement, utilisez des obus fumigènes pour vous couvrir.
+
+[Submission_2.Success]
+Artillerie ennemie détruite
+
+[Submission_2.Failed]
+Mission échouée.
+
+[Submission_3.Objectives]
+Détruire le char ennemi
+
+[Submission_3.Description]
+Détruire le char ennemi qui arrive du sud-ouest. Vous pouvez utiliser un écran de fumée.
+
+[Submission_3.Success]
+Char ennemi détruit
+
+[Submission_3.Failed]
+Mission échouée.
+
+[Submission_4.Objectives]
+Évacuer
+
+[Submission_4.Description]
+Évacuer vos troupes jusqu’au point d’évacuation. Utiliser un écran de fumée pour couvrir le repli.
+
+[Submission_4.Success]
+Vos troupes ont été évacuées
+
+[Submission_4.Failed]
+Tâche échouée
+
+[StringTable.Storm]
+Pour un assaut plus efficace contre des bâtiments, déterminez d’abord où se trouve l’ennemi, afin de ne pas vous exposer à un tir croisé. Placez plusieurs soldats de façon qu’ils contrôlent de manière fiable la sortie à distance ; avec les autres soldats, approchez-vous discrètement du bâtiment jusqu’à la portée de lancer de grenade. Il vaut mieux lancer les grenades par l’embrasure de la porte avec la commande « Tir de zone » {hkey:groundattack}. Vous pouvez aussi utiliser des grenades antichars pour détruire le bâtiment.
+
+[StringTable.Ambush]
+Utilisez le mode de déplacement en rampant {hkey:setbodymodelay} pour que vos hommes soient moins visibles de l’ennemi. N’oubliez pas qu’en mode de déplacement libre, votre infanterie, à proximité d’un abri ou de bâtiments, essaiera de s’y cacher et pourra s’exposer au feu : interdisez-lui donc le déplacement libre {hkey:actionmode}.
+
+[StringTable.House]
+Utilisez les maisons comme abris : votre infanterie sera moins vulnérable.
+
+[StringTable.Variation]
+Dans la plupart des situations de combat, vous pouvez agir de plusieurs façons. Ici, les canons peuvent être détruits soit par l’infanterie, qui utilise des grenades fumigènes pour se couvrir, soit par un char.
+
+[StringTable.Smoke]
+Le char est équipé d’un lance-fumigènes conçu pour poser des écrans de fumée. S’il y a un chef de char et que le dispositif est chargé, vous pouvez utiliser la commande « Écran de fumée (tir instantané) » {hkey:smokecloudfast}. L’écran de fumée est alors posé immédiatement à côté du char, sans désigner de point de tir.
+
+[StringTable.Evac]
+Évacuer vos troupes jusqu’au point d’évacuation. Il est visible sur la minicarte, ou passez en mode carte tactique {hkey:cameratopdownview}. Utilisez un écran de fumée pour couvrir le repli. Déplacez le char en marche arrière {hkey:retreat} jusqu’à sortir de la ligne de tir ennemie.

@@ -1,0 +1,30 @@
+﻿[Mission.Objectives]
+Frene al enemigo
+[Mission.Description]
+¡Teniente coronel Waters! Debe frenar el ataque enemigo sobre Tebessa.
+[Mission.Success]
+¡La orden ha sido cumplida! El enemigo no ha logrado abrirse paso hasta Tebessa.
+[Mission.Failed]
+El enemigo ha roto nuestras defensas y avanza rápidamente hacia Tebessa.
+[StringTable.Reinf]
+¡Coronel Waters! Los refuerzos están en camino. ¡Aguante!
+[Submission1.Objectives]
+Mantenga la línea
+[Submission1.Description]
+¡Mantengan la línea! ¡El enemigo no debe atravesar el paso!
+[Submission1.Success]
+¡El enemigo ha sido derrotado y huye!
+[Submission1.Failed]
+¡El enemigo ha roto las defensas! Nuestras tropas se retiran hacia Tebessa.
+[StringTable.Woters]
+¡Soldados, a la acción! ¡No debemos ceder ante el enemigo!
+[StringTable.Woters1]
+Ahí vienen los alemanes.
+[StringTable.Woters2]
+Han llegado refuerzos.
+[StringTable.Woters3]
+¡Maldita sea! Los alemanes han neutralizado la artillería de la altura.
+[StringTable.tank_spg]
+Tanques y cañones autopropulsados
+[StringTable.human]
+Infantería.

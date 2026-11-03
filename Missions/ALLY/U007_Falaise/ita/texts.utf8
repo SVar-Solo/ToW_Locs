@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+Lancia un attacco esplorativo. Allontana il nemico dalla valle.
+ [Submission_1.Description]
+Le truppe tedesche si stanno ritirando. Siamo riusciti a contenerle in una sacca nell'area di Falaise, ma malgrado la loro situazione stanno resistendo. L'intenzione di Eisenhower di accerchiarli totalmente fino ad ora non si è realizzata. Ai piedi delle alture, il nemico ha stabilito delle postazioni difensive.
+
+I tuoi ordini sono:
+-	 Lancia un attacco esplorativo contro il villaggio vicino ed elimina i nemici che incontri
+[Submission_1.Success]
+Adesso controlliamo la valle!
+[Submission_1.Failed]
+Sei stato sconfitto.
+[Submission_2.Objectives]
+Attacca le colline e allontana il nemico dalla sue posizioni difensive.
+[Submission_2.Description]
+L'ultima linea difensiva tedesca si trova davanti a te. Hai un sufficiente appoggio aereo e il tuo compito è di distruggere le posizioni nemiche. Usa sia il vantaggio del supporto aereo sia la tua superiorità al suolo
+
+I tuoi ordini sono:
+-	Distruggi le difese del nemico, sfonda la linea delle alture e stabilisci lì una testa di ponte.
+[Submission_2.Success]
+Il nemico è stato sconfitto
+[Submission_2.Failed]
+Hai perso! Non sei riuscito a superare le difese nemiche.
+[Mission.Objectives]
+Elimina ogni resistenza e distruggi completamente le difese del nemico.
+[Mission.Description]
+Le truppe tedesche si stanno ritirando per la pressione dell'esercito alleato, ma il nemico si sta ancora difendendo ferocemente. Le particolarità del territorio della zona di Falaise offrono dei vantaggi ai tedeschi anche se le truppe alleate sono superiori di numero. Le sacche di resistenza ai piedi delle alture limitano i progressi delle nostre truppe e danno la possibilità al nemico di rinforzare le proprie difese.
+
+I tuoi ordini sono:
+-	Elimina tutte le sacche di resistenza dei tedeschi ai piedi delle alture.
+- 	Concentra tutte le forze per una azione decisiva, sfonda le linee difensive ed elimina le forze tedesche.
+[Mission.Success]
+Hai vinto! le sacche di resistenza nemiche sono state eliminate.
+[Mission.Failed]
+Hai perso! Le forze tedesche hanno resistito al tuo attacco.
+[StringTable.reserv]
+I rinforzi sono arrivati in tuo aiuto.
+[Submission_3.Objectives]
+Respingi il contrattacco nemico.
+[Submission_3.Description]
+Dopo aver perso le sue posizioni difensive, il nemico intende partire al contrattacco usando le sue riserve.
+
+I tuoi ordini sono:
+-	Respingi il contrattacco nemico.
+[Submission_3.Success]
+Il nemico è stato eliminato. Il suo contrattacco è fallito.
+[Submission_3.Failed]
+Sconfitta! Il contrattacco nemico ha avuto successo.

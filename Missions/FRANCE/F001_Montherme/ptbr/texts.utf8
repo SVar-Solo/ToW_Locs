@@ -1,0 +1,94 @@
+﻿[Mission.Objectives]
+Restabeleça a linha defensiva.
+[Mission.Description]
+Em 14 de maio, as tropas alemãs romperam perto de Sedan. As forças francesas não conseguiram resistir às ações combinadas de tanques e bombardeiros de mergulho nesta nova guerra-relâmpago. As tropas belgas recuam para Antuérpia e montam posições defensivas. O 1º e o 2º Corpos ingleses mantêm posições de Wavre a Lovaina, onde nossa 3ª Divisão, sob o comando do General Montgomery, trava uma luta dura. O 7º Exército francês, no flanco do litoral, cambaleia para trás. Em quase todos os confrontos armados, a força e a fúria da ofensiva alemã foram imparáveis. Na área de Montherme, os alemães, com duas divisões de tanques em avanço, atravessaram o Mosa e capturaram nossas posições defensivas fortificadas. É de importância vital restabelecer a linha defensiva nesta área. 
+   
+Suas ordens são:
+-	Elimine o inimigo nas proximidades e restabeleça nossa linha defensiva
+-	Defenda a ponte ferroviária
+[Mission.Success]
+Ordens cumpridas!
+
+O inimigo não conseguiu romper nossas defesas neste setor. Isso se deve em grande parte aos seus esforços, comandante. Bom trabalho! Contudo, as tropas alemãs, com uma grande quantidade de tanques pesados e leves, dispersaram e puseram em debandada completamente nossas tropas na linha de frente, e nada parece capaz de deter por muito tempo o assalto alemão! Ainda há muito trabalho pela frente para você.
+[Mission.Failed]
+Você fracassou em suas ordens!
+
+As forças alemãs, usando tanques pesados e leves, dispersaram ou puseram em debandada completamente nossas tropas na frente. Os alemães avançam com uma velocidade sem precedentes, jamais vista na história da guerra! Em quase todas as batalhas, foram imparáveis. 
+[SubMission_01_01.Objectives]
+Elimine as tropas de assalto inimigas perto da ponte.
+[SubMission_01_01.Description]
+Tropas de assalto alemãs chegaram à nossa área. Elas capturaram uma ponte ferroviária sobre o Mosa. É provável que o inimigo tente usar essa ponte para flanquear nossas tropas pela retaguarda. A ponte deve ser retomada!
+
+Suas ordens:
+-	Localize e destrua as tropas de assalto alemãs
+-	Restabeleça a posse da ponte
+[SubMission_01_01.Success]
+Ordens cumpridas com sucesso!
+[SubMission_01_01.Failed]
+Ordens fracassadas!
+[Submission_01_02.Objectives]
+Localize e destrua as tropas de assalto inimigas perto da ponte ferroviária.
+[Submission_01_02.Description]
+Tropas de assalto alemãs chegaram à nossa área. Elas capturaram uma ponte ferroviária sobre o Mosa. Segundo a inteligência de combate, outro pequeno grupo de forças inimigas avança em direção à ponte e precisa ser detido.
+
+Ordem:
+-	Destrua as tropas de assalto inimigas
+-	Restabeleça ou mantenha a defesa da ponte
+[Submission_01_02.Success]
+Ordens cumpridas com sucesso.
+[Submission_01_02.Failed]
+Você fracassou em suas ordens!
+[Submission_02_01.Objectives]
+Elimine o inimigo que avança
+[Submission_02_01.Description]
+Nossas tropas não conseguiram resistir às ações coordenadas de tanques e bombardeiros de mergulho alemães e sofreram pesadas baixas. Não só fracassamos em restabelecer nossas linhas defensivas, como o grupo de assalto alemão que chegou à área conseguiu capturar a ponte ferroviária essencial. Isso permitiu ao inimigo nos flanquear e expôs nossas áreas de retaguarda a novos ataques.
+ 
+Suas ordens são:
+-	Reforce nossas posições defensivas
+-	Encontre e destrua todas as unidades inimigas em sua área de operações
+[Submission_02_01.Success]
+Ordens cumpridas! Bom trabalho, comandante!
+[Submission_02_01.Failed]
+Ordens fracassadas!
+[Submission_02_02.Objectives]
+Encontre e destrua todas as unidades inimigas encontradas
+[Submission_02_02.Description]
+Nossas tropas conseguiram restabelecer uma linha defensiva e eliminaram o grupo de assalto alemão. Segundo nosso grupo de inteligência de combate, o inimigo agora tenta romper nossa linha de defesa por dois lados ao mesmo tempo. Espere ataques tanto de Montherme quanto de perto da ponte ferroviária sobre o Mosa.   
+
+Suas ordens são:
+-	Mantenha e defenda todas as posições defensivas
+-	Elimine todas as unidades atacantes inimigas
+[Submission_02_02.Success]
+Ordens cumpridas!
+[Submission_02_02.Failed]
+Você fracassou em suas ordens!
+[Submission_02_03.Objectives]
+Elimine o inimigo que avança
+[Submission_02_03.Description]
+Nossas tropas conseguiram restabelecer a linha de defesa, mas um grupo de assalto alemão desembarcou na área da ponte ferroviária e a tomou com sucesso. Isso permitiu ao inimigo nos flanquear pela retaguarda e colocou nossas tropas em posição extremamente perigosa. Segundo nossa inteligência de combate, o inimigo tenta romper nossa linha de defesa atacando de duas direções ao mesmo tempo. Esperam-se ataques das direções de Montherme e da ponte ferroviária sobre o rio Mosa. O inimigo usa ativamente ações coordenadas de tanques e bombardeiros de mergulho.      
+
+Suas ordens são:
+-	Estabeleça posições defensivas 
+-	Elimine o inimigo em todas as direções 
+[Submission_02_03.Success]
+Ordens cumpridas
+[Submission_02_03.Failed]
+Ordens não cumpridas
+[Submission_02_04.Objectives]
+Elimine o inimigo que avança.
+[Submission_02_04.Description]
+Nossas tropas não são capazes de resistir às ações coordenadas de tanques e bombardeiros de mergulho e sofreram perdas substanciais em todas as posições. Contudo, conseguimos eliminar o grupo de assalto alemão que havia desembarcado na área da ponte ferroviária. Segundo a inteligência de combate, o inimigo tenta romper nossa linha de defesa atacando de duas direções ao mesmo tempo. Esperam-se ataques das direções de Montherme e da ponte ferroviária sobre o Mosa. 
+
+Suas ordens:
+-	Estabeleça a defesa nas posições 
+-	Elimine as forças inimigas que atacam de várias direções 
+[Submission_02_04.Success]
+Ordens cumpridas.
+[Submission_02_04.Failed]
+Ordens não cumpridas.
+[StringTable.Fr_Support]
+Os reforços chegaram!
+[StringTable.Support]
+Os reforços chegaram!
+[StringTable.Subtitle_01]
+França. Maio de 1940

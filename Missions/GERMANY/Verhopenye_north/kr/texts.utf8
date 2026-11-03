@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+페나강 서안에 교두보를 구축하라.
+[Mission.Description]
+보병 지원이 빈약한 전차와 포병이 강 서안을 지키고 있다. 동안에는 개별 전초가 있다. 전투단은 동안의 적 병력을 소탕한 뒤 베르호페니예 서부를 공격하여 도하 지점을 점령한다.
+[Submission1.Objectives]
+페나강의 다리를 점령하고 서안으로 이동하여 도하 지점을 방어하라.
+[Submission1.Success]
+임무 완료. 
+[Submission1.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다. 
+[Submission2.Objectives]
+주력이 도착할 때까지 도하 지점을 사수하라.
+[Submission2.Success]
+임무 완료.
+[Submission2.Failed]
+아군이 우세한 적 병력에 밀려났다.
+[Mission.Success]
+임무 완료. 이제 사단 주력을 강 건너로 이동시킬 수 있다.
+[Mission.Failed]
+명령을 수행하지 못했다. 적이 너무 강하다!
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

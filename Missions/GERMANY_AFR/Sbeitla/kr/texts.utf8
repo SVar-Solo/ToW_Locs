@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+발판 구축
+[Mission.Description]
+게르하르트 소령, 이 지역의 적 방어 시설을 파괴하여 스베이틀라 공세의 발판을 구축하라. 아군 전차로 적을 분쇄하라.
+[Mission.Success]
+공세를 위한 발판을 마련했다. 적 방어 시설을 파괴했다.
+[Mission.Failed]
+후퇴하라. 이 지역에서 적의 저항을 꺾지 못했다.
+[SubMission_01.Objectives]
+적 정찰조 격멸
+[SubMission_01.Description]
+적 정찰조가 자기네 사령부에 아군의 전력과 배치를 보고하지 못하도록 최대한 신속히 격멸해야 한다.
+[SubMission_01.Success]
+정찰조를 격멸했다. 적 보병이 도주하고 있다.
+[SubMission_01.Failed]
+[SubMission_02.Objectives]
+적 측면 우회
+[SubMission_02.Description]
+아군 정보에 따르면 포병 포대가 도로를 방어하고 있다. 적의 주 방어선을 우회해야 한다. 하천 바닥을 이용하라. 적이 골짜기를 향해 사격할 것으로 추정한다. 가능한 한 빨리 부대를 안전한 곳으로 재배치해야 한다.
+[SubMission_02.Success]
+적 주력을 성공적으로 우회했다.
+[SubMission_02.Failed]
+[SubMission_03.Objectives]
+무선 통신 확립
+[SubMission_03.Description]
+아군 정찰대가 무선 교신이 가능한 장소를 찾았으나 적이 지키고 있다. 적을 제거하고 아군 전차나 장갑차 한 대를 그곳으로 이동시켜야 한다.
+[SubMission_03.Success]
+적을 격멸했고 고지를 확보했다.
+[SubMission_03.Failed]
+[SubMission_04.Objectives]
+포병 포대 제거
+[SubMission_04.Description]
+적이 섬에 포병 포대를 재배치했다. 이를 제거해야 한다. 
+[SubMission_04.Success]
+적 포병 포대를 제거했다.
+[SubMission_04.Failed]
+[SubMission_05.Objectives]
+안전한 통로 확보
+[SubMission_05.Description]
+최종 공세 전에 도하 지점의 지뢰 매설 여부를 확인해야 한다.
+[SubMission_05.Success]
+안전한 도하 지점을 찾았다.
+[SubMission_05.Failed]
+[StringTable.Rommel_01]
+나는 자네와 자네 부하들을 믿네, 소령. 병사들이 지쳤다는 걸 알지만 상황은 우리가 최선의 자질을 끌어낼 것을 요구하네. 이런 나날이 후세에 길이 기억될 영웅들을 낳는 법일세.
+[StringTable.Gerhard_01]
+장군님! 저와 제 부하들에게는 그런 말씀이 필요 없습니다. 우리는 독일 제국의 군인이며 늘 그것을 기억하고 있습니다! 다만 장군님께서 최전선에 계시는 것만으로도 저희는 피로를 잊고 용맹하게 싸울 수 있을 것입니다!
+[StringTable.Gerhard_02]
+예, 장군님! ...젠장! 사령부와 연락이 끊겼다. 산이 송신기를 가로막고 있는 모양이다. 가능한 한 빨리 연락을 복구해야 한다.
+[StringTable.Gerhard_03]
+무슨 일이지? 즉시 무선 연락을 복구하라!

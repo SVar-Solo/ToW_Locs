@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+오르데시, 소스노바야 나스파를 해방하고 적의 반격을 격퇴하라.
+[Mission.Description]
+오르데시, 소스노바야 나스파를 해방하라. 적의 공격에 대비해 사수하라. 확보한 구역, 도로, 인근에서 적 병력을 소탕하라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission1.Objectives]
+오르데시를 해방하라.
+[Submission1.Description]
+오르데시를 해방하라.
+[Submission1.Success]
+임무 완수.
+[Submission1.Failed]
+임무 실패.
+[Submission2.Objectives]
+소스노바야 나스파를 해방하라.
+[Submission2.Description]
+소스노바야 나스파를 해방하라.
+[Submission2.Success]
+임무 완수.
+[Submission2.Failed]
+임무 실패.
+[Submission3.Objectives]
+오르데시를 사수하라.
+[Submission3.Description]
+오르데시를 사수하라.
+[Submission3.Success]
+임무 완수.
+[Submission3.Failed]
+임무 실패.

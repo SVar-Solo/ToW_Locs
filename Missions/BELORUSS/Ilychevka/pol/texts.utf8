@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Wyzwól Iliczewkę, Gorowatkę, Szapieczyno. Wyeliminuj siły wroga w rejonie.
+[Mission.Description]
+Wyzwól Iliczewkę, Gorowatkę, Szapieczyno. Wyeliminuj siły wroga w rejonie.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana!
+[Submission1.Objectives]
+Wyzwól Iliczewkę.
+[Submission1.Description]
+Wyzwól Iliczewkę.
+[Submission1.Success]
+Zadanie wykonane.
+[Submission1.Failed]
+Zadanie nieudane.
+[Submission2.Objectives]
+Wyzwól Gorowatkę.
+[Submission2.Description]
+Wyzwól Gorowatkę. Wyeliminuj ruchomą grupę bojową idącą wrogowi z pomocą.
+[Submission2.Success]
+Zadanie wykonane.
+[Submission2.Failed]
+Zadanie nieudane.
+[Submission3.Objectives]
+Wyzwól Szapieczyno.
+[Submission3.Description]
+Wyzwól Szapieczyno.
+[Submission3.Success]
+Zadanie wykonane.
+[Submission3.Failed]
+Zadanie nieudane.

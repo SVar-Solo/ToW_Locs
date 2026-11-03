@@ -1,0 +1,22 @@
+﻿[Submission_1.Objectives]
+Destrua as defesas inimigas.
+[Submission_1.Description]
+Durante a retirada, as tropas alemãs se formaram ao longo de uma nova linha defensiva na área de Yadromino. Você precisa destruir essas defesas inimigas para continuar o avanço em direção a Volokolamsk.
+
+Suas ordens:
+- Destrua as defesas inimigas.
+[Submission_1.Success]
+A sua ordem foi cumprida! Você destruiu a defesa inimiga.
+[Submission_1.Failed]
+Você não cumpriu a sua tarefa! Suas tropas foram derrotadas.
+[Submission_2.Objectives]
+Repila o ataque inimigo.
+[Submission_2.Description]
+As tropas alemãs lançaram outra contraofensiva para destruir as nossas tropas nesta área. É imperativo que você não ceda terreno e resista a este último ataque.
+
+Suas ordens:
+-Repila o ataque inimigo.
+[Submission_2.Success]
+Tarefa concluída! Você repeliu o ataque inimigo.
+[Submission_2.Failed]
+Tarefa fracassada! Suas tropas foram derrotadas.

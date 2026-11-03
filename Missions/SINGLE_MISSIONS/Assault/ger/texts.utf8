@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Break through German defenses.
+[Mission.Description]
+The initial phases of Operation Overlord have been a success but now its time to strike deeper into enemy occupied Normandy. Progress inland is coming at a steep price though as the Germans are entrenching every village and strategic location that they can. Topography is also working against the allies as the unique terrain in this sector is limiting maneuverability.
+[Mission.Success]
+The enemy’s defense has been destroyed!
+[Mission.Failed]
+You have sustained serious losses and suffered a defeat.
+[Submission_1.Objectives]
+Destroy the enemy’s defense in this sector of the front.
+[Submission_1.Description]
+Using fire and maneuver try and flank around the enemy defensive positions and take them from the rear. We are trying to divert air assets for your use and you should have some artillery support on standby.
+[Submission_1.Success]
+Task complete.
+[Submission_1.Failed]
+You have lost!
+[StringTable.Tanks_reserv]
+Tanks from the reserve have arrived.
+[StringTable.reserv]
+Infantry reinforcements have arrived.

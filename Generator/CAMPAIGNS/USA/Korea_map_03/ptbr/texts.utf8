@@ -1,0 +1,201 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capture a localidade no vale montanhoso.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capture a localidade no vale montanhoso.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Seu grupo de combate deve infiltrar-se na passagem da montanha e capturar uma localidade no vale montanhoso que foi transformada pelo inimigo em um ponto forte.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Seu grupo de combate deve infiltrar-se na passagem da montanha e capturar a localidade. Ela fica em um vale montanhoso e foi transformada pelo inimigo em um ponto forte. Segundo o reconhecimento, o inimigo defenderá a posição ativamente e pode até lançar um contra-ataque.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Repila o ataque inimigo. Não permita que o inimigo capture a localidade.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missão cumprida. Hostis eliminados.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Uma pequena equipe de infantaria está defendendo uma localidade no vale montanhoso contra um possível ataque inimigo. O grosso das suas tropas deve repelir o ataque inimigo e impedir que os hostis capturem a posição.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repila todos os ataques inimigos e impeça que os hostis capturem a localidade.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repila todos os ataques inimigos e impeça que os hostis capturem a localidade.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+O inimigo capturou a localidade.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+O inimigo capturou a localidade.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+A localidade fica no principal corredor de transporte que liga as partes leste e oeste da província. O inimigo reuniu uma grande força para capturar a passagem. Seu grupo de combate deve manter a linha pelo tempo determinado.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+A localidade fica no principal corredor de transporte que liga as partes leste e oeste da província. O inimigo reuniu uma grande força para capturar a passagem. Seu grupo de combate deve conter o ataque inimigo a todo custo. Não permita que os hostis capturem a posição.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Artillery_inf_support]
+Artilharia da reserva disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+A equipe blindada está à sua disposição.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+A equipe blindada da reserva está sob o seu comando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Apoio de artilharia à sua disposição.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Apoio de artilharia à sua disposição.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+A equipe de infantaria da reserva está sob o seu comando.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+A equipe blindada da reserva está à sua disposição.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+A equipe blindada da reserva está à sua disposição.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Morteiros disponíveis.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Morteiros disponíveis.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capture a localidade.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Seu grupo de combate deve infiltrar-se na passagem da montanha e capturar uma localidade no vale que foi fortificada pelo inimigo.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture a localidade.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Seu destacamento avançado deve avançar em marcha forçada até a área assinalada no mapa e capturar a localidade antes que a vanguarda inimiga chegue. Elimine rapidamente quaisquer hostis e assegure o local. Em seguida, prepare-se rapidamente para repelir o ataque das forças principais do inimigo.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repila todos os ataques inimigos e impeça que os hostis capturem a localidade.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+A localidade fica no principal corredor de transporte que liga as partes leste e oeste da província. O inimigo reuniu uma grande força para capturar a passagem. Seu grupo de combate deve conter o ataque inimigo a todo custo. Não permita que os hostis capturem a posição.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repila todos os ataques inimigos e impeça que os hostis capturem a localidade.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+A localidade fica no principal corredor de transporte que liga as partes leste e oeste da província. O inimigo reuniu uma grande força para capturar a passagem. Seu grupo de combate deve conter o ataque inimigo a todo custo. Não permita que os hostis capturem a posição.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Mantenha a localidade pelo tempo determinado.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Um destacamento avançado inimigo planeja lançar um ataque direto, em marcha, contra uma localidade tática. Mantenha a localidade pelo tempo determinado, até a chegada de nossas forças principais.
+
+[Reinforcement.Group1[Reinforcement]]
+Veículos blindados e infantaria
+
+[Reinforcement.Group2[Reinforcement]]
+
+

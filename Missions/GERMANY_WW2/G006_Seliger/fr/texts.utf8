@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Eliminer les unités ennemies dans la zone indiquée.
+[Mission1.Description]
+Nos unités sont situées près du lac Seliger. Le QG nous ordonne de pénétrer en profondeur dans les lignes ennemies et de désorganiser l’offensive prévue. Le renseignement nous informe que les Russes utilisent à nouveau leur terrible char T-34.
+
+Vos ordres sont :
+- 	Lancer une offensive dans ce secteur du front.
+-	Eliminer les unités ennemies qui ont pris position défensive dans le village voisin.
+[Mission1.Success]
+Bravo commandant ! L’ennemi a été totalement défait. Maintenant nous pouvons déloger la 3e et 4e armée russe de ses positions défensives une bonne fois pour toutes !
+[Mission1.Failed]
+L’ennemi a repoussé toutes nos attaques. Quelle disgrâce pour un officier du Reich !
+[Submission1.Objectives]
+Bombarder les positions ennemies.
+[Submission1.Description]
+Avant de lancer une offensive générale, bombarder les positions défensives ennemies.
+
+Vos ordres :
+- 	Bombarder les positions ennemies.
+[Submission1.Success]
+Le bombardement est un succès. Les troupes russes ont été sensiblement affaiblies !
+[Submission1.Failed]
+Votre barrage d’artillerie a été inefficace.
+[Submission2.Objectives]
+Attaquer le bataillon de véhicules des neiges russe. 
+[Submission2.Description]
+Selon nos reconnaissances aériennes, des véhicules des neiges approchent nos unités par le flanc. Lancer une attaque immédiate contre ces unités mobiles sous peine d’être encerclé.
+
+Vos ordres : 
+-	Attaquer les unités ennemies avant que nos forces ne soient encerclées.
+[Submission2.Success]
+Les véhicules des neiges ont été éliminés !
+[Submission2.Failed]
+Vos troupes ont été totalement défaites. 
+[Submission3.Objectives]
+Attaquer les unités ennemies en approche.
+[Submission3.Description]
+Des unités russes ont lancé une offensive majeure, frappant à la jonction des groupes d’armée Nord et Centre.
+
+Vos ordres :
+-	Attaquer les forces russes en approche.
+[Submission3.Success]
+Les unités ennemies ont été totalement défaites. Vous allez certainement être récompensé ! 
+[Submission3.Failed]
+Vos troupes ont été éliminées ! Vous avez échoué !
+[StringTable.Reserv]
+Des renforts sont arrivés en appui !

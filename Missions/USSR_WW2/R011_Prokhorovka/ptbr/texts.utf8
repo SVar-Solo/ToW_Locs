@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Repila o ataque alemão à estação de Prokhorovka.
+[Mission1.Description]
+As tropas alemãs lançaram um ataque a esta parte da frente com o objetivo de romper a linha na estação de Prokhorovka. Depois que a estação cair, elas atacarão ao norte, em direção a Oboyan, para cercar as unidades da Frente de Voronezh.
+
+Suas ordens:
+- 	Detenha o assalto alemão em torno da estação de Prokhorovka.
+- 	Impeça os alemães de romper neste setor.
+[Mission1.Success]
+O ataque inimigo foi repelido!
+[Mission1.Failed]
+O inimigo conseguiu romper nossas defesas.
+[Mission2.Objectives]
+Use suas unidades blindadas para destruir os tanques inimigos que avançam.
+[Mission2.Description]
+O inimigo está esgotado e agora as probabilidades estão a nosso favor. No entanto, unidades blindadas inimigas se movem em direção a Prokhorovka. Elementos de nosso 5º Exército de Tanques da Guarda estão a caminho para ajudá-lo.
+
+Suas ordens:
+- 	Use todas as forças disponíveis para destruir as unidades inimigas que ameaçam a estação de Prokhorovka.
+[Mission2.Success]
+O inimigo foi posto em fuga. Excelente trabalho, comandante!
+[Mission2.Failed]
+Suas tropas foram destruídas e os fascistas podem avançar sem obstáculos.
+[Submission1.Objectives]
+Mantenha suas defesas em torno da estação de Prokhorovka.
+[Submission1.Description]
+Os tanques alemães chegaram a Prokhorovka e se preparam para desferir um golpe poderoso em nossas posições defensivas neste setor. Os relatórios de reconhecimento indicam que os fascistas concentraram grandes forças, por isso esperamos uma batalha difícil. Devemos vencer este dia e destruir os alemães.
+
+Suas ordens:
+ - 	Use todas as forças disponíveis para destruir as unidades inimigas que ameaçam a estação de Prokhorovka.
+[Submission1.Success]
+A batalha foi dura, mas você saiu vitorioso. Graças aos seus esforços, agora podemos lançar uma contraofensiva.
+[Submission1.Failed]
+As tropas alemãs romperam e estão cercando nossas forças! As batalhas em torno de Kursk provaram ser um desastre para o Exército Vermelho.
+[StringTable.Reserv]
+Reforços foram colocados sob o seu comando.

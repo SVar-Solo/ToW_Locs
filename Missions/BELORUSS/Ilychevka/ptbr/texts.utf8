@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Liberte Ilyichevka, Gorovatka e Shapechino. Elimine as forças inimigas na área.
+[Mission.Description]
+Liberte Ilyichevka, Gorovatka e Shapechino. Elimine as forças inimigas na área.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission1.Objectives]
+Liberte Ilyichevka.
+[Submission1.Description]
+Liberte Ilyichevka.
+[Submission1.Success]
+Tarefa cumprida.
+[Submission1.Failed]
+Tarefa fracassada.
+[Submission2.Objectives]
+Liberte Gorovatka.
+[Submission2.Description]
+Liberte Gorovatka. Elimine o grupo de combate móvel que vem em auxílio do inimigo.
+[Submission2.Success]
+Tarefa cumprida.
+[Submission2.Failed]
+Tarefa fracassada.
+[Submission3.Objectives]
+Liberte Shapechino.
+[Submission3.Description]
+Liberte Shapechino.
+[Submission3.Success]
+Tarefa cumprida.
+[Submission3.Failed]
+Tarefa fracassada.

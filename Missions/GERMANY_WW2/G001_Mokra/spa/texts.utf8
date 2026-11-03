@@ -1,0 +1,59 @@
+﻿[Mission.Objectives]
+Expulse a las tropas polacas de sus posiciones defensivas.
+[Mission.Description]
+Esperamos que nuestras fuerzas superiores tomen rápidamente el control de Polonia. Sin embargo, las tropas polacas están ofreciendo una resistencia obstinada y se libran encarnizados combates en el frente. Es necesario que los ejércitos de choque 3o. y 4o. de la Agrupación de Ejércitos Norte lancen un ataque aplastante inmediatamente contra las posiciones defensivas polacas que hay en la zona del río Mokra. Su misión consiste en acabar con los polacos que se encuentran en su zona lo antes posible. Hay un enclave en el flanco derecho de las tropas polacas. Tenga cuidado con su artillería porque puede estar situada allí. Dispone de infantería, tanques y todo lo que necesite, así que, ¡al ataque, por el Führer!
+
+Sus órdenes:
+- 	Expulse a las tropas polacas de sus posiciones defensivas.
+[Mission.Success]
+Las defensas polacas han sido aplastadas. ¡Pronto toda Polonia caerá a nuestros pies!
+[Mission.Failed]
+¡Asombrosamente, tus tropas han sido derrotadas! ¿Cómo han podido lograrlo esos polacos? ¡No mereces mandar tropas en combate!
+[ArtSupport.Objectives]
+Cañonee las posiciones enemigas.
+[ArtSupport.Description]
+Antes de iniciar un asalto terrestre, dispare una cortina de artillería contra las posiciones defensivas polacas. Esta barrera de fuego le ayudará a superar rápidamente la primera línea de la defensa enemiga.
+
+Sus órdenes:
+-	 Cañonee las posiciones enemigas.
+[ArtSupport.Success]
+¡Misión cumplida, posiciones enemigas barridas!
+[ArtSupport.Failed]
+Su barrera de artillería ha sido incapaz de infligirles un daño adecuado a las posiciones polacas.
+[StringTable.Subtitle_01]
+Polonia, septiembre de 1939
+[Submission1_1.Objectives]
+Ataque el flanco derecho de las defensas polacas.
+[Submission1_1.Description]
+Las tropas polacas han tomado posiciones favorables para la defensa y han rechazado los ataques del 3er. y 4o. ejército de la Agrupación de Ejércitos Norte.
+
+Sus órdenes:
+- 	Utilice las fuerzas disponibles para atacar el flanco derecho de la línea defensiva enemiga.
+[Submission1_1.Success]
+¡Misión cumplida! ¡Los polacos se han retirado!
+[Submission1_1.Failed]
+No solo ha incumplido la misión, sino que ha malgastado las tropas que tenía.
+[Submission2.Objectives]
+Ataque la agrupación de tanques del ejército polaco.
+[Submission2.Description]
+El enemigo intenta que se rindan el 3er. y 4o. ejército alemán usando efectivos blindados. Ha de atacar la agrupación de tanques polacos para evitar este envolvimiento.
+
+Sus órdenes:
+- 	Ataque las unidades blindadas polacas.
+[Submission2.Success]
+¡Ha logrado la misión y la agrupación de tanques polaca ha sido derrotada!
+[Submission2.Failed]
+Ha fracasado en el cumplimiento de las órdenes. Ahora el 3er. y 4o. ejército alemán corren el peligro de ser rodeados.
+[Submission1.Objectives]
+Ataque el flanco derecho de la línea defensiva secundaria polaca.
+[Submission1.Description]
+Hay unidades polacas que todavía resisten, y hay que acabar con sus posiciones defensivas. Ataque una vez más su flanco derecho.
+
+Sus órdenes:
+-	Eche mano de las reservas y ataque las líneas defensivas secundarias polacas que hay a lo largo del flanco derecho.
+[Submission1.Success]
+¡Misión cumplida! ¡Los polacos están huyendo!
+[Submission1.Failed]
+¡Ha fallado en el desempeño de la misión!
+[StringTable.reserv]
+Han llegado refuerzos para ayudarle.

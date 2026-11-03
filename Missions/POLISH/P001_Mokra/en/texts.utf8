@@ -1,0 +1,40 @@
+﻿[Mission1.Objectives]
+Hold and defend the area specified.
+[Mission1.Description]
+September 1, 1939. German troops are pressing their advance on three fronts. Army Group North is delivering a blow from the Northwestern regions of Germany and East Prussia. From the Southeast of Germany and Northern Slovakia the Army Group South is attacking supported by the Slovak 1st and 2nd Divisions.
+Following the orders from the Polish High Command, you need to build up the defenses around the Mokra River and repulse the German advance.
+
+Your orders are to:
+-	Hold and defend the area specified.
+-	Prevent the enemy troops from breaking through the defensive lines.
+[Mission1.Success]
+Well done commander! The Germans have failed to eliminate our defenses in this sector of the front!
+[Mission1.Failed]
+You have failed in your task! German troops have broken through the defenses and are advancing towards Warsaw. Poland is doomed!
+[Submission1.Objectives]
+Repulse this initial attack of German troops.
+[Submission1.Description]
+The enemy is trying to strike a powerful blow against our defenses near the Mokra River. They intend to completely destroy our defensive positions and advance further inland. 
+The Polish command is concerned about the situation on the front. It must be stabilized! 
+
+Your orders are to: 
+-	Repel the advance of the German troops.
+[Submission1.Success]
+Order fulfilled! The German attack in this sector has been repelled!
+[Submission1.Failed]
+Orders failed! German troops have smashed our defenses in this sector!
+[StringTable.Reserv]
+Reinforcements have arrived to help support you.
+[Submission2.Objectives]
+Counter attack the enemy forces.
+[Submission2.Description]
+The enemy is trying to strike against our flanks! You should immediately attack the enemy to prevent encirclement of our troops and before they can inflict serious damage on our forces.
+
+Your orders are to:
+-	Attack the enemy units advancing on your flank.
+[Submission2.Success]
+Order completed! The enemy tank group has failed to accomplish the mission.
+[Submission2.Failed]
+Orders failed! The enemy forces have broken through to our rear positions!
+[StringTable.Subtitle_01]
+Poland. September 1939

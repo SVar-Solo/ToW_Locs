@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+实施试探性行动。将敌人逐出山谷。 
+[Submission_1.Description]
+德军正在撤退！我们已设法将他们压缩在法莱斯附近的死胡同里，但尽管如此，他们仍在顽强抵抗。艾森豪威尔彻底合围德军的意图尚未实现。敌人在附近的丘陵地带设置了几处防御据点。 
+
+命令：
+- 	对附近的村庄实施试探性行动，摧毁遭遇的所有敌军单位。
+[Submission_1.Success]
+山谷现已在我们控制之下！
+[Submission_1.Failed]
+你被击败了。 
+[Submission_2.Objectives]
+进攻山丘，将敌人逐出所有防御阵地。
+[Submission_2.Description]
+德军最后一道防线就在前方。你已获得适当的近距空中支援，你的任务是摧毁敌军防御。充分利用我军的空中优势以及地面上的数量优势。
+
+命令：
+- 	摧毁敌军防御，突破至山上的桥头堡并在那里建立立足点。 
+[Submission_2.Success]
+敌人已被击败。 
+[Submission_2.Failed]
+失败！你未能突破敌军防御。
+[Mission.Objectives]
+粉碎敌军抵抗，彻底消灭其防御。
+[Mission.Description]
+德军在盟军的压力下正在撤退，但敌人仍在顽强抵抗。尽管盟军在数量上占有相当大的优势，法莱斯附近的地形特点仍使德军占了便宜。丘陵地带遗留的抵抗据点不断给我军造成代价高昂的阻碍。我们必须在德军有机会重整之前突破这些据点。
+
+命令： 
+- 	肃清丘陵地带德军所有抵抗据点。 
+- 	集中兵力，发动决定性一击，突破并随后摧毁德军主要防御力量。 
+[Mission.Success]
+你赢了。敌军的抵抗据点已被摧毁。
+[Mission.Failed]
+你输了。德军顶住了你把他们赶走的企图。
+[StringTable.reserv]
+增援已到达，将支援你作战。
+[Submission_3.Objectives]
+击退敌军反击。
+[Submission_3.Description]
+敌人丢失防御阵地后，企图投入预备队发起反击。
+
+命令：
+- 	击退敌军反击。
+[Submission_3.Success]
+敌人已被消灭。他的反击失败了。
+[Submission_3.Failed]
+失败！敌人的反击成功夺回了优势。

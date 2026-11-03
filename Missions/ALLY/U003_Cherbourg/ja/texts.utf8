@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+丘の敵陣地を占領せよ。
+[Submission_1.Description]
+戦略的観点から、この丘は戦線のこの区域における極めて重要な地点である。どちらが保持するにせよ、大きな優位をもたらす。 
+
+命令： 
+- 	丘の敵を陣地から追い払い、そこに防衛線を構築せよ。 
+[Submission_1.Success]
+丘を占領した！
+[Submission_1.Failed]
+敗北！丘を奪取できなかった。
+[Submission_2.Objectives]
+周辺の村にある敵の防御拠点を破壊し、橋頭堡を拡大せよ。 
+[Submission_2.Description]
+丘を占領したことで、貴官は敵防衛線を突破した。敵はなお両翼に残っている。今は橋頭堡の拡大が必要だ。 
+
+命令： 
+- 	敵の側面陣地をすべて破壊せよ。 
+[Submission_2.Success]
+任務は達成された。
+[Submission_2.Failed]
+任務に失敗した。
+[Submission_3.Objectives]
+丘を何としても保持せよ。
+[Submission_3.Description]
+ドイツ軍は貴官の陣地に対する反撃を準備している模様だ。その進撃に抵抗せねばならない。 
+
+命令： 
+- 	丘の陣地を保持し、前進する敵部隊を撃破せよ。
+[Submission_3.Success]
+敵は撃破された。シェルブールへの道は開かれた。
+[Submission_3.Failed]
+貴官は敗北した。シェルブールへの道は閉ざされたままである。
+[Mission.Objectives]
+シェルブール港付近のドイツ軍抵抗拠点を破壊せよ。
+[Mission.Description]
+シェルブールの守備隊はドイツ軍主力から切り離されており、予備兵力が不足している。しかし、連合軍が兵力と装備で優勢であるにもかかわらず、守備隊はコリンズ将軍の降伏勧告を拒否した。 
+
+命令：
+- 	シェルブール港付近のドイツ軍抵抗拠点を破壊せよ。
+[Mission.Success]
+勝利を収めた。
+[Mission.Failed]
+失敗だ。この地域にはドイツ軍部隊が多数残っており、今後の我が軍の進撃の妨げとなる。
+[StringTable.reserv]
+増援が到着した。

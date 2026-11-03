@@ -1,0 +1,489 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Die Ortschaft im Tal einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Die Ortschaft im Tal einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Ortschaft eingenommen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Ortschaft eingenommen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Ihre Kampfgruppe ist zum Haupttransportkorridor des Feindes durchgebrochen, doch der Großteil der feindlichen Kräfte verteidigt die Ortschaft. Zerstören Sie die feindliche Verteidigung und nehmen Sie die Stellung ein.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Ihre Kampfgruppe ist zum Haupttransportkorridor des Feindes durchgebrochen. Der Großteil der feindlichen Kräfte verteidigt jedoch die Ortschaft und könnte auch Gegenangriffe führen. Nehmen Sie die feindliche Stellung ein.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Versetzen Sie den angreifenden Feinden einen vernichtenden Schlag. Lassen Sie nicht zu, dass der Feind die Ortschaft einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Laut Aufklärung rückt eine feindliche Vorausabteilung auf die Ortschaft vor, in der Ihre Truppen liegen. Stellen Sie den Feind und schalten Sie ihn aus. Sollten einzelne Feinde durchbrechen, schalten Sie sie mit den verbleibenden Verteidigern aus.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Alle feindlichen Gegenangriffe auf die Ortschaft abwehren.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Die Linie für die vorgegebene Zeit bis auf Weiteres halten.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Der Feind hat die Ortschaft eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Der Feind hat die Ortschaft eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie müssen die Linie für die vorgegebene Zeit halten und dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Reserve-Panzergruppe steht unter Ihrem Kommando.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Reserve-Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_support]
+Mechanisierte Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Reserve-Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_support]
+Mechanisierte Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Reserve-Infanteriegruppe ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Reserve-Panzergruppe steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Reserve-Infanteriegruppe ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Reserve-Panzergruppe steht unter Ihrem Kommando.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar und wartet auf Befehle.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar und wartet auf Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Die Ortschaft im Tal einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Die Ortschaft im Tal einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Ortschaft eingenommen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Ortschaft eingenommen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Ihre Kampfgruppe ist zum Haupttransportkorridor des Feindes durchgebrochen, doch der Großteil der feindlichen Kräfte verteidigt die Ortschaft. Zerstören Sie die feindliche Verteidigung und nehmen Sie die Stellung ein.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Ihre Kampfgruppe ist zum Haupttransportkorridor des Feindes durchgebrochen. Der Großteil der feindlichen Kräfte verteidigt jedoch die Ortschaft und könnte auch Gegenangriffe führen. Nehmen Sie die feindliche Stellung ein.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Versetzen Sie den angreifenden Feinden einen vernichtenden Schlag. Lassen Sie nicht zu, dass der Feind die Ortschaft einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Laut Aufklärung rückt eine feindliche Vorausabteilung auf die Ortschaft vor, in der Ihre Truppen liegen. Stellen Sie den Feind und schalten Sie ihn aus. Sollten einzelne Feinde durchbrechen, schalten Sie sie mit den verbleibenden Verteidigern aus.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Alle feindlichen Gegenangriffe auf die Ortschaft abwehren.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Die Linie für die vorgegebene Zeit bis auf Weiteres halten.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Der Feind hat die Ortschaft eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Der Feind hat die Ortschaft eingenommen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie dürfen den Feind diese Stellung nicht einnehmen lassen. Sie müssen die Linie für die vorgegebene Zeit halten und dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_inf_support]
+Reserve-Panzergruppe steht unter Ihrem Kommando.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Infantry_support]
+Reserve-Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Mechs_support]
+Mechanisierte Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Infantry_support]
+Reserve-Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Mechs_support]
+Mechanisierte Infanteriegruppe steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Reserve-Infanteriegruppe ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_support]
+Reserve-Panzergruppe steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Reserve-Infanteriegruppe ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_support]
+Reserve-Panzergruppe steht unter Ihrem Kommando.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar und wartet auf Befehle.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar und wartet auf Befehle.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[Reinforcement.Group_tanks_inf]
+Reserve-Infanterie-Panzer-Gruppe
+
+[Reinforcement.Group_inf]
+Infanterie
+
+[Reinforcement.Group_tanks_spg_arm]
+Mechanisierte Reserve-Infanterie
+
+[Reinforcement.Group_tanks]
+Panzer
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Die Ortschaft im Tal einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Ihre Kampfgruppe ist zum Haupttransportkorridor des Feindes durchgebrochen, doch der Großteil der feindlichen Kräfte verteidigt die Ortschaft. Zerstören Sie die feindliche Verteidigung und nehmen Sie die Stellung ein.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Die Ortschaft einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Laut Aufklärung rückt eine feindliche Vorausabteilung auf die auf der Karte markierte Ortschaft vor. Sie müssen dem Feind zuvorkommen, die Ortschaft zuerst einnehmen und dann Ihre Verteidigung aufbauen. Erreicht der Feind sie zuerst, greifen Sie ihn sofort an, schalten Sie alle Feinde aus und nehmen Sie die Stellung ein.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Laut Aufklärung rückt eine feindliche Vorausabteilung auf die Ortschaft vor, in der Ihre Truppen liegen. Sie müssen die Ortschaft für die vorgegebene Zeit halten, bis unsere Hauptkräfte eintreffen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Die Ortschaft für die vorgegebene Zeit halten.
+
+[Reinforcement.Group1[Reinforcement]]
+Infanterie und gepanzerte Fahrzeuge
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Die Ortschaft im Tal einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Ihre Kampfgruppe ist zum Haupttransportkorridor des Feindes durchgebrochen, doch der Großteil der feindlichen Kräfte verteidigt die Ortschaft. Zerstören Sie die feindliche Verteidigung und nehmen Sie die Stellung ein.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Die Ortschaft einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Laut Aufklärung rückt eine feindliche Vorausabteilung auf die auf der Karte markierte Ortschaft vor. Sie müssen dem Feind zuvorkommen, die Ortschaft zuerst einnehmen und dann Ihre Verteidigung aufbauen. Erreicht der Feind sie zuerst, greifen Sie ihn sofort an, schalten Sie alle Feinde aus und nehmen Sie die Stellung ein.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Die Ortschaft im Tal ist ein strategischer Verteidigungspunkt des Gebiets und liegt am Haupttransportkorridor. Verlieren wir diese Stellung, wird unsere Verbindung in diesem Gebiet gekappt. Sie dürfen den Feind diese Stellung nicht einnehmen lassen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Laut Aufklärung rückt eine feindliche Vorausabteilung auf die Ortschaft vor, in der Ihre Truppen liegen. Sie müssen die Ortschaft für die vorgegebene Zeit halten, bis unsere Hauptkräfte eintreffen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Die Ortschaft für die vorgegebene Zeit halten.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+

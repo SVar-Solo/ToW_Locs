@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Expulse o inimigo da cidade.
+[Mission1.Description]
+Há um pequeno grupo de alemães na cidade adiante. O inimigo não sabe da nossa presença, por isso devemos atacar com rapidez e decisão para expulsá-lo.
+
+Suas ordens:
+-	Liberte a cidade dos alemães.
+[Mission1.Success]
+Ordem cumprida, o inimigo foi derrotado e a cidade, libertada! A ofensiva aliada pode agora prosseguir.
+[Mission1.Failed]
+Missão fracassada! Suas tropas foram eliminadas! Essa derrota tornará o restante da operação muito mais difícil.
+[Submission2.Objectives]
+Repila o ataque alemão.
+[Submission2.Description]
+A situação é crítica! Os alemães trouxeram suas reservas para a área da operação. Unidades alemãs abriram uma brecha e avançam em direção às nossas posições na cidade para nos expulsar.
+
+Suas ordens: 
+-	Consolide suas posições e repila as forças inimigas que avançam.
+[Submission2.Success]
+Ordem cumprida! O ataque inimigo foi repelido. Bom trabalho!
+[Submission2.Failed]
+Missão fracassada! Suas tropas foram expulsas da cidade. Sua falha ameaça o próprio sucesso de toda a operação!
+[StringTable.Reserv]
+Os reforços chegaram.
+[StringTable.Subtitle_01]
+França. Junho de 1944

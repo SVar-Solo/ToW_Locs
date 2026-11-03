@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Nie pozwól wojskom niemieckim się przebić
+[Mission.Description]
+Podpułkowniku Waters! Wojska niemieckie nie mogą się przebić na zachód.
+[Mission.Success]
+Niemiecka ofensywa została zatrzymana.
+[Mission.Failed]
+Nie udało nam się!
+[Submission1.Objectives]
+Utrzymaj linię
+[Submission1.Description]
+Utrzymaj linię pod Sidi Bou Zid.
+[Submission1.Success]
+Wróg został pokonany i się wycofuje!
+[Submission1.Failed]
+Wróg zmiażdżył naszą obronę! Odwrót!
+[Submission2.Objectives]
+Trzymać się
+[Submission2.Description]
+Utrzymaj się do przybycia posiłków.
+[Submission2.Success]
+Posiłki przybyły!
+[Submission2.Failed]
+[Submission3.Objectives]
+Natychmiast skieruj czołgi na lewą flankę, aby zamknąć wyłom!
+[Submission3.Description]
+[Submission3.Success]
+Wyłom wroga został zamknięty!
+[Submission3.Failed]
+[StringTable.Army3]
+Wróg przebija się na lewej flance! Natychmiast skieruj czołgi, aby zamknąć wyłom!
+[StringTable.Enemy]
+Niemcy! Do akcji!
+[StringTable.Avia]
+Alarm lotniczy!
+[StringTable.Obhod]
+Wróg oskrzydla nas od północy!
+[Submission4.Objectives]
+Zaatakuj wrogie oddziały
+[Submission4.Description]
+Zaatakuj oskrzydlające nas wrogie oddziały.
+[Submission4.Success]
+Wróg się wycofuje!
+[Submission4.Failed]
+[StringTable.tank]
+Czołgi
+[StringTable.human]
+Piechota

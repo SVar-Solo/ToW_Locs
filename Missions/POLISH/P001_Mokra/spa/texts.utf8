@@ -1,0 +1,40 @@
+﻿[Mission1.Objectives]
+Conserve y defienda la zona especificada.
+[Mission1.Description]
+1 de septiembre de 1939. Las tropas alemanas avanzan rápidamente por tres frentes. La Agrupación de Ejércitos Norte descarga un golpe desde las regiones del noroeste de Alemania y el este de Prusia. Desde el sureste de Alemania y el norte de Eslovaquia, la Agrupación de Ejércitos Sur atacaba apoyada por las divisiones eslovacas 1a. y 2a.
+Según las órdenes del alto mando polaco, ha de reforzar las defensas alrededor del río Mokra y rechazar el ataque de los alemanes.
+
+Sus órdenes son:
+-	Conserve y defienda la zona especificada.
+-	Evite que las tropas enemigas atraviesen las líneas defensivas.
+[Mission1.Success]
+¡Bien hecho, comandante! Los alemanes no han conseguido acabar con nuestras defensas en este sector del frente.
+[Mission1.Failed]
+¡Ha fracasado en su misión! Los alemanes han roto nuestras defensas y avanzan hacia Varsovia. ¡Polonia está perdida!
+[Submission1.Objectives]
+Rechace este primer ataque del ejército alemán.
+[Submission1.Description]
+Los enemigos intentan asestar un poderoso golpe contra nuestras defensas, cerca del río Mokra. Tienen la intención de destruir completamente nuestras posiciones defensivas y seguir avanzando hacia el interior.
+Al mando polaco le preocupa la situación en el frente. Hay que controlarla.
+
+Sus órdenes son:
+-	Rechace el avance de las tropas alemanas.
+[Submission1.Success]
+¡Misión cumplida! ¡El ataque alemán en este sector ha sido rechazado!
+[Submission1.Failed]
+¡Órdenes incumplidas! Las tropas alemanas han aplastado nuestras defensas en este sector.
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.
+[Submission2.Objectives]
+Contraataque a las fuerzas enemigas.
+[Submission2.Description]
+¡El enemigo intenta atacar nuestros flancos! Debería atacarle inmediatamente para evitar que nos rodee y que inflija daños importantes a nuestras tropas.
+
+Sus órdenes son:
+-	Ataque a las unidades enemigas que avancen hacia su flanco.
+[Submission2.Success]
+¡Orden cumplida! El grupo de tanques enemigo no ha conseguido cumplir la misión.
+[Submission2.Failed]
+¡Órdenes incumplidas! ¡Las fuerzas enemigas se han abierto paso a través de nuestra retaguardia!
+[StringTable.Subtitle_01]
+Polonia, septiembre de 1939

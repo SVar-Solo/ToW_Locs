@@ -1,0 +1,35 @@
+﻿[StringTable.Reserv]
+增援已到达，将支援你作战。
+[Mission1.Objectives]
+守住指定地区内的防御阵地。
+[Mission1.Description]
+德国第3集团军正在东波兰快速穿插。其目标是越过并迂回我军北部的部队。波兰最高统帅部已决定在国家的东南地区集结尽可能多的兵力。必须阻止德军突破我们的前线。 
+
+你的命令如下：
+-	守住并防御指定地区内的阵地。
+[Mission1.Success]
+命令已完成！敌军的推进已被阻止！
+[Mission1.Failed]
+你的部队被击败了！敌人摧毁了我们的防御并恢复了推进！
+[Submission1.Objectives]
+进攻从南面推进的新到敌军。
+[Submission1.Description]
+侦察兵报告，一小股德军正从南面向桑多梅日方向移动。敌人很可能试图在该地段强行突破，然后设法渡河，向桑多梅日推进。
+
+命令：
+-	进攻从南面推进的敌军。
+[Submission1.Success]
+命令已完成！敌军遭到攻击并被击退！
+[Submission1.Failed]
+你未能完成命令！敌军对我军造成了严重损害。
+[Submission2.Objectives]
+进攻现正从西面推进的敌军。
+[Submission2.Description]
+德军正在调集兵力准备在该地段发动打击。侦察兵报告，一支大股敌军正从西面开来，目标是桑多梅日。
+
+你的命令是：
+-	进攻从西面推进的敌军。
+[Submission2.Success]
+命令已完成！德军来自西面的进攻被击退
+[Submission2.Failed]
+命令失败！德军利用局势给我军造成了严重损害。

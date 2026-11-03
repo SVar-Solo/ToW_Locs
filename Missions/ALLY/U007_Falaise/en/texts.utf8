@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+Conduct a probing action. Drive the enemy out of the valley. 
+[Submission_1.Description]
+German forces are retreating! We have managed to contain them into a cul-de-sac near Falaise, but regardless of that, they still offer strong resistance. Eisenhower’s intention to completely encircle the Germans has not been realized yet though. The enemy has set up a few pockets of defense on the nearby foothills. 
+
+Your orders:
+- 	Conduct a probing action in the nearby village and destroy any enemy units encountered
+[Submission_1.Success]
+The valley is now under our control!
+[Submission_1.Failed]
+You have been defeated. 
+[Submission_2.Objectives]
+Attack the hills and drive the enemy out of all of his defensive positions.
+[Submission_2.Description]
+The last line of German defenses is ahead. You have been granted suitable close air support, and your task is to destroy the enemy defenses. Make use of our air superiority, as well as your numerical advantage on the ground
+
+Your orders:
+- 	Destroy the enemy defenses, break through to a bridgehead on the hills and establish a lodgment there. 
+[Submission_2.Success]
+The enemy has been defeated. 
+[Submission_2.Failed]
+Defeat! You have failed to break through the enemy defenses.
+[Mission.Objectives]
+Crush the enemy resistance and completely eliminate his defenses.
+[Mission.Description]
+German forces are retreating under the pressure of the Allied army, but the enemy still offers serious resistance. Terrain peculiarities near Falaise have given the Germans an advantage, even though the Allied forces have a considerable numerical superiority over them. The pockets of resistance left at the foothills create frequent and costly obstacles to our troops. We must push through them before the Germans have a chance to reorganize.
+
+Your orders: 
+- 	Suppress all pockets of resistance from the Germans in the foothills. 
+- 	Having concentrated your forces, make a decisive blow, breaking through and subsequently destroying the main German defense forces. 
+[Mission.Success]
+You have won. The enemy’s pockets of resistance have been destroyed
+[Mission.Failed]
+You have lost. German forces have resisted your attempts to dislodge them.
+[StringTable.reserv]
+Reinforcements have arrived to support you.
+[Submission_3.Objectives]
+Repel the enemy counterattack.
+[Submission_3.Description]
+Having lost his defensive positions, the enemy intends to launch a counterattack using reserve forces.
+
+Your orders:
+- 	Repel the enemy counterattack.
+[Submission_3.Success]
+The enemy has been destroyed. His counterattack has failed.
+[Submission_3.Failed]
+Defeat! The enemy counterattack was successful in regaining the advantage.

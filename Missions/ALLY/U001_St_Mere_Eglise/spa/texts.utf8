@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Saque al enemigo de la ciudad.
+[Mission1.Description]
+Hay un pequeño grupo de alemanes en los alrededores de la ciudad que tenemos delante. El enemigo no ha advertido nuestra presencia, lo que nos permite lanzar un ataque rápido y decisivo para expulsarlos de allí.
+
+Sus órdenes:
+-	Libere la ciudad de alemanes.
+[Mission1.Success]
+¡Misión cumplida! ¡Ha derrotado al enemigo y ha liberado la ciudad! La ofensiva aliada ya puede continuar.
+[Mission1.Failed]
+¡Misión fallida! ¡Han eliminado a sus tropas! Esta derrota dificultará mucho el resto de la operación.
+[Submission2.Objectives]
+Rechace el ataque alemán.
+[Submission2.Description]
+¡La situación es crítica! Los alemanes han llevado sus reservas a la zona de operaciones. Las unidades alemanas han logrado abrirse paso y avanzan hacia nuestras posiciones en la ciudad para sacarnos de allí.
+
+Sus órdenes:
+-	Consolide sus posiciones y rechace el avance de las fuerzas enemigas.
+[Submission2.Success]
+¡Órdenes cumplidas! ¡Ha frenado el ataque enemigo! ¡Buen trabajo!
+[Submission2.Failed]
+¡Misión fallida! Sus tropas han sido expulsadas de la ciudad. ¡Su fracaso pone en peligro el éxito de toda la operación!
+[StringTable.Reserv]
+Han llegado refuerzos.
+[StringTable.Subtitle_01]
+Francia, junio de 1944

@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Vertreiben Sie den Feind aus seiner Stellung.
+[Submission1.Description]
+Die Nazis haben Ihre Position entlang einer Linie zwischen dem Istra Reservoir und dem Stadtzentrum konsolidiert und werden wohl nicht mehr ohne harten Widerstand zurückweichen. Es ist wichtig den Feind aus diesen Stellungen zu vertreiben. 
+
+Ihre Befehle lauten:
+- Vertreiben Sie den Feind aus seiner Stellung.
+[Submission1.Success]
+Der Befehl wurde ausgeführt!
+[Submission1.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt!
+[Submission2.Objectives]
+Vernichten Sie den vorrückenden Feind.
+[Submission2.Description]
+Die Nazis haben einen überraschenden Gegenangriff in diesem Frontabschnitt gestartet. Sie müssen den vorrückenden Feind angreifen und vernichten.
+
+Ihre Befehle lauten:
+- Vernichten Sie die angreifenden deutschen Einheiten.
+[Submission2.Success]
+Der Befehl wurde ausgeführt! Die feindlichen Truppen wurden geschlagen.
+[Submission2.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt! Ihre Truppen wurden geschlagen.

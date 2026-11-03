@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Repel the next attack
+[Submission_1.Description]
+The enemy is regrouping, prepare to repel the next attack.
+[Submission_01.Success]
+Mission accomplished.
+[Submission_01.Failed]
+Mission failed.
+[Mission.Objectives]
+Repel all enemy attacks
+[Mission.Description]
+Hold your commanding heights. Repel all enemy attacks.
+[NewSubmission.Success]
+Mission accomplished.
+[NewSubmission.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Repel the tanks attack
+[Submission_2.Description]
+The next attack is on, and it seems, it is supported by tanks.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.

@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Débarrassez le village de ses envahisseurs nazis!
+[Mission.Description]
+Les troupes ennemies sont en déroute! En quelques jours seulement, notre offensive a atteint Volokolamsk. Le quartier général vous a confié la mission de poursuivre et d’éliminer toutes les unités et les points d’appui ennemis de votre secteur du front.
+
+Vos ordres sont:
+Débarrassez le village l’envahisseur nazi.
+[Mission.Success]
+Vous avez libéré le village! Mission accomplie!
+[Mission.Failed]
+Vous avez  échoué!
+[Submission_1.Objectives]
+Libérez le hameau.
+[Submission_1.Description]
+Au nord-ouest, aux abords de Volokolamsk, se trouve un hameau constituant pour les Allemands un point clé de leur défense. Ce point est d’une importance stratégique et doit être capturé.
+
+Vos ordres sont:
+- Détruisez les défenses ennemies en utilisant pour cela toutes les forces à votre disposition.
+- Débarassez le village de l’envahisseur nazi.
+ [Submission_1.Success]
+Mission accomplie!
+[Submission_1.Failed]
+La mission est un échec. Vos troupes ont été défaites.
+[Submission_2.Objectives]
+Détruisez les forces ennemies.
+[Submission_2.Description]
+Les Allemands ont adopté une défense active et ont commencé à envoyer de petits groupes de reconnaissance. Nos troupes les ont repérés.
+
+Vos ordres sont:
+- Détruisez les troupes ennemies.
+[Submission_2.Success]
+L’ennemi a été battu. Mission accomplie!
+[Submission_2.Failed]
+La mission a échoué! Vos troupes ont été défaites.
+[Submission_3.Objectives]
+Repoussez la contre-attaque ennemie.
+[Submission_3.Description]
+Le hameau a été occupé par nos troupes, mais les Allemands n’ont apparemment pas l’intention d’en rester là. Ils sont actuellement en train de préparer une contre-attaque à partir du nord.
+
+Vos ordres sont:
+- Repoussez la contre-attaque ennemie.
+[Submission_3.Success]
+La contre-attaque a été repoussée. Mission accomplie!
+[Submission_3.Failed]
+Vous avez échoué! Vous n’avez pas réussi à conserver le hameau pour lequel vous vous êtes si durement battu auparavant!

@@ -1,0 +1,64 @@
+﻿[Mission.Objectives]
+Odeprzyj wszystkie ataki wroga.
+[Mission.Description]
+Odeprzyj wszystkie ataki wroga i obroń wzniesienia.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana.
+[Submission1.Objectives]
+Utrzymaj Wzniesienie 1
+[Submission1.Description]
+Wzniesienie 1 ma bardzo duże znaczenie taktyczne. Zapewnia doskonały widok na znaczną część linii frontu oraz na całe nasze zaplecze. Jeśli wróg zajmie Wzniesienie 1, będzie mógł korygować ogień artylerii i celnie ostrzeliwać nasze tylne pozycje. Utrzymaj je za wszelką cenę.
+[Submission1.Success]
+Ataki wroga zostały odparte, a jego straty są ciężkie!
+[Submission1.Failed]
+Wróg zdobył Wzniesienie 1!
+[Submission2.Objectives]
+Odbij Wzniesienie 1 z rąk wroga.
+[Submission2.Description]
+Piechota wroga zdobyła Wzniesienie 1. Rozkaz: wyprzeć wroga z Wzniesienia 1 przy pomocy odwodów.
+[Submission2.Success]
+Wzniesienie 1 zostało odbite.
+[Submission2.Failed]
+Atak się nie powiódł. Teraz wróg może celnie ostrzeliwać nasze pozycje!
+[Submission3.Objectives]
+Zaatakuj niemieckich saperów.
+[Submission3.Description]
+Osłaniani przez wrogie czołgi, wrodzy saperzy próbują oczyścić przejścia dla czołgów w naszym polu minowym. Nasza piechota ma zaatakować niemieckich saperów i nie dopuścić do ukończenia przez nich pracy. Nasza artyleria osłoni cię zasłoną dymną.
+[Submission3.Success]
+Wróg przerwał rozminowywanie i wycofuje się. Misja wykonana.
+[Submission3.Failed]
+Misja nieudana! Wrodzy saperzy mieli dość czasu, by oczyścić kilka przejść dla swoich czołgów. Teraz musimy przygotować się do odparcia ataku czołgów!
+[Submission4.Objectives]
+Utrzymaj linię, aktywnie wykorzystując ogień baterii i lotnictwo.
+[Submission4.Description]
+Utrzymaj Wzniesienie 4 i główne linie obrony. Z osłoniętych stanowisk ogniowych zadaj wrogowi jak największe straty, zanim dotrze do naszych głównych linii obrony.
+[Submission4.Success]
+Wróg poniósł ciężkie straty i się wycofuje. Misja wykonana!
+[Submission4.Failed]
+Wrogie czołgi przełamały naszą obronę i dotarły do stanowiska dowodzenia!  
+[StringTable.Message1]
+Wróg się wycofuje. Najprawdopodobniej, by się przegrupować i zaatakować ponownie.
+[StringTable.Message2]
+Wróg ostrzeliwuje wzniesienie, zapewne szykując nowy atak. Tylne zbocze nie jest osłaniane ogniem, więc piechota może tam przeczekać do końca ostrzału.
+[StringTable.Reinf1]
+Posiłki przybyły.
+[StringTable.mess1]
+Wygląda na to, że Niemcy skorygowali ogień i strzelają teraz na rażenie.
+[StringTable.mess2]
+Wygląda na to, że wróg zaczął korygować ogień na nasze pozycje. Należy jak najszybciej odbić Wzniesienie 1!
+[StringTable.mess4]
+Pola minowe są zaznaczone na mapie. Niestety są to wyłącznie miny przeciwpancerne, które nie powstrzymają piechoty. Ponadto pola minowe trzeba chronić przed rozminowaniem.
+[StringTable.mess5]
+Piechota wroga zajęła wzniesienie. Jeśli mają korygującego ogień artylerii, wkrótce będziemy mieć kłopoty.
+[StringTable.mess6]
+Posiłki przybyły.
+[StringTable.mess7]
+Uwaga! Wrogie czołgi na lewej flance!
+[StringTable.mess8]
+Nawiązano łączność z baterią. Artyleria jest gotowa otworzyć ogień na żądanie!
+[StringTable.mess9]
+Samoloty zbliżają się do twojego sektora, gotowe działać na twoje żądanie!
+[StringTable.mess3]
+Bombardowanie ustało. Wracaj na swoje pozycje.

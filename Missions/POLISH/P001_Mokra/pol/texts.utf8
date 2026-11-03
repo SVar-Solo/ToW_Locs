@@ -1,0 +1,37 @@
+﻿[Mission1.Objectives]
+Utrzymać pozycje obronne w wyznaczonym rejonie.
+[Mission1.Description]
+1 września 1939 oddziały niemieckie nacierają na trzech frontach. Grupa Armii Północ atakuje z północno-zachodnich Niemiec i Prus Wschodnich. Z południowo-wschodnich Niemiec i północnej Słowacji naciera grupa Armii Południe, wspierana przez 1. i 2. dywizję słowacką.
+Według rozkazów polskiego dowództwa naczelnego, musisz przygotować obronę w rejonie rzeki Mokrej i odeprzeć niemieckie natarcie.
+Twoje rozkazy:
+-	Utrzymać pozycje obronne w wyznaczonym rejonie.
+-	Uniemożliwić nieprzyjacielowi przebicie się przez linie obronne.
+[Mission1.Success]
+Znakomicie! Niemcom nie udało się zniszczyć naszej obrony na tym odcinku frontu!
+[Mission1.Failed]
+Nie wykonałeś zadania! Niemieckie oddziały przełamały obronę i nacierają w kierunku Warszawy. Polska jest zgubiona!
+[Submission1.Objectives]
+Odeprzyj pierwszy atak wojsk niemieckich.
+[Submission1.Description]
+Wróg próbuje zagrozić naszej obronie w rejonie rzeki Mokrej. Chce całkowicie zniszczyć nasze pozycje obronne i nacierać głębiej. 
+Polskie dowództwo jest zaniepokojone sytuacją na froncie. Trzeba ją ustabilizować.
+Twoje rozkazy: 
+-	Odeprzeć natarcie wojsk niemieckich.
+[Submission1.Success]
+Zadanie wykonane! Atak niemieckich oddziałów w tym sektorze został odparty!
+[Submission1.Failed]
+Zadanie niewykonane! Niemieckie oddziały zniszczyły naszą obronę w tym sektorze!
+[StringTable.Reserv]
+Otrzymałeś posiłki.
+[Submission2.Objectives]
+Wykonaj kontratak na siły nieprzyjaciela.
+[Submission2.Description]
+Nieprzyjaciel próbuje uderzyć na nasze flanki! Powinieneś natychmiast go zaatakować, by zapobiec okrążeniu naszych oddziałów. 
+Twoje rozkazy:
+-	Zaatakować nieprzyjacielskie jednostki, nacierające na skrzydle.
+[Submission2.Success]
+Zadanie wykonane! Niemieckie zgrupowanie pancerne nie wykonało zadania.
+[Submission2.Failed]
+Zadanie niewykonane! Siły wroga przebiły się na nasze tyły!
+[StringTable.Subtitle_01]
+Polska. Wrzesień 1939.

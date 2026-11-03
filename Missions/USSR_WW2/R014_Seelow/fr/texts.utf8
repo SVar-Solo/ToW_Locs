@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+La première ligne de fortifications devant les hauteurs de Seelow a été détruite ! Les troupes allemandes restantes refluent vers leur seconde ligne de fortifications. Votre tâche est de les poursuivre et faire sauter cette ceinture défensive.
+[Submission_1.Description]
+Nos éclaireurs indiquent qu’un large canal se trouve devant, avec un dernier pont intact. Un village est situé le long du canal et des positions fortifiées sont visibles sur les hauteurs. Lancez l’assaut sur les défenses de ce côté du canal et prenez le contrôle du pont.
+
+Vos ordres : 
+-	 Capturer les postions allemandes devant le canal.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+La mission a échoué.
+[Submission_2.Objectives]
+Capturer les hauteurs.
+[Submission_2.Description]
+L’ennemi s’est retiré sur les hauteurs au-dessus du village. Nos reconnaissances ont repéré des positions défensives importantes et l’ennemi s’est retranché. Les Allemands savent qu’il s’agit du dernier obstacle avant Berlin et ils ont la ferme intention de combattre jusqu’au dernier. Détruisez-les commandant, la victoire finale est à portée de main. 
+
+Vos ordres :
+-	Ecraser la résistance ennemie et capturer les hauteurs de Seelow.
+[Submission_2.Success]
+Les hauteurs de Seelow sont tombées. Berlin et la fin de la guerre sont en vue.
+[Submission_2.Failed]
+La mission a échoué. Les défenseurs allemands ont réussi à contenir votre attaque.
+[Mission.Objectives]
+Ecraser l’ultime résistance ennemie et capturer les hauteurs de Seelow.
+[Mission.Description]
+A la mi-avril, l’armée allemande, bien qu’affaiblie, conserve encore une certaine capacité de combat. Bien que leur moral soit très bas, les soldats allemands continuent de se battre. Le haut commandement allemand a massé toutes les unités encore disponibles pour défendre Berlin alors que l’armée rouge prépare son dernier effort. Avant de pouvoir passer à l’assaut de la ville, il est nécessaire de prendre le contrôle des hauteurs de Seelow, une zone infestée de positions retranchées, de bunkers et de tranchées et dont les unités ont encore la volonté de se battre.
+Vers mi-avril, les troupes soviétiques ont tenté un premier assaut, mais elles ont été repoussées. C’est à votre tour commandant, la victoire vous attend !
+
+Vos ordres :
+-	Prendre les hauteurs de Seelow à tout prix.
+[Mission.Success]
+Les hauteurs de Seelow ont été capturées. Berlin et la fin de la guerre sont en vue !
+[Mission.Failed]
+La mission a échoué. Vous n’avez pas encore capturé les hauteurs de Seelow.
+[StringTable.reserv]
+Des renforts sont arrivés.

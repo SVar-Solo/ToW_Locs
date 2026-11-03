@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Destruya a todas las unidades enemigas en las proximidades de Houffalize.
+[Mission.Description]
+Ha empezado la operación “Wacht am Rhine”. Nuestras unidades avanzadas han hecho mella en las partes más débiles del enemigo pero ha encontrado una dura resistencia cerca de la ciudad de Bastoña.
+
+Sus órdenes son:
+- 	Apodérese de la ciudad que tiene al frente.
+- 	Destruya las defensas enemigas de las colinas.
+[Mission.Success]
+¡Ha tomado la ciudad!
+[Mission.Failed]
+¡Ha perdido! Han rechazado todos sus ataques.
+[Submission_1.Objectives]
+Establezca una cabeza de puente en las colinas cercanas a la ciudad. Destruya a todas las tropas y la artillería del enemigo.
+[Submission_1.Description]
+La cabeza de puente en las colinas cercanas a la ciudad es un lugar clave en la defensa norteamericana. La defienden con infantería, artillería y cañones antitanque.
+
+Sus órdenes:
+- 	Destruya a todas las fuerzas enemigas que encuentre y tome la cabeza de puente.
+[Submission_1.Success]
+¡La cabeza de puente es nuestra!
+[Submission_1.Failed]
+Le han arrebatado la victoria. ¡Las fuerzas de los EE. UU. le han derrotado!
+[Submission_2.Objectives]
+Rechace los contraataques enemigos y tome la ciudad.
+[Submission_2.Description]
+Tras la pérdida inicial de la cabeza de puente, los americanos han lanzado sus reservas y van a contraatacar.
+
+Sus órdenes:
+- 	Mantenga la cabeza de puente, contraataque al enemigo y tome la ciudad.
+[Submission_2.Success]
+¡Ha resistido!
+[Submission_2.Failed]
+¡Ha perdido esta batalla!
+
+[StringTable.reserv]
+Han llegado refuerzos.

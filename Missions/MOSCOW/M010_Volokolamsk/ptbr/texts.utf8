@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Liberte a aldeia dos invasores nazistas alemães.
+[Mission.Description]
+As tropas inimigas estão em fuga! Em poucos dias, nossa contraofensiva chegou a Volokolamsk. O Quartel-General Supremo encarregou você de perseguir e eliminar quaisquer unidades ou pontos fortes inimigos remanescentes em seu setor da frente.
+
+Suas ordens:
+- Liberte a aldeia dos invasores nazistas alemães.
+[Mission.Success]
+Você libertou a aldeia. A ordem do QG Supremo foi cumprida!
+[Mission.Failed]
+Você não cumpriu a ordem do QG Supremo!
+[Submission_1.Objectives]
+Liberte o povoado.
+[Submission_1.Description]
+A noroeste há um povoado que os alemães transformaram em bastião-chave no acesso a Volokolamsk. Trata-se de uma artéria estrategicamente importante e deve ser assegurada.
+
+Suas ordens:
+- Destrua as defesas inimigas com todas as forças disponíveis.
+- Liberte o povoado dos invasores.
+[Submission_1.Success]
+As ordens do QG Supremo foram cumpridas!
+[Submission_1.Failed]
+Você não cumpriu as ordens do QG Supremo. Suas tropas foram derrotadas.
+[Submission_2.Objectives]
+Destrua as forças inimigas.
+[Submission_2.Description]
+Os alemães passaram a uma defesa ativa e começaram a enviar pequenos grupos de sondagem. Nossos batedores avistaram o inimigo avançando.
+
+Suas ordens:
+-Destrua as tropas inimigas que avançam.
+[Submission_2.Success]
+As tropas inimigas foram derrotadas. Sua tarefa foi cumprida!
+[Submission_2.Failed]
+Você não cumpriu as suas ordens! Suas tropas foram derrotadas.
+[Submission_3.Objectives]
+Repila o contra-ataque inimigo.
+[Submission_3.Description]
+O povoado foi ocupado por nossas tropas, mas os alemães não pretendem nos deixar descansar ainda. Neste exato momento eles se preparam para lançar um contra-ataque pelo norte.
+
+Suas ordens:
+- Repila o contra-ataque inimigo.
+[Submission_3.Success]
+O contra-ataque inimigo foi repelido. A sua ordem foi cumprida!
+[Submission_3.Failed]
+Você não cumpriu a ordem do QG Supremo! Você não conseguiu manter as posições que tanto lutou para ocupar.

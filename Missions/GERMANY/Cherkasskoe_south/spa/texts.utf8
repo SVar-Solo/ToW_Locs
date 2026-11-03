@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+El grupo de combate ocupará las afueras meridionales de Cherkasskoe y se reagrupará en el objetivo.
+[Mission.Description]
+El reconocimiento aclarará la posición del enemigo, su potencia de fuego y los puntos de paso del foso antitanque. Cruce el foso antitanque lo más rápido posible y destruya la primera línea defensiva. Flanquee y neutralice las defensas soviéticas y consolídese en la zona urbanizada.
+[Mission.Success]
+La parte sur de Cherkasskoe ha sido ocupada. Las fuerzas enemigas se retiraron hacia el norte.
+[Mission.Failed]
+No hemos podido cumplir la orden. ¡El enemigo es demasiado fuerte!
+[Submission_1.Objectives]
+Alcance la primera línea de trincheras enemigas y tome las posiciones con la infantería.
+[Submission_1.Success]
+La línea de obstáculos ha sido superada. Atacando la primera trinchera.
+[Submission_1.Failed]
+El ataque se ha estancado; ¡se requiere apoyo inmediato!
+[Submission_2.Objectives]
+Ataque al enemigo en las afueras meridionales de Cherkasskoe. Ocupe y mantenga la aldea.
+[Submission_2.Success]
+La parte sur de Cherkasskoe ha sido ocupada.
+[Submission_2.Failed]
+El ataque se ha estancado; ¡se requiere apoyo inmediato!
+[Submission_3.Objectives]
+Rechace el contraataque de los tanques enemigos. Impida que el enemigo capture la zona urbanizada.
+[Submission_3.Success]
+El contraataque enemigo ha sido frustrado con éxito.
+[Submission_3.Failed]
+Nuestras fuerzas se retiran bajo la presión enemiga.
+[StringTable.Ifantry_support]
+Ahora controla una unidad de infantería.
+[StringTable.Inf_1]
+Infantería
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

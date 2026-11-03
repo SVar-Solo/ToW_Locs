@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Destroy all enemy units in the vicinity of Houffalize.
+[Mission.Description]
+Operation Wacht am Rhine has begun. Our advance units have bitten deep into the underbelly of the enemy but have encountered stiff resistance near the town of Bastogne.
+
+Your orders are: 
+- 	Seize the town ahead
+- 	Destroy the enemy entrenched on the hills 
+[Mission.Success]
+The town has been seized!
+[Mission.Failed]
+You have lost! All of your attacks were repelled.
+[Submission_1.Objectives]
+Establish bridgehead on the hills near the town. Destroy all the enemy troops and artillery. 
+[Submission_1.Description]
+The bridgehead on the hills near the town is a key location in the U.S. defense. Infantry, artillery and anti-tank guns defend this bridgehead.
+
+Your orders: 
+- 	Destroy all enemy forces encountered and capture the bridgehead.
+[Submission_1.Success]
+The bridgehead is ours!
+[Submission_1.Failed]
+The victory has been lost. U.S. forces have defeated you!
+[Submission_2.Objectives]
+Repel enemy counterattacks and capture the town.
+[Submission_2.Description]
+After the initial loss of the bridgehead, the Americans have committed their reserves and are counter-attacking. 
+
+Your orders:
+- 	Hold the bridgehead, counterattack the enemy and capture the town. 
+[Submission_2.Success]
+You have held out!
+[Submission_2.Failed]
+You have lost this battle!
+
+[StringTable.reserv]
+Reinforcements have arrived.

@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+서쪽에서 공격하는 적에게 방어선이 돌파당하지 않도록 하라.
+[Submission1.Description]
+오랜 지연 끝에 미군이 아라스 일대로 접근하기 시작했다. 이 전선 구역의 상황은 매우 심각하다. 적군은 서쪽에서 진격하고 있으며 수적으로 우세하다.
+
+명령:
+- 	서쪽에서 오는 적의 공격에 아군 방어선이 돌파당하지 않도록 하라.
+[Submission1.Success]
+임무 완료! 적이 물러나고 있다.
+[Submission1.Failed]
+적이 아군 방어선을 돌파했다. 후퇴해야 한다!
+[Mission1.Objectives]
+미군의 진격을 저지하라.
+[Mission1.Description]
+미 제3군이 아군 방어선에 접근했다. 미군은 전선 전역에서 여러 방향으로 대규모 진격을 준비하고 있다. 이번 진격을 막아 아군 부대의 후퇴를 엄호해야 한다.
+
+명령: 
+-	지정 구역의 방어선을 사수하라.
+- 	전선의 이 구역에서 적 병력을 저지하라.
+[Mission1.Success]
+임무 완료! 미군의 공격은 산산조각 났다! 이는 독일 무기의 압도적 우위를 다시 한번 보여준다.
+[Mission1.Failed]
+방어선이 돌파되었다! 독일은 제국의 전사한 병사들을 잊지 않겠지만 무능한 지휘관은 거의 기억하지 못할 것이다!
+[Submission2.Objectives]
+남쪽 방어선이 돌파당하지 않도록 하라.
+[Submission2.Description]
+미군 대부대가 남쪽에서 접근하고 있다. 항공기와 포병이 그들의 진격을 지원한다.
+
+명령: 
+- 	남쪽에서 오는 이번 새로운 공격에 맞서라.
+[Submission2.Success]
+임무 완료, 적을 저지했다!
+[Submission2.Failed]
+적이 방어선을 돌파했다!
+[Submission3.Objectives]
+또 다른 공격 파도가 남서쪽에서 접근하고 있다
+[Submission3.Description]
+정찰에 따르면 적 병력이 남서쪽에서 진격하고 있다.
+
+명령: 
+- 	남서쪽에서 오는 적의 공격을 격퇴하라.
+[Submission3.Success]
+적의 공격을 격퇴하는 데 성공했다!
+[Submission3.Failed]
+적이 방어선을 돌파했다. 후퇴해야 한다!
+[Submission4.Objectives]
+북서쪽에서 시작된 이번 새로운 공격에 맞서라.
+[Submission4.Description]
+미군 부대가 북서쪽에서 이동하고 있다.
+
+명령: 
+ -	 북서쪽에서 공격하는 적 병력에 맞서 버텨라.
+[Submission4.Success]
+임무 완수!
+[Submission4.Failed]
+아군 방어선이 돌파되었다!
+[StringTable.Reserv]
+증원 부대를 받았다.

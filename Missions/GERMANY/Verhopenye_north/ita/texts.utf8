@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Stabilire una testa di ponte sulla riva occidentale della Pena.
+[Mission.Description]
+Carri e artiglieria con scarso supporto di fanteria tengono la linea sulla riva occidentale del fiume. Sulla riva orientale ci sono singoli avamposti di combattimento. Il gruppo di combattimento ripulirà dal nemico la riva orientale, quindi attaccherà la parte occidentale di Verchopen'e e conquisterà l'attraversamento del fiume.
+[Submission1.Objectives]
+Conquistare il ponte sulla Pena, passare sulla riva occidentale e difendere l'attraversamento.
+[Submission1.Success]
+Missione compiuta. 
+[Submission1.Failed]
+L'attacco si è arenato, è necessario un supporto immediato. 
+[Submission2.Objectives]
+Tenere l'attraversamento fino all'arrivo delle forze principali.
+[Submission2.Success]
+Missione compiuta.
+[Submission2.Failed]
+Le nostre forze sono state respinte da forze nemiche superiori.
+[Mission.Success]
+Missione compiuta. Ora è possibile far attraversare il fiume al grosso delle forze della divisione.
+[Mission.Failed]
+Non siamo riusciti a eseguire gli ordini. Il nemico è troppo forte!
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

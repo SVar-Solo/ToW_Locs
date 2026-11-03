@@ -1,0 +1,134 @@
+﻿[Mission.Objectives]
+Das Kommando übernehmen und den feindlichen Angriff abwehren
+
+[Mission.Description]
+Übernehmen Sie das Kommando über zwei Gruppen britischer Soldaten. Vernichten Sie mit einem schweren Maschinengewehr eine feindliche Infanteriegruppe. Finden Sie eine Panzerbüchse und setzen Sie sie ein, um den feindlichen Panzer zu vernichten.
+
+[Mission.Success]
+Meinen Glückwunsch, alle Aufgaben wurden erfolgreich erfüllt.
+
+[Mission.Failed]
+Auftrag gescheitert
+
+[Submission_1.Objectives]
+Das Kommando über die erste Gruppe übernehmen
+
+[Submission_1.Description]
+Fahren Sie mit dem Fahrzeug näher an die Gruppe von drei britischen Soldaten heran, dann unterstehen sie Ihrem Kommando.
+
+[Submission_1.Success]
+Die Gruppe britischer Soldaten untersteht nun Ihrem Kommando.
+
+[Submission_1.Failed]
+Auftrag gescheitert
+
+[Submission_2.Objectives]
+Das Kommando über die zweite Gruppe übernehmen
+
+[Submission_2.Description]
+Bringen Sie Ihr Fahrzeug und die Soldaten, die sich Ihnen angeschlossen haben, näher an die Gruppe des Gefechtspostens am Dorfrand heran, dann unterstehen sie Ihrem Kommando.
+
+[Submission_2.Success]
+Der Gefechtsposten untersteht nun Ihrem Kommando.
+
+[Submission_2.Failed]
+Auftrag gescheitert
+
+[Submission_3.Objectives]
+Das Maschinengewehr besetzen
+
+[Submission_3.Description]
+Wählen Sie zwei Infanteristen aus dem Personal aus und besetzen Sie das Maschinengewehr.
+
+[Submission_3.Success]
+Das schwere Maschinengewehr steht Ihnen zur Verfügung.
+
+[Submission_3.Failed]
+Auftrag gescheitert
+
+[Submission_4.Objectives]
+Den feindlichen Angriff abwehren
+
+[Submission_4.Description]
+Beziehen Sie in den Gebäuden nahe dem Maschinengewehr Verteidigungsstellung und wehren Sie den Angriff der feindlichen Infanterie ab.
+
+[Submission_4.Success]
+Der feindliche Angriff wurde abgewehrt.
+
+[Submission_4.Failed]
+Auftrag gescheitert
+
+[StringTable.Submission_4]
+Im Modus der freien Bewegung können Infanteristen in einem Gebäude ihre Position leicht verlagern, wenn es von dort bequemer ist, auf ein entdecktes Ziel zu feuern. Beachten Sie, dass die Sicht durch Wände eingeschränkt sein kann. Das kann für einen Hinterhalt nützlich sein, erschwert aber den Überblick über das Gefecht.
+
+[Submission_5.Objectives]
+Den feindlichen Panzer vernichten
+
+[Submission_5.Description]
+Ein deutscher Panzer rückt auf Ihre Stellungen zu. Finden Sie, vom Rauch geleitet, den Behälter mit dem Panzerabwehr-Granatwerfer und vernichten Sie den feindlichen Panzer.
+
+[Submission_5.Success]
+Der feindliche Panzer wurde vernichtet.
+
+[Submission_5.Failed]
+Auftrag gescheitert
+
+[StringTable.Submission_5.1]
+Ein deutscher Panzer rückt auf Ihre Stellungen zu. Finden Sie, vom Rauch geleitet, den Behälter mit dem Panzerabwehr-Granatwerfer und vernichten Sie den feindlichen Panzer. Der Behälter befindet sich neben dem ausgebrannten Lastwagen hinter und rechts von Ihren Stellungen; der Punkt ist mit rotem Rauch markiert. Bringen Sie einen Soldaten mit freiem Waffenplatz dorthin und öffnen Sie das Inventar {hkey:inventory} – es wird ein Fenster mit den Gegenständen in der Nähe des Soldaten angezeigt. Sie können Gegenstände per Doppelklick mit der linken Maustaste, durch Ziehen oder mit einer der Aufnahme-Schaltflächen aufnehmen. Der Soldat braucht einige Zeit, um die Gegenstände aufzunehmen. Um die Anzahl der Gegenstände festzulegen, halten Sie beim Übertragen STRG (ein Stück), SHIFT (ganzer Stapel) oder STRG+SHIFT (halber Stapel) gedrückt.
+
+[StringTable.Submission_5.2]
+Ist der Panzer zu weit entfernt, versuchen Sie, sich zu verbergen oder hinzulegen, damit der Panzer Ihre Soldaten nicht entdecken kann. Greifen Sie den Panzer an, wenn er näher kommt. Verwenden Sie die Schleich-Bewegungsmodi {hkey:setbodymodelay} und verbieten Sie die freie Bewegung {hkey:actionmode}, oder aktivieren Sie den Modus „Hinterhalt“ {hkey:ambush}.
+
+[StringTable.Submission_5.3]
+Um die größtmögliche Wirkung des „Bazooka“-Treffers zu erzielen, eröffnen Sie das Feuer bei etwa 2/3 oder 1/2 der maximalen Schussweite, die der gestrichelte Sektor anzeigt. Verbieten Sie dazu dem Soldaten mit der „Bazooka“ das Feuern {hkey:firemode}, lassen Sie den Panzer auf die erforderliche Entfernung herankommen und erlauben Sie das Feuern dann wieder {hkey:firemode}. Dann feuert der Soldat bei vorhandener Schusslinie von selbst. Geben Sie den direkten Befehl, den Panzer anzugreifen, kann der Soldat bei fehlender Schusslinie beginnen, sich dem Ziel zu nähern, was manchmal unerwünscht ist.
+
+[Submission_6.Objectives]
+Evakuieren
+
+[Submission_6.Description]
+Ein Fahrzeug zum Infanterietransport erbeuten. Das gesamte Personal in den Lastwagen laden und ihn dann zum Evakuierungspunkt fahren.
+
+[Submission_6.Success]
+Personal evakuiert.
+
+[Submission_6.Failed]
+Auftrag gescheitert
+
+[Submission_7.Objectives]
+Evakuieren
+
+[Submission_7.Description]
+Das gesamte Personal aus dem Dorf zum Evakuierungspunkt evakuieren.
+
+[Submission_7.Success]
+Das Personal hat den Evakuierungspunkt erreicht
+
+[Submission_7.Failed]
+Auftrag gescheitert
+
+[Submission_8.Objectives]
+Evakuieren
+
+[Submission_8.Description]
+Sie müssen das Personal zum angegebenen Punkt evakuieren. Dazu können Sie ein Fahrzeug nutzen, das Sie mit der Verstärkungs-Schaltfläche anfordern können.
+
+[Submission_8.Success]
+Personal evakuiert
+
+[Submission_8.Failed]
+Auftrag gescheitert
+
+[Submission_9.Objectives]
+Die Panzer mit Luftunterstützung vernichten
+
+[Submission_9.Description]
+Sie müssen Erdkampfflugzeuge anfordern und die aus südwestlicher Richtung heranrückenden Panzer vernichten. Damit die Erdkampfflugzeuge erfolgreich zum Ziel geleitet werden können, müssen sich die Panzer in direkter Sichtlinie der Infanterie befinden.
+
+[Submission_9.Success]
+Panzer vernichtet!
+
+[Submission_9.Failed]
+Auftrag gescheitert
+
+[StringTable.Submission_9]
+Sie müssen Erdkampfflugzeuge anfordern und die aus südwestlicher Richtung heranrückenden Panzer vernichten. Damit die Erdkampfflugzeuge erfolgreich zum Ziel geleitet werden können, müssen sich die Panzer in direkter Sichtlinie der Infanterie befinden. Die Flugzeuge brauchen einige Zeit, um das Ziel zu erreichen. Nach dem Angriff auf ein Ziel fliegen sie einen zweiten Anflug und greifen das nächste an.

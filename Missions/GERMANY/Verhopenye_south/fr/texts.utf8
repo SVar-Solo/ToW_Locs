@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Percez les défenses ennemies aux abords de Verkhopenié.
+[Mission.Description]
+La Grossdeutschland poursuit l'assaut sur Syrtsevo et, une fois celui-ci occupé, perce vers le nord en direction de Verkhopenié et nettoie les deux rives de la Péna. L'équipe de combat, renforcée par les chars de la brigade de Strachwitz, avancera vers Syrtsevo et Verkhopenié le long de la rive est de la Péna, puis atteindra la rive ouest. 
+[Submission_1.Objectives]
+Sous la pression de notre artillerie et de notre aviation, l'ennemi a abandonné la première ligne de défense dans la panique. L'avant-garde doit occuper rapidement les positions abandonnées et les tenir jusqu'à l'arrivée des forces principales. 
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+L'avant-garde a été repoussée par l'ennemi.
+[Mission.Success]
+Mission accomplie. Le poste de commandement ennemi a été détruit.
+[Mission.Failed]
+Nous avons échoué à exécuter nos ordres. L'ennemi est trop fort !
+[Submission_2.Objectives]
+Repoussez les contre-attaques ennemies et occupez la seconde ligne de défense russe.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+L'attaque est étouffée, un soutien immédiat est nécessaire.
+[Submission_3.Objectives]
+Franchissez la Péna et détruisez le poste de commandement ennemi.
+[Submission_3.Success]
+Mission accomplie.
+[Submission_3.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire.
+[StringTable.first_support]
+Un groupe composé d'infanterie, de chars et d'artillerie est désormais sous votre commandement.
+[StringTable.second_support]
+Des chars et des canons d'assaut ont été placés sous votre commandement.
+[StringTable.Inf]
+Infanterie
+[StringTable.Tanks]
+Chars
+[StringTable.SPG_close]
+Canons d'assaut StuG 40G
+[StringTable.SPG_open]
+Artillerie automotrice
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

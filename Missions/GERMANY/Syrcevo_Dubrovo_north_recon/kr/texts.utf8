@@ -1,0 +1,29 @@
+﻿[Mission.Objectives]
+적 대공포 포대를 찾아 파괴하라.
+[Mission.Description]
+사단장이 방공 지휘소를 파괴하고 최대한 많은 대공포를 무력화할 파괴 정찰조를 파견하라고 명령했다. 슈타이너 하사가 숙련된 병사들을 모아 임무를 이끈다.
+[Submission_1.Objectives]
+슈타이너의 조는 적 대공포 포대 진지에 침투하여 이를 제거해야 한다. 마을의 한 가옥에 송신기가 있다. 그것으로 항공 지원을 요청하라.
+[StringTable.radio_avia]
+적 무전기를 확보했다. 항공 지원이 지휘관의 통제하에 들어왔다.
+[StringTable.radio_mortar]
+적 무전기를 확보했다. 박격포 사격을 사용할 수 있다.
+[Submission_1.Success]
+슈타이너의 조 보고: 대공포 포대를 파괴했다. 
+[Submission_1.Failed]
+슈타이너의 조가 전사했다. 사단장의 명령을 완수하지 못했다.
+[Mission.Success]
+파괴 정찰조가 임무를 완수했다. 지상공격기의 지원을 기다린다.
+[Mission.Failed]
+파괴 정찰조가 전사했다. 적의 강력한 방공망 때문에 항공기를 사용할 수 없다.
+[StringTable.Radio_avia_dis]
+기지와의 통신이 끊겼다. 항공 지원을 요청할 수 없다.
+[StringTable.Radio_mortar_dis]
+통신이 끊겼다. 사격 관측 없이는 사격할 수 없다.
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Libérez le village de Tourmauville, sécurisez les points de passage de l’Odon et nettoyez les deux rives de toute présence ennemie.
+[Mission.Description]
+Pour tenter de stopper notre avance, l’ennemi a installé ses défenses aux points de passage de l’Odon, droit devant. Nous devons sécuriser les passages et éliminer toutes les forces hostiles.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Le pont près de Tourmauville.
+[Submission_1.Description]
+Un pont stratégique sur l’Odon se trouve au sud de Tourmauville.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Un autre pont, plus au sud.
+[Submission_2.Description]
+C’est un autre pont stratégique. Il devrait nous permettre de prendre l’ennemi de flanc et de lancer une attaque sur les arrières des défenseurs de Tourmauville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Libérez Tourmauville.
+[Submission_3.Description]
+L’ennemi a consolidé sa position à Tourmauville et pris le contrôle des points de passage de la rivière et des autres accès. Nous devons chasser l’ennemi du village.
+[Submission_4.Objectives]
+Le carrefour.
+[Submission_4.Description]
+Le carrefour et les Panther.
+[Submission_1.Success]
+Mission accomplie. Le point de passage de Tourmauville est sécurisé.
+[Submission_1.Failed]
+Mission non accomplie.
+[Submission_2.Success]
+Tâche accomplie. Pont sécurisé.
+[Submission_2.Failed]
+Mission non accomplie.
+[Submission_3.Success]
+Tâche accomplie. Tourmauville prise.
+[Submission_3.Failed]
+Mission non accomplie.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission non accomplie.
+[StringTable.Tanks]
+Force de réserve disponible.

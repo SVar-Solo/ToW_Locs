@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Stop the enemy attack.
+[Submission1.Description]
+After many long battles and weeks of combat, the Americans have launched a  massive offensive to destroy Panzer Lehr once and for all. You have fought well commander and your troops have done the Fatherland proud, but it will be all for naught if you fail at this critical moment. Again, you are outnumbered, but that is our fate and you must overcome once more!
+ 
+ Your orders:
+- Stop the enemy attack.
+[Submission1.Success]
+Well done Commander! The enemy attack has been stopped and your troops will live to continue the fight.
+[Submission1.Failed]
+Mission failed! Your army has been defeated and was unable to halt the Americans.
+[Submission2.Objectives]
+Repulse all enemy attacks.
+[Submission2.Description]
+Our advance scouts have detected an American task force approaching from the North. We must not allow them to advance any further. Hold them back Commander!
+ 
+Your orders:
+- Repulse enemy attacks.
+[Submission2.Success]
+Well done Commander! The enemy attacks have been repulsed.
+[Submission2.Failed]
+Mission failed! Your army is eliminated.

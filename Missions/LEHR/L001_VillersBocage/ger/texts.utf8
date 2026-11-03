@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Verteidigen Sie die markierten Bereich.
+[Mission.Description]
+Ihre Truppen, Teil der Panzer Lehr Division, befinden sich nordöstlich von Villers-Bocage. Sie bilden die linke Flanke der Division. Am Morgen des 13. Juli 1944 griffen sie Hauptkräfte der 7. Panzer Division der Britischen Armee an, mit dem Ziel die Stellungen der Panzer Lehr Division aus dem Norden und Nordosten zu flankieren, und Villers-Bocage einzunehmen. Als Teil ihres Plans führen die Briten einige Panzervorstösse auf der linken Flanke aus, um mögliche Verstärkungen zu binden.
+Ihre Aufgabe ist es zu verhindern, dass die gegnerischen Panzer tief in Ihre Verteidigungslinien eindringen können, denn das könnte zu einer Umzingelung der Hauptkräfte der Division führen, oder gar der totalen Zerschlagung.
+
+Ihre Befehle lauten:
+- verhindern Sie einen Durchbruch der feindlichen Panzer tief in Ihre Verteidigungslinien.
+[Mission.Success]
+Gute Arbeit!
+[Mission.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!
+[Submission_1.Objectives]
+Schlagen Sie die feindlichen Angriffe zurück.
+[Submission_1.Description]
+Der Feind kann mit Panzern und Flugzeugen aus mehreren Richtungen angreifen. Das Hauptproblem ist, dass die Verteidigungslinie Ihrer Armee sehr dünn und zerstreut ist.
+
+Ihre Befehle lauten:
+- bauen Sie eine Verteidigungslinie auf, und zwar so, dass alle möglichen Richtungen abgedeckt sind.
+- halten Sie Ihre eigenen Verluste so gering wir möglich.
+- Schlagen Sie die gegnerischen Angriffe zurück. 
+[Submission_1.Success]
+Gute Arbeit! Die feindlichen Angriffe wurden zurückgeschlagen.
+[Submission_1.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.
+[Submission_2.Objectives]
+Führen Sie einen Gegenangriff gegen den zurückweichenden Feind aus.
+[Submission_2.Description]
+Der Feind hat empfindliche Verluste erlitten und zieht sich zurück. Nutzen Sie Ihre Reservepanzer zur Verfolgung und machen Sie die Zerstörung der feindlichen Einheiten komplett.
+
+Ihre Befehle lauten:
+- führen Sie einen Gegenangriff gegen den fliehenden Feind aus.
+[Submission_2.Success]
+Gute Arbeit! Die feindlichen Truppen sind geschlagen.
+[Submission_2.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!
+[StringTable.tanks_reserv]
+Panzer aus der HQ Reserve sind zu Ihnen gestossen.

@@ -1,0 +1,121 @@
+﻿[StringTable.1]
+Camera control:
+Use {hkey:cameramoveforward}, {hkey:cameramovebackward}, {hkey:cameramoveleft}, {hkey:cameramoveright} to shift the camera. Rotation is activated by pressing the mouse wheel. In free mode, the camera rotates around its own axis, while rotating the mouse wheel sets the camera height vertically. In center-attached mode, the camera rotates around a point on the terrain in front of the camera, and rotating the mouse wheel shifts the camera forward/backward relative to that point. You can quickly switch the camera mode with {hkey:cameratypeswitch}. Holding CTRL and rotating the mouse wheel changes the camera's field of view. Holding SHIFT makes the camera move faster.
+
+[StringTable.1.1]
+Move the squad to the sandbag cover.
+The left mouse button is used to select troops and choose commands on the control panel; the right button is used to issue orders. Depending on the object you right-click on, the troops will perform one action or another.
+
+[StringTable.1.2]
+Select the entire squad by holding down the left mouse button and sliding the mouse so that all the soldiers are inside the frame that appears, then release the mouse button. You can also select a squad by double-clicking on any of the squad members (or by holding down the ALT key). Then specify the point of movement by right-clicking on the destination.
+To move the entire squad behind the shelter of the bags, you need to specify the point of movement for each soldier individually or use the "free" formation.
+[StringTable.2]
+Man the machine-gun post:
+Select one or two soldiers from the squad by left-clicking on them (hold the SHIFT button to select more than one). Then place the cursor on the heavy-machine gun (the cursor will change to indicate embarking) and right-click. The selected soldiers will crew the heavy machine gun and automatically take their positions. 
+[StringTable.3]
+Eliminate the enemy squad: 
+When your soldiers see enemy soldiers they independently start to fire on them. You can also assign specific fire orders to each soldier individually (place the cursor on the target and right-click). 
+[StringTable.4]
+Use the sniper to eliminate the gun crew.
+To order a sniper to attack a gun crew member, place the cursor on one of them and right-click. To avoid mistaking your target, check the pop-up auxiliary panel showing the characteristics of soldiers and equipment under the cursor. You can also use the "Attack" {hkey:attack} and "Area fire" {hkey:groundattack} commands, aiming the cursor at a specific point (for example, the head of a gun crew member - a special target marker will be displayed).
+If the sniper cannot hit the gun crew, try to approach from the other side.
+[StringTable.5]
+Capture the gun:
+Select the soldiers then place the cursor on the gun (the cursor will change to an “embark” icon) and right-click. Your soldiers will start running towards the gun to capture it. 
+[StringTable.6]
+Attach the gun to the truck and move it to the southwest towards the haystack.
+Select the vehicle, then click the "Hook" button with the hook icon in the right corner of the game menu ({hkey:attachdetach}), then place the cursor on the gun and right-click. The vehicle will approach the gun, and the soldiers will attach it to the vehicle.
+The vehicle will approach and the soldiers will attach the gun to the vehicle. Place the gun crew inside the car (embarking soldiers is similar to the way you crewed the heavy machine gun earlier).
+Then select the vehicle and right-click on the target waypoint to move it. 
+
+[StringTable.7]
+Destroy one of the enemy tanks.
+When your soldiers see enemy tanks, they will independently start firing at them with the gun. You can also assign a target to fire at and choose the firing direction.
+You can switch the firing mode for specific parts of the tank: turret {hkey:attackup}, free part {hkey:attackmedium}, or tracks {hkey:attackdown}.
+[StringTable.8]
+Capture the tank.
+Capturing a tank is similar to placing soldiers into a vehicle.
+Select the squad, then place the cursor on the tank (an icon will light up indicating interaction between soldiers and this type of equipment) and right-click on it. Your soldiers will run to man the tank.
+
+[StringTable.9]
+Order an artillery strike at the enemy position:
+The artillery support icon appears above bottom game panel. 
+Click on the icon and then right-click to indicate the desired target. 
+You can also specify the area of fire by holding down the right mouse button. 
+[StringTable.10]
+Request air support in the specified area.
+An icon indicating air support will appear above the bottom interface panel.
+Click the air support icon and indicate the target location. 
+There are 5 types of aviation:
+- scouts - conduct reconnaissance around a single point for a limited time;
+- bombers - drop bombs on the specified point and return to base;
+- fighters - patrol the sky around the specified point, attacking enemy aircraft, and perform an attack on ground targets before returning to base;
+- attack aircraft - attack ground targets closest to the specified point, or search for targets independently;
+- dive bombers - attack targets with bombs from a steep dive, then attack like regular attack aircraft.
+
+[StringTable.11]
+Use the captured tank to destroy the enemy armored vehicle and enemy infantry squad.
+Using the "Fire mode" button {hkey:firemode}, you can prohibit or allow the tank to fire without orders.
+
+[StringTable.Pause]
+To resume from pause, press the "{hkey:pause}" key.
+
+[StringTable.Pos]
+You are moving in the wrong direction.
+
+[Submission.Objectives]
+Complete the basic training!
+[Submission.Description]
+Soldier! You have joined the ranks of the Red Army! Before leaving for the front you need to complete the basic training. You must complete the following tasks set by the commander:
+
+- Move your squad to the sand bag cover and use your soldiers to capture the machine-gun.
+- Use the sniper team to eliminate the gun crew, then capture the gun. 
+- Destroy an enemy tank.
+- Learn how to use grenades.
+[Submission.Success]
+You have completed basic training!
+[Submission.Failed]
+Unfortunately you have failed basic training!
+[StringTable.Fail]
+You have failed basic training. Restart the training mission.
+[StringTable.Sniper]
+Compare the skills of the two snipers. One sniper has high ‘Marksman’ and ‘Scout’ ratings; the other is rated in the two disciplines as ‘low’. The higher the ratings, the more experienced the soldier.
+The ‘Marksman’ skill shows how accurate your soldier is in firing small arms. The ‘Scout’ skill shows how skilled the soldier is in spotting enemies at a distance but also at the same time how difficult it is for the enemy to spot him. 
+After each completed mission, you can increase your soldier’s experience, thus increasing their skills during the campaign.  
+[StringTable.Mine]
+The enemy soldiers stumbled into a mine field!
+There are several types of mine-fields with either anti-tank or anti-personnel mines.
+[StringTable.Win]
+Task completed!
+[StringTable.Car]
+To unhook the gun from the vehicle, select the vehicle to which the gun is attached and press the "Unhook" button {hkey:attachdetach} - the gun will be detached from the vehicle. Then disembark the soldiers from the vehicle (select the vehicle and press the "Disembark" button {hkey:evacuate}). To have the soldiers man the gun, select them and right-click on the gun.
+
+[StringTable.33]
+It is much more difficult for the enemy to hit soldiers who are lying prone. To order soldiers to lie down, press the "Crawl" button {hkey:setbodymodelay}.
+To prevent your soldiers from moving on their own, change the behavior mode with the "Restrict/allow free movement" button {hkey:actionmode}.
+[StringTable.Pani]
+The enemy tank crew panicked (low morale) and bails out!
+
+[StringTable.SM7_GrenadeTraining_HE]
+Use hand grenades to eliminate the armored vehicle crew.
+You now have 2 soldiers with hand-held anti-personnel grenades under your control. Such grenades cannot seriously damage armored vehicles, but they are effective against open crews, gun crews, infantry and vehicles.
+Obstacles weaken the blast wave and stop fragments, so the grenade must be thrown into the middle of the vehicle. Bring the soldier closer, activate the "Area fire" {hkey:groundattack} or "Attack" {hkey:attack} command and right-click in the center of the armored vehicle — a yellow or red crosshair marker will be displayed and your soldier will throw a grenade at that point.
+
+[StringTable.SM7_GrenadeTraining_HE_end]
+The armored vehicle crew has been eliminated.
+
+[StringTable.SM7_GrenadeTraining_AT]
+Use anti-tank grenades to eliminate the enemy tank.
+You now have 2 soldiers with hand-held anti-tank RPG-40 grenades at your disposal. These grenades detonate on impact with an obstacle and breach armor with the blast wave; their fragmentation effect is weak. Such a grenade contains an impressive amount of explosive, sufficient to damage the roof or rear of many tanks, but far from all.
+Bring the soldier closer to the tank from the rear side, activate the "Area fire" {hkey:groundattack} or "Attack" {hkey:attack} command and right-click in the area behind the turret — this is the tank's most vulnerable spot.
+
+[StringTable.SM7_GrenadeTraining_AT_end]
+The tank has been eliminated.
+
+[StringTable.SM7_GrenadeTraining_HEAT]
+Use hand-held HEAT grenades to eliminate the enemy tank.
+You now have 2 soldiers with hand-held RPG-43 HEAT grenades at your disposal. These grenades also detonate on impact with an obstacle, but penetrate armor via a cumulative jet, which has far greater penetrating capability than the RPG-40 grenade, but comparatively less damage.
+Enable the "Damage info mode" {hkey:SwitchDamageMessagesMode} to see penetration vectors and pop-up messages about internal damage — this applies to any shells in the game. Similarly, bring the soldier closer to the tank from the rear, activate the "Area fire" {hkey:groundattack} or "Attack" {hkey:attack} command and right-click in the area behind the turret — there is a high chance of setting the tank on fire by hitting the engine or fuel tank.
+
+[StringTable.SM7_GrenadeTraining_HEAT_end]
+The tank has been eliminated.

@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Zerstören Sie die feindliche Artillerie.
+[Submission1.Description]
+Jedes Artilleriegeschütz stellt eine Gefahr für unsere Truppen dar, die sich auf eine grosse Offensive vorbereiten. Greifen Sie mit Ihren Panzern die feindlichen Artillerie Stellungen an.   
+
+Ihre Befehle:
+-	 Zerstören Sie die feindliche Artillerie.
+[Submission1.Success]
+Die Artillerie wurde zerstört!
+[Submission1.Failed]
+Die feindliche Artillerie ist aufgrund Ihres Fehlschlags weiterhin eine Gefahr für unsere Einheiten.
+[Mission1.Objectives]
+Zerschlagen Sie die feindlichen Verteidigungslinien.
+[Mission1.Description]
+Die zurückweichenden Alliierten Divisionen sind in einem Gebiet um Gravlin, Arras und Brügge eingepfercht. Armeegruppe A und Armeegruppe B haben von Osten und Südosten aus angegriffen. Die Briten haben Ihre Evakuierung von Dünkirchen nach England begonnen. Französische Einheiten decken den englischen Rückzug mit ihren Verteidigungsstellungen am Rande der Stadt. Sie dürfen nicht zulassen, dass die feindlichen Einheiten über die See entkommen können. Zerstören Sie sie mit aller Eile!      
+
+Ihre Befehle: 
+-	 Säubern Sie die feindliche Verteidigungsstellung am Rande der Stadt mit Ihren zur Verfügung stehenden Einheiten.
+[Mission1.Success]
+Glückwunsch! Sie haben einen Sieg über die Franzosen errungen! Durch Ihren Sieg können wir vielleicht noch die englischen Einheiten abfangen bevor sie alle evakuieren können.
+[Mission1.Failed]
+Leider haben Sie verloren! Die Franzosen haben es geschafft, ihre Verteidigungsstellung zu halten und die Briten haben einen weiteren Tag lang ungehindert evakuieren können. 
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

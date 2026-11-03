@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Wyrwij się z okrążenia.
+[Mission.Description]
+Do połowy lipca większość Francji znalazła się pod okupacją wojsk niemieckich. Niemieckie dywizje pancerne przełamały francuskie linie obrony i szybkim uderzeniem dotarły do wybrzeża. Paryż upadł 14 czerwca, a rząd francuski uciekł do Bordeaux.
+
+Cel:
+-	wyrwać się z okrążenia.
+[Mission.Success]
+Misja wykonana!
+[Mission.Failed]
+Misja nieudana! Twoi żołnierze polegli!
+[Submission1.Objectives]
+Ocal francuskich żołnierzy.
+[Submission1.Description]
+Mały oddział francuskiej piechoty jest okrążony i ukrywa się na odosobnionym gospodarstwie. Zbliża się niemiecka piechota.
+
+Cel:
+- 	ocalić francuskich żołnierzy przed śmiercią.
+[Submission1.Success]
+Misja wykonana!
+[Submission1.Failed]
+Misja nieudana!
+[Submission2.Objectives]
+Przeprowadź rozpoznanie terenu.
+[Submission2.Description]
+Wyślij snajpera, aby przeprowadził rozpoznanie terenu.
+
+Otrzymany rozkaz:
+- 	przeprowadzić rozpoznanie terenu.
+[Submission2.Success]
+Rozkaz dowództwa wykonany!
+[Submission2.Failed]
+Rozkaz dowództwa niewykonany

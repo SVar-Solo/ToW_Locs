@@ -1,0 +1,30 @@
+﻿[Mission.Objectives]
+Embote o inimigo
+[Mission.Description]
+Tenente-Coronel Waters! O senhor deve embotar o ataque inimigo a Tebessa.
+[Mission.Success]
+A ordem foi cumprida! O inimigo não conseguiu romper até Tebessa.
+[Mission.Failed]
+O inimigo rompeu nossas defesas e avança rapidamente para Tebessa.
+[StringTable.Reinf]
+Coronel Waters! Os reforços estão a caminho. Aguente firme!
+[Submission1.Objectives]
+Mantenha a linha
+[Submission1.Description]
+Mantenha a linha! O inimigo não deve romper o desfiladeiro!
+[Submission1.Success]
+O inimigo foi derrotado e está fugindo!
+[Submission1.Failed]
+O inimigo rompeu as defesas! Nossas tropas recuam para Tebessa.
+[StringTable.Woters]
+Soldados, ação! Não devemos ceder ao inimigo!
+[StringTable.Woters1]
+Lá vêm os alemães.
+[StringTable.Woters2]
+Os reforços chegaram.
+[StringTable.Woters3]
+Maldição! Os alemães neutralizaram a artilharia na altura.
+[StringTable.tank_spg]
+Tanques e Canhões Autopropulsados
+[StringTable.human]
+Infantaria.

@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Capture Hill 112.
+[Mission.Description]
+Capture and hold Hill 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Secure the south-western slope.
+[Submission_1.Description]
+Dislodge the enemy from the south-western slope.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Secure the eastern slope.
+[Submission_2.Description]
+Dislodge the enemy from the eastern slope.
+[Submission_3.Objectives]
+Secure the farm in the northern part of the village.
+[Submission_3.Description]
+The enemy occupying the farm can lay down flanking fire on our troops advancing along Hill 112.
+[Submission_4.Objectives]
+Liberate the village on the south-western slope.
+[Submission_4.Description]
+The enemy in the village can effectively support their troops positioned on the south-western slope.
+[Submission_5.Objectives]
+Eliminate the counterattacking enemy tanks.
+[Submission_5.Description]
+The enemy is attempting to drive us off with a heavy tank counterattack.
+[Mission.Success]
+Hill 112 liberated.
+[Mission.Failed]
+Failed to accomplish the task.
+[Submission_1.Success]
+South-western slope has been cleared.
+[Submission_1.Failed]
+Failed to accomplish the task.
+[Submission_2.Success]
+Enemy dislodged from the eastern slope.
+[Submission_2.Failed]
+Failed to accomplish the task.
+[Submission_3.Success]
+Farm secured.
+[Submission_3.Failed]
+Failed to accomplish the task.
+[Submission_4.Success]
+Village liberated.
+[Submission_4.Failed]
+Failed to accomplish the task.
+[Submission_5.Success]
+Counterattack repelled.
+[Submission_5.Failed]
+Failed to accomplish the task.
+[StringTable.Tanks]
+Reserve force available.

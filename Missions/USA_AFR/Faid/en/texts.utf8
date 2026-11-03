@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Prevent the German troops from breaking through
+[Mission.Description]
+Lieutenant Colonel Waters! The German troops must not break through to the west.
+[Mission.Success]
+The German offensive has been stopped.
+[Mission.Failed]
+We have failed!
+[Submission1.Objectives]
+Hold the line
+[Submission1.Description]
+Hold the line at Sidi Bou Zid.
+[Submission1.Success]
+The enemy has been defeated and is retreating!
+[Submission1.Failed]
+The enemy has crushed the defenses! Retreat!
+[Submission2.Objectives]
+Hold on
+[Submission2.Description]
+Hold until reinforcements arrive.
+[Submission2.Success]
+Reinforcements have arrived!
+[Submission2.Failed]
+[Submission3.Objectives]
+Immediately send tanks to the left flank to close the breach!
+[Submission3.Description]
+[Submission3.Success]
+Enemy breach has been closed!
+[Submission3.Failed]
+[StringTable.Army3]
+The enemy is breaking through on the left flank! Immediately send tanks to close the breach!
+[StringTable.Enemy]
+Germans! Act now!
+[StringTable.Avia]
+Air alert!
+[StringTable.Obhod]
+The enemy is flanking us from the north!
+[Submission4.Objectives]
+Attack enemy troops
+[Submission4.Description]
+Attack the flanking enemy troops.
+[Submission4.Success]
+The enemy is retreating!
+[Submission4.Failed]
+[StringTable.tank]
+Тanks
+[StringTable.human]
+Infantry

@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Libere Mondrainville, avance hacia el sur, asegure la carretera a Caen y elimine todos los puntos fuertes enemigos.
+[Mission.Description]
+Avance, bloquee la carretera a Caen y despeje de enemigos la zona que rodea Mondrainville.
+[Submission_01.Success]
+Mondrainville capturada.
+[Submission_01.Failed]
+No se ha logrado capturar Mondrainville.
+[Submission_1.Objectives]
+Expulse al enemigo de la granja.
+[Submission_1.Description]
+Según el reconocimiento aéreo, hay una batería de artillería enemiga en la granja. Elimínela.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Rechace el ataque enemigo contra Mondrainville.
+[Submission_3.Description]
+En un intento de mantener Mondrainville, el enemigo envía refuerzos.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Asegure la carretera a Caen.
+[Submission_2.Description]
+Desaloje al enemigo del grupo de edificios situado junto a la carretera a Caen.
+[Submission_3.Success]
+Ataque rechazado.
+[Submission_3.Failed]
+Misión fallida.
+[Submission_1.Success]
+Batería de artillería eliminada. Granja asegurada.
+[Submission_1.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_2.Success]
+Carretera asegurada.
+[Submission_2.Failed]
+No se ha logrado cumplir la tarea.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[StringTable.Tanks]
+Fuerza de reserva disponible.

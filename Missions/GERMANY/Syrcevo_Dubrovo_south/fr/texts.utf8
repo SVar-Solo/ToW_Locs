@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+Prenez le point d'appui ennemi et assurez l'engagement des forces suivantes.
+[Mission.Objectives]
+L'équipe de combat progressera vers Doubrovo. Battez l'ennemi au point d'appui, puis atteignez la périphérie est du village. Détruisez les défenses ennemies dans le secteur de percée. Sécurisez les zones de déploiement des renforts.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Nous avons échoué à exécuter nos ordres. L'ennemi est trop fort ! 
+[StringTable.Smoke]
+Le flanc gauche sera couvert par un barrage fumigène. Désignez l'arc de tir du second barrage fumigène.
+[Submission1.Objectives]
+Prenez l'un des points d'appui ennemis afin de rompre son système de feux.
+[Submission2.Objectives]
+Repoussez les contre-attaques ennemies. Assurez l'engagement des forces suivantes.
+[Submission1.Success]
+Mission accomplie.
+[Submission1.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire.
+[Submission2.Success]
+Mission accomplie, les renforts ont pénétré dans le périmètre défensif ennemi.
+[Submission2.Failed]
+Nos forces se replient sous la pression de l'ennemi.
+[StringTable.SM11]
+Le point d'appui 1 est pris.
+[StringTable.SM12]
+Le point d'appui 2 est pris.
+[StringTable.SM13]
+Le point d'appui 3 est pris.
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

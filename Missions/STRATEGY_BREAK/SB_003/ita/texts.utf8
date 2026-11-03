@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Attraversate il fiume e avanzate verso nord.
+[Mission.Description]
+ Parigi è caduta il 14 giugno e il governo francese è fuggito a Bordeaux. Alcune unità militari e guarnigioni francesi continuano a combattere. La resistenza deve continuare: l'esercito non è sconfitto finché l'ultimo soldato non smette di combattere!
+[Mission.Success]
+Missione compiuta
+[Mission.Failed]
+Missione fallita!
+[Submission_1.Objectives]
+Attraversate un ponte per raggiungere l'altra sponda del fiume.
+[Submission_1.Description]
+Attraversate un ponte per raggiungere l'altra sponda del fiume.
+[Submission_1.Success]
+Missione compiuta
+[Submission_1.Failed]
+Missione fallita!
+[Submission_2.Objectives]
+Raggiungete il settore settentrionale.
+[Submission_2.Description]
+Raggiungete il settore settentrionale.
+[Submission_2.Success]
+Missione compiuta
+[Submission_2.Failed]
+Missione fallita!

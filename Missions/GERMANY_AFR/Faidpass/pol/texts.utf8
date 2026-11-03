@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+Wdarcie się do miasta
+[Mission.Description]
+Witam, majorze, wiążę z pańską grupą wielkie nadzieje. Będzie pan głównym kierunkiem natarcia i pierwszym, który wedrze się do miasta, by odnieść zwycięstwo. Dane rozpoznania lotniczego wskazują na koncentrację armat przeciwpancernych na północy. Ale musi pan posuwać się szybko, by wróg nie miał czasu ściągnąć posiłków. Niech Bóg i Rzesza Niemiecka będą z panem!
+[Mission.Success]
+Zadanie główne wykonane.
+[Mission.Failed]
+Misja nieudana!
+[Submission_1.Objectives]
+Zdobądź miasto
+[Submission_1.Description]
+Zdobądź Sidi Bou Zid.
+[Submission_1.Success]
+Misja wykonana.
+[Submission_1.Failed]
+Misja nieudana!
+[Submission_2.Objectives]
+Zniszcz wrogie czołgi
+[Submission_2.Description]
+Zniszcz wrogie czołgi.
+[Submission_2.Success]
+Wrogie czołgi zostały zniszczone.
+[Submission_2.Failed]
+Misja nieudana!
+[StringTable.]
+Panie majorze, zauważono czołgi amerykańskie.
+[StringTable.Us_Tanks_isVis]
+Panie majorze, zauważono czołgi amerykańskie.
+[Submission_3.Objectives]
+Odeprzyj kontratak
+[Submission_3.Description]
+Sidi Bou Zid jest nasze. Ale nasi piloci meldują, że wróg aktywnie przygotowuje kontratak na wschód od miasta. Siły wroga obejmują czołgi i piechotę. Musimy podjąć wszelkie środki i odeprzeć kontratak na miasto. 
+[Submission_3.Success]
+Kontratak wroga został odparty.
+[Submission_3.Failed]
+Utraciliśmy Sidi Bou Zid.
+[StringTable.INF]
+Panie majorze, Tygrysy, które szły panu z pomocą, zostały zniszczone. Obejmij dowództwo nad piechotą eskortującą.
+[StringTable.Infantry]
+Panie majorze, Tygrysy, które szły panu z pomocą, zostały zniszczone. Obejmij dowództwo nad piechotą eskortującą.
+[StringTable.Infantry_change]
+Panie majorze, obejmij dowództwo nad piechotą eskortującą.

@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Gli americani sono in arrivo dalla direzione del punto 2: attaccateli prima che ci raggiungano! Lasciate che ve lo ricordi ancora una volta: fate del terreno il vostro potente alleato! Buona fortuna!
+[Mission.Success]
+L'evacuazione è stata completata con successo!
+[Mission.Failed]
+Tutti i "Tiger" sono stati abbattuti o distrutti, il nemico ha sfondato fino al villaggio prima che l'evacuazione fosse terminata. La missione è fallita!
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+Il primo attacco nemico è fallito, ma stanno impiegando le riserve dal punto 3. Resistete!
+[StringTable.IntroSubtitle1]
+Il maggiore Gerhard nella sua "Kübelwagen" ai comandanti dei "Tiger":
+[StringTable.IntroSubtitle2]
+Il nemico è molto forte, ma...
+[StringTable.IntroSubtitle3]
+lasciate che vi ricordi ancora una volta che...
+[StringTable.IntroSubtitle4]
+Il Tiger è quasi invulnerabile agli attacchi a lunga distanza.
+[StringTable.IntroSubtitle5]
+Il terreno ci permette di sparare da grande distanza, ...
+[StringTable.IntroSubtitle6]
+questa dovrebbe essere la nostra carta vincente.
+[StringTable.InfoSubtitle7]
+Buona fortuna, Herr Ofiziere! Avanti! Gott mit uns!
+[StringTable.InfoSubtitle8]
+Comandanti dei "Tiger": Zu Befehl!
+[StringTable.IntroSubtitle7]
+[StringTable.SubtitleWin1]
+Maggiore Gerhard: Ce l'hanno fatta! Del resto non mi aspettavo niente di meno.
+[StringTable.SubtitleWin2]
+Herren Ofiziere, mi congratulo con voi per la vittoria!
+[StringTable.SubtitleWin3]
+Anche se non posso permettervi di godervi il meritato riposo.
+[StringTable.SubtitleWin4]
+Mentre la nostra attenzione era attirata...
+[StringTable.SubtitleWin5]
+dagli americani, gli inglesi ci hanno aggirati.
+[StringTable.SubtitleWin6]
+Dovete contrattaccarli immediatamente.
+[StringTable.SubtitleWin7]
+Il destino del Reich è ancora una volta nelle nostre mani!
+[StringTable.SubtitleWin8]
+Equipaggi dei "Tiger": Zu Befehl!
+[StringTable.SubtitleFail1]
+Radio dei carri alleati: Niente prigionieri! Ammazzateli tutti!
+[StringTable.SubtitleFail2]
+Avete massacrato il mio amico Jimmy! Muori, f*****o bastardo!
+[StringTable.SubtitleFail3]
+Nessuna pietà per i bastardi! Schiacciateli!
+[StringTable.SubtitleFail4]
+Guardateli bruciare!

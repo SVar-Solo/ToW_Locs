@@ -1,0 +1,69 @@
+﻿[StringTable.]
+
+
+[StringTable.ArmyB_WIN]
+Sojusz nr 2 wygrywa!
+
+[StringTable.ArmyA_WIN]
+Sojusz nr 1 wygrywa!
+
+[StringTable.ArmyA_king_Hill_A]
+Sojusz nr 1 zdobył flagę A!
+
+[StringTable.ArmyA_king_Hill_B]
+Sojusz nr 1 zdobył flagę B!
+
+[StringTable.ArmyA_king_Hill_C]
+Sojusz nr 1 zdobył flagę C!
+
+[StringTable.ArmyA_king_Hill_D]
+Sojusz nr 1 zdobył flagę D!
+
+[StringTable.ArmyA_king_Hill_E]
+Sojusz nr 1 zdobył flagę E!
+
+[StringTable.ArmyB_king_Hill_A]
+Sojusz nr 2 zdobył flagę A!
+
+[StringTable.ArmyB_king_Hill_B]
+Sojusz nr 2 zdobył flagę B!
+
+[StringTable.ArmyB_king_Hill_C]
+Sojusz nr 2 zdobył flagę C!
+
+[StringTable.ArmyB_king_Hill_D]
+Sojusz nr 2 zdobył flagę D!
+
+[StringTable.ArmyB_king_Hill_E]
+Sojusz nr 2 zdobył flagę E!
+
+[StringTable.Hill_A_Lost]
+Flaga A została utracona!
+
+[StringTable.Hill_B_Lost]
+Flaga B została utracona!
+
+[StringTable.Hill_C_Lost]
+Flaga C została utracona!
+
+[StringTable.Hill_D_Lost]
+Flaga D została utracona!
+
+[StringTable.Hill_E_Lost]
+Flaga E została utracona!
+
+[StringTable.ArmyA_capture_ALL_flags]
+Sojusz nr 1 zdobył wszystkie flagi! Sojusz nr 2 ma 2 minuty na odzyskanie co najmniej jednej flagi, inaczej przegra misję.
+
+[StringTable.ArmyB_capture_ALL_flags]
+Sojusz nr 2 zdobył wszystkie flagi! Sojusz nr 1 ma 2 minuty na odzyskanie co najmniej jednej flagi, inaczej przegra misję.
+
+[StringTable.One_or_more_flags_lost]
+Utracono jedną lub więcej flag!
+
+[StringTable.rus]
+Posiłki
+
+[StringTable.ger]
+Posiłki
+

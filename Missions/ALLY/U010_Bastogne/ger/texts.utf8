@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Befreien Sie die Stadt Houffalize und vertreiben Sie den Feind von den Anhöhen.
+[Mission.Description]
+Endlich klarer Himmel nach Wochen mit Schnee und schlechtem Wetter, und jetzt kann das Armee Luftkorps endlich Luftunterstützung über den Ardennen fliegen. Patton's Panzer sind bis zur Stadt Bastogne durchgebrochen und haben die Truppen dort verstärkt, die verbissen ausgehalten hatten. Jetzt da Bastogne gesichert ist, ist es Zeit die Deutschen zurückzuwerfen und die Schlacht in den Ardennen zu beenden.
+
+Ihre Befehle lauten:
+-	 Greifen Sie den Feind in Houffalize an und vertreiben Sie ihn.
+-	 Setzen Sie Ihren Vormarsch in Richtung der Anhöhen fort und zerschlagen Sie die Verteidigungslinien des Feindes.
+[Mission.Success]
+Sie haben gewonnen und die Deutschen vertrieben.
+[Mission.Failed]
+Sie haben die Schlacht verloren und dem Feind einen wichtigen Sieg geschenkt!
+[Submission_1.Objectives]
+Nehmen Sie die Stadt Houffalize ein.
+[Submission_1.Description]
+Nach den Überraschungsangriffen der Deutschen zu Beginn des Ardennen Feldzugs haben sich US Einheiten in und um die Stadt Bastogne eingegraben, die an einer wichtigen Kreuzung von 7 Hauptverkehrswegen lag. Elemente der 101. Fallschirm und 10. Panzerdivision schlugen verbissen einen Angriff nach dem anderen zurück, trotz der feindlichen Überlegenheit und des schlechten Wetters. Als der Himmel endlich aufklarte erreichte eine Vorhut von Patton's Armee die Stadt, und erste Gegenangriffe wurden gestartet, um die Deutschen zurückzutreiben.  
+
+Ihre Befehle:
+-	 Befreien Sie die Stadt Houffalize.
+[Submission_1.Success]
+Die Stadt ist unser!
+[Submission_1.Failed]
+Sie haben verloren. Sie konnten die Stadt nicht einnehmen.
+[Submission_2.Objectives]
+Machen Sie Ihren Sieg komplett und erobern Sie die Anhähen östlich von Houffalize.
+[Submission_2.Description]
+Östlich der Stadt liegen strategisch wichtige Hügel und Kammlinien. Vor vier Tagen haben die Deutschen diese Anhöhen zusammen mit der Stadt Houffalize erobert, und jetzt benutzen Sie unsere eigenen Befestigungen zu ihrer Verteidigung. 
+
+Ihre Befehle:
+-	 Zerstören Sie die feindlichen Stellungen auf dem Hügel.
+[Submission_2.Success]
+Die Hügel sind wieder in unserer Hand!
+[Submission_2.Failed]
+Sie haben verloren. Sie konnten die wichtigen Hügel um Houffalize nicht sichern.
+[StringTable.reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

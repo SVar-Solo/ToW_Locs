@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Wyzwól wieś Tourmauville, zabezpiecz przeprawy przez rzekę Odon i oczyść oba brzegi rzeki z wojsk wroga.
+[Mission.Description]
+Próbując powstrzymać nasze natarcie, wróg zorganizował obronę na przeprawach przez Odon przed nami. Musimy zabezpieczyć przeprawy i wyeliminować wszystkie wrogie siły.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Most koło Tourmauville.
+[Submission_1.Description]
+Strategiczny most przez Odon znajduje się na południe od Tourmauville.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Kolejny most, dalej na południe.
+[Submission_2.Description]
+To kolejny strategiczny most. Powinien pozwolić nam obejść wroga z flanki i uderzyć od tyłu na obrońców Tourmauville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Wyzwól Tourmauville.
+[Submission_3.Description]
+Wróg umocnił się w Tourmauville i przejął kontrolę nad przeprawami oraz innymi podejściami. Musimy wyprzeć wroga z wsi.
+[Submission_4.Objectives]
+Skrzyżowanie dróg.
+[Submission_4.Description]
+Skrzyżowanie dróg i Pantery.
+[Submission_1.Success]
+Misja wykonana. Przeprawa w Tourmauville zabezpieczona.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[Submission_2.Success]
+Zadanie wykonane. Most zabezpieczony.
+[Submission_2.Failed]
+Nie udało się wykonać zadania.
+[Submission_3.Success]
+Zadanie wykonane. Tourmauville zdobyte.
+[Submission_3.Failed]
+Nie udało się wykonać zadania.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Nie udało się wykonać zadania.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Liberare Mondrainville, spingersi verso sud, assicurare la strada per Caen ed eliminare tutti i capisaldi nemici.
+[Mission.Description]
+Avanzare, bloccare la strada per Caen e ripulire dal nemico l’area intorno a Mondrainville.
+[Submission_01.Success]
+Mondrainville conquistata.
+[Submission_01.Failed]
+Conquista di Mondrainville fallita.
+[Submission_1.Objectives]
+Scacciare il nemico dalla fattoria.
+[Submission_1.Description]
+Secondo la ricognizione aerea, presso la fattoria si trova una batteria d’artiglieria nemica. Eliminarla.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Respingere l’attacco nemico su Mondrainville.
+[Submission_3.Description]
+Nel tentativo di tenere Mondrainville, il nemico sta inviando rinforzi.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Assicurare la strada per Caen.
+[Submission_2.Description]
+Scacciare il nemico dal gruppo di edifici lungo la strada per Caen.
+[Submission_3.Success]
+Attacco respinto.
+[Submission_3.Failed]
+Missione fallita.
+[Submission_1.Success]
+Batteria d’artiglieria eliminata. Fattoria assicurata.
+[Submission_1.Failed]
+Compito non portato a termine.
+[Submission_2.Success]
+Strada assicurata.
+[Submission_2.Failed]
+Compito non portato a termine.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[StringTable.Tanks]
+Forza di riserva disponibile.

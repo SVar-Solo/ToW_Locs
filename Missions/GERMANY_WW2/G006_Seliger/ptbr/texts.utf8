@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Elimine as tropas inimigas na área especificada.
+[Mission1.Description]
+Nossas unidades estão localizadas perto do lago Seliger. O QG ordenou que penetremos fundo nas linhas russas e perturbemos uma ofensiva iminente. A inteligência também informa que os russos voltam a empregar seu novo e mortífero tanque modelo T-34.
+
+Suas ordens:
+- 	Lance uma ofensiva neste setor da frente.
+-	Elimine as tropas inimigas que assumiram postura defensiva na aldeia próxima.
+[Mission1.Success]
+Bom trabalho, Comandante! O inimigo foi totalmente derrotado. Agora podemos empurrar o 3º e o 4º Exércitos russos para fora de suas confortáveis posições defensivas de uma vez por todas!  
+[Mission1.Failed]
+O inimigo repeliu todos os seus ataques. Que vergonha para um oficial do Reich!
+[Submission1.Objectives]
+Bombardeie as posições inimigas.
+[Submission1.Description]
+Antes de lançar uma ofensiva geral, bombardeie as posições defensivas russas.
+
+Suas ordens:
+- 	Bombardeie as posições de defesa inimigas.
+[Submission1.Success]
+O bombardeio foi um sucesso. As tropas russas foram significativamente enfraquecidas!
+[Submission1.Failed]
+Sua barragem de artilharia foi ineficaz.
+[Submission2.Objectives]
+Ataque o batalhão russo de motoneves. 
+[Submission2.Description]
+Segundo o reconhecimento aéreo, motoneves inimigas se aproximam de nossas tropas pelo flanco. Lance imediatamente um ataque contra essas unidades móveis, caso contrário corremos o risco de ser cercados.
+
+Suas ordens: 
+-	 Ataque as unidades inimigas antes que elas possam cercar nossas forças.
+[Submission2.Success]
+As unidades de motoneves foram eliminadas!
+[Submission2.Failed]
+Suas tropas foram totalmente derrotadas. 
+[Submission3.Objectives]
+Ataque as tropas inimigas que avançam.
+[Submission3.Description]
+As tropas russas iniciaram uma ofensiva em larga escala, atingindo o ponto entre os Grupos de Exércitos Norte e Centro.   
+
+Suas ordens: 
+-	 Ataque as forças russas que avançam.
+[Submission3.Success]
+As tropas inimigas que avançavam foram totalmente derrotadas. Você certamente será recompensado! 
+[Submission3.Failed]
+Suas tropas foram eliminadas! Você fracassou em suas ordens!
+[StringTable.Reserv]
+Chegaram reforços para apoiá-lo.

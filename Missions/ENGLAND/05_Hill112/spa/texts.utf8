@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Capture la Colina 112.
+[Mission.Description]
+Capture y mantenga la Colina 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Asegure la ladera suroeste.
+[Submission_1.Description]
+Desaloje al enemigo de la ladera suroeste.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Asegure la ladera este.
+[Submission_2.Description]
+Desaloje al enemigo de la ladera este.
+[Submission_3.Objectives]
+Asegure la granja en la parte norte de la aldea.
+[Submission_3.Description]
+El enemigo que ocupa la granja puede disparar de flanco contra nuestras tropas que avanzan por la Colina 112.
+[Submission_4.Objectives]
+Libere la aldea de la ladera suroeste.
+[Submission_4.Description]
+El enemigo en la aldea puede apoyar eficazmente a sus tropas situadas en la ladera suroeste.
+[Submission_5.Objectives]
+Elimine a los tanques enemigos que contraatacan.
+[Submission_5.Description]
+El enemigo intenta expulsarnos con un fuerte contraataque de tanques.
+[Mission.Success]
+Colina 112 liberada.
+[Mission.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_1.Success]
+Ladera suroeste despejada.
+[Submission_1.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_2.Success]
+Enemigo desalojado de la ladera este.
+[Submission_2.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_3.Success]
+Granja asegurada.
+[Submission_3.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_4.Success]
+Aldea liberada.
+[Submission_4.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_5.Success]
+Contraataque rechazado.
+[Submission_5.Failed]
+No se ha logrado cumplir la tarea.
+[StringTable.Tanks]
+Fuerza de reserva disponible.

@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Wehren Sie den deutschen Angriff auf die Prokhorovka Bahnstation ab.
+[Mission1.Description]
+Die deutschen Truppen haben einen Angriff in diesem Frontabschnitt ausgeführt mit der Absicht, die Linien bei der Prokhorovka Bahnstation zu durchbrechen. Sollte die Station fallen dann werden sie nach Norden in Richtung Oboyan vorrücken um die Einheiten der Voronezh Front einzukesseln.
+
+Ihre Befehle: 
+-	 Wehren Sie den deutschen Angriff bei der Prokhorovka Station ab. 
+-	 Verhindern Sie, dass die Deutschen in diesem Frontabschnitt durchbrechen können.
+[Mission1.Success]
+Der feindliche Angriff wurde zurückgeschlagen!
+[Mission1.Failed]
+Der Feind ist durch unsere Verteidigungslinien gebrochen.
+[Mission2.Objectives]
+Benutzen Sie Ihre Panzereinheiten, um die vorrückenden Feindpanzer auszuschalten.
+[Mission2.Description]
+Der Feind ist erschöpft und die Situation hat sich nun zu unserem Vorteil gewendet. Aber weitere Panzereinheiten bewegen sich auf Prokhorovka zu. Teile der 5. Garde Panzerarmee sind unterwegs um Sie zu unterstützen.
+
+Ihre Befehle: 
+-	 Benutzen Sie alle verfügbaren Einheiten umd die feindlichen Truppen zu zerstören, die die Prokhorovka Station bedrohen.
+[Mission2.Success]
+Der Feind wurde zerschlagen - grossartige Leistung, Kommendant!
+[Mission2.Failed]
+Ihre Truppen wurden eliminiert und die Faschisten können jetzt ungehindert weiter vorrücken.
+[Submission1.Objectives]
+Halten Sie Ihre Verteidigungslinien bei der Prokhorovka Station.
+[Submission1.Description]
+Deutsche Panzer haben Prokhorovka erreicht und bereiten sich darauf vor, einen schweren Schlag gegen unsere Verteidigungsstellung in diesem Abschnitt durchzuführen. Aufklärungsberichte besagen, dass die Faschisten starke Kräfte zusammengetragen haben, also rechnen wir mit einem harten Kampf. Sie müssen obsiegen und die Deutschen vernichten.
+
+Ihre Befehle: 
+ -	 Benutzen Sie alle verfügbaren Einheiten umd die feindlichen Truppen zu zerstören, die die Prokhorovka Station bedrohen.
+[Submission1.Success]
+Der Kampf war hart aber Sie sind als Sieger hervorgegangen. Aufgrund Ihrer Anstrengungen können wir jetzt eine Gegenoffensive starten.
+[Submission1.Failed]
+Die deutschen Truppen sind durchgebrochen und kesseln unsere Einheiten ein! Die Schlacht um Kurk wurde zu einem Desaster für die Rote Armee!
+[StringTable.Reserv]
+Sie erhielten Verstärkungen.

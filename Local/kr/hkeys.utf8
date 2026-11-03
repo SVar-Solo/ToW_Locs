@@ -1,0 +1,107 @@
+﻿hkey.lowspeed	보병 속도 유지
+hkey.mining	지뢰 매설
+hkey.mineclearing	지뢰 제거
+hkey.attack	공격
+hkey.defend	방어 \ 회전
+hkey.groundattack	지역 사격
+hkey.move	지정 위치로 이동
+hkey.nextunit	다음 부대
+hkey.pause	일시정지
+hkey.prevunit	이전 부대
+hkey.retreat	후진 \ 후퇴
+hkey.stop	명령 중단
+hkey.storm	돌격 \ 이동
+hkey.ambush	매복
+hkey.sneak	은밀 이동
+hkey.smokecloudfast	연막 (즉시 발사)
+hkey.smokecloud	연막
+hkey.attachdetach	연결 \ 분리
+hkey.evacuate	하차
+hkey.autopickup	자동 줍기
+hkey.addtogroup0	그룹 10에 추가
+hkey.addtogroup1	그룹 1에 추가
+hkey.addtogroup2	그룹 2에 추가
+hkey.addtogroup3	그룹 3에 추가
+hkey.addtogroup4	그룹 4에 추가
+hkey.addtogroup5	그룹 5에 추가
+hkey.addtogroup6	그룹 6에 추가
+hkey.addtogroup7	그룹 7에 추가
+hkey.addtogroup8	그룹 8에 추가
+hkey.addtogroup9	그룹 9에 추가
+hkey.group0	그룹 10 선택
+hkey.group1	그룹 1 선택
+hkey.group2	그룹 2 선택
+hkey.group3	그룹 3 선택
+hkey.group4	그룹 4 선택
+hkey.group5	그룹 5 선택
+hkey.group6	그룹 6 선택
+hkey.group7	그룹 7 선택
+hkey.group8	그룹 8 선택
+hkey.group9	그룹 9 선택
+hkey.remembergroup0	그룹 10 지정
+hkey.remembergroup1	그룹 1 지정
+hkey.remembergroup2	그룹 2 지정
+hkey.remembergroup3	그룹 3 지정
+hkey.remembergroup4	그룹 4 지정
+hkey.remembergroup5	그룹 5 지정
+hkey.remembergroup6	그룹 6 지정
+hkey.remembergroup7	그룹 7 지정
+hkey.remembergroup8	그룹 8 지정
+hkey.remembergroup9	그룹 9 지정
+hkey.inventory	소지품
+hkey.vehicleCharacteristics	차량 제원
+hkey.exit	종료
+hkey.load	빠른 불러오기
+hkey.save	빠른 저장
+hkey.unitinfoicon	아이콘 켜기/끄기
+hkey.messagelog	메시지 기록
+hkey.view_sectors	공격 구역 켜기/끄기
+hkey.viewtargetarrow	목표 표시 켜기/끄기
+hkey.grab_screen	스크린샷 촬영
+hkey.multiplayerchattalk	아군에게 메시지 보내기
+hkey.multiplayerchatyell	전체에게 메시지 보내기
+hkey.cameratopdownview	전술 지도
+hkey.hide_panels	인터페이스 표시 / 숨기기
+hkey.nextmusictrack	다음 음악
+hkey.camerafreelock	자유 시점
+hkey.binocularview	쌍안경 시점
+hkey.cameramoveforward	카메라 전진
+hkey.cameramovebackward	카메라 후진
+hkey.cameramoveleft	카메라 왼쪽 이동
+hkey.cameramoveright	카메라 오른쪽 이동
+hkey.cameramoveup	카메라 상승
+hkey.cameramovedown	카메라 하강
+hkey.camerarotateup	카메라 위로 회전
+hkey.camerarotatedown	카메라 아래로 회전
+hkey.camerarotateleft	카메라 왼쪽 회전
+hkey.camerarotateright	카메라 오른쪽 회전
+hkey.cameramovetomsg	신호 발생지로 카메라 이동
+hkey.camerasetdefault	카메라 시점 초기화
+hkey.bindcamera	1인칭 시점
+hkey.linkcamera	카메라를 부대에 고정
+hkey.time2xspeed	게임 속도 조절
+hkey.actionmode	행동 모드
+hkey.setbodymodelay	포복
+hkey.setbodymodeknee	질주
+hkey.setbodymodestay	구보
+hkey.firemode	사격 모드
+hkey.attackup	상부 공격
+hkey.attackmedium	중앙 공격
+hkey.attackdown	하부 공격
+hkey.attackbarrage	방어 지역 사격
+hkey.formation	대형
+hkey.SwitchDamageMessagesMode	피해 정보 모드 전환
+hkey.MultiplayerExchangePoints	포인트 전송
+hkey.selectweaponandammoreset	무기 선택 해제
+hkey.selectweaponandammo1	주무기 선택
+hkey.selectweaponandammo2	파편 수류탄 선택
+hkey.selectweaponandammo3	대전차 수류탄 선택
+hkey.selectweaponandammo4	주포 선택
+hkey.selectweaponandammo5	AP 탄 선택
+hkey.selectweaponandammo6	HE 탄 선택
+hkey.selectweaponandammo7	기관총 선택
+hkey.selectweaponandammo8	무기 8 선택
+hkey.selectweaponandammo9	무기 9 선택
+hkey.repair	수리
+hkey.cameratypeswitch	카메라 모드 전환 (자유/중앙)
+hkey.guiactivate	메뉴

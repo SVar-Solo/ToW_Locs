@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Abrir brecha en las defensas alemanas.
+[Mission.Description]
+Las fases iniciales de la Operación Overlord han sido un éxito, pero ahora toca golpear más a fondo en la Normandía ocupada por el enemigo. Sin embargo, el avance tierra adentro se paga muy caro, pues los alemanes están atrincherando cada pueblo y cada punto estratégico que pueden. La topografía también juega en contra de los aliados, ya que el terreno peculiar de este sector limita la maniobrabilidad.
+[Mission.Success]
+¡La defensa enemiga ha sido destruida!
+[Mission.Failed]
+Ha sufrido graves pérdidas y ha sido derrotado.
+[Submission_1.Objectives]
+Destruir la defensa enemiga en este sector del frente.
+[Submission_1.Description]
+Mediante el fuego y la maniobra, intente flanquear las posiciones defensivas enemigas y tomarlas por la retaguardia. Estamos tratando de desviar medios aéreos para su uso y debería contar con algo de apoyo de artillería en espera.
+[Submission_1.Success]
+Tarea cumplida.
+[Submission_1.Failed]
+¡Ha perdido!
+[StringTable.Tanks_reserv]
+Han llegado tanques de la reserva.
+[StringTable.reserv]
+Han llegado refuerzos de infantería.

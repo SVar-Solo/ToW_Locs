@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Zerstören Sie alle Einheiten in der Nähe von Houffalize.
+[Mission.Description]
+Operation Wacht am Rhein hat begonnen. Unsere Vorhut hat einen tiefen Schlag in den weichen Unterbauch des Feindes gelandet, aber wir sind auf harten Widerstand bei der Stadt Bastogne getroffen.
+
+Ihre Befehle lauten: 
+-	 Nehmen Sie die Stadt vor Ihnen ein.
+-	 Zerstören Sie die feindlichen Stellungen auf dem Hügel. 
+[Mission.Success]
+Die Stadt wurde eingenommen!
+[Mission.Failed]
+Sie haben verloren! Der Feind hat alle Ihre Angriffe zurückgeschlagen.
+[Submission_1.Objectives]
+Richten Sie eine Stellung auf den Hügeln in der Nähe der Stadt ein. - Neutralisieren Sie alle Feindeinheiten. 
+[Submission_1.Description]
+Die Stellung auf den Hügeln in der Nähe der Stadt ist eine Schlüsselstellung der U.S. Verteidigung. Sie wird durch Infanterie, Artillerie und Panzerabwehrkanonen verteidigt.
+
+Ihre Befehle: 
+-	 Zerstören Sie alle erkannten Feindeinheiten und nehmen Sie die Stellung ein.
+[Submission_1.Success]
+Wir haben die feindliche Stellung erobert!
+[Submission_1.Failed]
+Wir haben eine Niederlage erlitten. Die U.S. Einheiten haben Sie geschlagen!
+[Submission_2.Objectives]
+Wehren Sie den feindlichen Gegenangriff ab und nehmen Sie die Stadt ein.
+[Submission_2.Description]
+Nach dem Verlust Ihrer Verteidigungsstellung haben die Amerikaner ihre Reserven eingebracht und greifen an. 
+
+Ihre Befehle:
+-	 Halten Sie die Stellung, führen Sie einen Gegenangriff durch und nehmen Sie die Stadt ein. 
+[Submission_2.Success]
+Sie haben ausgehalten!
+[Submission_2.Failed]
+Sie haben diese Schlacht verloren!
+
+[StringTable.reserv]
+Verstärkungen sind eingetroffen.

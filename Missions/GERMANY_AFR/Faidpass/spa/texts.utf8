@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+Irrumpir en la ciudad
+[Mission.Description]
+Saludos, Mayor. Tengo grandes expectativas puestas en su grupo. Usted será el eje principal del avance y el primero en irrumpir en la ciudad para lograr la victoria. Los datos de inteligencia aérea indican una concentración de cañones antitanque al norte. Pero deberá avanzar con rapidez para que el enemigo no tenga tiempo de traer refuerzos. ¡Que Dios y el Reich alemán estén con usted!
+[Mission.Success]
+Misión principal cumplida.
+[Mission.Failed]
+¡Misión fallida!
+[Submission_1.Objectives]
+Capturar la ciudad
+[Submission_1.Description]
+Capture Sidi Bou Zid.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+¡Misión fallida!
+[Submission_2.Objectives]
+Destruir los tanques enemigos
+[Submission_2.Description]
+Destruya los tanques enemigos.
+[Submission_2.Success]
+Los tanques enemigos han sido destruidos.
+[Submission_2.Failed]
+¡Misión fallida!
+[StringTable.]
+Mayor, señor, se han avistado tanques estadounidenses.
+[StringTable.Us_Tanks_isVis]
+Mayor, señor, se han avistado tanques estadounidenses.
+[Submission_3.Objectives]
+Rechazar un contraataque
+[Submission_3.Description]
+Sidi Bou Zid es nuestra. Pero nuestros pilotos informan de que el enemigo prepara activamente un contraataque al este de la ciudad. Las fuerzas enemigas incluyen tanques e infantería. Debemos tomar todas las medidas y rechazar el contraataque sobre la ciudad. 
+[Submission_3.Success]
+El contraataque enemigo ha sido rechazado.
+[Submission_3.Failed]
+Hemos perdido Sidi Bou Zid.
+[StringTable.INF]
+Mayor, los Tigers que venían en su ayuda han sido destruidos. Tome el mando de la infantería de escolta.
+[StringTable.Infantry]
+Mayor, los Tigers que venían en su ayuda han sido destruidos. Tome el mando de la infantería de escolta.
+[StringTable.Infantry_change]
+Mayor, tome el mando de la infantería de escolta.

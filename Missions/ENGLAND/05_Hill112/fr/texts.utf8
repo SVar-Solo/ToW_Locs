@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Prenez la cote 112.
+[Mission.Description]
+Prenez et tenez la cote 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Sécurisez la pente sud-ouest.
+[Submission_1.Description]
+Délogez l’ennemi de la pente sud-ouest.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Sécurisez la pente est.
+[Submission_2.Description]
+Délogez l’ennemi de la pente est.
+[Submission_3.Objectives]
+Sécurisez la ferme dans la partie nord du village.
+[Submission_3.Description]
+L’ennemi qui occupe la ferme peut prendre en enfilade nos troupes progressant sur la cote 112.
+[Submission_4.Objectives]
+Libérez le village sur la pente sud-ouest.
+[Submission_4.Description]
+L’ennemi présent dans le village peut efficacement soutenir ses troupes postées sur la pente sud-ouest.
+[Submission_5.Objectives]
+Éliminez les chars ennemis qui contre-attaquent.
+[Submission_5.Description]
+L’ennemi tente de nous repousser par une puissante contre-attaque de chars.
+[Mission.Success]
+Cote 112 libérée.
+[Mission.Failed]
+Mission non accomplie.
+[Submission_1.Success]
+La pente sud-ouest a été nettoyée.
+[Submission_1.Failed]
+Mission non accomplie.
+[Submission_2.Success]
+Ennemi délogé de la pente est.
+[Submission_2.Failed]
+Mission non accomplie.
+[Submission_3.Success]
+Ferme sécurisée.
+[Submission_3.Failed]
+Mission non accomplie.
+[Submission_4.Success]
+Village libéré.
+[Submission_4.Failed]
+Mission non accomplie.
+[Submission_5.Success]
+Contre-attaque repoussée.
+[Submission_5.Failed]
+Mission non accomplie.
+[StringTable.Tanks]
+Force de réserve disponible.

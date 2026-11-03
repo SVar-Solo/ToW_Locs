@@ -1,0 +1,50 @@
+﻿[Submission_1.Objectives]
+Repila o ataque
+[Submission_1.Description]
+Assuma posições de defesa e prepare-se para repelir um ataque.
+[Submission_01.Success]
+Missão concluída.
+[Submission_01.Failed]
+Missão fracassada.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Mantenha as posições ocupadas
+[Mission.Description]
+Assuma posições defensivas diante das tropas inimigas que avançam, repila seus ataques e mantenha o terreno.
+[NewSubmission.Success]
+Missão cumprida.
+[NewSubmission.Failed]
+Missão fracassada.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission_1.Success]
+O primeiro ataque foi repelido.
+[Submission_1.Failed]
+O inimigo rompeu sua defesa.
+[Submission_2.Objectives]
+Prepare-se para repelir o próximo ataque
+[Submission_2.Description]
+O inimigo está se reagrupando e logo tentará romper sua defesa novamente. Prepare-se para repelir o próximo ataque e posicione os reforços que chegarem.
+[Submission_3.Objectives]
+Limpe o povoado
+[Submission_3.Description]
+Limpe este pequeno povoado do inimigo para evitar um ataque de envolvimento contra nossas defesas.
+[Submission_4.Objectives]
+Defenda as posições ocupadas
+[Submission_4.Description]
+Os americanos tentam recuperar o equilíbrio mais uma vez; prepare-se para defender suas posições na aldeia capturada.
+[Submission_2.Success]
+Missão cumprida.
+[Submission_2.Failed]
+Missão fracassada.
+[Submission_3.Success]
+Missão cumprida.
+[Submission_3.Failed]
+Missão fracassada.
+[Submission_4.Success]
+Missão cumprida.
+[Submission_4.Failed]
+Missão fracassada.

@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+Erobern Sie die feindlichen Stellungen auf dem Hügel.
+[Submission_1.Description]
+Der Hügel hat eine wichtige strategische Bedeutung für diesen Frontabschnitt. Er bietet derjenigen Seite, die ihn kontrolliert, einen grossen Vorteil. 
+
+Ihre Befehle: 
+- 	Vertreiben Sie den Feind aus seiner Stellung auf dem Hügel und bauen Sie dort Ihre eigene Verteidigungslinie auf. 
+[Submission_1.Success]
+Der Hügel wurde erobert!
+[Submission_1.Failed]
+Niederlage! Sie konnten den Hügel nicht einnehmen.
+[Submission_2.Objectives]
+Erweitern Sie den Brückenkopf indem Sie die feindlichen Befestigungen in den benachbarten Dörfern zerstören. 
+[Submission_2.Description]
+Nach der Einnahme des Hügels brachen Sie durch die feindliche Verteidigungslinie. Der Feind steht noch immer auf der Flanke. Sie müssen jetzt den Brückenkopf erweitern. 
+
+Ihre Befehle: 
+-	 Zerstören Sie alle Flankenstellungen des Feindes. 
+[Submission_2.Success]
+Die Mission wurde erfüllt.
+[Submission_2.Failed]
+Sie sind gescheitert.
+[Submission_3.Objectives]
+Halten Sie den Hügel um jeden Preis.
+[Submission_3.Description]
+Die Deutschen scheinen einen Gegenangriff auf Ihre Stellung vorzubereiten; Sie müssen Ihrem Angriff widerstehen. 
+
+Ihre Befehle: 
+-	 Halten Sie die Stellung auf dem Hügel und neutralisieren Sie alle angreifenden Feindeinheiten.
+[Submission_3.Success]
+Der Feind wurde geschlagen. Die Strasse nach Cherbourg ist offen.
+[Submission_3.Failed]
+Sie wurden geschlagen. Die Strasse nach Cherbourg bleibt verschlossen.
+[Mission.Objectives]
+Zerstören Sie alle deutschen Widerstandsnester in der Nähe der Hafenstadt Cherbourg.
+[Mission.Description]
+Die Garnison in Cherbourg wurde von dem Rest der deutschen Truppen abgeschnitten und verfügt deswegen nicht über sehr viele Reserven. Doch trotz der Alliierten Überlegenheit an Soldaten und Material hat die Garnison das Angebot von General Collins zur Aufgabe abgelehnt. 
+
+Ihre Befehle:
+-	 Zerstören Sie alle deutschen Widerstandsnester in der Nähe der Hafenstadt Cherbourg.
+[Mission.Success]
+Sie haben einen Sieg errungen.
+[Mission.Failed]
+Sie sind gescheitert. Zu viele deutsche Einheiten verbleiben aktiv in der Gegend und werden unsere zukünftigen Operationen beeinträchtigen.
+[StringTable.reserv]
+Verstärkungen sind eingetroffen.

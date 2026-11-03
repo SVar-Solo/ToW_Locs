@@ -1,0 +1,46 @@
+﻿[StringTable.Reserv]
+Przybyły posiłki.
+[Submission1.Objectives]
+Zdobyć wieś i zniszczyć siły nieprzyjaciela.
+[Submission1.Description]
+Siły nieprzyjaciela rozlokowały się w pobliskiej wsi i czekają na posiłki. Masz rozpocząć natarcie na tą wieś i pokonać nieprzyjaciela.
+
+Twoje rozkazy:
+-	Zdobyć wieś.
+-	Pokonać wszystkie oddziały nieprzyjaciela.
+[Submission1.Success]
+Zadanie wykonane. Siły nieprzyjaciela zostały wyparte ze wsi.
+[Submission1.Failed]
+Zadanie niewykonane.
+[Mission1.Objectives]
+Pokonać siły nieprzyjaciela.
+[Mission1.Description]
+Siły niemieckie rozpoczęły natarcie w kierunku Mortain. Wróg zdobył kilka wsi w tym rejonie. Według naszych informacji wróg przygotowuje duże natarcie w tym kierunku. Musimy za wszelką cenę zniweczyć jego plany.
+
+Twoje rozkazy:
+-	Wyprzeć wroga z zajętych wsi.
+[Mission1.Success]
+Zadanie wykonane.
+[Mission1.Failed]
+Zadanie niewykonane.
+[Submission2.Objectives]
+Pokonać nieprzyjaciela i zdobyć wieś.
+[Submission2.Description]
+Grupa nieprzyjacielskich wojsk zajęła pozycje w małej wsi. Przygotowują się do kontr-ofensywy w kierunku Mortain.
+
+Twoje rozkazy:
+-	Wyprzeć wroga z zajmowanych pozycji i zdobyć wieś.
+[Submission2.Success]
+Zadanie wykonane. Wieś jest w naszych rękach.
+[Submission2.Failed]
+Zadanie niewykonane. Twoje siły poniosły ciężkie straty.
+[Submission3.Objectives]
+Zniszcz nieprzyjacielskie zgrupowanie pancerne.
+[Submission3.Description]
+Wróg próbuje przeprowadzić nagłe uderzenie wykorzystując małe zgrupowanie pancerne.
+Twoje zadanie:
+-	Zaatakować i zniszczyć nieprzyjacielskie zgrupowanie.
+[Submission3.Success]
+Zadanie wykonane.
+[Submission3.Failed]
+Zadanie niewykonane. Twoje siły poniosły ciężkie straty.

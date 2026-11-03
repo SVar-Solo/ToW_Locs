@@ -1,0 +1,48 @@
+﻿[Mission1.Objectives]
+Capture the railway station at Dubosekovo.
+[Mission1.Description]
+According to our aerial intelligence, the Russians have done a good job fortifying their positions in the area of the Dubosekovo railway station. So far, the Russians have defended much better than expected and our casualties have been higher than expected. Even so, German High Command needs you to capture this strategically important site.
+
+Your orders are: 
+- 	Launch an offensive toward the Dubosekovo station 
+- 	Eliminate Russian troops that have taken up defensive positions in the area specified. 
+[Mission1.Success]
+The railway station has been captured. After we repair the tracks we will be able to deliver provisions and ammo from the rear! 
+[Mission1.Failed]
+Your attack has failed! You have failed to capture the railway station!
+[Mission2.Objectives]
+Hold the Dubosekovo station against the Russian counter-attack.
+[Mission2.Description]
+A Russian assault group is approaching our newly acquired positions. We must not lose this railway station; so hold it at all costs.
+
+Your orders are: 
+-	 Repel all attacks by the Russian troops. 
+-	 Prevent the Russian troops from capturing the station.
+[Mission2.Success]
+The enemy attack has been repelled. Well done! 
+[Mission2.Failed]
+You have failed and the Russians have recaptured the railway station.
+[Submission1.Objectives]
+Shell the enemy positions.
+[Submission1.Description]
+Before you began your offensive on the enemy railway station, shell the enemy defensive positions.
+
+Your orders:
+- 	Shell the enemy positions.
+[Submission1.Success]
+The shelling was a success. We have no doubt that the Russians will flee once they see our first tanks!
+[Submission1.Failed]
+Your artillery was ineffective!
+[Submission2.Objectives]
+Call for close air support.
+[Submission2.Description]
+To help destroy the enemy artillery and infantry units you should request close air support.
+
+Your orders:
+- 	Call for available air support.
+[Submission2.Success]
+Our planes have attacked the enemy positions.
+[Submission2.Failed]
+Our air units were unable to provide suitable support.
+[StringTable.Reserv]
+Reinforcements have arrived to support you.

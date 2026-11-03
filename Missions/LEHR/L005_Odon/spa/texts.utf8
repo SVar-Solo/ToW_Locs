@@ -1,0 +1,23 @@
+﻿[Submission1.Objectives]
+Mantenga las posiciones defensivas en el pueblo.
+[Submission1.Description]
+Una cantidad abrumadora de fuerzas enemigas está avanzando sobre las posiciones del Primer Batallón del 901º. Panzergrenadier. Mantenga esa zona con la ayuda de un destacamento de la 12ª. División Hitlerjugend de las SS.
+Sus órdenes:
+- En cooperación con los tanques de la 12ª. de las SS, mantenga sus defensas alrededor del pueblo.
+[Submission1.Success]
+¡Bien hecho, comandante! ¡El enemigo no ha quebrado su espíritu de lucha!
+[Submission1.Failed]
+¡Misión fallida! Sus fuerzas han sido derrotadas.
+[Submission2.Objectives]
+Rechace los ataques enemigos.
+[Submission2.Description]
+Acabamos de recibir informes de que el enemigo ha desviado su ataque y ahora se acerca por el norte. Prepare a sus tropas para esta nueva acometida, comandante.
+ 
+Sus órdenes:
+- Rechace este nuevo ataque enemigo.
+[Submission2.Success]
+¡Bien hecho, comandante! El enemigo no ha podido romper sus defensas.
+[Submission2.Failed]
+¡Misión fallida!
+[StringTable.Change]
+Ha recibido unidades blindadas adicionales de la reserva de la división.

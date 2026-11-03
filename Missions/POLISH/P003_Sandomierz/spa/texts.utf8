@@ -1,0 +1,35 @@
+﻿[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.
+[Mission1.Objectives]
+Mantenga las posiciones defensivas en la zona indicada.
+[Mission1.Description]
+El 3er. ejército alemán avanza rápidamente por el este de Polonia. Su objetivo es atravesar y envolver a nuestras fuerzas en el norte. La plana mayor polaca ha decidido concentrar todos los efectivos posibles en las regiones del sudeste del país. Hay que impedir que el ejército alemán atraviese nuestras líneas del frente.
+
+Sus órdenes son las siguientes:
+-	Conserve y defienda sus posiciones en la zona especificada.
+[Mission1.Success]
+¡Misión cumplida! ¡Ha detenido el avance de las tropas enemigas!
+[Mission1.Failed]
+¡Sus tropas han sido derrotadas! El enemigo ha destruido nuestras defensas y sigue avanzando.
+[Submission1.Objectives]
+Ataque a las nuevas fuerzas enemigas que avanzan desde el sur.
+[Submission1.Description]
+Los exploradores informan de que un grupo pequeño de tropas alemanas se dirige desde el sur hacia Sandomierz. Es probable que el enemigo intente abrir una brecha en este sector para luego acortar por el río y dirigirse a Sandomierz.
+
+Sus órdenes:
+-	Ataque a las fuerzas enemigas que avanzan desde el sur.
+[Submission1.Success]
+¡Orden cumplida! ¡Ha atacado a las tropas enemigas y las ha hecho retroceder!
+[Submission1.Failed]
+¡No ha cumplido las órdenes! Las tropas enemigas han infligido graves daños a las nuestras.
+[Submission2.Objectives]
+Ataque a las tropas enemigas que procedan del oeste.
+[Submission2.Description]
+Las tropas alemanas están reuniendo fuerzas para un ataque en este sector. Los exploradores informan de que un gran contingente enemigo avanza desde el oeste rumbo a Sandomierz.
+
+Sus órdenes son:
+-	Ataque a las fuerzas enemigas que avanzan desde el oeste.
+[Submission2.Success]
+¡Misión cumplida! El ataque alemán desde el oeste ha sido rechazado.
+[Submission2.Failed]
+¡Misión fallida! Las tropas alemanas han aprovechado la situación y han infligido graves daños a nuestro ejército.

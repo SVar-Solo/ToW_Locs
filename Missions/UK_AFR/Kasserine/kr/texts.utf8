@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+귀관의 기계화 부대는 방어를 도와 동맹군을 지원하고 적이 카세린 고개를 건너지 못하게 해야 한다. 상황에 맞게 행동하여 공격해 오는 독일군에게 기습 타격을 가하라. 적은 수와 훈련 모두에서 우세하므로 매복이 합리적인 전술일 것이다. 고개의 주요 통과 지점 두 곳에는 아군이 지뢰를 매설해 두었다. 항공 전력 사용이 허가되었다.
+[Submission_1.Description]
+동맹군을 도와라
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.
+[StringTable.Change_army]
+연합군 부대가 귀관의 지휘 아래 들어왔다.
+[Submission_2.Objectives]
+적 전차 부대를 섬멸하라. 고개를 건너지 못하게 하라.
+[Submission_2.Description]
+적 전차 부대를 섬멸하라
+[Submission_2.Success]
+적 전차를 파괴했다.
+[Submission_2.Failed]
+적 전차가 돌파했다.
+[Submission_3.Objectives]
+적이 예비대에서 전차를 추가로 투입했다. 이를 파괴하여 고개를 건너지 못하게 하라.
+[Submission_3.Description]
+적 예비대를 섬멸하라
+[Submission_3.Success]
+적 전차를 파괴했다.
+[Submission_3.Failed]
+임무 실패.
+[Submission_4.Objectives]
+적의 공격을 격퇴했으나 적은 고개 바로 앞에 곡사포 진지를 구축하는 데 성공했다. 적은 아군 진지에 포격을 가해 이미 큰 피해를 입혔다. 가용 병력을 모두 동원하여 적 포병을 파괴하라.
+[Submission_4.Description]
+적 포병을 파괴하라
+[Submission_4.Success]
+적 진지를 파괴했다.
+[Submission_4.Failed]
+임무 실패.

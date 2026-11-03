@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Verhindern Sie, dass der Feind die Frontlinie durchbricht. 
+[Mission.Description]
+Der Feind versucht, durch die Verteidigung der Division zu brechen. Sie haben den Befehl, Tscherkasskoje zu halten. Besondere Aufmerksamkeit sollte dem Halten des ersten Schützengrabens und der Panzerabwehrstellung gewidmet werden. Gehen Sie gegen vorgedrungene feindliche Kräfte zum Gegenangriff über.
+[Submission1.Objectives]
+Zerstören Sie die feindlichen Panzer.
+[Submission2.Objectives]
+Verhindern Sie, dass der Feind unsere Stellungen überflügelt.
+[Submission3.Objectives]
+Der Feind hat die Frontlinie mit Panzern und Infanterie durchbrochen und rückt nun weiter vor.
+[Submission4.Objectives]
+Eine feindliche Einheit in Kompaniestärke hat mit der Unterstützung von schweren Panzern und Sturmgeschützen damit begonnen, das Dorf anzugreifen. Wehren Sie den Angriff des Feindes ab.
+[Mission.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Mission.Failed]
+Unsere Truppen mussten sich wegen des Angriffs durch den überlegenen Feind zurückziehen.
+[Submission1.Success]
+Mission abgeschlossen, die feindlichen Panzer wurden zerstört. 
+[Submission1.Failed]
+Mission gescheitert, feindliche Panzer rücken weiter vor.
+[Submission2.Success]
+Mission abgeschlossen, ein Manöver für den Flankenangriff wurde verhindert.
+[Submission2.Failed]
+Feindliche Panzer haben unsere Stellungen überflügelt.
+[Submission_2_1.Success]
+Mission abgeschlossen, die Umfassungsgruppe wurde vernichtet.
+[Submission_2_1.Failed]
+Gegenangriff zurückgeschlagen, der Feind rückt weiter vor.
+[Submission_2_2.Success]
+Eingebrochene feindliche Panzer wurden zerstört, das Gleichgewicht wurde wiederhergestellt.
+[Submission_2_2.Failed]
+Der Gegenangriff ist fehlgeschlagen. Feindliche Panzer sind in den Rücken der Division durchgebrochen.
+[Submission3.Success]
+Mission abgeschlossen. 
+[Submission3.Failed]
+Der Feind ist durchgebrochen und rückt in Richtung des Divisionsgefechtsstands vor.
+[Submission4.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Submission4.Failed]
+Unsere Truppen mussten sich wegen des Angriffs durch den überlegenen Feind zurückziehen. 
+[StringTable.Tanks!]
+Panzer! Bereiten Sie sich darauf vor, den Panzerangriff abzuwehren.
+[StringTable.Stukas]
+Luftangriff! Gehen Sie in Deckung!
+[StringTable.SM2]
+Wir haben diese Panzer neutralisiert, die Flugzeuge haben uns dabei geholfen.
+[StringTable.SM2_1]
+Die Deutschen werden jetzt höchstwahrscheinlich unsere Stellungen durchbrechen. Achten Sie auf die Flanken!
+
+[StringTable.SPGs_Tanks]
+Panzer und Selbstfahrlafetten des 245. Unabhängigen Panzerregiments und des 1440. Panzerartillerieregiments.
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

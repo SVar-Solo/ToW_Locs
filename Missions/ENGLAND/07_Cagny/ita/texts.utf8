@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Liberare Cagny e Frenouville.
+[Mission.Description]
+I nostri prossimi obiettivi sono Cagny e Frenouville.
+[StringTable.SPGs_Tanks]
+Forza principale
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Conquistare Cagny.
+[Submission_1.Description]
+Scacciare il nemico da Cagny.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Scacciare il nemico dalla fattoria.
+[Submission_2.Description]
+I tedeschi hanno trasformato la fattoria in un caposaldo. Eliminarli.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Liberare Frenouville.
+[Submission_3.Description]
+Un’altra località lungo la direttrice di avanzata. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+Missione compiuta.
+[Submission_3.Failed]
+Compito non portato a termine.
+[Submission_2.Success]
+Missione compiuta.
+[Submission_2.Failed]
+Compito non portato a termine.
+[Submission_4.Objectives]
+Cannoni contraerei presso l’incrocio.
+[Submission_4.Description]
+Una batteria di cannoni contraerei da 88 mm blocca il nostro avvicinamento alle posizioni nemiche. Avvicinarsi con qualsiasi tipo di mezzo corazzato comporterà gravi perdite. La batteria deve essere neutralizzata prima che il grosso delle nostre forze possa entrare in azione.
+[NewSubmission3.Success]
+Cannoni contraerei distrutti.
+[NewSubmission3.Failed]
+Neutralizzazione dei cannoni contraerei fallita.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Compito non portato a termine.
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+Compito non portato a termine.
+[Submission_4.Success]
+Batteria neutralizzata. Missione compiuta.
+[Submission_4.Failed]
+Compito non portato a termine.
+[StringTable.Tanks]
+Forza di riserva disponibile.

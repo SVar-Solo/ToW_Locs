@@ -1,0 +1,23 @@
+﻿[Mission1.Objectives]
+Acompañe a la columna acorazada a la zona indicada.
+[Mission1.Description]
+Las tropas aliadas siguen extendiéndose desde las cabezas de playa de Normandía. En estos momentos, lo más importante es asegurar Caen ya que, una vez esté en nuestras manos, podremos seguir avanzando.
+
+Una columna de unidades blindadas inglesas (las famosas “Ratas del Desierto”) se dirige por una carretera principal hacia la ciudad de Caen. La plana mayor desea cerrar la tenaza sobre las posiciones alemanas en esta zona mediante las fuerzas de la 7a. División Acorazada inglesa.
+[Mission1.Success]
+Ha llevado a cabo sus órdenes con éxito y seguramente pronto tomaremos Caen. ¡Los alemanes no conseguirán echarnos al mar!
+[Mission1.Failed]
+No ha cumplido las órdenes, y los alemanes le han derrotado. ¡Con todas las fuerzas que tenía a su disposición, resulta increíble que le hayan vencido!
+[Mission2.Objectives]
+Destruya los tanques enemigos.
+[Mission2.Description]
+De camino a Caen, la columna blindada del regimiento inglés ha sido víctima de un ataque de la 2a. Compañía de la Schwere SS-Panzer-Abteilung 101, a las órdenes de Michael Wittmann. Algunos de los tanques de la columna han sido dañados. Los alemanes preparan un ataque hacia Villers-Bocage.
+
+Sus órdenes:
+- 	Destruya los tanques enemigos.
+[Mission2.Success]
+¡Misión cumplida! ¡Ha destruido los tanques enemigos, y el camino a Caen ha quedado libre!
+[Mission2.Failed]
+¡Han derrotado a sus tropas! ¡Ha perdido el combate!
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.

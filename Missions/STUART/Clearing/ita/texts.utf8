@@ -1,0 +1,88 @@
+﻿[MainTask.Objectives]
+Conquistate il villaggio
+[MainTask.Success]
+I soldati nemici sopravvissuti si arrendono, il villaggio è nostro. Continuate così, ragazzi!
+[MainTask.Failed]
+Il nemico si è rivelato troppo forte per la vostra unità di carri. L’operazione è annullata!
+[MainTask.Description]
+Il nostro obiettivo finale in quest’area è conquistare un villaggio tenuto dal nemico; tuttavia, a causa della forte difesa nemica, non possiamo schierare subito fanteria, artiglieria e aviazione. Pertanto il vostro gruppo di carri leggeri deve prima condurre un attacco di sondaggio, distruggere le forze nemiche che ostacolano le nostre azioni fuori dal villaggio e poi sostenere l’attacco della nostra fanteria.
+[FlakSuppress.Objectives]
+Neutralizzate i cannoni contraerei
+[FlakSuppress.Success]
+I semoventi contraerei nemici sono neutralizzati e il nostro servizio di rilevamento ha registrato con successo le coordinate del villaggio. I nostri ufficiali di collegamento le hanno già comunicate ai piloti e alla batteria d’artiglieria: state lontani dal villaggio! Tra pochi minuti laggiù sarà dura!
+[FlakSuppress.Description]
+Secondo i rapporti d’intelligence, il villaggio è ben protetto dagli attacchi aerei da semoventi contraerei nemici. Perciò il nostro primo obiettivo è individuarli e neutralizzarli. Ciò permetterà alla nostra aviazione di comparire sul campo di battaglia. Sono stati proprio questi semoventi contraerei a impedirci di ottenere fotografie aeree dettagliate del terreno e sembra che le mappe in nostro possesso manchino di precisione. Il nostro aeroporto più vicino è proprio nel raggio d’azione dei nostri bombardieri, perciò il rilevamento delle coordinate del villaggio tramite la radiogoniometria del segnale radio del vostro carro gioverà non solo ai nostri piloti, ma anche alla nostra batteria d’artiglieria.
+[DealWithReinforcement.Objectives]
+Annientate i rinforzi
+[DealWithReinforcement.Success]
+I rinforzi nemici in arrivo sono stati sconfitti!
+[DealWithReinforcement.Description]
+Le forze di riserva del nemico, sebbene poco numerose, vanno comunque prese in considerazione. Distruggete i rinforzi nemici che si avvicinano al villaggio.
+[StringTable.SupportsAreIncoming]
+I preparativi per l’attacco d’artiglieria sono completati, le coordinate esatte sono state comunicate ai piloti e i loro aerei sono in arrivo. Lasciate subito la zona dell’attacco!
+[StringTable.InfantryInAction]
+La nostra fanteria attaccherà subito dopo gli attacchi d’artiglieria e aerei! Date loro il sostegno di cui hanno bisogno!
+[StringTable.IntroSubtitle1]
+Capitano Jackson: Allora, novellini?! Alla vostra prima battaglia...
+[StringTable.IntroSubtitle2]
+... non dovreste andare in giro con quella faccia da funerale!
+[StringTable.IntroSubtitle3]
+- Ehi, Mitchell, togliti quel sorriso dalla faccia!
+[StringTable.IntroSubtitle4]
+- Dopo la battaglia vi insegnerò io cosa sono la disciplina e la subordinazione!
+[StringTable.IntroSubtitle5]
+Il comandante di carro Alan Mitchell al suo equipaggio: 
+[StringTable.IntroSubtitle6]
+- Ragazzi, se noi siamo novellini, Jackson è un pivello!
+[StringTable.IntroSubtitle7]
+- Mentre noi ci spaccavamo la schiena a Camp Beauregard...
+[StringTable.IntroSubtitle8]
+...lui faceva il croupier in un casinò, quindi di guerra ne sa meno di noi!
+[StringTable.IntroSubtitle9]
+(dopo aver riso un po’) E tu come lo sai, Alan?
+[StringTable.IntroSubtitle10]
+- Il mio futuro suocero qualcosa di utile lo sa!
+[StringTable.StuartTankLost]
+Il carro di Alan Mitchell è stato messo fuori combattimento!
+[StringTable.StuartCrewLost]
+L’equipaggio del carro di Alan Mitchell ha subito perdite!
+[StringTable.WinSubtitle1]
+Alan Mitchell: Sì, ragazzi, è stata dura!
+[StringTable.WinSubtitle2]
+Pilota del carro: Parcheggio proprio accanto a quel camion.
+[StringTable.WinSubtitle3]
+Alan Mitchell: Ok, allora, a proposito di Jackson croupier...
+ [StringTable.WinSubtitle4]
+...meglio tenere la bocca chiusa. Capito?!
+[StringTable.WinSubtitle5]
+Jackson ai suoi attendenti: Ora ci promuoveranno di sicuro, ...
+[StringTable.WinSubtitle6]
+...sia di grado sia di incarico, e Mitchell sarà sergente...
+[StringTable.WinSubtitle7]
+...per sempre!
+[StringTable.WinSubtitle8]
+Alan Mitchell: Mi permetta di riferire, signore! (riferisce sulla battaglia)
+[StringTable.FailSubtitle1]
+Tenente Hans Neumann: Rudolf, vai a controllare il carro!
+[StringTable.FailSubtitle2]
+Oberschütze Rudolf Hagen: Jawohl! ...
+[StringTable.FailSubtitle3]
+Sì, che scena infernale... Questo cadavere qui tiene una cartella.
+[StringTable.FailSubtitle4]
+Tenente Neumann: Dammela! Vediamo...
+[StringTable.FailSubtitle5]
+Beh, la foto di una ragazza, qualche lettera, un volume di Shakespeare...
+[StringTable.FailSubtitle6]
+...ma niente mappe o altri documenti! Li ha distrutti, morendo!
+[StringTable.FailSubtitle7]
+Oberschütze Rudolf Hagen: Questa signorina Nelly Smith è proprio carina...
+[StringTable.FailSubtitle8]
+...farei meglio a memorizzare l’indirizzo. Quando conquisteremo l’America avrò qualcuno con cui divertirmi!
+[StringTable.FailSubtitle9]
+Il tenente, arrotolando la lettera: Hagen, taci! Non sarai mai capace di amare e di morire...
+[StringTable.FailSubtitle10]
+...come ha fatto questo Mitchell!
+[StringTable.MitchellIsKilled]
+Alan Mitchell è stato ucciso!
+[StringTable.ReturnInTank]
+Fate risalire sul carro i carristi sbarcati per completare la missione.

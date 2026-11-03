@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Capture y proteja el pueblo de Otto.
+[Mission.Description]
+Según el reconocimiento que hemos podido realizar, solo una pequeña fuerza de los británicos ocupa el pueblo que tiene delante. Aunque es probable que sus posiciones estén bien fortificadas, es una ocasión excepcional para expulsarlos de ahí. Tiene a sus órdenes fuerzas del 902º. Regimiento Panzergrenadier y algo de apoyo blindado.
+ 
+Sus órdenes:
+- Ataque a las fuerzas británicas que ocupan el pueblo de Otto y expúlselas.
+[Mission.Success]
+¡Bien hecho, comandante! Las defensas enemigas han sido destruidas.
+[Mission.Failed]
+¡Misión fallida! 
+[Submission_1.Objectives]
+Ataque las posiciones enemigas en el pueblo de Otto.
+[Submission_1.Description]
+El pueblo de Otto se encuentra al sureste de sus posiciones de partida. Al parecer, la primera evaluación de reconocimiento que realizamos resultó ser errónea y el pueblo está más ocupado y mejor fortificado de lo que esperábamos. Coordine con prudencia sus ataques, comandante, ¡y tome ese pueblo!
+ 
+Sus órdenes son:
+- Capture Otto.
+[Submission_1.Success]
+¡Bien hecho, comandante! Ha capturado el pueblo.
+[Submission_1.Failed]
+¡Misión fallida!
+[Submission_2.Objectives]
+Organice sus tropas para montar una defensa adecuada frente a cualquier contraataque enemigo.
+[Submission_2.Description]
+Tras perder el pueblo, el enemigo, sin duda, contraatacará para recuperar su presa.
+ 
+Sus órdenes:
+- Rechace todos los ataques.
+[Submission_2.Success]
+¡Bien hecho, comandante! Los ataques enemigos han sido rechazados.
+[Submission_2.Failed]
+¡Misión fallida! Sus tropas han sido derrotadas.

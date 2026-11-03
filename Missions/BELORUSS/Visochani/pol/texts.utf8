@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Wyzwól Wysoczany spod niemieckich okupantów i zniszcz przyczółek wroga.
+[Mission.Description]
+Musisz wyeliminować garnizon wroga w Kurtienkach, który kontroluje drogę do Wysoczan; zabezpieczyć tę drogę; zniszczyć wrogie wojska pancerne w rejonie Kurtienki-Wysoczany; oraz stłumić artylerię na południowych obrzeżach Wysoczan.
+[Mission.Success]
+Zadanie wykonane, Wysoczany wyzwolone.
+[Mission.Failed]
+Zadanie nieudane.
+[Submission1.Objectives]
+Wyzwól Kurtienki.
+[Submission1.Description]
+Wyeliminuj garnizon wroga w Kurtienkach i zabezpiecz drogę do Wysoczan. Przygotuj się do odparcia kontrataku wroga.
+[Submission1.Success]
+Kurtienki zabezpieczone.
+[Submission1.Failed]
+Zadanie nieudane.
+[Submission2.Objectives]
+Zniszcz wrogą kolumnę pancerną idącą z pomocą garnizonowi Kurtienek.
+[Submission2.Description]
+Wroga kolumna pancerna zmierza z Wysoczan na pomoc garnizonowi Kurtienek. Przechwyć ją i zniszcz, wciągając w zasadzkę.
+[Submission2.Success]
+Wroga kolumna zniszczona.
+[Submission2.Failed]
+Zadanie nieudane.
+[Submission3.Objectives]
+Kolejna wroga grupa pancerna wyruszyła z Wysoczan, by Cię przechwycić. Zniszcz ją i przejdź do wyzwolenia wsi.
+[Submission3.Description]
+W pełni zabezpiecz drogę do Wysoczan. Zniszcz wrogą grupę pancerną.
+[Submission3.Success]
+Droga do Wysoczan jest wolna.
+[Submission3.Failed]
+Zadanie wykonane.

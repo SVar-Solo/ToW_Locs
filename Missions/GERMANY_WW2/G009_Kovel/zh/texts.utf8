@@ -1,0 +1,74 @@
+﻿[SubMission_1.Objectives]
+击退红军先头部队的主攻。然后反击敌军，夺取一处重要的加油站。
+[SubMission_1.Description]
+红军正沿整条战线推进。德军最后一道加强防线穿过科韦利镇。最高统帅部已下达命令，要求作最后一搏的坚守。前线情报报告，俄军很可能将发动一次试探性行动，以侦察我军在这一地段的防御。
+
+命令：
+- 	击退俄军的进攻，然后发起反击以扰乱敌军。
+- 	夺取敌军加油站。
+[SubMission_1.Success]
+任务已完成！
+[SubMission_1.Failed]
+你失败了，指挥官！
+[Mission.Objectives]
+阻止敌军突破你的防线。
+[Mission.Description]
+俄军已发动旨在解放科韦利镇的攻势。你必须守住该镇，击退这次新的进攻。
+
+命令：
+- 	击退敌军的所有进攻。
+[Mission.Success]
+俄军的攻势已被遏止。德国不会忘记其将士的英勇。
+[Mission.Failed]
+这是德国黑暗的一天！你未能阻止俄军，输掉了这场战斗。
+
+[Submission_2.Objectives]
+你必须将这些油罐车完好无损地送到加油站。
+[Submission_2.Description]
+俄军的卡车乘员已经逃走；把那些卡车开到加油站去！
+
+命令：
+- 	将油罐车送到村内的加油站。
+[Submission_2.Success]
+干得好，指挥官。这些油罐车会派上大用场！
+[Submission_2.Failed]
+油罐车已经丢失。
+[Submission_3.Objectives]
+尽你所能准备防御，以击退即将到来的俄军进攻。
+[Submission_3.Description]
+根据情报数据，俄军正在准备另一次攻势。尽你所能做好准备，抵御这最新的威胁。
+
+命令：
+- 	坚守阵地，抵挡推进中的敌军。
+[Submission_3.Success]
+干得好！你已消灭了敌军突击部队！
+[Submission_3.Failed]
+敌军的进攻实在难以抵挡。你失败了。
+[Submission_5.Objectives]
+消灭敌军突击部队
+[Submission_5.Description]
+俄军突击部队再次扑向油料库。你必须阻止他们突破！同时要留意可能试图渗透你的防线、破坏我军后方炮兵阵地的敌军破坏分子。
+
+命令：
+- 	消灭正在逼近的突击部队。
+[Submission_5.Success]
+敌军部队已被消灭！
+[Submission_5.Failed]
+敌军已突破！
+[Submission_6.Objectives]
+消灭俄军油罐车队，可能的话夺取这些油罐车。
+[Submission_6.Description]
+进攻期间，4辆装满汽油的油罐车驶离了加油站！你需要拦住这支车队！
+
+命令：
+- 	可能的话夺取油罐车队。如果无法夺取而它们又有逃脱的危险，你可以将其摧毁。
+[Submission_6.Success]
+干得好，指挥官，你阻止了汽油回到俄军手中。
+[Submission_6.Failed]
+油罐车逃脱了。你没能及时拦住它们。
+[StringTable.inf_reserv]
+一支新的步兵分队已交由你指挥。
+[StringTable.Tank_reserv]
+一支坦克分队已交由你指挥。
+[StringTable.SPG_reserv]
+一个自行火炮排已交由你指挥。

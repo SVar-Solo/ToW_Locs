@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+루다키, 오시포보를 해방하라. 비텝스크로 가는 도로를 확보하라.
+[Mission.Description]
+루다키, 오시포보를 해방하라. 비텝스크로 가는 도로를 확보하라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission1.Objectives]
+루다키를 해방하라.
+[Submission1.Description]
+루다키를 해방하라.
+[Submission1.Success]
+임무 완수.
+[Submission1.Failed]
+임무 실패.
+[Submission2.Objectives]
+오시포보를 해방하라.
+[Submission2.Description]
+오시포보를 해방하라.
+[Submission2.Success]
+임무 완수.
+[Submission2.Failed]
+임무 실패.
+[Submission3.Objectives]
+오시포보에 방어 진지를 구축하고 적의 반격을 격퇴하라.
+[Submission3.Description]
+오시포보에 방어 진지를 구축하고 적의 공격을 격퇴할 준비를 하라.
+[Submission3.Success]
+임무 완수.
+[Submission3.Failed]
+임무 실패.
+[Submission4.Objectives]
+북쪽 도로를 따라 후퇴하는 적 사령부 분견대를 즉시 요격하여 격파하라! 사령부 호송대가 포위망을 뚫고 빠져나가면 임무는 실패한다.
+[Submission4.Description]
+북쪽 도로를 따라 후퇴하는 적 사령부 분견대를 즉시 요격하여 격파하라!
+[Submission4.Success]
+임무 완수.
+[Submission4.Failed]
+임무 완수.
+[Submission5.Objectives]
+적이 루다키 방향으로 돌파하려 하고 있다. 기갑 집단을 요격하여 격파하라.
+[Submission5.Description]
+적이 루다키 방향으로 돌파하려 하고 있다. 기갑 집단을 요격하여 격파하라.
+[Submission5.Success]
+임무 완수.
+[Submission5.Failed]
+임무 실패.

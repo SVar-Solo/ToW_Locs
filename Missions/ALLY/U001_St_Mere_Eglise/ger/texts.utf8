@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Vertreiben Sie den Feind aus der Stadt.
+[Mission1.Description]
+Eine kleine Gruppe Deutscher befindet sich in der Stadt voraus. Der Feind weiss nichts von Ihrer Präsenz, also müssen wir schnell und entschlossen angreifen um ihn zu vertreiben.
+
+Ihre Befehle:
+-	 Befreien Sie die Stadt von den Deutschen.
+[Mission1.Success]
+Befehl ausgeführt, der Feind ist geschlagen und die Stadt ist befreit! Die Alliierte Offensive kann nun weitergehen.
+[Mission1.Failed]
+Mission gescheitert! Ihre Truppen wurden ausgeschaltet! Diese Niederlage wird den Rest der Operation wesentlich schwieriger machen.
+[Submission2.Objectives]
+Schlagen Sie den deutschen Angriff zurück.
+[Submission2.Description]
+Die Situation ist ernst! Die Deutschen haben ihre Reserven in das Operationsgebiet verlegt. Deutsche Einheiten haben einen Durchbruch erzwungen, und nähern sich Ihrer Stellung in der Stadt um Sie daraus zu vertreiben.
+
+Ihre Befehle: 
+-	 Konsolidieren Sie Ihre Stellung und schlagen Sie die feindlichen Einheiten zurück.
+[Submission2.Success]
+Befehl wurde ausgeführt! Der feindliche Angriff wurde gestoppt. Gute Arbeit!
+[Submission2.Failed]
+Mission gescheitert! Ihre Truppen wurden aus der Stadt vertrieben. Ihre Niederlage bedroht den Erfolg der gesamten Operation!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.
+[StringTable.Subtitle_01]
+Frankreich. Juni 1944.

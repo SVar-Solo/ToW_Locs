@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+우팔리즈 일대의 모든 적 부대를 격파하라.
+[Mission.Description]
+라인강의 수비 작전이 개시되었다. 아군 선두 부대는 적의 후방 깊숙이 파고들었으나 바스토뉴 시 부근에서 강력한 저항에 부딪혔다.
+
+명령: 
+- 	전방의 시가지를 점령하라
+- 	고지에 참호를 파고 있는 적을 격파하라 
+[Mission.Success]
+시가지를 점령했다!
+[Mission.Failed]
+패배했다! 귀관의 모든 공격이 격퇴되었다.
+[Submission_1.Objectives]
+시가지 인근 고지에 교두보를 구축하라. 모든 적 병력과 포병을 격파하라. 
+[Submission_1.Description]
+시가지 인근 고지의 교두보는 미군 방어의 핵심 지점이다. 보병, 포병, 대전차포가 이 교두보를 방어하고 있다.
+
+명령: 
+- 	마주치는 모든 적 병력을 격파하고 교두보를 점령하라.
+[Submission_1.Success]
+교두보는 우리 것이다!
+[Submission_1.Failed]
+승리를 놓쳤다. 미군에게 패배했다!
+[Submission_2.Objectives]
+적의 반격을 격퇴하고 시가지를 점령하라.
+[Submission_2.Description]
+교두보를 처음 잃은 뒤 미군은 예비대를 투입하여 반격하고 있다. 
+
+명령:
+- 	교두보를 사수하고 적을 반격하여 시가지를 점령하라. 
+[Submission_2.Success]
+버텨냈다!
+[Submission_2.Failed]
+이 전투에서 패배했다!
+
+[StringTable.reserv]
+증원 부대가 도착했다.

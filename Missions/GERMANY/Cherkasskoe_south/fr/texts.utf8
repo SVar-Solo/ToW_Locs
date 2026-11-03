@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+L'équipe de combat occupera la périphérie sud de Tcherkasskoïe et se regroupera sur l'objectif.
+[Mission.Description]
+La reconnaissance précisera la position de l'ennemi, sa puissance de feu et les points de franchissement du fossé antichar. Franchissez le fossé antichar le plus vite possible et détruisez la première ligne de défense. Contournez et neutralisez les défenses soviétiques, puis consolidez-vous dans la zone bâtie.
+[Mission.Success]
+La partie sud de Tcherkasskoïe est occupée. Les forces ennemies se sont repliées vers le nord.
+[Mission.Failed]
+Nous avons échoué à exécuter l'ordre. L'ennemi est trop fort !
+[Submission_1.Objectives]
+Atteignez la première ligne de tranchées ennemies et prenez les positions avec l'infanterie.
+[Submission_1.Success]
+La ligne d'obstacles est franchie. Attaque de la première tranchée en cours.
+[Submission_1.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire !
+[Submission_2.Objectives]
+Attaquez l'ennemi à la périphérie sud de Tcherkasskoïe. Occupez le village et tenez-le.
+[Submission_2.Success]
+La partie sud de Tcherkasskoïe est occupée.
+[Submission_2.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire !
+[Submission_3.Objectives]
+Repoussez la contre-attaque des chars ennemis. Empêchez l'ennemi de s'emparer de la zone bâtie.
+[Submission_3.Success]
+La contre-attaque ennemie a été mise en échec avec succès.
+[Submission_3.Failed]
+Nos forces se replient sous la pression de l'ennemi.
+[StringTable.Ifantry_support]
+Une unité d'infanterie est désormais sous votre commandement.
+[StringTable.Inf_1]
+Infanterie
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

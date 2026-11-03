@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Arrange your defenses along the outskirts of Saint-Lo. You should be able to ambush the enemy as they approach the town. 
+[Submission_1.Description]
+Arrange your defenses along the outskirts of Saint-Lo. You have a squad of Elite Fallschirmjaegers at your disposal. Use them wisely.
+
+Your orders: 
+- 	Ambush the approaching American forces.
+[Submission_1.Success]
+The American reconnaissance party has been destroyed.
+[Submission_1.Failed]
+The ambush has failed!
+[Submission_2.Objectives]
+Repel the enemy attack using all forces at your disposal.
+[Submission_2.Description]
+The American forces are trying to establish a foothold in Normandy at Saint-Lo is the key. We must keep them from taking this vital town.
+
+Your orders: 
+-	Repel attacks by the U.S. forces using any means necessary.
+[Submission_2.Success]
+Success! You have thwarted the American attack!
+[Submission_2.Failed]
+You have lost commander. The Americans are now pushing ahead and our plans to drive them back into the sea maybe lost forever.
+[Submission_3.Objectives]
+Hold this position at all costs.
+[Submission_3.Description]
+The Americans are tough and stubborn, but they must not be allowed to take Saint-Lo and only you can stop them!
+
+Your orders: 
+- 	Hold your positions and stop the American advance.
+[Submission_3.Success]
+You have held out. We must continue to stop the Americans at every opportunity.
+[Submission_3.Failed]
+You have lost. We can not afford such defeats commander.
+[Mission.Objectives]
+Hold your positions on the hills overlooking Saint-Lo. 
+[Mission.Description]
+The town of Saint-Lo has strategic importance for both the German army and the Americans. Losing this town effectively means losing the chance to drive the Americans back into the sea. There are two hills just on the outskirts of town, which should provide exceptional defensive positions to engage the approaching Americans. Defend the town commander; Germany’s fate depends on it!
+
+Your orders:
+- 	Deploy your forces on the hills and around the farm and stop the Americans at all costs!
+[Mission.Success]
+The German people will not forget your glorious victory today.
+[Mission.Failed]
+Because of your failure today, the American forces are now rushing to occupy Saint-Lo and our chances of victory have been diminished.
+[StringTable.tank_reserv]
+Tanks and artillery units have been assigned to your command. 
+[StringTable.reserv]
+Additional tanks and infantry are now under your command.

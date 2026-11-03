@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Libérez Cuverville et sécurisez les routes en vue de notre avance ultérieure.
+[Mission.Description]
+Le village stratégique de Cuverville possède des routes menant au sud et au sud-est. Les sécuriser est vital pour notre avance.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Sécurisez la ferme en périphérie de Cuverville.
+[Submission_1.Description]
+La ferme occupée par l’ennemi.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Libérez le village de Cuverville.
+[Submission_2.Description]
+L’ennemi s’est regroupé et a pris position défensive à Cuverville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Sécurisez la route menant au sud.
+[Submission_3.Description]
+Sécurisez la route et éliminez tous les hostiles dans le secteur.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Sécurisez la route au sud-est de Cuverville.
+[Submission_4.Description]
+Débarrassez la route et les environs de la présence ennemie.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+Mission accomplie.
+[Submission_4.Failed]
+Mission non accomplie.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission non accomplie.
+[Submission_2.Success]
+Cuverville prise. Mission accomplie.
+[Submission_2.Failed]
+Mission non accomplie.
+[Submission_3.Success]
+Mission accomplie.
+[Submission_3.Failed]
+Mission échouée.
+[StringTable.Tanks]
+Force de réserve disponible.

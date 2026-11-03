@@ -1,0 +1,1344 @@
+﻿
+ac_free	ДОСТУПНО:
+ac_total	ВЫДЕЛЕНО НА ВОЙСКА:
+Advanced_minimap_view_sector	Детальная проекция камеры на миникарте
+AIAmmoType.AP	Бр.
+AIAmmoType.APBC	Бр. (APBC)
+AIAmmoType.APC	Бр. (APC)
+AIAmmoType.APCBC	Бр. (APCBC)
+AIAmmoType.APCR	Подкалиберный (APCR)
+AIAmmoType.APDS	Подкалиберный (APDS)
+AIAmmoType.APHE	Бр. (APHE)
+AIAmmoType.APHEBC	Бр. (APHEBC)
+AIAmmoType.API	Бр. (API)
+AIAmmoType.HE	ОФ
+AIAmmoType.HEAC	Бетонобойный
+AIAmmoType.HEAT	Кумулятивный
+AIAmmoType.HEI	ОФЗ
+AIAmmoType.INC	Зажигательный
+AIAmmoType.SMOKE	Дымовой
+AIAmmoType.SMOKE_GRN	Дымовой			 
+AITypes.Country.GER	ГЕРМАНИЯ
+AITypes.Country.ITA	ИТАЛИЯ
+AITypes.Country.RUS	СССР
+AITypes.Country.UK	АНГЛИЯ
+AITypes.Country.USA	США
+AITypes.Country.PRK	КНДР
+AITypes.Country.FR	ФРАНЦИЯ
+AITypes.Country.POL	ПОЛЬША
+ArmyCompositionEx.AllTroops	ВСЕ ВОЙСКА
+ArmyCompositionEx.Balance	БАЛАНС
+ArmyCompositionEx.Buttons.Continue	Продолжить
+ArmyCompositionEx.Buttons.Tooltip.ByDefault	Восстановить списки по умолчанию
+ArmyCompositionEx.Buttons.Tooltip.Clear	Переместить все юниты в список резервов
+ArmyCompositionEx.Buttons.Tooltip.ToDeployment	Переместить выделенные юниты в список армии
+ArmyCompositionEx.Buttons.Tooltip.ToReserves	Переместить выделенные юниты в список резервов
+ArmyCompositionEx.ByCost	СТОИМОСТИ
+ArmyCompositionEx.ByDefault	ПО УМОЛЧАНИЮ
+ArmyCompositionEx.ByName	НАЗВАНИЮ
+ArmyCompositionEx.ByType	ТИПУ ЮНИТОВ
+ArmyCompositionEx.Clear	ОЧИСТИТЬ
+ArmyCompositionEx.Continue	ПРОДОЛЖИТЬ
+ArmyCompositionEx.Deployment	АРМИЯ
+ArmyCompositionEx.Load	ЗАГРУЗИТЬ
+ArmyCompositionEx.Reserves	РЕЗЕРВЫ
+ArmyCompositionEx.Return	НАЗАД
+ArmyCompositionEx.Save	СОХРАНИТЬ
+ArmyCompositionEx.SortBy	ОТСОРТИРОВАТЬ ПО
+ArmyCompositionEx.Title	ВЫБОР ВОЙСК
+ARTILLERY	Артиллерия
+ATTACK_PLANE	Штурмовики
+AuthorsEx.Title.Authors	АВТОРЫ
+BATTLE_EXPERIENCE	БОЕВОЙ ОПЫТ:
+BATTLE_POINTS_FOR_MISSION	ПОЛЕВАЯ ВЫУЧКА:
+BOMBER_PLANE	Бомбардировщики
+BriefingIcons.Chistyakov	Генерал-лейтенант Чистяков Иван Михайлович
+BriefingIcons.Eisenhower	Генерал Дуайт Дэвид Эйзенхауэр
+BriefingIcons.GERCorporal	Ефрейтор Хайнц Фляйшер
+BriefingIcons.Gerhard	Майор Юрген Герхард
+BriefingIcons.GERMajor	Майор Эрих Герхард
+BriefingIcons.Gernleyn	Генерал-майор Вальтер Хёрнляйн
+BriefingIcons.Heartman	Вернер Хартман
+BriefingIcons.Ivanov	Капитан Лагутин Иван Вячеславович
+BriefingIcons.Montgomery	Генерал Бернард Лоу Монтгомери
+BriefingIcons.NonCommissionedOfficer	Унтер-офицер
+BriefingIcons.Private	Сержант
+BriefingIcons.PRKOfficer	Капитан Ким Дон Джонг
+BriefingIcons.PRKPrivate	Рядовой Дон Юл Ма
+BriefingIcons.Rommel	Генерал-фельдмаршал Эрвин Роммель
+BriefingIcons.UKMajor	Майор Ричард Стивенс
+BriefingIcons.UKSergeant	Cержант Мелвин Дэйтон
+BriefingIcons.USALieutenantColonel	Подполковник Роджер Уотерс
+BriefingIcons.USAOfficer	Лейтенант Джон Смит
+BriefingIcons.USAPrivate	Рядовой Ральф Райт
+BriefingIcons.USASergeant	Cержант Джек Форд
+BriefingsPanelEx.Briefing	БРИФИНГ
+BriefingsPanelEx.PrimaryTask	Основная задача
+BriefingsPanelEx.SecondaryTasks	Дополнительные задачи
+Camera_Mode	РЕЖИМ КАМЕРЫ
+Camera_Mode1	СВОБОДНАЯ КАМЕРА
+Camera_Mode2	ПРИВЯЗКА К ЦЕНТРУ
+Camera_Mode3	ПРИВЯЗКА К КУРСОРУ
+CampaignGenerator.AvailableBattleGroups	ДОСТУПНЫЕ БОЕВЫЕ ГРУППЫ
+CampaignGenerator.AvailableMaps	ДОСТУПНЫЕ КАРТЫ
+CampaignGenerator.AvailableSupportsAndReinforcements	ДОСТУПНЫЕ ПОДДЕРЖКИ И ПОДКРЕПЛЕНИЯ
+CampaignGenerator.CampaignTurns	ХОДОВ В КАМПАНИИ
+CampaignGenerator.EnemyCountry	ПРОТИВНИК
+CampaignGenerator.Fuel	ТОПЛИВО
+CampaignGenerator.NeutralCountry	НЕЙТРАЛЬНАЯ
+CampaignGenerator.NoBonusObject	ОТСУТСТВУЕТ
+CampaignGenerator.PlayerCountry	ИГРОК
+CampaignGenerator.Title	ГЕНЕРАТОР КАМПАНИЙ
+CampaignGenerator.ZoneAffinity	ПРИНАДЛЕЖНОСТЬ
+CampaignGenerator.ZoneBonus	БОНУСНЫЙ ОБЪЕКТ
+CampaignGenerator.ZoneDescription	ОПИСАНИЕ ЗОНЫ
+CampaignGenerator.ZoneLandscape	ЛАНДШАФТ
+CampaignGenerator.ZoneName	НАЗВАНИЕ ЗОНЫ
+CampaignGenerator.Zones	ЗОНЫ
+CampaignGenerator.ZoneType	ТИП ЗОНЫ
+CANCEL_LOADING_MISSION	ОТМЕНИТЬ ЗАГРУЗКУ СРАЖЕНИЯ?
+COMPLETED_BATTLES	БОЕВЫЕ ОПЕРАЦИИ:
+CONNECTING_PTS	ПОДКЛЮЧЕНИЕ...
+Countries.GER	ГЕРМАНИЯ
+Countries.ITA	ИТАЛИЯ
+Countries.PRK	СЕВЕРНАЯ КОРЕЯ
+Countries.RUS	СССР
+Countries.UK	ВЕЛИКОБРИТАНИЯ
+Countries.USA	СОЕДИНЁННЫЕ ШТАТЫ
+Countries.FR	ФРАНЦИЯ
+Countries.POL	ПОЛЬША
+CREATE_PROFILE	СОЗДАТЬ НОВЫЙ ПРОФИЛЬ
+DamageMessages.Additional.Destroyed	Уничтожен
+DamageMessages.Additional.Detonation	Детонация
+DamageMessages.Additional.Fire	Пожар
+DamageMessages.Additional.NoCriticalDamages	Нет серьёзных повреждений
+DamageMessages.Additional.Ricochet	Рикошет
+DamageMessages.Additional.ShellHasCollapsed	Снаряд разрушился
+DamageMessages.Additional.ShellNormalization	Нормализация снаряда
+DamageMessages.Hit.Cabin	Попадание в рубку
+DamageMessages.Hit.Cabin.Aft	Попадание в корму рубки
+DamageMessages.Hit.Cabin.Crown	Попадание в лоб рубки
+DamageMessages.Hit.Cabin.LeftSide	Попадание в левый борт рубки
+DamageMessages.Hit.Cabin.RightSide	Попадание в правый борт рубки
+DamageMessages.Hit.Cabin.Roof	Попадание в крышу рубки
+DamageMessages.Hit.Hull	Попадание в корпус
+DamageMessages.Hit.Hull.Aft	Попадание в корму корпуса
+DamageMessages.Hit.Hull.Crown	Попадание в лоб корпуса
+DamageMessages.Hit.Hull.LeftSide	Попадание в левый борт корпуса
+DamageMessages.Hit.Hull.RightSide	Попадание в правый борт корпуса
+DamageMessages.Hit.Hull.Roof	Попадание в крышу корпуса
+DamageMessages.Hit.Tower	Попадание в башню
+DamageMessages.Hit.Tower.Aft	Попадание в корму башни
+DamageMessages.Hit.Tower.Crown	Попадание в лоб башни
+DamageMessages.Hit.Tower.LeftSide	Попадание в левый борт башни
+DamageMessages.Hit.Tower.RightSide	Попадание в правый борт башни
+DamageMessages.Hit.Tower.Roof	Попадание в крышу башни
+DamageMessages.Hit.Track	Попадание в гусеницу
+DamageMessages.Hit.Weapon	Попадание в орудие
+DamageMessages.Hit.WeaponMask	Попадание в маску орудия
+DamageMessages.Hit.Wheel	Попадание в колесо
+DamageMessages.Mode.All	Режим отображения повреждений: полный
+DamageMessages.Mode.Hits	Режим отображения повреждений: попадания
+DamageMessages.Mode.None	Режим отображения повреждений: отключён
+DamageMessages.Mode.Penetrations	Режим отображения повреждений: пробития
+DamageMessages.Mode.Ricochets	Режим отображения повреждений: рикошеты
+DamageMessages.Mode.ShellCollapses	Режим отображения повреждений: разрушения снарядов
+DamageMessages.Perforation.Cabin	Пробитие рубки
+DamageMessages.Perforation.Cabin.Aft	Пробитие кормы рубки
+DamageMessages.Perforation.Cabin.Crown	Пробитие лба рубки
+DamageMessages.Perforation.Cabin.LeftSide	Пробитие левого борта рубки
+DamageMessages.Perforation.Cabin.RightSide	Пробитие правого борта рубки
+DamageMessages.Perforation.Cabin.Roof	Пробитие крыши рубки
+DamageMessages.Perforation.Hull	Пробитие корпуса
+DamageMessages.Perforation.Hull.Aft	Пробитие кормы корпуса
+DamageMessages.Perforation.Hull.Crown	Пробитие лба корпуса
+DamageMessages.Perforation.Hull.LeftSide	Пробитие левого борта корпуса
+DamageMessages.Perforation.Hull.RightSide	Пробитие правого борта корпуса
+DamageMessages.Perforation.Hull.Roof	Пробитие крыши корпуса
+DamageMessages.Perforation.Optics	Оптический прибор поврежден
+DamageMessages.Perforation.Tower	Пробитие башни
+DamageMessages.Perforation.Tower.Aft	Пробитие кормы башни
+DamageMessages.Perforation.Tower.Crown	Пробитие лба башни
+DamageMessages.Perforation.Tower.LeftSide	Пробитие левого борта башни
+DamageMessages.Perforation.Tower.RightSide	Пробитие правого борта башни
+DamageMessages.Perforation.Tower.Roof	Пробитие крыши башни
+DamageMessages.Perforation.Track	Пробитие гусеницы
+DamageMessages.Perforation.Weapon	Пробитие орудия
+DamageMessages.Perforation.WeaponMask	Пробитие маски орудия
+DamageMessages.Perforation.Wheel	Пробитие колеса
+DamageMessages.UserUnits.BrokenTransmission	Повреждена трансмиссия
+DamageMessages.UserUnits.BrokenWeapon	Орудие разбито
+DamageMessages.UserUnits.CommanderWasKilled	Командир убит
+DamageMessages.UserUnits.CrewLosses	Потери в экипаже
+DamageMessages.UserUnits.CrewtIsLost	Экипаж погиб
+DamageMessages.UserUnits.DestroyedEngine	Двигатель уничтожен
+DamageMessages.UserUnits.DetachmentIsLost	Расчет погиб
+DamageMessages.UserUnits.DetachmentLosses	Потери в расчете
+DamageMessages.UserUnits.DriverWasKilled	Механик-водитель убит
+DamageMessages.UserUnits.GunnerWasKilled	Наводчик убит
+DamageMessages.UserUnits.InnerArmorChipping	Внутреннее скалывание брони
+DamageMessages.UserUnits.LoaderWasKilled	Заряжающий убит
+DamageMessages.UserUnits.MachineGunnerWasKilled	Пулемётчик убит
+DamageMessages.UserUnits.Petrified	Обездвижен
+DamageMessages.UserUnits.TowerWasJammed	Башню заклинило
+PanicMessages.ReasonEmpty			Паникует
+PanicMessages.ReasonHit				Задет попаданием
+PanicMessages.ReasonFlinch			Под огнем
+PanicMessages.ReasonWounds			Ранение
+PanicMessages.ReasonAlliesDeath		Гибель товарищей
+PanicMessages.ReasonAlliesInPanic	Низкая сплочённость
+PanicMessages.ReasonEnemyAdvantage	Перевес врага
+DELETE_PROFILE	УДАЛИТЬ ПРОФИЛЬ
+DELETE_THIS_RECORD	УДАЛИТЬ ЭТУ ЗАПИСЬ?
+Disable_all	Отключить все звуки
+DispositionMode.WaitingForClientsMessage	ОЖИДАНИЕ ИГРОКОВ
+DispositionPanel.DispositionPanelTitle	РЕЖИМ РАССТАНОВКИ ВОЙСК
+DispositionPanel.FinishDispositionMoide	НАЧАТЬ БОЙ
+DLC.ActivationStatus.GeneralError	ошибка - общий сбой
+DLC.ActivationStatus.NoServerConnection	ошибка - нет соединения с сервером активации
+DLC.ActivationStatus.Pending	производится активация...
+DLC.ActivationStatus.Rejection	ошибка - активация элемента для серийного номера игры не разрешена
+DLC.ActivationStatus.Success	активация успешно завершена
+DLC.ActivationStatus.WrongSerialNumber	ошибка - неверный серийный номер
+DLCActivationEx.ActivateDLCSerial	АКТИВИРОВАТЬ
+DLCActivationEx.ActivationStatus	Статус активации
+DLCActivationEx.EnterSerialNumber	Введите серийный номер ПСК элемента:
+DropCountPanel.Cancel	ОТМЕНА
+DropCountPanel.OK	OK
+DropCountPanel.Title	количество
+EAX	Использовать EAX
+EncyclopaediaEx.Title.Encyclopaedia	ЭНЦИКЛОПЕДИЯ
+END_MISSION	ВЫЙТИ ИЗ БОЯ?
+EscapeMenuEx.Continue	ПРОДОЛЖИТЬ
+EscapeMenuEx.ContinueTooltip	Продолжить игру
+EscapeMenuEx.Diary	ДНЕВНИК
+EscapeMenuEx.DiaryTooltip	Открыть дневник
+EscapeMenuEx.EndMission	ЗАВЕРШИТЬ БОЙ
+EscapeMenuEx.EndMissionTooltip	Завершить бой
+EscapeMenuEx.LoadGame	ЗАГРУЗИТЬ ИГРУ
+EscapeMenuEx.LoadGameTooltip	Загрузить игру
+EscapeMenuEx.Options	НАСТРОЙКИ
+EscapeMenuEx.OptionsTooltip	Перейти в меню настроек
+EscapeMenuEx.Restart	ПЕРЕИГРАТЬ
+EscapeMenuEx.RestartTooltip	Переиграть бой
+EscapeMenuEx.Retreat	ОТСТУПИТЬ С ПОЛЯ БОЯ
+EscapeMenuEx.SaveGame	СОХРАНИТЬ ИГРУ
+EscapeMenuEx.SaveGameTooltip	Сохранить игру
+EscapeMenuEx.WinMission	ВЫИГРАТЬ БОЙ
+EscapeMenuEx.WinMissionTooltip	Выиграть бой
+FIGHTER_PLANE	Истребители
+FireHint.OutOfRange	За пределами дальности огня
+FireHint.OutOfHorAngles За пределами горизонтальной наводки
+FireHint.OutOfMaxAngleDown Недостаточный угол склонения орудия
+FireHint.OutOfMaxAngleUp	Недостаточный угол возвышения орудия
+FireHint.ObstacleOnTrajectory	Препятствие на линии огня
+FireHint.NoAmmo	Боеприпас не заряжен
+FrontEnd.Buttons.Cancel	ОТМЕНИТЬ
+FrontEnd.Buttons.Continue	ПРОДОЛЖИТЬ
+FrontEnd.Buttons.MainMenu	ГЛАВНОЕ МЕНЮ
+FrontEndBase.Localization.Alliance	АЛЬЯНС
+FrontEndBase.Localization.Army	АРМИЯ
+FrontEndBase.Localization.AutoSave	- АВТО СОХРАНЕНИЕ -
+FrontEndBase.Localization.AutoSave.Map	- АВТО СОХРАНЕНИЕ (карта) -
+FrontEndBase.Localization.AutoSave.Skills	- АВТО СОХРАНЕНИЕ (награды) -
+FrontEndBase.Localization.Battle	СРАЖЕНИЕ
+FrontEndBase.Localization.Battles	СРАЖЕНИЯ
+FrontEndBase.Localization.Campaigns	КАМПАНИИ
+FrontEndBase.Localization.CampaignsWWII		Вторая Мировая
+FrontEndBase.Localization.CampaignsAfrica	Африка 1943. Чентауро
+FrontEndBase.Localization.CampaignsKursk	Курск 1943. Канн
+FrontEndBase.Localization.CampaignsKorea	Корея 1950
+FrontEndBase.Localization.Country	СТРАНА
+FrontEndBase.Localization.CountryFilter.GER	Отобразить / скрыть немецкие юниты
+FrontEndBase.Localization.CountryFilter.ITA	Отобразить / скрыть итальянские юниты
+FrontEndBase.Localization.CountryFilter.PRK	Отобразить / скрыть корейские юниты
+FrontEndBase.Localization.CountryFilter.RUS	Отобразить / скрыть русские юниты
+FrontEndBase.Localization.CountryFilter.UK	Отобразить / скрыть английские юниты
+FrontEndBase.Localization.CountryFilter.USA	Отобразить / скрыть американские юниты
+FrontEndBase.Localization.CountryFilter.POL	Отобразить / скрыть польские юниты
+FrontEndBase.Localization.CountryFilter.FR	Отобразить / скрыть французские юниты																   
+FrontEndBase.Localization.Create	СОЗДАТЬ
+FrontEndBase.Localization.DateTime	ДАТА \ ВРЕМЯ
+FrontEndBase.Localization.DateTime.Date	ДЕНЬ
+FrontEndBase.Localization.DateTime.Month	МЕСЯЦ
+FrontEndBase.Localization.DateTime.Year	ГОД
+FrontEndBase.Localization.Defeat	ПОРАЖЕНИЕ
+FrontEndBase.Localization.Epilogue	Эпилог
+FrontEndBase.Localization.Experience	ОПЫТ
+FrontEndBase.Localization.Groups	ВОЙСКА
+FrontEndBase.Localization.Load	ЗАГРУЗИТЬ
+FrontEndBase.Localization.NewSave Новое сохранение
+FrontEndBase.Localization.Months.Short.April	АПР
+FrontEndBase.Localization.Months.Short.August	АВГ
+FrontEndBase.Localization.Months.Short.December	ДЕК
+FrontEndBase.Localization.Months.Short.February	ФЕВ
+FrontEndBase.Localization.Months.Short.January	ЯНВ
+FrontEndBase.Localization.Months.Short.July	ИЮЛ
+FrontEndBase.Localization.Months.Short.June	ИЮН
+FrontEndBase.Localization.Months.Short.March	МАР
+FrontEndBase.Localization.Months.Short.May	МАЙ
+FrontEndBase.Localization.Months.Short.November	НОЯ
+FrontEndBase.Localization.Months.Short.October	ОКТ
+FrontEndBase.Localization.Months.Short.September	СЕН
+FrontEndBase.Localization.MyArmy	МОЯ АРМИЯ
+FrontEndBase.Localization.Name	ИМЯ
+FrontEndBase.Localization.Owner	ГРУППА
+FrontEndBase.Localization.Player	ИГРОК
+FrontEndBase.Localization.Players	ИГРОКИ
+FrontEndBase.Localization.Points	ОЧКИ
+FrontEndBase.Localization.QuickSave	- БЫСТРОЕ СОХРАНЕНИЕ -
+FrontEndBase.Localization.Rank	ЗВАНИЕ
+FrontEndBase.Localization.Reinforcements	ПОДКРЕПЛЕНИЯ
+FrontEndBase.Localization.Remove	УДАЛИТЬ
+FrontEndBase.Localization.RemoveAll	УДАЛИТЬ ВСЁ
+FrontEndBase.Localization.Result	РЕЗУЛЬТАТ
+FrontEndBase.Localization.Retreat	ОТСТУПЛЕНИЕ
+FrontEndBase.Localization.Saves	СОХРАНЕНИЯ
+FrontEndBase.Localization.Staff	ЛИЧНЫЙ СОСТАВ
+FrontEndBase.Localization.StartBattle	НАЧАТЬ БОЙ
+FrontEndBase.Localization.Status	СТАТУС
+FrontEndBase.Localization.Task	ЗАДАЧА
+FrontEndBase.Localization.Title	НАЗВАНИЕ
+FrontEndBase.Localization.Tutorial	ОБУЧЕНИЕ
+FrontEndBase.Localization.Type	ТИП
+FrontEndBase.Localization.UserCampaigns	КАМПАНИИ ПОЛЬЗОВАТЕЛЯ
+FrontEndBase.Localization.Victory	ПОБЕДА
+FrontEndBase.Localization.Reinforcement	Подкрепление
+GameSettings_CheckCameraWheelInvert	ИНВЕРСИЯ РОЛИКА МЫШИ
+GameSettings_MouseButtonsInvert	ИНВЕРСИЯ КНОПОК МЫШИ (ЛЕВАЯ \ ПРАВАЯ)
+GameSettings_ShowTooltip	ВСПЛЫВАЮЩАЯ ПОДСКАЗКА
+GameSettings_TooltipDelay	ЗАДЕРЖКА ВСПЛЫВАЮЩИХ ПОДСКАЗОК (мс)
+GlobalData.PressRightMouseButtonMessage	Нажмите правую кнопку мыши для выбора
+Grenades	Гранаты
+HISTORICAL_UNITS_CHANGE_NORIFICATION	Изменение настройки "ИСТОРИЧЕСКИЙ НАБОР ЮНИТОВ"\nвступит в силу только после начала новой кампании
+HumanCharacteristics.APGrenades	гранат AP
+HumanCharacteristics.Awards	награды
+HumanCharacteristics.HEGrenades	гранат HE
+HumanCharacteristics.Job	должность
+HumanCharacteristics.Rank	звание
+HumanCharacteristics.SMGrenades	гранат SM
+HumanCharacteristics.State	состояние
+HumanCharacteristics.Weapon	оружие
+HumanCharacteristics.Morale	боевой дух
+HumanCharacteristics.Grenades гранаты
+HumanCharacteristics.AP	AP
+HumanCharacteristics.HE	HE
+HumanCharacteristics.SM	SM
+
+HumanCharacteristics.APGrenades.ToolTip	Количество противотанковых гранат и мин
+HumanCharacteristics.HEGrenades.ToolTip	Количество противопехотных гранат и мин
+HumanCharacteristics.Job.ToolTip		Должность
+HumanCharacteristics.Rank.ToolTip		Звание
+HumanCharacteristics.SMGrenades.ToolTip	Количество дымовых гранат
+HumanCharacteristics.State.ToolTip		Действие, выполняемое в текущий момент
+HumanCharacteristics.Weapon.ToolTip		Тип вооружения в руках
+
+HumanCharacteristics.Morale.ToolTip.Level			Боевой дух
+HumanCharacteristics.Morale.ToolTip.Hit				Задет попаданием
+HumanCharacteristics.Morale.ToolTip.Flinch			Под обстрелом
+HumanCharacteristics.Morale.ToolTip.EnemiesDeath	Враг уничтожен
+HumanCharacteristics.Morale.ToolTip.AlliesDeath		Гибель товарищей
+HumanCharacteristics.Morale.ToolTip.Leadership		Лидерство
+HumanCharacteristics.Morale.ToolTip.InCrew			В экипаже
+HumanCharacteristics.Morale.ToolTip.AlliesInPanic	Товарищи паникуют
+HumanCharacteristics.Morale.ToolTip.AlliesPower		Товарищи рядом
+HumanCharacteristics.Morale.ToolTip.Danger			Уровень опасности
+HumanCharacteristics.Morale.ToolTip.Wounds			Ранения
+HumanDataWindow.Skills.Accuracy	меткость
+HumanDataWindow.Skills.Driving	вождение
+HumanDataWindow.Skills.Experience	опыт
+HumanDataWindow.Skills.Experience.Desc	Уровень обученности
+HumanDataWindow.Skills.Gunner	наводчик
+HumanDataWindow.Skills.Scouting	разведка
+HumanDataWindow.Skills.Title	навыки
+HumanInventory.Backpack	рюкзак
+HumanInventory.Buttons.ClosePanel	ЗАКРЫТЬ
+HumanInventory.Buttons.PickAllItems	ВЗЯТЬ ВСЁ
+HumanInventory.Buttons.PickBestItems	ВЗЯТЬ ЛУЧШЕЕ
+HumanInventory.Inventory	инвентарь
+IconListBoxItem_emptyAmmoName	БОЕПРИПАСЫ
+IconListBoxItem_emptyWpnName	ОРУЖИЕ
+InetServer.AccessDenied	Доступ запрещён
+InetServer.ConnectGameNotRegistered	Игра не зарегистрирована в системе поиска серверов
+InetServer.ConnectionLost	Потеряна связь с системой поисков серверов
+InetServer.ConnectIServerOverloaded	Система поиска серверов перегружена
+InetServer.ConnectIServerUnavailable	Система поиска серверов недоступна
+InetServer.ConnectPasswordRestricted	Пароли в системе поиска серверов запрещены
+InetServer.ConnectServerNameAlreadyExists	Сервер с таким именем уже зарегистрирован
+InetServer.JoinServerUnavailable	Этот игровой сервер уже недоступен
+InetServer.UnknownError	В системе поиска серверов произошла неизвестная ошибка
+Infantry_Group	Пехотная группа
+Infantry_Group_Crew	Экипаж
+Infantry_Group_Passengers	Пассажиры
+ItemsInfoWindow.Ammos	Боекомплекты
+ItemsInfoWindow.Ammunition	Амуниция
+ItemsInfoWindow.Weapons	Оружие
+JET_MORTAR_SUPPORT	Реактивная артиллерия
+Job.Commander	Командир
+Job.Commander_Engineer	Командир
+Job.Driver	Водитель
+Job.Engineer	Инженер
+Job.Infantry	Пехотинец
+Job.Loader	Заряжающий
+Job.MachineGunner	Пулеметчик
+Job.Passenger	Пассажир
+Job.Passenger10	Пассажир
+Job.Passenger11	Пассажир
+Job.Passenger12	Пассажир
+Job.Passenger2	Пассажир
+Job.Passenger3	Пассажир
+Job.Passenger4	Пассажир
+Job.Passenger5	Пассажир
+Job.Passenger6	Пассажир
+Job.Passenger7	Пассажир
+Job.Passenger8	Пассажир
+Job.Passenger9	Пассажир
+Job.Recon	Разведчик
+Job.Shooter	Наводчик
+Job.Sniper	Снайпер
+LandscapeTypeEnum.MARSHES_AND_MEADOWS	БОЛОТА И ЗАЛИВНЫЕ ЛУГА
+LandscapeTypeEnum.MOUNTAINS	ГОРЫ
+LandscapeTypeEnum.RIVERS_AND_CANALS	РЕКИ И КАНАЛЫ
+LandscapeTypeEnum.TOWNS_AND_VILLAGES	ГОРОДА И ДЕРЕВНИ
+LandscapeTypeEnum.VALLEYS	ДОЛИНЫ
+LandscapeTypeEnum.WOODS	ЛЕСА
+LoadingEx.Cancel	ОТМЕНИТЬ
+LoadingEx.CancelTooltip	Отменить загрузку сражения
+LOAD_COMPLETE	Игра загружена
+LocalNetMenu.NET_PASSWORD	ВВЕДИТЕ ПАРОЛЬ
+MainMenuButtonPanel.MainMenuTitle	МЕНЮ
+MainMenuEx.Authors	АВТОРЫ
+MainMenuEx.Battles	СРАЖЕНИЯ
+MainMenuEx.Campaigns	КАМПАНИИ
+MainMenuEx.DesignerMode	ДИЗАЙН
+MainMenuEx.DLCActivation	АКТИВАЦИЯ ПСК
+MainMenuEx.Encyclopedia	ЭНЦИКЛОПЕДИЯ
+MainMenuEx.Exit	ВЫХОД
+MainMenuEx.GameMode	ИГРА
+MainMenuEx.Multiplayer	СЕТЕВАЯ ИГРА
+MainMenuEx.PlayIntro	ПРОИГРАТЬ РОЛИК
+MainMenuEx.PlayIntroTooltip	Проиграть ролик
+MainMenuEx.Settings	НАСТРОЙКИ
+MainMenuEx.TemplateCampaign	ШАБЛОН КАМПАНИИ
+MainMenuEx.TutorialMode	ОБУЧЕНИЕ
+Master_volume	ГРОМКОСТЬ
+MessageBoxEx.No	НЕТ
+MessageBoxEx.Yes	ДА
+MESSAGE_RESOLUTION_CHANGED	Разрешение экрана изменилось. Сохранить изменения?
+Minimap_btn_Quest_Tooltip	Боевые задачи
+MissionDiaryEx.Buttons.ArmyComposition	ВЫБОР ВОЙСК
+MissionDiaryEx.Buttons.StartBattle	НАЧАТЬ БОЙ
+MissionDiaryEx.Difficulty.ExperiencedFighter	ОПЫТНЫЙ
+MissionDiaryEx.Difficulty.Recruit	НОВОБРАНЕЦ
+MissionDiaryEx.Difficulty.Veteran	ВЕТЕРАН
+MissionDiaryEx.DifficultyLevel	СЛОЖНОСТЬ БОЯ
+MissionDiaryEx.Morale	БОЕВОЙ ДУХ
+MissionDiaryEx.Title.Diary	ДНЕВНИК
+MissionDiaryEx.Title.MissionDescription	ОПИСАНИЕ СРАЖЕНИЯ
+MissionEnd.DISCONNECT_FROM_SERVER	ОТКЛЮЧИТЬСЯ ОТ СЕРВЕРА?
+MissionEndEx.Enemy	ВРАГ
+MissionEscape.DISCONNECT_FROM_SERVER	ОТКЛЮЧИТЬСЯ ОТ СЕРВЕРА И ЗАВЕРШИТЬ ИГРУ?
+MissionEscape.DROP_ALL_CLIENTS_AND_END_MISSION	СБРОСИТЬ ВСЕХ КЛИЕНТОВ И ЗАВЕРШИТЬ ИГРУ?
+MissionGenerator.BattleSize	Размер битвы
+MissionGenerator.BattleSize.Large	Большая (1600 на 1600)
+MissionGenerator.BattleSize.Medium	Средняя (1200 на 1200)
+MissionGenerator.BattleSize.Small	Маленькая (800 на 800)
+MissionGenerator.BattleType	Тип битвы
+MissionGenerator.BattleType.AIStorm	Осада
+MissionGenerator.BattleType.Attack	Атака
+MissionGenerator.BattleType.Defend	Оборона
+MissionGenerator.BattleType.Siege	Окружение
+MissionGenerator.BattleType.Storm	Штурм
+MissionGenerator.Campaign	КАМПАНИЯ
+MissionGenerator.CampaignDescription	ОПИСАНИЕ КАМПАНИИ
+MissionGenerator.CampaignName	НАЗВАНИЕ КАМПАНИИ
+MissionGenerator.Computer	КОМПЬЮТЕР
+MissionGenerator.Country	Страна
+MissionGenerator.DefaultCampaignDescription	Описание новой кампании
+MissionGenerator.DefaultCampaignName	Новая кампания
+MissionGenerator.DefaultMissionDescription	Описание новой миссии
+MissionGenerator.DefaultMissionName	Новая миссия
+MissionGenerator.LaunchMission	ЗАПУСТИТЬ
+MissionGenerator.Map	Карта
+MissionGenerator.Mission.Description	Описание миссии
+MissionGenerator.Mission.Name	Название миссии
+MissionGenerator.NewCampaign	<< НОВАЯ КАМПАНИЯ >>
+MissionGenerator.NewCampaignGeneration	НОВАЯ КАМПАНИЯ
+MissionGenerator.Random	Случайный выбор
+MissionGenerator.SaveMission	СОХРАНИТЬ
+MissionGenerator.SingleMissions	ОДИНОЧНЫЕ МИССИИ
+MissionGenerator.Support	Поддержка
+MissionGenerator.Support.Artillery	Артиллерия
+MissionGenerator.Support.Aviation	Авиация
+MissionGenerator.Support.Mixed	Смешанная
+MissionGenerator.Support.None	Отсутствует
+MissionGenerator.Title	ГЕНЕРАТОР МИССИЙ
+MissionGenerator.Troops.Experience	Опыт войск
+MissionGenerator.Troops.Experience.Elite	Элита
+MissionGenerator.Troops.Experience.Novice	Новички
+MissionGenerator.Troops.Experience.Regular	Регулярные войска
+MissionGenerator.Troops.Experience.Veterans	Ветераны
+MissionGenerator.Troops.Type	Род войск
+MissionGenerator.Troops.Type.Artillery	Артиллерийский батальон
+MissionGenerator.Troops.Type.Cars	Моторизованная дивизия
+MissionGenerator.Troops.Type.Infantry	Пехотная дивизия
+MissionGenerator.Troops.Type.Tanks	Танковый батальон
+MissionGenerator.Weather	Окружение
+MissionRec.UNKNOWN_MIS_DESCRIPTION	Новое сражение
+MissionsListEx.ConfirmCampaignRemoval	Вы действительно хотите удалить выбранную кампанию?
+MissionsListEx.ConfirmMissionRemoval	Вы действительно хотите удалить выбранную миссию?
+MissionsListEx.MissingStoresMessage	Для использования выбранной миссии Вам необходимо\nприобрести один из следующих платных элементов:
+MissionStatistics.AbsoluteDefeat	РАЗГРОМ
+MissionStatistics.AbsoluteVictory	ГРАНДИОЗНАЯ ПОБЕДА
+MissionStatistics.Defeat	ПОРАЖЕНИЕ
+MissionStatistics.Tie	ПИРРОВА ПОБЕДА
+MissionStatistics.TotalDefeat	ПОЛНОЕ ПОРАЖЕНИЕ
+MissionStatistics.TotalVictory	БЕЗОГОВОРОЧНАЯ ПОБЕДА
+MissionStatistics.Victory	ПОБЕДА
+MISSION_RETREAT	Вы действительно хотите отступить?
+MISSION_VICTORY	Сражение выиграно!
+MORTAR_SUPPORT	Минометная поддержка
+MultiplayerChat.ForAll	[ Всем ]
+MultiplayerChat.ForAlliance	[ Союзникам ]
+MultiplayerCoordinationEx.ArmyCompositionAbortOnMapChange	Внимание!\n\nНа сервере был выбран иной район боевых действий,\nчто привело к  изменению доступных войск.
+MultiplayerCoordinationEx.ArmyTemplate	ШАБЛОН АРМИЙ
+MultiplayerCoordinationEx.AttackDefend	АТАКА-ОБОРОНА
+MultiplayerCoordinationEx.Battlefield	РАЙОН БОЕВЫХ ДЕЙСТВИЙ
+MultiplayerCoordinationEx.CaptureTheFlag	ЗАХВАТ ФЛАГОВ
+MultiplayerCoordinationEx.Chat	ЧАТ
+MultiplayerCoordinationEx.CheaterDetectedMessage.Part1	Внимание!\n\nИгрок '
+MultiplayerCoordinationEx.CheaterDetectedMessage.Part2	'\n\n был отключён за читерство!
+MultiplayerCoordinationEx.ClientConnected	Присоединился игрок
+MultiplayerCoordinationEx.ClientDisconnected	Отключился игрок
+MultiplayerCoordinationEx.CommandPoints	КОМАНДНЫЕ ОЧКИ
+MultiplayerCoordinationEx.FirstAlliance	КОМАНДА "А"
+MultiplayerCoordinationEx.ForAll	ВСЕМ
+MultiplayerCoordinationEx.ForAlliance	СОЮЗНИКАМ
+MultiplayerCoordinationEx.GameType	ТИП ИГРЫ
+MultiplayerCoordinationEx.Missions	СРАЖЕНИЯ
+MultiplayerCoordinationEx.NegativePointsMessage	У Вас отрицательное количество очков. Вы будете переведены в\nрежим выбора войск, где Вам придётся уменьшить состав армии.
+MultiplayerCoordinationEx.OnAllianceMembersChange	Внимание!\n\nСостав Вашей команды был изменён, что привело к изменению\nочков выбора войск и, соответственно, составу доступных войск.
+MultiplayerCoordinationEx.PointsLeftMessage	У Вас остались неиспользованные очки, которые можно\nзадействовать, активировав режим выбора войск.
+MultiplayerCoordinationEx.Random	СЛЧ
+MultiplayerCoordinationEx.Ready	ГОТОВ
+MultiplayerCoordinationEx.SecondAlliance	КОМАНДА "Б"
+MultiplayerCoordinationEx.Send	ОТПРАВИТЬ
+MultiplayerCoordinationEx.ServerPointsLeftMessage	У Вас остались неиспользованные очки,\nкоторые можнозадействовать,\nактивировав режим выбора войск.\n\nЖелаете ли Вы продолжить запуск игры?
+MultiplayerCoordinationEx.TeamPlay	ВСТРЕЧНЫЙ БОЙ
+MultiplayerCoordinationEx.TimeInMinutes	ВРЕМЯ (минут)
+MultiplayerEx.ConnectTo	ПРИСОЕДИНИТЬСЯ
+MultiplayerEx.CreateServer	СОЗДАТЬ СЕРВЕР
+MultiplayerEx.DirectIP	DIRECT IP
+MultiplayerEx.Internet	ИНТЕРНЕТ
+MultiplayerEx.IServerErrorOnServerCreationMessage	\n\nИгровой сервер будет доступен только в локальной сети.
+MultiplayerEx.LAN	LAN
+MultiplayerEx.MaxPlayers	МАКСИМУМ ИГРОКОВ
+MultiplayerEx.MPGamesTable.Map	КАРТА
+MultiplayerEx.MPGamesTable.Ping	ПИНГ
+MultiplayerEx.MPGamesTable.Players	ИГРОКОВ
+MultiplayerEx.MPGamesTable.Server	СЕРВЕР
+MultiplayerEx.MPGamesTable.Version	ВЕРСИЯ
+MultiplayerEx.Password	ПАРОЛЬ
+MultiplayerEx.PasswordConfirmation	ПОДТВЕРЖДЕНИЕ ПАРОЛЯ
+MultiplayerEx.PlayerName	ИМЯ ИГРОКА
+MultiplayerEx.Port	ПОРТ
+MultiplayerEx.Reset	СБРОСИТЬ
+MultiplayerEx.ServerIP	IP АДРЕС СЕРВЕРА
+MultiplayerEx.ServerName	НАЗВАНИЕ СЕРВЕРА
+MultiplayerPointsExchangeEx.Log.PointsSentByUser	очко(а, ов) прислал игрок
+MultiplayerPointsExchangeEx.Log.PointsSentToUser	очко(а, ов) перечислено игроку
+MultiplayerPointsExchangeEx.Title		Передача игроку
+MultiplayerPointsExchangeEx.Points		Очки
+MultiplayerPointsExchangeEx.Units		Юниты
+MultiplayerPointsExchangeEx.PointsTip	Передать указанному игроку установленное число очков
+MultiplayerPointsExchangeEx.UnitsTip	Передать указанному игроку выделенные юниты
+Music_volume	МУЗЫКА
+need_cost	НЕОБХОДИМО ВЫДЕЛИТЬ:
+NETBOTNAME	КОМПЬЮТЕР
+NetErrorCodes.BAD_GAME_VERSION	Неверная версия сервера
+NetErrorCodes.BAD_HOST_NAME	Неверное имя хоста: {0}
+NetErrorCodes.BAD_PASSWORD	Неверный пароль
+NetErrorCodes.CONNECTION_TOUT_NF	Таймаут из-за падения сети
+NetErrorCodes.CONNECTION_WITH_CLIENT_LOST	Связь с игроком {0} была потеряна
+NetErrorCodes.CONNECTION_WITH_SERVER_LOST	Связь с сервером {0} была потеряна
+NetErrorCodes.CONNECT_TIMEOUT	Не могу подключиться к серверу: таймаут
+NetErrorCodes.DISCONNECTED_BY_SERVER	Вы отключены сервером
+NetErrorCodes.NO_SERVER	Нет сервера
+NetErrorCodes.OK	OK
+NetErrorCodes.PLAYER_LEFT_THE_GAME	Игрок {0} покинул игру
+NetErrorCodes.PORT_IS_UNAVAILABLE	Хост {0} или порт {1} недоступен
+NetErrorCodes.SERVER_IS_FULL	Сервер переполнен
+NetErrorCodes.SERVER_IS_PLAYING	На сервере уже играют
+NetErrorCodes.SERVER_NOT_CREATED	Сервер не был создан
+NetErrorCodes.SOCKET_DISABLED	Сетевой сокет заблокирован
+NetErrorCodes.SOCKET_FULL	Сетевой сокет переполнен
+NetErrorCodes.SOCKS_FAILURE	Не могу соединиться с {0}:{1} через SOCKS5
+NetErrorCodes.UNKNOWN	Неизвестная ошибка
+NetErrorCodes.YOU_ARE_BLOCKED	Доступ на сервер запрещен
+NetMapsMenu.ALLIANCE_GROUP1	ГРУППА 1
+NetMapsMenu.ALLIANCE_GROUP2	ГРУППА 2
+NetMapsMenu.ALLIANCE_GROUP3	ГРУППА 3
+NetMapsMenu.ALLIANCE_GROUP4	ГРУППА 4
+NetMapsMenu.ALLIANCE_GROUP5	ГРУППА 5
+NetMapsMenu.ALLIANCE_GROUP6	ГРУППА 6
+NetMapsMenu.ALLIANCE_GROUP7	ГРУППА 7
+NetMapsMenu.ALLIANCE_GROUP8	ГРУППА 8
+NetMapsMenu.ALLIANCE_NONE	ОТСУТСТВУЕТ
+NetMapsMenu.ARMY_RANDOM	СЛУЧАЙНАЯ
+NetMapsMenu.COLOR_BLUE	СИНИЙ
+NetMapsMenu.COLOR_BROWN	КОРИЧНЕВЫЙ
+NetMapsMenu.COLOR_CRIMSON	МАЛИНОВЫЙ
+NetMapsMenu.COLOR_GREEN	ЗЕЛЕНЫЙ
+NetMapsMenu.COLOR_PURPLE	ФИОЛЕТОВЫЙ
+NetMapsMenu.COLOR_RANDOM	СЛУЧАЙНЫЙ
+NetMapsMenu.COLOR_TURQUOISE	БИРЮЗОВЫЙ
+NetMapsMenu.COLOR_YELLOW	ЖЕЛТЫЙ
+NetMapsMenu.DISCONNECT_FROM_SERVER	ОТКЛЮЧИТЬСЯ ОТ СЕРВЕРА?
+NetMapsMenu.DROP_ALL_CLIENTS_AND_DISCONNECT	СБРОСИТЬ ВСЕХ КЛИЕНТОВ И ОТКЛЮЧИТЬСЯ?
+NetMapsMenu.PLAYER_CLOSED	ЗАКРЫТО
+NetMapsMenu.PLAYER_COMPUTER	КОМПЬЮТЕР
+NetMapsMenu.PLAYER_OPEN	ОТКРЫТО
+NetMapsMenu.СOLOR_RED	КРАСНЫЙ
+NetMissionSubtype.DM_DESTROY_HUMEN	DEATHMATCH: УНИЧТОЖИТЬ ВСЕХ СОЛДАТ
+NetMissionSubtype.DM_DESTROY_VEHICLES	DEATHMATCH: УНИЧТОЖИТЬ ВСЮ ТЕХНИКУ
+NetMissionSubtype.UNKNOWN	НЕИЗВЕСТНЫЙ ТИП
+NetUsersListBoxItem.CLOSED	ЗАКРЫТО
+NetUsersListBoxItem.OPEN	ОТКРЫТО
+NET_PING_NA	N/A
+NET_PLAYER_NAME	ВВЕДИТЕ СЕТЕВОЕ ИМЯ ИГРОКА
+NEW_PLAYER	НОВЫЙ ИГРОК
+NOT_LOCALIZED	NOT_LOCALIZED
+Object_volume	ЗВУКОВЫЕ ЭФФЕКТЫ
+OptionsCamera.KEYB_LINEAR_SPEED	ПЕРЕМЕЩЕНИЕ КЛАВИАТУРОЙ
+OptionsCamera.KEYB_ROTATE_SPEED	ВРАЩЕНИЕ КЛАВИАТУРОЙ
+OptionsCamera.MAX_HEIGHT	МАКСИМАЛЬНАЯ ВЫСОТА КАМЕРЫ (метров)
+OptionsCamera.MIN_HEIGHT	МИНИМАЛЬНАЯ ВЫСОТА КАМЕРЫ (метров)
+OptionsCamera.MOUSE_SPEED	ПЕРЕМЕЩЕНИЕ И ПОВОРОТ МЫШЬЮ
+OptionsCamera.MOUSE_WHEEL_SPEED	ПРИБЛИЖЕНИЕ И УДАЛЕНИЕ МЫШЬЮ
+OptionsCamera.SCREEN_BORDER_SPEED	ЧУВСТВИТЕЛЬНОСТЬ ГРАНИЦ СКРОЛЛИНГА
+OptionsEx.Camera.KeyboardMoveSens	СКОРОСТЬ ПЕРЕМЕЩЕНИЯ
+OptionsEx.Camera.KeyboardRotateSens	СКОРОСТЬ ВРАЩЕНИЯ
+OptionsEx.Camera.MaxHeight	МАКСИМАЛЬНАЯ ВЫСОТА КАМЕРЫ
+OptionsEx.Camera.MinHeight	МИНИМАЛЬНАЯ ВЫСОТА КАМЕРЫ
+OptionsEx.Camera.Mode	РЕЖИМ КАМЕРЫ
+OptionsEx.Camera.Mode.Free	СВОБОДНАЯ КАМЕРА
+OptionsEx.Camera.Mode.RTS	ПРИВЯЗКА К ЦЕНТРУ
+OptionsEx.Camera.MouseSens	СКОРОСТЬ ПЕРЕМЕЩЕНИЯ И ВРАЩЕНИЯ МЫШЬЮ
+OptionsEx.Camera.ScrollSpeed	СКОРОСТЬ ПЕРЕМЕЩЕНИЯ НА ГРАНИЦАХ ЭКРАНА
+OptionsEx.Camera.ZoomSpeed	СКОРОСТЬ ПРИБЛИЖЕНИЯ МЫШЬЮ
+OptionsEx.Controls.Command	ОПИСАНИЕ
+OptionsEx.Controls.HotKey1	КЛАВИША 1
+OptionsEx.Controls.HotKey2	КЛАВИША 2
+OptionsEx.Controls.Tab.Camera	КАМЕРА
+OptionsEx.Controls.Tab.Group	ГРУППЫ
+OptionsEx.Controls.Tab.Interface	ИНТЕРФЕЙС
+OptionsEx.Controls.Tab.User	КОМАНДЫ
+OptionsEx.Controls.WaitKey	НАЖМИТЕ КЛАВИШУ
+OptionsEx.Game.Autosave	АВТОСОХРАНЕНИЕ
+OptionsEx.Game.ClassicSelectionMode	КЛАССИЧЕСКИЙ РЕЖИМ ВЫДЕЛЕНИЯ ЮНИТОВ
+OptionsEx.Game.CommanderInfluence	ПОКАЗЫВАТЬ ВЛИЯНИЕ КОМАНДИРА
+OptionsEx.Game.CompatibilityMode	РЕЖИМ СОВМЕСТИМОСТИ
+OptionsEx.Game.EnableCameraShaking	ДРОЖАНИЕ КАМЕРЫ
+OptionsEx.Game.IgnoreMissionFail	СКВОЗНАЯ КАМПАНИЯ
+OptionsEx.Game.InvertMouse	ИНВЕРТИРОВАТЬ МЫШЬ
+OptionsEx.Game.InvertWheel	ИНВЕРТИРОВАТЬ РОЛИК МЫШИ
+OptionsEx.Game.ScrollSpeedMenu	СКОРОСТЬ СКРОЛЛИНГА В МЕНЮ
+OptionsEx.Game.ShowCursorDistance	ДИСТАНЦИЯ ВОЗЛЕ КУРСОРА
+OptionsEx.Game.ShowEnemyType	ПОКАЗЫВАТЬ КЛАСС ВРАЖЕСКИХ ОБЪЕКТОВ
+OptionsEx.Game.ShowFrustroom	ДЕТАЛЬНАЯ ПРОЕКЦИЯ КАМЕРЫ НА МИНИКАРТЕ
+OptionsEx.Game.ShowHumanBlood	ПОКАЗЫВАТЬ КРОВЬ
+OptionsEx.Game.ShowIcons	ПОКАЗЫВАТЬ ИКОНКИ ПЕХОТЫ И ТЕХНИКИ
+OptionsEx.Game.ShowSectorOfFire	ПОКАЗЫВАТЬ СЕКТОР АТАКИ
+OptionsEx.Game.ShowTarget	ЛИНИЯ ВИДИМОСТИ
+OptionsEx.Game.SmartPause	УМНАЯ ПАУЗА
+OptionsEx.Game.StrategicMode.BigBattleGroups	БОЛЬШИЕ ЗНАЧКИ НА СТРАТЕГИЧЕСКОЙ КАРТЕ
+OptionsEx.Game.StrategicMode.EliteMode	НЕ ВЫГРУЖАТЬ СТРАТЕГИЧЕСКУЮ КАРТУ
+OptionsEx.Game.StrategicMode.HistoricalUnits	ИСТОРИЧЕСКИЙ НАБОР ЮНИТОВ
+OptionsEx.Game.TooltipDelay	ЗАДЕРЖКА ВСПЛЫВАЮЩИХ ПОДСКАЗОК
+OptionsEx.GlobalButtons.Apply	ПРИМЕНИТЬ
+OptionsEx.GlobalButtons.Restore	ПО УМОЛЧАНИЮ
+OptionsEx.Interface.DamageHits	МАКС. ЧИСЛО ВЕКТОРОВ ПОПАДАНИЙ
+OptionsEx.Interface.DamageRicochetes	МАКС. ЧИСЛО ВЕКТОРОВ РИКОШЕТОВ
+OptionsEx.Interface.FontsScaling	МАСШТАБИРОВАНИЕ ШРИФТОВ
+OptionsEx.Interface.InterfaceScaling	АВТОМАСШТАБ ИНТЕРФЕЙСА
+OptionsEx.Interface.MinCaliber	МИН. КАЛИБР ВЕКТОРОВ ПОПАДАНИЙ
+OptionsEx.Interface.ShowSelectionIndicator	ПОКАЗЫВАТЬ ИНДИКАТОР ВЫБОРА ОТРЯДА
+OptionsEx.Interface.ShowTargetIndicator	ПОКАЗЫВАТЬ ИНДИКАТОР ЦЕЛИ
+OptionsEx.Interface.ScalePercentIncr	УВЕЛИЧЕНИЕ ИНТЕРФЕЙСА 
+OptionsEx.RestoreDefaultsConfirmation	Вы действительно хотите восстановить настройки по умолчанию?
+OptionsEx.Sound.EAX	ИСПОЛЬЗОВАТЬ EAX
+OptionsEx.Sound.Effects	ГРОМКОСТЬ ЗВУКОВЫХ ЭФФЕКТОВ
+OptionsEx.Sound.Invert	ПОМЕНЯТЬ МЕСТАМИ СТЕРЕОКАНАЛЫ
+OptionsEx.Sound.Music	ГРОМКОСТЬ МУЗЫКИ
+OptionsEx.Sound.Mute	ОТКЛЮЧИТЬ ВСЕ ЗВУКИ
+OptionsEx.Sound.Speech	ГРОМКОСТЬ РЕЧИ
+OptionsEx.Sound.Volume	ОБЩАЯ ГРОМКОСТЬ
+OptionsEx.Tabs.Camera	КАМЕРА
+OptionsEx.Tabs.Controls	УПРАВЛЕНИЕ
+OptionsEx.Tabs.Game	ИГРА
+OptionsEx.Tabs.Graphics	ГРАФИКА
+OptionsEx.Tabs.Interface	ИНТЕРФЕЙС
+OptionsEx.Tabs.Sound	ЗВУК
+OptionsEx.Title	НАСТРОЙКИ
+OptionsGameSettings.DO_USER_AUTOSAVE	АВТОСОХРАНЕНИЕ
+OptionsGameSettings.GOTO_NEXT_CAMPAIGN_MISSION_IF_FAIL	ИГНОРИРОВАТЬ ПРОИГРЫШ В КАМПАНИИ
+OptionsVideo.HZ	Гц
+PausePanel.PausePanelTitle	ПАУЗА
+Play_music	Всегда проигрывать музыку
+QuestState_ACTIVE	Получен приказ:
+QUIT_MESSAGE	Вы действительно хотите выйти?
+RealismDetail_High	Высокий
+RealismDetail_Low	Низкий
+RealismDetail_Medium	Средний
+RECON_PLANE	Самолеты-разведчики
+REPLACE_OLD_RECORD	ЗАМЕНИТЬ СУЩЕСТВУЮЩУЮ ЗАПИСЬ?
+Resolution	Настройки экрана
+FullscreenMode	Полноэкранный режим (не рекомендуется)
+IsBySystem	Как в системе
+Monitor Монитор
+PrimaryMonitor	Основной
+RESTART_MISSION	НАЧАТЬ БОЙ ЗАНОВО?
+RESTART_TO_CHANGE_FONTS_SCALING_MODE	ДЛЯ СМЕНЫ РЕЖИМА МАСШТАБИРОВАНИЯ\nШРИФТОВ ПЕРЕЗАПУСТИТЕ ИГРУ
+RESTART_TO_CHANGE_INTERFACE_SCALING_MODE	ДЛЯ СМЕНЫ РЕЖИМА МАСШТАБИРОВАНИЯ\nИНТЕРФЕЙСА ПЕРЕЗАПУСТИТЕ ИГРУ
+RESTART_TO_CHANGE_RESOLUTION	ДЛЯ СМЕНЫ РАЗРЕШЕНИЯ ИЛИ\nМОНИТОРА ПЕРЕЗАПУСТИТЕ ИГРУ
+Reverse_stereo	Поменять местами стереоканалы
+SaveLoadEx.LoadSave	ЗАГРУЗКА СРАЖЕНИЯ
+SaveLoadEx.WriteSave	СОХРАНЕНИЕ СРАЖЕНИЯ
+SaveLoadList.AUTOSAVEEND	АВТОСОХР. КОН.
+SaveLoadList.AUTOSAVESTART	АВТОСОХР. НАЧ.
+SAVELOAD_TOOLTIP_ARMYCOMPOSITION_SAVE	Сохранение в меню "личный состав"
+SAVELOAD_TOOLTIP_AUTOSAVE_END	Автосохранение в конце боя
+SAVELOAD_TOOLTIP_AUTOSAVE_START	Автосохранение в начале боя
+SAVELOAD_TOOLTIP_DIF_HIGH_LEVEL	Ветеран
+SAVELOAD_TOOLTIP_DIF_LOW_LEVEL	Новобранец
+SAVELOAD_TOOLTIP_DIF_MEDIUM_LEVEL	Опытный боец
+SAVELOAD_TOOLTIP_MORALE	Войска подвержены панике
+SAVELOAD_TOOLTIP_SKILLS_SAVE	Сохранение в меню "параметры"
+SAVE_COMPLETE	Игра сохранена
+SAVING_PTS	СОХРАНЕНИЕ...
+SERVER_DEFAULT_NAME	ВТОРАЯ МИРОВАЯ
+Show_target_icons	Указатели цели
+Show_unit_icons	Всегда показывать индикаторы рода войск
+Show_unit_sectors	Сектор атаки
+SkillsEx.Accuracy	МЕТКОСТЬ
+SkillsEx.AutoAssign	АВТОМАТОМ
+SkillsEx.Bestowal	НАГРАЖДЕНИЕ
+SkillsEx.Captured	ЗАХВАЧЕНО
+SkillsEx.Clear	ОЧИСТИТЬ
+SkillsEx.Continue	ПРОДОЛЖИТЬ
+SkillsEx.Destroyed	УНИЧТОЖЕНО
+SkillsEx.Driving	ВОЖДЕНИЕ
+SkillsEx.Experience.Elite	ЭЛИТА
+SkillsEx.Experience.Elite.Short	Э
+SkillsEx.Experience.ExperiencedFighter	ОПЫТНЫЙ БОЕЦ
+SkillsEx.Experience.ExperiencedFighter.Short	О
+SkillsEx.Experience.Recruit	НОВОБРАНЕЦ
+SkillsEx.Experience.Recruit.Short	Н
+SkillsEx.Experience.Veteran	ВЕТЕРАН
+SkillsEx.Experience.Veteran.Short	В
+SkillsEx.Gunner	НАВОДЧИК
+SkillsEx.Intelligence ИНТЕЛЛЕКТ
+SkillsEx.Leadership ЛИДЕРСТВО
+SkillsEx.Load	ЗАГРУЗИТЬ
+SkillsEx.MainMenu	ГЛАВНОЕ МЕНЮ
+SkillsEx.Next	СЛЕДУЮЩИЙ
+SkillsEx.Previous	ПРЕДЫДУЩИЙ
+SkillsEx.Promotion	ПОВЫШЕНИЕ
+SkillsEx.Save	СОХРАНИТЬ
+SkillsEx.Scouting	РАЗВЕДКА
+SkillsEx.SkillPoints	КОЛИЧЕСТВО ОЧКОВ
+SkillsEx.Skills	НАВЫКИ
+SkillsEx.Statistics	СТАТИСТИКА
+SkillsEx.Title	НАВЫКИ ЛИЧНОГО СОСТАВА
+SkillsEx.Tooltips.AutoAssignGroupSkills	Назначить навыки автоматически для выбранных людей
+SkillsEx.Tooltips.AutoAssignUnitSkills	Назначить навыки автоматически для данного человека
+SkillsEx.Tooltips.Award	Наградить - влияет на лидерство
+SkillsEx.Tooltips.ClearGroupSkillsButton	Отменить назначение очков для выбранных людей
+SkillsEx.Tooltips.ClearUnitSkills	Отменить назначение очков для данного человека
+SkillsEx.Tooltips.Continue	Продолжить
+SkillsEx.Tooltips.Load	Загрузить сражение
+SkillsEx.Tooltips.MainMenu	Перейти в главное меню
+SkillsEx.Tooltips.NextUnit	Перейти к следующему человеку
+SkillsEx.Tooltips.PreviousUnit	Перейти к предыдущему человеку
+SkillsEx.Tooltips.Promote	Повысить - влияет на лидерство
+SkillsEx.Tooltips.Save	Сохранить сражение
+SkillsEx.TotalPoints	ВСЕГО
+SkillsEx.VictoryPoints	ОЧКИ ЗА ПОБЕДУ
+StatisticsPanelEx.AlliesPoints	ОЧКИ СОЮЗНИКОВ
+StatisticsPanelEx.AllyArmy	СОЮЗНАЯ АРМИЯ
+StatisticsPanelEx.Capture	ЗАХВАТ
+StatisticsPanelEx.EnemiesPoints	ОЧКИ ВРАГОВ
+StatisticsPanelEx.Losses	ПОТЕРИ
+StatisticsPanelEx.MissionTime	ВРЕМЯ МИССИИ
+StatisticsPanelEx.SupportsCall	ВЫЗОВ ПОДКРЕПЛЕНИЙ
+StatisticsPanelEx.Victories	ПОБЕДЫ
+StatisticsPanelEx.VictoryPoints	ОЧКИ ЗА ПОБЕДУ
+StatisticsTable.Achievements	УНИЧТОЖИЛ
+StatisticsTable.EnemyArmy	АРМИЯ ВРАГА
+StatisticsTable.Losses	ПОТЕРЯЛ
+StatisticsTable.PlayerArmy	АРМИЯ ИГРОКА
+StrategicMode.Battle.ZoneAttack	атакует позиции врага в
+StrategicMode.Battle.ZoneCapture	захватила
+StrategicMode.Battle.ZoneDefence	обороняет
+StrategicMode.Battle.ZoneSiege	атакует окружённого врага в
+StrategicMode.Battle.ZoneStorm	вступила в контакт с противником в
+StrategicMode.BattleGroup.AI.DefensiveMode	перешла к обороне
+StrategicMode.BattleGroup.Ammunition	Боеприпасы:
+StrategicMode.BattleGroup.Devastated	разгромлена
+StrategicMode.BattleGroup.DevastatedAndMerged	разгромлена, уцелевшие войска перешли под командование боевой группы
+StrategicMode.BattleGroup.EscapePathBlockedByTerrain	не может отступить из-за особенностей ландшафта
+StrategicMode.BattleGroup.EscapePathBlockedByTerrain.MustDie	не смогла отступить из-за особенностей ландшафта, и была уничтожена
+StrategicMode.BattleGroup.Experience	Опытность:
+StrategicMode.BattleGroup.Fuel	Оставшееся топливо:
+StrategicMode.BattleGroup.NoEscape	не может отступить, поскольку все пути отступления отрезаны
+StrategicMode.BattleGroup.NoEscape.MustDie	не смогла найти путь к отступлению, и была уничтожена
+StrategicMode.BattleGroup.NoFuelForRetreat	не может отступить, поскольку для отступления не хватает топлива
+StrategicMode.BattleGroup.NoFuelForRetreat.MustDie	не смогла отступить из-за нехватки топлива, и была уничтожена
+StrategicMode.BattleGroup.NoMovesForRetreat	не может отступить из-за нехватки ходов
+StrategicMode.BattleGroup.NoMovesForRetreat.MustDie	не смогла отступить из-за нехватки ходов, и была уничтожена
+StrategicMode.BattleGroup.Player.DefensiveMode	перешла к обороне, Вы можете либо отвести свои войска, либо контратаковать группу противника
+StrategicMode.BattleGroup.Turns	Количество ходов:
+StrategicMode.BattleGroup.Unlimited	неограничено
+StrategicMode.BattleGroup.Victory	одержала победу над
+StrategicMode.BattleGroups	Боевые группы
+StrategicMode.BattleLog	Журнал боевых действий
+StrategicMode.CampaignTurns	Всего ходов:
+StrategicMode.Composition	Состав войск
+StrategicMode.CrushedBattleGroupEscapedMessage1	Вражеская боевая группа
+StrategicMode.CrushedBattleGroupEscapedMessage2	\nв беспорядке отступила, не устояв перед ударом ваших войск
+StrategicMode.CrushedBattleGroupMessage1	Вражеская боевая группа
+StrategicMode.CrushedBattleGroupMessage2	\nбыла уничтожена превосходящими силами игрока
+StrategicMode.CurrentTurn	Текущий ход:
+StrategicMode.Defeat.EnemyBattleGroup	вражеской боевой группой
+StrategicMode.Defeat.PlayerBattleGroup	боевой группой игрока
+StrategicMode.EndTurn	Закончить ход
+StrategicMode.EnemyBattleGroup	Вражеская боевая группа
+StrategicMode.EnemyMissionTemplate	ШАБЛОН МИССИИ ВРАГА
+StrategicMode.ForcedBattle	ТЕСТ ШАБЛОНОВ
+StrategicMode.ForcedBattle.AI_STORM	Штурм, инициированный ИИ
+StrategicMode.ForcedBattleTitle	Форсирование сражения в области
+StrategicMode.MissionType	ТИП МИССИИ
+StrategicMode.MovementWarning1	Вы уверены, что хотите завершить ход? Возможно\n
+StrategicMode.MovementWarning2	перемещение боевой группы.
+StrategicMode.PlayerBattleGroup	Боевая группа игрока
+StrategicMode.PlayerMissionTemplate	ШАБЛОН МИССИИ ИГРОКА
+StrategicMode.Points.Attack	Очков за ЗАХВАТ:
+StrategicMode.Points.Capture	Очков за ЗАХВАТ БЕЗ БОЯ:
+StrategicMode.Points.Defence	Очков за ОБОРОНУ/УДЕРЖАНИЕ:
+StrategicMode.Points.Siege	Очков за ОБОРОНУ В ОКРУЖЕНИИ:
+StrategicMode.Points.Storm	Очков за ВСТРЕЧНЫЙ БОЙ:
+StrategicMode.Points.Victory	Очков за победу:
+StrategicMode.SupportsAndReinforcements	Поддержки и подкрепления
+StrategicMode.Tooltips.StrategyMapCenter	Элемент, задающий первоначальное положение карты
+StrategicMode.Tooltips.ZoneCenter	Элемент, определяющий логический центр области
+StrategicMode.Turn	ХОД:
+STRATEGY_MAP_ELITE_MODE_CONFIRMATION	Этот режим требует видеокарты,\nимеющей, по меньшей мере, 512М видео-памяти. Вы уверены,\nчто хотите включить его?
+SupportsActivation.Artillery	В Ваше распоряжение поступила артиллерийская поддержка
+SupportsActivation.Aviation	В Ваше распоряжение поступила авиационная поддержка
+SupportsActivation.MLR	В Ваше распоряжение поступила ракетная артиллерийская поддержка
+SupportsActivation.Mortar	В Ваше распоряжение поступила миномётная поддержка
+SupportsActivation.Reinforcement	В Ваше распоряжение поступило подкрепление
+SupportsPanelEx.InsufficientPoints	Недостаточное количество очков
+SupportsPanelEx.NoCommanders	В ваших войсках нет командира, который может вызвать поддержку
+SupportsPanelEx.UnitsLimitExceeded	В бою участвует максимально допустимое количество юнитов
+TacticMap.Captured	ЗАХВАТИЛ
+TacticMap.Destroyed	УНИЧТОЖИЛ
+TacticMap.EnemyLosses	ВРАЖЕСКИЕ ПОТЕРИ
+TacticMap.PlayerLosses	ПОТЕРИ ИГРОКА
+TacticMap.ReturnToGameMode	Вернуться в режим игры
+TacticMap.Task	ЗАДАЧА №
+TacticMap.Title	ТАКТИЧЕСКАЯ КАРТА
+TacticMapButtonPanel.TacticMapTitle	КАРТА
+TipsBox.Header	Знаете ли Вы, что...
+TipsBox.NextTip	ДАЛЬШЕ
+TipsBox.ShowTips	ПОДСКАЗКИ СТРАТ. РЕЖИМА
+Tooltip.Anti_Tank_Rifle	ПТР
+Tooltip.Faust	гранатомет
+Tooltip.Grenade	граната
+Tooltip.Machine_Gun	пулемет
+Tooltip.Pistol	пистолет
+Tooltip.Rifle	винтовка
+Tooltip.Sniper_Rifle	сн. винтовка
+Tooltip.Submachine_Gun	пст. пулемет
+UnitFilterTooltips.All	Все
+UnitFilterTooltips.ArmoredCar	Броневики
+UnitFilterTooltips.Artillery	Артиллерия
+UnitFilterTooltips.Car	Машины
+UnitFilterTooltips.Detachment	Отряды
+UnitFilterTooltips.Flak	Зенитные орудия
+UnitFilterTooltips.Helicopter	Вертолёты
+UnitFilterTooltips.Howitzer	Гаубицы
+UnitFilterTooltips.Infantry	Пехота
+UnitFilterTooltips.MachineGun	Станковые пулемёты
+UnitFilterTooltips.Mortar	Миномёты
+UnitFilterTooltips.Multiple	Множественный фильтр
+UnitFilterTooltips.Plane	Авиация
+UnitFilterTooltips.SPG	САУ
+UnitFilterTooltips.Tank	Танки
+UnitWindow.HEALTH_STATE0	боец в норме
+UnitWindow.HEALTH_STATE1	ранен
+UnitWindow.HEALTH_STATE2	серьезно ранен
+UnitWindow.HEALTH_STATE3	критически ранен
+UnitWindow.MORALE_STATE0	в норме
+UnitWindow.MORALE_STATE1	насторожен
+UnitWindow.MORALE_STATE2	потрясен
+UnitWindow.MORALE_STATE3	подавлен
+UnitWindow.MORALE_STATE4	паникует
+UnitWindow.STATE0	не занят
+UnitWindow.STATE1	в панике
+UnitWindow.STATE2	перемещается
+UnitWindow.STATE3	атакует
+UnitWindow.STATE4	в обороне
+UnitWindow.STATE5	перезаряжает
+USE1CPU_CANNOT_BE_SET	НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ 1 ПРОЦЕССОР. НЕТ ПРАВ ДОСТУПА
+VehicleArmorDataWindow.Hull.Back	корма
+VehicleArmorDataWindow.Hull.Bottom	дно
+VehicleArmorDataWindow.Hull.Front	фронт
+VehicleArmorDataWindow.Hull.Name	броня корпуса
+VehicleArmorDataWindow.Hull.Side	борт
+VehicleArmorDataWindow.Hull.Top	верх
+VehicleArmorDataWindow.Turret.Back	корма
+VehicleArmorDataWindow.Turret.Front	фронт
+VehicleArmorDataWindow.Turret.Mask	маска
+VehicleArmorDataWindow.Turret.Name	броня башни
+VehicleArmorDataWindow.Turret.Side	борт
+VehicleArmorDataWindow.Turret.Top	верх
+VehicleCharacteristicsPanelEx.Crew	экипаж
+VehicleCharacteristicsPanelEx.Distance	дистанция
+VehicleCharacteristicsPanelEx.kmph	км\ч
+VehicleCharacteristicsPanelEx.m	м
+VehicleCharacteristicsPanelEx.Passengers	пассажиры
+VehicleCharacteristicsPanelEx.People	чел.
+VehicleCharacteristicsPanelEx.Speed	скорость
+VehicleCharacteristicsPanelEx.VehicleNumber	номер
+CrewOpticsStatus.BeginString	Оптический прибор #
+CrewOpticsStatus.StatusOk		В норме
+CrewOpticsStatus.StatusDamaged	Поврежден
+CrewOpticsStatus.StatusBroken	СЛОМАН								
+Version	Версия:
+VictoryPanel.FinishMission	ЗАВЕРШИТЬ
+VictoryPanel.Victory	СРАЖЕНИЕ ВЫИГРАНО
+VideoSettings.paramName.DetailPreset	ПРЕДУСТАНОВКА
+VideoSettings.paramName.IsBySystem  КАК В СИСТЕМЕ
+VideoSettings.paramName.FogQuality	ВСЕГДА ОТОБРАЖАТЬ ТУМАН
+VideoSettings.paramName.GrassAll	ТРАВЯНОЙ ПОКРОВ
+VideoSettings.paramName.HDREnable	HDR
+VideoSettings.paramName.AntiAliasingEnable	СГЛАЖИВАНИЕ
+VideoSettings.paramName.FPS_LIMIT	ЛИМИТ FPS
+VideoSettings.paramName.HideBodies	УБИРАТЬ ПОГИБШИХ СОЛДАТ
+VideoSettings.paramName.mouseHardwareCursor	АППАРАТНЫЙ КУРСОР МЫШИ
+VideoSettings.paramName.Noise	ВЫСОКОЕ КАЧЕСТВО ПОВЕРХНОСТИ ЗЕМЛИ
+VideoSettings.paramName.ObjectsQuality	КАЧЕСТВО МОДЕЛЕЙ
+VideoSettings.paramName.PSM	ТЕНИ
+VideoSettings.paramName.RenderRoads	ПОКАЗЫВАТЬ ДОРОГИ
+VideoSettings.paramName.ShowAmmunition	ВСЕГДА ПОКАЗЫВАТЬ АМУНИЦИЮ
+VideoSettings.paramName.Sky	ВЫСОКОЕ КАЧЕСТВО НЕБА И ОБЛАКОВ
+VideoSettings.paramName.SoftParticles	ЭФФЕКТЫ
+VideoSettings.paramName.SSAO	САМОЗАТЕНЕНИЕ ОБЪЕКТОВ
+VideoSettings.paramName.TreeDistance	ДАЛЬНОСТЬ ОТРИСОВКИ ДЕРЕВЬЕВ
+VideoSettings.paramName.TreesDistLod	КАЧЕСТВО ДЕРЕВЬЕВ
+VideoSettings.paramName.UseOneCpu	ИСПОЛЬЗОВАТЬ ТОЛЬКО ОДИН ПРОЦЕССОР
+VideoSettings.paramName.VehicleEffects	ПОКАЗЫВАТЬ ЭФФЕКТЫ ДВИЖЕНИЯ ТЕХНИКИ
+VideoSettings.paramName.WaterQuality	КАЧЕСТВО ВОДЫ
+VideoSettings.paramValue.DetailPreset.Custom	ПОЛЬЗОВАТЕЛЬСКАЯ
+VideoSettings.paramValue.DetailPreset.High	ВЫСОКАЯ
+VideoSettings.paramValue.DetailPreset.Low	НИЗКАЯ
+VideoSettings.paramValue.DetailPreset.Medium	СРЕДНЯЯ
+VideoSettings.paramValue.GrassAll.Dense	ПЛОТНЫЙ
+VideoSettings.paramValue.GrassAll.Medium	НОРМАЛЬНЫЙ
+VideoSettings.paramValue.GrassAll.No_Grass	НЕТ
+VideoSettings.paramValue.GrassAll.Rare	РЕДКИЙ
+VideoSettings.paramValue.GrassAll.Very_Dense	ОЧЕНЬ ПЛОТНЫЙ
+VideoSettings.paramValue.ObjectsQuality.High	ВЫСОКОЕ
+VideoSettings.paramValue.ObjectsQuality.Low	НИЗКОЕ
+VideoSettings.paramValue.ObjectsQuality.Medium	СРЕДНЕЕ
+VideoSettings.paramValue.ObjectsQuality.Very_Low	ОЧЕНЬ НИЗКОЕ
+VideoSettings.paramValue.PSM.None	ОТКЛЮЧЕНЫ
+VideoSettings.paramValue.PSM.Object_shadowing	НОРМАЛЬНЫЕ
+VideoSettings.paramValue.PSM.Shadows_and_selfshading	УЛУЧШЕННЫЕ
+VideoSettings.paramValue.SoftParticles.No	НОРМАЛЬНЫЕ
+VideoSettings.paramValue.SoftParticles.Yes	УЛУЧШЕННЫЕ
+VideoSettings.paramValue.TreeDistance.Far	МАКСИМАЛЬНАЯ
+VideoSettings.paramValue.TreeDistance.Medium	СРЕДНЯЯ
+VideoSettings.paramValue.TreeDistance.Near	МИНИМАЛЬНАЯ
+VideoSettings.paramValue.TreesDistLod.High	ВЫСОКОЕ
+VideoSettings.paramValue.TreesDistLod.Low	НИЗКОЕ
+VideoSettings.paramValue.TreesDistLod.Medium	СРЕДНЕЕ
+VideoSettings.paramValue.WaterQuality.High	ВЫСОКОЕ
+VideoSettings.paramValue.WaterQuality.Low	НИЗКОЕ
+VideoSettings.paramValue.WaterQuality.Medium	СРЕДНЕЕ
+Voice_volume	РЕЧЬ
+WAITING_PTS	ПОДОЖДИТЕ...
+WeaponAmmoInfoWindow.ACCURATE_DISTANCE	Прицельная дальность, м
+WeaponAmmoInfoWindow.dim_grouping	угл. мин.
+WeaponAmmoInfoWindow.EFFECTIVE_DISTANCE	Максимальная дальность, м
+WeaponAmmoInfoWindow.grouping_at	Кучность
+WeaponAmmoInfoWindow.NO_AMMO	Боеприпасы отсутствуют
+WeaponAmmoInfoWindow.NO_WEAPON	Оружие отсутствует
+WeaponAmmoInfoWindow.THROW_DISTANCE	Дальность броска, м
+WeaponCharacteristics.Grouping	кучность
+WeaponCharacteristics.GroupingMetrics	'
+WeaponCharacteristics.InitialSpeed	нач. скор.
+WeaponCharacteristics.MaxDistance	макс. дальн.
+WeaponCharacteristics.Meters	м
+WeaponCharacteristics.MetersPerSecond	м/с
+WeaponCharacteristics.Penetration	Бронепробиваемость
+WeaponCharacteristics.RateOfFire	cкорострельность:
+WeaponCharacteristics.ReloadTime	время перезарядки:
+WeaponCharacteristics.Seconds	сек
+WeaponCharacteristics.ShotsPerMinute	в/м
+WeaponStaticVariety.Bow	Курсовой пулемет
+WeaponStaticVariety.Cupola	Верхний пулемет / ЛКМ - выбрать, ПКМ - отключить
+WeaponStaticVariety.Mortar	Мортира / ЛКМ - выбрать, ПКМ - отключить				 
+WeaponStaticVariety.Primary	Основное орудие / ЛКМ - выбрать, ПКМ - отключить
+WeaponStaticVariety.Rear	Кормовой пулемет / ЛКМ - выбрать, ПКМ - отключить
+WeaponStaticVariety.Secondary	Орудие в башне / ЛКМ - выбрать, ПКМ - отключить
+WeaponStaticVariety.Twin	Спаренный пулемет / ЛКМ - выбрать, ПКМ - отключить
+WeatherPresets.default2	По умолчанию
+WeatherPresets.medenin_10_00	Меденин, 10:00
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.close_window	Закрыть окно
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_all_the_items_of_the_slot	Выложить все предметы из слота
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_and_pick_items_automatically	Выбрать предметы автоматически
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_the_item	Выложить предмет
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.pick_all_the_items_of_the_slot	Поднять все предметы из слота
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.pick_the_item	Поднять предмет
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.change_the_skin	Сменить камуфляж
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_down	Повернуть вниз
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_to_the_left	Повернуть влево
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_to_the_right	Повернуть вправо
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_up	Повернуть вверх
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.zoom_in	Увеличить
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.zoom_out	Уменьшить
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.armored_cars	Броневики
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.artillery	Артиллерия
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.cars	Машины
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.flaks	Зенитки
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.hmg	Пулеметы
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.spg	САУ
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.tanks	Танки
+xmlskinlk.basebutton.tooltip.ingame.xml.attach	Прицеп
+xmlskinlk.basebutton.tooltip.ingame.xml.attack	Атака
+xmlskinlk.basebutton.tooltip.ingame.xml.attack_ground	Огонь по позициям
+xmlskinlk.basebutton.tooltip.ingame.xml.bottom	Нижняя часть
+xmlskinlk.basebutton.tooltip.ingame.xml.center	Центр
+xmlskinlk.basebutton.tooltip.ingame.xml.column	Колонна
+xmlskinlk.basebutton.tooltip.ingame.xml.custom	Свободная
+xmlskinlk.basebutton.tooltip.ingame.xml.defend	Оборона / Разворот
+xmlskinlk.basebutton.tooltip.ingame.xml.disperse	Охватывающая
+xmlskinlk.basebutton.tooltip.ingame.xml.evacuate	Высадка
+xmlskinlk.basebutton.tooltip.ingame.xml.gather	Ударная
+xmlskinlk.basebutton.tooltip.ingame.xml.hold_fire	Не стрелять
+xmlskinlk.basebutton.tooltip.ingame.xml.hold_position	Удерживать позицию
+xmlskinlk.basebutton.tooltip.ingame.xml.lay	Скрытное перемещение
+xmlskinlk.basebutton.tooltip.ingame.xml.line	Линия
+xmlskinlk.basebutton.tooltip.ingame.xml.lowspeed	Движение техники со скоростью пехоты
+xmlskinlk.basebutton.tooltip.ingame.xml.mineclearing	Разминирование
+xmlskinlk.basebutton.tooltip.ingame.xml.mining	Минирование
+xmlskinlk.basebutton.tooltip.ingame.xml.move	Движение
+xmlskinlk.basebutton.tooltip.ingame.xml.passengers	Пассажиры
+xmlskinlk.basebutton.tooltip.ingame.xml.retreat	Реверс / Отступление
+xmlskinlk.basebutton.tooltip.ingame.xml.rotate	Разворот
+xmlskinlk.basebutton.tooltip.ingame.xml.sit	Короткими перебежками
+xmlskinlk.basebutton.tooltip.ingame.xml.stay	Бегом
+xmlskinlk.basebutton.tooltip.ingame.xml.stop	Отмена команды
+xmlskinlk.basebutton.tooltip.ingame.xml.storm	Штурм
+xmlskinlk.basebutton.tooltip.ingame.xml.top	Верхняя часть
+xmlskinlk.basebutton.tooltip.ingame.xml.weapons	Оружие
+xmlskinlk.basebutton.tooltip.ingame.xml.wedge	Уступ
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_high	Ветеран
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_low	Новобранец
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_medium	Опытный боец
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.morale	Войска подвержены панике
+xmlskinlk.basebutton.tooltip.nongamestd.xml.armored_cars	Броневики
+xmlskinlk.basebutton.tooltip.nongamestd.xml.artillery	Артиллерия
+xmlskinlk.basebutton.tooltip.nongamestd.xml.cars	Машины
+xmlskinlk.basebutton.tooltip.nongamestd.xml.flak	Зенитки
+xmlskinlk.basebutton.tooltip.nongamestd.xml.fortification	Доты
+xmlskinlk.basebutton.tooltip.nongamestd.xml.infantry_groups	Пехота
+xmlskinlk.basebutton.tooltip.nongamestd.xml.machineguns	Пулеметы
+xmlskinlk.basebutton.tooltip.nongamestd.xml.spg	САУ
+xmlskinlk.basebutton.tooltip.nongamestd.xml.tanks	Танки
+xmlskinlk.basebuttonex.tooltip.armycompositionlistex.xml.LeftScroll	Прокрутить влево
+xmlskinlk.basebuttonex.tooltip.armycompositionlistex.xml.RightScroll	Прокрутить вправо
+xmlskinlk.basebuttonex.tooltip.briefingbuttonpanelex.xml.briefing	Брифинг
+xmlskinlk.basebuttonex.tooltip.CameraModeButtonPanel.xml.CameraMode	Режим камеры
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.actionMode	Запретить/разрешить самовольные передвижения
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.aimfireattackground	Прицельный огонь по позициям
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.ambush	Засада
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.attack	Атака
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.attackground	Огонь по позициям
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.autopickup	Автоматический подбор оружия с земли
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.centerattack	Атака в центральную часть
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.clawformation	Уступообразная формация
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.columnformation	Колоннообразная формация
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.crewout	Высадка
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.defend	Защита / Разворот
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.deffireattackground	Защитный огонь по позициям
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.exit	Вернуться назад
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.fireMode	Запретить/разрешить огонь
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.formation	Формация
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.formationalign	Автоматическое выравнивание формации
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.FreeAction	Действовать произвольно
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.freeattack	Атака в произвольную часть
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.freeformation	Свободная формация
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.gearattack	Атака в нижнюю часть
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.headattack	Атака в верхнюю часть
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.holdfire	Не стрелять
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.holdpos	Удерживать позицию
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.hook	Прицеп
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.inventory	Инвентарь
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.lineformation	Линейная формация
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.lowspeed	Движение техники со скоростью пехоты
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.mineclearing	Разминирование
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.mining	Минирование
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.move	Движение
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.retreat	Реверс / Отступление
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.repair	Ремонт ходовой части
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.shadowmove	Скрытное перемещение
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.shortrush	Перемещение короткими перебежками
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.smoke	Дымовая завеса / ПКМ - мгновенный выстрел при возможности
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.sneak	Разведка
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.stop	Прекращение действия
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.storm	Штурм
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.unhook	Отцепить
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.CancelButton	Отмена
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.OKButton	Ok
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.ScrollDownButton	Уменьшить
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.ScrollUpButton	Увеличить
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ManualRotation	Активировать режим поворота модели в различных направлениях мышью
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.OpenHatches	Открыть люки
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.Rotate	Начать вращение модели
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ZoomIn	Приблизиться к модели
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ZoomOut	Отдалиться от модели
+xmlskinlk.basebuttonex.tooltip.frontendbase.xml.ScrollDown	Прокрутка вниз
+xmlskinlk.basebuttonex.tooltip.frontendbase.xml.ScrollUp	Прокрутка вверх
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group0	Группа 10
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group1	Группа 1
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group2	Группа 2
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group3	Группа 3
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group4	Группа 4
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group5	Группа 5
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group6	Группа 6
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group7	Группа 7
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group8	Группа 8
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group9	Группа 9
+xmlskinlk.basebuttonex.tooltip.inventorybuttonpanel.xml.Inventory	Инвентарь
+xmlskinlk.basebuttonex.tooltip.inventorybuttonpanel.xml.VehicleCharacteristics	ТТХ
+xmlskinlk.basebuttonex.tooltip.logbuttonpanel.xml.Log	Журнал
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.AIMessagesFilter	Фильтр сообщений от игровых объектов
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.AlliesMessagesFilter	Фильтр сообщений от союзников
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.BriefingMessagesFilter	Фильтр приказов
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.EnemyMessagesFilter	Фильтр сообщений от врагов
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollDown	Прокрутка вниз
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollToBottom	Перейти к последнему сообщению
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollUp	Прокрутка вверх
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.SystemMessagesFilter	Фильтр системных сообщений
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.closePanel	Закрыть
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.leftScroll	Прокрутить влево
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.pickAllItems	Поднять все предметы
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.pickBestItems	Выбрать лучшее
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.rightScroll	Прокрутить вправо
+xmlskinlk.basebuttonex.tooltip.mainmenubuttonpanel.xml.mainmenu	Главное меню
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.briefing	Брифинг
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.mainmenu	Главное меню
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.statistics	Статистика
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.tacticmap	Тактическая карта
+xmlskinlk.basebuttonex.tooltip.minimapex.xml.resizebutton	Перетащите для масштабирования карты
+xmlskinlk.basebuttonex.tooltip.selectedgrouppanel.xml.leftScroll	Прокрутить влево
+xmlskinlk.basebuttonex.tooltip.selectedgrouppanel.xml.rightScroll	Прокрутить вправо
+xmlskinlk.basebuttonex.tooltip.skillsex.xml.Decrease	Уменьшить
+xmlskinlk.basebuttonex.tooltip.skillsex.xml.Increase	Увеличить
+xmlskinlk.basebuttonex.tooltip.statisticsbuttonpanelex.xml.statistics	Статистика
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.artillery	Артиллерия
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.cars	Машины
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.flaks	Зенитная артиллерия
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.infantry	Пехота
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.machineguns	Пулемёты
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.planes	Самолёты
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.tanks	Танки
+xmlskinlk.basebuttonex.tooltip.supportspanel.xml.scrollleft	Левый скроллинг
+xmlskinlk.basebuttonex.tooltip.supportspanel.xml.scrollright	Правый скроллинг
+xmlskinlk.basebuttonex.tooltip.tacticmapbuttonpanel.xml.tacticmap	Тактическая карта
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.allunitsfilter	Все
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.artilleryfilter	Артиллерия
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.carsfilter	Машины
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.flakartilleryfilter	Зенитная артиллерия
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.infantryfilter	Пехота
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.machinegunsfilter	Пулемёты
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.planefilter	Авиация
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.returntogame	НАЗАД
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.statistics	СТАТИСТИКА
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.tanksfilter	Танки
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.tasks	ЗАДАЧИ
+xmlskinlk.basebuttonex.tooltip.taskspanel.xml.ScrollDown	Прокрутка вниз
+xmlskinlk.basebuttonex.tooltip.taskspanel.xml.ScrollUp	Прокрутка вверх
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.FastSpeed	Увеличение скорости игры в 2-а раза
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.NormalSpeed	Нормальная скорость игры
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.PausePlay	Режим паузы
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.SlowSpeed	Уменьшение скорости игры в 2-а раза
+xmlskinlk.basebuttonex.tooltip.timerpanelex.xml.Timer	Таймер
+xmlskinlk.basebuttonex.tooltip.weaponpanel.xml.exit	Вернуться назад
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.attack	Атака!
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.attack2	Атака 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.defend	Защита
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.defend2	Защита 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.move	Идти
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.move2	Идти 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.storm	Штурм
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.storm2	Штурм 2
+xmlskinlk.textguiitem.army_composition.xml.1	1
+xmlskinlk.textguiitem.army_composition.xml.2	2
+xmlskinlk.textguiitem.army_composition.xml.3	3
+xmlskinlk.textguiitem.army_composition.xml.4	4
+xmlskinlk.textguiitem.army_composition.xml.5	5
+xmlskinlk.textguiitem.army_composition.xml.6	6
+xmlskinlk.textguiitem.army_composition.xml.need_place	НЕОБХОДИМО ОСВОБОДИТЬ МЕСТО
+xmlskinlk.textguiitem.army_composition.xml.you_cannot_take_this_unit_or_group	НЕТ ВОЗМОЖНОСТИ ВЗЯТЬ ДАННУЮ БОЕВУЮ ЕДИНИЦУ/ГРУППУ
+xmlskinlk.textguiitem.combatsbase.xml.description	ОПИСАНИЕ
+xmlskinlk.textguiitem.combatsbase.xml.name	НАЗВАНИЕ
+xmlskinlk.textguiitem.createnetgamedialog.xml.name_of_the_game	НАЗВАНИЕ ИГРЫ
+xmlskinlk.textguiitem.createnetgamedialog.xml.number_of_players	КОЛИЧЕСТВО ИГРОКОВ НА КАРТЕ
+xmlskinlk.textguiitem.createnetgamedialog.xml.password	ПАРОЛЬ
+xmlskinlk.textguiitem.encunittypeitem.xml.country	СТРАНА
+xmlskinlk.textguiitem.encunittypeitem.xml.unit_name	НАЗВАНИЕ
+xmlskinlk.textguiitem.infopanelstatistics.xml.armored_car:	Броневиков:
+xmlskinlk.textguiitem.infopanelstatistics.xml.artillery:	Артиллерии:
+xmlskinlk.textguiitem.infopanelstatistics.xml.captured	ЗАХВАЧЕНО
+xmlskinlk.textguiitem.infopanelstatistics.xml.car:	Машин:
+xmlskinlk.textguiitem.infopanelstatistics.xml.current_composition	ТЕКУЩИЙ СОСТАВ
+xmlskinlk.textguiitem.infopanelstatistics.xml.destroyed	УНИЧТОЖЕНО
+xmlskinlk.textguiitem.infopanelstatistics.xml.enemy's_units	ВРАЖЕСКИЕ ПОТЕРИ
+xmlskinlk.textguiitem.infopanelstatistics.xml.flak:	Зениток:
+xmlskinlk.textguiitem.infopanelstatistics.xml.fortification:	Дотов:
+xmlskinlk.textguiitem.infopanelstatistics.xml.human:	Людей:
+xmlskinlk.textguiitem.infopanelstatistics.xml.machine_gun:	Пулеметов:
+xmlskinlk.textguiitem.infopanelstatistics.xml.player's_units	ПОТЕРИ
+xmlskinlk.textguiitem.infopanelstatistics.xml.spg:	САУ:
+xmlskinlk.textguiitem.infopanelstatistics.xml.tank:	Танков:
+xmlskinlk.textguiitem.infopanelstatistics.xml.you_have	ИМЕЕТСЯ
+xmlskinlk.textguiitem.internetconnectdialog.xml.network_name_or_ip_address	СЕТЕВОЕ ИМЯ ИЛИ IP-АДРЕС
+xmlskinlk.textguiitem.internetconnectdialog.xml.password	ПАРОЛЬ
+xmlskinlk.textguiitem.itemswindow.xml.ammos	Боекомплектов
+xmlskinlk.textguiitem.itemswindow.xml.bullets_count	Количество выстрелов
+xmlskinlk.textguiitem.itemswindow.xml.combat_gear	Амуниция
+xmlskinlk.textguiitem.itemswindow.xml.ground	Амуниция
+xmlskinlk.textguiitem.itemswindow.xml.grouping_at_100_m	Кучность на 100 м
+xmlskinlk.textguiitem.itemswindow.xml.initial_speed	Начальная скорость, м/с
+xmlskinlk.textguiitem.itemswindow.xml.penetration	Бронепробиваемость, мм
+xmlskinlk.textguiitem.itemswindow.xml.rate_of_fire	Скорострельность, в/м
+xmlskinlk.textguiitem.itemswindow.xml.reload_time	Время перезарядки, сек
+xmlskinlk.textguiitem.itemswindow.xml.weapons	Орудий
+xmlskinlk.textguiitem.missionbriefing.xml.objectives	ЗАДАЧИ:
+xmlskinlk.textguiitem.missionend.xml.artillery	АРТИЛЛЕРИИ
+xmlskinlk.textguiitem.missionend.xml.battle_time	ДЛИТЕЛЬНОСТЬ БОЯ
+xmlskinlk.textguiitem.missionend.xml.captured	ЗАХВАЧЕНО
+xmlskinlk.textguiitem.missionend.xml.destroyed	УНИЧТОЖЕНО
+xmlskinlk.textguiitem.missionend.xml.enemy_casualties	ВРАЖЕСКИЕ ПОТЕРИ
+xmlskinlk.textguiitem.missionend.xml.engines	МАШИН
+xmlskinlk.textguiitem.missionend.xml.humen	СОЛДАТ
+xmlskinlk.textguiitem.missionend.xml.planes	САМОЛЕТОВ
+xmlskinlk.textguiitem.missionend.xml.player	ИГРОК
+xmlskinlk.textguiitem.missionend.xml.player_casualties	БОЕВЫЕ ПОТЕРИ
+xmlskinlk.textguiitem.missionend.xml.tanks	ТАНКОВ
+xmlskinlk.textguiitem.missionwindlg.xml.victory	ПОБЕДА
+xmlskinlk.textguiitem.multiplayerinfo.xml.players	ИГРОКИ
+xmlskinlk.textguiitem.netgameslistbox.xml.map	КАРТА
+xmlskinlk.textguiitem.netgameslistbox.xml.ping	PING
+xmlskinlk.textguiitem.netgameslistbox.xml.players	ИГРОКИ
+xmlskinlk.textguiitem.netgameslistbox.xml.server_name	НАЗВАНИЕ СЕРВЕРА
+xmlskinlk.textguiitem.netgameslistbox.xml.version	ВЕРСИЯ
+xmlskinlk.textguiitem.netmapsmenu.xml.alliance	АЛЬЯНС
+xmlskinlk.textguiitem.netmapsmenu.xml.army	АРМИЯ
+xmlskinlk.textguiitem.netmapsmenu.xml.chat	ЧАТ
+xmlskinlk.textguiitem.netmapsmenu.xml.color	ЦВЕТ
+xmlskinlk.textguiitem.netmapsmenu.xml.description	ОПИСАНИЕ
+xmlskinlk.textguiitem.netmapsmenu.xml.mapname	НАЗВАНИЕ
+xmlskinlk.textguiitem.netmapsmenu.xml.messages	СООБЩЕНИЯ
+xmlskinlk.textguiitem.netmapsmenu.xml.player	ИГРОК
+xmlskinlk.textguiitem.netmapsmenu.xml.status	СТАТУС
+xmlskinlk.textguiitem.netmapsmenu.xml.username	ИМЯ
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_01	Предупреждение!
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_02	Для создания игрового сервера IP-адрес
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_03	вашего компьютера обязательно должен
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_04	быть внешним.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_05	Вы может создавать игровой сервер для игры
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_06	по локальной сети, или подключатся к другим
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_07	серверам в Интернет.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_08	Для получения подробной информации об
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_09	этой проблеме смотрите файл
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_10	Multiplayer Configuration Readme.rtf
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_11	
+xmlskinlk.textguiitem.nongamestd.xml.cost	ЦЕНА
+xmlskinlk.textguiitem.nongamestd.xml.crew	ЭКИПАЖ / ГРУППА
+xmlskinlk.textguiitem.nongamestd.xml.name	НАИМЕНОВАНИЕ
+xmlskinlk.textguiitem.nongamestd.xml.unit	ВОЙСКА
+xmlskinlk.textguiitem.options.xml.camera_sensitivity	ЧУВСТВИТЕЛЬНОСТЬ КАМЕРЫ
+xmlskinlk.textguiitem.options.xml.command	КОМАНДА
+xmlskinlk.textguiitem.options.xml.control_key1	КЛАВИША УПРАВЛЕНИЯ 1
+xmlskinlk.textguiitem.options.xml.control_key2	КЛАВИША УПРАВЛЕНИЯ 2
+xmlskinlk.textguiitem.options.xml.developer	DEVELOPER
+xmlskinlk.textguiitem.options.xml.press_a_key	НАЖМИТЕ КЛАВИШУ
+xmlskinlk.textguiitem.profile.xml.available_profiles	ДОСТУПНЫЕ ПРОФИЛИ
+xmlskinlk.textguiitem.profile.xml.information	ИНФОРМАЦИЯ
+xmlskinlk.textguiitem.saveloadgame.xml.description	ОПИСАНИЕ
+xmlskinlk.textguiitem.saveloadgame.xml.play_time	ВРЕМЯ В ИГРЕ
+xmlskinlk.textguiitem.saveloadgame.xml.record_name	НАЗВАНИЕ
+xmlskinlk.textguiitem.saveloadgame.xml.save_time	ВРЕМЯ СОХРАНЕНИЯ
+xmlskinlk.textguiitem.skills.xml.artillery:	Артиллерия
+xmlskinlk.textguiitem.skills.xml.awards	Представить к награде
+xmlskinlk.textguiitem.skills.xml.captured	ЗАХВАТИЛ
+xmlskinlk.textguiitem.skills.xml.destroyed	ПОВРЕДИЛ
+xmlskinlk.textguiitem.skills.xml.driver	Водитель
+xmlskinlk.textguiitem.skills.xml.engines:	Машины
+xmlskinlk.textguiitem.skills.xml.free_points:	СВОБОДНО
+xmlskinlk.textguiitem.skills.xml.gunlayer	Наводчик
+xmlskinlk.textguiitem.skills.xml.infantry:	Пехота
+xmlskinlk.textguiitem.skills.xml.intelligence	Интеллект
+xmlskinlk.textguiitem.skills.xml.leadership	Лидерство
+xmlskinlk.textguiitem.skills.xml.marksmanship	Меткость
+xmlskinlk.textguiitem.skills.xml.planes:	Самолеты
+xmlskinlk.textguiitem.skills.xml.rank	Звание
+xmlskinlk.textguiitem.skills.xml.scout	Разведчик
+xmlskinlk.textguiitem.skills.xml.tanks:	Танки
+xmlskinlk.textguiitem.skills.xml.used_points:	ИСПОЛЬЗОВАНО
+xmlskinlk.textguiitem.timespeedpanel.xml.time_is_2_times_quicker	Время ускорено в 2 раза
+xmlskinlk.textguiitem.timespeedpanel.xml.time_is_2_times_slower	Время замедлено в 2 раза
+xmlskinlk.textguiitem.unitwindow.xml.back	Корма
+xmlskinlk.textguiitem.unitwindow.xml.bottom	Днище
+xmlskinlk.textguiitem.unitwindow.xml.characteristics	ТТХ
+xmlskinlk.textguiitem.unitwindow.xml.driver	Водитель
+xmlskinlk.textguiitem.unitwindow.xml.front	Лоб
+xmlskinlk.textguiitem.unitwindow.xml.gun_layer	Наводчик
+xmlskinlk.textguiitem.unitwindow.xml.hull_armoring,_mm	Бронирование корпуса, мм
+xmlskinlk.textguiitem.unitwindow.xml.intelligence	Интеллект
+xmlskinlk.textguiitem.unitwindow.xml.leadership	Лидерство
+xmlskinlk.textguiitem.unitwindow.xml.marksmanship	Меткость
+xmlskinlk.textguiitem.unitwindow.xml.mask	Маска
+xmlskinlk.textguiitem.unitwindow.xml.maximum_speed,_km_per_hour	Скорость движения макс. км/ч
+xmlskinlk.textguiitem.unitwindow.xml.scout	Разведчик
+xmlskinlk.textguiitem.unitwindow.xml.side	Борт
+xmlskinlk.textguiitem.unitwindow.xml.top	Крыша
+xmlskinlk.textguiitem.unitwindow.xml.tower_armoring,_mm	Бронирование рубки, мм
+xmlskinlk.textguiitem.unitwindow.xml.turret_armoring,_mm	Бронирование башни, мм
+xmlskinlk.textguiitem.unitwindowtooltip.xml.b/m	д/м
+xmlskinlk.textguiitem.unitwindowtooltip.xml.ba	ко
+xmlskinlk.textguiitem.unitwindowtooltip.xml.driver	Водитель
+xmlskinlk.textguiitem.unitwindowtooltip.xml.f	л
+xmlskinlk.textguiitem.unitwindowtooltip.xml.gunlayer	Наводчик
+xmlskinlk.textguiitem.unitwindowtooltip.xml.health	Здоровье
+xmlskinlk.textguiitem.unitwindowtooltip.xml.hull	Корпус
+xmlskinlk.textguiitem.unitwindowtooltip.xml.intelligence	Интеллект
+xmlskinlk.textguiitem.unitwindowtooltip.xml.leadership	Лидерство
+xmlskinlk.textguiitem.unitwindowtooltip.xml.marksmanship	Меткость
+xmlskinlk.textguiitem.unitwindowtooltip.xml.s	б
+xmlskinlk.textguiitem.unitwindowtooltip.xml.scout	Разведчик
+xmlskinlk.textguiitem.unitwindowtooltip.xml.spirit	Боевой дух
+xmlskinlk.textguiitem.unitwindowtooltip.xml.t	кр
+xmlskinlk.textguiitem.unitwindowtooltip.xml.turret	Башня
+xmlskinlk.textguiitem.usercampaigns.xml.description	ОПИСАНИЕ
+xmlskinlk.textguiitem.usercampaigns.xml.name	НАЗВАНИЕ
+ZoneTypeEnum.CLOSED	ЗАКРЫТАЯ
+ZoneTypeEnum.INITIAL_ORIGINAL	СТАРТОВАЯ СЦЕНАРНАЯ
+ZoneTypeEnum.INITIAL_RANDOM	СТАРТОВАЯ
+ZoneTypeEnum.OPEN_ORIGINAL	ОТКРЫТАЯ СЦЕНАРНАЯ
+ZoneTypeEnum.OPEN_RANDOM	ОТКРЫТАЯ

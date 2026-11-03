@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+解放敌军主阵地东北方的城镇。
+[Mission.Description]
+德军已在圣洛附近构筑并加固了防御阵地。根据我们的空中侦察数据，敌人在该地区集结了第7集团军的主力。这里的地形适合设伏和构筑小型防御据点，因此我们必须谨慎推进。
+
+命令： 
+- 	使用坦克和步兵实施试探性行动。
+- 	解放位于东北方的城镇。 
+[Mission.Success]
+任务已完成！“眼镜蛇行动”继续进行。
+[Mission.Failed]
+任务失败。 
+[Submission_1.Objectives]
+对圣洛外围的两个村庄实施试探性行动。 
+[Submission_1.Description]
+敌人已将主要防御兵力集中在城镇附近的山丘上。我军进攻路线上有两个村庄。我们没有关于敌人在那里存在情况的情报。 
+
+命令：
+- 	对这两个村庄实施试探性行动。 
+[Submission_1.Success]
+试探性行动已完成。敌人已被击败。 
+[Submission_1.Failed]
+任务失败。
+[Submission_2.Objectives]
+进攻山上的主要防御工事。 
+[Submission_2.Description]
+敌人利用周围的山丘，沿通往城镇的各条进路构筑了一道防线。 
+
+命令：
+-	摧毁山上的敌军防御。
+[Submission_2.Success]
+任务已完成。 
+[Submission_2.Failed]
+任务失败。
+[Submission_3.Objectives]
+夺取圣洛镇。 
+[Submission_3.Description]
+圣洛镇具有重大的战略意义。它是日后向法国纵深推进的关键。 
+ 
+命令：
+-	消灭守卫圣洛的敌军守备部队，解放圣洛镇。
+[Submission_3.Success]
+伏击部队已被消灭！ 
+[Submission_3.Failed]
+任务失败。
+[Submission_4.Objectives]
+摧毁敌军炮兵阵地。
+[Submission_4.Description]
+德军巧妙地部署了炮兵。从敌军炮兵所在的山丘上，可以用火力封锁通往城镇的所有进路。 
+
+命令：
+- 	摧毁山上的敌军炮兵阵地。 
+[Submission_4.Success]
+炮兵阵地已被摧毁。 
+[Submission_4.Failed]
+任务失败。
+[StringTable.Reserv]
+增援已到达。

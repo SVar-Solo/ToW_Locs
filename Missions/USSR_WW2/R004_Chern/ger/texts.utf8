@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Schlagen Sie die feindlichen Truppen aus dem Westen zurück.
+[Mission1.Description]
+Die feindliche 3. Panzerdivision bewegt sich vom Westen aus auf Chern zu, um unsere Einheiten in diesem Abschnitt zu zerschlagen und sich Tula zu nähern. Der Feind ist deutlich in der Überzahl.
+
+Ihre Befehle: 
+-	 Halten Sie die feindliche 3. Panzerdivison auf
+[Mission1.Success]
+Der feindliche Angriff wurde gestoppt! Die Deutschen konnten nicht durchbrechen.
+[Mission1.Failed]
+Der Feind schaffte es durch unsere Verteidigung zu brechen und die Station zu erreichen! Ein Schritt weiter in Richtung Moskaus...
+[Mission1_1.Objectives]
+Schlagen Sie den feindlichen Angriff aus dem Süden zurück.
+[Mission1_1.Description]
+Die deutschen Truppen sind durch die Front südlich von Chern gebrochen und bewegen sich nun schnell in unsere Richtung. Sie wollen unsere Einheiten umzingeln und sich mit der 3. Panzerdivision verbinden, und weiter auf Tula vorstossen.
+
+Ihre Befehle:
+-	 Wehren Sie den feindlichen Angriff aus dem Süden ab.
+[Mission1_1.Success]
+Der feindliche Angriff wurde erfolgreich gestoppt!
+[Mission1_1.Failed]
+Der Feind ist bis zur Station durchgebrochen! Die Operation ist fehlgeschlagen.
+[Submission1.Objectives]
+Halten und verteidigen Sie die Chern Station.
+[Submission1.Description]
+Deutsche Truppen greifen weiterhin unsere Stellungen an der Chern Station an. Wir sind alles was zwischen ihnen und Tula steht, und sie müssen aufgehalten werden.
+
+Ihre Befehle lauten: 
+-	 Halten Sie die Verteidigungsstellungen bei der Chern Station 
+-	 Verhindern Sie, dass die feindlichen Truppen nach Tula durchbrechen können.
+[Submission1.Success]
+Der Feind wurde zerschlagen! Der Befehl des Oberkommandos wurde ausgeführt!
+[Submission1.Failed]
+Der Feind ist durch Ihre Verteidigungslinie gestossen und die Strasse nach Tule steht offen!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.

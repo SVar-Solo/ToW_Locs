@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Destrua todas as unidades inimigas nas proximidades de Houffalize.
+[Mission.Description]
+A Operação Wacht am Rhein começou. Nossas unidades de vanguarda penetraram fundo no flanco desprotegido do inimigo, mas encontraram forte resistência perto da cidade de Bastogne.
+
+Suas ordens: 
+- 	Tome a cidade à frente
+- 	Destrua o inimigo entrincheirado nas colinas 
+[Mission.Success]
+A cidade foi tomada!
+[Mission.Failed]
+Você perdeu! Todos os seus ataques foram repelidos.
+[Submission_1.Objectives]
+Estabeleça uma cabeça de ponte nas colinas perto da cidade. Destrua todas as tropas e a artilharia inimigas. 
+[Submission_1.Description]
+A cabeça de ponte nas colinas perto da cidade é um local fundamental na defesa dos EUA. Infantaria, artilharia e canhões antitanque defendem essa cabeça de ponte.
+
+Suas ordens: 
+- 	Destrua todas as forças inimigas encontradas e capture a cabeça de ponte.
+[Submission_1.Success]
+A cabeça de ponte é nossa!
+[Submission_1.Failed]
+A vitória foi perdida. As forças dos EUA derrotaram você!
+[Submission_2.Objectives]
+Repila os contra-ataques inimigos e capture a cidade.
+[Submission_2.Description]
+Após a perda inicial da cabeça de ponte, os americanos empregaram suas reservas e estão contra-atacando. 
+
+Suas ordens:
+- 	Mantenha a cabeça de ponte, contra-ataque o inimigo e capture a cidade. 
+[Submission_2.Success]
+Você resistiu!
+[Submission_2.Failed]
+Você perdeu esta batalha!
+
+[StringTable.reserv]
+Chegaram reforços.

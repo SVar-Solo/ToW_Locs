@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Liberate the village of Tourmauville, secure the Odon river crossings, and clear both riverbanks of enemy forces.
+[Mission.Description]
+In an attempt to halt our advance, the enemy has set up their defences at the Odon river crossings up ahead. We must secure the crossings and eliminate all hostile forces.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+The bridge near Tourmauville.
+[Submission_1.Description]
+A strategic bridge over the Odon river is located to the south of Tourmauville.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Another bridge farther to the south.
+[Submission_2.Description]
+This is another strategic bridge. It should allow us to flank the enemy and launch a rear attack on the defenders of Tourmauville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Liberate Tourmauville.
+[Submission_3.Description]
+The enemy has consolidated their position in Tourmauville, and seized control over the river crossings and other approaches. We must drive the enemy from the village.
+[Submission_4.Objectives]
+The crossroads.
+[Submission_4.Description]
+The crossroads and Panthers.
+[Submission_1.Success]
+Mission accomplished. The Tourmauville crossing has been secured.
+[Submission_1.Failed]
+Failed to accomplish the task.
+[Submission_2.Success]
+Task accomplished. Bridge secured.
+[Submission_2.Failed]
+Failed to accomplish the task.
+[Submission_3.Success]
+Task accomplished. Tourmauville captured.
+[Submission_3.Failed]
+Failed to accomplish the task.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Failed to accomplish the task.
+[StringTable.Tanks]
+Reserve force available.

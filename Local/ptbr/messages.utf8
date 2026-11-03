@@ -1,0 +1,34 @@
+﻿ai_messages.Command_Incomplete	Não é possível executar o comando
+ai_messages.Soldier_Death	Morto em combate
+ai_messages.Soldier_Under_Attack	Soldado sob ataque
+ai_messages.Soldier_No_Ammo	Soldado sem munição
+ai_messages.Soldier_No_Weapon	Sem arma
+ai_messages.Soldier_No_Point_In_LOF	Sem linha de tiro
+ai_messages.Soldier_In_Panic	Em pânico
+ai_messages.Vehicle_Death	Veículo destruído
+ai_messages.Vehicle_No_Crew	Veículo vazio
+ai_messages.Artillery_Death	Canhão destruído
+ai_messages.Artillery_No_Ammo	Canhão sem munição
+ai_messages.Artillery_No_Weapon	Canhão destruído
+ai_messages.Artillery_No_Point_In_LOF	Sem linha de tiro
+ai_messages.Tankman_Under_Attack	Veículo sob ataque
+ai_messages.Tankman_No_Ammo	Veículo sem munição
+ai_messages.Tankman_No_Weapon	Armamento do veículo destruído
+ai_messages.Tankman_Damage_Engine	Veículo imobilizado
+ai_messages.Tankman_Blocked	Caminho do veículo bloqueado
+ai_messages.Tankman_In_Panic	Em pânico
+ai_messages.Tankman_No_Point_In_LOF	Sem linha de tiro
+ai_messages.Driver_Damage_Engine	Veículo imobilizado
+ai_messages.Driver_Blocked	Caminho do veículo bloqueado
+ai_messages.Shooter_Not_Skilled	Artilheiro inexperiente
+ai_messages.Driver_Not_Skilled	Motorista inexperiente
+ai_messages.Tankman_Stucked	Veículo atolado
+ai_messages.Artillery_Stucked	Atolado
+ai_messages.Mine_Defuse	Mina desarmada
+ai_messages.Mine_Place	Mina instalada
+ai_messages.Mine_Detected	Mina detectada
+ai_messages.Repair_Started	Reparo iniciado
+ai_messages.Repair_Finished	Reparo concluído
+ai_messages.Hold_Captive	Foi capturado
+ai_messages.Free_Captive	Libertado do cativeiro
+ai_messages.Panic_Message	Em pânico

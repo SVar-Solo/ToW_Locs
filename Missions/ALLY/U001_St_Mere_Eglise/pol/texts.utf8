@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Wyprzyj nieprzyjaciela z miasta.
+[Mission1.Description]
+W mieście znajduje się niewielka grupa Niemców. Nieprzyjaciel nie zdaje sobie sprawy z naszej obecności, więc musimy uderzyć szybko i zdecydowanie.
+Twoje rozkazy:
+-	Wyzwolić miasto spod niemieckiej okupacji.
+[Mission1.Success]
+Zadanie wykonane. Nieprzyjaciel został pokonany, a miasto wyzwolone! Aliancka ofensywa może posuwać się dalej.
+[Mission1.Failed]
+Zadanie niewykonane! Twoje oddziały zostały wyeliminowane! Ta porażka bardzo utrudni dokończenie operacji.
+[Submission2.Objectives]
+Odeprzeć niemiecki atak.
+[Submission2.Description]
+Sytuacja jest krytyczna: wróg sprowadził rezerwy w rejon działania. Niemieckie jednostki przełamały front i kierują się ku naszym pozycjom w mieście, zamierzając nas odepchnąć.
+Twoje rozkazy: 
+-	Umocnić pozycje i odeprzeć nacierającego nieprzyjaciela.
+[Submission2.Success]
+Zadanie wykonane! Nieprzyjacielski atak został odparty. Dobra robota!
+[Submission2.Failed]
+Misja nie powiodła się! Twoje oddziały zostały wyparte z miasta. Ta porażka naraziła całą operację na niepowodzenie!
+[StringTable.Reserv]
+Przybyły posiłki.
+[StringTable.Subtitle_01]
+Francja. Czerwiec 1944.

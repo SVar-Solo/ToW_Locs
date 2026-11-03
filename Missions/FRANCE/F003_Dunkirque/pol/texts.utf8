@@ -1,0 +1,18 @@
+﻿[Mission.Objectives]
+Główne zadanie: uniemożliwić Niemcom przebicie się do rejonu ewakuacji.
+[Mission.Description]
+W wyniku długich walk armia francuska poniosła olbrzymie straty, powiększane dodatkowo przez nieustanne naloty Luftwaffe. Nasze wojska wciąż próbują utrzymać pozycje i umożliwić aliantom wycofanie się przez kanał La Manche. Dziś głównym zadaniem jest związanie wojsk niemieckich, które nie mogą przebić się do stref ewakuacji na wybrzeżu. 
+[Mission.Success]
+Misja powiodła się.
+[Mission.Failed]
+Misja nie powiodła się. 
+[Submission_1.Objectives]
+Odeprzeć wszystkie ataki wojsk niemieckich.
+[Submission_1.Description]
+Linia obronna armii francuskiej jest rozciągnięta. Mamy tylko kilka czołgów, a nasze samoloty zostały zmiecione przez niemieckie Luftwaffe. Ocalałe alianckie lotnictwo jest zajęte ochranianiem rejonów ewakuacji. Mimo tak dramatycznej sytuacji musimy odeprzeć wszystkie ataki Niemców, aby można było kontynuować operację wycofywania wojsk.
+[Submission_1.Success]
+Ataki zostały odparte. Ewakuacja zakończyła się powodzeniem.
+[Submission_1.Failed]
+Przegrałeś! Niemieckie jednostki przebiły się.
+[StringTable.reserv]
+Przybyły posiłki!

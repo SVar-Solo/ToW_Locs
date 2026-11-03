@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Detenha o ataque a Sbeitla
+[Mission.Description]
+Tenente-Coronel Waters! Os alemães estão avançando sobre Sbeitla. O senhor deve embotar o ataque deles e manter o objetivo, uma possível área de concentração para um ataque à aldeia.
+[Mission.Success]
+A ordem foi cumprida! O inimigo não conseguiu capturar uma área de concentração para seu ataque a Sbeitla.
+[Mission.Failed]
+Nossas tropas foram derrotadas e os alemães preparam uma ofensiva sobre Sbeitla.
+[Submission1.Objectives]
+Mantenha a linha
+[Submission1.Description]
+Mantenha a linha! O inimigo não deve capturar esta área de concentração!
+[Submission1.Success]
+O inimigo foi derrotado e está fugindo!
+[Submission1.Failed]
+O inimigo esmagou as defesas e prepara uma ofensiva sobre Sbeitla!
+[StringTable.Reinf]
+Coronel Waters! Os reforços estão a caminho. Aguente firme!
+[StringTable.Woters]
+Os reforços chegaram.
+[Submission2.Objectives]
+Garanta o ponto
+[Submission2.Description]
+Os alemães tentam capturar o ponto de rádio. O senhor deve atacar o inimigo e garantir o ponto.
+[Submission2.Success]
+O inimigo fracassou!
+[Submission2.Failed]
+O inimigo capturou o ponto de rádio!
+[Submission3.Objectives]
+Restabeleça o contato por rádio
+[Submission3.Description]
+Elimine o inimigo que guarda a altura e restabeleça o contato por rádio!
+[Submission3.Success]
+O inimigo foi eliminado! O contato por rádio foi restabelecido!
+[Submission3.Failed]
+O inimigo repeliu nosso ataque!
+[StringTable.Enemy]
+Soldados! Ação!
+[StringTable.Enemy2]
+Inimigo no flanco esquerdo!
+[StringTable.Enemy1_1]
+Inimigo no flanco direito!
+[StringTable.Enemy1_2]
+O inimigo está tentando chegar à retaguarda!
+[StringTable.tank]
+Tanques
+[StringTable.human]
+Infantaria
+[StringTable.tank_human]
+Tanques e Infantaria

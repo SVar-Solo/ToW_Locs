@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Resisti agli attacchi del nemico.
+[Mission.Description]
+Unità della 50ma Divisione Northumbrian avanzano contro le difese del Secondo Battaglione, 901mo Panzergrenadier Regiment. Anche se in inferiorità numerica, hai a disposizione fanteria, corazzati e artiglieria semovente che dovrebbero permettere la vittoria contro il nemico.
+ 
+I tuoi ordini sono:
+-	Mantieni le posizioni attorno al villaggio.
+[Mission.Success]
+Ben fatto, comandante! 
+[Mission.Failed]
+Missione fallita! Le tue forze si stanno ritirando.
+[Submission_1.Objectives]
+Repulse all enemy attacks.
+[Submission_1.Description]
+Gli inglesi hanno la superiorità in uomini e mezzi, ma per il terreno possono attaccare solo sul fianco sinistro o frontalmente. Usa questa conoscenza strategica per disporre le tue truppe e stabilire la difesa.
+
+I tuoi ordini sono:
+- Respingi gli attacchi del nemico
+[Submission_1.Success]
+Ben fatto, comandante! Le forze del nemico sono state eliminate.
+[Submission_1.Failed]
+Missione fallita! Le tue forze sono state respinte.

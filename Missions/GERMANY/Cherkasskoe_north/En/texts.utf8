@@ -1,0 +1,47 @@
+﻿[StringTable.Hoerlein]
+Commence the attack after the dive-bombers finish bombing the Russian positions in the village.
+[StringTable.Nebelwerfer_support]
+A squadron of rocket mortars is ready to support our advance.
+[Mission.Objectives]
+Occupy the northern part of Cherkasskoe. Destroy the enemy forces in the area.
+[Mission.Description]
+The combat team will occupy Cherkasskoe in a joint attack of tanks, assault guns and infantry. Having occupied the first position, be ready to meet the counterattacks of enemy tanks and SP guns from the flanks.
+[Mission.Success]
+Cherkasskoe has been occupied, enemy forces have been destroyed.
+[Mission.Failed]
+We have failed to carry out our orders. The enemy is too strong!
+[Submission_2_1.Objectives]
+Repel enemy counterattacks, destroy tanks and assault guns.
+[Submission_2_1.Success]
+The Russian tanks have been destroyed!
+[Submission_2_1.Failed]
+Our forces withdraw under enemy pressure.
+[Submission_2_2.Objectives]
+Repel enemy counterattacks, destroy tanks and assault guns.
+[Submission_2_2.Success]
+The Russian tanks have been destroyed!
+[Submission_2_2.Failed]
+Our forces withdraw under enemy pressure.
+[Submission_3.Objectives]
+Russian mortar fire hinders our advance. Air reconnaissance shows that their firing positions are in the grove to the northwest of Cherkasskoe. It is necessary to occupy those positions or suppress the mortars with counter-fire. 
+[Submission_3.Success]
+The enemy mortar battery has been destroyed.
+[Submission_3.Failed]
+We have failed to destroy the enemy mortars.
+[Submission_4.Objectives]
+Destroy the Russian antitank guns to the northeast of Cherkasskoe.
+[Submission_4.Success]
+The Russian antitank strong point has been destroyed.
+[Submission_4.Failed]
+The attack has been stalled, immediate support is required.
+[StringTable.Hoerlein]
+Commence attack after dive-bombers strike against Russian positions in the village.
+[StringTable.Tanks]
+Tanks and infantry
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

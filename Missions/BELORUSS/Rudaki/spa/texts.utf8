@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Libere Rudaki y Osipovo. Asegure la carretera a Vítebsk.
+[Mission.Description]
+Libere Rudaki y Osipovo. Asegure la carretera a Vítebsk.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission1.Objectives]
+Libere Rudaki.
+[Submission1.Description]
+Libere Rudaki.
+[Submission1.Success]
+Tarea cumplida.
+[Submission1.Failed]
+Tarea fallida.
+[Submission2.Objectives]
+Libere Osipovo.
+[Submission2.Description]
+Libere Osipovo.
+[Submission2.Success]
+Tarea cumplida.
+[Submission2.Failed]
+Tarea fallida.
+[Submission3.Objectives]
+Establezca una posición defensiva en Osipovo y rechace los contraataques enemigos.
+[Submission3.Description]
+Establezca una posición defensiva en Osipovo; prepárese para rechazar ataques enemigos.
+[Submission3.Success]
+Tarea cumplida.
+[Submission3.Failed]
+Tarea fallida.
+[Submission4.Objectives]
+¡Intercepte y destruya de inmediato al destacamento del cuartel general enemigo que se retira por la carretera hacia el norte! Si la columna del cuartel general escapa del cerco, su misión fracasará.
+[Submission4.Description]
+¡Intercepte y destruya de inmediato al destacamento del cuartel general enemigo que se retira por la carretera hacia el norte!
+[Submission4.Success]
+Tarea cumplida.
+[Submission4.Failed]
+Tarea cumplida.
+[Submission5.Objectives]
+El enemigo intenta abrirse paso hacia Rudaki. Intercepte y destruya al grupo blindado.
+[Submission5.Description]
+El enemigo intenta abrirse paso hacia Rudaki. Intercepte y destruya al grupo blindado.
+[Submission5.Success]
+Tarea cumplida.
+[Submission5.Failed]
+Tarea fallida.

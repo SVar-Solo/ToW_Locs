@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Detenha a ruptura
+[Mission.Success]
+O inimigo não conseguiu romper o desfiladeiro!
+[Mission.Failed]
+Recuar! O inimigo rompeu o desfiladeiro!
+[Mission.Description]
+Detenha a ruptura dos grupos alemães pelo Desfiladeiro de Kasserine
+[Submission1.Objectives]
+Contenha os ataques inimigos ao longo dos possíveis eixos de ruptura.
+[Submission1.Description]
+Tenente-Coronel Waters! O senhor deve impedir que as tropas alemãs rompam o desfiladeiro de Kasserine.
+[Submission1.Success]
+A ordem foi cumprida! O inimigo está recuando!
+[Submission1.Failed]
+Nossas tropas fracassaram! O inimigo continua a avançar!
+[Submission2.Success]
+Os tanques britânicos chegaram!
+[Submission2.Description]
+Mantenha-se até a chegada dos tanques britânicos
+[Submission2.Objectives]
+Aguente firme
+[Submission2.Failed]
+Fracassamos! Os reforços não tiveram tempo de chegar!
+[Submission3.Objectives]
+Encontre e destrua os observadores de tiro inimigos
+[Submission3.Description]
+Uma bateria de morteiros dispara contra posições da 1ª Divisão de Infantaria. Localize e elimine os observadores de artilharia inimigos.
+[Submission3.Success]
+Os observadores inimigos foram eliminados!
+[Submission3.Failed]
+Os observadores inimigos não foram eliminados!

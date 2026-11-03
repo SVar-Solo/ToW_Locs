@@ -1,0 +1,456 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capture el puente y avance más allá en territorio enemigo, atacando la base militar marcada en el mapa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+El enemigo capturó el puente.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+El puente es una parte crítica del corredor de transporte y el punto táctico clave de la zona. Debe rechazar el ataque enemigo. No permita que capturen el puente.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Rechace el ataque enemigo. No permita que el puente caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capture el puente y avance más allá en territorio enemigo, atacando la base militar marcada en el mapa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Un equipo blindado de reserva está a su disposición.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+El apoyo aéreo está a su disposición.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a su disposición.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a su disposición.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Un equipo de reserva de infantería y blindados está disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Un equipo de reserva de infantería y blindados está disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a su disposición.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Capture el puente y avance más allá en territorio enemigo, atacando la base militar marcada en el mapa.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+El enemigo capturó el puente.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+El puente es una parte crítica del corredor de transporte y el punto táctico clave de la zona. Debe rechazar el ataque enemigo. No permita que capturen el puente.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Rechace el ataque enemigo. No permita que el puente caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Capture el puente y avance más allá en territorio enemigo, atacando la base militar marcada en el mapa.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Infantry_support]
+Un equipo de infantería está a sus órdenes.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+Un equipo blindado de reserva está a su disposición.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+El apoyo aéreo está a su disposición.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a su disposición.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a su disposición.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Un equipo de reserva de infantería y blindados está disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Un equipo de reserva de infantería y blindados está disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a su disposición.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[Reinforcement.Group_reinforcement_tanks]
+Tanques
+
+[Reinforcement.Group_reinforcement_inf]
+Infantería
+
+[Reinforcement.Group1[Reinforcement]]
+Tanques e infantería
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capture el puente y la cabeza de puente. Rechace todos los contraataques enemigos.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas. Esté preparado para rechazar cualquier contraataque enemigo.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture el puente y la cabeza de puente. Rechace todos los contraataques enemigos.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas. Esté preparado para rechazar cualquier contraataque enemigo.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Rechace el ataque enemigo. No permita que el puente caiga en manos del enemigo.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+El puente es una parte crítica del corredor de transporte y el punto táctico clave de la zona. Debe rechazar el ataque enemigo. No permita que capturen el puente.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Capture el puente y la cabeza de puente. Rechace todos los contraataques enemigos.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas. Esté preparado para rechazar cualquier contraataque enemigo.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Misión cumplida
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Capture el puente y la cabeza de puente. Rechace todos los contraataques enemigos.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Debe cruzar el río para continuar el ataque. Destruya las fuertes defensas enemigas cerca del puente y de la localidad cercana, y capture el puente. Luego avance hacia el interior del territorio enemigo y arrolle la base militar enemiga, donde podrá consolidar sus fuerzas. Esté preparado para rechazar cualquier contraataque enemigo.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Misión cumplida
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Rechace el ataque enemigo. No permita que el puente caiga en manos del enemigo.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+El puente es una parte crítica del corredor de transporte y el punto táctico clave de la zona. Debe rechazar el ataque enemigo. No permita que capturen el puente.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Misión cumplida
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Misión cumplida
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Rechace todos los ataques enemigos. Mantenga el puente y no permita que caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+El enemigo hace todo lo posible por capturar el puente y cruzar el río. Debe mantener el puente a toda costa y no permitir que caiga en manos del enemigo.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Misión cumplida
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+La batería de morteros está lista para el combate.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+

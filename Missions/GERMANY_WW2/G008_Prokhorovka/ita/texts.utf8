@@ -1,0 +1,41 @@
+﻿[Submission_1.Objectives]
+Devi fermare a tutti i costi i carri armati russi che intendono farsi largo fino alle nostre retrovie.
+[Submission_1.Description]
+I russi hanno lanciato un'altra contro-offensiva. Ancora una volta tentano di superare le nostre linee per devastare le nostre retrovie. Se ci riuscissero, potrebbero unirsi ad altre truppe e accerchiare le nostre forze. Dobbiamo prevalere ed impedirglielo.
+
+I tuoi ordini sono:
+-	Distruggi tutti i carri armati del nemico.
+[Submission_1.Success]
+Hai vinto! Sei riuscito a fermare questa offensiva russa.
+[Submission_1.Failed]
+Hai perso! Le unità russe hanno superato le nostre linee e adesso si dirigono verso le nostre vulnerabili retrovie. 
+[Submission_2.Objectives]
+Elimina la resistenza delle truppe russe alla stazione di Prokhorovka.
+[Submission_2.Description]
+I russi hanno perso l'iniziativa. Sfrutta questa occasione per attaccare la stazione di Prokhorovka.  
+
+I tuoi ordini sono:
+-	Continua la tua avanzata verso la stazione di Prokhorovka e distruggi le unità che incontri.
+[Submission_2.Success]
+Hai vinto! Ben fatto, comandante. Le tue azioni oggi ci permetteranno di riprendere l'iniziativa!
+[Submission_2.Failed]
+Hai perso! Hai gettato al vento una grande occasione per colpire duramente i russi.
+[Mission.Objectives]
+Prendi la stazione di Prokhorovka
+[Mission.Description]
+L'Operazione Citadel è iniziata e la Seconda Divisione Corazzata delle SS ha ricevuto l'ordine di superare le difese nemiche costruite lungo la linea Kartashovka-Beregovoye-Prokhorovka-Storozhevoye.
+
+I tuoi ordini sono:
+-	Supera le difese dell'Armata Rossa nell'area della stazione di Prokhorovka.
+[Mission.Success]
+Congratulazioni! Hai superato le difese russe!
+[Mission.Failed]
+Non sei riuscito a prendere la stazione di Prokhorovka!
+[StringTable.Tanks_Reserv]
+Carri armati della riserva sono arrivati in tuo aiuto.
+[StringTable.SPG_Reserv]
+Mezzi di artiglieria semovente sono arrivati in tuo aiuto.
+[StringTable.Infantry_Reserv]
+Unità di fanteria della riserva sono arrivate in tuo aiuto.
+[StringTable.Inf_reserv]
+Unità di fanteria della riserva sono arrivate in tuo aiuto.

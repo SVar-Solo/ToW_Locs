@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+Capture the enemy positions on the hill.
+[Submission_1.Description]
+From a strategic point of view, the hill is a very important location on this section of the front. It offers a great advantage to whichever side holds it. 
+
+Your orders: 
+- 	Drive the enemy out of their positions on the hill and arrange a defensive line there. 
+[Submission_1.Success]
+The hill is captured!
+[Submission_1.Failed]
+Defeat! You were unable to take the hill.
+[Submission_2.Objectives]
+Expand the bridgehead by destroying the enemy defensive strongholds in neighboring villages. 
+[Submission_2.Description]
+Having captured the hill, you broke through the enemy defensive line. The enemy is still on the flanks. It is now necessary to expand the bridgehead. 
+
+Your orders: 
+- 	Destroy all enemy flank positions. 
+[Submission_2.Success]
+The mission has been accomplished.
+[Submission_2.Failed]
+You have failed the mission.
+[Submission_3.Objectives]
+Hold the hill by all means.
+[Submission_3.Description]
+The Germans appear to be preparing to counterattack your positions; you must resist their advance. 
+
+Your orders: 
+- 	Hold the positions on the hill and destroy any advancing enemy forces.
+[Submission_3.Success]
+The enemy is defeated. The road to Cherbourg is open.
+[Submission_3.Failed]
+You have been defeated. The road to Cherbourg remains closed.
+[Mission.Objectives]
+Destroy any German pockets of resistance near the Cherbourg port.
+[Mission.Description]
+The Cherbourg garrison has been cut off from the rest of the German forces, and that is why it does not have sufficient reserves. But regardless of the Allies superiority in manpower and hardware, the garrison rejected General Collins’ offer to surrender. 
+
+Your orders:
+- 	Destroy any German pockets of resistance near the Cherbourg port.
+[Mission.Success]
+You have secured a victory.
+[Mission.Failed]
+You have failed. Too many German units remain in this area and will impede our future advances.
+[StringTable.reserv]
+Reinforcements have arrived.

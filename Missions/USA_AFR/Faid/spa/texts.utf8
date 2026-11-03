@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Impida que las tropas alemanas rompan el frente
+[Mission.Description]
+¡Teniente coronel Waters! Las tropas alemanas no deben abrirse paso hacia el oeste.
+[Mission.Success]
+La ofensiva alemana ha sido detenida.
+[Mission.Failed]
+¡Hemos fracasado!
+[Submission1.Objectives]
+Mantenga la línea
+[Submission1.Description]
+Mantenga la línea en Sidi Bou Zid.
+[Submission1.Success]
+¡El enemigo ha sido derrotado y se retira!
+[Submission1.Failed]
+¡El enemigo ha aplastado las defensas! ¡Retirada!
+[Submission2.Objectives]
+Resistan
+[Submission2.Description]
+Resista hasta que lleguen los refuerzos.
+[Submission2.Success]
+¡Han llegado refuerzos!
+[Submission2.Failed]
+[Submission3.Objectives]
+¡Envíe de inmediato tanques al flanco izquierdo para cerrar la brecha!
+[Submission3.Description]
+[Submission3.Success]
+¡La brecha enemiga ha sido cerrada!
+[Submission3.Failed]
+[StringTable.Army3]
+¡El enemigo está abriendo brecha en el flanco izquierdo! ¡Envíe de inmediato tanques para cerrarla!
+[StringTable.Enemy]
+¡Alemanes! ¡Actúe ya!
+[StringTable.Avia]
+¡Alerta aérea!
+[StringTable.Obhod]
+¡El enemigo nos flanquea por el norte!
+[Submission4.Objectives]
+Ataque a las tropas enemigas
+[Submission4.Description]
+Ataque a las tropas enemigas que nos flanquean.
+[Submission4.Success]
+¡El enemigo se retira!
+[Submission4.Failed]
+[StringTable.tank]
+Tanques
+[StringTable.human]
+Infantería

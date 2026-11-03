@@ -1,0 +1,240 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Zaatakuj i zniszcz wszystkie umocnienia wroga w zaznaczonym na mapie rejonie.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Natrzyj na zaznaczony na mapie rejon. Zdobądź wszystkie pozycje wroga i odeprzyj wszystkie kontrataki.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Wróg został wyeliminowany.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Wróg został wyeliminowany.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Twój oddział bojowy musi wyeliminować broniących się wrogów na tym odcinku frontu.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Twój oddział bojowy ma za zadanie wyeliminować wrogów broniących tego odcinka. Uwaga: według rozpoznania wróg będzie często przeprowadzał kontrataki.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Zdobądź i utrzymaj skrzyżowanie dróg w centrum rejonu.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Nasz wysunięty oddział rozpoznawczy zdobył skrzyżowanie dróg w centrum rejonu. Wróg najprawdopodobniej spróbuje je odbić. Twój oddział bojowy ma dotrzeć do skrzyżowania i wesprzeć oddział rozpoznawczy.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu. Utrzymaj rejon do odwołania.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Twój oddział bojowy musi utrzymać wąskie przejście na południe od skrzyżowania dróg. Według rozpoznania wróg skoncentrował w rejonie duże siły i może planować przełamanie tego odcinka frontu. Twój oddział bojowy nie może do tego dopuścić.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Twój oddział bojowy musi utrzymać wąskie przejście na południe od skrzyżowania dróg. Według rozpoznania wróg skoncentrował w rejonie duże siły i może planować przełamanie tego odcinka frontu. Twój oddział bojowy nie może do tego dopuścić.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Wsparcie lotnicze jest dostępne.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Zaatakuj i zniszcz wszystkie umocnienia wroga w zaznaczonym na mapie rejonie.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Natrzyj na zaznaczony na mapie rejon. Zdobądź wszystkie pozycje wroga i odeprzyj wszystkie kontrataki.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Wróg został wyeliminowany.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Wróg został wyeliminowany.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Twój oddział bojowy musi wyeliminować broniących się wrogów na tym odcinku frontu.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Twój oddział bojowy ma za zadanie wyeliminować wrogów broniących tego odcinka. Uwaga: według rozpoznania wróg będzie często przeprowadzał kontrataki.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Zdobądź i utrzymaj skrzyżowanie dróg w centrum rejonu.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Nasz wysunięty oddział rozpoznawczy zdobył skrzyżowanie dróg w centrum rejonu. Wróg najprawdopodobniej spróbuje je odbić. Twój oddział bojowy ma dotrzeć do skrzyżowania i wesprzeć oddział rozpoznawczy.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Nie pozwól wrogom przełamać Twojego odcinka frontu. Utrzymaj rejon do odwołania.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Twój oddział bojowy musi utrzymać wąskie przejście na południe od skrzyżowania dróg. Według rozpoznania wróg skoncentrował w rejonie duże siły i może planować przełamanie tego odcinka frontu. Twój oddział bojowy nie może do tego dopuścić.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Twój oddział bojowy musi utrzymać wąskie przejście na południe od skrzyżowania dróg. Według rozpoznania wróg skoncentrował w rejonie duże siły i może planować przełamanie tego odcinka frontu. Twój oddział bojowy nie może do tego dopuścić.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Wsparcie lotnicze jest dostępne.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[Reinforcement.Group_tanks_infantry]
+Rezerwowy oddział piechoty i pojazdów pancernych
+
+[Reinforcement.Group_infantry]
+Piechota
+

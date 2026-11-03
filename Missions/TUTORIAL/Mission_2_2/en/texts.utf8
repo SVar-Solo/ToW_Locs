@@ -1,0 +1,35 @@
+﻿[StringTable.1]
+Repel the enemy attack.
+Enemy tactics:
+Heavy tanks outflank and get into the rear to destroy your artillery. Infantry attacks the trenches. Light tanks cover the infantry advance.
+Your tactics: Your soldiers must hold their position. Use guns and soldiers with PTRD anti-tank rifles to immobilize, and then destroy the enemy's heavy tanks, then destroy the enemy's light tanks. Use infantry to destroy the enemy infantry advancing on the positions.
+
+[StringTable.2]
+Repel the enemy attack.
+Enemy tactics:
+Infantry attacks the trenches, then tanks move into the attack, covering the infantry with fire.
+Your tactics:
+Select the HE shell type for the guns and, together with the infantry, destroy the advancing enemy infantry. As soon as the enemy tanks go on the attack, destroy them with aimed fire from the guns.
+
+[Submission1.Objectives]
+Hold the defense and repel enemy attacks.
+
+[Submission1.Description]
+German troops are advancing in this sector of the front with the aim of destroying our army's defensive positions. The Stavka considers it necessary to stop the advance of enemy troops in this area.
+
+Order received:
+- hold the defense in the specified area;
+- repel the German attacks.
+
+[Submission1.Success]
+Command orders fulfilled! The enemy advance in this sector of the front has been stopped! You are worthy of the rank of Russian officer!
+
+[Submission1.Failed]
+Orders not fulfilled! The enemy has broken through the defense in this sector of the front!
+
+[StringTable.Win]
+Task completed!
+
+[StringTable.Disp]
+Deployment mode:
+In the highlighted area, you can move your troops (infantry, artillery, tanks, machine guns, etc.) — both individually and in groups. To rotate in the desired direction without changing position, select the troops and right-click in the desired direction. After deploying the troops, check their lines of fire visually by bringing the camera closer to the ground.

@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Do not allow the enemy to break through
+[Submission_1.Description]
+Prevent the enemy from breaching your defensive fortifications.
+[Submission_01.Success]
+Mission accomplished.
+[Submission_01.Failed]
+Mission failed.
+[Mission.Objectives]
+Repel enemy attacks
+[Mission.Description]
+The enemy is attempting to breach your defenses and capture a strategic mountain road. Prevent the Americans from destroying your defensive fortified points and using the road to fight their way to your rear area.
+[NewSubmission.Success]
+Mission accomplished.
+[NewSubmission.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Prevent maneuver
+[Submission_2.Description]
+Don't let the enemy pass around your defensive positions along the road.
+[Submission_3.Objectives]
+Hold the line
+[Submission_3.Description]
+It seems that the enemy will attack any minute now. Prepare to defend yourselves.
+[Submission_4.Objectives]
+Hold the enemy at any cost
+[Submission_4.Description]
+You are now in charge of the whole line of defense at this sector. Hold the enemy at any cost. Expect the Centauro mobile group to arrive, it will help you to repel the attack.
+[Submission_4.Success]
+Mission accomplished.
+[Submission_4.Failed]
+Mission failed.
+[Submission_3.Success]
+Mission accomplished.
+[Submission_3.Failed]
+Mission failed.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.

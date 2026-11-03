@@ -1,0 +1,44 @@
+﻿[Mission1.Objectives]
+Destruya a las divisiones acorazadas del enemigo que avanzan desde el oeste.
+[Mission1.Description]
+Las tropas fascistas han tomado Lutsk. El siguiente ataque servirá para atravesar la línea del frente cercana a Rovno. Según un informe de reconocimiento, columnas de tanques alemanes se trasladan hacia Rovno desde el oeste.
+Hemos enviado a nuestros cuerpos mecanizados a cerrar la brecha que han abierto las tropas enemigas.
+
+Sus órdenes:
+- 	Destruya los batallones de tanques enemigos.
+[Mission1.Success]
+¡La orden del comandante se ha llevado a cabo! Los batallones de tanques enemigos que se aproximaban desde el oeste han sido totalmente destruidos. Los alemanes no han podido romper la moral de los soldados rusos.
+[Mission1.Failed]
+¡Pese a las acciones heroicas de sus soldados, sus tropas han sido destruidas! Los alemanes han atravesado las defensas en esta zona del frente.
+[Mission1_1.Objectives]
+Destruya los batallones de tanques enemigos que llegan del suroeste.
+[Mission1_1.Description]
+Los alemanes han tomado Lutsk y los batallones de tanques 13o. y 14o. del enemigo se desplazan hacia Rovno para romper la línea del frente y acercarse a Kiev.
+Un informe de reconocimiento dice que los batallones de tanques se desplazan desde el suroeste.
+
+Sus órdenes:
+- 	Destruya los batallones de tanques enemigos.
+[Mission1_1.Success]
+¡La orden del comandante se ha llevado a cabo! Los batallones de tanques enemigos provenientes del suroeste han sido borrados del mapa. Los alemanes no han podido romper la moral de los soldados rusos.
+[Mission1_1.Failed]
+¡Pese a las acciones heroicas de sus soldados, sus tropas han sido destruidas! Los alemanes han atravesado las defensas en esta parte de la línea del frente.
+[Submission1.Objectives]
+Detenga el avance de los batallones de tanques enemigos.
+[Submission1.Description]
+Durante los primeros días de la guerra, nuestro ejército ha sufrido grandes pérdidas. Ayer mismo, los agresores fascistas tomaron Lutsk. El pánico y la confusión reinan en el frente. Hay muy poca información objetiva de momento, pero los informes de reconocimiento dicen que las columnas de tanques alemanes se dirigen hacia nosotros. Se sabe con seguridad que el siguiente ataque está destinado a atravesar la línea del frente en Rovno. El 19o. Cuerpo Mecanizado ya está librando un duro combate en nuestro flanco. Su misión es contener el avance de los tanques enemigos en su zona, cueste lo que cueste. Esto les proporcionará a nuestras tropas la oportunidad de reagruparse y de poder contraatacar.
+
+Sus órdenes:
+- 	Detener el avance de los batallones de tanques 13o. y 14o. del enemigo en la zona especificada mediante los batallones blindados 20o., 35o. y 40o. del 9o. y 19o. Cuerpo Mecanizado.
+
+[Submission1.Success]
+¡La orden del comandante se ha llevado a cabo! Se ha frenado el avance de los batallones de tanques alemanes en la zona.
+[Submission1.Failed]
+¡Pese a las acciones heroicas de sus soldados, sus tropas han sido destruidas! Los alemanes han atravesado las defensas en esta parte de la línea del frente.
+[StringTable.Reserv]
+Han llegado refuerzos.
+[StringTable.Subtitle_01]
+Rusia, junio de 1941
+[StringTable.Ger]
+El ejército alemán ha lanzado la operación Barbarroja y ha cruzado la frontera con Rusia.
+[StringTable.Rus]
+El Ejército Rojo ha lanzado una contraofensiva con la esperanza de detener o ralentizar el ataque alemán.

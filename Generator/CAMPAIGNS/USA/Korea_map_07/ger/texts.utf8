@@ -1,0 +1,177 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Die feindlichen Verteidigungsstellungen ausschalten und die Anhöhe einnehmen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Die feindlichen Verteidigungsstellungen ausschalten und die Anhöhe einnehmen. Alle feindlichen Gegenangriffe abwehren.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Der Feind verfügt in der Gegend über starke Befestigungen. Der erste Abschnitt der Vormarschlinie ist relativ eben, daher steht Panzerunterstützung zur Verfügung. Der zweite Abschnitt des Vormarschs erfolgt jedoch nur mit Infanterie. Ihr Hauptziel ist die auf der Karte markierte Anhöhe.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Der Feind verfügt in der Gegend über starke Befestigungen. Der erste Abschnitt der Vormarschlinie ist relativ eben, daher steht Panzerunterstützung zur Verfügung. Der zweite Abschnitt des Vormarschs erfolgt jedoch nur mit Infanterie. Ihr Hauptziel ist die auf der Karte markierte Anhöhe. Halten Sie sich bereit: Laut Oberkommando könnte der Feind Gegenangriffe starten.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Anhöhe eingenommen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Anhöhe eingenommen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Die Truppen wurden geschlagen und ziehen sich zurück.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Die Truppen wurden geschlagen und ziehen sich zurück.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe halten. Alle Zugänge verminen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgelände. Bedenken Sie, dass auch der Feind seine schweren Panzerfahrzeuge nicht einsetzen kann. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe halten. Alle Zugänge verminen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Die auf der Karte markierte Anhöhe bis auf Weiteres halten.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgelände. Bedenken Sie, dass auch der Feind seine schweren Panzerfahrzeuge nicht einsetzen kann. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Halten Sie mit Ihrer Infanterie die Anhöhe im schwer passierbaren Tempelgelände. Bedenken Sie, dass auch der Feind seine schweren Panzerfahrzeuge nicht einsetzen kann. Teilen Sie Trupps zum Minenlegen und zur Rückensicherung ein und verminen Sie alle Zugänge.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Anhöhe verloren.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Reserve-Infanterie ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Reserve-Infanterie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerieunterstützung steht bereit.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerieunterstützung steht bereit.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung untersteht Ihrem Befehl.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Hubschrauberverband
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Die feindlichen Verteidigungsstellungen ausschalten und die Anhöhe einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Die Anhöhe einnehmen und alle Feinde ausschalten. Achten Sie im unwegsamen Gebirgsgelände auf Ihre Panzerfahrzeuge und Ihre Infanterie. Hubschrauber können Sie zur Aufklärung einsetzen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Die Anhöhe einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Die Luftaufklärung hat offenbar eine feindliche Vorausabteilung entdeckt. Sie müssen die Anhöhe vor den Koreanern einnehmen. Setzen Sie Ihre Hubschrauber ein, um Ihre Truppen schnell zu verlegen.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Die Anhöhe um jeden Preis halten und alle Feindangriffe abwehren. Das Gelände ist schwierig, setzen Sie daher Minen und Panzernahbekämpfung durch die Infanterie ein.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Die Anhöhe um jeden Preis halten und alle Feindangriffe abwehren. Das Gelände ist schwierig, setzen Sie daher Minen und Panzernahbekämpfung durch die Infanterie ein.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Nehmen Sie die taktisch wichtige Anhöhe mit Hubschraubern ein, bevor der Feind sie erreicht. Bauen Sie dann Ihre Verteidigung auf und wehren Sie alle Feindangriffe ab. Verteidigen Sie die Anhöhe für die vorgegebene Zeit, bis die Hauptkräfte eintreffen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Die auf der Karte markierte Anhöhe einnehmen.
+

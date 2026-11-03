@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Sammeln Sie alle befreundeten Einheiten in der Gegend und versuchen Sie dem deutschen Vormarsch zu widerstehen. Wenn Sie sich zurückziehen müssen, tun Sie das über den Fluss Weichsel.
+[Mission.Description]
+Deutsche Truppen drangen früh am 1. September 1939 in Polen ein. Die polnischen Einheiten, die nahe der Grenze in Stellung gegangen waren, wurden schenll überrant und zerschlagen. Polnische Führungsgewalt existiert an der Front so gut wie gar nicht im Moment, und die einzigen koordinierten Verteidigungsoperationen werden von unabhängigen Kommandeuren geleitet, ohne Anweisungen von oben.
+
+Ihre Befehle: 
+- Sammeln Sie alle befreundeten Einheiten unter Ihrem Kommando 
+- Verteidigen Sie gegen die vorrückenden deutschen Einheiten 
+- Sorgen Sie dafür, dass Oberst Czeslaw Mrozek am Leben bleibt.
+ 
+
+Anmerkung der Autoren: Es ist wichtig, dass Sie den Oberst am Leben halten, sonst können Sie ihre neuen polnischen Einheiten nicht befehligen!
+[Mission.Success]
+Sieg! Gut gemacht, Oberst, sie haben das Chaos hier einigermassen in den Griff bekommen.
+[Mission.Failed]
+Fehlschlag! Die Befehlskette ist völlig zusammegebrochen und Sie konnten keine vernünftige Verteidigung organisieren.
+[Submission_1.Objectives]
+Im benachbarten Dorf befinden sich eine befreundete Infanterieeinheit, die Führungs braucht. Benutzen Sie sie um bei der Verteidigung zu helfen.
+[Submission_1.Description]
+Ihre Befehle:
+-	 Übernehmen Sie das Kommando über die Einheit in dem Dorf.
+[Submission_1.Success]
+Erfolg. Diese Soldaten wurden Ihrem Befehl unterstellt.
+[Submission_1.Failed]
+Sie konnten die Einheit nicht unter Ihre Befehlsgewalt bringen.
+[StringTable.Garnizon_1]
+Die Einheit ist nun unter Ihrer direkten Kontrolle.
+[Submission_2.Objectives]
+Rücken Sie zum nächsten Wegpunkt vor. 
+[Submission_2.Success]
+Erfolg. Ressourcen, die Sie für den Sieg benötigen werden, sind jetzt unter Ihrer direkten Kontrolle.
+[Submission_2.Description]
+Die Einheit im Dorf hat Ihre Linien verstärkt, aber diese Soldaten alleine reichen nicht aus, um den deutschen Vormarsch aufzuhalten. Der Gruppenführer berichtet, dass sich einige Panzer und Panzerabwehrkanonen in dem benachbarten Dorf befinden. 
+
+Ihre Befehle:
+-	 Rücken Sie zum nächsten Dorf vor und übernehmen Sie die dort befindliche Ausrüstung.
+[Submission_2.Failed]
+Fehlschlag. Sie konnten die Ausrüstung nicht in Besitz nehmen.
+[Submission_3.Objectives]
+Schlagen Sie alle feindlichen Angriffe zurück.
+[Submission_3.Description]
+Sie konnten Ihr Kommando um Soldaten und zusätzliche Ausrüstung verstärken. Hoffentlich wird das ausreichen, um den deutschen Angriff zurückzuschlagen. Der Feind rückt entlang einer breiten Front vor, also seien Sie darauf vorbereitet, gegen mehrere Wellen aus verschiedenen Richtungen zu kämpfen. Sie dürfen nicht zulassen, dass der Feind die Weichsel überquert.
+
+Ihre Befehle:
+-	 Schlagen Sie alle feindlichen Angriffe zurück.
+-	 Verhindern Sie, dass deutsche Einheiten die Weichsel überqueren können.
+[Submission_3.Success]
+Der feindliche Angriff wurde zurückgeschlagen. Ihre Taten heute werden nicht in Vergessenheit geraten!
+[Submission_3.Failed]
+Der feindliche Angriff war zu stark und Sie konnten ihn nicht aufhalten.
+[Submission_4.Objectives]
+Der Hauptangriff des Feindes wurde aufgehalten, aber jetzt wird es Zeit, sich zurückzuziehen.
+[Submission_4.Description]
+Oberst Mzorek muss den Fluss lebendig überqueren.
+[Submission_4.Success]
+Erfolg! Der Oberst hat überlebt und wird an einem anderen Tag kämpfen können. Wenn alle Ihre Befehlshaber so tapfer kämpfen dann kann Polen vielleicht selbst die Deutschen zurück über die Grenze drängen!
+[Submission_4.Failed]
+Der Oberst hat nicht überlebt. Trotz tapferem Kampf war sein Schicksal, und vielleicht das Schicksal von ganz Polen, verdammt.

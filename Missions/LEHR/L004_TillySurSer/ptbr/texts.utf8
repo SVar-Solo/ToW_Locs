@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Contenha o assalto inimigo.
+[Mission.Description]
+Unidades da 50ª Divisão de Northumbria avançam contra as defesas do 2º Batalhão do 901º Regimento Panzergrenadier. Embora mais uma vez em inferioridade numérica, você tem à disposição um grupo misto de infantaria, blindados e unidades de artilharia autopropulsada, que deve prevalecer contra o ataque iminente.
+ 
+Suas ordens:
+- Mantenha suas posições em torno da aldeia.
+[Mission.Success]
+Bom trabalho, Comandante! 
+[Mission.Failed]
+Missão fracassada! Suas forças estão recuando.
+[Submission_1.Objectives]
+Repila todos os ataques inimigos.
+[Submission_1.Description]
+Os britânicos têm superioridade geral em homens e máquinas, mas, devido ao terreno, são forçados a atacar apenas pela sua frente ou pelo flanco esquerdo. Use esse conhecimento estratégico para posicionar suas tropas de acordo e estabelecer uma defesa adequada.
+ 
+ 
+Suas ordens:
+- Repila todos os ataques inimigos. 
+[Submission_1.Success]
+Bom trabalho, Comandante! As forças inimigas foram eliminadas.
+[Submission_1.Failed]
+Missão fracassada! Seu exército foi derrotado.

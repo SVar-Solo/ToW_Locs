@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+Impeça que as defesas sejam rompidas pelo inimigo que ataca pelo oeste.
+[Submission1.Description]
+Após um longo atraso, os americanos começaram a se aproximar da área ao redor de Arras. A situação neste trecho da frente é muito grave. O exército inimigo avança pelo oeste e tem superioridade numérica.
+
+Suas ordens:
+- 	Impeça que nossas defesas sejam rompidas por um ataque inimigo pelo oeste.
+[Submission1.Success]
+Missão cumprida! O inimigo está recuando.
+[Submission1.Failed]
+O inimigo rompeu nossas defesas - teremos de recuar!
+[Mission1.Objectives]
+Detenha o avanço americano.
+[Mission1.Description]
+O 3º Exército americano se aproximou de nossas linhas defensivas. Os americanos se preparam para um avanço em larga escala ao longo de toda a linha de frente e a partir de diversas direções. Teremos de cobrir a retirada de nossas tropas contendo este último avanço.
+
+Suas ordens: 
+-	Mantenha as defesas na área especificada.
+- 	Detenha as tropas inimigas neste trecho da linha de frente.
+[Mission1.Success]
+Missão cumprida! O ataque americano está em frangalhos! Isto mostra mais uma vez a superioridade esmagadora das armas alemãs.
+[Mission1.Failed]
+Suas defesas foram rompidas! A Alemanha não esquecerá os soldados caídos do Reich, mas dificilmente se lembrará de seu inútil comandante!
+[Submission2.Objectives]
+Impeça que suas defesas do sul sejam rompidas.
+[Submission2.Description]
+Um grande grupo de tropas dos EUA avança pelo sul. Aviões e artilharia apoiam seu avanço.
+
+Suas ordens: 
+- 	Resista a este novo assalto vindo do sul.
+[Submission2.Success]
+Missão cumprida, o inimigo foi detido!
+[Submission2.Failed]
+O inimigo rompeu suas defesas!
+[Submission3.Objectives]
+Outra onda de ataque se aproxima pelo sudoeste
+[Submission3.Description]
+O reconhecimento informa que tropas inimigas avançam pelo sudoeste.
+
+Suas ordens: 
+- 	Rechace o ataque inimigo vindo do sudoeste.
+[Submission3.Success]
+Você conseguiu rechaçar o ataque inimigo!
+[Submission3.Failed]
+O inimigo rompeu suas defesas; você terá de recuar!
+[Submission4.Objectives]
+Resista a este novo ataque vindo do noroeste.
+[Submission4.Description]
+Um grupo de tropas dos EUA avança pelo noroeste.
+
+Suas ordens: 
+ -	 Resista às tropas inimigas que atacam pelo noroeste.
+[Submission4.Success]
+Missão cumprida!
+[Submission4.Failed]
+As defesas de suas tropas foram rompidas!
+[StringTable.Reserv]
+Você recebeu reforços.

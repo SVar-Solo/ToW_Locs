@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Zniszcz nieprzyjacielską obronę.
+[Mission.Description]
+Wojska niemieckie utworzyły nową linię obrony. Wróg skoncentrował znaczne siły przeciwpancerne w rejonie Czismeny. 
+Twoje zadanie:
+-	Zniszcz nieprzyjacielską obronę w rejonie Czismeny.
+[Mission.Success]
+Nieprzyjacielska obrona została zniszczona. Zadanie wykonane!
+[Mission.Failed]
+Nie wykonałeś zadania!
+[Submission_1.Objectives]
+Zdobądź wzgórze.
+[Submission_1.Description]
+Siły nieprzyjaciela skoncentrowano na wzgórzach na północ od wsi. Siły obronne to między innymi działa przeciwpancerne i działa samobieżne. 
+Twoje rozkazy:
+-	Wyprzeć nieprzyjaciela ze wzgórza.
+[Submission_1.Success]
+Zadanie wykonane! Wyparłeś nieprzyjaciela z zajmowanych pozycji.
+[Submission_1.Failed]
+Wróg odparł twój atak. Nie wykonałeś zadania!

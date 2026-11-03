@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Acabe con las tropas enemigas en la zona especificada.
+[Mission1.Description]
+21 de mayo de 1940. Cuatro brigadas acorazadas del 16o. ejército alemán se han aproximado a Arras. Para cerrar la brecha y evitar que la ciudad caiga en manos del enemigo, los británicos han enviado a la 5a. Brigada Acorazada. El mando francés, preocupado por la situación en este sector, también ha desplegado grupos acorazados del 6o. ejército francés.
+
+Sus órdenes:
+-	Encuentre y destruya a todas las tropas alemanas que haya en su zona. La 5a. Brigada Acorazada inglesa le ayudará.
+-	Evite que las tropas enemigas lleguen hasta Arras.
+[Mission1.Success]
+Felicidades, las tropas enemigas han sido erradicadas y aniquiladas. Nos ha dado el tiempo que precisábamos para preparar la defensa de Arras.
+[Mission1.Failed]
+¡Sus tropas han sido derrotadas! Ahora los alemanes podrán entrar en Arras sin problemas.
+[Submission1.Objectives]
+Preste ayuda a la brigada acorazada inglesa.
+[Submission1.Description]
+La 5a. Brigada Acorazada inglesa avanza hacia el pueblo para acabar con las brigadas de carros blindados alemanes que se dirigen hacia Arras.
+El enemigo nos supera en carros y vehículos blindados y está decidido a llegar a su objetivo final, Arras.
+
+Sus órdenes son:
+- 	Preste apoyo activo a la 5a. Brigada Acorazada inglesa durante el máximo tiempo posible.
+[Submission1.Success]
+Misión cumplida, la brigada acorazada inglesa ha sobrevivido al combate con pocas bajas.
+[Submission1.Failed]
+¡Misión incumplida! Los alemanes han derrotado a la brigada acorazada inglesa.
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.

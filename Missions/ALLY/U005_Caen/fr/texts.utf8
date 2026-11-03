@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+Eliminer les unités ennemies qui se replient.
+[Main_mission.Description]
+Selon nos services de renseignement, la défense de Caen a été brisée et l’ennemi se replie en toute hâte. Nos unités ont tardé à refermer la nasse et nous craignons que des troupes ennemies parviennent à passer au travers. Votre mission est d’empêcher les unités allemandes de s’enfuir.
+
+Vos ordres :
+-	Concentrez vos forces près du petit village et gardez le contrôle du croisement de route à tout prix. Ne quittez la zone sous aucune circonstance car l’ennemi peut se présenter à tout moment.
+[Main_Mission.Success]
+L’ennemi a été défait ! Cette zone est maintenant sécurisée !
+[Main_Mission.Failed]
+Vous avez perdu. L’ennemi est parvenu à s’échapper. 
+[Submission_1.Objectives]
+Détruire les chars ennemis.
+[Submission_1.Description]
+Les restes de diverses unités allemandes tentent de rompre l’encerclement. Bien que l’ennemi ait été affaibli, il constitue encore une force sérieuse. Des unités blindées allemandes ont également été repérées.
+
+Vos ordres :
+-	Empêcher l’ennemi de rompre l’encerclement. Détruire tous les chars ennemis rencontrés.
+[Submission_1.Success]
+Félicitations ! Vous avez arrêté les forces ennemies !
+[Submission_1.Failed]
+Vous avez perdu et l’ennemi est parvenu à s’enfuir de notre piège.
+[Submission_2.Objectives]
+Arrêter les troupes ennemies !
+[Submission_2.Description]
+L’ennemi dispose de plus de troupes que prévues dans le secteur. Il tente une autre percée. 
+
+Vos ordres :
+-	Eliminer les unités ennemies.
+[Submission_2.Success]
+Vous avez réussi ! Les troupes ennemies ont été détruites!
+[Submission_2.Failed]
+Vous avez échoué dans votre mission ! 
+[Submission_3.Objectives]
+Occuper la ferme. Eliminer l’ennemi si repéré.
+[Submission_3.Description]
+Les Allemands ne sont pas parvenus à percer, mais l’ennemi n’a pas été éliminé. Le quartier général pense que la meilleure manœuvre est de lancer une offensive immédiate pour balayer les dernières positions ennemies.
+
+Vos ordres :
+-	Lancer une offensive. Attaquer la ferme et éliminer l’ennemi.
+[Submission_3.Success]
+L’ennemi a été éliminé ! La ferme est sous notre contrôle !
+[Submission_3.Failed]
+Vous n’avez pas réussi à capturer la ferme.
+[StringTable.Reserv]
+Des renforts sont arrivés.

@@ -1,0 +1,43 @@
+﻿[Submission_1.Objectives]
+Conquista le posizioni sull'altura.
+[Submission_1.Description]
+In questo settore del fronte una altura è un punto critico di importanza strategica e fornisce un grande vantaggio a chi la controlla.
+I tuoi ordini sono:
+- 	Allontana il nemico dalle posizioni sull'altura e stabilisci le tue difese.
+[Submission_1.Success]
+L'altura è stata catturata!
+[Submission_1.Failed]
+Hai perso!
+[Submission_2.Objectives]
+Espandi la testa di ponte distruggendo le posizioni difensive nemiche nei villaggi vicini.
+[Submission_2.Description]
+Dopo aver preso la collina, sei passato attraverso le linee difensive nemiche. I tedeschi sono ancora forti nelle posizioni laterali. Adesso è necessario espandere la testa di ponte.
+I tuoi ordini sono:
+-  Distruggi tutte le posizioni nemiche.
+[Submission_2.Success]
+Missione completata con successo.
+[Submission_2.Failed]
+Missione fallita.
+[Submission_3.Objectives]
+Mantieni a ogni costo il controllo della collina.
+[Submission_3.Description]
+I tedeschi stanno preparando un contrattacco sulle tue posizioni; devi resistere alla loro avanzata.
+
+I tuoi ordini sono:
+- 	Mantieni le posizioni sull'altura respingendo tutti gli attacchi nemici.
+[Submission_3.Success]
+Il nemico è stato sconfitto. La strada per Cherbourg è libera.
+[Submission_3.Failed]
+Sei stato sconfitto! La strada per Chebourg è rimasta chiusa.
+[Mission.Objectives]
+Distruggi le sacche di resistenza nemica nell'area della città portuale di Cherbourg. 
+[Mission.Description]
+La guarnigione di Cherbourg è rimasta separata dal grosso delle truppe tedesche e quindi manca delle sufficienti risorse. Eppure, malgrado la netta superiorità delle truppe alleate in uomini e in mezzi, la guarnigione tedesca ha respinto la proposta di arrendersi da parte di Collins.
+I tuoi ordini sono:
+-  Distruggi le sacche di resistenza tedesca nell'area di Cherbourg. 
+[Mission.Success]
+Hai vinto!
+[Mission.Failed]
+Hai perso! troppe unità tedesche rimangono in quest'area e impediranno la nostra futura avanzata.
+[StringTable.reserv]
+I rinforzi sono arrivati

@@ -1,0 +1,467 @@
+﻿.Throw	Grenade
+Fr.13_2mm_Hotchkiss	13.2mm Hotchkiss (пулемет Гочкиса)
+Fr.13_2mm_Hotchkiss.short	13.2mm Hotchkiss
+Fr.25mm_hotchkiss_sa_34	25mm SA 34 \n танковая пушка.
+Fr.25mm_hotchkiss_sa_34.short	25mm SA 34
+Fr.25mm_hotchkiss_sa_34_1	25mm SA 34 \n Противотанковая пушка обр.1934г.
+Fr.25mm_hotchkiss_sa_34_1.short	25mm SA 34
+Fr.37mm_SA18	37mm SA 18 \n танковая пушка обр.1918г.
+Fr.37mm_SA18.short	37mm SA 18
+Fr.47mm_sa35_l34	47mm SA 35 L/34 \n танковая пушка.
+Fr.47mm_sa35_l34.short	47mm SA 35 L/34
+Fr.75mm_Puteaux_Mle_1897_26	75mm Mle.1897 \n полевая пушка обр.1897г.
+Fr.75mm_Puteaux_Mle_1897_26.short	75mm Mle.1897
+Fr.75mm_SA35_L17	75mm SA 35 L/17 \n танковая пушка.
+Fr.75mm_SA35_L17.short	75mm SA 35 L/17
+Fr.7_5mm_chatellerault_mle_31	7.5mm chatellerault mle 31 \n 7,5-мм пулемёт
+Fr.7_5mm_chatellerault_mle_31.short	7.5mm chatellerault mle 31
+Fr.8mm_Hotchkiss	8mm Hotchkiss (танковый пулемет Гочкиса)
+Fr.8mm_Hotchkiss.short	8mm Hotchkiss
+Fr.MAC_1924	7.5mm MAC-1924 (ручной пулемет обр.1929г.)
+Fr.MAC_1924.short	7.5mm MAC-1924
+Fr.MAS_1907_15_M16	8mm MAS-1907 15 M16 (винтовка Лебеля обр.1916г.)
+Fr.MAS_1907_15_M16.short	8mm MAS-1907 15 M16
+Fr.MAS_36	7.5mm MAS-36 (винтовка обр.1936г.)
+Fr.MAS_36.short	7.5mm MAS-36
+Fr.MAS_36_sniper	7.5mm MAS-36 (снайперская винтовка обр.1936г.)
+Fr.MAS_36_sniper.short	7.5mm MAS-36 с опт.
+Fr.Mle_1935S	7.65mm Mle.1935S (пистолет обр.1938г.)
+Fr.Mle_1935S.short	7.65mm Mle.1935S
+Ger.105mm_leFH18M_L28	10.5cm leFH18/2 L/28 \n 105-мм гаубица
+Ger.105mm_leFH18M_L28.short	10.5cm leFH18/2 L/28
+Ger.128mm_PaK_44_L55	128mm PaK 44 L/55 \n противотанковая пушка обр.1944 L/55
+Ger.128mm_PaK_44_L55.short	128mm PaK 44 L/55
+Ger.150mm_sFH18_1_L30	15cm sFH 18/1 L/30 \n 150-мм гаубица
+Ger.150mm_sFH18_1_L30.short	15cm sFH 18/1 L/30
+Ger.150mm_StuH_43_1_L12	15cm StuH 43 1 L/12 \n Штурмовая гаубица обр.1943г.
+Ger.150mm_StuH_43_1_L12.short	15cm StuH 43 1 L/12
+Ger.20mm_Flak38	2cm Flak 38 L/112.5 \n Зенитная пушка 38 обр. 1930 г. 
+Ger.20mm_Flak38.short	2cm Flak 38
+Ger.20mm_KwK_30_L55	2cm KwK 30 L/55 \n танковая пушка обр. 1930 г.
+Ger.20mm_KwK_30_L55.short	2cm KwK 30 L/55
+Ger.20mm_kwk_38_l55	20mm KwK 38 L/55 \n танковая пушка обр. 1938 г.
+Ger.20mm_kwk_38_l55.short	20mm KwK 38 L/55
+Ger.20mm_PzB_41s 	Panzerbüchse 41(s) \n 20-мм противотанковое ружьё PzB.41(s) Солотурн S-18/1000
+Ger.20mm_PzB_41s.short	2cm PzB.41(s)
+Ger.20_28mm_s_Pz_B_41	Schwere Panzerbüchse 41 \n 28/20-мм тяжёлое противотанковое ружьё обр.1941г. 
+Ger.20_28mm_s_Pz_B_41.short	2.8/2cm s.Pz.B.41
+Ger.23_61mm_Sturmpistole	Sturmpistole /n 61-мм гранатомёт на базе ракетницы 
+Ger.23_61mm_Sturmpistole.short	Sturmpistole
+Ger.25mm_KwK_121f	25mm KwK 121(f) \n танковая пушка обр.1934г.
+Ger.25mm_KwK_121f.short	25mm KwK 121(f)
+Ger.37mm_Flak_36	3.7cm Flak 36 L/98 \n зенитная пушка обр.1936г.
+Ger.37mm_Flak_36.short	3.7cm Flak 36 L/98
+Ger.37mm_kwk_34t	3.7cm KwK 34t L39 \n танковая пушка обр.1934г.
+Ger.37mm_kwk_34t.short	3.7cm Kwk 34t
+Ger.37mm_KwK_36_L45	37mm KwK 36 L/45  \n танковая пушка обр.1936г.
+Ger.37mm_KwK_36_L45.short	37mm KwK 36 L/45
+Ger.37mm_kwk_38t	3.7cm KwK 38t L45 \n танковая пушка обр.1938г.
+Ger.37mm_kwk_38t.short	3.7cm Kwk 38t
+Ger.37mm_PaK_35_36	3.7cm PaK 35/36 L45 \n противотанковая пушка 35/З6 обр.1935г.
+Ger.37mm_PaK_35_36.short	3.7cm PaK 35/36
+Ger.50mm_KwK_38_L42	5cm KwK 38 L/42 \n танковая пушка обр.1938г.
+Ger.50mm_KwK_38_L42.short	5cm KwK 38 L/42
+Ger.50mm_KwK_39_L60	5cm KwK 39 L/60 \n танковая пушка обр.1939г.
+Ger.50mm_KwK_39_L60.short	5cm KwK 39 L/60
+Ger.50mm_PaK_38	5cm PaK 38 L/60 \n противотанковая пушка обр.1941г.
+Ger.50mm_PaK_38.short	5cm PaK 38 L/60
+Ger.60mm_smoke_intake_device Nebelkerzenabwurfvorrichtung \n прибор дымопуска
+Ger.60mm_smoke_intake_device.short Прибор дымопуска
+Ger.75mm_KwK_37_L24	7.5cm KwK 37 L/24 \n танковая пушка обр.1937г.
+Ger.75mm_KwK_37_L24.short	7.5cm KwK 37 L/24
+Ger.75mm_KwK_37_L24_1	75mm KwK 37 L/24 \n танковая пушка обр.1937г.
+Ger.75mm_KwK_37_L24_1.short	7.5cm KwK 37 L/24
+Ger.75mm_KwK_40_L43	7.5cm KwK 40 L/43 \n танковая пушка обр.1940г.
+Ger.75mm_KwK_40_L43.short	7.5cm KwK 40 L/43
+Ger.75mm_KwK_40_L48	7.5cm KwK 40 L/48 \n танковая пушка обр.1942г.
+Ger.75mm_KwK_40_L48.short	7.5cm KwK 40 L/48
+Ger.75mm_KwK_42_L70	7.5cm KwK 42 L/70 \n танковая пушка обр.1942г.
+Ger.75mm_KwK_42_L70.short	7.5cm KwK 42 L/70
+Ger.75mm_le_l_G_18	7.5cm Le.I.G.18 \n Лёгкое пехотное орудие обр.18 
+Ger.75mm_le_l_G_18.short	7.5cm Le.I.G.18
+Ger.75mm_PaK_39_L48	7.5cm PaK 39 L/48 \n Противотанковая пушка  обр.1939г.
+Ger.75mm_PaK_39_L48.short	7.5cm PaK 39 L/48
+Ger.75mm_PaK_39_L48_1	7.5cm PaK 39 L/48 \n Противотанковая пушка  обр.1939г.
+Ger.75mm_PaK_39_L48_1.short	7.5cm PaK 39 L/48
+Ger.75mm_PaK_40	7.5cm PaK 40 L/48 \n противотанковая пушка обр.1940г.
+Ger.75mm_PaK_40.short	7.5cm PaK 40 L/48
+Ger.75mm_PaK_40_3_L46	7.5cm PaK40/3 L/46 \n Противотанковая пушка обр.1940г.
+Ger.75mm_PaK_40_3_L46.short	7.5cm PaK40/3 L/46
+Ger.75mm_PaK_42_L70	75mm PaK 42 L/70 \n Противотанковая пушка обр.1942г.
+Ger.75mm_PaK_42_L70.short	75mm PaK 42 L/70
+Ger.75mm_PaK_97_38	75mm PaK 97/38 \n Противотанковая пушка обр.1897/1938
+Ger.75mm_PaK_97_38.short	75mm PaK 97/38 																 
+Ger.75mm_StuK_37_L24	7.5cm StuK 37 L/24 \n штурмовая пушка обр.1937г.
+Ger.75mm_StuK_37_L24.short	7.5cm StuK 37 L/24
+Ger.75mm_StuK_40_L43	75mm StuK 40 L/43 штурмовая пушка обр.1940г.
+Ger.75mm_StuK_40_L43.short	75mm StuK 40 L/43
+Ger.75mm_StuK_40_L48	7.5cm StuK 40 L/48 \n штурмовая пушка обр.1940г.
+Ger.75mm_StuK_40_L48.short	7.5cm StuK 40 L/48
+Ger.7_92mm_FG_42	Fallschirmjägergewehr 42\n 7,92-мм винтовка парашютиста обр. 1942 года
+Ger.7_92mm_FG_42.short	7.92mm FG.42
+Ger.7_92mm_Mauser_K98k	Mauser karabiner 98 kurz \n 7,92-мм карабин Маузер K98k
+Ger.7_92mm_Mauser_K98k.short	7.92mm K98k
+Ger.7_92mm_Mauser_K98k_Sniper	Mauser karabiner 98 kurz, scharfschütze \n 7,92-мм снайперская винтовка Маузер K98k
+Ger.7_92mm_Mauser_K98k_Sniper.short	7.92mm K98k, sc.
+Ger.7_92mm_MG_17	Maschinengewehr 17 \n 7,92-мм пулемёт MG.17
+Ger.7_92mm_MG_17.short	7.92mm MG.17
+Ger.7_92mm_MG_34	Maschinengewehr 34 \n 7,92-мм единый пулемёт MG.34
+Ger.7_92mm_MG_34.short	7.92mm MG.34
+Ger.7_92mm_MG_34_HMG	Maschinengewehr 34 \n 7,92-мм единый пулемёт MG.34
+Ger.7_92mm_MG_34_HMG.short	7.92mm MG.34
+Ger.7_92mm_MG_34_twin	2 x Maschinengewehr 34 \n 7,92-мм единый пулемёт MG.34
+Ger.7_92mm_MG_34_twin.short	7.92mm MG.34
+Ger.7_92mm_MG_37t	Maschinengewehr 37(t) \n 7,92-мм пулемёт MG.37(t)
+Ger.7_92mm_MG_37t.short	7.92mm MG.37(t)
+Ger.7_92mm_MG_42	Maschinengewehr 42 \n 7,92-мм единый пулемёт MG.42
+Ger.7_92mm_MG_42.short	7.92mm MG.42
+Ger.7_92mm_MG_42_HMG	Maschinengewehr 42 \n 7,92-мм единый пулемёт MG.42
+Ger.7_92mm_MG_42_HMG.short	7.92mm MG.42
+Ger.7_92mm_PzB_39	Panzerbüchse 39 \n 7,92-мм противотанковое ружье PzB.39
+Ger.7_92mm_PzB_39.short	7.92mm PzB.39
+Ger.7_92mm_Walter_G41W	7,92-мм самозарядная винтовка Walter G.41(W)
+Ger.7_92mm_Walter_G41W.short	7.92mm Walter G.41(W)
+Ger.7_92_30mm_Gw_Gr_Ger_42_98K	Mauser karabiner 98 kurz mit Gw.Gr.Ger.42 \n 7,92-мм карабин Маузер 98k с 30-мм ружейным гранатомётом
+Ger.7_92_30mm_Gw_Gr_Ger_42_98K.short	7.92mm K98k, gw.
+Ger.7_92_30mm_GzB_39	30-мм противотанковый гранатомёт GzB.39
+Ger.7_92_30mm_GzB_39.short	3cm GzB.39
+Ger.81mm_GrW_34	8cm Schwerer Granatwerfer 34 \n 80-мм миномёт
+Ger.81mm_GrW_34.short	8cm s.Gr.W. 34
+Ger.88mm_Flak_37_L56	8.8cm Flak 36 L/56 \n зенитная пушка обр.36
+Ger.88mm_Flak_37_L56.short	8.8cm Flak 36 L/56
+Ger.88mm_KwK_36_L56	8.8cm KwK 36 L/56 \n танковая пушка 36
+Ger.88mm_KwK_36_L56.short	8.8cm KwK 36 L/56
+Ger.88mm_KwK_43_L71	8.8cm KwK 43 L/71 \n танковая пушка обр.1943г.
+Ger.88mm_KwK_43_L71.short	8.8cm KwK 43 L/71
+Ger.88mm_PaK_43_1_L71	8.8cm PaK 43 1 L/71 \n противотанковая пушка обр. 1943 
+Ger.88mm_PaK_43_1_L71.short	8.8cm PaK 43 1 L/71
+Ger.88mm_PaK_43_2_L71	8.8cm PaK 43 2 L/71 \n противотанковая пушка обр. 1943 
+Ger.88mm_PaK_43_2_L71.short	8.8cm PaK 43 2 L/71
+Ger.88mm_PaK_43_3_L71	8.8cm PaK 43 3 L/71 \n противотанковая пушка обр. 1943 
+Ger.88mm_PaK_43_3_L71.short	8.8cm PaK 43 3 L/71
+Ger.88mm_PaK_43_41	8.8cm PaK 43  L/71 \n Противотанковая пушка обр. 1943 
+Ger.88mm_PaK_43_41.short	8.8cm PaK 43  L/71
+Ger.90mm_nebelkerzen_wurfladung Nebelkerzen-Wurfladung \n 90mm дымовая мортира
+Ger.90mm_nebelkerzen_wurfladung.short 9cm Дымовая мортира
+Ger.92mm_Nahverteidigungswaffe Nahverteidigungswaffe \n 92mm оружие ближней обороны
+Ger.92mm_Nahverteidigungswaffe.short 9.2cm Nahverteidigungswaffe
+Ger.9mm_Luger_P08	Pistole 08 \n 9-мм пистолет Люгер Р.08 “Парабеллум”
+Ger.9mm_Luger_P08.short	9mm P.08
+Ger.9mm_MP_40	Maschinepistole 40 \n 9-мм пистолет-пулемёт MР.40
+Ger.9mm_MP_40.short	9mm MP.40
+Ger.9mm_Walter_P38	Pistole 38 \n 9-мм пистолет Вальтер Р.38
+Ger.9mm_Walter_P38.short	9mm P.38
+Ger.Panzerfaust_100	Panzerfaust 100m \n Одноразовый противотанковый гранатомет 
+Ger.Panzerfaust_100.short	Panzerfaust 100m
+Ger.Panzerfaust_150	Panzerfaust 150 \n Противотанковый гранатомет 
+Ger.Panzerfaust_150.short	Panzerfaust 150
+Ger.Panzerfaust_30	Panzerfaust 30m \n Одноразовый противотанковый гранатомет 
+Ger.Panzerfaust_30.short	Panzerfaust 30m
+Ger.Panzerfaust_60	Panzerfaust 60m \n Одноразовый противотанковый гранатомет 
+Ger.Panzerfaust_60.short	Panzerfaust 60m
+Ger.Panzerfaust_Klein_30M	Panzerfaust Klein 30M \n Одноразовый противотанковый гранатомет 
+Ger.Panzerfaust_Klein_30M.short	Panzerfaust Klein 30M
+Ger.R_PzB_54_Panzerschrek	RPzB54 Panzerschrek \n Противотанковый гранатомет 
+Ger.R_PzB_54_Panzerschrek.short	RPzB54 Panzerschrek
+Ger.StG_44	SturmGewehr 44  \n Штурмовая винтовка 
+Ger.StG_44.short	SturmGewehr 44
+Ita.20mm_Cannone_da_20_65_M35	20mm cannone-mitragliera da 20/65 mod.35 \n 20-мм пушка 20/65
+Ita.20mm_Cannone_da_20_65_M35.short	20mm 20/65 mod.35
+Ita.20mm_Solothurn	Fucile anticarro da 20мм “S" \n 20-мм противотанковое ружье Солотурн S-18/1000
+Ita.20mm_Solothurn.short	20mm S18/1000 
+Ita.37mm_PaK_35_36	37mm PaK 35/36 L45 \n противотанковая пушка 35/З6 обр.1935г.
+Ita.37mm_PaK_35_36.short	37mm PaK 35/36
+Ita.37mm_Vickers_Terni_L40	37mm Vickers-Terni L40 \n 37-мм танковая пушка
+Ita.37mm_Vickers_Terni_L40.short	37mm Vickers-Terni L40 
+Ita.47mm_Cannone_da_47_32_M35	47mm cannone da 47/32 mod. 35 \n 47-мм танковая пушка обр.1935г.
+Ita.47mm_Cannone_da_47_32_M35.short	47/32 cannone
+Ita.47mm_Cannone_da_47_40_M39	47mm cannone da 47/40 mod. 39 \n 47-мм танковая пушка обр.1939г.
+Ita.47mm_Cannone_da_47_40_M39.short	47/40 cannone
+Ita.50mm_PaK_38	50mm PaK 38 L/60 \n противотанковая пушка 38 обр.1941г.
+Ita.50mm_PaK_38.short	50mm PaK 38 L/60
+Ita.6_5mm_Breda_30	Fucile Mitragliatore Breda Mod. 30 \n 6,5-мм ручной пулемёт Бреда 30
+Ita.6_5mm_Breda_30.short	6.5mm Breda 30
+Ita.6_5mm_Carcano_M91	Fucile di Fanteria Mo.1891 \n 6,5-мм винтовка Паравиччини - Каркано M.1891
+Ita.6_5mm_Carcano_M91.short	6.5mm M1891
+Ita.75mm_Ansaldo_75_18_M34	75mm Ansaldo 75/18 M34 \n 75-мм гаубица
+Ita.75mm_Ansaldo_75_18_M34.short	75mm Ansaldo 75/18
+Ita.75mm_Breda_75_34_M39	75mm Breda 75/34 M39 \n 75-мм пушка
+Ita.75mm_Breda_75_34_M39.short	75mm Breda 75/34
+Ita.75mm_le_l_G_18	75mm Le.I.G.18 \n легкое пехотное орудие обр.18 
+Ita.75mm_le_l_G_18.short	75mm Le.I.G.18
+Ita.75mm_PaK_40	75mm PaK 40 L/48 \n противотанковая пушка 40 обр.1940г.
+Ita.75mm_PaK_40.short	75mm PaK 40 L/48
+Ita.8mm_Breda_38	8mm Breda Mod. 38 \n 8-мм пулемёт Breda 38
+Ita.8mm_Breda_38.short	8mm Breda 38
+Ita.9mm_Beretta_MAB_38A	Moschetto Automatico Beretta Mod. 1938А \n 9-мм пистолет-пулемёт Беретта МАВ М.1938А
+Ita.9mm_Beretta_MAB_38A.short	9mm МAB 1938A 
+Ita.9mm_Beretta_M_1934	Pistola Automatica Beretta Mod. 1934 \n 9-мм пистолет Беретта М.1934
+Ita.9mm_Beretta_M_1934.short	9mm Beretta М1934
+Pol.20mm_FK_wz38	20mm FK wz38 (автоматическая танковая пушка обр.1938г.)
+Pol.20mm_FK_wz38.short	20mm FK wz38
+Pol.37mm_Bofors_wz_36	37mm Bofors wz36 (противотанковая пушка обр.1936г.)
+Pol.37mm_Bofors_wz_36.short	37mm Bofors wz36
+Pol.37mm_Bofors_wz_36_1	37mm Bofors wz36 (противотанковая пушка обр.1936г.)
+Pol.37mm_Bofors_wz_36_1.short	37mm Bofors wz36
+Pol.47mm_Vickers_QF	47mm Vickers QF (скорострельная танковая пушка)
+Pol.47mm_Vickers_QF.short	47mm Vickers QF
+Pol.75mm_Field_Gun_wz_1897	75mm Field Gun wz97 (полевая пушка обр.1897г.)
+Pol.75mm_Field_Gun_wz_1897.short	75mm wz97
+Pol.7_92mm_Hotchkiss_wz_25	7.92mm Hotchkiss wz25 (пулемет Гочкиса обр.1925г.)
+Pol.7_92mm_Hotchkiss_wz_25.short	7.92mm wz25
+Pol.7_92mm_wz30	7.92mm wz30 (пулемет Браунинг обр.1930г.)
+Pol.7_92mm_wz30.short	7.92mm wz30
+Pol.kb_ppanc_wz_35	7.92mm Kb ppanc wz35 (противотанковое ружье обр.1935г.)
+Pol.kb_ppanc_wz_35.short	7.92mm Kb ppanc wz35
+Pol.Kb_wz_98	7.92mm Kb wz98 (винтовка Маузер обр.1898г.)
+Pol.Kb_wz_98.short	7.92mm Kb wz98
+Pol.Kb_wz_98_PZO	7.92mm Kb wz98 PZO (снайперская винтовка Маузер обр.1898г.)
+Pol.Kb_wz_98_PZO.short	7.92mm Kb wz98 PZO
+Pol.Rkm_wz_28_Browning	7.92mm Rkm wz28 Browning (автоматическая винтовка Браунинг обр.1928г.)
+Pol.Rkm_wz_28_Browning.short	7.92mm Rkm wz28
+Pol.Vis_wz35	9mm Vis wz35 (пистолет системы Парабеллум обр.1935г.)
+Pol.Vis_wz35.short	9mm Vis wz35
+Rus.100mm_BS_3	100мм полевая пушка БС-3 обр.1944г.
+Rus.100mm_BS_3.short	100мм БС-3
+Rus.100mm_D_10S	100мм танковая пушка Д-10С обр.1944г.
+Rus.100mm_D_10S.short	100мм Д-10С
+Rus.100mm_D_10T	танковая пушка Д-10Т обр.1944г.
+Rus.100mm_D_10T.short	100мм Д-10Т
+Rus.122mm_A_19	122мм пушка А-19 обр. 1931/37г.
+Rus.122mm_A_19.short	122мм А-19
+Rus.122mm_A_19S	122мм пушка А-19С обр.1943г.
+Rus.122mm_A_19S.short	122мм А-19С
+Rus.122mm_D_25T	122мм танковая пушка Д-25Т обр.1943г.
+Rus.122mm_D_25T.short	122мм Д-25Т
+Rus.122mm_M_30	122-мм гаубица М-30
+Rus.122mm_M_30.short	122-мм М-30
+Rus.122mm_M_30_static	122-мм гаубица М-30
+Rus.122mm_M_30_static.short	122-мм М-30
+Rus.12_7mm_DShK_HMG	12,7-мм крупнокалиберный станковый пулемёт обр. 1938 г. (ДШК)
+Rus.12_7mm_DShK_HMG.short	12,7-мм ДШК
+Rus.14_5mm_PTRD_AT	14,5-мм противотанковое ружьё ПТРД
+Rus.14_5mm_PTRD_AT.short	14,5-мм ПТРД
+Rus.14_5mm_PTRS_AT	14,5-мм противотанковое ружьё ПТРС
+Rus.14_5mm_PTRS_AT.short	14,5-мм ПТРС
+Rus.152mm_ML_20S	152мм гаубица-пушка МЛ-20С обр. 1937г.
+Rus.152mm_ML_20S.short	152мм МЛ-20С
+Rus.152mm_M_10	152мм М-10 (дивизионная гаубица обр. 1938г.)
+Rus.152mm_M_10.short	152мм М-10
+Rus.20mm_TNSh	20-мм ТНШ  \n танковая Нудельмана-Шпитального (ШВАК танковая) обр.1941г.
+Rus.20mm_TNSh.short	20-мм ТНШ
+Rus.23mm_Vja	23-мм авиационная пушка ВЯ
+Rus.23mm_VJa.short	23-мм ВЯ
+Rus.37mm_61_K	37-мм автоматическая зенитная пушка обр.1939 г. (61-К)
+Rus.37mm_61_K.short	37-мм 61-К
+Rus.45mm_20K	45-мм танковая пушка обр.1932/38 гг. (20К)
+Rus.45mm_20K.short	45-мм 20К
+Rus.45mm_20Km	45-мм танковая пушка обр.1932/38 гг. (20Км)
+Rus.45mm_20Km.short	45-мм 20Км
+Rus.45mm_AT_obr_37	45-мм противотанковая пушка обр.1937 г. (53-К)
+Rus.45mm_AT_obr_37.short	45-мм 53-К
+Rus.45mm_AT_obr_42	45-мм противотанковая пушка обр.1942 г. (М-42)
+Rus.45mm_AT_obr_42.short	45-мм М-42
+Rus.50mm_mod_1941	50-мм ротный миномёт обр.1941
+Rus.50mm_mod_1941.short	50-мм миномёт
+Rus.57mm_ZIS_2	57-мм противотанковая пушка обр.1943 г. (ЗИС-2)
+Rus.57mm_ZIS_2.short	57-мм ЗИС-2
+Rus.57mm_ZIS_4	57-мм танковая пушка обр.1941 г. (ЗИС-4)
+Rus.57mm_ZIS_4.short	57-мм ЗИС-4
+Rus.76_2mm_F_32	76.2mm 76-мм Ф-32
+Rus.76_2mm_F_32.short	76-мм танковая пушка обр.1936 г. (Ф-32)
+Rus.76_2mm_F_34	76-мм танковая пушка обр.1940 г. (Ф-34)
+Rus.76_2mm_F_34.short	76-мм Ф-34
+Rus.76_2mm_F_34_1	76-мм танковая пушка обр.1940 г. (Ф-34)
+Rus.76_2mm_F_34_1.short	76-мм Ф-34
+Rus.76_2mm_KT_26	76.2мм КТ-26 (танковая пушка (кировская танковая) обр.1930г.)
+Rus.76_2mm_KT_26.short	76.2мм КТ-26
+Rus.76_2mm_L10		76-мм танковая пушка обр.1938 г. (Л-10)
+Rus.76_2mm_L10.short	76-мм Л-10
+Rus.76_2mm_Polk_obr_27	76-мм полковая пушка обр.1927 г. (52-П-353)
+Rus.76_2mm_Polk_obr_27.short	76-мм обр.1927 г.
+Rus.76_2mm_Polk_obr_43	76-мм полковая пушка обр.1943г.
+Rus.76_2mm_Polk_obr_43.short	76-мм обр.1943г.
+Rus.76_2mm_ZIS_3	76-мм пушка обр.1942 г. (ЗИС-3)
+Rus.76_2mm_ZIS_3.short	76-мм ЗИС-3
+Rus.76_2mm_ZIS_3Sh	76-мм штурмовая пушка обр.1942 г. (ЗИС-3Ш)
+Rus.76_2mm_ZIS_3Sh.short	76-мм ЗИС-3Ш
+Rus.76_2mm_ZIS_5	76-мм танковая пушка обр.1941 г. (ЗИС-5)
+Rus.76_2mm_ZIS_5.short	76-мм ЗИС-5
+Rus.7_62mm_AK_47	7,62-мм автомат Калашникова обр. 1947 г.
+Rus.7_62mm_AK_47.short	7,62-мм АК-47
+Rus.7_62mm_DP_27	7,62-мм ручной пулемёт Дегтярева обр.1927 г. (ДП-27)
+Rus.7_62mm_DP_27.short	7,62-мм ДП-27
+Rus.7_62mm_DT	7,62-мм танковый пулемёт Дегтярева обр.1929 г. (ДТ)
+Rus.7_62mm_DT.short	7,62-мм ДТ
+Rus.7_62mm_Maxim_HMG	7,62-мм станковый пулемёт обр. 1910/30 г. (Максим)
+Rus.7_62mm_Maxim_HMG.short	7,62-мм "Максим"
+Rus.7_62mm_Mosin	7,62-мм винтовка Мосина обр.1891/30 г.
+Rus.7_62mm_Mosin.short	7,62-мм винтовка
+Rus.7_62mm_Mosin_Carabin	7,62-мм карабин Мосина обр.1938 г.
+Rus.7_62mm_Mosin_Carabin.short	7,62-мм карабин
+Rus.7_62mm_Mosin_Sniper	7,62-мм снайперская винтовка обр.1891/30 г. (Мосина)
+Rus.7_62mm_Mosin_Sniper.short	7,62-мм сн. винтовка
+Rus.7_62mm_Nagant	7,62-мм револьвер обр.1895 г. (Наган)
+Rus.7_62mm_Nagant.short	7,62-мм револьвер
+Rus.7_62mm_PPD	7,62-мм пистолет-пулемёт обр.1934/38 г. (ППД)
+Rus.7_62mm_PPD.short	7,62-мм ППД
+Rus.7_62mm_PPS		7,62-мм пистолет-пулемёт Судаева обр.1943 г. (ППС-43)
+Rus.7_62mm_PPS.short	7,62-мм ППС-43
+Rus.7_62mm_PPSh	7,62-мм пистолет-пулемёт обр.1941 г. (ППШ-41)
+Rus.7_62mm_PPSh.short	7,62-мм ППШ-41
+Rus.7_62mm_RPD	7,62-мм ручной пулемёт Дегтярёва обр. 1944 г.
+Rus.7_62mm_RPD.short	7,62-мм РПД
+Rus.7_62mm_SGMB_43	7,62-мм пулемет Горюнова модернизированный бронетранспортерный
+Rus.7_62mm_SGMB_43.short	7,62-мм СГМБ
+Rus.7_62mm_SG_43	7,62-мм станковый пулемет Горюнова обр. 1943 г.
+Rus.7_62mm_SG_43.short	7,62-мм СГ-43
+Rus.7_62mm_ShKAS	7,62-мм авиационный пулемёт ШКАС
+Rus.7_62mm_ShKAS.short	7,62-мм ШКАС
+Rus.7_62mm_SKS_45	7,62-мм самозарядный карабин обр.1945 г. (СКС-45)
+Rus.7_62mm_SKS_45.short	7,62-мм СКС-45
+Rus.7_62mm_SVT_40	7,62-мм самозарядная винтовка обр.1940 г. (СВТ-40)
+Rus.7_62mm_SVT_40.short	7,62-мм СВТ-40
+Rus.7_62mm_SVT_40_Sniper	7,62-мм снайперская самозарядная винтовка обр.1940 г. (СВТ-40)
+Rus.7_62mm_SVT_40_Sniper.short	7,62-мм СВТ-40 с опт.
+Rus.7_62mm_TT	7,62-мм пистолет обр.1930 г. (ТТ)
+Rus.7_62mm_TT.short	7,62-мм пистолет ТТ
+Rus.82mm_mod_1941	82-мм батальонный миномёт обр.1941
+Rus.82mm_mod_1941.short	82-мм миномёт
+Rus.85mm_52_K	85-мм зенитная пушка обр.1939 г. (52-К)
+Rus.85mm_52_K.short	85-мм 52-К
+Rus.85mm_D_5S	85мм самоходная пушка Д-5С обр.1943г.
+Rus.85mm_D_5S.short	85мм Д-5С
+Rus.85mm_D_5T	85мм танковая пушка Д-5Т обр.1943г.
+Rus.85mm_D_5T.short	85мм Д-5Т
+Rus.85mm_ZIS_S_53	85мм танковая пушка ЗИС-С-53 обр.1944г.
+Rus.85mm_ZIS_S_53.short	85мм ЗИС-С-53
+Rus.RPG_2	ручной противотанковый гранатомет РПГ-2 обр. 1947 г.
+Rus.RPG_2.short	РПГ-2
+UK.101_6mm_smoke_mortar		4" smoke mortar \n 101.6 мм дымовой гранатомет.
+UK.101_6mm_smoke_mortar.short	4" smoke mortar
+UK.13_97mm_MkI_Boys	Rifle, Anti-Tank, .55 in, Boys Mark 1  \n 13,97-мм противотанковое ружье Бойс Mk 1
+UK.13_97mm_MkI_Boys.short	13,97 Boys Mk.I
+UK.20mm_Oerlikon_MkII	20mm Oerlikon MkII \n зенитная пушка Mk II
+UK.20mm_Oerlikon_MkII.short	20mm Oerlikon MkII
+UK.290mm_petard		290mm Spigot mortar "Petard" (290-мм мортира "Петард")
+UK.290mm_petard.short	Petard	
+UK.40mm_OQF_Mk_IX	40mm OQF Mk.IX \n танковая пушка обр.1936г.
+UK.40mm_OQF_Mk_IX.short	40mm OQF Mk.IX
+UK.40mm_OQF_Mk_IX_ARM	40mm OQF Mk.IX \n танковая пушка обр.1936г.
+UK.40mm_OQF_Mk_IX_ARM.short	40mm OQF Mk.IX													
+UK.40mm_OQF_Mk_IX_Littlejohn	40mm OQF MkIX Littlejohn \n танковая пушка с конической насадкой Littlejohn 
+UK.40mm_OQF_Mk_IX_Littlejohn.short 	40mm OQF MkIX Littlejohn
+UK.50_8mm_mortar	50.8mm mortar \n 50.8 мм казнозарядный дымовой миномет.
+UK.50_8mm_mortar.short	50.8mm mortar																	 
+UK.57mm_6pdr_AT_Gun_Mk_II	57mm 6 pdr Mk.II \n противотанковая пушка обр.1938г.
+UK.57mm_6pdr_AT_Gun_Mk_II.short	57mm 6 pdr Mk.II
+UK.57mm_6pdr_AT_Gun_Mk_IV	57mm 6 pdr Mk.IV \n противотанковая пушка 
+UK.57mm_6pdr_AT_Gun_Mk_IV.short	57mm 6 pdr Mk.IV
+UK.57mm_6pdr_tank	57mm 6 pdr Mk.III \n танковая 6-фунтовая пушка Mk III
+UK.57mm_6pdr_tank.short	57mm 6 pdr Mk.III															
+UK.57mm_QQF_Mk_III	O.Q.F. 6 pdr Mk.III \n 57-мм пушка 
+UK.57mm_QQF_Mk_III.short	57mm 6 pdr Mk.III															 
+UK.75mm_OQF_Mk_V	75mm OQF MkV \n танковая пушка MkV 
+UK.75mm_OQF_Mk_V.short	75mm OQF MkV
+UK.76mm_17_pdr_OQF_Mk_I	76mm 17 pdr Mk.I \n противотанковая пушка обр.1941г.
+UK.76mm_17_pdr_OQF_Mk_I.short	76mm 17 pdr Mk.I
+UK.76mm_17_pdr_OQF_Mk_II	76mm 17 pdr OQF MkII \n танковая пушка MkII 
+UK.76mm_17_pdr_OQF_Mk_II.short	76mm 17 pdr OQF MkII
+UK.76mm_17_pdr_OQF_Mk_IV	76mm 17 pdr OQF MkIV \n танковая пушка MkIV 
+UK.76mm_17_pdr_OQF_Mk_IV.short	76mm 17 pdr OQF MkIV
+UK.76mm_17_pdr_OQF_Mk_V	76mm 17 pdr OQF MkV \n танковая пушка MkV
+UK.76mm_17_pdr_OQF_Mk_V.short	76mm 17 pdr OQF MkV
+UK.76_2mm_QQF_3inch	O.Q.F. 3" howitzer Mk.I \n 76-мм гаубица 
+UK.76_2mm_QQF_3inch.short	76mm O.Q.F. 3"
+UK.77mm_OQF_Mk_II	77mm OQF Mk.II \n танковая пушка марк II
+UK.77mm_OQF_Mk_II.short	77mm OQF Mk.II
+UK.7_7mm_BREN	Light Machine Gun, .303, Bren Mark 1 \n 7,7-мм ручной пулемёт “Брэн” Mk 1
+UK.7_7mm_BREN.short	7.7mm Bren
+UK.7_7mm_Bren_Mk1	Light Machine Gun, .303, Bren Mark 1 \n 7,7-мм ручной пулемёт “Брэн” Mk 1
+UK.7_7mm_Bren_Mk1.short	7.7mm Bren
+UK.7_7mm_Enfield_No4_MK1	.303 caliber, Rifle, Short, Magazine, Lee-Enfield,No.4, Mark I \n 7,7-мм винтовка Ли-Энфильд No.4, Mark I
+UK.7_7mm_Enfield_No4_MK1.short	7.7mm No.4 Mk.I
+UK.7_7mm_Enfield_No4_MK1_T	.303 caliber, Rifle, Short, Magazine, Lee-Enfield, No.4, Mark I(Т \n 7,7-мм снайперская  винтовка Ли-Энфильд No.4, Mark I(Т
+UK.7_7mm_Enfield_No4_MK1_T.short	7.7mm No.4 Mk.I(T)
+UK.7_7mm_Vickers_Mk_I_HMG	7.7mm Vickers Mk.I \n станковый пулемёт обр.1912г.
+UK.7_7mm_Vickers_Mk_I_HMG.short	7.7mm Vickers Mk.I
+UK.7_92mm_BESA	7.92mm BESA \n средний пулемёт обр.1936г.
+UK.7_92mm_BESA.short	7.92mm BESA
+UK.81mm_3_inch_Mortar	81mm 3 inch Mortar \n миномет
+UK.81mm_3_inch_Mortar.short	81mm 3 inch Mortar
+UK.87mm_25pdr_Mk2	87.6mm 25 pdr Mk.II \n гаубица марк II
+UK.87mm_25pdr_Mk2.short	87.6mm 25 pdr Mk.II
+UK.87mm_25pdr_Mk2_Bishop	87.6mm 25 pdr Mk.II \n гаубица марк II 
+UK.87mm_25pdr_Mk2_Bishop.short	87.6mm 25 pdr Mk.II
+UK.88mm_PIAT_Mk_I	88mm PIAT MkI \n противотанковый гранатомет 
+UK.88mm_PIAT_Mk_I.short	88mm PIAT MkI
+UK.9mm_Sten_MkII	Carbine, Machine, 9 мм, Sten Mark 2  \n 9-мм пистолет-пулемёт “Стэн” Mk 2
+UK.9mm_Sten_MkII.short	9mm Sten Mk.II
+UK.9_65mm_Enfield_No2_MK1	Revolver, .380, Enfield, No 2 Mk I \n 9,65-мм револьвер Энфильд No 2 Mk I
+UK.9_65mm_Enfield_No2_MK1.short	9.65mm No.2 Mk.I
+UK.PIAT	PIAT \n ручной противотанковый гранатомет обр.1942г.
+UK.PIAT.short	PIAT													
+UK.QF_40_mm_Mark_III	QF 40mm Mk III \n зенитная пушка Mk III
+UK.QF_40_mm_Mark_III.short	QF 40mm Mk III
+USA.105mm_Howitzer_M2A1	105mm M2A1 Howitzer \n гаубица M2A1
+USA.105mm_Howitzer_M2A1.short	105mm M2A1
+USA.11_43mm_Colt_M1911A1	Automatic Pistol, Caliber .45, M1911A1 \n 11,43-мм пистолет Кольт M1911A1
+USA.11_43mm_Colt_M1911A1.short	11.43mm M1911A1
+USA.11_43mm_M3A1_Grease_Gun	11.43mm M3A1 \n пистолет-пулемёт "Гриз Ган" обр.1942г.
+USA.11_43mm_M3A1_Grease_Gun.short	11.43mm M3A1
+USA.11_43mm_Tompson_M1A1	US Submachine Gun, Cal. .45, M1  \n 11,43-мм пистолет-пулемёт Томпсона М1
+USA.11_43mm_Tompson_M1A1.short	11.43mm M1
+USA.12_7mm_Browning_M2HBx4	12.7mm Browning M2HB \n крупнокалиберный пулемёт Browning M2HB
+USA.12_7mm_Browning_M2HBx4.short	12.7mm M2HB
+USA.12_7mm_Browning_M2_HMG	12.7mm Browning M2HB \n крупнокалиберный пулемёт Browning M2HB
+USA.12_7mm_Browning_M2_HMG.short	12.7mm M2HB
+USA.37mm_M6	37mm M6 \n танковая пушка
+USA.37mm_M6.short	37mm M6
+USA.40mm_Bofors_AA_Gun	40mm Bofors AA Gun \n зенитная пушка Бофорс
+USA.40mm_Bofors_AA_Gun.short	40mm Bofors
+USA.40mm_Bofors_M2_AA_Gun	40mm Bofors M2 AA Gun \n зенитная пушка Бофорс M2
+USA.40mm_Bofors_M2_AA_Gun.short	40mm Bofors M2
+USA.57mm_AT_gun_M1	57-мм М1 \n противотанковая пушка
+USA.57mm_AT_gun_M1.short	57-мм М1
+USA.75mm_M20_recoilless_gun	75-мм М20 \n безоткатная пушка
+USA.75mm_M20_recoilless_gun.short	75-мм М20
+USA.75mm_M3	75mm M3 \n танковая пушка М3 обр.1942г.
+USA.75mm_M3.short	75mm M3
+USA.75mm_M6	76-мм \n танковая пушка M6
+USA.75mm_M6.short	76-мм M6
+USA.76mm_M1A2	76-мм M1А2 \n танковая пушка
+USA.76mm_M1A2.short	76-мм M1А2
+USA.76mm_M5	76mm M5 \n противотанковая пушка М5
+USA.76mm_M5.short	76mm M5
+USA.76mm_M7	76mm M7 \n танковая пушка М7
+USA.76mm_M7.short	76mm M7
+USA.7_62mm_Browning_M1918A2	Browning Automatic Rifle, Caliber .30, M1918A2 \n 7,62-мм ручной пулемёт BAR M1918A2
+USA.7_62mm_Browning_M1918A2.short	7.62mm M1918A2
+USA.7_62mm_Browning_M1919A4	7.62mm M1919A4 Browning \n пулемёт обр.1934г.
+USA.7_62mm_Browning_M1919A4.short	7.62mm M1919A4
+USA.7_62mm_Browning_M1919A6	7.62mm M1919A6 Browning \n пулемёт обр.1934г.
+USA.7_62mm_Browning_M1919A6.short	7.62mm M1919A6
+USA.7_62mm_Johnson_M1941	7.62mm Johnson, .30 caliber, M1941 \n 7,62-мм ручной пулемет Джонсона М1941
+USA.7_62mm_Johnson_M1941.short	7.62mm Johnson
+USA.7_62mm_M1_Carbine	US carbine, .30 caliber, M1 \n 7,62-мм самозарядный карабин М1
+USA.7_62mm_M1_Carbine.short	7.62mm M1 Carbine
+USA.7_62mm_M1_Garand	US rifle, .30 caliber, M1 \n 7,62-мм самозарядная винтовка Гаранд М1
+USA.7_62mm_M1_Garand.short	7.62mm M1 Garand
+USA.7_62mm_M7_rifle_grenade_launcher	М7А1 \n ружейный гранатомет  для винтовки М1
+USA.7_62mm_M7_rifle_grenade_launcher.short	М7А1
+USA.7_62mm_Springfield_M1903A4	US Rifle, .30 caliber, Model of 1903, А3 \n 7,62-мм винтовка Спрингфилд М1903А3
+USA.7_62mm_Springfield_M1903A4.short	7.62mm M1903A3
+USA.7_62mm_Springfield_M1903A4_sniper	US Rifle, .30 caliber, Model of 1903, А4 \n 7,62-мм снайперская винтовка Спрингфилд М1903А4
+USA.7_62mm_Springfield_M1903A4_sniper.short	7.62mm M1903A4
+USA.81mm_Mortar_M1	81-мм миномет М1
+USA.81mm_Mortar_M1.short	81-мм М1
+USA.81mm_Mortar_M1_A	81-мм миномет М1
+USA.81mm_Mortar_M1_A.short	81-мм М1
+USA.90mm_M3	90-мм М3 \n танковая пушка
+USA.90mm_M3.short	90-мм М3
+USA.M1_Bazooka	Rocket Launcher, M1 \n 60-мм реактивный противотанковый гранатомет М1 “Базука”
+USA.M1_Bazooka.short	Bazooka M1
+USA.M20A1_Super_Bazooka	M20A1 Super Bazooka \n 89-мм реактивный противотанковый гранатомет
+USA.M20A1_Super_Bazooka.short	M20A1 Super Bazooka
+USA.M9A1_Bazooka	M9A1 Bazooka \n 60-мм реактивный противотанковый гранатомет
+USA.M9A1_Bazooka.short	M9A1 Bazooka

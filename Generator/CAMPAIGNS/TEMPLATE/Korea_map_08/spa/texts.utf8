@@ -1,0 +1,675 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Ataque y destruya todas las defensas enemigas en la zona marcada en el mapa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Avance hasta la zona marcada en el mapa. Arrolle las posiciones enemigas y rechace todos los contraataques.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+El enemigo ha sido eliminado.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+El enemigo ha sido eliminado.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Su equipo de combate debe eliminar a los hostiles que defienden este sector del frente.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Su equipo de combate tiene la misión de eliminar a los hostiles que defienden este sector. Tenga cuidado: según el reconocimiento, el enemigo lanzará frecuentes contraataques.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente. Mantenga la zona hasta nueva orden.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Su equipo de combate debe mantener el estrecho paso al sur del cruce de caminos. Según el reconocimiento, el enemigo ha concentrado un gran número de fuerzas en la zona y podría planear romper este sector del frente. Su equipo de combate no debe permitirlo.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Su equipo de combate debe mantener el estrecho paso al sur del cruce de caminos. Según el reconocimiento, el enemigo ha concentrado un gran número de fuerzas en la zona y podría planear romper este sector del frente. Su equipo de combate no debe permitirlo.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a sus órdenes.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a sus órdenes.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Un equipo de infantería está a sus órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Un equipo de infantería está a sus órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Ataque y destruya todas las defensas enemigas en la zona marcada en el mapa.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Avance hasta la zona marcada en el mapa. Arrolle las posiciones enemigas y rechace todos los contraataques.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+El enemigo ha sido eliminado.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+El enemigo ha sido eliminado.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Su equipo de combate debe eliminar a los hostiles que defienden este sector del frente.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Su equipo de combate tiene la misión de eliminar a los hostiles que defienden este sector. Tenga cuidado: según el reconocimiento, el enemigo lanzará frecuentes contraataques.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente. Mantenga la zona hasta nueva orden.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Su equipo de combate debe mantener el estrecho paso al sur del cruce de caminos. Según el reconocimiento, el enemigo ha concentrado un gran número de fuerzas en la zona y podría planear romper este sector del frente. Su equipo de combate no debe permitirlo.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Su equipo de combate debe mantener el estrecho paso al sur del cruce de caminos. Según el reconocimiento, el enemigo ha concentrado un gran número de fuerzas en la zona y podría planear romper este sector del frente. Su equipo de combate no debe permitirlo.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a sus órdenes.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Un equipo de infantería y blindados está a sus órdenes.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Un equipo de infantería está a sus órdenes.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Un equipo de infantería está a sus órdenes.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[Reinforcement.Group_tanks_infantry]
+Equipo de reserva de infantería y blindados
+
+[Reinforcement.Group_infantry]
+Infantería
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+¡Misión fallida!
+
+[Reinforcement.Group3[Reinforcement]]
+Vehículos blindados e infantería
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Su equipo de combate debe eliminar a los hostiles que defienden este sector del frente.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Ataque y destruya todas las defensas enemigas en la zona marcada en el mapa.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+¡Misión fallida!
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Vehículos blindados e infantería
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Su equipo de combate debe eliminar a los hostiles que defienden este sector del frente.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Ataque y destruya todas las defensas enemigas en la zona marcada en el mapa.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus4.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus3.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus4.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Impida que los hostiles rompan su sector del frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus4.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus4.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus3.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus4.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus4.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus4.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Success]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus3.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus4.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus4.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Description]
+Nuestra partida avanzada, compuesta por infantería y artillería autopropulsada, ha cortado el principal corredor de transporte enemigo. Debemos mantener las posiciones capturadas e impedir que el enemigo restablezca sus líneas de suministro.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus4.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Objectives]
+Capture y mantenga el cruce de caminos en el centro de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus4.Mission.Description]
+Nuestra partida de reconocimiento avanzada ha tomado un cruce de caminos en el centro de la zona. Lo más probable es que el enemigo intente capturarlo. Su equipo de combate debe avanzar hasta el cruce de caminos y apoyar a la partida de reconocimiento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus4.Mission.Failed]
+¡Misión fallida!
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+

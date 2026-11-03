@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Vertreiben Sie den Feind aus dem markierten Bereich.
+[Mission1.Description]
+21. Mai 1940. Vier Panzerbrigaden der deutschen 16. Armee nähern sich Arras. Um den Durchbruch einzudämmen und zu verhindern, dass die Stadt in die Hände des Feindes fallen kann, haben die Briten die 5. Panzer Brigade geschickt. Das französische Oberkommando, ebenfalls über die Situation in diesem Frontabschnitt verstimmt, hat ebenfalls Panzereinheiten dorthin verlegt, die zur französischen 6. Armee gehören.
+
+Ihre Befehle:
+-	 Finden und zerstören Sie alle Feindeinheiten in Ihrem Sektor. Die englische 5. Panzerbrigade wird Sie unterstützen. 
+-	 Verhindern Sie, dass die feindlichen Truppen nach Arras durchbrechen können.
+[Mission1.Success]
+Gute Arbeit, die feindlichen Truppen sind vertrieben oder eliminiert worden. Sie haben uns dringend benötigte Zeit erkauft, um die Verteidigung von Arras vorzubereiten.
+[Mission1.Failed]
+Ihre Truppen wurden geschlagen! Jetzt können die Deutschen Arras wie eine reife Frucht pflücken!
+[Submission1.Objectives]
+Unterstützen Sie die englische Panzer Brigade.
+[Submission1.Description]
+Die englische 5. Panzer Brigade nähert sich dem Dorf um die deutschen gepanzerten Brigaden zu vernichten, die auf Arras vorrücken. 
+Der Feind verfügt über mehr gepanzerte Fahrzeuge als Sie und ist entschlossen, sein Endziel zu erreichen, Arras.
+
+Ihre Befehle lauten:
+-	 Unterstützen Sie die englische 5. Panzer Brigade so  lange wie möglich.
+[Submission1.Success]
+Aufgabe erfüllt, die englische Panzer Brigade hat das Gefecht mit leichten Verlusten überlebt.
+[Submission1.Failed]
+Aufgabe nicht erfüllt, die deutschen haben die englische Panzer Brigade vernichtet!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

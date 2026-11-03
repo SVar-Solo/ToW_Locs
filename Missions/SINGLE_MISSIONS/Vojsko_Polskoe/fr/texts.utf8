@@ -1,0 +1,57 @@
+﻿[Mission.Objectives]
+Regroupez toutes les unités de votre secteur et tâchez de résister face à l'avance allemande. S'il vous faut vous replier, faites-le de l'autre côté de la Vistule. 
+[Mission.Description]
+Les troupes allemandes traversèrent la frontière polonaise tôt le matin du 1er septembre 1939. Les unités polonaises stationnées proche de la frontière furent rapidement submergées et dispersées. Le commandement et le contrôle polonais sur le front sont pratiquement non existants et pour le moment, les seuls efforts concertés proviennent de l’initiative de commandants d’unités indépendantes n’ayant pas de contacts avec leurs supérieurs.
+
+Vos ordres :
+-  Regroupez toutes les forces sous votre commandement.  
+-  Défendez-vous contre la progression allemande. 
+Le colonel Czeslaw Mrozek doit rester en vie.
+
+Note du concepteur : Il est essentiel de protéger le colonel Czeslaw Mrozek, sans quoi vous ne pourrez rallier de nouvelles unités polonaises. 
+ [Mission.Success]
+Victoire! Bravo Colonel, vous avez réussi à ramener un semblant d'ordre dans tout ce chaos. 
+[Mission.Failed]
+Échec! le commandement et le contrôle de nos forces est rompu et vous n'avez pas réussi à organiser une défense efficace.
+[Submission_1.Objectives]
+Une unité d'infanterie sans chef se trouve dans un village voisin. Utilisez-la pour améliorer votre dispositif.
+[Submission_1.Description]
+Vos ordres:
+-	Prenez le commandement de la garnison du village.
+[Submission_1.Success]
+Succès. Ces troupes sont maintenant sous vos ordres. 
+[Submission_1.Failed]
+Vous n'avez pas réussi à rallier la garnison du village.
+[StringTable.Garnizon_1]
+La garnison est maintenant sous votre commandement.
+[Submission_2.Objectives]
+Rendez-vous à la prochaine destination. 
+[Submission_2.Success]
+Succès. Les effectifs nécessaires à votre opération sont maintenant sous vos ordres.
+[Submission_2.Description]
+La garnison du village a augmenté vos effectifs, mais ces troupes seules ne suffiront pas à arrêter toute l'avance ennemie. Selon un chef de section, quelques chars et trois pièces antichar se trouvent dans un village proche.
+
+Vos ordres :
+-	Rendez-vous dans le prochain village et réquisitionnez le matériel qui s'y trouve. 
+[Submission_2.Failed]
+Échec. Vous n'avez pas réussi à réquisitionner le matériel.
+[Submission_3.Objectives]
+Repoussez toutes les attaques ennemies.
+[Submission_3.Description]
+Vous avez réussi à rallier hommes et matériel. Espérons que cela suffira pour mettre un terme à l'attaque allemande. L'ennemi progresse sur un large front. Préparez-vous à vous défendre contre de multiples vagues provenant de diverses directions. L'ennemi ne doit pas traverser la Vistule. 
+
+Vos ordres : 
+-	Repoussez toutes les attaques ennemies. 
+-	Empêchez toutes les unités allemandes de franchir la Vistule.
+[Submission_3.Success]
+L'ennemi a été repoussé. Vos actions d'aujourd'hui ne seront pas oubliées!
+[Submission_3.Failed]
+L'attaque ennemie fut trop puissante et vous n'avez pas réussi à la stopper. 
+[Submission_4.Objectives]
+L'attaque principale a été contenue, mais il est maintenant temps de vous replier.
+[Submission_4.Description]
+Le colonel Czeslaw Mrozek doit traverser la rivière en vie.
+[Submission_4.Success]
+Succès! Le colonel a survécu et vivra pour se battre un autre jour. Si tous nos commandants se battaient aussi énergiquement, la Pologne pourrait peut-être repousser l'invasion allemande au-delà de la frontière!
+[Submission_4.Failed]
+Le colonel n'a pas survécu. En dépit de sa bravoure, son sort est peut-être celui de la Pologne.

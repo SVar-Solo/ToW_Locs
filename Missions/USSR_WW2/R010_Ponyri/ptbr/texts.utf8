@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+Resista até a chegada dos reforços. Destrua o maior número possível de unidades inimigas.
+[Submission_1.Description]
+
+Suas ordens:
+- 	Resista até a chegada dos reforços.
+- 	Destrua o maior número possível de unidades inimigas.
+[Submission_1.Success]
+Os reforços chegaram!
+[Submission_1.Failed]
+Derrota. Você não conseguiu resistir por tempo suficiente.
+[Submission_2.Objectives]
+Mantenha a sua posição.
+[Submission_2.Description]
+O terminal de Ponyri é um ponto focal de nossa defesa na face norte do Saliente de Kursk. Ciente disso, o comando alemão posicionou neste setor algumas de suas unidades blindadas e de artilharia autopropulsada mais pesadas.
+
+Suas ordens:
+- 	Mantenha suas posições no terminal de Ponyri.
+[Submission_2.Success]
+Bom trabalho, comandante. Você resistiu contra todas as probabilidades.
+[Submission_2.Failed]
+Você falhou com a Pátria! Suas tropas foram destruídas.
+[Mission.Objectives]
+Detenha o avanço alemão.
+[Mission.Description]
+Ao longo de toda a face norte do Saliente de Kursk, as unidades alemãs vêm lutando duramente perto do terminal de Ponyri.
+
+Suas ordens:
+- 	Impeça o rompimento de nossas linhas de frente perto do terminal.
+[Mission.Success]
+Suas ordens foram bem-sucedidas. Os alemães não conseguiram romper a linha de frente.
+[Mission.Failed]
+Você não conseguiu impedir que os alemães rompessem. Eles agora avançam diretamente sobre Kursk.
+[StringTable.T34_Income]
+Os reforços chegaram.
+[StringTable.SPG_reserv]
+Os reforços chegaram.
+[StringTable.Inf_reserv]
+A infantaria da reserva está agora à sua disposição.

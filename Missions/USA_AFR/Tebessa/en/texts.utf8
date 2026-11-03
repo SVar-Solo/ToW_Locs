@@ -1,0 +1,30 @@
+﻿[Mission.Objectives]
+Blunt the enemy
+[Mission.Description]
+Lieutenant Colonel Waters! You must blunt the enemy attack on Tebessa.
+[Mission.Success]
+The order has been carried out! The enemy has failed to break through to Tebessa.
+[Mission.Failed]
+The enemy has breached our defenses and is rapidly advancing to Tebessa.
+[StringTable.Reinf]
+Colonel Waters! Reinforcements are on the way. Hold on!
+[Submission1.Objectives]
+Hold the line
+[Submission1.Description]
+Hold the line! The enemy must not break through the pass!
+[Submission1.Success]
+The enemy has been defeated and is fleeing!
+[Submission1.Failed]
+The enemy has broken through the defenses! Our troops are retreating to Tebessa.
+[StringTable.Woters]
+Soldiers, action! We must not yield to the enemy!
+[StringTable.Woters1]
+Here come Germans.
+[StringTable.Woters2]
+Reinforcements have arrived.
+[StringTable.Woters3]
+Damn it! Germans have neutralized the artillery on the height.
+[StringTable.tank_spg]
+Tanks and Self-propelled Guns
+[StringTable.human]
+Infantry.

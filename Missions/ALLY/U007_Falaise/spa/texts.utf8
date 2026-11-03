@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+Lleve a cabo una acción de tanteo. Saque al enemigo del valle.
+[Submission_1.Description]
+¡Las fuerzas alemanas se retiran! Hemos conseguido contenerlas en un atolladero cerca de Falaise pero, a pesar de ello, todavía ofrecen una fuerte resistencia. Todavía no se ha llevado a cabo el deseo de Eisenhower de envolver por completo a los alemanes. El enemigo ha situado algunas bolsas aisladas de defensa al pie de las colinas cercanas.
+
+Sus órdenes:
+- 	Lleve a cabo una acción de tanteo en el pueblo cercano y destruya cuantas unidades enemigas encuentre.
+[Submission_1.Success]
+¡El valle ya es nuestro!
+[Submission_1.Failed]
+Le han derrotado.
+[Submission_2.Objectives]
+Ataque las colinas y saque al enemigo de sus posiciones de defensa.
+[Submission_2.Description]
+Tenemos delante una última línea de las defensas alemanas. Se le ha dado el apoyo aéreo necesario, y su misión consiste en destruir las defensas del enemigo. Utilice nuestra superioridad aérea y su ventaja numérica en el campo de batalla.
+
+Sus órdenes:
+- 	Destruya las defensas enemigas, abra una brecha, establezca una cabeza de puente en las colinas y consolídela.
+[Submission_2.Success]
+Ha vencido al enemigo.
+[Submission_2.Failed]
+¡Hemos perdido! No ha conseguido atravesar las defensas enemigas.
+[Mission.Objectives]
+Rompa la resistencia enemiga y elimine por completo sus defensas.
+[Mission.Description]
+Las fuerzas alemanas se retiran bajo la presión del ejército aliado, pero el enemigo todavía ofrece una resistencia importante. Las particularidades del terreno cerca de Falaise han proporcionado ventaja a los alemanes, aunque las fuerzas aliadas gozan de una superioridad numérica considerable. Las bolsas de resistencia que quedan al pie de las colinas representan un obstáculo frecuente y costoso para nuestras tropas. Hemos de abrirnos paso a través de los alemanes antes de que tengan la oportunidad de reorganizarse.
+
+Sus órdenes:
+- 	Acabe con todas las bolsas de resistencia de los alemanes al pie de las colinas.
+- 	Una vez haya concentrado a sus fuerzas, lance un ataque decisivo para atravesar y destruir posteriormente las principales fuerzas de defensa alemanas.
+[Mission.Success]
+Ha vencido. Ha destruido las bolsas de resistencia del enemigo
+[Mission.Failed]
+Ha perdido. Las fuerzas alemanas han resistido sus intentos de echarlos.
+[StringTable.reserv]
+Han llegado refuerzos para ayudarle.
+[Submission_3.Objectives]
+Rechace el contraataque enemigo.
+[Submission_3.Description]
+Una vez perdidas las posiciones defensivas, el enemigo intenta lanzar un contraataque con sus fuerzas de reserva.
+
+Sus órdenes:
+- 	Rechace el contraataque enemigo.
+[Submission_3.Success]
+Ha destruido al enemigo. El contraataque de este ha fracasado.
+[Submission_3.Failed]
+¡Hemos perdido! El contraataque enemigo ha conseguido recuperar la ventaja.

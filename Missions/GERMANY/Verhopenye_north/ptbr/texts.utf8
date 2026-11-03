@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Estabeleça uma cabeça de ponte na margem oeste do Pena.
+[Mission.Description]
+Tanques e artilharia, com fraco apoio de infantaria, mantêm a linha na margem oeste do rio. Há postos avançados isolados na margem leste. O grupo de combate limpará a margem leste de forças inimigas, depois atacará a parte oeste de Verkhopenye e capturará a travessia do rio.
+[Submission1.Objectives]
+Capture a ponte sobre o Pena, passe para a margem oeste e defenda a travessia.
+[Submission1.Success]
+Missão cumprida. 
+[Submission1.Failed]
+O ataque foi detido, é necessário apoio imediato. 
+[Submission2.Objectives]
+Mantenha a travessia até a chegada das forças principais.
+[Submission2.Success]
+Missão cumprida.
+[Submission2.Failed]
+Nossas forças foram repelidas por forças inimigas superiores.
+[Mission.Success]
+Missão cumprida. Agora é possível transpor o rio com as forças principais da divisão.
+[Mission.Failed]
+Fracassamos em cumprir nossas ordens. O inimigo é forte demais!
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Americans are on their way from the direction of point 2, attack them before they reach us! Let me remind you once again - make the terrain your powerful ally! Good luck!
+[Mission.Success]
+Evacuation has been successfully completed!
+[Mission.Failed]
+All “Tigers” are taken down or destroyed, the enemy breached through to the village before the evacuation was over. The mission has failed!
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+The first enemy attack broke down, but they are engaging their reserves from point 3. Hold on!
+[StringTable.IntroSubtitle1]
+Major Gerhard in his “Kübelwagen” to the commanders of the “Tigers”:
+[StringTable.IntroSubtitle2]
+The enemy is very strong, but...
+[StringTable.IntroSubtitle3]
+let me remind you once again, that ...
+[StringTable.IntroSubtitle4]
+The Tiger is almost invulnerable to long-distance attacks.
+[StringTable.IntroSubtitle5]
+The terrain allows us to fire from a long distance, ...
+[StringTable.IntroSubtitle6]
+this should become our trump card.
+[StringTable.InfoSubtitle7]
+Good luck, Herr Ofiziere! Advance! Gott mit uns!
+[StringTable.InfoSubtitle8]
+“Tiger” commanders: Zu Befehl!
+[StringTable.IntroSubtitle7]
+[StringTable.SubtitleWin1]
+Major Gerhard: They succeeded! However, I didn’t expect anything short of that.
+[StringTable.SubtitleWin2]
+Herren Ofiziere, I congratulate you on the victory!
+[StringTable.SubtitleWin3]
+Though I can’t let you enjoy your well-earned rest.
+[StringTable.SubtitleWin4]
+While our attention was drawn...
+[StringTable.SubtitleWin5]
+by the Americans, the British outflanked us.
+[StringTable.SubtitleWin6]
+You must counterattack them immediately.
+[StringTable.SubtitleWin7]
+The fate of the Reich is in our hands once again!
+[StringTable.SubtitleWin8]
+“Tiger” crew: Zu Befehl!
+[StringTable.SubtitleFail1]
+Ally tank radios: Take no prisoners! Kill'em all!
+[StringTable.SubtitleFail2]
+You slaughtered my buddy Jimmy! Die, f*** bastard!
+[StringTable.SubtitleFail3]
+No mercy to the bastards! Crush them!
+[StringTable.SubtitleFail4]
+Watch'em burn!

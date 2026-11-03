@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Libere Cagny y Frenouville.
+[Mission.Description]
+Nuestros próximos objetivos son Cagny y Frenouville.
+[StringTable.SPGs_Tanks]
+Fuerza principal
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Capture Cagny.
+[Submission_1.Description]
+Expulse al enemigo de Cagny.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Expulse al enemigo de la granja.
+[Submission_2.Description]
+Los alemanes han convertido la granja en un punto fuerte. Elimínelos.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Libere Frenouville.
+[Submission_3.Description]
+Otra localidad más en nuestro avance. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+Misión cumplida.
+[Submission_3.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_4.Objectives]
+Cañones antiaéreos junto al cruce de caminos.
+[Submission_4.Description]
+Una batería de cañones antiaéreos de 88 mm bloquea nuestra aproximación a las posiciones enemigas. Acercarse con cualquier tipo de fuerzas blindadas supondrá graves pérdidas. La batería debe ser neutralizada antes de que el grueso de nuestras fuerzas entre en combate.
+[NewSubmission3.Success]
+Cañones antiaéreos destruidos.
+[NewSubmission3.Failed]
+No se ha logrado neutralizar los cañones antiaéreos.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_4.Success]
+Batería neutralizada. Misión cumplida.
+[Submission_4.Failed]
+No se ha logrado cumplir la tarea.
+[StringTable.Tanks]
+Fuerza de reserva disponible.

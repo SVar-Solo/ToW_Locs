@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+ドゥブロヴァ＝ソロネツ線の防御陣地を保持せよ。敵戦車にスィルツェヴォへ突破させるな。
+[Mission.Description]
+対戦車砲中隊、対戦車ライフル部隊、戦車とともに防衛地域を保持せよ。村内の陣地の保持に、特に優先度を置け。戦車は待ち伏せに使え。
+[Mission.Success]
+任務完了。敵の攻撃を撃退した。
+[Mission.Failed]
+我が部隊は優勢な敵の打撃を受けて後退する。
+[Submission1.Objectives]
+戦車による待ち伏せで敵の攻撃を撃退せよ。
+[Submission1.Success]
+敵戦車は撃破された。
+[Submission1.Failed]
+我が戦車は撃破され、敵は前進を強めている。
+[Submission2.Objectives]
+次の攻撃の撃退に備えよ。戦車は補助射撃陣地へ後退せよ！ 
+[Submission2.Success]
+任務完了。敵の全攻撃を撃退した。
+[Submission2.Failed]
+我が戦車は撃破され、敵は前進を強めている。
+[Submission3.Objectives]
+敵に反撃せよ。前線を回復せよ！ 敵戦車と自動車化歩兵に我が後方へ突破させるな。
+[Submission3.Success]
+任務完了。前線を回復した。
+[Submission3.Failed]
+反撃は阻止された。敵は前進を強めている。
+[StringTable.Tanks!]
+戦車だ！ 可能な限りの至近距離から、側面と後部を撃て！
+[StringTable.Air!]
+空襲だ！ 退避せよ！
+
+[StringTable.Tank]
+第3自動車化旅団の戦車
+
+[StringTable.avia_report]
+航空支援が使用可能。
+[StringTable.art_report]
+砲兵支援が待機中。
+[StringTable.jetmortar_report]
+ロケット砲中隊が射撃準備完了。

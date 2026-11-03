@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Destroy the defences
+[Mission.Description]
+Destroy the U.S. defences on the Tebessa pass.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Objectives]
+Take a foothold
+[Submission_1.Description]
+Secure the objective marked on the map by eliminating the enemy guns and troops located there.
+[Submission_1.Success]
+Springboard has been secured.
+[Submission_1.Failed]
+Mission failed.
+[StringTable.Haubitze]
+You now have command of the howitzers. Use them to support the offensive.
+[Submission_2.Objectives]
+Eliminate the first echelon
+[Submission_2.Description]
+Eliminate the first layer of enemy defences.
+[Submission_2.Success]
+The first layer of enemy defences has been eliminated.
+[Submission_2.Failed]
+Mission failed.
+[Submission_3.Objectives]
+Eliminate the second echelon
+[Submission_3.Description]
+Eliminate the second layer of enemy defences by the pass exit.
+[Submission_3.Success]
+Enemy defences have been completely eliminated.
+[Submission_3.Failed]
+Mission failed.
+[StringTable.Add_tanks]
+I have provided you with tanks from the army HQ reserve.

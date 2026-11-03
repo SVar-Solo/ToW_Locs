@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+스베이틀라 공격을 저지하라
+[Mission.Description]
+워터스 중령! 독일군이 스베이틀라로 진격하고 있다. 적의 공격을 무디게 만들고 목표를 사수해야 한다. 이곳은 마을 공격의 집결지가 될 수 있다.
+[Mission.Success]
+명령을 완수했다! 적은 스베이틀라 공격을 위한 집결지를 점령하지 못했다.
+[Mission.Failed]
+아군이 패배했고 독일군이 스베이틀라 공세를 준비하고 있다.
+[Submission1.Objectives]
+전선을 사수하라
+[Submission1.Description]
+전선을 사수하라! 적이 이 집결지를 점령해서는 안 된다!
+[Submission1.Success]
+적을 격파했고 적이 도주하고 있다!
+[Submission1.Failed]
+적이 방어선을 분쇄하고 스베이틀라 공세를 준비하고 있다!
+[StringTable.Reinf]
+워터스 대령! 증원 부대가 오고 있습니다. 버티십시오!
+[StringTable.Woters]
+증원 부대가 도착했다.
+[Submission2.Objectives]
+거점을 확보하라
+[Submission2.Description]
+독일군이 무전 거점을 점령하려 하고 있다. 적을 공격하여 거점을 확보해야 한다.
+[Submission2.Success]
+적이 실패했다!
+[Submission2.Failed]
+적이 무전 거점을 점령했다!
+[Submission3.Objectives]
+무선 통신을 복구하라
+[Submission3.Description]
+고지를 확보한 적을 제거하고 무선 통신을 복구하라!
+[Submission3.Success]
+적을 제거했다! 무선 통신이 복구되었다!
+[Submission3.Failed]
+적이 아군의 공격을 격퇴했다!
+[StringTable.Enemy]
+제군! 행동 개시!
+[StringTable.Enemy2]
+좌측 측면에 적이다!
+[StringTable.Enemy1_1]
+우측 측면에 적이다!
+[StringTable.Enemy1_2]
+적이 후방으로 침투하려 하고 있다!
+[StringTable.tank]
+전차
+[StringTable.human]
+보병
+[StringTable.tank_human]
+전차 및 보병

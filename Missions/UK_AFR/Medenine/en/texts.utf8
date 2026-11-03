@@ -1,0 +1,64 @@
+﻿[Mission.Objectives]
+Repel all enemy attacks.
+[Mission.Description]
+Repel all enemy attacks and defend the heights.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission1.Objectives]
+Hold Height 1
+[Submission1.Description]
+Height 1 is tactically very important. It provides a great view of a significant part of the front line as well as our entire rear. If the enemy occupies Height 1, they will be able to adjust artillery fire and accurately shell our rear positions. Hold it at all costs.
+[Submission1.Success]
+The enemy attacks have been repelled, inflicting heavy casualties!
+[Submission1.Failed]
+The enemy captured Height 1!
+[Submission2.Objectives]
+Win back Height 1 from the enemy.
+[Submission2.Description]
+Enemy infantry has captured Height 1. The order is to dislodge the enemy from Height 1 with the help of reserves.
+[Submission2.Success]
+Height 1 has been won back.
+[Submission2.Failed]
+The attack has failed. Now the enemy can accurately shell our positions!
+[Submission3.Objectives]
+Attack the German sappers.
+[Submission3.Description]
+Protected by enemy tanks, enemy sappers are trying to clear tank paths in our minefield. Our infantry is to attack the German sappers and prevent them from finishing their work. Our artillery will cover you with a smokescreen.
+[Submission3.Success]
+The enemy has stopped demining and is withdrawing. Mission accomplished.
+[Submission3.Failed]
+Mission failed! The enemy sappers had enough time to clear a few paths for their tanks. Now we have to get ready to repel a tank attack!
+[Submission4.Objectives]
+Hold the line actively using battery fire and air forces.
+[Submission4.Description]
+Hold Height 4 and the main lines of defence. From covered firing positions, inflict as much damage to the enemy as possible before he reaches our main lines of defence.
+[Submission4.Success]
+The enemy has suffered heavy casualties and is retreating. Mission accomplished!
+[Submission4.Failed]
+Enemy tanks have breached our defences and reached the command post!  
+[StringTable.Message1]
+The enemy is retreating. Most likely to regroup and attack again.
+[StringTable.Message2]
+The enemy is shelling the height, most likely preparing a new attack. The back slope is not swept with fire and the infantry can wait there until shelling is over.
+[StringTable.Reinf1]
+Reinforcements have arrived.
+[StringTable.mess1]
+The Germans seem to have adjusted fire and are shooting to kill.
+[StringTable.mess2]
+The enemy seems to have started adjusting fire to our positions. It's vital to win back Height 1 as soon as possible!
+[StringTable.mess4]
+Minefields are marked on the map. Unfortunately, there are only anti-tank mines, which won’t stop infantry. Besides, minefields have to be protected against demining.
+[StringTable.mess5]
+Enemy infantry has secured the height. If they have an artillery spotter, we'll soon be having a hard time.
+[StringTable.mess6]
+Reinforcements have arrived.
+[StringTable.mess7]
+Attention! Enemy tanks on the left flank!
+[StringTable.mess8]
+Battery contact has been established. Artillery is ready to shell on demand!
+[StringTable.mess9]
+Aircraft are approaching your sector, ready to act on your demand!
+[StringTable.mess3]
+Bombardment stopped. Get back to your positions.

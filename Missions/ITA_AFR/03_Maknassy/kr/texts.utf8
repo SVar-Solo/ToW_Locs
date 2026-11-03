@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+공격을 저지하라
+[Submission_1.Description]
+적이 외곽으로 이어지는 도로를 따라 타격을 가하기 위해 병력을 집결시키고 있다. 재편성하는 적 부대에 사격을 가해 동시 공격을 저지하라.
+[NewSubmission.Success]
+임무 완수: 포대가 파괴되었고 그 진지를 제압했다.
+[NewSubmission.Failed]
+임무 실패.
+[Mission.Objectives]
+마크나시 외곽을 지켜라
+[Mission.Description]
+방어 진지를 지휘하여 공격을 격퇴할 준비를 하라. 마크나시 외곽에서 적을 몰아내라.
+[Submission_2.Objectives]
+포병 중대를 파괴하라
+[Submission_2.Description]
+적 포병 중대가 발견되었다. 이를 파괴하고 지정된 진지를 소탕하라.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+임무 실패.

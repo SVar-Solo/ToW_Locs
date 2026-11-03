@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Scacciate il nemico
+[Submission_1.Description]
+Il passaggio è controllato dal nemico, che ha costruito fortificazioni attorno a un piccolo villaggio di montagna. Scacciate il nemico dalle sue posizioni.
+[Submission_01.Success]
+Missione compiuta.
+[Submission_01.Failed]
+Missione fallita.
+[Mission.Objectives]
+Ripulite la strada di montagna
+[Mission.Description]
+La vostra unità ha il compito di ripulire la strada di montagna e le aree adiacenti.
+[NewSubmission.Success]
+Missione compiuta.
+[NewSubmission.Failed]
+Missione fallita.
+[Submission_2.Objectives]
+Ripulite l’abitato
+[Submission_2.Description]
+L’ulteriore avanzata è ostacolata dalle fortificazioni sul fianco degli americani schierati all’incrocio stradale. Ripulite l’abitato dal nemico per liberare la strada.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+Missione fallita.
+[Submission_2.Success]
+Missione compiuta.
+[Submission_2.Failed]
+Missione fallita.

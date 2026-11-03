@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Stoppez l’avance des troupes allemandes dans le secteur de la gare de Kryukovo.
+[Mission.Description]
+Les Allemands ont concentré des forces importantes dans le secteur de la gare de Kryukovo. L’ennemi semble vouloir percer les secteurs les moins défendus par une attaque concentrée. Il tentera ensuite d’encercler toutes les unités soviétiques restantes. Le QG de la 16e armée a détaché des unités blindées additionnelles pour aider à défendre le secteur.  
+
+Vos ordres sont:
+- Stoppez l’avance des troupes allemandes dans le secteur de la gare de Kryukovo. [Mission.Success]
+Mission accomplie! L’avance allemande a été stoppée!
+[Mission.Failed]
+Vous avez échoué! Vos troupes ont été défaites.
+[Submission_1.Objectives]
+Repoussez toutes les attaques ennemies.
+[Submission_1.Description]
+Vous ne disposez pas de forces suffisantes pour établir une défense en profondeur. Des éléments de la 316e division d’infanterie vous ont été envoyés en renfort, mais même avec ces troupes, il ne vous sera pas possible d’établir un front continu. Il vous faudra faire preuve d’imagination et mettre en place divers points d’appui afin de stopper l’avance ennemie. C’est la seule façon de résister à cette attaque, compte tenu de votre infériorité numérique.
+ 
+Vos ordres sont:
+- Repoussez toutes les attaques ennemies.
+[Submission_1.Success]
+L’attaque ennemie a été repoussée! Mission accomplie!
+[Submission_1.Failed]
+Vous n’avez pas réussi à stopper l’ennemi!
+[StringTable.Tanks]
+Votre mission actuelle appelle à plus de flexibilité et une meilleure coordination. Des renforts blindés sont mis à votre disposition.

@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+Mantieni le posizioni difensive nella zona indicata.
+[Mission1.Description]
+La situazione è molto grave; non c'è alcuna speranza di salvezza. Molti dei nostri fratelli in armi sono caduti in combattimento e senza dubbio molti altri sono destinati a insanguinare le terre di Normandia. Secondo il servizio informativo, le truppe tedesche si stanno dirigendo velocemente verso il villaggio per potersi poi aprire la strada fino a Caen. Da ovest a est i nostri fianchi sono supportati solo da un piccolo gruppo di truppe francesi e quindi c'è una alta probabilità che le forze tedesche sfondino le nostre difese.
+
+I tuoi ordini sono:
+-	Mantieni le posizioni difensive nella zona del villaggio.
+[Mission1.Success]
+Missione completata! I tuoi uomini hanno salvato, almeno per ora, Caen dai tedeschi.
+[Mission1.Failed]
+Missione fallita! Le truppe tedesche hanno superato le linee difensive e sono entrate a Caen.
+[Submission1.Objectives]
+Respingi l'attacco nemico proveniente da nord-ovest.
+[Submission1.Description]
+Le truppe tedesche hanno iniziato ad avanzare in direzione del villaggio per eliminare tutta la resistenza presente nell'area. E' di vitale importanza riuscire a respingere l'attacco nemico per impedire ai tedeschi di aprirsi la strada fino a Caen. 
+
+I tuoi ordini sono:
+-	Respingi l'attacco nemico proveniente da nord-ovest.
+[Submission1.Success]
+Hai respinto con successo l'attacco tedesco!
+[Submission1.Failed]
+Le truppe tedesche hanno superato le linee difensive!
+[Submission2.Objectives]
+Respingi l'attacco nemico proveniente da nord.
+[Submission2.Description]
+Le truppe tedesche hanno iniziato ad avanzare in direzione del villaggio per eliminare tutta la resistenza presente nell'area. E' di vitale importanza riuscire a respingere l'attacco nemico per impedire ai tedeschi di aprirsi la strada fino a Caen. 
+
+I tuoi ordini sono:
+-	Respingi l'attacco nemico proveniente da nord.
+[Submission2.Success]
+L'attacco nemico è stato respinto!
+[Submission2.Failed]
+Il nemico ha facilmente superato le tue difese!
+[Submission3_1.Objectives]
+Attacca le forze nemiche.
+[Submission3_1.Description]
+Sul nostro lato ovest le truppe tedesche hanno superato le nostre truppe, e stanno velocemente avanzando verso il villaggio. Continua a resistere all'avanzata nemica e ferma questo attacco.
+
+I tuoi ordini sono:
+-	Respingi l'attacco nemico proveniente da ovest.
+[Submission3_1.Success]
+La missione è stata completata e il nemico sta fuggendo. Oggi il successo è tuo!
+[Submission3_1.Failed]
+Missione fallita! Le tue truppe sono state sconfitte!
+[Submission4.Objectives]
+Attacca le truppe nemiche che avanzano da est.
+[Submission4.Description]
+Sul nostro fianco orientale, le truppe tedesche hanno superato le difese e si sono dirette verso Caen. Devi fermarle!
+
+I tuoi ordini sono:
+-	Attacca le truppe nemiche che avanzano da est.
+[Submission4.Success]
+Missione completata!
+[Submission4.Failed]
+Missione fallita!
+[Submission5.Objectives]
+Respingi l'attacco delle forze nemiche.
+[Submission5.Description]
+Secondo le nostre ricognizioni aeree un altro gruppo di forze nemiche si sta dirigendo verso Caen. E' importante raccogliere le forze necessarie per respingere il nemico. Sei la nostra ultima speranza di fermare i tedeschi!
+
+I tuoi ordini sono:
+-	Respingi l'avanzata tedesca verso Caen.
+[Submission5.Success]
+Missione completata! L'attacco nemico è stato respinto!
+[Submission5.Failed]
+Il nemico ha superato le nostre difese! Le tue truppe sono state eliminate!
+[StringTable.Reserv]
+Sono arrivati dei rinforzi per supportarti.
+[Submission4_1.Objectives]
+Attacca le truppe nemiche.
+[Submission4_1.Description]
+Sul nostro fianco orientale, le truppe tedesche hanno superato le difese e si sono dirette verso Caen. Devi fermarle!
+
+I tuoi ordini sono:
+-	Attacca le truppe nemiche che avanzano da est.
+[Submission4_1.Success]
+L'attacco nemico è stato respinto e il nemico sta fuggendo.
+[Submission4_1.Failed]
+Non sei riuscito a respingere il nemico e le tue truppe sono state eliminate!
+[Submission3.Objectives]
+Attacca le truppe nemiche.
+[Submission3.Description]
+Ad ovest le truppe tedesche hanno superato le nostre truppe e stanno velocemente avanzando verso il villaggio. Devi attaccarle subito prima che riescano a sfondare e a prendere Caen.
+
+I tuoi ordini sono:
+-	Attacca le truppe nemiche che avanzano da ovest.
+[Submission3.Success]
+La missione è stata completata e il nemico è stato sconfitto!
+[Submission3.Failed]
+Missione fallita! Le tue truppe sono state sconfitte!

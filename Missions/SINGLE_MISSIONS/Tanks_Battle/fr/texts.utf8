@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Nos forces sont encerclées et nous tentons actuellement une sortie. 
+[Mission.Description]
+Votre objectif prioritaire est de briser l’encerclement et de vous en extirper. Une fois la rivière traversée, assurez-vous d’empêcher les Russes d’organiser des positions antichar afin que les unités suivantes puissent progresser sans être gênées. 
+ [Mission.Success]
+Vous avez réussi à briser l’encerclement!
+[Mission.Failed]
+Vos forces n’ont pas réussi à briser l’encerclement...
+[Submission_1.Objectives]
+Brisez l’encerclement et avancez vers la ville et la rivière. Pour élargir notre couloir d’avance, engagez et détruisez toutes les unités ennemies rencontrées.
+[Submission_1.Description]
+Vos ordres :
+	- Avancez vers la ville et la rivière 
+	- Détruisez toutes les unités ennemies rencontrées 
+[Submission_1.Success]
+Victoire! Vos forces ont brisé l’encerclement et établi une tête de point d’appui sur la rivière. 
+[Submission_1.Failed]
+Vous avez échoué! Nos forces n’ont pas réussi à rompre l’encerclement.
+[StringTable.ger_reserv]
+L’état-major vous détache quelques éléments blindés. Utilisez-les bien!

@@ -1,0 +1,50 @@
+﻿[Submission_1.Objectives]
+공격을 격퇴하라
+[Submission_1.Description]
+방어 진지를 차지하고 공격을 격퇴할 준비를 하라.
+[Submission_01.Success]
+임무 완수.
+[Submission_01.Failed]
+임무 실패.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+점령한 진지를 사수하라
+[Mission.Description]
+진격해 오는 적군에 맞서 방어 진지를 차지하고, 공격을 격퇴하며 현 위치를 지켜라.
+[NewSubmission.Success]
+임무 완수.
+[NewSubmission.Failed]
+임무 실패.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Success]
+첫 번째 공격을 격퇴했다.
+[Submission_1.Failed]
+적이 방어선을 돌파했다.
+[Submission_2.Objectives]
+다음 공격을 격퇴할 준비를 하라
+[Submission_2.Description]
+적이 재편성하고 있으며 곧 다시 방어선을 돌파하려 할 것이다. 다음 공격을 격퇴할 준비를 하고 도착하는 증원 부대를 배치하라.
+[Submission_3.Objectives]
+거주지를 소탕하라
+[Submission_3.Description]
+아군 방어선에 대한 포위 공격을 막기 위해 이 작은 거주지에서 적을 소탕하라.
+[Submission_4.Objectives]
+점령한 진지를 방어하라
+[Submission_4.Description]
+미군이 다시 한번 전열을 가다듬으려 하고 있다. 점령한 마을의 진지를 방어할 준비를 하라.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+임무 실패.
+[Submission_3.Success]
+임무 완수.
+[Submission_3.Failed]
+임무 실패.
+[Submission_4.Success]
+임무 완수.
+[Submission_4.Failed]
+임무 실패.

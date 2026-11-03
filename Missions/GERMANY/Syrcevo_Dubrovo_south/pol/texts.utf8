@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+Przejmij punkt obronny wroga, upewnij się, że twoje wojska będą w pełni gotowe do walki.
+[Mission.Objectives]
+Drużyna bojowa zbliży się do Dubrawy. Pokonaj wroga w umocnionym punkcie i dotrzyj do wschodnich obrzeży wioski. Zniszcz nieprzyjacielskie siły w punkcie strategicznym. Zabezpiecz strefy przybycia posiłków.
+[Mission.Success]
+Zadanie wykonane.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazów. Nieprzyjaciel jest zbyt silny! 
+[StringTable.Smoke]
+Lewa flanka będzie osłonięta zasłoną dymną. Wyznacz łuk ostrzału dla drugiej salwy dymnej.
+[Submission1.Objectives]
+Przejmij jeden z punktów obrony wroga, niszcząc w ten sposób jego system ostrzału.
+[Submission2.Objectives]
+Odeprzyj kontrataki wroga. Upewnij się, że twoje wojska będą w pełnej gotowości do walki.
+[Submission1.Success]
+Zadanie wykonane.
+[Submission1.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[Submission2.Success]
+Misja zakończona, wsparcie wkroczyło w rejon obrony wroga.
+[Submission2.Failed]
+Nasze siły wycofują się pod naporem wroga.
+[StringTable.SM11]
+Punkt 1 został przejęty.
+[StringTable.SM12]
+Punkt 2 został przejęty.
+[StringTable.SM13]
+Punkt 3 został przejęty.
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

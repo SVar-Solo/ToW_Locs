@@ -1,0 +1,47 @@
+﻿[StringTable.Hoerlein]
+Lancez l'attaque une fois que les bombardiers en piqué auront fini de pilonner les positions russes dans le village.
+[StringTable.Nebelwerfer_support]
+Une escadrille de mortiers lance-roquettes est prête à appuyer notre avance.
+[Mission.Objectives]
+Occupez la partie nord de Tcherkasskoïe. Détruisez les forces ennemies dans le secteur.
+[Mission.Description]
+L'équipe de combat occupera Tcherkasskoïe par une attaque conjointe de chars, de canons d'assaut et d'infanterie. Une fois la première position prise, tenez-vous prêt à repousser les contre-attaques de chars et de canons automoteurs ennemis venant des flancs.
+[Mission.Success]
+Tcherkasskoïe est occupé, les forces ennemies sont détruites.
+[Mission.Failed]
+Nous avons échoué à exécuter nos ordres. L'ennemi est trop fort !
+[Submission_2_1.Objectives]
+Repoussez les contre-attaques ennemies, détruisez les chars et les canons d'assaut.
+[Submission_2_1.Success]
+Les chars russes ont été détruits !
+[Submission_2_1.Failed]
+Nos forces se replient sous la pression de l'ennemi.
+[Submission_2_2.Objectives]
+Repoussez les contre-attaques ennemies, détruisez les chars et les canons d'assaut.
+[Submission_2_2.Success]
+Les chars russes ont été détruits !
+[Submission_2_2.Failed]
+Nos forces se replient sous la pression de l'ennemi.
+[Submission_3.Objectives]
+Les tirs de mortiers russes entravent notre avance. La reconnaissance aérienne indique que leurs positions de tir se trouvent dans le bosquet au nord-ouest de Tcherkasskoïe. Il faut occuper ces positions ou neutraliser les mortiers par des tirs de contre-batterie. 
+[Submission_3.Success]
+La batterie de mortiers ennemie a été détruite.
+[Submission_3.Failed]
+Nous n'avons pas réussi à détruire les mortiers ennemis.
+[Submission_4.Objectives]
+Détruisez les canons antichars russes au nord-est de Tcherkasskoïe.
+[Submission_4.Success]
+Le point d'appui antichar russe a été détruit.
+[Submission_4.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire.
+[StringTable.Hoerlein]
+Lancez l'attaque après la frappe des bombardiers en piqué sur les positions russes dans le village.
+[StringTable.Tanks]
+Chars et infanterie
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

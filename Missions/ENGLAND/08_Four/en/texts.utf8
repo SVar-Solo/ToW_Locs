@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+The objective is to liberate the localities of Grentheville, Soliers and Four.
+[Mission.Description]
+Drive the enemy from the designated localities.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Dislodge the enemy from Grentheville.
+[Submission_1.Description]
+Destroy the enemy strong point.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1.Objectives]
+[Submission1.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission2.Objectives]
+[Submission2.Description]
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Capture the village of Soliers.
+[Submission_2.Description]
+Drive the enemy from Soliers.
+[Submission_3.Objectives]
+Liberate Four.
+[Submission_3.Description]
+Eliminate the enemy garrisoned at Four.
+[Submission_2.Success]
+Task accomplished.
+[Submission_2.Failed]
+Failed to accomplish the task.
+[Submission_1.Success]
+Task accomplished.
+[Submission_1.Failed]
+Failed to accomplish the task.
+[Submission_3.Success]
+Task accomplished.
+[Submission_3.Failed]
+Failed to accomplish the task.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Failed to accomplish the task.
+[StringTable.Tanks]
+Reserve force available.

@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Wyprzyj wroga z miejscowości Ifs, Bras i Hubert-Folie.
+[Mission.Description]
+Oczyść ze sił wroga wskazane miejscowości.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Wyzwól Ifs.
+[Submission_1.Description]
+Oczyść wskazaną miejscowość z wrogich sił.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Wyeliminuj wroga stacjonującego w Bras.
+[Submission_2.Description]
+Zniszcz wrogi punkt oporu.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Zabezpiecz Hubert-Folie.
+[Submission_3.Description]
+Oczyść Hubert-Folie z wroga.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Droga na południe.
+[Submission_4.Description]
+Zabezpiecz drogę.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_1.Success]
+Zadanie wykonane.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[Submission_2.Success]
+Zadanie wykonane.
+[Submission_2.Failed]
+Nie udało się wykonać zadania.
+[Submission_3.Success]
+Zadanie wykonane.
+[Submission_3.Failed]
+Nie udało się wykonać zadania.
+[Submission_4.Success]
+Misja wykonana.
+[Submission_4.Failed]
+Nie udało się wykonać zadania.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Nie udało się wykonać zadania.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

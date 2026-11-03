@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Objectives]
+이 지역의 모든 적을 제거하여 도를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Description]
+적이 이 지역에 방어 시설을 구축했다. 적 방어선을 돌파하고 적을 제거하라.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Objectives]
+지역을 방어하라.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Description]
+적이 귀관의 방어 시설에 대한 강습을 개시했다. 공격해 오는 적을 제거하라.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Objectives]
+이 지역의 모든 방어 시설을 점령하고 적을 제거하라.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Description]
+적은 귀관의 방어 시설을 점령하려 할 것이다. 적 병력을 제거하여 이를 저지하라.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Objectives]
+포위당했다! 후퇴는 불가능하다. 지역을 방어해야 한다.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Description]
+적이 귀관의 방어 시설에 대한 강습을 개시했다. 공격해 오는 적을 제거하라.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Objectives]
+이 지역의 모든 방어 시설을 점령하고 적을 제거하라.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Description]
+적은 귀관의 방어 시설을 점령하려 할 것이다. 적 병력을 제거하여 이를 저지하라.
+
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Objectives]
+이 지역의 모든 적을 제거하여 도를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Description]
+적이 이 지역에 방어 시설을 구축했다. 적 방어선을 돌파하고 적을 제거하라.
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_medium.defend_medium.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Objectives]
+지역을 방어하라.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_medium.attack_medium.Mission.Description]
+적이 귀관의 방어 시설에 대한 강습을 개시했다. 공격해 오는 적을 제거하라.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Objectives]
+이 지역의 모든 방어 시설을 점령하고 적을 제거하라.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Description]
+적은 귀관의 방어 시설을 점령하려 할 것이다. 적 병력을 제거하여 이를 저지하라.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_medium.assault_medium.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Objectives]
+포위당했다! 후퇴는 불가능하다. 지역을 방어해야 한다.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Description]
+적이 귀관의 방어 시설에 대한 강습을 개시했다. 공격해 오는 적을 제거하라.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_medium.attack_medium.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Objectives]
+이 지역의 모든 방어 시설을 점령하고 적을 제거하라.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_medium.attack_medium.Mission.Description]
+적은 귀관의 방어 시설을 점령하려 할 것이다. 적 병력을 제거하여 이를 저지하라.
+
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Objectives]
+이 지역의 모든 적을 제거하여 도를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Description]
+적이 이 지역에 방어 시설을 구축했다. 적 방어선을 돌파하고 적을 제거하라.
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_small.defend_small.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Objectives]
+지역을 방어하라.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_small.attack_small.Mission.Description]
+적이 귀관의 방어 시설에 대한 강습을 개시했다. 공격해 오는 적을 제거하라.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Objectives]
+이 지역의 모든 방어 시설을 점령하고 적을 제거하라.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Description]
+적은 귀관의 방어 시설을 점령하려 할 것이다. 적 병력을 제거하여 이를 저지하라.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_small.assault_small.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Objectives]
+포위당했다! 후퇴는 불가능하다. 지역을 방어해야 한다.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Description]
+적이 귀관의 방어 시설에 대한 강습을 개시했다. 공격해 오는 적을 제거하라.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_small.attack_small.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Objectives]
+이 지역의 모든 방어 시설을 점령하고 적을 제거하라.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_small.attack_small.Mission.Description]
+적은 귀관의 방어 시설을 점령하려 할 것이다. 적 병력을 제거하여 이를 저지하라.
+
+
+[Reinforcement.DefendGroupR1]
+보병 분대 2개와 이를 지원하는 자주포 2문
+
+[Reinforcement.AssaultGroupR1]
+전차 2대와 이를 지원하는 보병 분대 2개
+
+[Reinforcement.AttackGroupR1]
+전차 2대와 이를 지원하는 보병 분대 2개
+

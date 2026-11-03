@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Destruya las defensas enemigas.
+[Mission.Description]
+Las tropas alemanas ya han tomado de nuevo posición en otra línea defensiva. Han reunido un importante número de fuerzas antitanque cerca de Chismena.
+
+Sus órdenes son:
+- Destruya las defensas enemigas en la zona de Chismena.
+[Mission.Success]
+Las defensas enemigas han sido destruidas. ¡Ha cumplido su objetivo!
+[Mission.Failed]
+Ha fracasado en el cumplimiento de la orden.
+[Submission_1.Objectives]
+Tome los altos.
+[Submission_1.Description]
+Las fuerzas enemigas se concentran en los altos, al norte de la población. Las defensas enemigas cuentan con cañones antitanque y autopropulsados. 
+
+Sus órdenes son:
+- Saque al enemigo de los altos.
+[Submission_1.Success]
+¡Ha cumplido la tarea! Ha expulsado al enemigo de los altos.
+[Submission_1.Failed]
+El enemigo ha rechazado su ataque. ¡Ha fracasado en el cumplimiento de la orden!

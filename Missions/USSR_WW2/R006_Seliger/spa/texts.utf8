@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+Ataque a la columna acorazada enemiga.
+[Submission1.Description]
+Nuestras unidades apenas habían dispuesto las defensas alrededor del pueblo cuando han divisado una columna acorazada alemana que se acerca hacia usted por el camino vecinal. ¡Debe acabar con esa amenaza!
+
+Sus órdenes:
+- 	Consolide sus posiciones alrededor del pueblo y ataque a la columna enemiga.
+[Submission1.Success]
+¡Ha llevado a cabo la orden!
+[Submission1.Failed]
+¡Órdenes incumplidas! La columna alemana no ha sido destruida.
+[Submission2.Objectives]
+Detenga a los alemanes que avanzan por los flancos.
+[Submission2.Description]
+Según los informes de reconocimiento aéreo, el enemigo ha desplegado tropas no muy lejos del pueblo y se dirigen hacia usted. Los alemanes seguramente están ya preparados para un asalto, debemos frustrar sus planes.
+
+La orden es:
+- 	Ataque al grupo de asalto enemigo y evite que rodeen a sus tropas.
+[Submission2.Success]
+¡La orden se ha llevado a cabo! Los alemanes no han podido rodear a nuestras tropas.
+[Submission2.Failed]
+¡La orden no se ha cumplido! ¡Sus tropas han sido envueltas!
+[Mission1.Objectives]
+Mantenga las defensas alrededor del enclave.
+[Mission1.Description]
+El cuartel general ha recibido informes que indican claramente que el enemigo planea un nuevo avance en nuestro sector.
+
+Sus órdenes:
+- 	Mantenga las defensas alrededor del enclave.
+[Mission1.Success]
+¡La orden se ha llevado a cabo! Gracias a estas acciones decisivas, los alemanes no han podido atravesar nuestras defensas en esa zona de la línea del frente.
+[Mission1.Failed]
+Ha fracasado en el cometido. Los alemanes han conseguido atravesar las defensas en esta parte de la línea del frente.
+[Submission3.Objectives]
+Resista el ataque alemán.
+[Submission3.Description]
+Tras el ataque a la columna acorazada alemana, el enemigo ha asignado más fuerzas para tomar la ciudad. Prepárese para un nuevo ataque, comandante.
+
+Sus órdenes:
+- 	Detenga el asalto de las tropas fascistas.
+[Submission3.Success]
+Ha cumplido muy bien las órdenes del comandante y ha defendido el enclave.
+[Submission3.Failed]
+Ha fallado en su cometido y el enemigo ha ocupado el pueblo.
+[Submission4.Objectives]
+Ataque a la agrupación enemiga que tenemos en la retaguardia.
+[Submission4.Description]
+Ha llegado una columna acorazada enemiga a nuestra retaguardia; hay que neutralizarla antes de que nos rodeen.
+
+Sus órdenes:
+- 	Ataque a la unidad enemiga que tenemos en retaguardia.
+[Submission4.Success]
+¡La orden se ha llevado a cabo! Los alemanes huyen.
+[Submission4.Failed]
+Ha incumplido las órdenes y los alemanes se han anotado una nueva victoria.
+[StringTable.Reserv]
+Se le han asignado refuerzos.

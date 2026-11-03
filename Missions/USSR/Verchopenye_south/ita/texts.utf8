@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Tenere la linea nella parte meridionale del villaggio di Verchopen'e.
+[Mission.Description]
+Insieme a una batteria di artiglieria anticarro, a un'unità di fucili anticarro e a diversi carri armati, mettere in sicurezza il caposaldo a sudest di Verchopen'e. Priorità assoluta va data al mantenimento delle posizioni nei pressi dei ponti sulla Pena. Impedire al nemico di attraversare il fiume.
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Il nemico ha stabilito una testa di sbarco sulla riva occidentale della Pena, le nostre truppe si ritirano.
+[Submission_1.Objectives]
+Occupare le posizioni lasciate libere. Coprire il ripiegamento oltre il fiume. 
+[Submission_1.Success]
+Il grosso delle forze ha assunto con successo la difesa lungo la riva del fiume.
+[Submission_1.Failed]
+Il gruppo di copertura è stato sconfitto, il grosso delle forze è minacciato!
+[Submission_2.Objectives]
+Presidiare le posizioni nei pressi dell'attraversamento. Impedire al nemico di passare sulla riva opposta.
+[Submission_2.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Submission_2.Failed]
+Il nemico ha catturato il ponte e sta creando una testa di ponte sulla nostra riva!
+[Submission_3.Objectives]
+Ripiegare sulla riva opposta della Pena. Impedire alle truppe nemiche di attraversare il fiume. 
+[Submission_3.Success]
+Il nemico è stato fermato davanti all'ostacolo d'acqua.
+[Submission_3.Failed]
+Il nemico ha attraversato il fiume e ha respinto le nostre forze dalla parte meridionale del villaggio di Verchopen'e.
+[StringTable.Add_to_plArmy]
+Tutte le unità sulle posizioni lungo la riva della Pena sono ora sotto il vostro controllo.
+[StringTable.Rus_Tanks]
+Un gruppo di carri armati è stato inviato dalle riserve.
+[StringTable.infantry]
+Un'unità di fanteria è giunta dalle riserve ed è ora sotto il vostro controllo.
+
+[StringTable.inf]
+Fanteria
+[StringTable.Tanks]
+Carri armati del 6o Corpo carri
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

@@ -1,0 +1,23 @@
+﻿[Submission1.Objectives]
+Mantieni le tue posizioni nel villaggio.
+[Submission1.Description]
+Soverchianti forze nemiche avanzano sulle posizioni del Primo Battaglione, 901mo Panzergrenadier. Con l’aiuto di un distaccamento della 12ma SS Hitlerjugend Division, mantieni il possesso dell’area!
+I tuoi ordini sono:
+- Cooperando con i carri della 12ma SS, resisti intorno al villaggio.
+[Submission1.Success]
+Ben fatto, comandante! Il nemico non ha abbattuto il tuo spirito combattivo!
+[Submission1.Failed]
+Missione fallita! Le tue forze sono state respinte. 
+[Submission2.Objectives]
+Respingi gli attacchi del nemico
+[Submission2.Description]
+Abbiamo ricevuto dei rapporti che affermano che il nemico ha spostato i suoi attacchi e si sta ora avvicinando da nord. Prepara le tue truppe, comandante.
+ 
+I tuoi ordini sono:
+- Respingi gli attacchi del nemico
+[Submission2.Success]
+Ben fatto, comandante! Il nemico non è riuscito a superare le tue difese.
+[Submission2.Failed]
+Missione fallita!
+[StringTable.Change]
+Hai ricevuto unità corazzate addizionali dalle riserve di Divisione.

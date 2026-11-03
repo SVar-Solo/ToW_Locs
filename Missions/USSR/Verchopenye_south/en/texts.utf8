@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Hold the line in the southern part of Verkhopenye village.
+[Mission.Description]
+In conjunction with an antitank artillery battery, an antitank rifle unit and several tanks, secure the strong point to the southeast of Verkhopenye. Special priority should be given to holding the positions in the vicinity of the bridges across the Pena. Prevent the enemy from crossing the river.
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+The enemy has established a lodgment on the western shore of Pena, our troops withdraw.
+[Submission_1.Objectives]
+Occupy the relinquished positions. Cover the withdrawal across the river. 
+[Submission_1.Success]
+The main body has successfully assumed the defense along the riverside.
+[Submission_1.Failed]
+The covering team is defeated, the main body is threatened!
+[Submission_2.Objectives]
+Man the positions in the vicinity of the crossing. Prevent the enemy from moving to the opposite shore.
+[Submission_2.Success]
+Mission complete, enemy attacks have been repelled.
+[Submission_2.Failed]
+The enemy has captured the bridge and is establishing a bridgehead on our shore!
+[Submission_3.Objectives]
+Withdraw to the opposite shore of the Pena. Prevent the enemy troops from crossing the river. 
+[Submission_3.Success]
+The enemy has been stopped before the water barrier.
+[Submission_3.Failed]
+The enemy has crossed the river and pushed our forces from the southern part of Verkhopenye village.
+[StringTable.Add_to_plArmy]
+All units on positions along the shore of Pena are now under your control.
+[StringTable.Rus_Tanks]
+A group of tanks has been dispatched from the reserves.
+[StringTable.infantry]
+An infantry unit arrived under your control from the reserves.
+
+[StringTable.inf]
+Infantry
+[StringTable.Tanks]
+Tanks from 6th Tank Corps
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

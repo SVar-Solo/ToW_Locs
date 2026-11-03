@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+적이 전선을 돌파하지 못하게 막아라. 
+[Mission.Description]
+적이 사단 방어선을 돌파하려 하고 있다. 체르카스코예를 사수하라는 명령이다. 제1참호와 대전차 거점을 사수하는 데 특별한 우선순위를 두어라. 진격하는 적 집단을 반격하라.
+[Submission1.Objectives]
+적 전차를 파괴하라.
+[Submission2.Objectives]
+적이 아군 진지를 측면에서 포위하지 못하게 막아라.
+[Submission3.Objectives]
+적이 전차와 보병으로 전선을 돌파하여 계속 전진하고 있다.
+[Submission4.Objectives]
+중전차와 돌격포의 지원을 받는 적 중대 규모 부대가 마을에 대한 공격을 개시했다. 적의 공격을 격퇴하라.
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+아군은 우세한 적의 공격에 밀려 후퇴한다.
+[Submission1.Success]
+임무 완료, 적 전차를 격파했다. 
+[Submission1.Failed]
+임무 실패, 적 전차가 계속 전진한다.
+[Submission2.Success]
+임무 완료, 측면 기동을 저지했다.
+[Submission2.Failed]
+적 전차가 아군 진지를 측면에서 포위했다.
+[Submission_2_1.Success]
+임무 완료, 포위 부대를 격파했다.
+[Submission_2_1.Failed]
+반격이 저지되었다. 적이 진격을 밀어붙이고 있다.
+[Submission_2_2.Success]
+돌파한 적 전차를 격파했고 균형을 회복했다.
+[Submission_2_2.Failed]
+반격이 실패했다. 적 전차가 사단 후방으로 돌파했다!
+[Submission3.Success]
+임무 완료. 
+[Submission3.Failed]
+적이 돌파하여 사단 지휘소를 향해 진격하고 있다!
+[Submission4.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Submission4.Failed]
+아군은 우세한 적의 타격에 밀려 후퇴한다. 
+[StringTable.Tanks!]
+전차다! 전차 공격을 격퇴할 준비를 하라.
+[StringTable.Stukas]
+공습이다! 엄폐하라!
+[StringTable.SM2]
+저 전차들을 제대로 막아냈고 조종사들이 도움을 주었다.
+[StringTable.SM2_1]
+이제 독일군은 아군 진지를 통과하려 할 공산이 크다. 측면을 경계하라!
+
+[StringTable.SPGs_Tanks]
+제245독립전차연대와 제1440자주포연대의 전차 및 자주포
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

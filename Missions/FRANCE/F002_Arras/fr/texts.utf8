@@ -1,0 +1,25 @@
+﻿[Mission1.Objectives]
+Déloger les troupes ennemies de la zone indiquée.
+[Mission1.Description]
+21 mai 1940. Quatre brigades blindées de la 16e armée allemande approchent d’Arras. Pour combler la brèche et empêcher la capture de la ville, les Britanniques ont engagé leur 5e brigade blindée. Le commandement français, conscient la gravité de la situation, a également déployé des unités de chars appartenant à la 6e armée blindée.
+
+Vos ordres :
+-	Trouver et détruire les unités allemandes dans le secteur. La 5e brigade blindée britannique va vous appuyer. 
+-	Empêcher l’ennemi de percer vers Arras.
+[Mission1.Success]
+Bravo, l’ennemi a été délogé et détruit. Vous avez gagné un temps précieux pour permettre de mieux préparer la défense d’Arras.
+[Mission1.Failed]
+Vos troupes ont été défaites ! Les Allemands vont pouvoir entrer dans Arras sans encombre !
+[Submission1.Objectives]
+Apporter un soutien à la brigade blindée anglaise.
+[Submission1.Description]
+La 5e brigade blindée britannique avance vers le village afin de déloger une unité blindée allemand qui se dirige vers Arras. Nous sommes dominés en nombre de véhicules blindés et l’ennemi est déterminé à avancer vers son objectif majeur, Arras 
+
+Vos ordres sont :
+- 	Appuyer activement la 5e brigade blindée britannique aussi longtemps que possible.
+[Submission1.Success]
+Mission accomplie, la brigade blindée britannique a subi des pertes légères.
+[Submission1.Failed]
+C’est un échec, les Allemands ont battu la brigade blindée britannique !
+[StringTable.Reserv]
+Des renforts sont arrivés en appui !

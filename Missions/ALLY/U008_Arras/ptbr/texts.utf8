@@ -1,0 +1,47 @@
+﻿[Submission_2.Objectives]
+Uma posição defensiva inimiga foi localizada. Sua tarefa é desalojar o inimigo.
+[Submission_2.Description]
+Informações recentes de inteligência permitiram localizar uma posição defensiva alemã na aldeia adiante. Para auxiliar o avanço das unidades do 3º Exército dos EUA, você precisa neutralizar o inimigo. 
+
+Suas ordens:
+-	Elimine as tropas inimigas.
+[Submission_2.Success]
+A aldeia está em nossas mãos!
+[Submission_2.Failed]
+A resistência dos alemães foi mais séria do que o esperado! Perdemos esta batalha.
+[Submission_1.Objectives]
+Reconheça o povoado por todos os meios à sua disposição.
+[Submission_1.Description]
+As tropas alemãs estão fugindo, mas deixaram uma pequena retaguarda, que você deve agora enfrentar.
+
+Suas ordens:
+-	Reconheça o povoado mais próximo.
+[Submission_1.Success]
+Nossos batedores concluíram o reconhecimento do povoado.
+[Submission_1.Failed]
+A unidade de reconhecimento foi eliminada.
+[Submission_3.Objectives]
+Continue seu avanço pela estrada. Destrua a última posição defensiva alemã antes da ponte sobre o canal.
+[Submission_3.Description]
+
+Suas ordens:
+-	Continue seu avanço até o próximo povoado.
+-	Ataque o inimigo quando localizado.
+[Submission_3.Success]
+O último obstáculo em seu caminho para Bruxelas foi eliminado!
+[Submission_3.Failed]
+Você perdeu. Todo o avanço do 3º Exército agora será atrasado por causa da sua falha.
+[Mission.Objectives]
+Elimine todas as posições defensivas alemãs.
+[Mission.Description]
+Depois do desembarque aliado na Normandia, as tropas alemãs recuaram rapidamente, mas diversos remanescentes resistiram e lutaram. Os alemães estabeleciam posições defensivas em quase todas as aldeias, transformando cada uma delas em uma fortaleza. Embora Rommel não tenha conseguido estabelecer linhas defensivas fortificadas por falta de tempo e de recursos, os soldados alemães continuaram a lutar desesperadamente.
+O cronograma da operação planejada por Eisenhower e Montgomery foi quebrado repetidas vezes, e a ofensiva sofreu atraso após atraso. 
+
+Suas ordens:
+-	Destrua as defesas alemãs.
+[Mission.Success]
+Você venceu e expulsou as unidades alemãs de suas posições defensivas.
+[Mission.Failed]
+Você perdeu. Os alemães ainda mantêm algumas posições defensivas importantes nesta área.
+[StringTable.reserv]
+Reforços chegaram para apoiá-lo.

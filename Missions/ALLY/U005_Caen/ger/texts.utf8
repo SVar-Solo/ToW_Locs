@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+Neutralisieren Sie die fliehenden feindlichen Einheiten.
+[Main_mission.Description]
+Unsere Aufklärungseinheiten berichten, dass die Verteidigung in Caen zusammengebrochen ist, und dass der Feind hastig flieht. Unsere Truppen waren zu spät um die Falle zuschnappen zu lassen und wir befürchten, dass einige Feindeinheiten fliehen könnten. Ihre Aufgabe ist es zu verhindern, dass diese deutschen Einheiten entkommen können.
+
+Ihre Befehle:
+-	 Konsolidieren Sie Ihre Einheiten bei dem kleinen Dorf und halten Sie die Strassenkreuzung in der Nähe um jeden Preis. Verlassen Sie die Gegend unter keinen Umständen denn der Feind kann jeden Moment auftauchen.
+[Main_Mission.Success]
+Der Feind wurde geschlagen! Die Gegend ist jetzt sicher!
+[Main_Mission.Failed]
+Sie haben verloren. Der Feind ist Ihnen knapp entkommen. 
+[Submission_1.Objectives]
+Zerstören Sie die feindlichen Panzer.
+[Submission_1.Description]
+Die Überreste verschiedener deutscher Einheiten versuchen durch die Umzingelung zu brechen. Obwohl der Feind geschwächt wurde stellt er immer noch eine ernstzunehmende Streitmacht dar. Deutsche Panzereinheiten wurden ebenfalls gesichtet.
+
+Ihre Befehle:
+-	 Verhindern Sie, dass die feindlichen Truppen durchbrechen können. Zerstören Sie alle Panzer die Sie sehen.
+[Submission_1.Success]
+Glückwunsch! Sie haben die feindlichen Einheiten aufgehalten!
+[Submission_1.Failed]
+Sie haben verloren und die feindlichen Einheiten sind aus Ihrer Falle entkommen.
+[Submission_2.Objectives]
+Halten Sie den Feind auf!
+[Submission_2.Description]
+Der Feind hat mehr Truppen in dieser Gegend als erwartet. Er unternimmt einen weiteren Ausbruchsversuch. 
+
+Ihre Befehle:
+-	 Neutralisieren Sie die Feindeinheiten.
+[Submission_2.Success]
+Sie haben gewonnen! Die feindlichen Truppen wurden zerschlagen!
+[Submission_2.Failed]
+Sie sind gescheitert! 
+[Submission_3.Objectives]
+Besetzen Sie den Bauernhof. Wenn Sie Feinde lokalisieren, vernichten Sie sie.
+[Submission_3.Description]
+Die Deutschen haben es nicht geschafft durchzubrechen, aber der Feind ist noch nicht vernichtet. Das Hauptquartier glaubt, dass der beste Zug darin besteht, eine sofortige Offensive zu unternehmen, um die übrigen feindlichen Stellungen auszuschalten.
+
+Ihre Befehle:
+-	 Gehen Sie in die Offensive. Greifen Sie die Farm an und eliminieren Sie den Feind.
+[Submission_3.Success]
+Der Feind wurde eliminiert! Der Bauernhof ist unter Ihrer Kontrolle!
+[Submission_3.Failed]
+Sie konnten die Farm nicht erobern.
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.

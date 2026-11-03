@@ -1,0 +1,183 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Zniszcz umocnienia wroga w pobliżu lotniska.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Wyeliminuj atakujących wrogów. Nie pozwól wrogowi zdobyć miejscowości.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Wróg stawia w tym rejonie zaciekły opór. Według rozpoznania przeciwnik skoncentrował siły, aby przejść do ofensywy i zdobyć miejscowość. Musisz odeprzeć nadchodzący atak. Nie pozwól wrogowi zająć pozycji.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Musisz zdobyć wrogie lotnisko na północnym zachodzie, zaznaczone na mapie. Będziesz musiał zniszczyć umocnienia wroga na podejściach do lotniska.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Lotnisko zdobyte.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Lotnisko zdobyte.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Odeprzyj atak wroga. Nie pozwól wrogowi zdobyć miejscowości.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Wróg próbuje opanować rejon wokół miejscowości. Odeprzyj atak wroga i nie pozwól mu zdobyć pozycji.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Odpieraj wszystkie ataki wroga na miejscowość.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Odpieraj wszystkie ataki wroga na miejscowość.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_inf_support]
+Piechota zmechanizowana jest do Twojej dyspozycji.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_inf_support]
+Piechota zmechanizowana jest do Twojej dyspozycji.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest do Twojej dyspozycji.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest do Twojej dyspozycji.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.SPG_inf_support]
+Oddział piechoty i dział samobieżnych jest do Twojej dyspozycji.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.SPG_inf_support]
+Oddział piechoty i dział samobieżnych jest do Twojej dyspozycji.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Wsparcie lotnicze jest do Twojej dyspozycji.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Wsparcie lotnicze jest do Twojej dyspozycji.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Zdobądź skrzyżowanie dróg.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonego na mapie rejonu i wyeliminuj napotkanych wrogów. Osiągnij cel w wyznaczonym czasie i zabezpiecz skrzyżowanie dróg oraz okolicę. Bądź gotów odeprzeć wszelkie kontrataki wroga.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Zniszcz umocnienia wroga w pobliżu lotniska.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Musisz zdobyć wrogie lotnisko na północnym zachodzie, zaznaczone na mapie. Będziesz musiał zniszczyć umocnienia wroga na podejściach do lotniska.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Lotnisko zdobyte.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Odeprzyj atak wroga. Nie pozwól wrogowi zdobyć miejscowości.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Wróg próbuje opanować rejon wokół miejscowości. Odeprzyj atak wroga i nie pozwól mu zdobyć pozycji.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Odpieraj wszystkie ataki wroga na miejscowość.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Odpieraj wszystkie ataki wroga na miejscowość.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[Reinforcement.Group1[Reinforcement]]
+Pojazdy pancerne i piechota
+

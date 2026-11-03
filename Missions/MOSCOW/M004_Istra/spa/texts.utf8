@@ -1,0 +1,26 @@
+﻿[Submission1.Objectives]
+Rechace el ataque enemigo.
+[Submission1.Description]
+Los principales ataques que el enemigo dirige desde Volokolamsk tienen como objetivo Solnechnogorsk y la ciudad de Istra. Los alemanes también andan cerca del área entre el lago Istra y el río del mismo nombre. En algunos lugares, las tropas alemanas han logrado cruzar hacia la orilla este del río.
+
+Debe contener el ataque enemigo y mantener los alrededores de la ciudad bajo control. 
+
+Sus órdenes son:
+- Rechace el ataque enemigo.
+[Submission1.Success]
+¡Se ha cumplido la orden del Estado Mayor! El ataque de los invasores alemanes ha sido rechazado.
+[Submission1.Failed]
+Los alemanes han conseguido atravesar las defensas y ocupar la ciudad. ¡Ha fracasado en el cumplimiento de las órdenes del Estado Mayor!
+[Submission2.Objectives]
+Rechace los ataques de flanqueo enemigos.
+[Submission2.Description]
+Las tropas enemigas se dirigen hacia el pueblo desde el norte y el sur con el objetivo de atacar nuestros flancos. ¡Debe resistir esas acciones de flanqueo!
+
+Sus órdenes son:
+- Rechace los ataques de flanqueo enemigos.
+[Submission2.Success]
+¡Se ha cumplido la orden del Estado Mayor! Ha rechazado los ataques del enemigo.
+[Submission2.Failed]
+¡Han derrotado a sus tropas! Ha fracasado en el cumplimiento de sus órdenes.
+[StringTable.Retreat]
+¡El pelotón que cubría el flanco izquierdo se retira del campo de batalla!

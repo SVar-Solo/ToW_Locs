@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+Ferma la nuova offensiva tedesca.
+[Mission.Description]
+Per impedire i pericoli di accerchiamento, l’Alto Comando Tedesco ha lanciato un piccolo, ma feroce contrattacco chiamato Operation Lüttich.
+
+I tuoi ordini sono:
+- Ferma l'offensiva delle truppe tedesche.
+[Mission.Success]
+Missione completata. La massiccia offensiva delle forze tedesche è stata fermata.
+[Mission.Failed]
+L’attacco tedesco è riuscito e abbiamo sostenuto gravi perdite.
+[Submission1.Objectives]
+Attacca il gruppo di forze tedesche.
+[Submission1.Description]
+Secondo le ricognizioni, i tedeschi attaccheranno innanzitutto da nord-est.
+
+I tuoi ordini sono:
+-  Attacca il nemico che avanza da nord-est.
+[Submission1.Success]
+Missione riuscita. Le forze nemiche si stanno ritirando.
+[Submission1.Failed]
+Missione fallita. Le tue truppe sono state sconfitte.
+[Submission2.Objectives]
+Attacca le forze nemiche.
+[Submission2.Description]
+L’offensiva tedesca prosegue e sembra che adesso attaccheranno da est.
+
+I tuoi ordini sono:
+- Attacca le unità nemiche che avanzano da est.
+[Submission2.Success]
+Missione riuscita. L'attacco nemico è stato fermato.
+[Submission2.Failed]
+Missione fallita. Le tue truppe sono state distrutte.
+[Submission3.Objectives]
+Attacca le forze tedesche che arrivano da nord.
+[Submission3.Description]
+La battaglia non è ancora vinta. Un altro attacco tedesco sta arrivando da nord. Il nemico ci supera numericamente, ma dobbiamo vincere.
+
+I tuoi ordini sono:
+- Respingi l’attacco delle forze tedesche.
+[Submission3.Success]
+Missione riuscita. L'offensiva nemica è stata fermata.
+[Submission3.Failed]
+Missione fallita. L'offensiva nemica ha avuto successo e le tue truppe sono state distrutte.
+[StringTable.Reserve]
+I rinforzi sono arrivati.
+[Submission4.Objectives]
+Attacca le forze tedesche.
+[Submission4.Description]
+Fino ad ora abbiamo resistito, ma sembra che i tedeschi stiano progettando di colpirci ancora una volta e questa volta da est.
+
+I tuoi ordini sono:
+- Attacca le forze del nemico che giungono da est e impedisci l'accerchiamento delle nostre forze.
+[Submission4.Success]
+Missione riuscita. Il nemico non è riuscito a passare e ad accerchiare le nostre forze.
+[Submission4.Failed]
+Missione fallita. Le tue truppe sono state distrutte.
+[StringTable.Subtitle_01]
+Francia. Agosto 1944
+[StringTable.Reserv]
+I rinforzi sono arrivati.

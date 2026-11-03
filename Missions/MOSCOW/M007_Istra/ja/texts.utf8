@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+敵を陣地から駆逐せよ。
+[Submission1.Description]
+ナチスの侵略者は、イストラ貯水池とイストラ市の間の線に沿って陣地を固めており、激しい抵抗なしには譲らないであろう。これらの陣地から敵を駆逐することは極めて重要である。 
+
+命令：
+-敵を陣地から駆逐せよ。
+[Submission1.Success]
+貴官の命令は遂行された！
+[Submission1.Failed]
+貴官は命令を果たせなかった！
+[Submission2.Objectives]
+前進する敵を撃滅せよ。
+[Submission2.Description]
+ナチス部隊は、前線のこの地区に沿って凶暴な反撃を開始した。前進する敵と交戦し、撃滅せねばならない。
+
+命令：
+- 攻撃してくるドイツ軍部隊を撃滅せよ。
+[Submission2.Success]
+貴官の命令は遂行された！ 敵部隊は撃破された。
+[Submission2.Failed]
+貴官は命令の完遂に失敗した！ 貴官の部隊は敗北した。

@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Odeprzyj nieprzyjacielski atak.
+[Mission.Description]
+Jednostki 50. Dywizji Północnej Umbrii nacierają na obronę 2. Batalionu 901. Regimentu Grenadierów Pancernych. Wróg znowu ma przewagę liczebną. Dysponujesz mieszaną grupą piechoty, czołgami i artylerią samobieżną. Powinieneś odeprzeć zbliżającego się nieprzyjaciela.
+ 
+Rozkazy:
+- Utrzymaj pozycje wokół wsi.
+[Mission.Success]
+Dobra robota! 
+[Mission.Failed]
+Porażka! Twoje siły wycofują się.
+[Submission_1.Objectives]
+Odeprzyj wszystkie nieprzyjacielskie ataki.
+[Submission_1.Description]
+Brytyjczycy mają totalną przewagę w ludziach i sprzęcie, ale ze względu na ukształtowanie terenu mogą zaatakować Cię tylko z przodu lub z lewego skrzydła. Wykorzystaj te informacje. Rozmieść odpowiednio wojska i przygotuj obronę.
+ 
+ 
+Rozkazy:
+- Odeprzyj wszystkie nieprzyjacielskie ataki. 
+[Submission_1.Success]
+Dobra robota! Nieprzyjacielskie siły zostały zlikwidowane.
+[Submission_1.Failed]
+Porażka! Twoja armia została pokonana.

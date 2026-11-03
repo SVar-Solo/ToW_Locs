@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Hold and defend the area specified.
+[Submission1.Description]
+The British XXX Corps has launched a new offensive against the 901 Panzergrenadier Regiment which is defending the town of Tilly.
+ 
+Your orders:
+- Hold the town
+[Submission1.Success]
+Well done Commander!
+[Submission1.Failed]
+Mission failed! Your troops have been destroyed.
+[Submission2.Objectives]
+Halt the enemy attack.
+[Submission2.Description]
+The British XXX Corps has launched a spoiling attack in order to disrupt your positions and allow their 7th Armoured Division to resume their own offensive.
+ 
+Your orders:
+- Halt the enemy attack.
+[Submission2.Success]
+Well done Commander! The enemy attack has been stopped.
+[Submission2.Failed]
+Mission failed! Your troops have been destroyed.

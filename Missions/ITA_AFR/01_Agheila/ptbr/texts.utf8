@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Destrua o comboio
+[Submission_1.Description]
+Destrua o comboio inimigo que se aproxima de El Agheila.
+[Submission_01.Success]
+Missão cumprida.
+[Submission_01.Failed]
+Missão fracassada.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Mantenha o ponto fortificado
+[Mission.Description]
+Organize a defesa, mantenha o ponto fortificado e bloqueie completamente a estrada para El Agheila.
+[NewSubmission.Success]
+Missão cumprida.
+[NewSubmission.Failed]
+Missão fracassada.
+[Mission.Success]
+Missão concluída.
+[Mission.Failed]
+Missão fracassada.
+[Submission_1.Success]
+O comboio foi destruído.
+[Submission_1.Failed]
+O comboio inimigo rompeu até El Agheila!
+[NewSubmission.Objectives]
+[NewSubmission.Description]

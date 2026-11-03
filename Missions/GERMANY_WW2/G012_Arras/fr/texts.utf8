@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+Eviter que l’ennemi venant de l’ouest perce nos défenses.
+[Submission1.Description]
+Après une longue attente, les Américains ont commencé à reprendre leur avance vers Arras. La situation sur ce front est très préoccupante. L’armée ennemie avance de l’ouest et dispose de la supériorité numérique
+
+Vos ordres :
+- 	Eviter que l’ennemi venant de l’ouest perce nos défenses.
+[Submission1.Success]
+Mission accomplie ! L’ennemi bat en retraite.
+[Submission1.Failed]
+L’ennemi a percé nos défenses – nous devons battre en retraite !
+[Mission1.Objectives]
+Stopper l’avance américaine.
+[Mission1.Description]
+La 3e armée américaine approche de nos lignes de défense. Les Américains préparent une offensive sur l’ensemble du front et par différentes directions. Nous devons couvrir la retraite de nos unités en ralentissant cette dernière avance.
+
+Vos ordres : 
+-	Tenir les défenses dans la zone indiquée.
+- 	Stopper l’ennemi sur cette partie du front.
+[Mission1.Success]
+Mission accomplie ! L’attaque américaine a été pulvérisée ! Voici une nouvelle évidence de la supériorité des armes allemandes.
+[Mission1.Failed]
+Vos défenses ont été percées ! L’Allemagne rendra hommage à ses soldats tombés pour le Reich, mais oubliera vite ses commandants incompétents !
+[Submission2.Objectives]
+Empêcher que les défenses au sud soient percées.
+[Submission2.Description]
+Une force importante d’unités US approche par le sud. De l’aviation et de l’artillerie appuient leur avance.
+
+Vos ordres : 
+- 	Résister à ce nouvel assaut du sud.
+[Submission2.Success]
+Mission accomplie, l’ennemi a été stoppé !
+[Submission2.Failed]
+L’ennemi est parvenu à percer vos défenses !
+[Submission3.Objectives]
+Une autre vague d’attaque approche par le sud-ouest.
+[Submission3.Description]
+Nos reconnaissances indiquent que des troupes ennemies approchent par le sud-ouest.
+
+Vos ordres : 
+- 	Résister à l’attaque venant du sud-ouest.
+[Submission3.Success]
+Vous avez réussi à repousser l’attaque ennemie !
+[Submission3.Failed]
+L’ennemi a brisé vos défenses, vous devez battre en retraite !
+[Submission4.Objectives]
+Résister à un nouvel assaut venant du nord-ouest.
+[Submission4.Description]
+Des troupes ennemies approchent par le nord-ouest.
+
+Vos ordres : 
+ -	Résister à l’attaque venant du nord-ouest.
+[Submission4.Success]
+Mission accomplie !
+[Submission4.Failed]
+L’ennemi a brisé vos défenses !
+[StringTable.Reserv]
+Vous avez reçu des renforts.

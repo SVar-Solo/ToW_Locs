@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Zniszcz siły wroga we wskazanym rejonie.
+[Mission1.Description]
+21 maja 1940 cztery niemieckie brygady pancerne z 16. Armii zbliżyły się do Arras. Aby zamknąć wyłom i zapobiec zdobyciu miasta, Brytyjczycy wysłali tam 5. brygadę pancerną. Francuskie dowództwo, zaniepokojone rozwojem sytuacji w tym sektorze, również wysłało zgrupowania pancerne, należące do 6. armii francuskiej.
+Twoje rozkazy:
+-	Znajdź i zniszcz niemieckie wojska w swojej strefie. Otrzymasz wsparcie angielskiej 5. brygady pancernej. 
+-	Nie pozwól nieprzyjacielowi przebić się do Arras.
+[Mission1.Success]
+Dobra robota. Oddziały wroga zostały zniszczone. Dałeś nam więcej czasu na przygotowanie obrony Arras.
+[Mission1.Failed]
+Twoje wojska zostały pokonane! Teraz Niemcy wejdą do Arras bez żadnych problemów!
+[Submission1.Objectives]
+Wesprzyj angielską brygadę pancerną.
+[Submission1.Description]
+Angielska 5. brygada pancerna naciera w kierunku wioski, aby zniszczyć niemieckie brygady pancerne zmierzające do Arras. 
+Wróg ma więcej pojazdów opancerzonych i jest zdeterminowany, by osiągnąć cel: Arras.
+Twoje rozkazy:
+-	Jak najdłużej aktywnie wspierać angielską 5. brygadę pancerną.
+[Submission1.Success]
+Zadanie wykonane. Angielska brygada pancerna przetrwała bitwę, ponosząc niewielkie straty.
+[Submission1.Failed]
+Zadanie niewykonane. Angielska brygada pancerna została pokonana przez Niemców!
+[StringTable.Reserv]
+Przybyły posiłki.

@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Stop the breakthrough
+[Mission.Success]
+The enemy couldn't break through the pass!
+[Mission.Failed]
+Retreat! The enemy has broken through the pass!
+[Mission.Description]
+Stop the breakthrough of the German groups through the Kasserine Pass
+[Submission1.Objectives]
+Blunt enemy attacks along possible breach axes.
+[Submission1.Description]
+Lieutenant Colonel Waters! You must prevent the German troops from breaking through the Kasserine pass.
+[Submission1.Success]
+The order has been carried out! The enemy is retreating!
+[Submission1.Failed]
+Our troops have failed! The enemy continues to advance!
+[Submission2.Success]
+British tanks have arrived!
+[Submission2.Description]
+Hold until British tanks arrive
+[Submission2.Objectives]
+Hold on
+[Submission2.Failed]
+We have failed! The reinforcements had no time to arrive!
+[Submission3.Objectives]
+Find and destroy enemy fire spotters
+[Submission3.Description]
+A mortar battery is firing at positions of the 1st Infantry Division. Locate and eliminate the enemy artillery spotters.
+[Submission3.Success]
+Enemy spotters have been eliminated!
+[Submission3.Failed]
+Enemy spotters have not been eliminated!

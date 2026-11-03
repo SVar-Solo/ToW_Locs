@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Mener une opération de sabotage sur les arrières ennemis près de la ville de Sandomierz. Trouver le dépôt de carburant et d’armement et le détruire. Si vous rencontrez des positions de canons antiaériens, faites appel à l’artillerie à longue portée et à des frappes aériennes pour les neutraliser.
+[Mission.Description]
+L’armée soviétique approche des frontières du Troisième Reich lui-même. Les deux camps se préparent depuis un certain temps à une bataille éventuelle autour de la petite ville de Sandomierz. Le Haut Commandement soviétique a envoyé des équipes spéciales de saboteurs s’infiltrer derrière les lignes ennemies. Elles ont pour mission de reconnaître les positions ennemies et de détruire les moyens logistiques et les défenses antiaériennes. Votre escouade d’élite doit saboter le dépôt de carburant et d’armement, repérer et détruire toute position de canons antiaériens rencontrée. Votre escouade est composée de nos meilleurs éclaireurs et d’un tireur d’élite. Utilisez-les à bon escient !
+[Mission.Success]
+Toutes les missions ont été accomplies !
+[Mission.Failed]
+Mission échouée !
+[Submission_1.Objectives]
+Pénétrer dans la localité. Reconnaître la situation. Éliminer les gardes du dépôt de carburant et d’armement. Trouver et prendre tous les Panzerschreck, car leur puissance antichar pourrait vous être utile par la suite.
+[Submission_1.Description]
+Ayant franchi sans être détectée les lignes de front ennemies, votre escouade se trouve maintenant loin derrière. Méfiez-vous des postes de blocage ennemis situés le long des routes, aux carrefours et sites stratégiques. Les patrouilles motorisées sont fréquentes et, si elles vous repèrent, elles appelleront rapidement des renforts. Votre tâche principale est de détruire le dépôt de carburant et d’armement.
+[Submission_1.Success]
+Zone spéciale détruite.
+[Submission_1.Failed]
+Mission échouée
+[Submission_2.Objectives]
+Repérer l’emplacement de toutes les positions antiaériennes. Demander un tir d’artillerie et un appui aérien pour détruire ces positions. Capturer un véhicule de transport ennemi pour faciliter la percée du pont.  
+[Submission_2.Description]
+Notre aviation lance des frappes constantes contre des sites allemands stratégiques, mais les pertes sont élevées. L’ennemi excelle à camoufler ses sites de DCA, et les repérer depuis les airs s’est avéré difficile et coûteux en hommes et en appareils. Votre escouade est idéalement placée pour contribuer à cette tâche. Fouillez les environs à la recherche de canons antiaériens et, dès qu’ils sont repérés, demandez un tir d’artillerie et des avions d’attaque au sol pour détruire ces emplacements.
+[Submission_2.Success]
+Les positions antiaériennes ont été localisées et détruites.
+[Submission_2.Failed]
+Mission échouée.
+[Submission_3.Objectives]
+Percer en direction des ponts sur la Vistule. Anéantir les gardes des deux rives du fleuve.
+[Submission_3.Description]
+Vous avez accompli votre tâche principale. Votre détachement doit maintenant rentrer. Le seul chemin passe de nouveau par le pont sur la Vistule...
+[Submission_3.Success]
+Mission accomplie
+[Submission_3.Failed]
+Mission échouée.
+[Submission_4.Objectives]
+Nos avions de reconnaissance ont repéré une colonne de chars qui avance sur l’autoroute en direction des ponts de la Vistule.
+Vos ordres :
+-Détruire la colonne de chars par tous les moyens.
+[Submission_4.Description]
+Nos avions de reconnaissance ont repéré une colonne de chars qui avance sur l’autoroute en direction des ponts qui franchissent la Vistule. Votre tâche est d’attendre que la colonne approche, puis de bloquer le pont en détruisant le char de tête. Utiliser quelques Panzerschreck allemands capturés pourrait être efficace...
+[Submission_4.Success]
+Du bon travail !
+[Submission_4.Failed]
+Tâche échouée
+[Submission_5.Objectives]
+Un poste de blocage ennemi a été repéré. Si vous êtes détectés, tuez les gardes.
+[Submission_5.Description]
+Un poste de blocage ennemi a été repéré. Si vous êtes détectés, tuez les gardes.
+[Submission_5.Success]
+Mission accomplie.
+[Submission_5.Failed]
+Mission échouée
+[StringTable.Zonder]
+L’ennemi a demandé des renforts.
+[StringTable.EnemyVisible]
+L’ennemi a repéré vos troupes, elles doivent être éliminées. Le temps presse : vous n’avez qu’environ 4 à 5 minutes avant que d’autres unités ennemies n’arrivent.
+[StringTable.Ahtung]
+L’ennemi a repéré votre escouade.
+[StringTable.CallSupport]
+Les canons antiaériens allemands ont été repérés. Cette position ne peut pas être détruite par votre seule escouade de saboteurs. Demandez un appui d’artillerie et aérien pour éliminer l’ennemi.
+[Submission_6.Objectives]
+Un poste de blocage ennemi a été repéré. Si vous êtes détectés, tuez les gardes.
+[Submission_6.Description]
+Le poste de blocage est situé sur une route d’importance stratégique. Les partisans polonais ont signalé qu’une patrouille motorisée surveille constamment la route.
+[Submission_6.Success]
+Le poste de blocage a été éliminé
+[Submission_6.Failed]
+Vous avez perdu et vos troupes d’élite ont été tuées !

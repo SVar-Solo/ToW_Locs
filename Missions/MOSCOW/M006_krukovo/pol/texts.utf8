@@ -1,0 +1,21 @@
+﻿[Mission1.Objectives]
+Zniszcz nieprzyjacielską obronę.
+[Mission1.Description]
+Nieprzyjacielskie wojska utworzyły linię obrony na drogach prowadzących do wsi Kriukowo. Nasze wojska muszą zdobyć tę wieś, to bardzo ważne. Zniszcz wroga w tym rejonie. 
+Twoje rozkazy:
+-	Zniszcz nieprzyjacielską obronę.
+[Mission1.Success]
+Nieprzyjacielska obrona została zniszczona! Wykonałeś rozkaz dowództwa!
+[Mission1.Failed]
+Twoje wojska zostały pokonane! Nie wykonałeś zadania!
+[Mission2.Objectives]
+Odeprzeć kontratak nieprzyjaciela.
+[Mission2.Description]
+Wojska niemieckie rozpoczęły kontratak. Musisz utrzymać zdobyte pozycje.
+Twoje rozkazy:
+-	Odeprzeć kontratak nieprzyjaciela.
+-	Utrzymać zdobyte pozycje.
+[Mission2.Success]
+Zadanie wykonane! Kontratak nieprzyjaciela został odparty.
+[Mission2.Failed]
+Twoje wojska zostały pokonane. Nie wykonałeś zadania!

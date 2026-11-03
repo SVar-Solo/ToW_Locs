@@ -1,0 +1,96 @@
+﻿[Mission.Objectives]
+Liberate l'abitato. Tenetelo fino all'arrivo dei rinforzi.
+
+[Mission.Description]
+Con il gruppo di sabotaggio e ricognizione che vi è stato assegnato, liberate l'abitato dalle truppe tedesche e tenetelo fino all'arrivo dei rinforzi.
+
+[Mission.Success]
+Avete portato a termine con successo il compito. Il comando vi ringrazia per il vostro servizio.
+
+[Mission.Failed]
+
+[SubMission_01.Objectives]
+Prestate ai nostri carristi tutta l'assistenza possibile. Selezionate l'intero gruppo di paracadutisti e mandatelo al punto vicino al fumo di segnalazione rosso.
+
+[SubMission_01.Description]
+Un carro armato della brigata corazzata è stato distrutto sotto i nostri occhi; sembra che i carristi siano riusciti ad abbandonare il mezzo in fiamme. Ispeziona le macerie vicino al carro; forse alcuni carristi sono ancora vivi. Prestate soccorso ai carristi feriti.
+
+[SubMission_01.Success]
+Compito completato. I carristi si sono uniti al nostro gruppo.
+
+[SubMission_01.Failed]
+
+[SubMission_02.Objectives]
+Catturate il carro armato. Usate i comandi d'attacco mentre vi spostate verso la posizione del carro, evidenziata da fumo di segnalazione rosso. Concentrate il fuoco della squadra sui soldati nemici.
+
+[SubMission_02.Description]
+Secondo i dati della ricognizione, i tedeschi nascondono in quest'area un nostro carro armato. Non si sa come sia finito in mano loro. Con l'aiuto dei carristi che si sono uniti al gruppo, catturate il carro.
+
+[SubMission_02.Success]
+Compito completato. Il carro armato è di nuovo nelle nostre mani.
+
+[SubMission_02.Failed]
+
+[SubMission_03.Objectives]
+Sopprimete il fuoco dell'artiglieria nemica. Usate granate antiuomo o proiettili HE: elimineranno soltanto i serventi dei pezzi.
+
+[SubMission_03.Description]
+Sopprimete il fuoco dell'artiglieria nemica. Cercate di catturare i pezzi nemici: ci serviranno per organizzare la difesa dell'abitato; a tal fine è consigliabile usare proiettili HE o granate antiuomo.
+
+[SubMission_03.Success]
+Compito completato. L'artiglieria nemica ha cessato di esistere.
+
+[SubMission_03.Failed]
+
+[SubMission_04.Objectives]
+Respingete gli attacchi nemici. Concentrate il fuoco di tutti i pezzi sul fianco sinistro. Sulla destra sono stati individuati campi minati, che ci aiuteranno a distruggere il nemico sul fianco destro. Non permettete al carro armato di entrare nei campi minati.
+
+[SubMission_04.Description]
+Il nemico sta cercando di riconquistare l'abitato. Schiera tutti i pezzi nella sua direzione e resistete finché non arrivano le nostre truppe.
+
+[SubMission_04.Success]
+Ce l'abbiamo fatta! Urrà!
+
+[SubMission_04.Failed]
+
+[StringTable.avia_report]
+Il supporto aereo è disponibile. Indicate un punto del terreno verso cui dirigere il supporto aereo. I bombardieri in picchiata, come gli aerei d'attacco, attaccano il nemico in modo autonomo, ma lo fanno da una picchiata ripida.
+
+[StringTable.msg_01_01]
+Comandi una squadra di ricognitori. È un reparto ben addestrato; i suoi soldati hanno un mimetismo che aumenta la loro furtività, anche con il parametro "Esplorazione" a zero. Sono armati di mitra, estremamente efficaci a breve distanza, intorno ai 100 metri.
+
+[StringTable.msg_01_02]
+I carristi non hanno il mimetismo, ma sono in grado di manovrare i mezzi. Proteggi le persone con elevate abilità di "Guida" o di "Cannoniere", e quelle con gradi elevati: aumentano il morale dei soldati vicini.
+
+[StringTable.msg_01_03]
+Questo terreno è coperto da erba alta, che a una certa distanza può nascondere completamente le vostre squadre. L'altezza dell'erba influisce direttamente sull'interruzione della linea di vista. Scegliete la modalità di movimento strisciando {hkey:setbodymodelay} per garantire ai soldati di restare nascosti nell'erba.
+
+[StringTable.msg_02_01]
+Siete attaccati dalla fanteria nemica. Nella maggior parte delle situazioni basta lasciare che i vostri soldati sparino in autonomia. Controllate i settori di tiro dei vostri soldati, in modo che non si intralcino a vicenda e che il nemico rientri nel loro campo visivo.
+
+[StringTable.msg_02_02]
+Per avanzare in modo più efficace, lasciate sul posto alcuni soldati a coprire quelli che cambiano posizione. È consigliabile spostarsi tra cespugli e coperture a brevi scatti {hkey:setbodymodeknee}, senza restare troppo a lungo in terreno aperto.
+
+[StringTable.msg_02_03]
+Sotto la vostra forte pressione, la fanteria nemica può arrendersi; in tal caso l'icona sopra questi nemici sarà grigia.
+
+[StringTable.msg_02_04]
+Se l'icona sopra un veicolo è grigia, quell'oggetto può essere catturato. Tenete presente che per manovrare un carro armato o un pezzo servono le abilità adeguate. Per usare l'equipaggiamento catturato, le abilità devono superare una certa soglia. Potete scoprire se l'equipaggiamento è considerato catturato dalla bandierina sullo sfondo della sua icona nel suggerimento. Se catturate un equipaggiamento di questo tipo e lo porti con te alla missione successiva della campagna, non sarà più considerato catturato.
+
+[StringTable.msg_02_05]
+Per catturare un carro armato, selezionate i carristi e fate clic con il tasto destro su di esso.
+
+[StringTable.msg_03_01]
+Usate per il carro armato il comando fuoco d'area {hkey:groundattack}, facendo clic con il tasto destro sul terreno, vicino al nemico o direttamente sul nemico.
+
+[StringTable.msg_03_02]
+Avvicinatevi all'artiglieria da dietro, dove è più vulnerabile. Usate granate HE.
+
+[StringTable.msg_04_01]
+Per ruotare il pezzo è necessario che i suoi serventi siano almeno 2 soldati. Selezionate il pezzo e fate clic con il tasto destro sul punto nella direzione in cui volete ruotarlo; tenete premuto il tasto del mouse finché il cursore non cambia.
+
+[StringTable.msg_04_02]
+Il corredo di munizioni del carro armato T-34 contiene 2 tipi di proiettili perforanti:
+APHEBC - proiettile con cappuccio, esplode dopo aver superato l'ostacolo corazzato. Ha una piccola carica esplosiva, sufficiente a colpire i membri dell'equipaggio vicini al punto di detonazione.
+APBC - proiettile pieno, privo di carica HE, ma con maggiori probabilità di colpire i moduli interni.
+Inoltre, entrambi i tipi di proiettile possono causare la formazione di schegge secondarie, colpendo l'equipaggio e i componenti interni.

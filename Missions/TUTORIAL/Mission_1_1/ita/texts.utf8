@@ -1,0 +1,121 @@
+﻿[StringTable.1]
+Controllo della camera:
+Usate {hkey:cameramoveforward}, {hkey:cameramovebackward}, {hkey:cameramoveleft}, {hkey:cameramoveright} per spostare la camera. La rotazione si attiva premendo la rotellina del mouse. In modalità libera la camera ruota attorno al proprio asse, mentre girando la rotellina si regola l'altezza verticale della camera. In modalità centrata la camera ruota attorno a un punto del terreno davanti ad essa, e girando la rotellina la camera si avvicina o si allontana da quel punto. Potete cambiare rapidamente modalità con {hkey:cameratypeswitch}. Tenendo premuto CTRL e girando la rotellina si modifica il campo visivo della camera. Tenendo premuto MAIUSC la camera si muove più velocemente.
+
+[StringTable.1.1]
+Portate la squadra dietro i sacchi di sabbia.
+Il tasto sinistro del mouse serve a selezionare le truppe e a scegliere i comandi sul pannello di controllo; il tasto destro serve a impartire gli ordini. A seconda dell'oggetto su cui fate clic con il tasto destro, le truppe eseguiranno un'azione o un'altra.
+
+[StringTable.1.2]
+Selezionate l'intera squadra tenendo premuto il tasto sinistro del mouse e trascinando in modo che tutti i soldati rientrino nel riquadro che appare, quindi rilasciate il tasto. Potete anche selezionare una squadra facendo doppio clic su uno qualsiasi dei suoi membri (oppure tenendo premuto il tasto ALT). Poi indicate il punto di destinazione facendo clic con il tasto destro.
+Per portare l'intera squadra al riparo dei sacchi, dovete indicare il punto di destinazione per ogni soldato singolarmente oppure usare la formazione "libera".
+[StringTable.2]
+Occupate la postazione di mitragliatrice:
+Selezionate uno o due soldati della squadra facendo clic su di loro con il tasto sinistro (tieni premuto MAIUSC per selezionarne più di uno). Poi posizionate il cursore sulla mitragliatrice pesante (il cursore cambierà per indicare l'imbarco) e fate clic con il tasto destro. I soldati selezionati saliranno sulla mitragliatrice pesante e prenderanno posizione automaticamente.
+[StringTable.3]
+Eliminate la squadra nemica:
+Quando i vostri soldati vedono i soldati nemici, aprono il fuoco di propria iniziativa. Potete anche assegnare ordini di fuoco specifici a ogni soldato singolarmente (posiziona il cursore sul bersaglio e fate clic con il tasto destro).
+[StringTable.4]
+Usate il cecchino per eliminare i serventi del pezzo.
+Per ordinare al cecchino di attaccare un servente, posizionate il cursore su uno di loro e fate clic con il tasto destro. Per non sbagliare bersaglio, controllate il pannello ausiliario a comparsa che mostra le caratteristiche dei soldati e dei mezzi sotto il cursore. Potete anche usare i comandi "Attacca" {hkey:attack} e "Fuoco d'area" {hkey:groundattack}, puntando il cursore su un punto preciso (per esempio la testa di un servente: verrà mostrato un apposito indicatore di bersaglio).
+Se il cecchino non riesce a colpire i serventi, provate ad avvicinarti da un altro lato.
+[StringTable.5]
+Catturate il pezzo:
+Selezionate i soldati, poi posizionate il cursore sul pezzo (il cursore diventerà un'icona di “imbarco”) e fate clic con il tasto destro. I vostri soldati correranno verso il pezzo per catturarlo.
+[StringTable.6]
+Agganciate il pezzo al camion e portatelo a sud-ovest, verso il pagliaio.
+Selezionate il veicolo, poi fate clic sul pulsante "Aggancia" con l'icona del gancio nell'angolo destro del menu di gioco ({hkey:attachdetach}), quindi posizionate il cursore sul pezzo e fate clic con il tasto destro. Il veicolo si avvicinerà al pezzo e i soldati lo aggancieranno al veicolo.
+Il veicolo si avvicinerà e i soldati aggancieranno il pezzo al veicolo. Fate salire i serventi nell'automezzo (l'imbarco dei soldati avviene come per l'equipaggio della mitragliatrice pesante).
+Poi selezionate il veicolo e fate clic con il tasto destro sul punto di arrivo per muoverlo.
+
+[StringTable.7]
+Distruggete uno dei carri armati nemici.
+Quando i vostri soldati vedono i carri armati nemici, aprono il fuoco di propria iniziativa con il pezzo. Potete anche assegnare un bersaglio e scegliere la direzione di tiro.
+Potete cambiare la modalità di tiro su parti specifiche del carro: torretta {hkey:attackup}, parte centrale {hkey:attackmedium} o cingoli {hkey:attackdown}.
+[StringTable.8]
+Catturate il carro armato.
+Catturare un carro armato è simile a far salire i soldati su un veicolo.
+Selezionate la squadra, poi posizionate il cursore sul carro armato (si accenderà un'icona che indica l'interazione dei soldati con questo tipo di mezzo) e fate clic con il tasto destro. I vostri soldati correranno a prendere posto nel carro.
+
+[StringTable.9]
+Richiedete un attacco di artiglieria sulla posizione nemica:
+L'icona del supporto di artiglieria compare sopra il pannello di gioco inferiore.
+Fate clic sull'icona, poi fate clic con il tasto destro per indicare il bersaglio desiderato.
+Potete anche definire l'area di tiro tenendo premuto il tasto destro del mouse.
+[StringTable.10]
+Richiedete supporto aereo nell'area indicata.
+Sopra il pannello inferiore dell'interfaccia comparirà un'icona del supporto aereo.
+Fate clic sull'icona del supporto aereo e indicate la posizione del bersaglio.
+Esistono 5 tipi di aviazione:
+- ricognitori: effettuano la ricognizione attorno a un punto per un tempo limitato;
+- bombardieri: sganciano bombe sul punto indicato e tornano alla base;
+- caccia: pattugliano il cielo attorno al punto indicato, attaccando gli aerei nemici ed effettuando un attacco ai bersagli a terra prima di rientrare alla base;
+- aerei d'attacco: attaccano i bersagli a terra più vicini al punto indicato, oppure cercano i bersagli in autonomia;
+- bombardieri in picchiata: attaccano i bersagli con bombe da una picchiata ripida, poi attaccano come i normali aerei d'attacco.
+
+[StringTable.11]
+Usate il carro armato catturato per distruggere il mezzo corazzato nemico e la squadra di fanteria nemica.
+Con il pulsante "Modalità di fuoco" {hkey:firemode} potete vietare o consentire al carro di aprire il fuoco senza ordini.
+
+[StringTable.Pause]
+Per uscire dalla pausa, premete il tasto "{hkey:pause}".
+
+[StringTable.Pos]
+State andando nella direzione sbagliata.
+
+[Submission.Objectives]
+Completate l'addestramento di base!
+[Submission.Description]
+Soldato! Siete entrati nei ranghi dell'Armata Rossa! Prima di partire per il fronte dovete completare l'addestramento di base. Dovete portare a termine i seguenti compiti assegnati dal comandante:
+
+- Portate la squadra dietro i sacchi di sabbia e usate i vostri soldati per catturare la mitragliatrice.
+- Usate la squadra di cecchini per eliminare i serventi del pezzo, poi catturate il pezzo.
+- Distruggete un carro armato nemico.
+- Imparate a usare le granate.
+[Submission.Success]
+Avete completato l'addestramento di base!
+[Submission.Failed]
+Purtroppo non avete superato l'addestramento di base!
+[StringTable.Fail]
+Non avete superato l'addestramento di base. Riavviate la missione di addestramento.
+[StringTable.Sniper]
+Confrontate le abilità dei due cecchini. Un cecchino ha valutazioni elevate in ‘Tiro’ e ‘Esplorazione’; l'altro ha valutazioni ‘basse’ in entrambe le discipline. Più alte sono le valutazioni, più il soldato è esperto.
+L'abilità ‘Tiro’ indica quanto è preciso il soldato con le armi leggere. L'abilità ‘Esplorazione’ indica quanto il soldato è abile a individuare i nemici a distanza e, allo stesso tempo, quanto è difficile per il nemico individuare lui.
+Dopo ogni missione completata potete aumentare l'esperienza dei vostri soldati, migliorandone così le abilità nel corso della campagna.
+[StringTable.Mine]
+I soldati nemici sono finiti in un campo minato!
+Esistono diversi tipi di campi minati, con mine anticarro o antiuomo.
+[StringTable.Win]
+Compito completato!
+[StringTable.Car]
+Per sganciare il pezzo dal veicolo, selezionate il veicolo a cui è agganciato e premete il pulsante "Sgancia" {hkey:attachdetach}: il pezzo si staccherà dal veicolo. Poi fate scendere i soldati dal veicolo (seleziona il veicolo e premete il pulsante "Scendi" {hkey:evacuate}). Per far prendere posto ai soldati al pezzo, selezionateli e fate clic con il tasto destro sul pezzo.
+
+[StringTable.33]
+Per il nemico è molto più difficile colpire i soldati distesi a terra. Per ordinare ai soldati di sdraiarsi, premete il pulsante "Striscia" {hkey:setbodymodelay}.
+Per impedire ai soldati di muoversi di propria iniziativa, cambiate la modalità di comportamento con il pulsante "Limita/consenti movimento libero" {hkey:actionmode}.
+[StringTable.Pani]
+L'equipaggio del carro armato nemico è in preda al panico (morale basso) e abbandonate il mezzo!
+
+[StringTable.SM7_GrenadeTraining_HE]
+Usate le granate a mano per eliminare l'equipaggio del mezzo corazzato.
+Ora avete sotto il vostro controllo 2 soldati con granate antiuomo a mano. Queste granate non possono danneggiare seriamente i mezzi corazzati, ma sono efficaci contro equipaggi scoperti, serventi di pezzi, fanteria e automezzi.
+Gli ostacoli attenuano l'onda d'urto e fermano le schegge, quindi la granata va lanciata al centro del veicolo. Avvicinate il soldato, attivate il comando "Fuoco d'area" {hkey:groundattack} o "Attacca" {hkey:attack} e fate clic con il tasto destro al centro del mezzo corazzato — verrà mostrato un mirino giallo o rosso e il soldato lancerà una granata in quel punto.
+
+[StringTable.SM7_GrenadeTraining_HE_end]
+L'equipaggio del mezzo corazzato è stato eliminato.
+
+[StringTable.SM7_GrenadeTraining_AT]
+Usate le granate anticarro per eliminare il carro armato nemico.
+Ora avete a disposizione 2 soldati con granate anticarro a mano RPG-40. Queste granate detonano all'impatto con un ostacolo e perforano la corazza con l'onda d'urto; l'effetto a frammentazione è debole. Una granata del genere contiene una quantità di esplosivo notevole, sufficiente a danneggiare il tetto o la parte posteriore di molti carri armati, ma non di tutti.
+Avvicinate il soldato al carro armato dal retro, attivate il comando "Fuoco d'area" {hkey:groundattack} o "Attacca" {hkey:attack} e fate clic con il tasto destro nell'area dietro la torretta — è il punto più vulnerabile del carro.
+
+[StringTable.SM7_GrenadeTraining_AT_end]
+Il carro armato è stato eliminato.
+
+[StringTable.SM7_GrenadeTraining_HEAT]
+Usate le granate a mano HEAT per eliminare il carro armato nemico.
+Ora avete a disposizione 2 soldati con granate a mano HEAT RPG-43. Anche queste granate detonano all'impatto con un ostacolo, ma perforano la corazza con un getto cumulativo, che ha una capacità di penetrazione molto superiore a quella della granata RPG-40, ma un danno comparativamente minore.
+Attivate la "Modalità info danni" {hkey:SwitchDamageMessagesMode} per vedere i vettori di penetrazione e i messaggi a comparsa sui danni interni — vale per qualsiasi proiettile del gioco. Analogamente, avvicinate il soldato al carro dal retro, attivate il comando "Fuoco d'area" {hkey:groundattack} o "Attacca" {hkey:attack} e fate clic con il tasto destro nell'area dietro la torretta — c'è un'alta probabilità di incendiare il carro colpendo il motore o il serbatoio.
+
+[StringTable.SM7_GrenadeTraining_HEAT_end]
+Il carro armato è stato eliminato.

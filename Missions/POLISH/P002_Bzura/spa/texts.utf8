@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Destruya la batería de artillería alemana que hay en los altos. Rechace todos los ataques del enemigo.
+[Mission.Description]
+Los alemanes han situado una batería de artillería en los altos para proteger los caminos que llevan a Varsovia. Intentan evitar que nuestras fuerzas protejan la capital. El mando alemán no se espera que ataquemos el flanco del 8o. ejército que avanza, así pues podríamos aprovechar la oportunidad para asestarles un golpe fatal.
+
+Sus órdenes son:
+-	Destruya la batería de artillería alemana.
+-	Defiéndase de los ataques del enemigo.
+[Mission.Success]
+¡Misión cumplida!
+[Mission.Failed]
+¡Ha fracasado!
+[Submission_1.Objectives]
+Destruya la batería de artillería alemana.
+[Submission_1.Description]
+Una batería de cañones se ha posicionado en los altos. El fuego de esa pieza evita que nuestras tropas sigan avanzando.
+
+Órdenes:	
+-	Destruya la batería de cañones enemiga y tome los altos.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+¡Ha fracasado en su misión!
+[Submission_2.Objectives]
+Hemos avistado infantería y tanques alemanes. ¡Atáquelos en seguida!
+[Submission_2.Description]
+Nuestros exploradores han localizado tanques alemanes acompañados de infantería. Si queremos seguir avanzando, primero debe eliminarlos.
+
+Órdenes:
+-	Detenga esta nueva ofensiva enemiga, tome posiciones defensivas y elimine al enemigo.
+[Submission_2.Success]
+Ha rechazado el ataque.
+[Submission_2.Failed]
+Ha fracasado en su misión.
+[Submission_3.Objectives]
+Tome posiciones defensivas en los altos y rechace los contraataques alemanes.
+[Submission_3.Description]
+La batería de artillería alemana ha sido neutralizada, pero el enemigo ya está preparando un contraataque para recuperar las posiciones que ha perdido.
+
+Sus órdenes:
+-	Tome posiciones defensivas en los altos y rechace los todos los contraataques del enemigo.
+[Submission_3.Success]
+El contraataque enemigo ha fracasado. ¡Felicidades!
+[Submission_3.Failed]
+Hemos sufrido graves pérdidas. ¡Nos han vencido!
+[StringTable.reserv]
+¡Llegan refuerzos al combate!

@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+쇠 마을까지 진격하여 점령하라.
+[Mission.Description]
+적은 우리의 공격을 예상하지 못할 것이며, 쇠의 수비대는 소규모이다.
+[Submission_1.Objectives]
+반격을 격퇴하라.
+[Submission_1.Description]
+적이 수비대를 지원하기 위해 예비대를 끌어들이려 하고 있다.
+[NewSubmission.Success]
+반격을 격퇴했다.
+[NewSubmission.Failed]
+적이 돌파했다.
+[Submission_01.Success]
+쇠를 점령했다.
+[Submission_01.Failed]
+쇠 점령에 실패했다.
+[Mission.Success]
+마을을 점령했다. 지역을 확보했다.
+[Mission.Failed]
+적의 방어가 예상보다 강력했다.
+[Submission_1.Success]
+공격을 격퇴했다.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[StringTable.Tanks]
+예비 병력 가용

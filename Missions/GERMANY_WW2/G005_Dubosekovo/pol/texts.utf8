@@ -1,0 +1,44 @@
+﻿[Mission1.Objectives]
+Zdobyć stację kolejową Dubosekowo.
+[Mission1.Description]
+Zwiad lotniczy informuje, że Rosjanie dobrze umocnili swoje pozycje w rejonie stacji Dubosekowo, szykując się na odparcie naszych ataków. Jak dotąd Rosjanie bronili się znacznie lepiej, niż się spodziewaliśmy, toteż ponieśliśmy większe straty, niż początkowo zakładano. Niemniej jednak dowództwo chce, byś zdobył  to strategiczne miejsce.
+Twoje rozkazy:
+-	Rozpocząć natarcie w kierunku stacji Dubosekowo. 
+-	Zlikwidować wojska rosyjskie zajmujące pozycje obronne we wskazanym rejonie.
+[Mission1.Success]
+Stacja kolejowa została zdobyta. Po naprawieniu torów będziemy mogli dostarczać zapasy i ciepłe mundury!
+[Mission1.Failed]
+Twoje natarcie nie powiodło się! Nie udało ci się zdobyć stacji kolejowej!
+[Mission2.Objectives]
+Utrzymać stację Dubosekowo i odeprzeć radziecki kontratak.
+[Mission2.Description]
+Grupa rosyjskich wojsk naciera w kierunku naszych nowych pozycji. Nie możemy stracić stacji, więc utrzymajcie ją za wszelką cenę.
+Twoje rozkazy: 
+-	Odeprzeć ataki wojsk radzieckich. 
+-	Uniemożliwić Rosjanom zdobycie stacji.
+[Mission2.Success]
+Atak nieprzyjaciela został odparty. Dobra robota. Jesteś doskonałym oficerem Rzeszy! 
+[Mission2.Failed]
+Zawiodłeś i Rosjanie odzyskali stację!
+[Submission1.Objectives]
+Ostrzelaj nieprzyjacielskie pozycje.
+[Submission1.Description]
+Zanim rozpoczniesz natarcie na nieprzyjacielską stację kolejową, ostrzelaj artylerią pozycje obronne wroga.
+Twoje rozkazy:
+-	Ostrzelać artylerią pozycje nieprzyjaciela.
+[Submission1.Success]
+Ostrzał zakończył się sukcesem. Rosjanie z pewnością uciekną, gdy zobaczą nasze pierwsze czołgi!
+[Submission1.Failed]
+Artyleria okazała się nieskuteczna!
+[Submission2.Objectives]
+Wezwij wsparcie lotnicze.
+[Submission2.Description]
+Nieprzyjacielską artylerię i piechotę możesz zniszczyć, wzywając lotnictwo.
+Twoje rozkazy:
+-	Wezwij wsparcie lotnicze.
+[Submission2.Success]
+Nasze samoloty zaatakowały nieprzyjacielskie pozycje.
+[Submission2.Failed]
+Nasze lotnictwo nie może zapewnić odpowiedniego wsparcia. 
+[StringTable.Reserv]
+Przybyły posiłki.

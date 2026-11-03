@@ -1,0 +1,43 @@
+﻿[Mission1.Objectives]
+Distruggi le divisioni corazzate nemiche che avanzano da ovest.
+[Mission1.Description]
+I fascisti hanno preso Lutsk. Il prossimo loro obiettivo è di superare la linea del fronte nei pressi di Rovno. Secondo i rapporti, le colonne dei carri armati tedeschi si stanno spostando da ovest verso Rovno. Le nostre truppe meccanizzate sono stata inviate per riempire la breccia nelle nostre linee.
+
+I tuoi ordini sono:
+- 	Distruggi i battaglioni corazzati nemici.
+[Mission1.Success]
+L'ordine del comandante è stato eseguito! I carri armati nemici provenienti da ovest sono stati eliminati. I tedeschi non sono riusciti a piegare il morale dei valorosi soldati russi!
+[Mission1.Failed]
+Malgrado le eroiche azioni dei tuoi soldati, le tue truppe sono state sconfitte! I tedeschi hanno superato questa parte della linea del fronte!
+[Mission1_1.Objectives]
+Distruggi i battaglioni corazzati nemici che arrivano da sud-ovest.
+[Mission1_1.Description]
+I tedeschi hanno preso Lutsk e il 13mo e il 14mo battaglione corazzato si stanno dirigendo verso Rovno per superare la linea del fronte e avvicinarsi a Kiev.
+I rapporti dicono che i battaglioni corazzati stanno arrivando da sud-ovest.
+
+I tuoi ordini sono:
+- 	Distruggi i battaglioni corazzati nemici.
+[Mission1_1.Success]
+L'ordine del comandante è stato eseguito! I carri armati nemici provenienti da sud-ovest sono stati eliminati. I tedeschi non sono riusciti a piegare il morale dei valorosi soldati russi!
+[Mission1_1.Failed]
+Malgrado le eroiche azioni dei tuoi soldati, le tue truppe sono state sconfitte! I tedeschi hanno superato questa parte della linea del fronte!
+[Submission1.Objectives]
+Ferma l'avanzata dei battaglioni corazzati nemici.
+[Submission1.Description]
+Nei primi giorni di guerra il nostro esercito ha subito gravi perdite. Ieri l'aggressore fascista ha preso Lutsk. La confusione e il panico regnano sul fronte. Ci sono poche notizie certe, ma i rapporti affermano che delle colonne corazzate tedesche stanno avanzando nella nostra direzione e questo significherebbe che il loro obiettivo è superare il fronte a Rovno. Il 19mo Corpo Meccanizzato è già impegnato in combattimento sul nostro fianco. Il tuo compito è di fermare l'avanzata nemica nell'area a ogni costo. Questo darà alle nostre truppe la possibilità di riorganizzarsi e forse anche di passare al contrattacco.
+
+I tuoi ordini sono:
+- 	Ferma l'avanzata del 13mo e 14mo battaglione corazzato nemico nelle zone indicate, usando le forze del 20mo, 40mo, 43mo and 35mo battaglione corazzato del 9no e 19mo Corpo Meccanizzato.
+
+[Submission1.Success]
+L'ordine del comandante è stato eseguito! L'avanzata delle truppe corazzate tedesche in quest'area è stata fermata!
+[Submission1.Failed]
+Malgrado le eroiche azioni dei tuoi soldati, le tue truppe sono state sconfitte! I tedeschi hanno superato questa parte della linea del fronte!
+[StringTable.Reserv]
+Sono arrivati dei rinforzi.
+[StringTable.Subtitle_01]
+Russia. Giugno 1941
+[StringTable.Ger]
+L'esercito tedesco ha lanciato l'Operazione Barbarossa e superato la frontiera russa.
+[StringTable.Rus]
+L'Armata Rossa ha lanciato una contro-offensiva nella speranza di fermare o di rallentare i tedeschi.

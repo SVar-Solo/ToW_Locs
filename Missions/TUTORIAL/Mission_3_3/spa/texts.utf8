@@ -1,0 +1,96 @@
+﻿[Mission.Objectives]
+Libere el poblado. Manténgalo hasta que lleguen los refuerzos.
+
+[Mission.Description]
+Con el grupo de sabotaje y reconocimiento que se le ha asignado, libere el poblado de las tropas alemanas y manténgalo hasta que lleguen los refuerzos.
+
+[Mission.Success]
+Ha cumplido con éxito la tarea. El mando le agradece sus servicios.
+
+[Mission.Failed]
+
+[SubMission_01.Objectives]
+Preste toda la ayuda posible a nuestros tanquistas. Seleccione a todo el grupo de paracaidistas y envíelo al punto cercano al humo de señalización rojo.
+
+[SubMission_01.Description]
+Un tanque de la brigada de tanques fue destruido ante nuestros ojos; parece que los tanquistas lograron abandonar el vehículo en llamas. Inspeccione los restos junto al tanque; quizá algunos de los tanquistas sigan con vida. Preste ayuda a los tanquistas heridos.
+
+[SubMission_01.Success]
+Tarea completada. Los tanquistas se han unido a nuestro grupo.
+
+[SubMission_01.Failed]
+
+[SubMission_02.Objectives]
+Capture el tanque. Use órdenes de ataque al desplazarse hasta la ubicación del tanque, resaltada con humo de señalización rojo. Concentre el fuego del pelotón en los soldados enemigos.
+
+[SubMission_02.Description]
+Según los datos de reconocimiento, los alemanes esconden nuestro tanque en esta zona. Se desconoce cómo llegó a sus manos. Con ayuda de los tanquistas que se han unido al grupo, capture el tanque.
+
+[SubMission_02.Success]
+Tarea completada. El tanque vuelve a estar en nuestras manos.
+
+[SubMission_02.Failed]
+
+[SubMission_03.Objectives]
+Suprima el fuego de la artillería enemiga. Use granadas antipersona o proyectiles HE; solo destruirán a las dotaciones de los cañones.
+
+[SubMission_03.Description]
+Suprima el fuego de la artillería enemiga. Intente capturar los cañones enemigos; los necesitaremos para organizar la defensa del poblado; para ello conviene usar proyectiles HE o granadas antipersona.
+
+[SubMission_03.Success]
+Tarea completada. La artillería enemiga ha dejado de existir.
+
+[SubMission_03.Failed]
+
+[SubMission_04.Objectives]
+Rechace los ataques enemigos. Concentre el fuego de todos los cañones en el flanco izquierdo. A la derecha se han detectado campos minados, que nos ayudarán a destruir al enemigo en el flanco derecho. No permita que el tanque se desplace hacia los campos minados.
+
+[SubMission_04.Description]
+El enemigo intenta recuperar el poblado. Despliegue todos los cañones en su dirección y resista hasta que lleguen nuestras tropas.
+
+[SubMission_04.Success]
+¡Lo logramos! ¡Hurra!
+
+[SubMission_04.Failed]
+
+[StringTable.avia_report]
+Dispone de apoyo aéreo. Indique un punto del terreno hacia el que debe dirigirse el apoyo aéreo. Los bombarderos en picado, como los aviones de ataque, atacan al enemigo por su cuenta, pero lo hacen desde un picado pronunciado.
+
+[StringTable.msg_01_01]
+Usted manda un pelotón de reconocimiento. Es un destacamento bien entrenado; sus soldados llevan camuflaje que aumenta su sigilo, incluso con un parámetro de "Exploración" igual a cero. Van armados con subfusiles, extremadamente eficaces a distancias cortas de unos 100 metros.
+
+[StringTable.msg_01_02]
+Los tanquistas no tienen camuflaje, pero son capaces de manejar vehículos. Proteja a las personas con habilidades altas de "Conducción" o "Artillero", así como a las de rango alto: aumentan la moral de los soldados cercanos.
+
+[StringTable.msg_01_03]
+Este terreno está cubierto de hierba alta, que puede ocultar por completo a sus pelotones a cierta distancia. La altura de la hierba afecta directamente al corte de la línea de visión. Elija el modo de movimiento tumbado {hkey:setbodymodelay} para garantizar que los soldados queden ocultos en la hierba.
+
+[StringTable.msg_02_01]
+Está siendo atacado por infantería enemiga. En la mayoría de las situaciones basta con dejar que sus soldados disparen por su cuenta. Vigile los sectores de tiro de sus soldados para que no se estorben entre sí y para que el enemigo esté en su campo de visión.
+
+[StringTable.msg_02_02]
+Para avanzar con mayor eficacia, deje a algunos soldados en su sitio para cubrir a los que cambian de posición. Conviene desplazarse entre arbustos y coberturas en carreras cortas {hkey:setbodymodeknee}, sin permanecer demasiado tiempo en terreno abierto.
+
+[StringTable.msg_02_03]
+Con su fuerte presión, la infantería enemiga puede rendirse; entonces el icono sobre esos enemigos será gris.
+
+[StringTable.msg_02_04]
+Si el icono sobre un vehículo es gris, este objeto puede ser capturado. Tenga en cuenta que manejar un tanque o un cañón requiere las habilidades adecuadas. Para manejar equipo capturado, las habilidades deben superar cierto umbral. Puede saber si el equipo se considera capturado por la bandera en el fondo de su icono en la información emergente. Si captura ese equipo y se desplaza con él a la siguiente misión de la campaña, ya no se considerará capturado.
+
+[StringTable.msg_02_05]
+Para capturar un tanque, seleccione a los tanquistas y haga clic con el botón derecho sobre él.
+
+[StringTable.msg_03_01]
+Use la orden para el tanque, fuego de área {hkey:groundattack}, haciendo clic con el botón derecho en el terreno, cerca del enemigo o directamente sobre él.
+
+[StringTable.msg_03_02]
+Acérquese a la artillería por la retaguardia, donde es más vulnerable. Use granadas HE.
+
+[StringTable.msg_04_01]
+Para girar el cañón es necesario que su dotación tenga al menos 2 soldados. Seleccione el cañón y haga clic con el botón derecho en el punto de la dirección hacia la que quiere girarlo; mantenga pulsado el botón del ratón hasta que cambie el cursor.
+
+[StringTable.msg_04_02]
+La dotación de munición del tanque T-34 contiene 2 tipos de proyectiles perforantes:
+APHEBC: proyectil con capuchón, explota tras superar un obstáculo blindado. Tiene una pequeña carga explosiva, suficiente para alcanzar a los tripulantes cercanos al punto de detonación.
+APBC: proyectil macizo, no tiene carga HE, pero tiene mayor probabilidad de alcanzar módulos internos.
+Además, ambos tipos de proyectiles pueden provocar la formación de fragmentos secundarios que alcanzan a la dotación y a los componentes internos.

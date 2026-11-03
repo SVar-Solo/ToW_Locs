@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Repila as tropas alemãs que vêm do Oeste.
+[Mission1.Description]
+A 3ª Divisão de Tanques inimiga está se movendo do Oeste de Chern para esmagar nossas tropas neste setor e se aproximar de Tula. O inimigo tem grande superioridade numérica.
+
+Suas ordens:
+-	 Detenha a 3ª Divisão de Tanques inimiga
+[Mission1.Success]
+O ataque das tropas inimigas foi repelido! Os alemães não conseguiram romper.
+[Mission1.Failed]
+O inimigo conseguiu romper a defesa e chegar à estação! Mais um passo atrás em direção a Moscou...
+[Mission1_1.Objectives]
+Repila o ataque inimigo vindo do Sul.
+[Mission1_1.Description]
+As tropas alemãs romperam a linha de frente ao sul de Chern e agora avançam rapidamente em nossa direção. Elas pretendem cercar nossas tropas e se juntar à 3ª Divisão de Tanques em seu avanço sobre Tula.
+
+Suas ordens:
+- 	Detenha o assalto inimigo vindo do Sul.
+[Mission1_1.Success]
+O ataque inimigo foi repelido com sucesso!
+[Mission1_1.Failed]
+O inimigo rompeu até a estação! Você fracassou na operação.
+[Submission1.Objectives]
+Mantenha e defenda a estação de Chern.
+[Submission1.Description]
+As tropas alemãs continuam a atacar nossas posições em torno da estação de Chern. Somos tudo o que se interpõe entre elas e Tula, e elas devem ser detidas.
+
+Suas ordens:
+- 	Mantenha as defesas em torno da estação de Chern
+- 	Impeça as tropas inimigas de romper até Tula.
+[Submission1.Success]
+O inimigo foi destruído! As ordens do comandante foram cumpridas!
+[Submission1.Failed]
+O inimigo rompeu suas defesas e a estrada para Tula está aberta!
+[StringTable.Reserv]
+Os reforços chegaram.

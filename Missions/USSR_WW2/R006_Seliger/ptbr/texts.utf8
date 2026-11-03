@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+Ataque a coluna blindada inimiga.
+[Submission1.Description]
+Mal nossas unidades haviam montado as defesas em torno da aldeia, uma coluna blindada alemã foi avistada movendo-se em sua direção por uma estrada rural. Você deve repelir essa ameaça!
+
+Suas ordens:
+- 	Consolide-se em torno do povoado e ataque a coluna inimiga.
+[Submission1.Success]
+Sua ordem foi cumprida!
+[Submission1.Failed]
+Ordens não cumpridas! A coluna alemã não foi destruída.
+[Submission2.Objectives]
+Ataque os alemães que avançam pelos flancos.
+[Submission2.Description]
+Segundo os relatórios de nosso reconhecimento aéreo, o inimigo posicionou tropas não muito longe do povoado e elas estão se movendo em sua direção. Os alemães certamente se preparam para um assalto, e por isso temos de frustrar seus planos.
+
+A ordem é:
+- 	Ataque o grupo de assalto inimigo e impeça-o de cercar suas tropas.
+[Submission2.Success]
+A ordem foi cumprida! Os alemães não conseguiram cercar nossas tropas!
+[Submission2.Failed]
+A ordem não foi executada! Suas tropas foram cercadas.
+[Mission1.Objectives]
+Mantenha as defesas em torno do povoado.
+[Mission1.Description]
+O QG vem recebendo relatórios que indicam claramente que o inimigo planeja um novo avanço em nosso setor.
+
+Suas ordens:
+- 	Mantenha as defesas em torno do povoado.
+[Mission1.Success]
+A ordem foi cumprida! Graças às suas ações decisivas, os alemães não conseguiram romper nossas defesas nesta parte da linha de frente!
+[Mission1.Failed]
+Você fracassou na tarefa. Os alemães conseguiram romper as defesas nesta parte da linha!
+[Submission3.Objectives]
+Resista ao ataque alemão.
+[Submission3.Description]
+Depois que a coluna blindada alemã foi atacada, eles empregaram forças adicionais para tomar a cidade. Prepare-se para outro ataque, comandante.
+
+Suas ordens:
+- 	Detenha o assalto das tropas fascistas.
+[Submission3.Success]
+Você executou muito bem a ordem do comandante e defendeu o povoado!
+[Submission3.Failed]
+A tarefa fracassou: o inimigo ocupou o povoado.
+[Submission4.Objectives]
+Ataque o grupo inimigo à nossa retaguarda.
+[Submission4.Description]
+Uma coluna blindada inimiga chegou à nossa retaguarda; ela deve ser neutralizada antes que cerque a nossa posição.
+
+Suas ordens:
+- 	Ataque a unidade inimiga à nossa retaguarda..
+[Submission4.Success]
+A ordem foi executada e os alemães foram postos em fuga!
+[Submission4.Failed]
+Você fracassou em suas ordens e os alemães conquistaram mais uma vitória.
+[StringTable.Reserv]
+Você recebeu reforços

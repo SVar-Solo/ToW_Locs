@@ -1,0 +1,116 @@
+﻿[Mission.Objectives]
+No permita que el enemigo irrumpa en el poblado.
+
+[Mission.Description]
+Con el pelotón de zapadores de combate que se le ha asignado, dé cobertura a nuestras tropas. No deje que las tropas enemigas lleguen a la base de transporte estadounidense.
+
+[Mission.Success]
+Ha cumplido con éxito la tarea. El mando le agradece sus servicios.
+
+[Mission.Failed]
+Ha fracasado en la tarea.
+
+[SubMission_01.Objectives]
+Mientras espera el helicóptero, coloque al pelotón de zapadores de combate en la tienda junto a la plataforma de aterrizaje. Dispone de cuatro minutos para completar la tarea. El tiempo empieza ahora.
+
+[SubMission_01.Description]
+Necesitamos usar un helicóptero de transporte para llevar al pelotón de zapadores de combate hasta el poblado. Para ello, espere su llegada en la tienda más cercana a la plataforma de aterrizaje.
+
+[SubMission_01.Success]
+Tarea completada.
+
+[SubMission_01.Failed]
+Tarea fallida.
+
+[SubMission_02.Objectives]
+Use el helicóptero para trasladar al pelotón de zapadores de combate hasta el poblado. Dispone de seis minutos para completar la tarea. El tiempo empieza ahora.
+
+[SubMission_02.Description]
+Un helicóptero de transporte del Ejército de EE. UU. es capaz de trasladar a un pelotón de infantería por encima de las montañas. Úselo para trasladar rápidamente a su pelotón de zapadores de combate hasta el poblado atacado por el ejército enemigo.
+
+[SubMission_02.Success]
+Tarea completada.
+
+[SubMission_02.Failed]
+Tarea fallida.
+
+[SubMission_03.Objectives]
+Mine el puente con minas antitanque. Dispone de seis minutos para completar la tarea. El tiempo empieza ahora.
+
+[SubMission_03.Description]
+Unidades enemigas se encuentran en los accesos al poblado; las tropas aliadas apenas contienen el embate. Es necesario minar el puente con minas antitanque para que los tanques enemigos caigan en la trampa.
+
+[SubMission_03.Success]
+Tarea completada.
+
+[SubMission_03.Failed]
+Tarea fallida.
+
+[SubMission_04.Objectives]
+Destruya a las unidades enemigas.
+
+[SubMission_04.Description]
+Use todos los medios disponibles para destruir al ejército enemigo. Aproveche la ventaja táctica de las fuerzas aliadas, así como el tanque más moderno del Ejército de EE. UU.
+
+[SubMission_04.Success]
+Tarea completada.
+
+[SubMission_04.Failed]
+Tarea fallida.
+
+[StringTable.avia_report]
+Dispone de apoyo aéreo. Indique un punto del terreno hacia el que debe dirigirse el apoyo aéreo. Los aviones de ataque atacan al enemigo por su cuenta.
+
+[StringTable.msg_01_01]
+Bajo su mando hay un pelotón de zapadores de combate.
+Cuando el "modo clásico de selección de unidades" está activado en los ajustes, puede seleccionar todo el pelotón de infantería haciendo clic con el botón izquierdo en uno de los soldados con la tecla Alt pulsada (o haciendo doble clic con el botón izquierdo del ratón). Cuando el modo clásico está desactivado, con la tecla Alt pulsada se selecciona a un soldado individual.
+
+[StringTable.msg_01_02]
+Envíe al pelotón a la tienda marcada con una señal de humo roja. Espere a que llegue el helicóptero.
+
+[StringTable.msg_02_01]
+Para subir al pelotón al helicóptero, debe seleccionar el pelotón y hacer clic con el botón derecho sobre el helicóptero.
+
+[StringTable.msg_02_02]
+Para enviar el helicóptero al punto deseado, basta con seleccionarlo y hacer clic con el botón derecho en un punto del suelo cercano al humo de señalización rojo junto al pueblo.
+
+[StringTable.msg_02_03]
+Para hacer desembarcar al pelotón del helicóptero, use la orden "Desembarcar" {hkey:evacuate}.
+
+[StringTable.msg_02_04]
+Envíe a su pelotón más cerca del puente, guiándose por el humo de señalización rojo.
+
+[StringTable.msg_03_01]
+Los zapadores de combate tienen una mayor probabilidad de detectar minas enemigas en el modo de desminado. La habilidad de zapador de combate se marca con un icono de mina en el icono del soldado en el panel inferior al seleccionar el pelotón.
+Los zapadores de combate están armados con dos tipos de minas:
+- Las minas antitanque solo detonan bajo los vehículos y no reaccionan ante la infantería. Su efecto explosivo basta para inutilizar un tanque.
+- Las minas antipersona son eficaces contra la infantería, pero también detonan bajo los vehículos sin causarles un daño significativo.
+Tenga en cuenta que las minas pueden detonar por una explosión externa.
+
+[StringTable.msg_03_02]
+Para colocar una mina antitanque, seleccione al soldado requerido, seleccione la mina antitanque en su interfaz, seleccione la orden "Minar" {hkey:mining} e indique un punto del suelo o del puente donde se colocará la mina. La mina colocada se marcará con una bandera.
+
+[StringTable.msg_03_03]
+Puede indicar varios puntos manteniendo pulsada la tecla MAYÚS; después cancele la orden con el botón izquierdo y, manteniendo de nuevo MAYÚS, indique el punto de retirada con el botón derecho. Entonces el zapador de combate, tras colocar las minas, se retirará al punto indicado.
+
+[StringTable.msg_03_04]
+El enemigo tiene una ventaja significativa en fuerzas. Retire a su pelotón a la retaguardia del flanco derecho del pueblo. Allí hay un tanque pesado vacío.
+
+[StringTable.msg_03_05]
+Si el tanque enemigo llega al puente, detonará sobre una mina y bloqueará el paso a otros vehículos.
+
+[StringTable.msg_04_01]
+Antes de subir al tanque conviene lanzar una granada de humo cerca de él para ocultarlo del enemigo. Así la dotación tendrá más tiempo para preparar el tanque para el combate y repartir las funciones en la dotación.
+
+[StringTable.msg_04_02]
+Para capturar el tanque, seleccione el pelotón de zapadores de combate y haga clic con el botón derecho sobre él; estos soldados están bien entrenados y son capaces de manejar el tanque.
+
+[StringTable.msg_04_03]
+Tenga en cuenta que cada tipo de vehículo móvil tiene características de velocidad máxima y número de marchas. Estas características, así como la habilidad del conductor, la potencia del motor, la masa del vehículo, la masa remolcada, la pendiente del terreno y el tipo de suelo, influyen directamente en la tasa de aceleración y en la velocidad máxima posible de desplazamiento.
+
+[StringTable.msg_04_04]
+Una experiencia insuficiente del conductor puede provocar una aceleración lenta del vehículo, paradas aleatorias por errores al cambiar de marcha o calados temporales del motor.
+
+[StringTable.msg_04_05]
+Destruya a las fuerzas enemigas que avanzan.
+Para entrar en la línea de tiro, procure siempre elegir la ruta de movimiento óptima del tanque para no exponer los costados al fuego.

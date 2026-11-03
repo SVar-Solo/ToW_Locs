@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Liberare Simaskovo; respingere i contrattacchi nemici; liberare Snitki; mettere in sicurezza la strada per la stazione di Krinki.
+[Mission.Description]
+Liberare Simaskovo; respingere i contrattacchi nemici; liberare Snitki; mettere in sicurezza la strada per la stazione di Krinki e impedire al nemico di far affluire rinforzi lungo questa strada.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[StringTable.Subtitle_01]
+23 giugno 1944, Bielorussia, a ovest di Visociani.
+[Submission1.Objectives]
+Liberare Simaskovo.
+[Submission1.Description]
+Liberare Simaskovo dagli occupanti tedeschi e stabilire posizioni difensive. I dati confermati della ricognizione indicano la presenza di gruppi corazzati nemici a ovest e a sud di Simaskovo. 
+[Submission1.Success]
+Simaskovo liberata.
+[Submission1.Failed]
+Compito fallito.
+[Submission2.Objectives]
+Respingere i contrattacchi nemici.
+[Submission2.Description]
+I dati confermati della ricognizione indicano la presenza di gruppi corazzati nemici a ovest e a sud di Simaskovo. Con queste forze il nemico cercherà di riprendere Simaskovo. Dovete mantenere Simaskovo e respingere tutti i contrattacchi nemici.
+[Submission2.Success]
+Compito portato a termine. Contrattacco nemico respinto.
+[Submission2.Failed]
+Compito fallito.
+[Submission3.Objectives]
+Tagliare la strada per la stazione di Krinki.
+[Submission3.Description]
+Liberare Snitki, avanzare verso ovest e mettere in sicurezza la strada per la stazione e il villaggio di Krinki. Seguire questa strada verso nord, eliminando tutte le truppe nemiche individuate.
+[Submission3.Success]
+Compito portato a termine.
+[Submission3.Failed]
+Compito fallito.

@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+Repel all German attacks, then launch a counterattack.
+[Mission.Description]
+German units are within sight of the Kremlin. Moscow must not fall to the fascists!
+
+Your orders:
+	- Blunt the enemy attack and stall their advance on Moscow
+	- Launch a counter-attack
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+You have failed in your orders.
+[Submission_1.Objectives]
+Blunt the enemy attack
+[Submission_1.Description]
+Stop the enemy attack
+[Submission_1.Success]
+Mission accomplished. 
+[Submission_2.Failed]
+Mission failed.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Description]
+You have held out. The enemy is fleeing. In view of the current situation, tanks will be allocated from the reserve to assist you. You must continue to pursue the enemy!
+
+Your orders:
+	- Counterattack the enemy troops
+[Submission_2.Objectives]
+Counterattack the enemy
+[StringTable.Reserv_inf]
+Infantry from the reserve has been transferred to your control
+[StringTable.Reserv_Tanks]
+Tanks from the reserve have been transferred to your control.
+[Submission_1.Failed]
+Mission failed.

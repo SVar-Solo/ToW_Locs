@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Wykonaj misję sabotażową na tyłach wroga w pobliżu miasta Sandomierz. Znajdź i zniszcz skład paliw i uzbrojenia. Jeśli natrafisz na pozycje dział przeciwlotniczych, wezwij artylerię dalekosiężną i lotnictwo, aby się nimi zajęły.
+[Mission.Description]
+Armia radziecka zbliża się do granic Trzeciej Rzeszy. Obie strony przygotowują się do bitwy w pobliżu niewielkiego miasta Sandomierz. Specjalne oddziały sabotażystów zostały wysłane za linie wroga przez radzieckie Naczelne Dowództwo. Mają rozpoznać nieprzyjacielskie pozycje i zniszczyć zasoby logistyczne oraz obronę przeciwlotniczą. Twoja drużyna musi dokonać sabotażu. Chodzi o skład paliw i uzbrojenia. Trzeba znaleźć i zniszczyć wszelkie napotkane stanowiska dział przeciwlotniczych. Oddział składa się z najlepszych zwiadowców i snajpera. Mądrze z nich korzystaj!
+[Mission.Success]
+Wszystkie misje zostały wykonane!
+[Mission.Failed]
+Porażka!
+[Submission_1.Objectives]
+Wejdź do miasteczka. Rozpoznaj sytuację. Zlikwiduj wartowników w składzie paliw i uzbrojenia. Znajdź i przejmij wszystkie Panzershrecki. Możesz potrzebować broni przeciwpancernej.
+[Submission_1.Description]
+Po pokonaniu frontowych linii wroga Twoja drużyna znajduje się głęboko na tyłach. Uważaj na nieprzyjacielskie blokady na drogach, skrzyżowaniach i w innych strategicznych miejscach. Wszędzie można napotkać patrole zmotoryzowane. Jeśli Cię wykryją, szybko wezwą posiłki. Twoim głównym zadaniem jest zniszczenie składu paliw i uzbrojenia.
+[Submission_1.Success]
+Strefa specjalna zniszczona.
+[Submission_1.Failed]
+Porażka
+[Submission_2.Objectives]
+Znajdź stanowiska artylerii przeciwlotniczej. Wezwij wsparcie artyleryjskie i lotnicze, aby je zniszczyć. Zdobądź środek transportu i przejedź przez most.  
+[Submission_2.Description]
+Lotnictwo prowadzi bombardowanie strategicznych pozycji wroga, ale ponosi duże straty. Wróg świetnie maskuje stanowiska artylerii przeciwlotniczej. Trudno wykryć je z powietrza. Tracimy ludzi i sprzęt. Twoja drużyna znajduje się w wyśmienitym miejscu, by pomóc w tym zadaniu. Poszukaj dział przeciwlotniczych, następnie wezwij ostrzał artyleryjski i samoloty szturmowe.
+[Submission_2.Success]
+Pozycje przeciwlotnicze zostały wykryte i zniszczone.
+[Submission_2.Failed]
+Porażka.
+[Submission_3.Objectives]
+Przebij się w kierunku mostów na Wiśle. Zlikwiduj straże na obu brzegach rzeki.
+[Submission_3.Description]
+Wykonałeś główne zadanie. Teraz Twoi żołnierze muszą wrócić do domu. Jedyna droga prowadzi ponownie przez mosty na Wiśle...
+[Submission_3.Success]
+Zadanie wykonane
+[Submission_3.Failed]
+Porażka.
+[Submission_4.Objectives]
+Nasze samoloty zwiadowcze wykryły kolumnę pancerną poruszającą się drogą w kierunku mostów na Wiśle.
+Rozkazy:
+-Za wszelką cenę zniszcz kolumnę pancerną.
+[Submission_4.Description]
+Nasze samoloty zwiadowcze wykryły kolumnę pancerną poruszającą się drogą w kierunku mostów na Wiśle. Zaczekaj, aż czołgi się zbliżą, następnie zablokuj most, niszcząc czołg prowadzący kolumnę. Może powinieneś zdobyć niemieckie Panzershreki...
+[Submission_4.Success]
+Dobra robota!
+[Submission_4.Failed]
+Zadanie niewykonane 
+[Submission_5.Objectives]
+Uważaj na nieprzyjacielską blokadę. Jeśli zostaniesz wykryty, zabij wartowników.
+[Submission_5.Description]
+Uważaj na nieprzyjacielską blokadę. Jeśli zostaniesz wykryty, zabij wartowników.
+[Submission_5.Success]
+Zadanie wykonane.
+[Submission_5.Failed]
+Porażka
+[StringTable.Zonder]
+Wróg wezwał posiłki.
+[StringTable.EnemyVisible]
+Wróg wykrył Twoje wojska. Musisz go zlikwidować. Masz mało czasu, kolejne jednostki wroga przybędą za około 4-5 minut.
+[StringTable.Ahtung]
+Wróg wykrył Twoją drużynę.
+[StringTable.CallSupport]
+Wykryto niemieckie działa przeciwlotnicze. To stanowisko nie może być zniszczone przez Twoich sabotażystów. Wezwij wsparcie artyleryjskie i lotnicze, żeby zlikwidować wroga.
+[Submission_6.Objectives]
+Uważaj na nieprzyjacielską blokadę. Jeśli zostaniesz wykryty, zabij wartowników.
+[Submission_6.Description]
+Blokada znajduje się na drodze o znaczeniu strategicznym. Polscy partyzanci twierdzą, że drogę wciąż patroluje jednostka zmotoryzowana.
+[Submission_6.Success]
+Blokada została zlikwidowana
+[Submission_6.Failed]
+Przegrałeś, a Twoi elitarni żołnierze zostali zabici!

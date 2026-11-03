@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Befreien Sie Rudaki, Osipovo. Sichern Sie die Straße nach Witebsk.
+[Mission.Description]
+Befreien Sie Rudaki, Osipovo. Sichern Sie die Straße nach Witebsk.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Mission fehlgeschlagen.
+[Submission1.Objectives]
+Befreien Sie Rudaki.
+[Submission1.Description]
+Befreien Sie Rudaki.
+[Submission1.Success]
+Aufgabe erfüllt.
+[Submission1.Failed]
+Aufgabe fehlgeschlagen.
+[Submission2.Objectives]
+Befreien Sie Osipovo.
+[Submission2.Description]
+Befreien Sie Osipovo.
+[Submission2.Success]
+Aufgabe erfüllt.
+[Submission2.Failed]
+Aufgabe fehlgeschlagen.
+[Submission3.Objectives]
+Errichten Sie eine Verteidigungsstellung in Osipovo, wehren Sie feindliche Gegenangriffe ab.
+[Submission3.Description]
+Errichten Sie eine Verteidigungsstellung in Osipovo; bereiten Sie sich darauf vor, feindliche Angriffe abzuwehren.
+[Submission3.Success]
+Aufgabe erfüllt.
+[Submission3.Failed]
+Aufgabe fehlgeschlagen.
+[Submission4.Objectives]
+Fangen Sie sofort das feindliche Hauptquartier-Kommando ab, das sich entlang der Straße nach Norden zurückzieht, und vernichten Sie es! Wenn der HQ-Konvoi aus der Einkesselung ausbricht, wird Ihre Mission fehlschlagen.
+[Submission4.Description]
+Fangen Sie sofort das feindliche Hauptquartier-Kommando ab, das sich entlang der Straße nach Norden zurückzieht, und vernichten Sie es!
+[Submission4.Success]
+Aufgabe erfüllt.
+[Submission4.Failed]
+Aufgabe erfüllt.
+[Submission5.Objectives]
+Der Feind versucht, nach Rudaki durchzubrechen. Fangen Sie die Panzergruppe ab und vernichten Sie sie.
+[Submission5.Description]
+Der Feind versucht, nach Rudaki durchzubrechen. Fangen Sie die Panzergruppe ab und vernichten Sie sie.
+[Submission5.Success]
+Aufgabe erfüllt.
+[Submission5.Failed]
+Aufgabe fehlgeschlagen.

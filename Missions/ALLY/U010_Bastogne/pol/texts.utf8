@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Wyzwolić miasto Houffalize i zepchnąć nieprzyjaciela ze wzgórz.
+[Mission.Description]
+Niebo przejaśniło się po wielu tygodniach śniegu i fatalnej pogody. Korpus Armii Powietrznej będzie wreszcie mógł wesprzeć wojska w Ardenach. Czołgi Pattona przebiły się do miasta Bastogne i wspomogły długo broniące się wojska. Po zabezpieczeniu Bastogne pora przegnać Niemców i zakończyć bitwę w Ardenach.
+Twoje rozkazy:
+-	Zaatakować nieprzyjaciela w mieście Houffalize i wypchnąć go.
+-	Kontynuować natarcie w kierunku wzgórz i zgnieść nieprzyjacielską obronę.
+[Mission.Success]
+Zwyciężyłeś i wyparłeś Niemców. 
+[Mission.Failed]
+Przegrałeś bitwę, wróg odniósł ważne zwycięstwo.
+[Submission_1.Objectives]
+Zdobyć miasto Houffalize.
+[Submission_1.Description]
+Po zaskakującym niemieckim ataku w Ardenach siły USA okopały się wokół Bastogne i w samym mieście, stanowiącym ważne skrzyżowanie siedmiu różnych dróg. Oddziały 101. dywizji powietrznodesantowej i 10. dywizji pancernej zaciekle odpierały kolejne niemieckie ataki mimo przytłaczającej przewagi wroga i fatalnej pogody. Ale gdy niebo się przejaśniło, część armii Pattona dotarła do miasta i w jego okolicy przeprowadzono szereg kontrataków na niemieckie jednostki. 
+Twoje rozkazy:
+-	Wyzwolić miasto Houffalize.
+[Submission_1.Success]
+Zdobyliśmy miasto!
+[Submission_1.Failed]
+Przegrałeś. Nie udało ci się zdobyć miasta.
+[Submission_2.Objectives]
+Idź za ciosem i zdobądź wzgórza na wschód od miasta Houffalize.
+[Submission_2.Description]
+Na wschód od miasta znajdują się strategicznie ważne dla dalszego natarcia wzgórza i szczyty. Cztery dni temu Niemcy zajęli je oraz miasto Houffalize i teraz używają naszych umocnień w celach obronnych. 
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielską obronę na wzgórzach.
+[Submission_2.Success]
+Ponownie zajęliśmy wzgórza!
+[Submission_2.Failed]
+Przegrałeś. Nie udało ci się zająć ważnych wzgórz koło Houffalize.
+[StringTable.reserv]
+Przybyły posiłki.

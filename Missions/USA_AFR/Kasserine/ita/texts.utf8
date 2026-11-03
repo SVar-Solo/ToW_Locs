@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Fermate lo sfondamento
+[Mission.Success]
+Il nemico non è riuscito a sfondare il passo!
+[Mission.Failed]
+Ritirata! Il nemico ha sfondato il passo!
+[Mission.Description]
+Fermare lo sfondamento dei gruppi tedeschi attraverso il passo di Kasserine
+[Submission1.Objectives]
+Smorzare gli attacchi nemici lungo i possibili assi di sfondamento.
+[Submission1.Description]
+Tenente colonnello Waters! Dovete impedire alle truppe tedesche di sfondare il passo di Kasserine.
+[Submission1.Success]
+L’ordine è stato eseguito! Il nemico si ritira!
+[Submission1.Failed]
+Le nostre truppe hanno fallito! Il nemico continua ad avanzare!
+[Submission2.Success]
+Sono arrivati i carri armati britannici!
+[Submission2.Description]
+Resistete fino all’arrivo dei carri armati britannici
+[Submission2.Objectives]
+Resistete
+[Submission2.Failed]
+Abbiamo fallito! I rinforzi non hanno fatto in tempo ad arrivare!
+[Submission3.Objectives]
+Trovate e distruggete gli osservatori di tiro nemici
+[Submission3.Description]
+Una batteria di mortai batte le posizioni della 1ª divisione di fanteria. Individuate ed eliminate gli osservatori d’artiglieria nemici.
+[Submission3.Success]
+Gli osservatori nemici sono stati eliminati!
+[Submission3.Failed]
+Gli osservatori nemici non sono stati eliminati!

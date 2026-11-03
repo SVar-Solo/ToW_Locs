@@ -1,0 +1,18 @@
+﻿[Mission.Objectives]
+The main mission is to prevent any German troops from breaking through to the evacuation area.
+[Mission.Description]
+As a result of many days of combat the French army has sustained grave losses aggravated even more by the constant bombing by Luftwaffe aviation. But even with such losses, our troops continue to try and hold the line and allow the other Allied forces to embark and retreat back across the English Channel. Today the main task is to contain the German troops and prevent them from breaking through to the evacuation areas along the coast.      
+[Mission.Success]
+Mission successfully accomplished
+[Mission.Failed]
+Mission failed
+[Submission_1.Objectives]
+Repel all attacks by German troops
+[Submission_1.Description]
+The French Army’s defense line is quite stretched due to manpower shortages. We are left with few tanks and the German Luftwaffe has savaged our airpower. Remaining Allied airpower is committed to providing cover for the evacuation areas. Despite this dire situation, it is necessary to repulse all attacks by the German so that the evacuations can continue.
+[Submission_1.Success]
+The attacks have been repelled. The evacuation has successfully finished.
+[Submission_1.Failed]
+You have lost! German units have broken through and are decimating the remaining troops trying to evacuate.
+[StringTable.reserv]
+Reinforcements have arrived!

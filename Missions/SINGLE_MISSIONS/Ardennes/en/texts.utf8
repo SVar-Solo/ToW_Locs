@@ -1,0 +1,21 @@
+﻿[StringTable.Subtitle_01]
+Listen up! You are to climb Hill 320 and reconnoiter.
+[StringTable.Subtitle_02]
+Yes, sir.
+[StringTable.Subtitle_03]
+The seven panzers are advancing along the road.
+[StringTable.Subtitle_04]
+Quickly lay anti-tank mines at the southern edge of the bridge! 
+[StringTable.Subtitle_05]
+Yes, sir.
+[Submission1.Objectives]
+Stop enemy tanks from moving south.
+[Submission1.Description]
+On the move since shortly after the Germans hit the U.S. front line, your platoon has now reached the foot of Hill 330, just south of a steep-sided stream winding through the dense forest. During your frustrating and confusing journey, you were bounced between headquarters and command posts – no one in authority seemed to know what was going on or what they needed you to do. Finally, about two hours ago, your company commander issued a clear mission: stop any German tanks from moving south via the bridge spanning the stream running between Hills 320 and 330.
+
+Your order:
+- stop enemy tanks from moving south.
+[Submission1.Success]
+Mission accomplished. 
+[Submission1.Failed]
+Mission failed.

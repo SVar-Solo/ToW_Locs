@@ -1,0 +1,30 @@
+﻿[Mission.Objectives]
+적을 저지하라
+[Mission.Description]
+워터스 중령! 테베사에 대한 적의 공격을 무디게 해야 한다.
+[Mission.Success]
+명령을 완수했다! 적은 테베사까지 돌파하지 못했다.
+[Mission.Failed]
+적이 방어선을 돌파하여 테베사로 빠르게 진격하고 있다.
+[StringTable.Reinf]
+워터스 대령! 증원 부대가 오고 있습니다. 버티십시오!
+[Submission1.Objectives]
+전선을 사수하라
+[Submission1.Description]
+전선을 사수하라! 적이 고개를 돌파해서는 안 된다!
+[Submission1.Success]
+적을 격파했고 적이 도주하고 있다!
+[Submission1.Failed]
+적이 방어선을 돌파했다! 아군이 테베사로 후퇴하고 있다!
+[StringTable.Woters]
+제군, 행동 개시! 적에게 물러서서는 안 된다!
+[StringTable.Woters1]
+독일군이 온다.
+[StringTable.Woters2]
+증원 부대가 도착했다.
+[StringTable.Woters3]
+젠장! 독일군이 고지의 포병을 무력화했다.
+[StringTable.tank_spg]
+전차 및 자주포
+[StringTable.human]
+보병

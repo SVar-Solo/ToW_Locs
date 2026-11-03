@@ -1,0 +1,258 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capturez le pont et enfoncez-vous plus avant en territoire ennemi pour attaquer la base militaire indiquée sur la carte.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Vous devez franchir la rivière pour poursuivre l'attaque. Détruisez les puissantes défenses ennemies près du pont et de la localité voisine, puis capturez le pont. Avancez ensuite plus profondément en territoire ennemi et submergez la base militaire ennemie, où vous pourrez consolider vos forces.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+L'ennemi a capturé le pont.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Le pont est un élément essentiel du couloir de transport et le point tactique clé de la zone. Vous devez repousser l'attaque ennemie. Ne le laissez pas capturer le pont.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Repoussez l'attaque ennemie. Ne laissez pas le pont tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies. Tenez le pont et ne le laissez pas tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+L'ennemi fait tout pour capturer le pont et traverser la rivière. Vous devez tenir le pont coûte que coûte et ne pas le laisser tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies. Tenez le pont et ne le laissez pas tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+L'ennemi fait tout pour capturer le pont et traverser la rivière. Vous devez tenir le pont coûte que coûte et ne pas le laisser tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capturez le pont et enfoncez-vous plus avant en territoire ennemi pour attaquer la base militaire indiquée sur la carte.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Vous devez franchir la rivière pour poursuivre l'attaque. Détruisez les puissantes défenses ennemies près du pont et de la localité voisine, puis capturez le pont. Avancez ensuite plus profondément en territoire ennemi et submergez la base militaire ennemie, où vous pourrez consolider vos forces.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Une équipe blindée de réserve est à votre disposition.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Un appui aérien est à votre disposition.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est à votre disposition.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Une équipe d'infanterie et de blindés est à votre disposition.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Une équipe d'infanterie et de blindés est à votre disposition.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Capturez le pont et enfoncez-vous plus avant en territoire ennemi pour attaquer la base militaire indiquée sur la carte.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Vous devez franchir la rivière pour poursuivre l'attaque. Détruisez les puissantes défenses ennemies près du pont et de la localité voisine, puis capturez le pont. Avancez ensuite plus profondément en territoire ennemi et submergez la base militaire ennemie, où vous pourrez consolider vos forces.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+L'ennemi a capturé le pont.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Le pont est un élément essentiel du couloir de transport et le point tactique clé de la zone. Vous devez repousser l'attaque ennemie. Ne le laissez pas capturer le pont.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Repoussez l'attaque ennemie. Ne laissez pas le pont tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies. Tenez le pont et ne le laissez pas tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+L'ennemi fait tout pour capturer le pont et traverser la rivière. Vous devez tenir le pont coûte que coûte et ne pas le laisser tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies. Tenez le pont et ne le laissez pas tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+L'ennemi fait tout pour capturer le pont et traverser la rivière. Vous devez tenir le pont coûte que coûte et ne pas le laisser tomber aux mains de l'ennemi.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Capturez le pont et enfoncez-vous plus avant en territoire ennemi pour attaquer la base militaire indiquée sur la carte.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Vous devez franchir la rivière pour poursuivre l'attaque. Détruisez les puissantes défenses ennemies près du pont et de la localité voisine, puis capturez le pont. Avancez ensuite plus profondément en territoire ennemi et submergez la base militaire ennemie, où vous pourrez consolider vos forces.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Infantry_support]
+Une équipe d'infanterie est sous vos ordres.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+Une équipe blindée de réserve est à votre disposition.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Un appui aérien est à votre disposition.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est à votre disposition.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Une équipe d'infanterie et de blindés est à votre disposition.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Une équipe d'infanterie et de blindés est à votre disposition.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Un appui aérien est disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[Reinforcement.Group_reinforcement_tanks]
+Chars
+
+[Reinforcement.Group_reinforcement_inf]
+Infanterie
+
+[Reinforcement.Group1[Reinforcement]]
+Artillerie et infanterie de réserve
+
+[Reinforcement.Group2[Reinforcement]]
+Garde de la base militaire
+
+[Reinforcement.Group3[Reinforcement]]
+Groupe de défense des flancs
+

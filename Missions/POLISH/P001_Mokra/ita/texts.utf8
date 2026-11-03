@@ -1,0 +1,40 @@
+﻿[Mission1.Objectives]
+Difendi l'area indicata.
+[Mission1.Description]
+Primo settembre 1939. Le truppe tedesche stanno premendo su tre fronti. L'armata nord sta attaccando dalle regioni settentrionali della Germania e della Prussia Orientale. L'armata sud sta attaccando dalla Germania meridionale e dalla Slovacchia del Nord con l'appoggio della prima e della seconda divisione slovacca.
+Seguendo gli ordini dell'Alto Comando polacco devi preparare le difese nell'area del fiume Mokra e respingere l'avanzata tedesca.
+
+I tuoi ordini sono:
+-	Difendi l'area indicata.
+-	Impedisci alle truppe nemiche di superare le linee difensive.
+[Mission1.Success]
+Ben fatto, comandante! I tedeschi non sono riusciti a eliminare le nostre difese in questo settore del fronte!
+[Mission1.Failed]
+Missione fallita! Le truppe tedesche hanno superato le nostre difese e stanno avanzando verso Varsavia. La Polonia è condannata!
+[Submission1.Objectives]
+Respingi l'attacco delle truppe tedesche.
+[Submission1.Description]
+Il nemico sta cercando di attaccare le nostre difese nell'area del fiume Mokra in modo da superare le nostre posizioni e avanzare ulteriormente.
+Il comando polacco è preoccupato della situazione al fronte. Deve essere assolutamente stabilizzato!
+
+I tuoi ordini sono:: 
+-   Respingi l'avanzata delle truppe tedesche.
+[Submission1.Success]
+Missione completata! L'attacco delle forze tedesche in questo settore del fronte è stato respinto!
+[Submission1.Failed]
+Missione fallita! Le truppe tedesche hanno superato le nostre difese in questo settore del fronte!
+[StringTable.Reserv]
+Sono arrivati dei rinforzi per aiutarti.
+[Submission2.Objectives]
+Contrattacca le forze nemiche.
+[Submission2.Description]
+Il nemico sta cercando di attaccarci sul fianco! Devi immediatamente attaccare le forze nemiche, per impedire l'accerchiamento delle nostre truppe in prima linea. In caso contrario il nemico potrebbe infliggerci delle gravi perdite.
+
+I tuoi ordini sono:
+-	Attacca le forze nemiche che avanzano sul tuo fianco.
+[Submission2.Success]
+Missione completata! I mezzi corazzati nemici non sono riusciti nel loro intento!
+[Submission2.Failed]
+Missione fallita! Le forze nemiche sono giunte alle nostre spalle!
+[StringTable.Subtitle_01]
+Polonia. Settembre 1939

@@ -1,0 +1,44 @@
+﻿[Mission_01.Objectives]
+Освободить деревни Осиновка, Гряда и Заречье.
+[Mission.Description]
+Описание боевой задачи.
+
+Освободить населённые пункты:
+Осиновка,
+Гряда, 
+Заречье.
+Уничтожить действующие в указанном районе подразделения противника.
+[Mission_01.Success]
+Задание выполнено
+[Mission_01.Failed]
+Задание провалено
+[Mission.Objectives]
+Освободить населённые пункты: Осиновка, Гряда, Заречье. Уничтожить действующие в указанном районе подразделения противника.
+[Mission.Success]
+Задание выполнено.
+[Mission.Failed]
+Задание провалено.
+[Submission1.Objectives]
+Выбить врага из Осиновки.
+[Submission1.Description]
+Выбить врага из Осиновки.
+[Submission1.Success]
+Задача выполнена.
+[Submission1.Failed]
+Задача не выполнена.
+[Submission2.Objectives]
+Освободить деревню Гряда.
+[Submission2.Description]
+Освободить деревню Гряда.
+[Submission2.Success]
+Задача выполенена.
+[Submission2.Failed]
+Задача не выполнена.
+[Submission3.Objectives]
+Освободить населённый пункт Заречье.
+[Submission3.Description]
+Освободить населённый пункт Заречье.
+[Submission3.Success]
+Задача выполнена.
+[Submission3.Failed]
+Задача не выполнена.

@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Fermate l’attacco a Sbeitla
+[Mission.Description]
+Tenente colonnello Waters! I tedeschi avanzano su Sbeitla. Dovete smorzare il loro attacco e tenere l’obiettivo, una possibile base di partenza per un attacco al villaggio.
+[Mission.Success]
+L’ordine è stato eseguito! Il nemico non è riuscito a conquistare una base di partenza per il suo attacco a Sbeitla.
+[Mission.Failed]
+Le nostre truppe sono state sconfitte e i tedeschi preparano un’offensiva su Sbeitla.
+[Submission1.Objectives]
+Tenere la linea
+[Submission1.Description]
+Tenete la linea! Il nemico non deve conquistare questa base di partenza!
+[Submission1.Success]
+Il nemico è stato sconfitto e fugge!
+[Submission1.Failed]
+Il nemico ha travolto le difese e prepara un’offensiva su Sbeitla!
+[StringTable.Reinf]
+Colonnello Waters! I rinforzi sono in arrivo. Tenete duro!
+[StringTable.Woters]
+Sono arrivati i rinforzi.
+[Submission2.Objectives]
+Assicurate il punto
+[Submission2.Description]
+I tedeschi cercano di impadronirsi del punto radio. Dovete attaccare il nemico e assicurare il punto.
+[Submission2.Success]
+Il nemico ha fallito!
+[Submission2.Failed]
+Il nemico ha conquistato il punto radio!
+[Submission3.Objectives]
+Ristabilite il contatto radio
+[Submission3.Description]
+Eliminate il nemico che tiene l’altura e ristabilite il contatto radio!
+[Submission3.Success]
+Il nemico è stato eliminato! Il contatto radio è stato ristabilito!
+[Submission3.Failed]
+Il nemico ha respinto il nostro attacco!
+[StringTable.Enemy]
+Soldati! All’azione!
+[StringTable.Enemy2]
+Nemico sul fianco sinistro!
+[StringTable.Enemy1_1]
+Nemico sul fianco destro!
+[StringTable.Enemy1_2]
+Il nemico cerca di raggiungere le retrovie!
+[StringTable.tank]
+Carri armati
+[StringTable.human]
+Fanteria
+[StringTable.tank_human]
+Carri armati e fanteria

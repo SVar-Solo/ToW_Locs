@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+将敌人逐出城镇。
+[Mission1.Description]
+前方城镇中有一小股德军。敌人尚未察觉我军到来，因此我们必须迅速果断地发起进攻，将其赶出去。
+
+命令：
+-	从德军手中解放城镇。
+[Mission1.Success]
+命令已完成，敌人被击败，城镇获得解放！盟军的攻势可以继续了。
+[Mission1.Failed]
+任务失败！你的部队全军覆没！这次失败将使整个行动的后续进程困难得多。
+[Submission2.Objectives]
+击退德军的进攻。
+[Submission2.Description]
+形势危急！德军已在作战地区投入预备队。德军部队已突破防线，正向我们在城镇中的阵地推进，企图将我们赶出去。
+
+命令： 
+-	巩固阵地，击退推进中的敌军。
+[Submission2.Success]
+命令已完成！敌人的进攻已被击退。干得好！
+[Submission2.Failed]
+任务失败！你的部队已被逐出城镇。你的失败将危及整个行动的成败！
+[StringTable.Reserv]
+增援已到达。
+[StringTable.Subtitle_01]
+法国，1944年6月

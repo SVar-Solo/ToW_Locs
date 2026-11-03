@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Conserver les positions défensives dans le village.
+[Submission1.Description]
+Des forces ennemies en grand nombre avancent vers les positions tenues par le 1er bataillon, du 901e Panzergrenadier. Avec l’aide d’un détachement de la 12e division SS « Hitlerjugend », il faut tenir bon !
+
+Vos ordres :
+- en coopération avec les blindés de la 12e SS, maintenez vos positions défensives autour du village.
+[Submission1.Success]
+Beau travail, commandant ! L’ennemi n’a pas réussi à briser votre esprit combatif !
+[Submission1.Failed]
+Vous avez échoué ! Vos forces ont été battues.
+[Submission2.Objectives]
+Repousser l’attaque ennemie.
+[Submission2.Description]
+Nous avons reçu des rapports indiquant que l’ennemi redirige son attaque et approche maintenant par le nord. Préparez vos troupes pour faire face à cette nouvelle menace.
+ 
+Vos ordres :
+- repousser cette nouvelle attaque ennemie.
+[Submission2.Success]
+Beau travail, commandant ! L’ennemi n’est pas parvenu à percer vos défenses.
+[Submission2.Failed]
+Vous avez échoué !
+[StringTable.Change]
+Vous avez reçu des renforts d’unités mécanisées de la division.

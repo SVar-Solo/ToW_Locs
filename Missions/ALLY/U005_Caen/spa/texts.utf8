@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+Elimine a las unidades enemigas que están huyendo.
+[Main_mission.Description]
+Según nos informa el servicio de inteligencia, la defensa de Caen ha sido aplastada y el enemigo huye a toda prisa. Sin embargo, nuestras tropas han llegado tarde a cerrar la bolsa y tememos que algunas unidades enemigas hayan conseguido escapar. Su misión consiste en evitar que esas tropas enemigas se escapen.
+
+Sus órdenes:
+-	Consolide sus fuerzas cerca de la aldea y mantenga a toda costa el cruce de carreteras. No abandone la zona en ningún caso, ya que el enemigo podría aparecer en cualquier momento.
+[Main_Mission.Success]
+¡Ha vencido al enemigo! ¡Ahora la zona está asegurada!
+[Main_Mission.Failed]
+Ha perdido. El enemigo se le ha escapado.
+[Submission_1.Objectives]
+Destruya los tanques enemigos.
+[Submission_1.Description]
+Los restos de algunas unidades alemanas intentan atravesar el cerco. Aunque hemos debilitado al enemigo, todavía representa una fuerza importante. También hemos localizado unidades blindadas alemanas.
+
+Sus órdenes:
+-	Evite que el enemigo rompa el cerco. Destruya todos los tanques enemigos que encuentre a su paso.
+[Submission_1.Success]
+¡Felicidades! ¡Ha detenido a las fuerzas enemigas!
+[Submission_1.Failed]
+Ha perdido, y las unidades enemigas han escapado de nuestra encerrona.
+[Submission_2.Objectives]
+¡Detenga a las tropas enemigas!
+[Submission_2.Description]
+El enemigo cuenta con más tropas de las que pensábamos en esta zona. Está intentando otra abertura de brecha.
+
+Sus órdenes:
+-	Elimine las tropas enemigas.
+[Submission_2.Success]
+¡Lo ha conseguido! ¡Ha destruido a las tropas enemigas!
+[Submission_2.Failed]
+¡Ha fallado!
+[Submission_3.Objectives]
+Ocupe la granja. Elimine a todo enemigo que salga a su paso.
+[Submission_3.Description]
+Los alemanes no han podido seguir avanzando, pero todavía no hemos eliminado al enemigo. El estado mayor cree que en este momento lo mejor sería lanzar una ofensiva inmediata para acabar con las posiciones enemigas que queden.
+
+Sus órdenes:
+-	Lance una ofensiva. Ataque la granja y elimine al enemigo.
+[Submission_3.Success]
+¡Ha eliminado al enemigo! ¡Ahora controlamos la granja!
+[Submission_3.Failed]
+No ha podido apoderarse de la granja.
+[StringTable.Reserv]
+Han llegado refuerzos.

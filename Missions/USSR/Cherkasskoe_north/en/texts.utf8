@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Prevent the enemy from breaching the frontline. 
+[Mission.Description]
+The enemy tries to break through division defense. The order is to hold Cherkasskoe. Special priority should be given to holding the first trench and the antitank strong point. Counterattack advancing enemy groups.
+[Submission1.Objectives]
+Destroy the enemy tanks.
+[Submission2.Objectives]
+Prevent the enemy from outflanking our positions.
+[Submission3.Objectives]
+The enemy has penetrated the frontline with tanks and infantry and is now advancing further.
+[Submission4.Objectives]
+An enemy company-sized unit with the support of heavy tanks and assault guns has begun assaulting the village. Repel the enemy attack.
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+Our forces withdraw under assault from a superior enemy.
+[Submission1.Success]
+Mission complete, the enemy tanks have been destroyed. 
+[Submission1.Failed]
+Mission failed, enemy tanks proceed further.
+[Submission2.Success]
+Mission complete, the flanking maneuver has been prevented.
+[Submission2.Failed]
+Enemy tanks have outflanked our positions.
+[Submission_2_1.Success]
+Mission complete, enveloping group is destroyed.
+[Submission_2_1.Failed]
+Counterattack defeated, the enemy presses the advance.
+[Submission_2_2.Success]
+Penetrating enemy tanks have been destroyed, balance recovered.
+[Submission_2_2.Failed]
+The counterattack failed. Enemy tanks have breached to the division rear!
+[Submission3.Success]
+Mission complete. 
+[Submission3.Failed]
+The enemy broke through and is advancing towards division command post!
+[Submission4.Success]
+Mission complete, enemy attacks have been repelled.
+[Submission4.Failed]
+Our forces withdraw under strikes of superior enemy. 
+[StringTable.Tanks!]
+Tanks! Prepare to repel the tank attack.
+[StringTable.Stukas]
+Air strike! Take cover!
+[StringTable.SM2]
+We've iced those tanks well, and airmen gave us a hand.
+[StringTable.SM2_1]
+Now the Germans are most likely to pass our positions. Watch the flanks!
+
+[StringTable.SPGs_Tanks]
+Tanks and self-propelled guns from 245th ITR and 1440th SAR
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

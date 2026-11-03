@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Impida que el enemigo irrumpa en Novoselovka.
+[Mission.Description]
+Defienda las posiciones a 500 m al sur de Novoselovka, el punto fuerte antitanque de la propia aldea y la segunda línea en el límite noroccidental de la aldea. Concentre sus esfuerzos en mantener el centro de la aldea. Impida que el enemigo penetre hacia el norte de Novoselovka.
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+Fuerzas enemigas han ocupado Novoselovka y avanzan ahora hacia el norte.
+[Submission_1.Objectives]
+Mantenga las posiciones hasta que lleguen los refuerzos.
+[Submission_1.Success]
+Misión cumplida: el avance enemigo se ha detenido.
+[Submission_1.Failed]
+El enemigo presiona el avance; existe riesgo de que rompa hacia el norte.
+[Submission_2.Objectives]
+Derrote al enemigo que avanza por la parte noroccidental de la aldea.
+[Submission_2.Success]
+La irrupción enemiga ha sido derrotada.
+[Submission_2.Failed]
+Contraataque derrotado: el enemigo prosigue el avance.
+[StringTable.Support]
+Un grupo de tanques e infantería queda ahora bajo su mando.
+[StringTable.Infantry]
+Infantería del 959.º Regimiento de Infantería
+[StringTable.Tanks]
+Tanques del 3.er Cuerpo Mecanizado
+[StringTable.Call_SPG]
+Los cañones de artillería autopropulsados quedan ahora bajo su control.
+
+[StringTable.SPG]
+Cañones de artillería autopropulsados
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

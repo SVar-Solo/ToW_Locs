@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Détruisez les défenses ennemies.
+[Mission1.Description]
+Les troupes ennemies ont établi une ligne de défense aux abords du village de Kryukovo. Il nous faut impérativement recapturer ce village. Détruisez toutes les troupes ennemies se trouvant dans ce secteur et prenez le village!
+
+Vos ordres sont:
+Détruisez les défenses ennemies.
+ [Mission1.Success]
+Les défenses ennemies ont été détruites! Mission accomplie!
+[Mission1.Failed]
+Vos troupes ont été défaites! Vous avez échoué!
+[Mission2.Objectives]
+Repoussez la contre-attaque ennemie.
+[Mission2.Description]
+Les troupes allemandes ont lancé une contre-attaque. Vous devez conserver les positions récemment conquises!
+
+Vos ordres sont:
+- Repoussez la contre-attaque ennemie.
+- Conservez les positions récemment conquises!
+
+[Mission2.Success]
+Mission accomplie! L’attaque ennemie a été repoussée!
+[Mission2.Failed]
+Vous avez échoué!

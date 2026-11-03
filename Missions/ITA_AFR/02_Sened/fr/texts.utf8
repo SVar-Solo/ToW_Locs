@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Prenez la tête de la défense
+[Submission_1.Description]
+Soutenez les unités qui gardent la gare et la localité, puis prenez la tête de la défense.
+[Submission_01.Success]
+Toutes les troupes sont désormais sous votre commandement.
+[Submission_01.Failed]
+Mission échouée.
+[Mission.Objectives]
+Arrêtez l’ennemi
+[Mission.Description]
+Conservez le contrôle de la localité et de la gare. Si la gare est prise, contre-attaquez l’ennemi et reprenez-la. La perte de la localité signifie que l’ennemi a percé et que la mission est échouée.
+[NewSubmission.Success]
+La gare est de nouveau à nous !
+[NewSubmission.Failed]
+Mission échouée.
+[Mission.Success]
+Mission accomplie, toutes les attaques ont été repoussées.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Success]
+Toutes les unités sont désormais sous votre commandement.
+[Submission_1.Failed]
+Votre refus de commander la défense vous coûtera cher !
+[Submission_2.Objectives]
+Contre-attaque
+[Submission_2.Description]
+L’ennemi s’est emparé de la gare ! Contre-attaquez et reprenez-la.
+[Submission_2.Success]
+Mission accomplie, la gare est de nouveau à nous.
+[Submission_2.Failed]
+Mission échouée.

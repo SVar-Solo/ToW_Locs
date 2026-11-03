@@ -1,0 +1,74 @@
+﻿[SubMission_1.Objectives]
+Schlagen Sie den Hauptangriff der Vorhut der Roten Armee zurück. Führen Sie dann einen Gegenangriff durch und erbeuten Sie das wichtige Treibstoffdepot. 
+[SubMission_1.Description]
+Die Rote Armee rückt enlang der gesamten Frontlinie vor. Die letzte befestigte Verteidigungslinie der Deutschen führt durch die Stadt Kovel. Das Oberkommando hat Ihnen befohlen hier Ihre letzte Verteidigungslinie aufzubauen. Unsere Aufklärungseinheiten vermuten, dass die Russen wahrscheinlich eine Kundschaftermission durchführen werden, um unsere Verteidigungslinien in diesem Abschnitt auszuspähen. 
+
+Ihre Befehle lauten:
+-	 Schlagen Sie den russischen Angriff zurück und starten Sie einen Gegenangriff um den Feind zu verwirren. 
+-	 Erbeuten Sie das feindliche Treibstoffdepot.
+[SubMission_1.Success]
+Die Mission wurde erfüllt!
+[SubMission_1.Failed]
+Sie sind gescheitert! 
+[Mission.Objectives]
+- Verhindern Sie, dass die feindlichen Truppen durch Ihre Verteidigungslinien brechen können.
+[Mission.Description]
+Die Russen haben eine Offensive gestartet mit dem Ziel, die Stadt Kovel zu befreien. Sie müssen die Stadt verteidigen und diesen neuen Angriff zurückschlagen.
+
+Ihre Befehle:
+-	 Schlagen Sie alle feindlichen Angriffe zurück.
+[Mission.Success]
+Die russische Offensive wurde aufgehalten. Deutschland wird den Heldenmut seiner Soldaten niemals vergessen. 
+[Mission.Failed]
+Das ist ein schwarzer Tag für Deutschland! Sie konnten die Russen nicht aufhalten und haben die Schlach verloren.
+
+[Submission_2.Objectives]
+Sie müssen diese Treibstofflaster unbeschädigt zum Treibstoffdepot bringen. 
+[Submission_2.Description]
+Die russischen LKW-Mannschaften sind geflohen; bringen Sie die LKWs jetzt zum Treibstoffdepot! 
+
+Ihre Befehle:
+-	 Bringen Sie die Tanklaster zum Treibstoffdepot im Dorf.
+[Submission_2.Success]
+Gute Arbeit Kommendant. Diese Treibstofflaster werden noch nützlich sein! 
+[Submission_2.Failed]
+Die Treibstoff-LKW sind verloren.
+[Submission_3.Objectives]
+Bereiten Sie Ihre Verteidigung so gut Sie können um den ankommenden russischen Angriff abzuwehren.
+[Submission_3.Description]
+Laut unserer Aufklärung bereiten die Russen eine weitere Offensive vor. Bereiten Sie sich so gut Sie können auf diese neuerliche Gefahr vor.
+
+Ihre Befehle: 
+-	 Halten Sie Ihre Stellungen gegen die vorrückenden feindlichen Einheiten. 
+[Submission_3.Success]
+Gute Arbeit! Sie haben die feindlichen Sturmtruppen zerstört!
+[Submission_3.Failed]
+Der feindliche Angriff war einfach zu stark um ihn abzuwehren. Sie sind gescheitert.
+[Submission_5.Objectives]
+Zerstören Sie die feindlichen Sturmtruppen
+[Submission_5.Description]
+Russische Angriffstruppen rücken wieder gegen das Treibstoffdepot vor. Sie müssen verhindern, dass sie durchbrechen können! Halten Sie auch die Augen offen für Saboteure, die versuchen werden ihre Linien zu infiltrieren, um die Artillerie Stellungen im Rücken anzugreifen.
+
+Ihre Befehle:
+-	 Zerstören Sie die anrückenden feindlichen Sturmtruppen.
+[Submission_5.Success]
+Die feindlichen Truppen wurden zerschlagen!
+[Submission_5.Failed]
+Der Feind ist durchgebrochen!
+[Submission_6.Objectives]
+Neutralisieren Sie den russischen Treibstoffkonvoi und, wenn möglich, versuchen Sie einen der Treibstoff-LKW zu erbeuten. 
+[Submission_6.Description]
+Während des Angriffs haben 4 LKWs, randvoll gefüllt mit Treibstoff, das Depot verlassen! Sie müssen den Konvoi aufhalten!
+
+Ihre Befehle:
+-	 Erbeuten Sie wenn möglich den Treibstoff-Konvoi. Wenn Sie ihn nicht erbeuten können und er zu fliehen droht, dann können Sie ihn auch stattdessen zerstören.
+[Submission_6.Success]
+Gute Arbeit, Kommandeur, Sie haben verhindert, dass der Treibstoff den Russen in die Hände fallen konnte.
+[Submission_6.Failed]
+Die Treibstoff-Laster konnten entkommen. Sie konnten sie nicht rechtzeitig nicht aufhalten. 
+[StringTable.inf_reserv]
+Eine neue Infanteriegruppe wurde Ihrem Kommando unterstellt.
+[StringTable.Tank_reserv]
+Eine Panzergruppe wurde Ihrem Kommando unterstellt.
+[StringTable.SPG_reserv]
+Eine Gruppe Sturmgeschütze wurde Ihrem Kommando unterstellt.

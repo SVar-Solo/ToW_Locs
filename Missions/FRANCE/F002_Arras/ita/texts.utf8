@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Manda in rotta il nemico nell’area indicata.
+[Mission1.Description]
+21 maggio 1940. Quattro brigate corazzate della 16ma armata tedesca si avvicinano ad Arras. Per bloccare lo sfondamento e impedire la possibile cattura della città, gli inglesi hanno dislocato la 5ta brigata corazzata. Il comando francese, preoccupato dall'andamento di questa parte del fronte, ha dislocato mezzi corazzati appartenenti alla sesta armata.
+
+I tuoi ordini sono:
+-	Trova ed elimina le truppe tedesche nella tua area, avrai il supporto della 5ta brigata corazzata inglese.
+-	Impedisci alle truppe nemiche di sfondare fino ad Arras.
+[Mission1.Success]
+Ben fatto, le truppe nemiche sono state respinte. Adesso i tedeschi dovranno aumentare gli sforzi per prendere Arras!
+[Mission1.Failed]
+Le tue truppe sono state sconfitte! Adesso i tedeschi entreranno facilmente dentro Arras!
+[Submission1.Objectives]
+Provvedi il supporto alla brigata corazzata inglese.
+[Submission1.Description]
+La 5ta brigata corazzata inglese sta avanzando verso il villaggio per poter mettere in rotta le truppe corazzate tedesche che si stanno spostando verso Arras.
+Il nemico ci supera nel numero di mezzi corazzati e non ha intenzione di rinunciare a prendere Arras.
+
+I tuoi ordini sono:
+- Supporta la 5ta brigata corazzata inglese il più a lungo  possibile.
+[Submission1.Success]
+Missione completata. Gli inglesi hanno perso il minor numero di truppe possibile!
+[Submission1.Failed]
+Missione fallita. I carri armati inglesi sono stati sconfitti da quelli tedeschi!
+[StringTable.Reserv]
+I rinforzi sono arrivati in tuo aiuto.

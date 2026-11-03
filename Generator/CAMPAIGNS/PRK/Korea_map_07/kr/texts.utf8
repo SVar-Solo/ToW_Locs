@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+적 방어선을 제거하고 고지를 점령하라.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+적 방어선을 제거하고 고지를 점령하라. 적의 모든 반격을 격퇴하라.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+적은 이 지역에 견고한 방어 시설을 갖추고 있다. 진격선의 첫 구간은 비교적 평탄하여 전차 지원을 받을 수 있다. 그러나 진격의 두 번째 구간은 보병만으로 진행된다. 귀관의 주목표는 지도에 표시된 고지이다.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+적은 이 지역에 견고한 방어 시설을 갖추고 있다. 진격선의 첫 구간은 비교적 평탄하여 전차 지원을 받을 수 있다. 그러나 진격의 두 번째 구간은 보병만으로 진행된다. 귀관의 주목표는 지도에 표시된 고지이다. 대비하라. 사령부에 따르면 적이 반격을 가할 수 있다.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+고지를 점령했다.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+고지를 점령했다.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+부대가 패배하여 후퇴하고 있다.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+부대가 패배하여 후퇴하고 있다.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+지도에 표시된 고지를 사수하라. 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+보병으로 통행이 어려운 사찰 지역의 고지를 사수하라. 적 역시 중장갑차량을 쓸 수 없다는 점을 기억하라. 지뢰 매설조와 후방 경계조를 편성하고 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+고지를 잃었다.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+지도에 표시된 고지를 사수하라. 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+추후 통지가 있을 때까지 지도에 표시된 고지를 사수하라.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+보병으로 통행이 어려운 사찰 지역의 고지를 사수하라. 적 역시 중장갑차량을 쓸 수 없다는 점을 기억하라. 지뢰 매설조와 후방 경계조를 편성하고 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+보병으로 통행이 어려운 사찰 지역의 고지를 사수하라. 적 역시 중장갑차량을 쓸 수 없다는 점을 기억하라. 지뢰 매설조와 후방 경계조를 편성하고 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+고지를 잃었다.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+고지를 잃었다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+항공 지원을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+항공 지원을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MLR_SUPPORT]
+로켓 포병을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+공군이 명령을 대기 중이다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+공군이 명령을 대기 중이다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+적 방어선을 제거하고 고지를 점령하라.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+적 방어선을 제거하고 고지를 점령하라. 적의 모든 반격을 격퇴하라.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+적은 이 지역에 견고한 방어 시설을 갖추고 있다. 진격선의 첫 구간은 비교적 평탄하여 전차 지원을 받을 수 있다. 그러나 진격의 두 번째 구간은 보병만으로 진행된다. 귀관의 주목표는 지도에 표시된 고지이다.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+적은 이 지역에 견고한 방어 시설을 갖추고 있다. 진격선의 첫 구간은 비교적 평탄하여 전차 지원을 받을 수 있다. 그러나 진격의 두 번째 구간은 보병만으로 진행된다. 귀관의 주목표는 지도에 표시된 고지이다. 대비하라. 사령부에 따르면 적이 반격을 가할 수 있다.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+고지를 점령했다.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+고지를 점령했다.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+부대가 패배하여 후퇴하고 있다.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+부대가 패배하여 후퇴하고 있다.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+지도에 표시된 고지를 사수하라. 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+보병으로 통행이 어려운 사찰 지역의 고지를 사수하라. 적 역시 중장갑차량을 쓸 수 없다는 점을 기억하라. 지뢰 매설조와 후방 경계조를 편성하고 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+고지를 잃었다.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+지도에 표시된 고지를 사수하라. 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+추후 통지가 있을 때까지 지도에 표시된 고지를 사수하라.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+보병으로 통행이 어려운 사찰 지역의 고지를 사수하라. 적 역시 중장갑차량을 쓸 수 없다는 점을 기억하라. 지뢰 매설조와 후방 경계조를 편성하고 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+보병으로 통행이 어려운 사찰 지역의 고지를 사수하라. 적 역시 중장갑차량을 쓸 수 없다는 점을 기억하라. 지뢰 매설조와 후방 경계조를 편성하고 모든 접근로에 지뢰를 매설하라.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+고지를 잃었다.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+고지를 잃었다.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+항공 지원을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+공군이 명령을 대기 중이다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+공군이 명령을 대기 중이다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[Reinforcement.Group_inf]
+보병
+
+[Reinforcement.Group_infantry]
+보병
+

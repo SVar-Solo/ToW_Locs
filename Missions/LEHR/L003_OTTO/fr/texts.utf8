@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Capturer et tenir le village de Otto.
+[Mission.Description]
+D’après nos reconnaissances, les Britanniques ne tiennent le village qu’avec une maigre force d’avant-garde. Leurs positions sont probablement bien fortifiées, mais voici une belle occasion de les repousser. Vous disposez sous vos ordres d’unités du Panzergrenadier-Regiment 902 et de quelques éléments blindés.
+ 
+Vos ordres :
+- attaquez les forces britanniques qui occupent le village d’Otto et repoussez-les.
+[Mission.Success]
+Beau travail, commandant ! Les défenses ennemies ont été brisées.
+[Mission.Failed]
+Vous avez échoué ! 
+[Submission_1.Objectives]
+Attaquer les positions ennemies dans le village d’Otto.
+[Submission_1.Description]
+Le village d’Otto se trouve au sud-est de votre position de départ. Apparemment, nos premiers renseignements étaient inexacts et le village est plus fortement occupé et fortifié que prévu. Coordonnez vos assauts avec soin, commandant, et prenez ce village !
+ 
+Vos ordres :
+- capturer Otto.
+[Submission_1.Success]
+Beau travail, commandant ! Le village a été conquis.
+[Submission_1.Failed]
+Vous avez échoué !
+[Submission_2.Objectives]
+Organisez vos troupes pour établir une défense solide contre toute contre-attaque ennemie.
+[Submission_2.Description]
+Après avoir perdu le village, l’ennemi va certainement contre-attaquer pour tenter de le reprendre.
+ 
+Vos ordres :
+- repousser toutes les attaques.
+[Submission_2.Success]
+Beau travail, commandant ! Les attaques ennemies ont été repoussées.
+[Submission_2.Failed]
+Vous avez échoué ! Vos forces ont dû battre en retraite.

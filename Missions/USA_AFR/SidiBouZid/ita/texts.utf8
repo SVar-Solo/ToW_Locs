@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+Schiacciate il nemico
+[Mission.Description]
+Tenente colonnello Waters! Dovete condurre un’offensiva per schiacciare il nemico presso il villaggio di Sidi Bou Zid.
+[Mission.Success]
+L’offensiva ha avuto successo! Il nemico fugge!
+[Mission.Failed]
+Ritirata! Le nostre truppe sono state sconfitte!
+[Submission1.Objectives]
+Liberate il villaggio
+[Submission1.Description]
+Liberate il villaggio dalle truppe nemiche.
+[Submission1.Success]
+Il villaggio è stato liberato dagli invasori.
+[Submission1.Failed]
+Non siamo riusciti a scacciare il nemico dal villaggio!
+[Submission2.Objectives]
+Ristabilite il contatto
+[Submission2.Description]
+Inviate un’unità di fanteria alla postazione degli obici per ristabilire il contatto.
+[Submission2.Success]
+Il contatto è stato ristabilito.
+[Submission2.Failed]
+Non siamo riusciti a ristabilire il contatto con l’artiglieria!
+[Submission3.Objectives]
+Proteggete l’artiglieria
+[Submission3.Description]
+Impedite al nemico di impadronirsi dell’artiglieria.
+[Submission3.Success]
+Il nemico non è riuscito a catturare l’artiglieria!
+[Submission3.Failed]
+Il nemico ha catturato l’artiglieria!
+[Submission4.Objectives]
+Catturate l’artiglieria
+[Submission4.Description]
+Riprendete la postazione d’artiglieria!
+[Submission4.Success]
+L’artiglieria è di nuovo nostra!
+[Submission4.Failed]
+Il nemico controlla ancora l’artiglieria!
+[Submission5.Objectives]
+Distruggete l’imboscata
+[Submission5.Description]
+Distruggete l’imboscata
+[Submission5.Success]
+L’imboscata è stata distrutta!
+[Submission5.Failed]
+L’imboscata non è stata distrutta!
+[Submission8.Objectives]
+Distruggete le forze nemiche in avanzata
+[Submission8.Description]
+Il nemico ha lanciato una controffensiva per smorzare il nostro attacco a Sidi Bou Zid. Distruggete le forze nemiche in avanzata!
+[Submission8.Success]
+Le forze nemiche in avanzata sono state distrutte!
+[Submission8.Failed]
+Le nostre truppe sono state schiacciate dalle forze nemiche in avanzata!
+[StringTable.Zasada]
+Un’imboscata.
+[Submission6.Objectives]
+Distruggete i carri armati
+[Submission6.Description]
+Distruggete i carri armati nemici in avanzata.
+[Submission6.Success]
+I carri armati nemici sono stati distrutti!
+[Submission6.Failed]
+I carri armati nemici non sono stati distrutti!
+[Submission7.Objectives]
+Distruggere i carri armati nemici
+[Submission7.Description]
+È stata avvistata un’unità corazzata nemica a sud. Distruggetela il prima possibile.
+[Submission7.Success]
+L’unità corazzata nemica è stata sconfitta!
+[Submission7.Failed]
+L’unità corazzata nemica non è stata sconfitta!
+[StringTable.human]
+Fanteria
+[StringTable.spg]
+Semoventi

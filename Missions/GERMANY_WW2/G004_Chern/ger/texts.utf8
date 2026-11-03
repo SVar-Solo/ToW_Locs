@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+Erobern Sie die Bahnstation bei Chern.
+[Mission1.Description]
+Mit Elementen der 3. Panzerdivision werden Sie eine Offensive in Richtung Chern starten. In diesem Abschnitt der Front haben die Russen starke Verteidigungsstellungen aufgestellt. Die Chern Station eignet sich besonders gut zur Verteidigung, also werden Sie schnell und geschickt vorgehen müssen, um einen Sieg davonzutragen.
+
+Ihre Befehle: 
+-	 Eliminieren Sie die feindlichen Einheiten und erobern Sie die Chern Bahnstation.
+[Mission1.Success]
+Die Aufgabe wurde erfüllt und der Bahnhof ist jetzt in unserer Hand! Die Russen haben sich aber verbissen gewehrt und es scheint, dass unser weiterer Vormarsch auf Moskau schwieriger sein könnte als erwartet.
+[Mission1.Failed]
+Die Russen haben sich so hefti gewehrt, dass sie all Ihre Einheiten in die Flucht geschlagen haben! Sie tragen ganz alleine die Verantwortung für diese Katastrophe! 
+[Submission_01.Objectives]
+Bombardieren Sie die feindlichen Stellungen.
+[Submission_01.Description]
+Bombardieren Sie die feindlichen Stellungen bevor Sie mit der Bodenoffensive beginnen. 
+[Submission_01.Success]
+Die Aufgabe wurde erfüllt und der Artillerieschlag ein voller Erfolg!
+[Submission_01.Failed]
+Ihr Artillerieschlag hat es nicht geschafft, die feindlichen Stellungen aufzuweichen. 
+[Submission2_1.Objectives]
+Greifen Sie die feindlichen Truppen aus der rechten Flanke an.
+[Submission2_1.Description]
+Wir sind durch die rechte Flanke der russischen Verteidigung gebrochen! Sie versuchen unsere Offensive zu stoppen, indem Sie ihre letzten Reserve bei dem Bahnhof einsetzen. Sie könnten einen Gegenangriff planen, also seien Sie gewappnet.  
+
+Ihre Befehle:  
+-	 Greifen Sie die feindlichen Truppen aus der rechten Flanke an.
+[Submission2_1.Success]
+Die Aufgabe wurde erfüllt und der Angriff ein voller Erfolg! 
+[Submission2_1.Failed]
+Sie sind gescheitert. Die Russen haben Ihren Angriff zurückgeschlagen! 
+[Submission1_1.Objectives]
+Greifen Sie die feindlichen Einheiten bei der Chern Station an. 
+[Submission1_1.Description]
+Die russische Verteidigung wurde gebrochen! Sie versuchen unsere Offensive zu stoppen, indem Sie ihre letzten Reserve bei dem Bahnhof einsetzen. Sie könnten einen Gegenangriff planen, also seien Sie gewappnet.  
+
+Ihre Befehle: 
+-	 Greifen Sie die feindlichen Einheiten bei der Chern Station an.
+[Submission1_1.Success]
+Aufgabe erfüllt, die Station ist un unserer Hand!
+[Submission1_1.Failed]
+Aufgabe nicht erfüllt, Sie konnten die Station nicht erobern!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.
+[StringTable.Reserv1]
+Verstärkungen sind unterwegs.

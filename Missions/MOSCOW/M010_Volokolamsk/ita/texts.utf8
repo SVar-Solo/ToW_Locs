@@ -1,0 +1,43 @@
+﻿[Mission.Objectives]
+Libera il villaggio dagli invasori tedeschi.
+[Mission.Description]
+Le truppe del nemico stanno fuggendo! In pochi giorni la nostra controffensiva ha raggiunto Volokolamsk. Il Quartier Generale ti ha incaricato di inseguire ed eliminare le unità nemiche rimanenti o le sacche di resistenza nel tuo settore del fronte.
+
+I tuoi ordini sono:
+- Libera il villaggio dagli invasori tedeschi.
+[Mission.Success]
+Hai liberato il villaggio. Gli ordini del Quartier Generale sono stati eseguiti!
+[Mission.Failed]
+Non sei riuscito a eseguire i tuoi ordini!
+[Submission_1.Objectives]
+Libera il villaggio.
+[Submission_1.Description]
+A nord ovest si trova un insediamento che i tedeschi hanno trasformato in una roccaforte sulla strada per Volokolamsk. Si tratta di un’arteria di importanza strategica che deve essere presa. 
+
+I tuoi ordini sono:
+- Distruggi le forze nemiche con tutte le forze disponibili.
+- Libera il villaggio dagli invasori.
+[Submission_1.Success]
+Gli ordini del Quartier Generale sono stati eseguiti!
+[Submission_1.Failed]
+Non sei riuscito a eseguire gli ordini del Quartier Generale! Le tue truppe sono state sconfitte. [Submission_2.Objectives]
+Distruggi le forze nemiche.
+[Submission_2.Description]
+I tedeschi sono passati a una difesa attiva e stanno mandando dei piccoli gruppi ad attaccarci. I nostri esploratori hanno scorto il nemico che avanza.
+
+I tuoi ordini sono:
+- Distruggi le forze nemiche che stanno avanzando.
+[Submission_2.Success]
+Gli ordini sono stati eseguiti! Le truppe nemiche sono state sconfitte!
+[Submission_2.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Le tue truppe sono state sconfitte. [Submission_3.Objectives]
+Respingi il contrattacco nemico.
+[Submission_3.Description]
+L’insediamento è stato occupato dalle nostre truppe, ma i tedeschi non intendono farci riposare. Anche ora stanno preparando un contrattacco da nord.
+
+I tuoi ordini sono:
+- Respingi il contrattacco nemico.
+[Submission_3.Success]
+Il contrattacco nemico è stato respinto. Gli ordini sono stati eseguiti!
+[Submission_3.Failed]
+Non sei riuscito a eseguire gli ordini del Quartier Generale. Non hai tenuto le posizioni che avevi occupato in precedenza con gravi perdite.

@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Przebij się przez linię obrony Syrcewo-Dubrawa i zniszcz punkt dowodzenia w Syrcewie.
+[Mission.Description]
+Drużyna bojowa wspierana przez czołgi i działa szturmowe będzie zmierzać w kierunku Dubrawy i Syrcewa, mijając Syrcewo od wschodu. Pokonaj wrogów w punktach obronnych, a potem dotrzyj do wschodniego brzegu Pjany, na północ od Syrcewa. Za wszelką cenę zniszcz stanowisko dowodzenia Sowietów w Syrcewie.
+[Submission_1.Objectives]
+Przebij się przez linię obrony Syrcewo-Dubrawa. Zabezpiecz punkt strategiczny misji za pomocą piechoty.
+[Submission_2.Objectives]
+W Syrcewie znajduje się punkt dowodzenia przeciwnika. Musimy kontynuować natarcie i zniszczyć punkt dowodzenia.
+[Submission_1_1.Objectives]
+Nasza grupa sabotażowo-zwiadowcza w Dubrawie zniszczyła stanowiska rosyjskich dział przeciwlotniczych i przegrupowała się w wiosce. Trzeba jak najszybciej przebić się do Dubrawy i ocalić grupę Steinera.
+[Submission_1_1.Success]
+Grupa Steinera jest teraz pod twoją komendą.
+[Submission_1_1.Failed]
+Grupa Steinera została rozbita.
+[Submission_1.Success]
+Przejęto linię obrony wroga.
+[Submission_1.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[Submission_2.Success]
+Wrogi punkt dowodzenia został zniszczony. Syrcewo jest pod kontrolą naszych wojsk.
+[Submission_2.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[Mission.Success]
+Wroga linia obrony Syrcewo-Dubrawa została przełamana. Wrogi punkt dowodzenia w Syrcewie został zniszczony.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazów. Nieprzyjaciel jest zbyt silny! 
+[StringTable.Ger_infantry]
+Dostałeś do dyspozycji rezerwową jednostkę piechoty.
+[StringTable.Ger_support]
+W rezerwie są czołgi, działa samobieżne i jednostki piechoty. Dostaniesz je pod komendę, jeżeli powiedzie się początkowa faza ataku.
+
+[StringTable.Inf]
+Piechota
+[StringTable.Tanks]
+Czołgi
+[StringTable.SPG]
+Działa samobieżne
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

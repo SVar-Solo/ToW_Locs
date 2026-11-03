@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+Greifen Sie an und erobern und halten Sie die Brücke.
+[Submission_1.Description]
+Ein schnelles Vorgehen ist von äusserster Wichtigkeit. Sie müssen angreifen und die Brücken einnehmen und halten. Die Deutschen werden diese wichtigen strategischen Punkte aber nicht ohne harten Kampf aufgeben.
+
+Ihre Befehle:
+-	 Greifen Sie an und nehmen Sie alle Brücken ein, die auf Ihrer Karte markiert sind
+-	 Verteidigen Sie gegen die deutschen Gegenangriffe um die Brücken unter Ihrer Kontrolle zu halten
+[Submission_1.Failed]
+Misson gescheitert. Sie konnten die Brücken nicht einnehmen.
+[Submission_1.Success]
+Sie haben die Brücken eingenommen!
+[Mission.Objectives]
+Halten Sie die Brücken unter Ihrer Kontrolle und expandieren Sie den Brückenkopf bis zur Stadt, und schlagen Sie die feindlichen Verteidiger in die Flucht.
+[Mission.Description]
+Die schnelle Einnahme von Brücken im Rücken des Feindes ist eine Aufgabe, für die leichte und schnelle Fallschirmeinheiten hervorragend geeignet sind, denn sie können nahezu unentdeckt abgesetzt werden. Das Halten diese Brücken gegen konzentrierte Gegenangriffe des Feindes, vor allem gegen schwere gepanzerte Einheiten, war selbst für die besten Eliteeinheiten eine schwere Aufgabe, auch wenn es oft genug gefordert wurde.
+[Mission.Success]
+Sieg! Sie haben die Brücken gehalten und die feindlichen Versuche, sie wieder zu erobern, zurückgeschlagen.
+[Mission.Failed]
+Niederlage. Trotz heldenhaftem Kampf konnten Ihre Soldaten die gestellte Aufgabe nicht errfüllen.
+[Submission_2.Objectives]
+Greifen Sie das Dorf nördlich von uns an.
+[Submission_2.Description]
+Örtliche Widerstandskämpfer berichteten, dass nördlich der Brücken ein kleines vom Feind besetztes Dorf liegt, in dem ein deutschen Hauptquartier mit dem gesamten Stab untergebracht sind. Wir müssen diese Gelegenheit ergreifen, die Befehlskette des Feindes zu unterbrechen.
+
+Ihre Befehle:
+-	 Greifen Sie das Dorf an.
+-	 Nehmen Sie den feindlichen HQ Stab gefanfen oder eliminieren Sie ihn
+[Submission_2.Success]
+Hervorragende Arbeit, das Dorf ist unser!
+[Submission_2.Failed]
+Sie konnten das Dorf nicht erobern und der feindliche HQ Stab konnte fliehen.
+[StringTable.tank_reserv]
+Mehrere Panzer sind durch die feindlichen Linien gebrochen und befinden sich nun unter Ihrer Kontrolle.
+[StringTable.inf_reserv]
+Eine zusätzliche Gruppe Fallschirmjäger ist eingetroffen, um Sie zu unterstützen.

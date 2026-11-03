@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+독일군 방어선을 돌파하라.
+[Mission.Description]
+오버로드 작전의 초기 단계는 성공을 거두었으나, 이제는 독일군이 점령한 노르망디 내륙 깊숙이 타격할 때다. 독일군이 모든 마을과 전략 요충지에 참호를 파고 있어 내륙으로의 진격은 큰 대가를 치르고 있다. 이 구역의 특이한 지형 또한 기동성을 제한하여 연합군에게 불리하게 작용하고 있다.
+[Mission.Success]
+적의 방어선이 파괴되었다!
+[Mission.Failed]
+심각한 손실을 입고 패배했다.
+[Submission_1.Objectives]
+전선의 이 구역에서 적의 방어선을 파괴하라.
+[Submission_1.Description]
+사격과 기동을 병행하여 적 방어 진지를 우회해 후방에서 공격하라. 귀관을 위해 항공 전력을 돌리려 노력 중이며, 포병 지원도 대기 상태로 준비될 것이다.
+[Submission_1.Success]
+임무 완료.
+[Submission_1.Failed]
+패배했다!
+[StringTable.Tanks_reserv]
+예비 전차대가 도착했다.
+[StringTable.reserv]
+보병 증원 부대가 도착했다.

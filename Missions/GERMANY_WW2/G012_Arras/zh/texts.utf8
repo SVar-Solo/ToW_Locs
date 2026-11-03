@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+防止敌军从西面攻来突破我军防线。
+[Submission1.Description]
+经过长时间的拖延，美军开始逼近阿拉斯一带。这一段战线上的形势十分严峻。敌军正从西面推进，且兵力占优。
+
+命令：
+- 	防止敌军从西面发起的进攻突破我军防线。
+[Submission1.Success]
+任务完成！敌军正在后撤。
+[Submission1.Failed]
+敌军已突破我军防线——我们不得不撤退！
+[Mission1.Objectives]
+阻止美军推进。
+[Mission1.Description]
+美军第3集团军已逼近我军防线。美军正准备沿整条战线、从不同方向发动大规模推进。我们必须挡住这最新一轮推进，掩护我军撤退。
+
+命令：
+-	坚守指定区域内的防御阵地。
+- 	在这一段战线上阻止敌军。
+[Mission1.Success]
+任务完成！美军的进攻已被打得七零八落！这再次证明了德国武器的绝对优势。
+[Mission1.Failed]
+你的防线被突破了！德国不会忘记帝国阵亡的将士，却几乎不会记得他们那个一无是处的指挥官！
+[Submission2.Objectives]
+防止南面防线被突破。
+[Submission2.Description]
+一大群美军正从南面压来。飞机和炮兵支援着他们的推进。
+
+命令：
+- 	抵挡这次来自南面的新攻势。
+[Submission2.Success]
+任务完成，敌军已被阻止！
+[Submission2.Failed]
+敌军已突破你的防线！
+[Submission3.Objectives]
+又一波攻击正从西南方逼近
+[Submission3.Description]
+侦察报告称，敌军正从西南方推进。
+
+命令：
+- 	击退来自西南方的敌军进攻。
+[Submission3.Success]
+你成功击退了敌军的进攻！
+[Submission3.Failed]
+敌军突破了你的防线；你不得不后撤！
+[Submission4.Objectives]
+抵挡这次来自西北方的新进攻。
+[Submission4.Description]
+一群美军正从西北方压来。
+
+命令：
+ -	 坚守阵地，抵挡从西北方进攻的敌军。
+[Submission4.Success]
+任务完成！
+[Submission4.Failed]
+你部队的防线已被突破！
+[StringTable.Reserv]
+你获得了增援。

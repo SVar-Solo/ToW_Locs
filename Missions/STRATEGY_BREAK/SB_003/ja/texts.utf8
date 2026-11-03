@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+河を渡り、北へ進め。
+[Mission.Description]
+ パリは6月14日に陥落し、フランス政府はボルドーへ逃れた。一部のフランス軍部隊と守備隊は戦い続けている。抵抗は続けなければならない。最後の一兵が戦うのをやめるまで、軍は敗れたことにはならない！
+[Mission.Success]
+任務完了
+[Mission.Failed]
+任務失敗
+[Submission_1.Objectives]
+橋を渡って河の対岸へ到達せよ。
+[Submission_1.Description]
+橋を渡って河の対岸へ到達せよ。
+[Submission_1.Success]
+任務完了
+[Submission_1.Failed]
+任務失敗
+[Submission_2.Objectives]
+北部地区に到達せよ。
+[Submission_2.Description]
+北部地区に到達せよ。
+[Submission_2.Success]
+任務完了
+[Submission_2.Failed]
+任務失敗

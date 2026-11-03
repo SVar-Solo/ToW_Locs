@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Carry out a sabotage operation in the enemy’s rear near the town of Sandomierz. Find the POL and armament depot and destroy it. If you encounter any anti-aircraft guns positions, call in long-range artillery and airstrikes to deal with them.
+[Mission.Description]
+The Soviet army is approaching the borders of the Third Reich itself. Both sides have been preparing for an eventual battle around the small town of Sandomierz. Special saboteur squads have been sent by the Soviet High Command to infiltrate behind enemy lines. They are tasked with scouting enemy positions and destroying logistical assets and air defenses. Your elite squad must sabotage the POL and armament depot, spot and destroy any AA gun positions encountered. Your squad is made up of our very best scouts and a sniper. Use them wisely!
+[Mission.Success]
+All missions have been accomplished!
+[Mission.Failed]
+Mission failed!
+[Submission_1.Objectives]
+Penetrate into the settlement. Recon the situation. Root out the guards at the POL and armament depot. Find and capture any Panzershrecks as you may need their anti-armor power later on.
+[Submission_1.Description]
+Having slipped undetected through the enemies frontlines, your squad is now deep in the rear. Be wary of enemy blockposts situated along the roads and at strategic intersections and sites. Motorized patrols are common and if they detect you they will be quick to call in reinforcements. Your primary task to is destroy the POL and armament depot.
+[Submission_1.Success]
+Special zone destroyed.
+[Submission_1.Failed]
+Mission failed
+[Submission_2.Objectives]
+Recon the location of any anti-aircraft positions. Request artillery fire and aviation support to destroy the positions. Capture enemy transport to facilitate breaking through the bridge.  
+[Submission_2.Description]
+Our air assets have been launching constant strikes against strategic German sites but looses are high. The enemy is skilled at disguising their AAA sites and spotting them from the air has proven difficult and costly in men and machines. Your squad is ideally located to aid in this task. Search the vicinity for any anti-aircraft guns and when encountered request artillery fire and ground attack planes to destroy those locations.
+[Submission_2.Success]
+Anti-aircraft positions have been located and destroyed.
+[Submission_2.Failed]
+Mission failed.
+[Submission_3.Objectives]
+Break through towards the bridges across the Vistula. Wipe out the guards at both banks of the river.
+[Submission_3.Description]
+You have accomplished your main task. Now your detachment needs to get back home. The only way lies back over the bridge across the Vistula...
+[Submission_3.Success]
+Mission accomplished
+[Submission_3.Failed]
+Mission failed.
+[Submission_4.Objectives]
+Our Recon planes have located a tank column moving along the motorway towards the Vistula bridges.
+Your orders:
+-Destroy the tank column by any means.
+[Submission_4.Description]
+Our Recon planes have spotted a tank column moving along the motorway towards the bridges crossing the Vistula. Your task is to wait until the column approaches and then to block the bridge by destroying the lead tank. Perhaps using some captured German Panzershreks would be effective...
+[Submission_4.Success]
+A good job!
+[Submission_4.Failed]
+Task failed
+[Submission_5.Objectives]
+An enemy block post has been spotted. If you are detected, kill the guards.
+[Submission_5.Description]
+An enemy block post has been spotted. If you are detected, kill the guards.
+[Submission_5.Success]
+Mission accomplished.
+[Submission_5.Failed]
+Mission failed
+[StringTable.Zonder]
+The enemy has requested reinforcements.
+[StringTable.EnemyVisible]
+The enemy has spotted your troops, they must be eliminated. Time is short so you only have about 4-5 minutes before additionally enemy units may arrive.
+[StringTable.Ahtung]
+The enemy has spotted your squad.
+[StringTable.CallSupport]
+The German antiaircraft guns have been spotted. The position can not be destroyed by your saboteur squad alone. Request artillery and air support to eliminate the enemy.
+[Submission_6.Objectives]
+An enemy block post has been spotted. If you are detected, kill the guards.
+[Submission_6.Description]
+The block post is located on a strategically important road. Polish guerillas have reported that a motor patrol unit is constantly monitoring the road.
+[Submission_6.Success]
+The block post has been eliminated
+[Submission_6.Failed]
+You have lost and your elite troops have been killed!

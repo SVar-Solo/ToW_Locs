@@ -1,0 +1,38 @@
+﻿[Submission_1.Objectives]
+Aby uniemożliwić Rosjanom przebicie się na tyły, musisz ich zatrzymać za wszelką cenę.
+[Submission_1.Description]
+Rosjanie rozpoczęli kolejną kontrofensywę. Znowu próbują przełamać nasze linie i wywołać zamieszanie na naszych tyłach. Jeśli im się to uda, mogą się połączyć ze swoimi innymi oddziałami i okrążyć nasze wojska. Musimy się utrzymać i przerwać ten atak.
+Twoje rozkazy:
+-	Zniszczyć wszystkie nacierające jednostki nieprzyjaciela.
+[Submission_1.Success]
+Zwyciężyłeś i zatrzymałeś radzieckie natarcie!
+[Submission_1.Failed]
+Przegrałeś! Rosjanie przeszli przez twoje linie i zmierzają w kierunku ważnych punktów na naszych tyłach.
+[Submission_2.Objectives]
+Zgnieć opór Rosjan na stacji Prochorowka.
+[Submission_2.Description]
+Rosjanie stracili impet. Wykorzystaj tę okazję i uderz na stację Prochorowka. 
+Twoje rozkazy:
+-	Kontynuuj natarcie w kierunku stacji Prochorowka i zniszcz wszystkie napotkane jednostki obrońców.
+[Submission_2.Success]
+Zwyciężyłeś! Dobra robota. Wasze działania dadzą nam czas na odzyskanie inicjatywy.
+[Submission_2.Failed]
+Przegrałeś! Zmarnowałeś znakomitą okazję zadania Rosjanom potężnego ciosu.
+[Mission.Objectives]
+Zdobyć stację Prochorowka.
+[Mission.Description]
+Plan Operacji Cytadela powierzał 2. korpusowi pancernemu SS Obergruppenführera Haussera zadanie przebicia się przez obronę nieprzyjaciela zbudowaną wzdłuż linii Kartaszowka-Beregowoje-Prochorowka-Storożewoje. 
+Twoje rozkazy:
+-	Przełamać radziecką obronę w rejonie stacji Prochorowka. 
+[Mission.Success]
+Gratulacje! Przełamałeś radziecką obronę!
+[Mission.Failed]
+Nie udało ci się zająć stacji Prochorowka!
+[StringTable.Tanks_Reserv]
+Masz do dyspozycji rezerwy pancerne.
+[StringTable.SPG_Reserv]
+Masz do dyspozycji artylerię samobieżną.
+[StringTable.Infantry_Reserv]
+Masz do dyspozycji rezerwy piechoty.
+[StringTable.Inf_reserv]
+Masz do dyspozycji rezerwy piechoty.

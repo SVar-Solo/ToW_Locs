@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Repoussez les attaques ennemies au sud de Tcherkasskoïe. 
+[Mission.Description]
+Jusqu’à un bataillon d’infanterie avec des chars de la division Grossdeutschland avance depuis le sud pour donner l’assaut à Tcherkasskoïe. Concentrez vos efforts sur le maintien de la première tranchée. Si l’ennemi perce, repliez-vous sur les positions de repli à la lisière sud-ouest du village.
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+Nos forces se replient sous l’assaut d’un ennemi supérieur en nombre.
+[Submission_1.Objectives]
+Empêchez l’ennemi de pénétrer dans la partie sud de Tcherkasskoïe jusqu’à l’arrivée des renforts.
+[Submission_1.Success]
+L’avance ennemie a été stoppée.
+[Submission_1.Failed]
+L’ennemi a percé jusqu’au village, nos troupes se replient.
+[Submission_2.Objectives]
+Repliez-vous vers le centre de Tcherkasskoïe. Couvrez le repli du gros des forces vers la nouvelle ligne par des tirs d’artillerie et de chars.
+[Submission_2.Success]
+Mission accomplie, nos forces ont occupé la nouvelle ligne de défense.
+[Submission_2.Failed]
+Le contrôle des troupes est perdu ; les unités se replient en désordre par petits groupes isolés.
+[StringTable.Reinforcement_tanks]
+Un groupe de chars envoyé depuis les réserves de la division est désormais sous votre commandement.
+[StringTable.Reinforcement_spg]
+Une batterie de canons automoteurs est désormais sous votre contrôle.
+
+[StringTable.ChangeArmy]
+Les équipes de combat des flancs gauche et droit sont désormais sous votre commandement. 
+[StringTable.tanks]
+Chars du 245e régiment de chars indépendant
+[StringTable.SPG]
+Canons d’assaut du 1440e régiment d’artillerie automotrice
+[StringTable.Infantry]
+Infanterie
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

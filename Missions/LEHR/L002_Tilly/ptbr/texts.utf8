@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Mantenha e defenda a área especificada.
+[Submission1.Description]
+O XXX Corpo britânico lançou uma nova ofensiva contra o 901º Regimento Panzergrenadier, que defende a cidade de Tilly.
+ 
+Suas ordens:
+- Mantenha a cidade
+[Submission1.Success]
+Bom trabalho, Comandante!
+[Submission1.Failed]
+Missão fracassada! Suas tropas foram destruídas.
+[Submission2.Objectives]
+Detenha o ataque inimigo.
+[Submission2.Description]
+O XXX Corpo britânico lançou um ataque de interdição para perturbar suas posições e permitir que sua 7ª Divisão Blindada retome a própria ofensiva.
+ 
+Suas ordens:
+- Detenha o ataque inimigo.
+[Submission2.Success]
+Bom trabalho, Comandante! O ataque inimigo foi detido.
+[Submission2.Failed]
+Missão fracassada! Suas tropas foram destruídas.

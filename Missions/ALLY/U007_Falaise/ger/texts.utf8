@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+Führen Sie eine Aufklärungsmission durch. Vertreiben Sie den Feind aus dem Tal. 
+[Submission_1.Description]
+Die deutschen Truppen ziehen sich zurück! Wir haben es geschafft sie bei Falaise einzukesseln, aber sie wehren sich trotzdem mit erbittertem Widerstand. Eisenhower's Plan, die Deutschen völlig einzukreisen, ist allerdings noch nicht völlig erfüllt. Der Feind hat einige Widerstandsnester auf den benachbarten Hügeln eingerichtet. 
+
+Ihre Befehle:
+-	 Führen Sie eine Aufklärungsmission im benachbarten Dorf durch und zerstören Sie alle Feindeinheiten, denen Sie begegnen.
+[Submission_1.Success]
+Das Tal ist nun in unserer Hand!
+[Submission_1.Failed]
+Sie wurden geschlagen. 
+[Submission_2.Objectives]
+Greifen Sie die Hügel an und vertreiben Sie den Feind aus seiner Verteidigungsstellung.
+[Submission_2.Description]
+Die letzte deutsche Verteidigungslinie liegt vor uns. Sie verfügen über adäquate Luftunterstützung, und Ihre Aufgabe ist es, die feindlichen Verteidigungslinien zu zerstören. Benutzen Sie Ihre und zahlenmässige Überlegenheit in der Luft und auf dem Boden zu Ihrem Vorteil.
+
+Ihre Befehle:
+-	 Zerstören Sie die feindlichen Verteidigungsanlagen, brechen Sie bis auf die Hügel durch und richten Sie dort eine Verteidigungsposition ein. 
+[Submission_2.Success]
+Der Feind wurde geschlagen. 
+[Submission_2.Failed]
+Niederlage! Sie konnten nicht durch die feindliche Verteidigung brechen.
+[Mission.Objectives]
+Zerschlagen Sie den feindlichen Widerstand und zerstören sie alle seine Verteidigungsanlagen.
+[Mission.Description]
+Die deutschen Streitkräfte ziehen sich unter dem Druck der Alliierten Armee zurück, doch der Feind bietet immer noch ernsten Widerstand. Das spezielle Gelände bei Falaise hat den Deutschen einen Vorteil verschafft, obwohl die Alliierten Streitkräfte zahlenmässig weit überlegen sind. Zahlreiche Widerstandnester des Feindes in den Hügeln verlangsamen unsere Truppen und kosten viel Zeit und Verluste. Wir müssen hindurchbrechen bevor die Deutschen Zeit haben sich neu zu organisieren.
+
+Ihre Befehle: 
+-	 Halten Sie alle Widerstandsnester der Deutsche in den Hügeln unter Beschuss 
+-	 Nachdem Sie Ihre Truppen konzentriert haben, machen Sie den entscheidenden Schlag, und brechen Sie durch, und eliminieren danach die deutschen Einheiten. 
+[Mission.Success]
+Sie haben gewonnen. Die feindlichen Widerstandsnester wurden zersört.
+[Mission.Failed]
+Sie haben verloren. Die deutschen Truppen haben ihren Angriff zurückschlagen können.
+[StringTable.reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.
+[Submission_3.Objectives]
+Schlagen Sie den feindlichen Gegenangriff zurück.
+[Submission_3.Description]
+Nach dem Verlust seiner Verteidigungsstellung will der Feind jetzt mit seinen Reserveeinheiten einen Gegenangriff durchführen.
+
+Ihre Befehle:
+-	 Schlagen Sie den feindlichen Angriff zurück.
+[Submission_3.Success]
+Der Feind wurde zerschlagen. Der feindliche Gegenangriff ist gescheitert.
+[Submission_3.Failed]
+Niederlage! Der feindliche Gegenangriff war erfolgreich.

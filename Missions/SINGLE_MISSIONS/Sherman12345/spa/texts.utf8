@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Los estadounidenses vienen desde la dirección del punto 2, ¡ataque antes de que lleguen hasta nosotros! Se lo recuerdo una vez más: ¡haga del terreno su poderoso aliado! ¡Buena suerte!
+[Mission.Success]
+¡La evacuación se ha completado con éxito!
+[Mission.Failed]
+Todos los "Tiger" han sido derribados o destruidos; el enemigo irrumpió en el pueblo antes de que terminara la evacuación. ¡La misión ha fracasado!
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+El primer ataque enemigo se ha estrellado, pero está lanzando sus reservas desde el punto 3. ¡Resistan!
+[StringTable.IntroSubtitle1]
+El mayor Gerhard, en su "Kübelwagen", a los comandantes de los "Tiger":
+[StringTable.IntroSubtitle2]
+El enemigo es muy fuerte, pero...
+[StringTable.IntroSubtitle3]
+permítanme recordarles una vez más que...
+[StringTable.IntroSubtitle4]
+el Tiger es casi invulnerable a los ataques a larga distancia.
+[StringTable.IntroSubtitle5]
+El terreno nos permite disparar desde lejos, ...
+[StringTable.IntroSubtitle6]
+y esa debe ser nuestra carta de triunfo.
+[StringTable.InfoSubtitle7]
+¡Buena suerte, Herr Ofiziere! ¡Adelante! ¡Gott mit uns!
+[StringTable.InfoSubtitle8]
+Comandantes de los "Tiger": ¡Zu Befehl!
+[StringTable.IntroSubtitle7]
+[StringTable.SubtitleWin1]
+Mayor Gerhard: ¡Lo lograron! Aunque no esperaba menos.
+[StringTable.SubtitleWin2]
+Herren Ofiziere, ¡los felicito por la victoria!
+[StringTable.SubtitleWin3]
+Aunque no puedo permitir que disfruten de su merecido descanso.
+[StringTable.SubtitleWin4]
+Mientras nuestra atención estaba puesta...
+[StringTable.SubtitleWin5]
+en los estadounidenses, los británicos nos flanquearon.
+[StringTable.SubtitleWin6]
+Deben contraatacarlos de inmediato.
+[StringTable.SubtitleWin7]
+¡El destino del Reich está de nuevo en nuestras manos!
+[StringTable.SubtitleWin8]
+Dotaciones de los "Tiger": ¡Zu Befehl!
+[StringTable.SubtitleFail1]
+Radios de los tanques aliados: ¡No hagan prisioneros! ¡Mátenlos a todos!
+[StringTable.SubtitleFail2]
+¡Mataron a mi amigo Jimmy! ¡Muere, maldito bastardo!
+[StringTable.SubtitleFail3]
+¡Ninguna piedad con esos bastardos! ¡Aplástenlos!
+[StringTable.SubtitleFail4]
+¡Véanlos arder!

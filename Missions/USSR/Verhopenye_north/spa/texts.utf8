@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Mantenga la línea en la orilla oriental del Pena. Impida que el enemigo cree una cabeza de playa en la orilla occidental.
+[Mission.Description]
+Junto con los tanques de la 200.ª Brigada de Tanques, asegure el punto fuerte de la parte occidental de la aldea de Verjopenye. Las unidades que se replieguen hacia la zona defensiva serán reunidas, reabastecidas y desplegadas en los sectores correspondientes. Destruya con contraataques a los grupos enemigos que avancen, mientras protege las posiciones ocupadas.
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+El enemigo ha cruzado el río Pena; nuestras tropas se retiran.
+[Submission1.Objectives]
+Rechace todos los ataques enemigos. Impida que el enemigo irrumpa hacia los puentes del Pena.
+[Submission1.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Submission1.Failed]
+Las fuerzas enemigas superiores continúan el avance.
+[Submission2.Objectives]
+El enemigo ha irrumpido en las posiciones cercanas al cruce; existe riesgo de que establezca una cabeza de puente en la orilla occidental. Contraataque de inmediato al enemigo y hágalo retroceder desde el río.
+[Submission2.Success]
+El contraataque se desarrolla bien; el enemigo se retira.
+[Submission2.Failed]
+El contraataque ha sido derrotado; existe riesgo de que el enemigo cree una cabeza de puente.
+[StringTable.Platzdarm]
+Destruya a los grupos enemigos que avanzan antes de que reciban refuerzos.
+[StringTable.Air!]
+¡Ataque aéreo! ¡Todos a cubierto!
+
+[StringTable.Tanks]
+Tanques del 203.er Regimiento Independiente de Tanques Pesados
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

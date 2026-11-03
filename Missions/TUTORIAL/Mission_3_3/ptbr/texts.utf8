@@ -1,0 +1,96 @@
+﻿[Mission.Objectives]
+Liberte o povoado. Mantenha-o até a chegada dos reforços.
+
+[Mission.Description]
+Usando o grupo de sabotagem e reconhecimento designado a você, liberte o povoado das tropas alemãs e mantenha-o até a chegada dos reforços.
+
+[Mission.Success]
+Você cumpriu a tarefa com sucesso. O comando agradece pelo seu serviço.
+
+[Mission.Failed]
+
+[SubMission_01.Objectives]
+Preste toda a ajuda possível aos nossos tanquistas. Selecione todo o grupo de paraquedistas e envie-o ao ponto perto da fumaça de sinalização vermelha.
+
+[SubMission_01.Description]
+Um tanque da brigada de tanques foi destruído diante dos nossos olhos; parece que os tanquistas conseguiram deixar o veículo em chamas. Inspecione as ruínas perto do tanque; talvez alguns dos tanquistas ainda estejam vivos. Preste auxílio aos tanquistas feridos.
+
+[SubMission_01.Success]
+Tarefa concluída. Os tanquistas se juntaram ao nosso grupo.
+
+[SubMission_01.Failed]
+
+[SubMission_02.Objectives]
+Capture o tanque. Use comandos de ataque ao se mover até o local do tanque, destacado pela fumaça de sinalização vermelha. Concentre o fogo da esquadra nos soldados inimigos.
+
+[SubMission_02.Description]
+Segundo os dados de reconhecimento, os alemães estão escondendo nosso tanque nesta área. Como ele foi parar nas mãos deles é desconhecido. Com a ajuda dos tanquistas que se juntaram ao grupo, capture o tanque.
+
+[SubMission_02.Success]
+Tarefa concluída. O tanque está novamente em nossas mãos.
+
+[SubMission_02.Failed]
+
+[SubMission_03.Objectives]
+Suprima o fogo da artilharia inimiga. Use granadas antipessoais ou projéteis HE; eles destruirão apenas as guarnições dos canhões.
+
+[SubMission_03.Description]
+Suprima o fogo da artilharia inimiga. Tente capturar os canhões inimigos; precisaremos deles para organizar a defesa do povoado; para isso, é aconselhável usar projéteis HE ou granadas antipessoais.
+
+[SubMission_03.Success]
+Tarefa concluída. A artilharia inimiga deixou de existir.
+
+[SubMission_03.Failed]
+
+[SubMission_04.Objectives]
+Repila os ataques inimigos. Concentre o fogo de todos os canhões no flanco esquerdo. À direita foram detectados campos minados, que nos ajudarão a destruir o inimigo no flanco direito. Não permita que o tanque avance sobre os campos minados.
+
+[SubMission_04.Description]
+O inimigo está tentando retomar o povoado. Posicione todos os canhões na direção dele e resista até a chegada das nossas tropas.
+
+[SubMission_04.Success]
+Conseguimos! Hurra!
+
+[SubMission_04.Failed]
+
+[StringTable.avia_report]
+Há apoio aéreo disponível. Especifique um ponto no terreno para onde o apoio aéreo deve ser direcionado. Os bombardeiros de mergulho, como os aviões de ataque, atacam o inimigo de forma independente, mas o fazem a partir de um mergulho íngreme.
+
+[StringTable.msg_01_01]
+Você comanda uma esquadra de reconhecimento. Trata-se de um destacamento bem treinado; seus soldados têm camuflagem que aumenta sua furtividade, mesmo com o parâmetro "Reconhecimento" igual a zero. Eles estão armados com submetralhadoras, extremamente eficazes em curtas distâncias, em torno de 100 metros.
+
+[StringTable.msg_01_02]
+Os tanquistas não têm camuflagem, mas são capazes de operar veículos. Proteja as pessoas com altas habilidades de "Direção" ou "Artilheiro", assim como as de patentes elevadas — elas aumentam a moral dos soldados próximos.
+
+[StringTable.msg_01_03]
+Este terreno é coberto por grama alta, que pode esconder completamente suas esquadras a certa distância. A altura da grama afeta diretamente o corte da linha de visão. Escolha o modo de movimento deitado {hkey:setbodymodelay} para garantir que os soldados fiquem escondidos na grama.
+
+[StringTable.msg_02_01]
+Você está sendo atacado pela infantaria inimiga. Na maioria das situações, basta permitir que seus soldados atirem de forma independente. Observe os setores de tiro dos soldados para que não atrapalhem uns aos outros e para que o inimigo esteja em seu campo de visão.
+
+[StringTable.msg_02_02]
+Para um avanço mais eficaz, deixe alguns soldados no lugar para cobrir os que mudam de posição. É aconselhável se mover entre arbustos e coberturas em curtas corridas {hkey:setbodymodeknee}, sem permanecer muito tempo em terreno aberto.
+
+[StringTable.msg_02_03]
+Com sua forte pressão, a infantaria inimiga pode se render; então o ícone acima desses inimigos ficará cinza.
+
+[StringTable.msg_02_04]
+Se o ícone acima de um veículo estiver cinza, esse objeto pode ser capturado. Lembre-se de que operar um tanque ou canhão exige as habilidades apropriadas. Para operar equipamento capturado, as habilidades devem estar acima de um certo limiar. Você pode descobrir se o equipamento é considerado capturado pela bandeira no fundo do seu ícone na dica. Se você capturar esse equipamento e o levar para a próxima missão da campanha, ele deixará de ser considerado capturado.
+
+[StringTable.msg_02_05]
+Para capturar um tanque, selecione os tanquistas e clique nele com o botão direito.
+
+[StringTable.msg_03_01]
+Use o comando do tanque - fogo em área {hkey:groundattack}, clicando com o botão direito no terreno, perto do inimigo ou diretamente sobre ele.
+
+[StringTable.msg_03_02]
+Aproxime-se da artilharia pela retaguarda, onde ela é mais vulnerável. Use granadas HE.
+
+[StringTable.msg_04_01]
+Para girar o canhão, é necessário que sua guarnição tenha pelo menos 2 soldados. Selecione o canhão e clique com o botão direito no ponto na direção em que deseja girar o canhão; mantenha o botão do mouse pressionado até o cursor mudar.
+
+[StringTable.msg_04_02]
+A carga de munição do tanque T-34 contém 2 tipos de projéteis perfurantes:
+APHEBC - projétil com capa, explode após vencer um obstáculo blindado. Tem uma pequena carga explosiva, suficiente para atingir tripulantes próximos ao ponto de detonação.
+APBC - projétil maciço, sem carga explosiva, mas com maior chance de atingir módulos internos.
+Além disso, ambos os tipos de projéteis podem causar a formação de fragmentos secundários, atingindo a tripulação e os componentes internos.

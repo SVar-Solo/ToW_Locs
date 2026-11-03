@@ -1,0 +1,22 @@
+﻿[Submission_1.Objectives]
+Destruya las defensas enemigas.
+[Submission_1.Description]
+En su repliegue, las tropas alemanas han formado una nueva línea defensiva en Iadromino. Es preciso que destruya dichas defensas enemigas si pretende avanzar más allá de Volokolamsk.
+
+Sus órdenes son:
+- Destruya las defensas enemigas.
+[Submission_1.Success]
+¡Ha cumplido la orden! Ha destruido la defensa enemiga.
+[Submission_1.Failed]
+¡Ha fracasado en el cumplimiento de su tarea! Han derrotado a sus tropas.
+[Submission_2.Objectives]
+Rechace el ataque enemigo.
+[Submission_2.Description]
+Las tropas alemanas han realizado otra contraofensiva para destruir a nuestras tropas en la zona. Es imprescindible que no ceda y aguante este último ataque.
+
+Sus órdenes son:
+- Rechace el ataque enemigo.
+[Submission_2.Success]
+¡Tarea completada! Ha rechazado el ataque del enemigo.
+[Submission_2.Failed]
+¡Tarea fallida! Han derrotado a sus tropas.

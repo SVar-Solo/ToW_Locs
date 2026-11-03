@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Hold the defensive positions on the Dubrova - Solonetz line. Prevent enemy tanks from breaking through to Syrtsev.
+[Mission.Description]
+In conjunction with an antitank artillery battery, antitank rifle unit and tanks hold the area of defense. Special priority should be given to holding the positions in the village. Use tanks for ambushes.
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+Our forces withdraw under strikes of superior enemy.
+[Submission1.Objectives]
+Repel the enemy attack using tank ambushes.
+[Submission1.Success]
+The enemy tanks have been destroyed.
+[Submission1.Failed]
+Our tanks have been destroyed, the enemy presses the advance.
+[Submission2.Objectives]
+Prepare to repel the next attack. Tanks withdraw to auxiliary firing positions! 
+[Submission2.Success]
+Mission complete. All enemy attacks have been repelled.
+[Submission2.Failed]
+Our tanks have been destroyed, the enemy presses the advance.
+[Submission3.Objectives]
+Counterattack the enemy. Restore the frontline! Prevent the enemy tanks and motorized infantry from breaking through to our rear.
+[Submission3.Success]
+Mission complete, the frontline has been restored.
+[Submission3.Failed]
+Counterattack defeated, the enemy presses the advance.
+[StringTable.Tanks!]
+Tanks! Fire at the closest range possible at their sides and rears!
+[StringTable.Air!]
+Air strike! Take cover!
+
+[StringTable.Tank]
+Tanks from 3rd Motorized Brigade
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

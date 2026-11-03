@@ -1,0 +1,116 @@
+﻿[Mission.Objectives]
+Den Feind nicht in die Siedlung eindringen lassen.
+
+[Mission.Description]
+Decken Sie mit dem Ihnen zugeteilten Pioniertrupp unsere Truppen. Lassen Sie feindliche Truppen den amerikanischen Transportstützpunkt nicht erreichen.
+
+[Mission.Success]
+Sie haben die Aufgabe erfolgreich erfüllt. Das Kommando dankt Ihnen für Ihren Dienst.
+
+[Mission.Failed]
+Sie haben die Aufgabe nicht erfüllt.
+
+[SubMission_01.Objectives]
+Bringen Sie den Pioniertrupp, während Sie auf den Hubschrauber warten, im Zelt nahe dem Landeplatz unter. Sie haben vier Minuten für diese Aufgabe. Die Zeit läuft ab jetzt.
+
+[SubMission_01.Description]
+Wir müssen den Pioniertrupp mit einem Transporthubschrauber zur Siedlung bringen. Warten Sie dazu im Zelt, das dem Landeplatz am nächsten liegt, auf seine Ankunft.
+
+[SubMission_01.Success]
+Auftrag erfüllt.
+
+[SubMission_01.Failed]
+Auftrag gescheitert.
+
+[SubMission_02.Objectives]
+Bringen Sie den Pioniertrupp mit dem Hubschrauber zur Siedlung. Sie haben sechs Minuten für diese Aufgabe. Die Zeit läuft ab jetzt.
+
+[SubMission_02.Description]
+Ein Transporthubschrauber der US-Armee kann eine Infanteriegruppe über die Berge befördern. Nutzen Sie ihn, um Ihren Pioniertrupp rasch in die vom feindlichen Heer angegriffene Siedlung zu bringen.
+
+[SubMission_02.Success]
+Auftrag erfüllt.
+
+[SubMission_02.Failed]
+Auftrag gescheitert.
+
+[SubMission_03.Objectives]
+Die Brücke mit Panzerminen verminen. Sie haben sechs Minuten für diese Aufgabe. Die Zeit läuft ab jetzt.
+
+[SubMission_03.Description]
+Feindliche Einheiten stehen vor der Siedlung; die verbündeten Truppen halten dem Ansturm kaum stand. Die Brücke muss mit Panzerminen vermint werden, damit die feindlichen Panzer in die Falle geraten.
+
+[SubMission_03.Success]
+Auftrag erfüllt.
+
+[SubMission_03.Failed]
+Auftrag gescheitert.
+
+[SubMission_04.Objectives]
+Die feindlichen Einheiten vernichten.
+
+[SubMission_04.Description]
+Setzen Sie alle verfügbaren Mittel ein, um das feindliche Heer zu vernichten. Nutzen Sie den taktischen Vorteil der verbündeten Kräfte sowie den neuesten Panzer der US-Armee.
+
+[SubMission_04.Success]
+Auftrag erfüllt.
+
+[SubMission_04.Failed]
+Auftrag gescheitert.
+
+[StringTable.avia_report]
+Luftunterstützung steht zur Verfügung. Geben Sie einen Punkt im Gelände an, auf den die Luftunterstützung gelenkt werden soll. Erdkampfflugzeuge greifen den Feind selbständig an.
+
+[StringTable.msg_01_01]
+Unter Ihrem Kommando steht ein Pioniertrupp.
+Ist in den Einstellungen der „klassische Einheitenauswahlmodus“ aktiviert, können Sie die gesamte Infanteriegruppe auswählen, indem Sie bei gehaltener Alt-Taste auf einen der Soldaten linksklicken (oder doppelt mit der linken Maustaste klicken). Ist der klassische Modus deaktiviert, wird bei gehaltener Alt-Taste ein einzelner Soldat ausgewählt.
+
+[StringTable.msg_01_02]
+Schicken Sie die Gruppe zum Zelt, das mit einem roten Rauchsignal markiert ist. Warten Sie auf die Ankunft des Hubschraubers.
+
+[StringTable.msg_02_01]
+Um die Gruppe an Bord des Hubschraubers zu bringen, wählen Sie die Gruppe aus und klicken Sie mit der rechten Maustaste auf den Hubschrauber.
+
+[StringTable.msg_02_02]
+Um den Hubschrauber zum gewünschten Punkt zu schicken, wählen Sie ihn einfach aus und klicken Sie mit der rechten Maustaste auf einen Punkt am Boden nahe dem roten Signalrauch beim Dorf.
+
+[StringTable.msg_02_03]
+Um die Gruppe aus dem Hubschrauber aussteigen zu lassen, verwenden Sie den Befehl „Absitzen“ {hkey:evacuate}.
+
+[StringTable.msg_02_04]
+Schicken Sie Ihre Gruppe, vom roten Signalrauch geleitet, näher an die Brücke.
+
+[StringTable.msg_03_01]
+Pioniere haben im Modus der Minenräumung eine erhöhte Chance, feindliche Minen zu entdecken. Die Pionierfertigkeit ist beim Auswählen der Gruppe durch ein Minensymbol auf dem Soldatensymbol in der unteren Leiste gekennzeichnet.
+Pioniere sind mit zwei Arten von Minen bewaffnet:
+- Panzerminen detonieren nur unter Fahrzeugen und reagieren nicht auf Infanterie. Ihre Sprengwirkung genügt, um einen Panzer außer Gefecht zu setzen.
+- Schützenminen sind gegen Infanterie wirksam, detonieren aber auch unter Fahrzeugen, ohne diesen nennenswerten Schaden zuzufügen.
+Beachten Sie, dass Minen durch eine äußere Explosion zur Detonation gebracht werden können.
+
+[StringTable.msg_03_02]
+Um eine Panzermine zu legen, wählen Sie den gewünschten Soldaten aus, wählen Sie in seinem Interface die Panzermine, wählen Sie den Befehl „Minenlegen“ {hkey:mining} und geben Sie einen Punkt am Boden oder auf der Brücke an, an dem die Mine platziert werden soll. Die gelegte Mine wird mit einer Fahne markiert.
+
+[StringTable.msg_03_03]
+Sie können mehrere Punkte angeben, indem Sie die SHIFT-Taste gedrückt halten; brechen Sie dann den Befehl mit einem Linksklick ab und geben Sie, wieder bei gehaltener SHIFT-Taste, mit einem Rechtsklick den Rückzugspunkt an. Dann zieht sich der Pionier nach dem Legen der Minen zum angegebenen Punkt zurück.
+
+[StringTable.msg_03_04]
+Der Feind hat einen erheblichen Kräftevorteil. Ziehen Sie Ihre Gruppe in den Rücken der rechten Dorfflanke zurück. Dort steht ein leerer schwerer Panzer.
+
+[StringTable.msg_03_05]
+Erreicht der feindliche Panzer die Brücke, detoniert er auf einer Mine und blockiert den Weg für andere Fahrzeuge.
+
+[StringTable.msg_04_01]
+Vor dem Einsteigen in den Panzer empfiehlt es sich, in seiner Nähe eine Nebelgranate zu werfen, um ihn vor dem Feind zu verbergen. Dann hat die Besatzung mehr Zeit, den Panzer gefechtsbereit zu machen und die Rollen in der Besatzung zu verteilen.
+
+[StringTable.msg_04_02]
+Um den Panzer zu erbeuten, wählen Sie den Pioniertrupp aus und klicken Sie mit der rechten Maustaste auf ihn; diese Soldaten sind gut ausgebildet und in der Lage, den Panzer zu bedienen.
+
+[StringTable.msg_04_03]
+Beachten Sie, dass jede Art von beweglichem Fahrzeug Kenngrößen wie Höchstgeschwindigkeit und Gangzahl hat. Diese Kenngrößen sowie die Fertigkeit des Fahrers, die Motorleistung, die Fahrzeugmasse, die Anhängelast, die Geländeneigung und die Bodenart wirken sich unmittelbar auf die Beschleunigung und die maximal mögliche Fahrgeschwindigkeit aus.
+
+[StringTable.msg_04_04]
+Mangelnde Fahrererfahrung kann zu langsamer Beschleunigung des Fahrzeugs, zu zufälligen Stopps durch Schaltfehler oder zu zeitweiligem Abwürgen des Motors führen.
+
+[StringTable.msg_04_05]
+Die vorrückenden feindlichen Kräfte vernichten.
+Wählen Sie beim Einnehmen der Feuerstellung stets die günstigste Fahrtroute des Panzers, um die Flanken nicht dem Feuer auszusetzen.

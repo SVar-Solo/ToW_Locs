@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+Hold out until reinforcements arrive. Destroy as many enemy units as possible.
+[Submission_1.Description]
+
+Your orders are:
+- 	Hold out until reinforcements arrive. 
+- 	Destroy as many enemy units as possible. 
+[Submission_1.Success]
+Reinforcements have arrived!
+[Submission_1.Failed]
+Defeat. You were unable to hold out long enough.
+[Submission_2.Objectives]
+Hold your position.
+[Submission_2.Description]
+The Ponyri terminal is a focal point in our defense on the northern face of the Kursk Salient. Realizing it, the German command has deployed some of its heaviest armor and self-propelled artillery units to this sector. 
+
+Your orders:
+- 	Hold your positions at the Ponyri terminal. 
+[Submission_2.Success]
+Good job commander. You have held out against overwhelming odds.
+[Submission_2.Failed]
+You have failed the Motherland! Your troops have been destroyed.
+[Mission.Objectives]
+Stop the German advance. 
+[Mission.Description]
+All along the northern side of the Kursk Salient, German units have been fighting hard near the Ponyri terminal. 
+
+Your orders: 
+- 	Prevent a breakthrough of our front lines near the terminal. 
+[Mission.Success]
+Your orders were successful. Germans failed to break through the front line. 
+[Mission.Failed]
+You have failed to prevent the Germans from breaking through. They are now advancing directly on Kursk.
+[StringTable.T34_Income]
+Reinforcements have arrived.
+[StringTable.SPG_reserv]
+Reinforcements have arrived. 
+[StringTable.Inf_reserv]
+Infantry from the reserve is now at your disposal.

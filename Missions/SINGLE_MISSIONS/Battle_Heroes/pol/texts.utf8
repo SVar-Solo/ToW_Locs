@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Odeprzeć wszystkie niemieckie ataki, a następnie przeprowadzić kontratak.
+[Mission.Description]
+Niemcy dotarli w pobliże Kremla. Faszyści nie mogą zająć Moskwy! 
+Twoje rozkazy:
+-	Odeprzyj nieprzyjacielskie ataki i zatrzymaj natarcie na Moskwę.
+-	Przeprowadź kontratak.
+[Mission.Success]
+Zadanie wykonane.
+[Mission.Failed]
+Nie wykonałeś rozkazów.
+[Submission_1.Objectives]
+Odeprzeć nieprzyjacielskie ataki.
+[Submission_1.Description]
+Zatrzymaj atak nieprzyjaciela.
+[Submission_1.Success]
+Zadanie wykonane
+[Submission_2.Failed]
+Zadanie nie zostało wykonane.
+[Submission_2.Success]
+Zadanie wykonane.
+[Submission_2.Description]
+Utrzymałeś się. Wróg ucieka. Zostaną ci przydzielone czołgi z rezerw. Kontynuuj pościg za wrogiem!
+Twoje rozkazy:
+-	Przeprowadź kontratak na siły nieprzyjaciela.
+[Submission_2.Objectives]
+Przeprowadź kontratak na nieprzyjaciela.
+[StringTable.Reserv_inf]
+Pod twoje dowództwo oddano rezerwy piechoty.
+[StringTable.Reserv_Tanks]
+Pod twoje dowództwo oddano rezerwy pancerne.
+[Submission_1.Failed]
+Zadanie nie zostało wykonane.

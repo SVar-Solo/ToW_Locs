@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+112고지를 점령하라.
+[Mission.Description]
+112고지를 점령하여 사수하라.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+남서쪽 사면을 확보하라.
+[Submission_1.Description]
+남서쪽 사면에서 적을 몰아내라.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+동쪽 사면을 확보하라.
+[Submission_2.Description]
+동쪽 사면에서 적을 몰아내라.
+[Submission_3.Objectives]
+마을 북쪽의 농장을 확보하라.
+[Submission_3.Description]
+농장을 점거한 적은 112고지를 따라 진격하는 아군에게 측면 사격을 가할 수 있다.
+[Submission_4.Objectives]
+남서쪽 사면의 마을을 해방하라.
+[Submission_4.Description]
+마을의 적은 남서쪽 사면에 배치된 자기 부대를 효과적으로 지원할 수 있다.
+[Submission_5.Objectives]
+반격해 오는 적 전차를 제거하라.
+[Submission_5.Description]
+적은 중전차를 앞세운 반격으로 아군을 몰아내려 하고 있다.
+[Mission.Success]
+112고지를 해방했다.
+[Mission.Failed]
+목표를 달성하지 못했다.
+[Submission_1.Success]
+남서쪽 사면을 소탕했다.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[Submission_2.Success]
+동쪽 사면에서 적을 몰아냈다.
+[Submission_2.Failed]
+목표를 달성하지 못했다.
+[Submission_3.Success]
+농장을 확보했다.
+[Submission_3.Failed]
+목표를 달성하지 못했다.
+[Submission_4.Success]
+마을을 해방했다.
+[Submission_4.Failed]
+목표를 달성하지 못했다.
+[Submission_5.Success]
+반격을 격퇴했다.
+[Submission_5.Failed]
+목표를 달성하지 못했다.
+[StringTable.Tanks]
+예비 병력 가용

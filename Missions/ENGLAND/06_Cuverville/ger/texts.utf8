@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Befreien Sie Cuverville und sichern Sie die Straßen für unseren weiteren Vorstoß.
+[Mission.Description]
+Das strategisch wichtige Dorf Cuverville verfügt über Straßen, die nach Süden und Südosten führen. Das Sichern der Straßen ist entscheidend für unseren weiteren Vorstoß.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Sichern Sie den Bauernhof am Ortsrand von Cuverville.
+[Submission_1.Description]
+Der vom Feind besetzte Bauernhof.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Befreien Sie das Dorf Cuverville . 
+[Submission_2.Description]
+Der Feind hat seine Stellungen in Cuverville verstärkt und ist zur Verteidigung übergegangen.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Sichern Sie die Straße, die nach Süden führt.
+[Submission_3.Description]
+Sichern Sie die Straße und vernichten Sie alle Feinde in der Gegend.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Sichern Sie die Straße im Südosten von Cuverville.
+[Submission_4.Description]
+Säubern Sie die Straße und die umliegende Gegend vom Feind.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+Mission erfüllt.
+[Submission_4.Failed]
+Aufgabe wurde nicht erfüllt.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Mission gescheitert.
+[Submission_1.Success]
+Mission erfüllt.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_2.Success]
+Cuverville wurde erobert. Mission erfüllt.
+[Submission_2.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_3.Success]
+Mission erfüllt.
+[Submission_3.Failed]
+Mission gescheitert.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

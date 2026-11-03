@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+进攻、夺取并守住桥梁。
+[Submission_1.Description]
+时间至关重要，指挥官。你必须进攻、夺取并守住这些桥梁。德军不会轻易让这些关键设施落入我们手中。
+
+你的命令：
+-	进攻并夺取地图上标记的所有桥梁
+-	抵御德军为夺回桥梁而发动的反击
+[Submission_1.Failed]
+任务失败。你未能夺取指定的桥梁。
+[Submission_1.Success]
+你已夺取指定的桥梁！
+[Mission.Objectives]
+保持对桥梁的控制，并开始向镇内扩展你的存在，驱逐敌方守军。
+[Mission.Description]
+在敌后迅速夺取桥梁，是轻便而迅捷、几乎能不被察觉地空降的空降部队的绝佳任务。要守住这些桥梁抵御敌人的集中攻击，尤其是重型装甲部队的攻击，即便是最精锐的部队也难以做到，尽管这常常是必须的。
+[Mission.Success]
+胜利！你守住了桥梁，并击退了敌人夺回桥梁的行动。
+[Mission.Failed]
+失败。尽管你的部下英勇奋战，却未能完成任务。
+[Submission_2.Objectives]
+进攻北面的村庄。
+[Submission_2.Description]
+当地抵抗战士告诉我们，桥梁以北有一个被敌人占据的小村庄，里面设有德军指挥所和参谋人员。我们决不能错过这个扰乱其指挥控制的机会。
+
+你的命令：
+-	进攻村庄
+-	俘获或消灭敌军司令部人员
+[Submission_2.Success]
+干得漂亮，城镇已经陷落！
+[Submission_2.Failed]
+你未能夺取城镇，敌军司令部人员已经逃脱。
+[StringTable.tank_reserv]
+数辆坦克突破了敌人防线，现已归你指挥。
+[StringTable.inf_reserv]
+一支增派的伞兵分队已抵达协助你。

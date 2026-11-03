@@ -1,0 +1,74 @@
+﻿[SubMission_1.Objectives]
+Rechace el ataque de las unidades de batida del Ejército Rojo. Luego contraataque al enemigo y tome una estratégica estación de aprovisionamiento de combustible.
+[SubMission_1.Description]
+El Ejército Rojo avanza por la línea del frente. La última línea defensiva reforzada de los alemanes pasa por la ciudad de Kovel’. El cuartel general ha dado órdenes de resistir hasta el último hombre. La información que tenemos de la línea del frente nos dice que es probable que los rusos inicien una acción de tanteo para hacer un reconocimiento de nuestras defensas en este sector.
+
+Sus órdenes son:
+- 	Rechace el ataque ruso y lance un contraataque para desorganizar al enemigo.
+- 	Tome la estación de aprovisionamiento enemiga.
+[SubMission_1.Success]
+¡Ha cumplido la misión!
+[SubMission_1.Failed]
+¡Ha fallado, comandante!
+[Mission.Objectives]
+Evite que el enemigo abra una brecha en nuestras defensas.
+[Mission.Description]
+Los rusos han lanzado una ofensiva para liberar la ciudad de Kovel’. Ha de defender esa población y rechazar ese nuevo ataque.
+
+Sus órdenes:
+- 	Rechace todo ataque enemigo.
+[Mission.Success]
+Ha detenido la embestida rusa. Alemania no olvidará el heroísmo de sus soldados.
+[Mission.Failed]
+¡Hoy es un día funesto para Alemania! Ha sido incapaz de detener a los rusos y hemos perdido esta batalla.
+
+[Submission_2.Objectives]
+Estos camiones cisterna deben llegar intactos a la estación de aprovisionamiento.
+[Submission_2.Description]
+Los conductores de los camiones rusos han huido. Lleve esos vehículos a la estación de aprovisionamiento.
+
+Sus órdenes:
+- 	Lleve los camiones cisterna de combustible a la estación de aprovisionamiento del pueblo.
+[Submission_2.Success]
+Buen trabajo, comandante. Esos camiones cisterna nos vendrán muy bien.
+[Submission_2.Failed]
+Hemos perdido los camiones cisterna.
+[Submission_3.Objectives]
+Prepare defensas lo mejor que pueda para rechazar un nuevo ataque ruso.
+[Submission_3.Description]
+Según el servicio de inteligencia, los rusos preparan una nueva ofensiva. Prepárese lo mejor que pueda para resistir esta nueva amenaza.
+
+Sus órdenes:
+- 	Mantenga sus posiciones ante el avance de las fuerzas enemigas.
+[Submission_3.Success]
+¡Buen trabajo! Ha destruido las tropas de asalto enemigas.
+[Submission_3.Failed]
+Era demasiado difícil superar el ataque enemigo. Ha fallado.
+[Submission_5.Objectives]
+Destruya las tropas de asalto enemigas.
+[Submission_5.Description]
+Las tropas de asalto rusas se vuelven a dirigir hacia la estación de aprovisionamiento de combustible. ¡Ha de impedir que sigan avanzando! Mantenga los ojos bien abiertos, porque puede que los saboteadores enemigos intenten infiltrarse entre sus líneas y neutralicen las posiciones de artillería de la retaguardia.
+
+Sus órdenes:
+- 	Destruya las tropas de asalto enemigas que se aproximan.
+[Submission_5.Success]
+¡Ha destruido las unidades enemigas!
+[Submission_5.Failed]
+¡El enemigo ha vencido!
+[Submission_6.Objectives]
+Destruya un convoy ruso de camiones cisterna de combustible y capture dichos camiones si es posible.
+[Submission_6.Description]
+Durante el ataque, cuatro camiones cisterna cargados de combustible han salido de la estación de aprovisionamiento ¡Ha de detener el convoy!
+
+Sus órdenes:
+- 	Detenga el convoy de camiones de combustible si puede. Si no puede capturarlos y el enemigo amenaza con intentar escaparse, deberá destruirlos.
+[Submission_6.Success]
+Buen trabajo comandante, ha evitado que los rusos se llevaran el combustible.
+[Submission_6.Failed]
+Los camiones cisterna de combustible han logrado escapar. Ha sido incapaz de detenerlos a tiempo.
+[StringTable.inf_reserv]
+Se le ha asignado un nuevo destacamento de infantería.
+[StringTable.Tank_reserv]
+Se le ha asignado un nuevo destacamento de tanques.
+[StringTable.SPG_reserv]
+Se le ha asignado una sección de piezas de artillería autopropulsada.

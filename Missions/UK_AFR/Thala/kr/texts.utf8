@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+적을 저지하라
+[Mission.Description]
+제6기갑사단의 전차, 보병, 포병 부대를 지휘하여 적 제10기갑사단의 진격을 저지하고 탈라 점령을 막아라. 흩어진 아군 부대는 아직 카세린 고개에서 후퇴 중이다. 기동 부대로 도로를 확보하고 아군 부대를 데려오되, 필요하면 지원하라.
+[Mission.Success]
+임무 완수!
+[Mission.Failed]
+임무 실패!
+[Submission1.Objectives]
+독일군 선봉을 공격하라
+[Submission1.Description]
+적 선봉 부대가 아군 진지에 접근하고 있다. 이를 파괴하라.
+[Submission1.Success]
+명령을 완수했다!
+[Submission1.Failed]
+명령을 완수하지 못했다!
+[Submission2.Objectives]
+종대를 엄호하라
+[Submission2.Description]
+카세린 고개에서 차량 몇 대가 이동해 오고 있다. 후퇴 중인 아군 부대로 보인다. 그런지 확인하고 있을 수 있는 독일군의 공격으로부터 이들을 보호할 준비를 하라.
+[Submission2.Success]
+임무 완수!
+[Submission2.Failed]
+임무 실패!
+[Submission4.Objectives]
+적의 모든 공격을 격퇴하라.
+[Submission4.Description]
+아군 습격기가 행동을 개시할 때까지 20분간 버텨라. 연합군 부대가 오고 있으며, 항공 전력도 아군을 위해 이미 상공에 있으므로 몇 분만 더 버티면 된다.
+[Submission4.Failed]
+임무 실패!
+[Submission4.Success]
+임무 완수.
+[StringTable.SubMission4_WIN]
+좌표를 입수했다. 포병이 사격을 개시한다!
+[StringTable.Message1]
+제6기갑사단의 전차, 보병, 포병 부대를 지휘하여 적 제10기갑사단의 진격을 저지하고 탈라 점령을 막아라. 
+[StringTable.Message2]
+적의 공격을 모두 격퇴하라. 아군 습격기가 행동을 개시할 때까지 20분간 버텨라.
+[StringTable.Message3]
+엄폐하라! 아군 항공 전력이 독일군을 땅속에 처박을 것이다!

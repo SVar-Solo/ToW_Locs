@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Halten Sie die Linie entlang des östlichen Ufers der Pena. Verhindern Sie, dass der Feind einen Brückenkopf auf dem westlichen Ufer einrichten kann.
+[Mission.Description]
+Sichern Sie zusammen mit den Panzern der 200. Panzerbrigade die Stellung im westlichen Teil des Dorfes Werchopenje. Die Einheiten, die in das rückwärtige Gebiet zurückgedrängt wurden, werden wieder zusammengeführt, neu bewaffnet und in den entsprechenden Abschnitten eingesetzt. Zerstören Sie vorrückende feindliche Gruppen durch Gegenangriffe, während Sie die besetzten Stellungen verteidigen.
+[Mission.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Mission.Failed]
+Der Feind hat den Fluss überquert, unsere Truppen weichen aus.
+[Submission1.Objectives]
+Wehren Sie alle Angriffe des Feindes ab. Verhindern Sie, dass der Feind zu den Brücken über die Pena durchbricht.
+[Submission1.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Submission1.Failed]
+Die überlegenen feindlichen Truppen rücken weiter vor.
+[Submission2.Objectives]
+Der Feind ist bis zu den Stellungen in der Nähe des Übergangs durchgebrochen. Es besteht die Gefahr, dass er einen Brückenkopf auf dem westlichen Ufer einrichtet. Gehen Sie sofort zum Gegenangriff über und drängen Sie den Feind vom Fluss ab.
+[Submission2.Success]
+Der Gegenangriff verläuft gut, der Feind weicht zurück.
+[Submission2.Failed]
+Der Gegenangriff war erfolglos; es besteht die Gefahr, dass der Feind einen Brückenkopf einrichtet.
+[StringTable.Platzdarm]
+Zerstören Sie vorrückende feindliche Gruppen, bevor sie Verstärkung erhalten.
+[StringTable.Air!]
+Luftangriff! Alle in Deckung!
+
+[StringTable.Tanks]
+Panzer des 203. Schweren Unabhängigen Panzerregiments
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

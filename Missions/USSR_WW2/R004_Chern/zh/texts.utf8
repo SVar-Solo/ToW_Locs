@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+击退从西面而来的德军。
+[Mission1.Description]
+敌第3装甲师正从切尔尼以西开来，企图击溃我军在此地段的部队并逼近图拉。敌军拥有巨大的数量优势。
+
+你的命令： 
+-	 阻止敌第3装甲师
+[Mission1.Success]
+敌军的进攻已被击退！德军未能突破。
+[Mission1.Failed]
+敌军设法突破防御，抵达车站！莫斯科方向又后退了一步……
+[Mission1_1.Objectives]
+击退敌军从南面发起的进攻。
+[Mission1_1.Description]
+德军已突破切尔尼以南的战线，正快速向我们的方向开进。他们企图包围我军，并在向图拉推进的途中与第3装甲师会合。
+
+你的命令：
+- 	阻止敌军从南面的突击。
+[Mission1_1.Success]
+敌军的进攻已被成功击退！
+[Mission1_1.Failed]
+敌军已突入车站！你的行动失败了。
+[Submission1.Objectives]
+坚守并保卫切尔尼车站。
+[Submission1.Description]
+德军继续进攻我军在切尔尼车站周围的阵地。他们与图拉之间只隔着我们，必须阻止他们。
+
+你的命令： 
+- 	守住切尔尼车站周围的防御 
+- 	阻止敌军突入图拉。
+[Submission1.Success]
+敌军已被消灭！指挥员的命令已完成！
+[Submission1.Failed]
+敌军突破了你的防御，通往图拉的道路已敞开！
+[StringTable.Reserv]
+增援部队已到达。

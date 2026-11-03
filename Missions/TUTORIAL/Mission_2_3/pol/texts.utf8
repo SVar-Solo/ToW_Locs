@@ -1,0 +1,278 @@
+﻿[StringTable.1]
+Aby otworzyć okno bieżących rozkazów dowództwa, naciśnij przycisk ODPRAWA w prawym górnym rogu ekranu (ikona „koperty”).
+
+[StringTable.2]
+W trybie swobodnego ruchu i przy niskim poziomie zagrożenia Twoja piechota będzie szukać osłony w pobliżu. Jeśli zauważy wroga, żołnierze mogą zmienić postawę lub nieznacznie zmienić pozycję, pozostając w osłonie, by wygodniej strzelać.
+
+[StringTable.3]
+Niektórzy żołnierze mają granaty dymne; czasem trzeba postawić zasłonę dymną, aby dotrzeć do następnej osłony i przekroczyć otwarty teren.
+Użyj polecenia „Zasłona dymna” {hkey:smokecloud} i wskaż prawym przyciskiem punkt rzutu granatu w zasięgu rzutu. Możesz też wymusić wybór potrzebnego granatu w ekwipunku i rzucić nim poleceniem „Ostrzał obszarowy” {hkey:groundattack}.
+
+[StringTable.4]
+Gdy żołnierze zbliżą się do wroga na krótki dystans, mogą stoczyć walkę wręcz. Wynik walki wręcz zależy od poziomu umiejętności „Zwiad” żołnierzy.
+Jeśli wróg znacznie przewyższa ich liczebnie, a morale żołnierzy jest niskie, mogą wpaść w panikę (czasowa utrata kontroli) lub się poddać (całkowita utrata kontroli).
+Szczegółową podpowiedź o stanie morale żołnierza zobaczysz, najeżdżając kursorem na wiersz „morale” w panelu informacji o jednostce.
+
+[StringTable.5]
+Jeśli wrogowie zabarykadowali się w budynku, możesz spróbować ich „wykurzyć”, rzucając granat przez okno lub drzwi w trybie „Ostrzał obszarowy” {hkey:groundattack}. Nawet jeśli granat nie wyląduje tam, gdzie trzeba, istnieje szansa, że wrogowie wybiegną z budynku prosto pod ogień Twoich żołnierzy.
+
+[StringTable.6]
+Przejmij samochód pancerny. Zaznacz co najmniej dwóch żołnierzy do obsługi przejętego pojazdu – jeden powinien mieć wysoką umiejętność kierowcy, drugi – celowniczego.
+
+[StringTable.7]
+Dostępne jest wsparcie lotnicze. Zamiast atakować wrogie działa frontalnie, zaleca się wypatrzyć ich położenie snajperem, a następnie wezwać w ten rejon samoloty szturmowe. Potrzebują one czasu, aby dolecieć do wskazanego rejonu, po czym zaczną szukać celów w pobliżu. Jeśli w pobliżu wskazanego punktu nie ma celów, samoloty szturmowe zaatakują inne priorytetowe cele, które zdołają wykryć za pomocą odpowiedniego uzbrojenia pokładowego.
+
+[Submission1.Objectives]
+Przesuń oddział do wskazanych punktów trasy.
+[Submission1.Description]
+Twoje rozkazy:
+- Przesuń oddział w szyku kolumny do punktu trasy 1.
+
+Aby to zrobić:
+- Zaznacz oddział piechoty, rysując wokół niego ramkę z wciśniętym lewym przyciskiem myszy –lub– klikając dwukrotnie ikonę dowódcy.
+- Wybierz szyk – KOLUMNA 
+- Wybierz tryb ruchu – BIEG
+- Najedź kursorem na miejsce docelowe i kliknij prawym przyciskiem myszy.
+- Wybierz ustawienie szyku, przytrzymując prawy przycisk myszy i poruszając myszą.
+
+Uwaga:
+- Dostępne szyki: SWOBODNY, LINIA, KOLUMNA, KLESZCZE
+- Domyślny szyk jednostek to LINIA
+- Szyk można zmienić tylko podczas wydawania rozkazu ruchu
+- Dostępne tryby ruchu: SWOBODNY, KRÓTKIE PRZEBIEGI, SKRADANIE
+- Domyślny tryb jednostek to SWOBODNY
+- Jednostki mogą zmieniać tryb ruchu według własnego uznania
+- Domyślny rozkaz ruchu to SZTURM
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+Zatem gdy ktoś zwija pancerze i wyrusza szybko, nie zatrzymując się ani w dzień, ani w nocy, i maszeruje podwójnym tempem sto li, trzej dowódcy dostaną się do niewoli. Bo dziarscy żołnierze dotrą pierwsi, a słabi będą wlec się z tyłu, tak że przy takiej metodzie dotrze zaledwie jedna dziesiąta armii.
+
+[Submission1.Success]
+Misja wykonana!
+[Submission1.Failed]
+Misja nieudana!
+[Submission2.Objectives]
+Wyeliminuj broniące się wrogie jednostki.
+[Submission3.Objectives]
+Oczyść teren i użyj wrogiego pojazdu opancerzonego oraz karabinu maszynowego do zorganizowania stanowiska obronnego.
+[Submission3.Description]
+Twoje rozkazy:
+- Oczyść teren.
+- Użyj wrogiego karabinu maszynowego i pojazdu opancerzonego, aby zorganizować obronę oddziału we wsi.
+
+Aby to zrobić:
+- Wybierz żołnierzy z najwyższymi umiejętnościami kierowcy i celowniczego.
+- Wsadź ich do porzuconego pojazdu opancerzonego.
+- Umieść dwóch żołnierzy przy karabinie maszynowym, aby go obsługiwali.
+- Umieść przy karabinie maszynowym żołnierza o wysokiej umiejętności strzeleckiej.
+- Zbierz porzuconą broń i amunicję.
+
+Uwaga:
+- Każdym oddziałem dowodzi dowódca. To, jak dobrze możesz kontrolować swoje wojska, w dużej mierze zależy od jego obecności na polu bitwy. Jeśli dowódca zginie, oddział może stracić spójność, a nawet uciec z pola walki, dlatego chroń swojego dowódcę
+
+- Kliknij pusty czołg, działo lub pojazd... a następnie kliknij prawym przyciskiem myszy, aby rozkazać żołnierzowi wsiąść do zaznaczonego obiektu
+- Jako kierowcę wyznacz żołnierza z najwyższą oceną KIEROWCY
+- Jako celowniczego wyznacz żołnierza z najwyższą oceną CELOWNICZEGO 
+- Możesz zmieniać miejsca żołnierzy wewnątrz czołgu, działa lub pojazdu
+- Zaznacz członka załogi i, przytrzymując lewy przycisk myszy, przeciągnij go na inne miejsce. Pamiętaj, że zamiana miejsc trwa chwilę
+- Do przemieszczania karabinu maszynowego potrzeba co najmniej dwóch członków obsługi. Do obracania wystarczy jeden
+- Aby uzyskać największą siłę ognia z karabinu maszynowego, umieść na stanowisku celowniczego żołnierza o wysokiej umiejętności strzeleckiej
+- Aby podnieść porzuconą broń lub amunicję, ustaw żołnierza, który ma to zrobić, w pobliżu porzuconego przedmiotu i włącz przycisk EKWIPUNEK (przycisk z ikoną pistoletu na dolnym panelu). Wyświetli się panel przedmiotów leżących na ziemi przy żołnierzu i będziesz mógł ręcznie przeciągać przedmioty na panel uzbrojenia i do plecaka. Możesz też wydać żołnierzowi rozkaz automatycznego podniesienia z ziemi wszystkich lub tylko lepszych przedmiotów, klikając odpowiednie przyciski na panelu ekwipunku. Domyślnie żołnierze automatycznie podnoszą najlepszą broń. Możesz wyłączyć ten tryb dla wybranych żołnierzy, klikając przycisk AUTOMATYCZNE PODNOSZENIE PRZEDMIOTÓW na pasku poleceń.
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+Dlatego rozpoznaj plany wroga, a będziesz wiedzieć, która strategia przyniesie sukces, a która nie;
+Zaniepokój go i poznaj schemat jego ruchów.
+Rozpoznaj jego ugrupowanie, a poznasz pole bitwy.
+Zbadaj go i dowiedz się, gdzie jego siła jest nadmierna, a gdzie niedostateczna.
+
+[Submission3.Success]
+Misja wykonana!
+[Submission3.Failed]
+Misja nieudana!
+[Mission1.Objectives]
+ODPRAWA OGÓLNA 
+[Mission1.Description]
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+1. Dlatego na początku bądź nieśmiały jak dziewica. Gdy wróg da ci sposobność, bądź szybki jak zając, a nie zdoła ci się oprzeć.
+
+2. Jeśli potrafię rozpoznać ugrupowanie wroga, ukrywając jednocześnie własne, mogę skoncentrować siły, a on musi je rozproszyć. A jeśli ja koncentruję siły, a on je dzieli, mogę całą swoją siłą uderzyć na ułamek jego sił. Tam będę miał przewagę liczebną. Wtedy, jeśli mogę uderzyć wieloma na niewielu w wybranym punkcie, ci, z którymi walczę, znajdą się w rozpaczliwym położeniu.
+
+3. Ogólnie w bitwie używaj sił zwykłych do związania wroga, a nadzwyczajnych do zwycięstwa.
+
+4. Broni się ten, komu brakuje sił; atakuje ten, kto ma ich w nadmiarze.
+ 
+5. Dbaj o wyżywienie żołnierzy; nie męcz ich bez potrzeby. Zespól ich duchem; oszczędzaj ich siły. Układaj niezgłębione plany na chwile działania armii. 
+
+6. I jak woda kształtuje swój bieg zgodnie z ukształtowaniem terenu, tak armia odnosi zwycięstwo zgodnie z położeniem wroga.
+I jak woda nie ma stałego kształtu, tak w wojnie nie ma stałych warunków.
+Dlatego ten, kto potrafi zwyciężać, zmieniając taktykę stosownie do sytuacji wroga, zasługuje na miano boskiego.
+
+[Mission1.Success]
+Wykonałeś swoje zadania! Awansowałeś na oficera Armii Czerwonej!
+[Mission1.Failed]
+Misja nieudana!
+[Submission2.Description]
+Twoje rozkazy:
+- Zniszcz niemiecki oddział we wsi Malinki, punkt trasy 2
+
+Aby to zrobić:
+- Utrzymuj kontrolę nad każdym żołnierzem, wydając w porę indywidualne rozkazy
+- Używaj granatów ręcznych przeciwko wrogim żołnierzom ukrytym za osłonami (kliknij lewym przyciskiem myszy przycisk granatu ręcznego, aby uczynić go aktywną bronią)
+- Używaj snajperów do eliminowania wrogich oficerów i obsług karabinów maszynowych (jeśli Twój snajper zginie, inny żołnierz – najlepiej o wysokiej umiejętności strzeleckiej – może podnieść karabin z lunetą)
+- Tłum opór wroga ogniem karabinów maszynowych
+- Używaj pauz taktycznych do wydawania rozkazów i utrzymywania orientacji w sytuacji
+
+Uwaga:
+- Gdy Twoi żołnierze zobaczą wrogów, sami zaczną do nich strzelać, chyba że wydano im rozkaz „Wstrzymaj ogień”
+- Po zaznaczeniu żołnierza możesz wybrać broń, której użyje w walce, klikając lewym przyciskiem myszy na panelu uzbrojenia. Możesz zakazać używania poszczególnych rodzajów broni, granatów lub cennej amunicji, klikając prawym przyciskiem.
+- Wybieraj granaty, aby wyeliminować wrogów ukrytych za przeszkodami. Są granaty zaczepne (mały promień rażenia; używane, bo atakujący zwykle nie ma osłony) i obronne (duży promień rażenia; używane, bo obrońca zwykle znajduje się za dobrą osłoną)
+- Możesz przydzielać cele każdemu żołnierzowi niezależnie
+- Wybierając polecenie ATAK i klikając prawym przyciskiem myszy jednostkę docelową, rozkazujesz żołnierzowi zaatakować cel wybraną bronią. Jeśli cel jest poza skutecznym zasięgiem broni, żołnierz podejdzie bliżej wroga
+- Wybierając polecenie SZTURM i klikając prawym przyciskiem myszy miejsce docelowe, rozkazujesz żołnierzowi szturmować w kierunku celu. Żołnierz zbliży się do wroga, strzelając w ruchu, i spróbuje zniszczyć go granatami.
+- Wybierając polecenie OSTRZAŁ TERENU i klikając prawym przyciskiem myszy pole bitwy, rozkazujesz żołnierzowi zaatakować to miejsce (ostrzał obszarowy) wybraną bronią. Żołnierz spróbuje strzelić we wskazane miejsce ze swojej bieżącej pozycji. Użyj tego trybu z wybranym granatem, aby rzucić go w wrogów niewidocznych dla Twojego żołnierza.
+- W oddziale masz snajpera; żołnierza z wysokimi ocenami „zwiadu” i „strzelectwa”. Użyj go do wyeliminowania wrogiego oficera i obsługi działa, aby wywołać panikę wśród wrogów. 
+- Aby przygwoździć wroga, użyj karabinu maszynowego. Pamiętaj o osłonie strzelca maszynowego, ponieważ będzie on głównym celem wrogich żołnierzy. 
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+Wróg nie może wiedzieć, gdzie zamierzam stoczyć bitwę. Bo jeśli nie wie, gdzie zamierzam walczyć, musi przygotowywać się w bardzo wielu miejscach. A gdy przygotowuje się w bardzo wielu miejscach, tych, z którymi przyjdzie mi walczyć w jednym miejscu, będzie niewielu.
+Bo jeśli przygotuje się z przodu, osłabi tyły, a jeśli z tyłu, osłabi front. Jeśli przygotuje się po lewej, prawa strona będzie bezbronna, a jeśli po prawej, po lewej będzie niewielu. A gdy przygotuje się wszędzie, będzie słaby wszędzie.
+
+[Submission2.Success]
+Wykonałeś swoją misję!
+[Submission2.Failed]
+Misja nieudana!
+[Submission4.Objectives]
+Przejmij pojazd opancerzony
+[Submission4.Description]
+Przejmij pojazd opancerzony
+
+Uwaga:
+Zaznacz jednego lub dwóch żołnierzy, następnie najedź kursorem na pojazd opancerzony (kursor zmieni się w ikonę „wsiadania”) i kliknij prawym przyciskiem. Twoi żołnierze pobiegną, aby wsiąść do pojazdu opancerzonego.
+[Submission4.Success]
+Zadanie wykonane!
+[Submission4.Failed]
+Zadanie nieudane!
+[Submission5.Objectives]
+Odeprzyj atak wroga.
+[Submission5.Description]
+Twoje rozkazy:
+- Wyeliminuj atakującego wroga w punkcie trasy 3
+
+Aby to zrobić:
+- Wykorzystaj mobilność i pancerz pojazdu opancerzonego
+- Używaj zdobycznej broni i sprzętu
+- Przejmij inicjatywę i wyeliminuj wroga zdecydowanym kontrnatarciem
+
+Uwaga:
+- Aby wybrać pociski, którymi będzie strzelał pojazd opancerzony, czołg lub działo, kliknij lewym przyciskiem myszy działo (otworzy się lista dostępnych dla niego pocisków) i kliknij wybrany pocisk. Działo zostanie przeładowane pociskiem wybranego rodzaju
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+Zasadą wojny jest nie zakładać, że wróg nie przyjdzie, lecz polegać na własnej gotowości do jego odparcia; nie zakładać, że nie zaatakuje, lecz uczynić siebie niezwyciężonym.
+
+[Submission5.Success]
+Misja wykonana!
+[Submission5.Failed]
+Misja nieudana!
+[Submission6.Objectives]
+Zniszcz wrogie działa
+[Submission6.Description]
+Twoje rozkazy:
+- Zniszcz wrogie działa w punkcie trasy 4
+- Wezwij wsparcie lotnicze, aby zniszczyć wrogie działa
+
+Aby to zrobić:
+- Wybierz dostępne wsparcie lotnicze
+- W grze dostępne są następujące rodzaje wsparcia lotniczego: SAMOLOTY SZTURMOWE, MYŚLIWCE, BOMBOWCE i SAMOLOTY ROZPOZNAWCZE 
+
+Uwaga:
+- SAMOLOTY SZTURMOWE służą do niszczenia lekko opancerzonych pojazdów i dział wroga
+- MYŚLIWCE przydają się do zwalczania i niszczenia wrogich samolotów
+- BOMBOWCE służą do przeprowadzania nalotów na umocnione pozycje wroga
+- SAMOLOTY ROZPOZNAWCZE służą do zbierania informacji wywiadowczych znad pola bitwy
+- Nie wysyłaj pojazdu opancerzonego do przodu, ponieważ wrogie działa mogą go łatwo zniszczyć
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+Jeśli ktoś zapyta: „Czy można sprawić, by wojska potrafiły tak natychmiast współdziałać?”, odpowiadam: „Można”. Bo choć mieszkańcy Wu i Yue wzajemnie się nienawidzą, gdyby znaleźli się razem w łodzi miotanej wiatrem, współdziałaliby jak prawa ręka z lewą.
+Nie wystarczy więc pokładać nadziei w spętanych koniach czy zakopanych kołach rydwanów.
+Wyrównany poziom męstwa to cel administracji wojskowej. A dzięki właściwemu wykorzystaniu terenu zarówno siły uderzeniowe, jak i elastyczne działają z największym pożytkiem.
+[Submission6.Success]
+Misja wykonana!
+[Submission6.Failed]
+Misja nieudana!
+[Submission7.Objectives]
+Wezwij wsparcie lotnicze.
+[Submission7.Description]
+Wezwij wsparcie lotnicze.
+Uwaga:
+Nad dolnym panelem pojawi się ikona wsparcia lotniczego.
+Kliknij ikonę wsparcia lotniczego i kliknij prawym przyciskiem miejsce celu. 
+Są 4 rodzaje samolotów: rozpoznawcze, myśliwce, bombowce i samoloty szturmowe. 
+[Submission7.Success]
+Zadanie wykonane!
+[Submission7.Failed]
+Zadanie nieudane!
+[Submission8.Objectives]
+Przejmij wrogie działa 
+[Submission8.Description]
+Twoje rozkazy:
+- Przejmij wrogie działa 
+- Zorganizuj stanowisko obronne przed wsią Malinki 
+- Umieść dwóch żołnierzy przy działie, aby je obsługiwali 
+- Umieść żołnierza z najwyższą oceną celowniczego na stanowisku celowniczego
+
+Uwaga:
+- Aby wybrać pociski w samochodzie pancernym, czołgu, armacie itp., kliknij prawym przyciskiem myszy ikonę strzałki po prawej od działa na panelu uzbrojenia, otworzy się lista dostępnej dla tego działa amunicji, a następnie wybierz żądany rodzaj pocisku lewym przyciskiem myszy. Prawy przycisk myszy służy do zakazania użycia wybranego rodzaju pocisku. Po wybraniu pocisku ikony działa i pocisku zostaną podświetlone na żółto, co oznacza, że jednostka będzie używać tylko tego działa i tego pocisku. Jeśli w lufie jest już załadowany inny pocisk, przeładowanie wybraną amunicją nastąpi dopiero po wystrzeleniu już załadowanego pocisku.
+- Obsługa działa może je obracać i przemieszczać; do obrotu lub przemieszczenia potrzeba co najmniej dwóch osób.
+- Aby uzyskać największą siłę ognia i celność dział, umieść żołnierza z najwyższą oceną celowniczego na stanowisku celowniczego.
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+Dawni biegli wojownicy najpierw czynili się niezwyciężonymi, a potem czekali na chwilę słabości wroga.
+Niezwyciężoność zależy od nas samych; słabość wroga zależy od niego.
+Wynika z tego, że biegli w wojnie mogą uczynić siebie niezwyciężonymi, lecz nie mogą sprawić, by wróg z pewnością okazał się słaby.
+Dlatego mówi się, że można wiedzieć, jak zwyciężyć, lecz niekoniecznie można tego dokonać.
+Niezwyciężoność leży w obronie; możliwość zwycięstwa – w ataku.
+(…) Dlatego biegły dowódca zajmuje pozycję, na której nie można go pokonać, i nie przepuszcza żadnej okazji, by pokonać wroga.
+
+[Submission8.Success]
+Misja wykonana!
+[Submission8.Failed]
+Misja nieudana!
+[Submission9.Objectives]
+Zniszcz wrogie czołgi
+[Submission9.Description]
+
+Twoje rozkazy:
+- Zniszcz wrogie czołgi za pomocą zdobycznych dział i swojego czołgu w punkcie trasy 5
+
+Aby to zrobić:
+- Podczas ataku na cel możesz wskazać punkt celowania – dostępne opcje: CELUJ WYŻEJ, CELUJ SWOBODNIE i CELUJ NIŻEJ
+
+
+Uwaga:
+- Pamiętaj, że każdy rodzaj pocisku ma określone przeznaczenie
+- Pociski odłamkowo-burzące (HE) służą do niszczenia wrogiej piechoty, lekko opancerzonych pojazdów i odkrytych dział.
+- Pocisk przeciwpancerny (AP) jest pełny, skłonny do rykoszetów i nie ma ładunku wybuchowego.
+- Pocisk przeciwpancerny z czepcem (APC) jest pełny, mniej skłonny do rykoszetów i nie ma ładunku wybuchowego.
+- Pocisk przeciwpancerny odłamkowo-burzący (APHE) jest skłonny do rykoszetów i ma ładunek wybuchowy
+- Pocisk przeciwpancerny z kompozytowym czepcem balistycznym (APCBC) jest pełny, mniej skłonny do rykoszetów i nie ma ładunku wybuchowego.
+- Pocisk podkalibrowy (APCR, APDS) ma wysoką przebijalność pancerza, ale traci ją szybciej wraz ze wzrostem odległości. Nie ma ładunku w komorze, zadaje mniejsze obrażenia i jest mniej celny.
+- Pocisk kumulacyjny (HEAT) przebija przeszkodę strumieniem kumulacyjnym, a jego przebijalność nie zależy od odległości. Ma też ograniczone działanie odłamkowo-burzące.
+- Pocisk dymny – przeznaczony do stawiania zasłon dymnych.
+
+
+„SZTUKA WOJNY” SUN ZI
+Sun Zi powiedział:
+Wojska rzucone na wroga jak kamień młyński na jaja są przykładem tego, jak to, co lite, działa na to, co puste.
+
+[Submission9.Success]
+Misja wykonana!
+[Submission9.Failed]
+Misja nieudana!

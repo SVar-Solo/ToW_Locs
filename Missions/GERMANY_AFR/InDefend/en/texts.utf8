@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Hold positions
+[Mission.Description]
+Hold positions by Sidi Bou Zid.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Objectives]
+Hold the town
+[Submission_1.Description]
+Army HQ has provided tanks from the reserve, but they are still en route. The enemy is desperately trying to win back Sidi Bou Zid. You must hold the town until the reinforcements arrive.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Destroy enemy artillery positions
+[Submission_2.Description]
+You now have command of tanks from the army HQ reserve. Use them to capture small settlement and destroy enemy artillery positions.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.
+[StringTable.Add_tanks]
+- Major, I gave order to provide you with tanks from the army HQ reserve. The Americans have suffered heavy losses, and it's time for a counter-attack. Good luck to you and your men.

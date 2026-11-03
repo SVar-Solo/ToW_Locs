@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Beat off the fascist troops attacking from the East.
+[Mission1.Description]
+The German troops have launched an advance in this part of the front line in the direction of Vyazma. They aim to break through our defenses and get closer to Moscow. It is vitally important for us to beat off this enemy attack in order to gain time to mass the reserves.
+
+Your orders: 
+- 	Beat off the enemy attack moving in from the East.
+[Mission1.Success]
+The enemy attack’s been beaten off! You’ve helped us to secure another gain in which thousands of new hedgehogs will be put up, scores of aircraft and tanks built and hundreds of new recruits trained. The fascists will not take Moscow!
+[Mission1.Failed]
+The enemy has broken our defenses and is moving towards Moscow. Scores of soldiers under your command have been lost for nothing. You’ve proved to be unworthy of your rank.
+[Mission2.Objectives]
+Beat off the German attack from the North.
+[Mission2.Description]
+Considerable enemy forces are moving in from the North. The defenses have been weakened by the enemy attack from the East. Mass all available forces and hold out against the advance of the Fascist aggressors until the reserves arrive. The enemy must not break through! Moscow must not fall!
+
+Your orders: 
+-	 Hold off the German attack from the North.
+[Mission2.Success]
+With gallant effort you’ve managed to beat off the enemy attack!
+[Mission2.Failed]
+The opponent has broken our defenses!
+[Mission3.Objectives]
+Use all available forces to conduct a counter-attack.
+[Mission3.Description]
+The German troops failed to break through our defenses around the village. Thanks to the time gained, several reserve units have now arrived for your use. Counter-attack with these new forces and cause the maximum damage to the Fascists.
+
+Your orders: 
+- 	Counter-attack and drive the enemy troops from the front line.
+[Mission3.Success]
+A successful counter-attack! Serious damage has been caused to the fascists.
+[Mission3.Failed]
+You have failed your orders. Your counter-attack only resulted in more brave troops dying under your command.
+[Submission1.Objectives]
+Hold the defenses in the specified area.
+[Submission1.Description]
+The German troops are pushing towards Moscow. The capital is in danger, and at the moment there is no place more important than yours for the salvation of the Motherland. Several of our armies have been encircled near Vyazma tying up the forces of twenty-eight Fascist divisions. Considerable enemy forces are moving to Vyazma. They are trying to encircle or bypass our troops and continue their advance on Moscow. 
+
+Your orders:
+- 	Hold the defense around the village.
+- 	Prevent the German troops from breaking through toward Moscow.
+[Submission1.Success]
+The order has been carried out! The advance of the German troops towards Moscow has been stemmed!
+[Submission1.Failed]
+The order has not been carried out! The Fascist troops broke your defenses and are continuing their advance on Moscow!
+[StringTable.Reserv]
+Reinforcements have arrived.

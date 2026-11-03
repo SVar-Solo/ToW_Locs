@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Nasze okrążone przez wroga siły próbują się przebić.
+[Mission.Description]
+Twoje główne zadanie to przerwanie nieprzyjacielskiego okrążenia. Przebij się i nie pozwól Rosjanom rozmieścić stanowisk broni przeciwpancernej, aby nasze kolejne jednostki mogły przejść nieniepokojone. 
+[Mission.Success]
+Udało ci się wyrwać z okrążenia.
+[Mission.Failed]
+Twoim siłom nie udało się wyrwać.
+[Submission_1.Objectives]
+Wyrwać się z okrążenia i uderzyć na miasto w pobliżu rzeki. Aby poszerzyć korytarz naszego natarcia, zaatakuj i zniszcz wszystkie napotkane oddziały wroga. 
+[Submission_1.Description]
+Twoje rozkazy:
+-	Uderzyć na miasto nad rzeką.
+-	Zniszczyć wszystkie jednostki wroga.
+[Submission_1.Success]
+Zwycięstwo! Twoje oddziały przebiły się i zajęły umocnione pozycje nad rzeką.
+[Submission_1.Failed]
+Porażka. Naszym siłom nie udało się przebić.
+[StringTable.ger_reserv]
+Sztab armii przydzielił ci czołgi z rezerw. Mądrze je wykorzystaj!

@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Führen Sie eine Sabotageoperation im Hinterland des Feindes, nahe der Stadt Sandomierz aus. Finden Sie das POL und das Waffendepot und zerstören Sie es. Falls Sie irgendwelche Flugabwehrstellungen entdecken, fordern Sie Artillerie- und Luftunterstützung an, um mit ihnen fertig zu werden.
+[Mission.Description]
+Die sowjetische Armee nähert sich den Grenzen zum dritten Reich. Beide Seiten bereiten sich auf einen bevorstehenden Kampf um die kleine Stadt Sandomierz vor. Spezielle Sabotagetrupps wurden vom sowjetischen Oberkommando geschickt, um die feindlichen Linien zu infiltrieren. Sie sind damit beauftragt die feindlichen Positionen auszukundschaften, logistische Einrichtungen, sowie Flakstellungen zu zerstören. Ihr Elitetrupp muss das POL und das Waffendepot sabotieren, zerstören Sie jedes Flakgeschütz das Sie ausmachen können. Ihr Trupp besteht aus den besten Spähern und Scharfschützen. Setzen Sie sie mit bedacht ein.
+[Mission.Success]
+Alle Missionen wurden erfüllt!
+[Mission.Failed]
+Mission fehlgeschlagen!
+[Submission_1.Objectives]
+Dringen Sie in die Stellung ein. Verschaffen Sie sich einen Überblick über die Situation. Vertreiben Sie die Wachen von dem POL und dem Waffendepot. Finden und bergen Sie so viele Panzerschrecks wie möglich.
+[Submission_1.Description]
+Unbemerkt durch die feindlichen Linien geschlüpft befindet sich Ihr Trupp nun tief im Feindesland. Hüten Sie sich vor den feindlichen Blockadeposten entlang der Strassen, Strategischen Kreuzungen und Plätzen. Es gibt häufig motorisierte Patrouillen die schnell Verstärkung heran holen, falls sie Sie entdecken. Ihre Hauptaufgabe ist die Zerstörung des POL und des Waffendepots.
+[Submission_1.Success]
+Spezial Zone zerstört.
+[Submission_1.Failed]
+Mission fehlgeschlagen.
+[Submission_2.Objectives]
+Stellen Sie die Position der Flakstellungen fest. Fordern Sie Artilleriefeuer und Luftunterstützung an, um die Stellungen zu zerstören. Erobern Sie einen feindlichen Transporter um den Durchbruch über die Brücke zu begünstigen. 
+[Submission_2.Description]
+Unsere Luftstreitkräfte starten kontinuierlich gegen strategische Deutsche Stellungen, aber die Verluste sind sehr hoch. Der Gegner hat seine Luftabwehrstellungen hervorragend getarnt, somit ist das aufspüren aus der Luft schwierig und kostet viele Menschenleben und Maschinen. Ihr Trupp ist in einer idealen Position die Unternehmung zu unterstützen. Durchsuchen Sie die nähere Umgebung nach Flakgeschützen und wenn Sie sie entdeckt haben, fordern Sie Artilleriefeuer und Strategische Bomber an, um die Stellungen zu zerstören.
+[Submission_2.Success]
+Flugabwehrstellungen wurden lokalisiert und zerstört.
+[Submission_2.Failed]
+Mission fehlgeschlagen.
+[Submission_3.Objectives]
+Überqueren Sie die Brücke über die Vistula. Vernichten Sie die feindlichen Streitkräfte an beiden Seiten des Flusses.
+[Submission_3.Description]
+Sie haben Ihre Hauptaufgabe erfüllt. Nun müssen Sie Ihre Männer nach Hause schaffen. Der einzige Weg zurück führt über die Brücke über die Vistula…
+[Submission_3.Success]
+Mission erfüllt.
+[Submission_3.Failed]
+Mission fehlgeschlagen.
+[Submission_4.Objectives]
+Unsere Aufklärungsflugzeuge haben eine Panzerkolone ausgemacht, die sich entlang der Strasse in Richtung der Vistula Brücke bewegt.
+Ihr Befehl:
+- Zerstören Sie die Panzerkolone um jeden Preis.
+[Submission_4.Description]
+Unsere Aufklärungsflugzeuge haben eine Panzerkolone ausgemacht, die sich entlang der Strasse in Richtung der Vistula Brücke bewegt. Ihre Aufgabe ist es die Kolone herankommen zu lassen und die Brücke zu blockieren, indem Sie den Führungspanzer zerstören. Womöglich wären einige erbeutete deutsche Panzerschrecks effektiv… 
+[Submission_4.Success]
+Gut gemacht!
+[Submission_4.Failed]
+Aufgabe gescheitert.
+[Submission_5.Objectives]
+Eine feindliche Blockade wurde gesichtet. Falls man Sie entdeckt, töten Sie die Wachposten.
+[Submission_5.Description]
+Eine feindliche Blockade wurde gesichtet. Falls man Sie entdeckt, töten Sie die Wachposten.
+[Submission_5.Success]
+Mission erfüllt.
+[Submission_5.Failed]
+Mission fehlgeschlagen
+[StringTable.Zonder]
+Der Feind hat Verstärkung angefordert.
+[StringTable.EnemyVisible]
+Der Feind hat Ihre Truppen gesichtet, er muss eliminiert werden. Sie haben wenig Zeit, es bleiben Ihnen etwa 4-5 Minuten bevor weitere feindliche Einheiten anrücken.
+[StringTable.Ahtung]
+Der Feind hat Ihren Trupp gesichtet.
+[StringTable.CallSupport]
+Die deutschen Flakgeschütze wurden gesichtet. Die Stellung kann von Ihrem Saboteurtrupp alleine nicht zerstört werden. Fordern Sie Artillerie und Luftunterstützung an, um den Feind zu zerstören.
+[Submission_6.Objectives]
+Eine feindliche Blockade wurde gesichtet. Falls man Sie entdeckt, töten Sie die Wachposten.
+[Submission_6.Description]
+Die Blockade wurde an einer strategisch wichtigen Strasse lokalisiert. Polnische Widerstandskämpfer haben berichtet, dass eine motorisierte Patrouille regelmäßig die Strasse überwacht. 
+[Submission_6.Success]
+Der Blockadeposten wurde eliminiert.
+[Submission_6.Failed]
+Sie haben verloren und Ihre Elitetruppen wurden getötet!

@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+두브로바 - 시르체프 방향으로 진격하는 적을 저지하라.
+[Mission.Description]
+대전차포 포대, 대전차 소총소대와 협력하여 방어 구역을 굳건히 사수하라. 우측면과 시르체프의 진지를 사수하는 데 특별한 우선순위를 두어야 한다. 
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+적이 방어선을 무너뜨렸다. 아군이 후퇴하고 있다.
+[Submission_1.Objectives]
+적이 마을에 배치된 방공 포대를 파괴하지 못하게 막아라. 
+[Submission_1.Success]
+방어선 우측면을 돌파하려는 시도를 제압했다.
+[Submission_1.Failed]
+방공 포대가 파괴되었고, 적이 우측면에서 진격하고 있다.
+[Submission_2.Objectives]
+무슨 일이 있어도 시르체프 일대의 진지를 사수하라.
+[Submission_2.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Submission_2.Failed]
+아군은 우세한 적의 타격에 밀려 후퇴한다.
+[Submission_3.Objectives]
+시르체프의 진지로 부대를 철수시켜라. 적이 마을을 점령하지 못하게 막아라.
+[Submission_3.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Submission_3.Failed]
+시르체프를 적이 점령했고 아군이 후퇴한다.
+[StringTable.SPG_InCome]
+제1440자주포연대의 돌격포가 지휘관의 지휘하에 들어왔다.
+[StringTable.Infantry_InCome]
+제272근위연대의 보병 부대가 지휘관의 통제하에 들어왔다. 
+[StringTable.Tanks_InCome]
+제1기계화여단의 전차 집단이 지휘관의 통제하에 들어왔다. 
+[StringTable.ChangeArmy]
+인접 부대가 지휘관의 지휘하에 파견되었다.
+
+[StringTable.SPG]
+제1440자주포연대의 돌격포
+[StringTable.TANKS]
+제1기계화여단의 전차
+[StringTable.INFANTRY]
+제272근위보병연대의 보병
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

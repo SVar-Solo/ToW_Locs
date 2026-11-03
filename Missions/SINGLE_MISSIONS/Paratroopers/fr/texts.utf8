@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+Attaquez, capturez et tenez le pont.
+[Submission_1.Description]
+Le temps vous est compté commandant. Vous devez attaquer, capturer et tenir les ponts. Les Allemands ne lâcheront pas ces points stratégiques sans combattre férocement.
+
+Vos ordres :
+-	Attaquez et capturez tous les ponts marqués sur votre carte. 
+-	Défendez-les contre les tentatives allemandes pour les reprendre.
+[Submission_1.Failed]
+La mission est un échec. Vous n'avez pu capturer les ponts assignés.
+[Submission_1.Success]
+Vous avez capturé les ponts!
+[Mission.Objectives]
+Maintenez les ponts sous bonne garde et développez vos forces dans la ville pour la nettoyer de ses défenseurs. 
+[Mission.Description]
+La capture rapide des ponts sur les arrières de l'ennemi est une tâche convenant parfaitement aux troupes aéroportées légères et rapides. Elles peuvent être déposées sur l'objectif sans être détectées. Par contre, tenir ces ponts contre les efforts concentrés de l'ennemi, spécialement contre les unités blindées, est une mission que même les troupes les plus aguerries auront de la difficulté à accomplir. Il faut pourtant l'accomplir.
+ [Mission.Success]
+Victoire! Vous avez tenu les ponts et vous avez réussi à empêcher l'ennemi de les reprendre. 
+[Mission.Failed]
+Défaite. En dépit de la bravoure de vos hommes, ils n'ont pas pu accomplir leur mission.
+[Submission_2.Objectives]
+Attaquez le village au Nord de notre position.
+[Submission_2.Description]
+Les résistants locaux nous ont révélé qu'un petit hameau au nord est occupé par un poste de commandement allemand. Nous ne pouvons laisser passer cette chance de semer la confusion dans le dispositif de commandement ennemi.
+
+Vos ordres : 
+-	Attaquez le village.
+-	Capturez ou détruisez l'état-major ennemi.
+[Submission_2.Success]
+Bon travail, la ville est tombée!
+[Submission_2.Failed]
+Vous n'avez pu capturer la ville et le poste de commandement allemand a pu se replier.
+[StringTable.tank_reserv]
+Plusieurs chars ont pu traverser les lignes ennemies et sont présentement sous vos ordres.
+[StringTable.inf_reserv]
+Un détachement additionnel de parachutistes est arrivé pour vous prêter main forte.

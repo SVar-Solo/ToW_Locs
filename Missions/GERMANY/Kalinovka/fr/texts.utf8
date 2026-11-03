@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Prenez la cote 232.8 et tenez-la.
+[Mission.Description]
+L'équipe de combat, composée de chars, d'infanterie motorisée et d'artillerie, progressera en direction de la cote 232.8. Battez l'ennemi sur les pentes sud-est de la cote et avancez jusqu'à ses pentes nord-ouest. Tenez la cote et empêchez les chars et l'infanterie ennemis de prendre en flanc les forces principales de la division.
+[Submission1.Objectives]
+Prenez les positions ennemies sur la cote 232.8.
+[Submission2.Objectives]
+Repoussez les chars ennemis.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Nous avons échoué à exécuter nos ordres. L'ennemi est trop fort !
+[Submission1.Success]
+Mission accomplie, la cote 232.8 est prise.
+[Submission1.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire.
+[Submission2.Success]
+Les contre-attaques ennemies ont été repoussées avec succès.
+[Submission2.Failed]
+Nos forces se replient sous la pression de l'ennemi !
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

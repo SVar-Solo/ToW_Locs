@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Obejmij dowodzenie obroną
+[Submission_1.Description]
+Wesprzyj jednostki strzegące stacji kolejowej i osady, a następnie obejmij dowodzenie obroną.
+[Submission_01.Success]
+Wszystkie oddziały są teraz pod twoim dowództwem.
+[Submission_01.Failed]
+Misja nieudana.
+[Mission.Objectives]
+Powstrzymaj wroga
+[Mission.Description]
+Utrzymaj kontrolę nad osadą i stacją. Jeśli stacja zostanie zdobyta, przeprowadź kontratak i odbij ją. Utrata osady oznacza, że wróg się przebił, a misja jest przegrana.
+[NewSubmission.Success]
+Stacja znów jest nasza!
+[NewSubmission.Failed]
+Misja nieudana.
+[Mission.Success]
+Misja zakończona, wszystkie ataki odparte.
+[Mission.Failed]
+Misja nieudana.
+[Submission_1.Success]
+Wszystkie jednostki są teraz pod twoim dowództwem.
+[Submission_1.Failed]
+Odmowa objęcia dowodzenia obroną drogo cię będzie kosztować!
+[Submission_2.Objectives]
+Kontratak
+[Submission_2.Description]
+Wróg zdobył stację! Przeprowadź kontratak i odbij ją.
+[Submission_2.Success]
+Misja wykonana, stacja znów jest nasza.
+[Submission_2.Failed]
+Misja nieudana.

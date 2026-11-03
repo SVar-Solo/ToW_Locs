@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+독일 점령군으로부터 비소차니를 해방하고 적의 발판을 파괴하라.
+[Mission.Description]
+비소차니로 가는 도로를 통제하는 쿠르텐키의 적 수비대를 제거하고, 이 도로를 확보하며, 쿠르텐키 - 비소차니 일대의 적 기갑 부대를 파괴하고, 비소차니 남쪽 외곽의 포병을 제압해야 한다.
+[Mission.Success]
+임무 완수, 비소차니를 해방했다.
+[Mission.Failed]
+임무 실패.
+[Submission1.Objectives]
+쿠르텐키를 해방하라.
+[Submission1.Description]
+쿠르텐키의 적 수비대를 제거하고 비소차니로 가는 도로를 확보하라. 적의 반격을 격퇴할 준비를 하라.
+[Submission1.Success]
+쿠르텐키를 확보했다.
+[Submission1.Failed]
+임무 실패.
+[Submission2.Objectives]
+쿠르텐키 수비대를 지원하러 오는 적 기갑 종대를 격파하라.
+[Submission2.Description]
+적 기갑 종대가 비소차니에서 쿠르텐키 수비대를 지원하러 오고 있다. 매복으로 유인하여 요격하고 격파하라.
+[Submission2.Success]
+적 종대를 격파했다.
+[Submission2.Failed]
+임무 실패.
+[Submission3.Objectives]
+또 다른 적 기갑 집단이 귀관을 요격하기 위해 비소차니에서 출발했다. 이를 격파하고 마을 해방으로 나아가라.
+[Submission3.Description]
+비소차니로 가는 도로를 완전히 확보하라. 적 기갑 집단을 격파하라.
+[Submission3.Success]
+비소차니로 가는 도로가 열렸다.
+[Submission3.Failed]
+임무 완수.

@@ -1,0 +1,20 @@
+﻿[Submission_1.Objectives]
+Zniszcz nieprzyjacielską obronę.
+[Submission_1.Description]
+Wycofujące się wojska niemieckie utworzyły nową linię obrony w rejonie Jadromina. Musisz zniszczyć nieprzyjacielską obronę, żeby móc nacierać dalej na Wołokołamsk.
+Twoje rozkazy:
+-	Zniszcz nieprzyjacielską obronę.
+[Submission_1.Success]
+Zadanie wykonane! Zniszczyłeś nieprzyjacielską obronę.
+[Submission_1.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.
+[Submission_2.Objectives]
+Odeprzeć nieprzyjacielski atak.
+[Submission_2.Description]
+Wojska nazistowskie rozpoczęły kontrofensywę mającą zniszczyć nasze wojska w tym rejonie. Musimy utrzymać pozycje na tym odcinku frontu. 
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielski atak.
+[Submission_2.Success]
+Zadanie wykonane! Odparłeś nieprzyjacielski atak.
+[Submission_2.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.

@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+Asalte el poblado
+
+[Mission.Description]
+Entre en el poblado, enfrente a la infantería enemiga, descubra y capture un tanque. Destruya el tanque enemigo. Retírese al punto indicado.
+
+[Mission.Success]
+¡Ha completado con éxito todas las tareas!
+
+[Mission.Failed]
+Tarea fallida.
+
+[Submission_1.Objectives]
+Tome el poblado y capture el tanque
+
+[Submission_1.Description]
+Tome el poblado controlado por el enemigo, descubra el tanque y captúrelo.
+
+[Submission_1.Success]
+Tanque descubierto y capturado
+
+[Submission_1.Failed]
+Tarea fallida.
+
+[Submission_2.Objectives]
+Destruya la artillería enemiga
+
+[Submission_2.Description]
+Destruya la artillería enemiga. Para cumplir la tarea con mayor eficacia, use proyectiles de humo como cobertura.
+
+[Submission_2.Success]
+Artillería enemiga destruida
+
+[Submission_2.Failed]
+Tarea fallida.
+
+[Submission_3.Objectives]
+Destruya el tanque enemigo
+
+[Submission_3.Description]
+Destruya el tanque enemigo que avanza desde el sudoeste. Puede usar una cortina de humo.
+
+[Submission_3.Success]
+Tanque enemigo destruido
+
+[Submission_3.Failed]
+Tarea fallida.
+
+[Submission_4.Objectives]
+Evacuar
+
+[Submission_4.Description]
+Evacue a sus tropas hasta el punto de evacuación. Use una cortina de humo para cubrir la retirada.
+
+[Submission_4.Success]
+Sus tropas han sido evacuadas
+
+[Submission_4.Failed]
+Tarea fallida
+
+[StringTable.Storm]
+Para asaltar edificios con la máxima eficacia, determine primero dónde está el enemigo para no quedar bajo fuego cruzado. Coloque a varios soldados de modo que controlen con fiabilidad la salida desde la distancia; con los demás soldados, acérquese sigilosamente al edificio hasta el alcance de lanzamiento de granadas. Es mejor lanzar las granadas por el hueco de la puerta con la orden "Fuego de área" {hkey:groundattack}. También puede usar granadas antitanque para destruir el edificio.
+
+[StringTable.Ambush]
+Use el modo de movimiento arrastrándose {hkey:setbodymodelay} para que sus hombres sean menos visibles para el enemigo. Tenga en cuenta que en modo de movimiento libre su infantería, al estar cerca de coberturas o edificios, intentará esconderse allí y puede quedar expuesta al fuego, así que prohíbale el movimiento libre {hkey:actionmode}.
+
+[StringTable.House]
+Use las casas como cobertura: su infantería será menos vulnerable.
+
+[StringTable.Variation]
+En la mayoría de las situaciones de combate puede actuar de muchas maneras. En este caso, los cañones pueden ser destruidos por la infantería, cubriéndose con granadas de humo, o por un tanque.
+
+[StringTable.Smoke]
+El tanque está equipado con un lanzador de humo concebido para levantar cortinas de humo. Si hay un comandante en el tanque y el dispositivo está cargado, puede usar la orden "Cortina de humo (disparo instantáneo)" {hkey:smokecloudfast}. Entonces la cortina de humo se levantará inmediatamente junto al tanque, sin especificar un punto de disparo.
+
+[StringTable.Evac]
+Evacue a sus tropas hasta el punto de evacuación. Puede verse en el minimapa, o cambie al modo de mapa táctico {hkey:cameratopdownview}. Use una cortina de humo para cubrir la retirada. Mueva el tanque marcha atrás {hkey:retreat} hasta salir de la línea de fuego del enemigo.

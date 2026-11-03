@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+Prendete d'assalto l'abitato
+
+[Mission.Description]
+Entrate nell'abitato, ingaggiate la fanteria nemica, individuate e catturate un carro armato. Distruggete il carro armato nemico. Ritiratevi nel punto indicato.
+
+[Mission.Success]
+Avete portato a termine con successo tutti i compiti!
+
+[Mission.Failed]
+Compito fallito.
+
+[Submission_1.Objectives]
+Conquistate l'abitato e catturate il carro armato
+
+[Submission_1.Description]
+Conquistate l'abitato controllato dal nemico, individuate il carro armato e catturatelo.
+
+[Submission_1.Success]
+Carro armato individuato e catturato
+
+[Submission_1.Failed]
+Compito fallito.
+
+[Submission_2.Objectives]
+Distruggete l'artiglieria nemica
+
+[Submission_2.Description]
+Distruggete l'artiglieria nemica. Per portare a termine il compito in modo più efficace, usate proiettili fumogeni come copertura.
+
+[Submission_2.Success]
+Artiglieria nemica distrutta
+
+[Submission_2.Failed]
+Compito fallito.
+
+[Submission_3.Objectives]
+Distruggete il carro armato nemico
+
+[Submission_3.Description]
+Distruggete il carro armato nemico in arrivo da sud-ovest. Potete usare una cortina fumogena.
+
+[Submission_3.Success]
+Carro armato nemico distrutto
+
+[Submission_3.Failed]
+Compito fallito.
+
+[Submission_4.Objectives]
+Evacuazione
+
+[Submission_4.Description]
+Evacuate le vostre truppe al punto di evacuazione. Usate una cortina fumogena per coprire la ritirata.
+
+[Submission_4.Success]
+Le vostre truppe sono state evacuate
+
+[Submission_4.Failed]
+Compito fallito
+
+[StringTable.Storm]
+Per un assalto il più efficace possibile agli edifici, determinate prima dove si trova il nemico, per non finire sotto il fuoco incrociato. Posizionate alcuni soldati in modo che controllino in sicurezza l'uscita da lontano; con gli altri soldati avvicinati di nascosto all'edificio fino alla gittata di lancio delle granate. È meglio lanciare le granate attraverso la porta usando il comando "Fuoco d'area" {hkey:groundattack}. Per distruggere l'edificio potete anche usare le granate anticarro.
+
+[StringTable.Ambush]
+Usate la modalità di movimento strisciando {hkey:setbodymodelay} in modo che i vostri uomini siano meno visibili al nemico. Tenete presente che in modalità di movimento libero la vostra fanteria, trovandosi vicino a coperture o edifici, cercherà di ripararvisi e potrebbe esporsi al fuoco, quindi vietate loro il movimento libero {hkey:actionmode}.
+
+[StringTable.House]
+Usate le case come copertura: la vostra fanteria sarà meno vulnerabile.
+
+[StringTable.Variation]
+Nella maggior parte delle situazioni di combattimento potete agire in molti modi. In questo caso i pezzi possono essere distrutti sia dalla fanteria, usando granate fumogene come copertura, sia da un carro armato.
+
+[StringTable.Smoke]
+Il carro armato è dotato di un lanciafumogeni progettato per creare cortine fumogene. Se nel carro c'è un comandante e il dispositivo è carico, potete usare il comando "Cortina fumogena (tiro immediato)" {hkey:smokecloudfast}. In tal caso la cortina fumogena verrà creata subito accanto al carro armato, senza indicare un punto di tiro.
+
+[StringTable.Evac]
+Evacuate le vostre truppe al punto di evacuazione. Si vede sulla minimappa, oppure passate alla modalità mappa tattica {hkey:cameratopdownview}. Usate una cortina fumogena per coprire la ritirata. Muovete il carro armato in retromarcia {hkey:retreat} finché non uscite dalla linea di tiro del nemico.

@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+増援が到着した。
+[Submission1.Objectives]
+村を占領し、敵部隊を撃滅せよ。
+[Submission1.Description]
+ドイツ軍部隊が近くの村を占拠しており、増援を待っているようだ。敵の増援が到着する前に、この集落を攻撃せよ。
+
+命令：
+-	集落を占領せよ。
+-	敵部隊をすべて撃破せよ。
+[Submission1.Success]
+任務は無事達成された。敵部隊は村から駆逐された。
+[Submission1.Failed]
+任務失敗。
+[Mission1.Objectives]
+敵部隊をすべて撃破せよ。
+[Mission1.Description]
+ドイツ軍部隊がモルタン方面へ進撃を開始した。敵はこの地域のいくつかの小集落を占領している。入手した情報によれば、敵はこの方面で攻勢を準備している。阻止せよ！
+
+命令：
+	占領された集落から敵を駆逐せよ。
+[Mission1.Success]
+任務は無事達成された。
+[Mission1.Failed]
+任務失敗。
+[Submission2.Objectives]
+敵部隊を撃破し、村を占領せよ。
+[Submission2.Description]
+敵の一部隊が小さな集落に陣地を構築した。モルタン方面への反攻を準備している。
+
+命令：
+	敵を陣地から追い払い、集落を奪取せよ。
+[Submission2.Success]
+任務は無事達成された。集落は我が軍の支配下にある。
+[Submission2.Failed]
+任務失敗。部隊は大損害を被った。
+[Submission3.Objectives]
+敵装甲部隊を撃破せよ。
+[Submission3.Description]
+敵は小規模な装甲部隊で増強された。
+
+命令：
+-	敵の装甲部隊をすべて攻撃し、撃破せよ。
+[Submission3.Success]
+任務は無事達成された。
+[Submission3.Failed]
+任務失敗。部隊は大損害を被った。

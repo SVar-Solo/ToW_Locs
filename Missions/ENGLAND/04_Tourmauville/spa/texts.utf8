@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Libere la aldea de Tourmauville, asegure los pasos del río Odon y despeje de fuerzas enemigas ambas orillas.
+[Mission.Description]
+Con el fin de detener nuestro avance, el enemigo ha organizado sus defensas en los pasos del río Odon que tenemos delante. Debemos asegurar los pasos y eliminar a todas las fuerzas hostiles.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+El puente cerca de Tourmauville.
+[Submission_1.Description]
+Un puente estratégico sobre el río Odon se encuentra al sur de Tourmauville.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Otro puente más al sur.
+[Submission_2.Description]
+Este es otro puente estratégico. Debería permitirnos flanquear al enemigo y lanzar un ataque por la retaguardia contra los defensores de Tourmauville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Libere Tourmauville.
+[Submission_3.Description]
+El enemigo ha consolidado su posición en Tourmauville y ha tomado el control de los pasos del río y de otros accesos. Debemos expulsarlo de la aldea.
+[Submission_4.Objectives]
+El cruce de caminos.
+[Submission_4.Description]
+El cruce de caminos y los Panther.
+[Submission_1.Success]
+Misión cumplida. El paso de Tourmauville ha sido asegurado.
+[Submission_1.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_2.Success]
+Tarea cumplida. Puente asegurado.
+[Submission_2.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_3.Success]
+Tarea cumplida. Tourmauville capturada.
+[Submission_3.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+No se ha logrado cumplir la tarea.
+[StringTable.Tanks]
+Fuerza de reserva disponible.

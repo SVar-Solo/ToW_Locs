@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Powstrzymajcie wroga przed przejęciem wzgórza 232.8 i przedostaniem się do Kalinowki.
+[Mission.Description]
+Zajmijcie i zabezpieczcie teren obronny na południowo-wschodnich stokach wzgórza 232.8. Nie pozwólcie nieprzyjacielowi przebić się do Kalinowki. Skupcie swoje wysiłki na utrzymaniu pozycji przed grzbietem wzgórza. Za wszelką cenę upewnijcie się, że brygada czołgów z 10. Korpusu Pancernego wkroczy do walki w pobliżu wzgórza.
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Nasze wojska wycofują się pod naporem przeważających sił wroga.
+[Submission1.Objectives]
+Utrzymajcie pozycje, póki nie dotrą jednostki 10. Korpusu Pancernego.
+[Submission1.Success]
+Misja zakończona sukcesem, powstrzymano natarcie wroga.
+[Submission1.Failed]
+Wróg przebił się przez linię frontu i kontynuuje natarcie.
+[Submission2.Objectives]
+Przeprowadźcie kontratak na wroga przy użyciu jednostek 10. Korpusu Pancernego.
+[Submission2.Success]
+Kontratak przebiega zgodnie z planem, wróg się wycofuje.
+[Submission2.Failed]
+Kontratak zawiódł, nasze wojska zostały zatrzymane przez przeważające siły wroga.
+[StringTable.Support]
+Grupy czołgów i piechoty zostały przekazane pod waszą komendę.
+
+[StringTable.Avia_Support]
+Można dokonać nalotu samolotami Ił-2.
+[StringTable.Art_Support]
+Artyleria rakietowa Katiusza otworzy ogień na wasz znak.
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

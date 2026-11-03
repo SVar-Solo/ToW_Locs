@@ -1,0 +1,35 @@
+﻿[Submission01.Objectives]
+Sfonda le difese nemiche e libera il villaggio
+[Submission01.Description]
+L'ora decisiva è arrivata. Dobbiamo sconfiggere il Gruppo d'Armata Centrale dell'invasore fascista. Per questo scopo sono state mobilitate in questo settore tutte le riserve delle forze sovietiche. Le tue truppe sono un elemento importante di questa nuova offensiva. Per sostenere il tuo sforzo, ti sono stati assegnati dei carri pesanti. Usali bene e dimostrati degno della fiducia che è stata riposta in te.
+
+I tuoi ordini sono:
+- 	Sfonda le difese nemiche.
+- 	Libera il villaggio dagli invasori fascisti
+[Submission01.Success]
+Il nemico si ritira! Il villaggio è stato liberato! Un ottimo risultato. 
+[Submission01.Failed]
+Il tuo attacco è stato respinto. Adesso, invece di avanzare, dobbiamo prepararci ad un contrattacco tedesco.
+[Submission02.Objectives]
+Sfonda le difese nemiche.
+[Submission02.Description]
+Fanteria e cannoni anticarro proteggono l'avvicinamento al villaggio. E' necessario distruggere la prima linea di difesa nemica.
+
+I tuoi ordini sono:
+- 	Sfonda le difese nemiche.
+[Submission02.Success]
+Le difese nemiche sono state superate.
+[Submission02.Failed]
+Le tue truppe sono state eliminate. Non hai meritato la fiducia dei tuoi superiori!
+[Submission03.Objectives]
+Libera il villaggio.
+[Submission03.Description]
+Le disastrate truppe nemiche si sono ritirate fino alla seconda linea delle loro posizioni, dove si sono fortificate. Devi distruggere queste unità per proseguire nella tua avanzata.
+
+I tuoi ordini sono:
+- 	Libera il villaggio dagli aggressori fascisti.
+Il villaggio è stato liberato. Un grande successo, comandante!
+[Submission03.Failed]
+Hai inutilmente speso le vite dei soldati che erano sotto il tuo comando.
+[StringTable.Reserv]
+Ti sono stati assegnati dei rinforzi.

@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+적 기갑 종대를 공격하라.
+[Submission1.Description]
+아군 부대가 마을 주변에 방어선을 구축하자마자 독일군 기갑 종대가 시골길을 따라 귀관 방향으로 이동하는 모습이 보였다. 이 위협을 격퇴해야 한다!
+
+명령: 
+- 	마을 주변에 거점을 구축하고 적 종대를 공격하라.
+[Submission1.Success]
+귀관의 명령을 완수했다!
+[Submission1.Failed]
+명령 실패! 독일군 종대를 격파하지 못했다.
+[Submission2.Objectives]
+측면에서 진격하는 독일군을 공격하라.
+[Submission2.Description]
+아군 항공 정찰 보고에 따르면 적은 마을에서 멀지 않은 곳에 병력을 전개하여 귀관 방향으로 이동하고 있다. 독일군은 틀림없이 공격을 준비하고 있으므로 그 계획을 좌절시켜야 한다.
+
+명령: 
+- 	적 돌격 집단을 공격하여 귀관의 부대를 포위하지 못하게 막아라.
+[Submission2.Success]
+명령을 완수했다! 독일군은 아군을 포위하지 못했다!
+[Submission2.Failed]
+명령을 완수하지 못했다! 귀관의 부대가 포위되었다.
+[Mission1.Objectives]
+마을 주변의 방어선을 사수하라.
+[Mission1.Description]
+사령부는 적이 우리 구역에서 새로운 진격을 계획하고 있음을 분명히 보여주는 보고를 받고 있다.
+
+명령:
+- 	마을 주변의 방어선을 사수하라.
+[Mission1.Success]
+명령을 완수했다! 귀관의 결단력 있는 행동 덕분에 독일군은 전선의 이 구역에서 아군 방어선을 돌파하지 못했다!
+[Mission1.Failed]
+임무에 실패했다. 독일군이 전선의 이 구역에서 방어선을 돌파했다!
+[Submission3.Objectives]
+독일군의 공격에 맞서라.
+[Submission3.Description]
+독일군 기갑 종대가 공격받은 뒤 그들은 마을을 점령하기 위해 추가 병력을 투입했다. 지휘관, 또 한 차례의 공격에 대비하라.
+
+명령: 
+- 	파시스트군의 돌격을 저지하라.
+[Submission3.Success]
+귀관은 지휘관의 명령을 훌륭히 수행하여 마을을 지켜냈다!
+[Submission3.Failed]
+임무에 실패했다. 적이 마을을 점령했다.
+[Submission4.Objectives]
+아군 후방의 적 집단을 공격하라.
+[Submission4.Description]
+적 기갑 종대가 아군 후방에 도착했다. 아군 진지를 포위하기 전에 무력화해야 한다.
+
+명령: 
+- 	아군 후방의 적 부대를 공격하라.
+[Submission4.Success]
+명령을 완수했고 독일군이 패주했다!
+[Submission4.Failed]
+명령을 수행하지 못했고 독일군이 또 한 번 승리를 거두었다.
+[StringTable.Reserv]
+증원 부대가 배속되었다

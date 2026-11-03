@@ -1,0 +1,64 @@
+﻿[Mission.Objectives]
+Respingere tutti gli attacchi nemici.
+[Mission.Description]
+Respingere tutti gli attacchi nemici e difendere le alture.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission1.Objectives]
+Tenere la Quota 1
+[Submission1.Description]
+La Quota 1 è di grande importanza tattica. Offre un’ampia visuale su gran parte della linea del fronte e su tutte le nostre retrovie. Se il nemico occupa la Quota 1, potrà correggere il tiro d’artiglieria e battere con precisione le nostre posizioni arretrate. Tenetela a ogni costo.
+[Submission1.Success]
+Gli attacchi nemici sono stati respinti, infliggendo gravi perdite!
+[Submission1.Failed]
+Il nemico ha conquistato la Quota 1!
+[Submission2.Objectives]
+Riconquistare la Quota 1 al nemico.
+[Submission2.Description]
+La fanteria nemica ha conquistato la Quota 1. L’ordine è di scacciare il nemico dalla Quota 1 con l’aiuto delle riserve.
+[Submission2.Success]
+La Quota 1 è stata riconquistata.
+[Submission2.Failed]
+L’attacco è fallito. Ora il nemico può battere con precisione le nostre posizioni!
+[Submission3.Objectives]
+Attaccare i genieri tedeschi.
+[Submission3.Description]
+Protetti dai carri armati, i genieri nemici tentano di aprire dei varchi per i carri nel nostro campo minato. La nostra fanteria deve attaccare i genieri tedeschi e impedire loro di finire il lavoro. La nostra artiglieria vi coprirà con una cortina fumogena.
+[Submission3.Success]
+Il nemico ha interrotto lo sminamento e si ritira. Missione compiuta.
+[Submission3.Failed]
+Missione fallita! I genieri nemici hanno avuto abbastanza tempo per aprire alcuni varchi per i loro carri. Ora dobbiamo prepararci a respingere un attacco di carri armati!
+[Submission4.Objectives]
+Tenere la linea sfruttando attivamente il fuoco delle batterie e le forze aeree.
+[Submission4.Description]
+Tenere la Quota 4 e le principali linee difensive. Da posizioni di tiro coperte, infliggere al nemico più danni possibile prima che raggiunga le nostre linee difensive principali.
+[Submission4.Success]
+Il nemico ha subito gravi perdite e si ritira. Missione compiuta!
+[Submission4.Failed]
+I carri armati nemici hanno sfondato le nostre difese e raggiunto il posto di comando!  
+[StringTable.Message1]
+Il nemico si ritira. Probabilmente per riorganizzarsi e attaccare di nuovo.
+[StringTable.Message2]
+Il nemico bombarda l’altura, probabilmente per preparare un nuovo attacco. Il versante posteriore non è battuto dal fuoco e la fanteria può attendervi la fine del bombardamento.
+[StringTable.Reinf1]
+Sono arrivati i rinforzi.
+[StringTable.mess1]
+I tedeschi sembrano aver corretto il tiro e sparano per uccidere.
+[StringTable.mess2]
+Il nemico sembra aver iniziato a regolare il tiro sulle nostre posizioni. È fondamentale riconquistare la Quota 1 il prima possibile!
+[StringTable.mess4]
+I campi minati sono segnati sulla mappa. Purtroppo ci sono solo mine anticarro, che non fermeranno la fanteria. Inoltre i campi minati devono essere protetti dallo sminamento.
+[StringTable.mess5]
+La fanteria nemica si è assicurata l’altura. Se hanno un osservatore d’artiglieria, tra poco passeremo dei guai.
+[StringTable.mess6]
+Sono arrivati i rinforzi.
+[StringTable.mess7]
+Attenzione! Carri armati nemici sul fianco sinistro!
+[StringTable.mess8]
+Contatto con la batteria stabilito. L’artiglieria è pronta a battere su richiesta!
+[StringTable.mess9]
+Gli aerei si avvicinano al vostro settore, pronti ad agire su vostra richiesta!
+[StringTable.mess3]
+Bombardamento cessato. Tornate alle vostre posizioni.

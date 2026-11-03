@@ -1,0 +1,45 @@
+﻿[Main_mission.Objectives]
+Elimina il nemico in fuga
+[Main_mission.Description]
+Secondo le informazioni, le posizioni difensive a Caen sono state abbattute e il nemico fugge rapidamente. Le nostre truppe non sono riuscite a chiudere abbastanza in fretta il cerchio e una parte delle truppe nemiche potrebbe riuscire a fuggire. Il tuo compito è di fermarle.
+
+I tuoi ordini sono:
+-	Consolida le tue forze nelle vicinanze di un insediamento e tenere ad ogni costo l'incrocio. Non lasciare l'area in nessuna circostanza dato che il nemico potrebbe arrivare in qualsiasi momento.
+[Main_mission.Success]
+Il nemico è stato sconfitto! Adesso la zona è sotto il nostro controllo!
+[Main_mission.Failed]
+Hai perso. Il nemico ha abbandonato l'area. 
+[Submission_1.Objectives]
+Distruggi i carri nemici.
+ I resti delle unità tedesche stanno cercando di spezzare l'accerchiamento. Anche se il nemico è stato indebolito, rimane ancora molto pericoloso. Sono stati avvistati anche dei carri armati nemici.
+
+I tuoi ordini sono:
+-	Impedisci al nemico di passare. Distruggi i carri armati nemici.
+[Submission_1.Success]
+Congratulazioni! Hai fermato le forze nemiche!
+[Submission_1.Failed]
+Sei stato sconfitto. Il nemico è fuggito.
+[Submission_2.Objectives]
+Ferma le truppe nemiche!
+[Submission_2.Description]
+Il nemico ha ancora più truppe in quest'area di quante ci aspettavamo. I suoi tentativi di spezzare l'accerchiamento proseguono.
+I tuoi ordini sono:
+
+-	Elimina le truppe nemiche.
+[Submission_2.Success]
+Hai avuto successo! Le truppe nemiche sono state eliminate!
+[Submission_2.Failed]
+Hai fallito la missione!
+[Submission_3.Objectives]
+Occupa la zona abitata. Elimina il nemico se lo localizzi.
+[Submission_3.Description]
+I tedeschi non sono riusciti a spezzare l'accerchiamento, ma il nemico non è stato ancora eliminato. Il Quartier Generale ritiene che la decisione migliore è di lanciare un'offensiva e di eliminare il nemico.
+
+I tuoi ordini sono:
+-	Lancia un'offensiva. Attacca la zona abitata ed elimina il nemico.
+[Submission_3.Success]
+Il nemico è stato eliminato! La zona abitata è sotto il nostro controllo!
+[Submission_3.Failed]
+Non sei riuscito a portare a termine gli obiettivi!
+[StringTable.Reserv]
+I rinforzi sono arrivati.

@@ -1,0 +1,53 @@
+﻿[Submission1.Objectives]
+Uniemożliwić przełamanie obrony przez nieprzyjaciela, nacierającego od zachodu.
+[Submission1.Description]
+Po długich przygotowaniach Amerykanie rozpoczęli natarcie na Arras. Chcą zniszczyć cofające się jednostki. Sytuacja na tym odcinku frontu jest bardzo zła. Nieprzyjaciel naciera od zachodu i ma przewagę liczebną.
+Twoje rozkazy:
+-	Uniemożliwić przełamanie obrony przez nieprzyjaciela, nacierającego od zachodu.
+[Submission1.Success]
+Zadanie wykonane! Wróg cofa się.
+[Submission1.Failed]
+Wróg przełamał naszą obronę -musimy się wycofać!
+[Mission1.Objectives]
+Utrzymaj pozycje i zatrzymaj natarcie amerykańskie.
+[Mission1.Description]
+Amerykańska 3. Armia zbliżyła się do naszych linii obronnych pod Arras. Amerykanie szykują zmasowane natarcie na całej długości frontu, z różnych kierunków. Musimy osłaniać odwrót naszych wojsk, zatrzymując nowe natarcie.
+Twoje rozkazy: 
+-	Utrzymać pozycje obronne we wskazanym rejonie.
+-	Zatrzymać atak sił nieprzyjaciela na tym odcinku frontu.
+[Mission1.Success]
+Zadanie wykonane - Amerykanie stracili większość sił, co potwierdziło przytłaczającą przewagę niemieckiego uzbrojenia.
+[Mission1.Failed]
+Twoja obrona została przełamana! Niemcy nie zapomną o poległych żołnierzach, ale z pewnością nie będą z wdzięcznością wspominać ich nieudolnego dowódcy!
+[Submission2.Objectives]
+Uniemożliwić przełamanie obrony na południu.
+[Submission2.Description]
+Duża grupa sił USA zmierza do Arras od południa. Ich natarcie jest wspierane przez samoloty i artylerię.
+Twoje rozkazy: 
+-	Odeprzyj nieprzyjacielski atak z południa.
+[Submission2.Success]
+Zadanie wykonane. Wróg został zatrzymany!
+[Submission2.Failed]
+Nieprzyjaciel przełamał obronę!
+[Submission3.Objectives]
+Odeprzeć nieprzyjacielski atak z południowego zachodu.
+[Submission3.Description]
+Zwiad melduje, że nieprzyjaciel naciera w kierunku Arras z południowego zachodu, chcąc zdławić opór naszych jednostek w tym sektorze.
+Twoje rozkazy: 
+-	Odeprzeć nieprzyjacielski atak z południowego zachodu.
+[Submission3.Success]
+Odparłeś nieprzyjacielski atak!
+[Submission3.Failed]
+Nieprzyjaciel przełamał twoją obronę. Musisz się wycofać!
+[Submission4.Objectives]
+Odeprzeć nowy atak z północnego zachodu.
+[Submission4.Description]
+Grupa wojsk USA przemieszcza się z północnego zachodu.
+Twoje rozkazy: 
+-	Uniemożliwić przełamanie obrony przez nieprzyjacielski atak z północnego zachodu.
+[Submission4.Success]
+Zadanie wykonane!
+[Submission4.Failed]
+Twoja obrona została przełamana!
+[StringTable.Reserv]
+Otrzymałeś posiłki.

@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Rompete l'accerchiamento.
+[Mission.Description]
+Entro la metà di luglio la maggior parte della Francia è stata occupata dalle truppe tedesche. Le divisioni corazzate tedesche hanno sfondato le linee difensive francesi e hanno raggiunto la costa con una rapida spinta. Parigi è caduta il 14 giugno e il governo francese è fuggito a Bordeaux.
+
+Obiettivo:
+-	rompere l'accerchiamento.
+[Mission.Success]
+Missione compiuta!
+[Mission.Failed]
+Missione fallita! Le vostre truppe sono state annientate!
+[Submission1.Objectives]
+Salvate i soldati francesi.
+[Submission1.Description]
+Un piccolo distaccamento di fanteria francese è circondato e si nasconde in una fattoria isolata. La fanteria tedesca si avvicina.
+
+Obiettivo:
+- 	salvare i soldati francesi da morte certa.
+[Submission1.Success]
+Missione compiuta!
+[Submission1.Failed]
+Missione fallita!
+[Submission2.Objectives]
+Eseguite una ricognizione del terreno.
+[Submission2.Description]
+Fate eseguire la ricognizione del terreno a un cecchino.
+
+Ordine ricevuto:
+- 	eseguire la ricognizione del terreno.
+[Submission2.Success]
+Ordine del comando eseguito!
+[Submission2.Failed]
+Ordine del comando non eseguito

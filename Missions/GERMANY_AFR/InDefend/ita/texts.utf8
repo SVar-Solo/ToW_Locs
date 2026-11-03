@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Tenere le posizioni
+[Mission.Description]
+Tenere le posizioni presso Sidi Bou Zid.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Objectives]
+Tenere la città
+[Submission_1.Description]
+Il comando d'armata ha messo a disposizione dei carri armati dalla riserva, ma sono ancora in marcia. Il nemico sta cercando disperatamente di riprendersi Sidi Bou Zid. Dovete tenere la città fino all'arrivo dei rinforzi.
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+Missione fallita.
+[Submission_2.Objectives]
+Distruggere le postazioni d'artiglieria nemiche
+[Submission_2.Description]
+Ora avete il comando dei carri armati della riserva del comando d'armata. Usateli per conquistare il piccolo insediamento e distruggere le postazioni d'artiglieria nemiche.
+[Submission_2.Success]
+Missione compiuta.
+[Submission_2.Failed]
+Missione fallita.
+[StringTable.Add_tanks]
+- Maggiore, ho dato ordine di fornirle dei carri armati dalla riserva del comando d'armata. Gli americani hanno subito gravi perdite ed è il momento di contrattaccare. Buona fortuna a lei e ai suoi uomini.

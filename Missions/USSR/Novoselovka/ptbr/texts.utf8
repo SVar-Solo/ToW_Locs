@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Impedir que o inimigo rompa em Novoselovka.
+[Mission.Description]
+Defenda as posições a 500 m ao sul de Novoselovka, o ponto forte antitanque na própria aldeia e a segunda linha na orla noroeste da aldeia. Concentre os esforços em manter o centro da aldeia. Impeça o inimigo de penetrar ao norte de Novoselovka.
+[Mission.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Mission.Failed]
+As forças inimigas ocuparam Novoselovka e agora avançam para o norte.
+[Submission_1.Objectives]
+Mantenha as posições até a chegada dos reforços.
+[Submission_1.Success]
+Missão cumprida, o avanço inimigo foi contido.
+[Submission_1.Failed]
+O inimigo mantém o avanço; há risco de ele romper para o norte.
+[Submission_2.Objectives]
+Derrote o inimigo que avança pela parte noroeste da aldeia.
+[Submission_2.Success]
+O rompimento inimigo foi derrotado.
+[Submission_2.Failed]
+Contra-ataque derrotado, o inimigo mantém o avanço.
+[StringTable.Support]
+Um grupo de tanques e infantaria está agora sob o seu comando.
+[StringTable.Infantry]
+Infantaria do 959º Regimento de Infantaria
+[StringTable.Tanks]
+Tanques do 3º Corpo Mecanizado
+[StringTable.Call_SPG]
+Canhões de artilharia autopropulsados estão agora sob o seu controle.
+
+[StringTable.SPG]
+Canhões de artilharia autopropulsados
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

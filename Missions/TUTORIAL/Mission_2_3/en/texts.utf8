@@ -1,0 +1,278 @@
+﻿[StringTable.1]
+To open the window of current command orders, you need to press the BRIEFING button in the top right corner of the screen (the "envelope" icon).
+
+[StringTable.2]
+Being in free movement mode and with a low danger level, your infantry will try to find cover nearby. If an enemy is spotted, the soldiers may change stance or slightly change position while remaining in cover, for more convenient firing.
+
+[StringTable.3]
+Some soldiers have smoke grenades; sometimes it is necessary to put up a smoke screen to reach the next cover and cross an open area.
+Use the "Smoke screen" {hkey:smokecloud} command and indicate a point for throwing the grenade within throwing range by right-clicking. You can also forcibly select the required grenade in the inventory and throw it using the "Area fire" {hkey:groundattack} command.
+
+[StringTable.4]
+When soldiers approach the enemy at close range, they may engage in melee combat. The outcome of hand-to-hand combat is determined by the "Scouting" skill level of the soldiers.
+If the enemy significantly outnumbers them and the soldiers' morale is low, they may panic (temporary loss of control) or surrender (complete loss of control).
+A detailed tooltip about a soldier's morale state can be seen by hovering the mouse over the "morale" line in the unit information panel.
+
+[StringTable.5]
+If enemies are holed up in a building, you can try to "smoke them out" by throwing a grenade through a window or doorway in "Area fire" mode {hkey:groundattack}. Even if the grenade doesn't land where it should, there is a chance that the enemy soldiers will run out of the building into the fire of your soldiers.
+
+[StringTable.6]
+Capture the armored car. Select at least two soldiers to operate the captured vehicle — one should have a high driver skill, and the other a high gunner skill.
+
+[StringTable.7]
+Air support is available to you. Instead of attacking enemy guns head-on, it is recommended to scout the location of the guns with a sniper, and then call attack aircraft to that area. They will need some time to fly to the specified area, and then they will begin searching for targets nearby. If there are no targets near the specified point, the attack aircraft will attack other priority targets that they can detect with the corresponding weapons on board.
+
+[Submission1.Objectives]
+Move the squad to the specified waypoints.
+[Submission1.Description]
+Your orders are:
+- Move the squad in column formation to Waypoint 1.
+
+To do so:
+- Select the infantry squad by dragging a selection box around it while holding the left mouse button –or- by double-clicking on the commander icon.
+- Select the formation - COLUMN 
+- Select the movement mode – DASH
+- Point the cursor at the target location and click the right mouse button.
+- Select a facing for the formation by holding the right mouse-button and moving the mouse.
+
+Note:
+- Available formations include: FREE, LINE, COLUMN, CLAW
+- The default formation used by troops is LINE
+- Changing formations is only possible when you issue a movement command
+- Available movement modes: FREE, SHORT RUSH, STEALTH
+- The default mode used by troops is FREE
+- Troops may change movement modes at their own discretion
+- The default movement order is ASSAULT
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+It follows that when one rolls up the armour and sets out speedily, stopping neither day nor night and marching at double time for a hundred li, the three commanders will be captured. For the vigorous troops will arrive first and the feeble straggle behind, so that if this method is used only one-tenth of the army will arrive.
+
+[Submission1.Success]
+Mission accomplished!
+[Submission1.Failed]
+Mission failed!
+[Submission2.Objectives]
+Eliminate the defending enemy units.
+[Submission3.Objectives]
+Clear the area and use the enemy armored vehicle and machine gun to establish a defensive position.
+[Submission3.Description]
+Your orders are:
+- Clear the area.
+- Use the enemy machine gun and armored vehicle to establish a defense for the squad in the village.
+
+To do so:
+- Select the soldiers with the highest driver and gunner skills.
+- Embark them on the abandoned armored vehicle.
+- Place two soldiers on the machine gun to use it.
+- Place a soldier with a high marksman skill on the machine gun.
+- Pick up abandoned weapons and ammo.
+
+Note:
+- Each squad is lead by a commander. How well you can control your troops depends to a large extent on his presence on the battlefield. If the commander is killed the squad may lose cohesion and even flee from the battle field so protect your commander
+
+- Click on an empty tank, gun, or vehicle... use the right mouse-button to order your soldier to embark on the selected object
+- Use a soldier with the highest DRIVER rating as a driver
+- Use a soldier with the highest GUNNER rating as a gunner 
+- You can change positions of soldiers inside a tank, gun, or vehicle
+- Select a crew member and, holding the left mouse-button, drag him to another position. Note that it takes some time before the positions are switched
+- You need at least a crew of two to move a machine gun. Оnly ony crew member is needed for rotation
+- To get the best firepower from a machine gun place a soldier with a good marksman skill into the gunner position
+- To pick up an abandoned weapon or ammunition, you need to place a soldier who will perform this action near the abandoned object, and activate the INVENTORY button (a button with a pistol icon on the bottom panel). After that a panel of objects lying on the ground near the soldier will be displayed and you will be able to drag objects manually into the weapon panel and backpack. You can also give the soldier an order to pick up all or only better items automatically from the ground by clicking on the corresponding buttons on the inventory panel. By default, soldiers pick up the best weapons automatically. You can disable this mode for selected soldiers by clicking the AUTO ITEM PICKUP button on the command bar.
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+Therefore, determine the enemy’s plans and you will know which strategy will be successful and which not;
+Agitate him and ascertain the pattern of his movement.
+Determine his dispositions and so ascertain the field of battle.
+Probe him and learn where his strength is abundant and where deficient.
+
+[Submission3.Success]
+Mission accomplished!
+[Submission3.Failed]
+Mission failed!
+[Mission1.Objectives]
+GENERAL BRIEFING 
+[Mission1.Description]
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+1. Therefore at first be shy as a maiden. When the enemy gives you an opening be swift as a hare and he will be unable to withstand you.
+
+2. If I am able to determine the enemy’s dispositions while at the same time I conceal my own then I can concentrate and he must divide. And if I concentrate while he divides, I can use my entire strength to attack a fraction of his. There, I will be numerically superior. Then, if I am able to use many to strike few at the selected point, those I deal with will be in dire straits.
+
+3. Generally, in battle, use the normal forces to engage; use the extraordinary to win.
+
+4. One defends when his strength is inadequate; he attacks when it is abundant.
+ 
+5. Pay heed to nourishing the troops; do not unnecessarily fatigue them. Unite them in spirit; conserve their strength. Make unfathomable plans for the moments of the army. 
+
+6. And as water shapes its flow in accordance with the ground, so an army manages its victory in accordance with the situation of the enemy.
+And as water has no constant form, there are in war no constant conditions.
+Thus, one able to gain victory by modifying his tactics in accordance with the enemy situation may be said to be divine.
+
+[Mission1.Success]
+You have fulfilled your objectives! You have been promoted to the rank of Red Army officer!
+[Mission1.Failed]
+Mission failed!
+[Submission2.Description]
+Your orders are:
+- Destroy the German squad in the village of Malinki, Waypoint 2
+
+To do so:
+- Maintain control of each soldier by issuing individual orders in a timely fashion
+- Use hand grenades to attack enemy soldiers hiding behind cover (left-click on hand grenade button to activate it as weapon)
+- Use snipers to eliminate enemy officers and machine gun crews (if your sniper is killed, you can have another soldier – preferably with high marksman skill - pick up the scoped rifle)
+- Suppress enemy resistance with machine gun fire
+- Use tactical pauses to issue orders and maintain situational awareness
+
+Note:
+- When your soldiers see enemy soldiers, they will independently start firing at them except when issued “Hold Fire” orders
+- By selecting a soldier, you can choose which weapon he will use in combat by clicking the left mouse button in the weapons panel. You can prohibit the use of individual weapons, grenades, or some valuable ammunition by right-clicking.
+- Select grenades to wipe out enemies hiding behind obstacles. There are offensive grenades (small blast range; used because the attacker usually has no cover available) and defensive grenades (large blast range; used because the defender is usually behind good cover)
+- You can assign targets to each individual soldier independently
+- By selecting the ATTACK command and clicking the right mouse-button on a target unit you order your soldier to attack the target with the selected weapon. The soldier will close towards the enemy if outside of effective weapon range
+- By selecting the ASSAULT command and clicking the right mouse-button on a target location you order the soldier to storm towards the target. The soldier will close with the enemy, firing on the move, and try to destroy him with grenades.
+- By selecting the ATTACK GROUND command and clicking the right mouse button on the battlefield, you order your soldier to attack that location (area fire) with the selected weapon. The soldier will attempt to shoot on the assigned target location from his current position. Use this mode with the selected grenade to throw it at enemies out of sight of your fighter.
+- You have a sniper in your squad; a soldier with high “scout” and “marksman” ratings. Use him to wipe out the enemy officer and gun crew, causing panic among the enemy. 
+- To keep the enemy down, use your machine gun. Do not forget to cover the machine gunner as he will be the primary target for enemy soldiers. 
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+The enemy must not know where I intend to give battle. For if he does not know where I intend to give battle he must prepare in a great many places. And when he prepares in a great many places, those I have to fight in any one place will be few.
+For if he prepares to the front his rear will be weak, and if to the rear, his front will be fragile. If he prepares to the left, his right will be vulnerable and if to the right, there will be few on his left. And when he prepares everywhere he will be weak everywhere.
+
+[Submission2.Success]
+You have accomplished your mission!
+[Submission2.Failed]
+Mission failed!
+[Submission4.Objectives]
+Capture the armored vehicle
+[Submission4.Description]
+Capture the armored vehicle
+
+Note:
+Select one or two soldiers then place the cursor on an armored vehicle (the cursor changes to an “embark” icon) and right-click. Your soldiers will begin running to get into the armored vehicle.
+[Submission4.Success]
+Task completed!
+[Submission4.Failed]
+Task failed!
+[Submission5.Objectives]
+Repel the enemy attack.
+[Submission5.Description]
+Your orders are:
+- Eliminate the attacking enemy at Waypoint 3
+
+To do so:
+- Use the armored vehicle’s mobility and armor
+- Use captured weapons and equipment
+- Take the initiative and eliminate the enemy in a decisive counterattack
+
+Note:
+- In order to select which shells to fire in an armored vehicle, tank, or gun, left-click on the gun (a list of available shells used by this gun opens) and left-click on the shell of your choice. This will reload the gun with a round of the selected ammo type
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+It is a doctrine of war not to assume the enemy will not come, but rather to rely on one’s readiness to meet him; not to presume that he will not attack, but rather to make one’s self invincible.
+
+[Submission5.Success]
+Mission accomplished!
+[Submission5.Failed]
+Mission failed!
+[Submission6.Objectives]
+Destroy the enemy guns
+[Submission6.Description]
+Your orders are:
+- Destroy the enemy guns at Waypoint 4
+- Call for air support to destroy enemy guns
+
+To do so:
+- Select the available air support
+- The following types of air support are available in the game: GROUND ATTACK AIRCRAFT,  FIGHTERS, BOMBERS, and SCOUTS 
+
+Note:
+- GROUND ATTACK AIRCRAFT are used for destroying enemy light-armored vehicles and guns
+- FIGHTERS are useful for countering and destroying enemy aircraft
+- BOMBERS are used to launch air strikes on fortified enemy positions
+- SCOUTS are used for gathering intelligence from above the battlefield
+- Do not send the armored vehicle forward since it can be easily destroyed at by the enemy guns
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+Should one ask: “Can troops be made capable of such instantaneous co-ordination?” I reply: “They can.” For, although the men of Wu and Yueh mutually hate one another, if together in a boat tossed by the wind they would co-operate as the right hand does with the left.
+It is thus not sufficient to place one’s reliance on hobbled horses or buried chariot wheels.
+To cultivate a uniform level of valour is the object of the military administration. And it is by proper use of the ground that both shock and flexible forces are used to the best advantage.
+[Submission6.Success]
+Mission accomplished!
+[Submission6.Failed]
+Mission failed!
+[Submission7.Objectives]
+Call for air support.
+[Submission7.Description]
+Call for air support.
+Note:
+An air support icon will appear above the bottom panel.
+Click the air support icon and right-click on the target location. 
+There are 4 types of aircraft: scouts, fighters, bombers and ground attack aircraft. 
+[Submission7.Success]
+Task completed!
+[Submission7.Failed]
+Task failed!
+[Submission8.Objectives]
+Capture the enemy guns 
+[Submission8.Description]
+Your orders are:
+- Capture the enemy guns 
+- Set up a defensive position in front of the village of Malinki 
+- Place two soldiers on the gun to use it 
+- Place the soldier with the highest gunner   rating into the gunner position
+
+Note:
+- Еo select shells in an armored car, tank, cannon, etc., right-click on the arrow icon to the right of the gun in the weapon panel, a list of ammunition available for this gun will open, and then select the desired type of projectile by clicking the left mouse button. The right mouse button is used to prohibit the use of the selected type of projectile. After selecting a projectile, the icons of the gun and projectile will be highlighted in yellow, which means that the unit will use only this gun and projectile. If another projectile has already been loaded in the barrel, then reloading with the selected ammunition will be carried out only after shooting the already loaded projectile.
+- The gun crew can rotate and move the gun; at least two people are needed to turn or move it.
+- To achieve the best fire output and accuracy when using the guns, place the soldier with the highest gunner  rating into the gunner position.
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+Anciently the skillful warriors first made themselves invincible and awaited the enemy’s moment of vulnerability.
+Invincibility depends on one’s self; the enemy’s vulnerability on him.
+It follows that those skilled in war can make themselves invincible but cannot cause an enemy to be certainly vulnerable.
+Therefore it is said that one may know how to win, but cannot necessarily do so.
+Invincibility lies in the defense; the possibility of victory in the attack.
+(…)Therefore the skillful commander takes up a position in which he cannot be defeated and misses no opportunity to master his enemy.
+
+[Submission8.Success]
+Mission accomplished!
+[Submission8.Failed]
+Mission failed!
+[Submission9.Objectives]
+Destroy the enemy tanks
+[Submission9.Description]
+
+Your orders are:
+- Destroy the enemy tanks using the captured guns and your tank at Waypoint 5
+
+To do so:
+- You can specify the aiming point when attacking a target- The possible options are: AIM HIGHER, AIM FREE and AIM LOWER
+
+
+Note:
+- Keep in mind that each type of shell is designed for a specific purpose
+- High-explosive (HE) rounds are designed to destroy enemy infantry, lightly armored vehicles and open guns.
+- Armor-piercing (AP) shell is solid, prone to ricochets, has no HE charge.
+- Armor-piercing capped (APC) shell is solid, less prone to ricochets, has no HE charge.
+- Armor-piercing high explosive (APHE) shell is prone to ricochets, has a HE charge
+- Armor-piercing composite ballistic cap (APCBC) is solid, less prone to ricochets, has no HE charge.
+- Subcaliber (APCR, APDS) shell has high armor penetration, but loses it faster with increasing distance. Has no chamber charge, does less damage, has less accuracy.
+- High-explosive anti-tank (HEAT) shell penetrates an obstacle with a cumulative jet, armor penetration does not depend on the distance. It also has a limited high-explosive fragmentation effect.
+- Smoke projectile - designed for setting smoke screens.
+
+
+SUN TZU’S “THE ART OF WAR”
+Sun Tzu said:
+Troops thrown against the enemy as a grindstone against eggs is an example of a solid acting upon a void.
+
+[Submission9.Success]
+Mission accomplished!
+[Submission9.Failed]
+Mission failed!

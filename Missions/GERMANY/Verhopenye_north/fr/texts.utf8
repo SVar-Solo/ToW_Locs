@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Établissez une tête de pont sur la rive ouest de la Péna.
+[Mission.Description]
+Des chars et de l'artillerie, avec un faible soutien d'infanterie, tiennent la ligne sur la rive ouest du fleuve. Des avant-postes isolés se trouvent sur la rive est. L'équipe de combat nettoiera la rive est des forces ennemies, puis attaquera la partie ouest de Verkhopenié et s'emparera du point de franchissement du fleuve.
+[Submission1.Objectives]
+Prenez le pont sur la Péna, passez sur la rive ouest et défendez le passage.
+[Submission1.Success]
+Mission accomplie. 
+[Submission1.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire. 
+[Submission2.Objectives]
+Tenez le passage jusqu'à l'arrivée des forces principales.
+[Submission2.Success]
+Mission accomplie.
+[Submission2.Failed]
+Nos forces sont repoussées par des forces ennemies supérieures.
+[Mission.Success]
+Mission accomplie. Les forces principales de la division peuvent désormais franchir le fleuve.
+[Mission.Failed]
+Nous avons échoué à exécuter nos ordres. L'ennemi est trop fort !
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

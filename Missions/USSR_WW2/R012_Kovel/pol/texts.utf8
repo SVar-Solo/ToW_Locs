@@ -1,0 +1,63 @@
+﻿[Mission1.Objectives]
+Wyprzeć faszystów ze wsi.
+[Mission1.Description]
+Niemieckie jednostki grupy Armii Południe i grupy Armii Środek zajmują pozycje obronne na przedmieściach miasta Kowel. Trzeba je zlikwidować. 
+Twoje rozkazy: 
+-	Wyprzeć siły nieprzyjaciela z pozycji obronnych wokół Kowel.
+[Mission1.Success]
+Atak powiódł się. Wieś została wyzwolona. Tutejsi mieszkańcy mówią o okrutnych zbrodniach popełnianych przez faszystów w czasie okupacji. Ich opowieści rozpaliły ogień w sercach twoich żołnierzy!
+[Mission1.Failed]
+Zadanie nie zostało wykonane. Atak załamał się. Twoje pospieszne działania naraziły całą operację na niepowodzenie!
+[Submission2.Objectives]
+Odeprzeć nieprzyjacielski atak.
+[Submission2.Description]
+Zwiad melduje, że wiele wrogich jednostek zmierza do stacji paliw. 
+Twoje rozkazy: 
+-	Przeszkodzić nieprzyjacielowi w zdobyciu stacji paliw.
+[Submission2.Success]
+Nieprzyjacielski kontratak został odparty. Możemy nacierać dalej!
+[Submission2.Failed]
+Wróg zajął stację paliw. Twoje wysiłki na nic się nie zdały.
+[Submission1.Objectives]
+Wyprzeć wroga ze stacji paliw.
+[Submission1.Description]
+Sieć komunikacyjna w tym rejonie jest zbyt słaba, by umożliwić dobre zaopatrzenie jednostek w zapasy, amunicję i paliwo. Dlatego stacje paliw są cennymi zdobyczami i nie mogą wpaść w ręce wroga. Jeśli natrafisz na jakieś składy, za wszelką cenę je zdobądź.
+Twoje rozkazy: 
+-	Wyprzeć przeciwnika ze składu paliwa.
+-	Przygotuj przyczółek do wprowadzenia rezerw w pobliże linii frontu.
+[Submission1.Success]
+Stacja paliw została zajęta, zdobyliśmy cenny element logistyczny.
+[Submission1.Failed]
+Nie udało ci się zająć tego ważnego miejsca.
+[Mission1_1.Objectives]
+Nacierać głębiej na terytorium wroga.
+[Mission1_1.Description] 
+Przełamaliśmy nieprzyjacielską obronę! Kontynuuj natarcie w tym kierunku i zaatakuj siły niemieckie w mieście przed nami. Wróg nie może odzyskać inicjatywy. Musimy działać szybko.
+Twoje rozkazy:
+-	Zaatakować siły nieprzyjaciela we wsi.
+[Mission1_1.Success]
+Rozkazy zostały wykonane i nieprzyjacielska obrona załamała się!
+[Mission1_1.Failed]
+Niemcom udało się obronić pozycje we wsi. Zadanie nie zostało wykonane!
+[Submission2_1.Objectives]
+Zaatakować nieprzyjacielskie zgrupowanie pancerne.
+[Submission2_1.Description]
+Raporty zwiadu informowały, że niemieckie skrzydło jest słabsze. Przebiliśmy się przez ich lekką obronę, ale teraz trafiliśmy na ciężkie jednostki pancerne.
+Twoje rozkazy: 
+-	Uderzyć na nieprzyjacielskie zgrupowanie pancerne.
+[Submission2_1.Success]
+Nieprzyjacielskie jednostki pancerne zostały zniszczone.
+[Submission2_1.Failed]
+Jednostki wroga okazały się zbyt mocne. Zawiodłeś.
+[Mission1_2.Objectives]
+Zaatakować nieprzyjacielskie siły we wsi.
+[Mission1_2.Description]
+Obrona wroga została przełamana! Aby wykorzystać ten sukces, musimy kontynuować natarcie w tym kierunku i zaatakować stacjonujących we wsi Niemców. Wywiad donosi, że nieprzyjaciel zgromadził spore odwody, więc zachowaj czujność.
+Twoje rozkazy: 
+-	Zaatakować nieprzyjaciela we wsi.
+[Mission1_2.Success]
+Udało ci się zająć wieś.
+[Mission1_2.Failed]
+Wieś nie została zdobyta, a nasze natarcie straciło impet!
+[StringTable.Reserv]
+Przybyły posiłki.

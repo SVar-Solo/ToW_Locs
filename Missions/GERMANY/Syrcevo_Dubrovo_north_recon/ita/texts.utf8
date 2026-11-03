@@ -1,0 +1,29 @@
+﻿[Mission.Objectives]
+Individuare e distruggere la batteria contraerea nemica.
+[Mission.Description]
+Il comandante di divisione ha ordinato l'invio di gruppi di ricognizione-sabotaggio con il compito di distruggere i posti di comando della difesa aerea ed eliminare quanti più cannoni contraerei possibile. L'Unteroffizier Steiner radunerà e guiderà un gruppo di soldati altamente qualificati per portare a termine la missione.
+[Submission_1.Objectives]
+Il gruppo di Steiner deve infiltrarsi nelle posizioni della batteria contraerea nemica ed eliminarla. In una delle case del villaggio c'è un trasmettitore. Usarlo per chiedere supporto aereo.
+[StringTable.radio_avia]
+La radio nemica è stata individuata. Il supporto aereo è ora sotto il vostro controllo.
+[StringTable.radio_mortar]
+La radio nemica è stata individuata. Il fuoco dei mortai è a vostra disposizione.
+[Submission_1.Success]
+Il gruppo di Steiner riferisce: la batteria contraerea è stata distrutta. 
+[Submission_1.Failed]
+Il gruppo di Steiner è stato annientato. Gli ordini del comandante di divisione non sono stati eseguiti.
+[Mission.Success]
+Il gruppo di ricognizione-sabotaggio ha completato la missione. In attesa del supporto degli aerei d'attacco al suolo.
+[Mission.Failed]
+Il gruppo di ricognizione-sabotaggio è stato annientato. La forte difesa aerea nemica ci impedisce di impiegare l'aviazione.
+[StringTable.Radio_avia_dis]
+Il contatto con la base è perso. È impossibile chiedere supporto aereo.
+[StringTable.Radio_mortar_dis]
+Il contatto è perso. È impossibile sparare senza correzione del tiro.
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

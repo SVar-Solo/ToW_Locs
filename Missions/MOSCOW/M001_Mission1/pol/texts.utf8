@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Osłaniać odwrót 1075. pułku 316. Dywizji Strzelców, zajmując pozycje obronne w pobliżu stacji kolejowej Dubosekowo.
+[Mission.Description]
+16 listopada. 4. kompania 1075. pułku 316. Dywizji Strzelców zajmuje pozycje obronne na wzgórzu w pobliżu stacji kolejowej Dubosekowo, 7 kilometrów na południowy-wschód od Wołokołamska. Jej głównym zadaniem jest zatrzymanie niemieckiego ataku (11. Dywizji Pancernej) i umożliwienie pułkowi wycofanie się na linię frontu. Zacięte walki w październiku pozbawiły dywizję prawie 50% siły ludzkiej i prawie wszystkich dział. Aby wykonać zadanie, kompania dowodzona przez kapitana Gundiłowicza i politruka Kłoczkowa otrzymała dwa 45-mm działa przeciwpancerne. 
+Twoje rozkazy:
+-	Osłaniać odwrót 1075. pułku 316. Dywizji Strzelców, zajmując pozycje obronne w pobliżu stacji kolejowej Dubosekowo.
+[Mission.Success]
+Zadanie zostało wykonane!
+[Mission.Failed]
+Nie wykonałeś rozkazów dowództwa!
+[Submission_1.Objectives]
+Odeprzeć pierwszy nieprzyjacielski atak.
+[Submission_1.Description]
+Zwiad donosi, że Niemcy zamierzają zaatakować z południowego zachodu, wzdłuż trasy prowadzącej do stacji kolejowej Dubosekowo. Ich awangarda nie jest liczna, stanowi ją tylko niepełny pluton piechoty, dwa czołgi i kilka pojazdów opancerzonych. 
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielski atak. 
+[Submission_1.Success]
+Zadanie wykonane! Nieprzyjacielski atak został odparty. 
+[Submission_1.Failed]
+Nie udało ci się wykonać zadania! Twoje siły zostały zniszczone. 
+[Submission_2.Objectives]
+Odeprzeć atak nieprzyjacielskich czołgów.
+[Submission_2.Description]
+Niewielkie siły niemieckie nie zdołały zająć stacji kolejowej i musiały się wycofać. Teraz powinniśmy się spodziewać silniejszego ataku, w którym weźmie udział więcej czołgów i piechoty. Wróg nie może się przebić na nasze tyły.
+Twoje rozkazy:
+-	Zatrzymać nieprzyjacielskie czołgi. 
+[Submission_2.Success]
+Zadanie wykonane! Atak nieprzyjacielskich czołgów został odparty.
+[Submission_2.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.
+[Submission_3.Objectives]
+Utrzymać pozycje.
+[Submission_3.Description]
+Ani kroku w tył! Rosja jest wielka, ale nie można się cofać, gdy za plecami znajduje się Moskwa.
+Twoje rozkazy:
+-	Utrzymać pozycje.
+[Submission_3.Success]
+Zadanie wykonane!
+[Submission_3.Failed]
+Nie wykonałeś zadania!

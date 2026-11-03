@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+I rinforzi sono arrivati.
+[Submission1.Objectives]
+Prendi il villaggio e distruggi le forze nemiche.
+[Submission1.Description]
+Le forze tedesche hanno occupato il villaggio vicino e pare aspettino dei rinforzi. Devi lanciare un attacco all’insediamento prima che possano arrivare altre unità.
+
+I tuoi ordini sono:
+-	Cattura l’insediamento.
+-	Sconfiggi tutte le forze nemiche.
+[Submission1.Success]
+Missione completata! Le forze nemiche si stanno ritirando dal villaggio.
+[Submission1.Failed]
+Missione fallita! 
+[Mission1.Objectives]
+Sconfiggi tutte le forze nemiche.
+[Mission1.Description]
+Le forze tedesche hanno iniziato a muoversi verso Mortain. Il nemico ha preso alcuni piccoli insediamenti nella zona. Secondo le informazioni disponibili, si prepara a una offensiva in quella direzione. Devi fermarlo!
+
+I tuoi ordini sono:
+-	Allontana il nemico dall’insediamento occupato.
+[Mission1.Success]
+Missione completata! 
+[Mission1.Failed]
+Missione fallita! 
+[Submission2.Objectives]
+Sconfiggi tutte le forze nemiche e prendi il villaggio.
+[Submission2.Description]
+Un distaccamento nemico si è stabilito nell’insediamento. Probabilmente i tedeschi si preparano a una contro-offensiva verso Mortain.
+
+I tuoi ordini sono:
+-	Allontana il nemico dalle sue posizioni e occupa l’insediamento.
+[Submission2.Success]
+Missione completata! Abbiamo il controllo dell’insediamento.
+[Submission2.Failed]
+Missione fallita! Le tue truppe hanno subito gravi perdite!
+[Submission3.Objectives]
+Sconfiggi i corazzati nemici.
+ [Submission3.Description]
+Il nemico ha avuto come rinforzi un piccolo gruppo di corazzati.
+
+I tuoi ordini sono:
+-	Attacca e distruggi tutti i corazzati nemici.
+[Submission3.Success]
+Missione completata!
+[Submission3.Failed]
+Missione fallita! Le tue truppe hanno subito gravi perdite!

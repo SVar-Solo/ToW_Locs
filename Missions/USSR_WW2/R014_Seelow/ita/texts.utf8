@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+La prima linea di fortificazioni davanti alle alture di Seelow è stata superata! Quello che resta dei tedeschi, sta adesso arretrando verso la seconda linea. Il tuo compito è di attraversare anche questa seconda cintura difensiva.
+[Submission_1.Description]
+I rapporti degli esploratori dicono che di fronte a noi si trova un lungo canale attraversato da un ponte ancora intatto. Lungo il canale si trova una piccola cittadina e delle postazioni difensive si trovano sulle alture sovrastanti. Attacca le posizioni difensive su questo lato del canale e prendi il ponte.
+
+I tuoi ordini sono:
+-	 Prendi le posizioni difensive tedesche davanti al canale.
+[Submission_1.Success]
+La missione è stata eseguita.
+[Submission_1.Failed]
+Missione fallita.
+[Submission_2.Objectives]
+Cattura le alture.
+[Submission_2.Description]
+Il nemico si è ritirato sulle alture che sovrastano la cittadina. I nostri esploratori segnalano che sono presenti delle posizioni difensive ben protette. I tedeschi sanno che questo è l'ultimo ostacolo che ci separa da Berlino e sembrano intenzionati a combattere fino all'ultimo uomo. Sconfiggili, comandante perché la vittoria finale è vicina.
+
+I tuoi ordini sono:
+-	 Elimina la resistenza nemica e prendo le alture di Seelow.
+[Submission_2.Success]
+Le alture di Seelow sono state espugnate. Berlino e la fine della guerra sono vicine.
+[Submission_2.Failed]
+La missione è fallita. I tedeschi sono riusciti a resistere al tuo attacco.
+[Mission. Objectives]
+Elimina la resistenza nemica e prendi le alture di Seelow.
+[Mission.Description]
+Alla metà di aprile l'esercito tedesco, anche se esausto, aveva ancora la capacità di combattere. Anche se con il morale molto basso, i soldati erano ancora in grado di resistere. L'Alto Comando tedesco aveva ammassato le unità ancora disponibili intorno a Berlino in attesa dell'assalto finale dell'Armata Rossa. I sovietici però, prima di arrivare alla capitale, devono prendere le alture di Seelow, una zona piena di postazioni difensive, bunker, trincee e truppe decise a resistere fino alla fine.
+Le truppe russe hanno già cercato di attaccare le alture, ma sono state respinte. Adesso è il tuo turno, comandante. La vittoria ti attende!
+
+I tuoi ordini sono:
+-	 Prendi le alture di Seelow a ogni costo.
+[Mission.Success]
+Le alture di Seelow sono state espugnate. Berlino e la fine della guerra sono vicine.
+[Mission.Failed]
+La missione è fallita. Non sei ancora riuscito a prendere le alture di Seelow.
+[StringTable.reserv]
+Sono arrivati dei rinforzi.

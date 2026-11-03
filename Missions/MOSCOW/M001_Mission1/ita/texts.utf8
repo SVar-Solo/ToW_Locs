@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Copri la ritirata del 1075mo Reggimento, 316ma Divisione di Fucilieri, prendendo posizioni difensive vicino alla fermata ferroviaria di Dubosekovo.
+[Mission.Description]
+16 novembre. La Quarta Compagnia del 1075mo Reggimento, 316ma Divisione di Fucilieri, sta prendendo posizioni difensive su di una collina vicino alla fermata ferroviaria di Dubosekovo, 7 chilometri a sud est di Volokolamsk. Il suo principale compito è di fermare qualsiasi attacco delle truppe tedesche (la 11ma Panzer Division) e dare al reggimento la possibilità di ritirarsi in ordine per riorganizzare al meglio la linea del fronte. I duri combattimenti di ottobre hanno quasi dimezzato gli effettivi e ridotto l’equipaggiamento. Come supporto, la compagnia comandata dal capitano Gundilovich e da Politruk Klochkov, ha ricevuto due cannoni anticarro da 45mm,
+
+I tuoi ordini sono:
+- Copri la ritirata del 1075mo Reggimento, 316ma Divisione di Fucilieri, prendendo posizioni difensive vicino alla fermata ferroviaria di Dubosekovo.
+[Mission.Success]
+Gli ordini sono stati eseguiti!
+[Mission.Failed]
+Non sei riuscito a eseguire i tuoi ordini!
+[Submission_1.Objectives]
+Respingi il primo attacco del nemico.
+[Submission_1.Description]
+Gli esploratori riferiscono che i tedeschi intendono attaccare da sud ovest lungo l’autostrada che conduce alla ferrovia a Dubosekovo. La loro avanguardia è limitata: solo un plotone di fanteria incompleto, due carri armati e qualche blindato.  
+
+I tuoi ordini sono:
+- Respingi l’attacco del nemico. 
+[Submission_1.Success]
+Gli ordini sono stati eseguiti! Le truppe nemiche sono state respinte.
+[Submission_1.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Le tue truppe sono state distrutte.
+[Submission_2.Objectives]
+Respingi l’attacco dei carri nemici.
+ [Submission_2.Description]
+Le forze iniziali tedesche non sono riuscite a prendere lo scalo ferroviario e si sono dovute ritirare. Ora dobbiamo attenderci una nuova ondata con maggiori forze di fanteria e carri. Il nemico non deve arrivare nelle nostre retrovie.
+
+I tuoi ordini sono:
+- Ferma i panzer nemici. 
+[Submission_2.Success]
+Gli ordini sono stati eseguiti! Le truppe nemiche sono state respinte.
+[Submission_2.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Le tue truppe sono state distrutte.
+[Submission_3.Objectives]
+Mantieni le tue posizioni.
+[Submission_3.Description]
+Non un solo passo indietro! Anche se la Russia è grande, non possiamo ritirarci perché dietro di noi c’è Mosca.
+
+I tuoi ordini sono:
+- Mantieni le tue posizioni.
+[Submission_3.Success]
+Gli ordini sono stati eseguiti!
+[Submission_3.Failed]
+Non sei riuscito a eseguire i tuoi ordini!

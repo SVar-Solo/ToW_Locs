@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+이프, 브라, 위베르폴리 지역에서 적을 몰아내라.
+[Mission.Description]
+지정된 지역에서 적을 소탕하라.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+이프를 해방하라.
+[Submission_1.Description]
+지정된 지역에서 적군을 소탕하라.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+브라에 주둔한 적을 제거하라.
+[Submission_2.Description]
+적 거점을 파괴하라.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+위베르폴리를 확보하라.
+[Submission_3.Description]
+위베르폴리에서 적을 소탕하라.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+남쪽으로 이어지는 도로.
+[Submission_4.Description]
+도로를 확보하라.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+목표를 달성하지 못했다.
+[Submission_3.Success]
+임무 완수.
+[Submission_3.Failed]
+목표를 달성하지 못했다.
+[Submission_4.Success]
+임무 완수.
+[Submission_4.Failed]
+목표를 달성하지 못했다.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+목표를 달성하지 못했다.
+[StringTable.Tanks]
+예비 병력 가용

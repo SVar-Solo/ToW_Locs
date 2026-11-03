@@ -1,0 +1,48 @@
+﻿[Mission1.Objectives]
+Erobern Sie die Bahnstation bei Dubosekovo.
+[Mission1.Description]
+Laut unserer Luftaufklärung haben die Russen sich in der Nähe der Dubosekovo Bahnstation gut eingraben können. Bis jetzt haben die Russen sich viel härter verteidigt als wir erwartet hatten, und unsere Verluste waren höher als berechnet. Trotzdem müssen Sie diesen strategisch wichtigen Bahnhof einnehmen.
+
+Ihre Befehle lauten: 
+-	 Führen Sie einen Angriff in Richtung der Dubosekovo Bahnstation durch. 
+-	 Eliminieren Sie die russischen Einheiten, die in dem markierten Bereich eine Verteidigungsstellung errichtet haben. 
+[Mission1.Success]
+Die Bahnstation wurde erobert. Sobald wir die Schienen repariert haben können wir Nachschub und Munition an die Front transportieren! 
+[Mission1.Failed]
+Ihr Angriff ist gescheitert! Sie konnten die Bahnstation nicht erobern!
+[Mission2.Objectives]
+Halten Sie die Dubosekovo Station gegen den russischen Gegenangriff.
+[Mission2.Description]
+Eine russische Sturmgruppe nähert sich den gerade eroberten Stellungen. Sie dürfen die Station nicht verlieren, also halten Sie sie um jeden Preis.
+
+Ihre Befehle lauten: 
+-	 Schlagen Sie alle russischen Angriffe zurück. 
+-	 Verhindern Sie, dass die Russen den Bahnhof erobern können.
+[Mission2.Success]
+Der feindliche Angriff wurde zurückgeschlagen. Gut gemacht! 
+[Mission2.Failed]
+Sie sind gescheitert und die Russen haben den Bahnhof zurückerobert.
+[Submission1.Objectives]
+Bombardieren Sie die feindlichen Stellungen.
+[Submission1.Description]
+Bevor Sie den Angriff auf die Bahnstation beginnen, bombardieren Sie die feindlichen Verteidigungsstellungen.
+
+Ihre Befehle:
+-	 Bombardieren Sie die feindlichen Stellungen.
+[Submission1.Success]
+Das Bombardement war ein voller Erfolg. Wir haben keine Zweifel, dass die Russen fliehen werden sobald sie unsere ersten Panzer erblicken!
+[Submission1.Failed]
+Ihr Artillerieschlag war ineffektiv!
+[Submission2.Objectives]
+Rufen Sie Luftunterstützung.
+[Submission2.Description]
+Um die feindlichen Artillerie und Infanterie Einheiten zu zerstören sollten sie um Luftunterstützung bitten.
+
+Ihre Befehle:
+-	 Rufen Sie Luftunterstützung.
+[Submission2.Success]
+Unsere Flugzeuge haben die feindlichen Stellungen angegriffen.
+[Submission2.Failed]
+Unsere Flieger konnten keine ausreichende Luftunterstützung bieten.
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

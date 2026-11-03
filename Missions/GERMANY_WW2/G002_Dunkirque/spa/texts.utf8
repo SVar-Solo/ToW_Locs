@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Destruya la artillería enemiga.
+[Submission1.Description]
+Las unidades de artillería enemiga representan un peligro para nuestras fuerzas, que se preparan para una ofensiva sin precedentes. Utilice sus unidades acorazadas y ataque las posiciones de artillería enemiga.
+
+Sus órdenes:
+- 	Destruya la artillería enemiga.
+[Submission1.Success]
+¡Ha destruido la artillería!
+[Submission1.Failed]
+La artillería enemiga continúa amenazando a nuestras fuerzas a causa de su error.
+[Mission1.Objectives]
+Aplaste las defensas enemigas.
+[Mission1.Description]
+Las divisiones aliadas en retirada se han metido en la zona de Gravlin, Arras y Brujas. Las agrupaciones de ejércitos A y B han estado atacando desde el este y desde el sureste. Las tropas británicas han iniciado la evacuación desde Dunkerque a Inglaterra. Las unidades francesas cubren la retirada inglesa tomando posiciones defensivas en las afueras de la ciudad. No debe permitir que las unidades enemigas huyan y crucen el océano. ¡Destrúyalas a toda prisa!
+
+Sus órdenes:
+- 	Mediante las fuerzas de las que dispone, destruya las posiciones defensivas de los alrededores de la ciudad.
+[Mission1.Success]
+¡Felicidades! ¡Ha logrado una victoria sobre los franceses! Gracias a esta todavía podemos atrapar a las unidades inglesas antes de que evacuen todas.
+[Mission1.Failed]
+¡Desgraciadamente, ha perdido! Los franceses han conseguido mantener la línea y los británicos tienen un día más para evacuar sin trabas.
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.

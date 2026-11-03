@@ -1,0 +1,33 @@
+﻿[Mission1.Objectives]
+Zatrzymać nieprzyjacielski atak na stację Prochorowka.
+[Mission1.Description]
+Wojska niemieckie rozpoczęły atak na tym odcinku frontu, chcąc przełamać linię obrony na stacji Prochorowka i uderzyć dalej na północ, w kierunku Obojan, w celu okrążenia jednostek frontu woronezkiego.
+Twoje rozkazy: 
+-	Zatrzymać niemieckie natarcie w rejonie stacji Prochorowka. 
+-	Uniemożliwić Niemcom przełamanie na tym odcinku.
+[Mission1.Success]
+Atak nieprzyjaciela został odparty!
+[Mission1.Failed]
+Nieprzyjaciel zdołał przełamać obronę.
+[Mission2.Objectives]
+Wykorzystać jednostki pancerne do zniszczenia nacierających czołgów niemieckich.
+[Mission2.Description]
+Wróg jest wyczerpany i teraz to my mamy większe szanse. Jednak nieprzyjacielskie jednostki pancerne zmierzają w kierunku Prochorowki. Z pomocą przyjdzie ci część 5. gwardyjskiej armii pancernej.
+Twoje rozkazy: 
+-	Wykorzystać wszystkie dostępne siły, aby zniszczyć wroga, zagrażającego stacji Prochorowka.
+[Mission2.Success]
+Wróg został rozbity -znakomicie się spisałeś!
+[Mission2.Failed]
+Twoje siły zostały zniszczone. Faszyści mogą spokojnie kontynuować natarcie.
+[Submission1.Objectives]
+Utrzymać pozycje obronne wokół stacji Prochorowka.
+[Submission1.Description]
+Niemieckie czołgi dotarły do Prochorowki i przygotowują się do potężnego uderzenia na nasze pozycje obronne. Zwiad melduje, że faszyści zgromadzili olbrzymie siły, więc spodziewamy się zaciętych walk. Dziś musimy zwyciężyć i zniszczyć Niemców.
+Twoje rozkazy: 
+-	Wykorzystaj wszystkie dostępne siły do zniszczenia nieprzyjacielskich jednostek, zagrażających stacji Prochorowka.
+[Submission1.Success]
+Po ciężkiej bitwie udało ci się zwyciężyć. Dzięki tobie nasze wojska mogą przejść do kontrofensywy.
+[Submission1.Failed]
+Niemieckie oddziały przebiły się i okrążają nasze siły! Bitwa pod Kurskiem okazała się porażką Armii Czerwonej!
+[StringTable.Reserv]
+Przybyły posiłki.

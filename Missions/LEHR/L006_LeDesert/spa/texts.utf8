@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Destruya las defensas enemigas en la zona especificada.
+[Mission.Description]
+Delante de nuestras posiciones, los americanos han establecido una posición fortificada, centrada en torno a una pequeña ciudad. Según nuestros exploradores, hay aproximadamente una compañía de infantería en posición, con el apoyo de cañones antitanque de 57 mm y obuses de 105 mm.
+ 
+Sus órdenes:
+- Con las fuerzas que tiene a sus órdenes, ataque las posiciones enemigas y échelas de allí.
+[Mission.Success]
+¡Bien hecho, comandante! La defensa enemiga ha sido destruida.
+[Mission.Failed]
+¡Misión fallida! Han derrotado a su comando.
+[Submission_1.Objectives]
+Tome el pueblo.
+[Submission_1.Description]
+Flanquee la posición defensiva enemiga principal para asegurar el pueblo.
+ 
+Sus órdenes:
+- Tome el pueblo. 
+[Submission_1.Success]
+¡Bien hecho, comandante! El pueblo ha sido tomado.
+[Submission_1.Failed]
+¡Misión fallida! Sus tropas han sido eliminadas.

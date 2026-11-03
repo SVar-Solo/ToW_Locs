@@ -1,0 +1,26 @@
+﻿[Submission1.Objectives]
+击退敌军进攻。
+[Submission1.Description]
+敌沃洛科拉姆斯克进攻集群的主攻方向指向索尔涅奇诺戈尔斯克和伊斯特拉市。德军已逼近伊斯特拉水库与伊斯特拉河之间的地区。在某些地段，德军甚至已设法渡到河的东岸。
+
+你必须遏制敌军的进攻，并控制通往该城的各条接近路。 
+
+你的命令：
+-击退敌军进攻。
+[Submission1.Success]
+最高统帅部的命令已完成！德国侵略者的进攻已被击退。
+[Submission1.Failed]
+德军已突破防线并占领了该城！你未能完成最高统帅部的命令！
+[Submission2.Objectives]
+击退敌军的侧翼攻击。
+[Submission2.Description]
+敌军正从北面和南面向村庄推进，企图攻击我军侧翼。你必须抵抗这些迂回行动！
+
+你的命令：
+- 击退敌军的侧翼攻击。
+[Submission2.Success]
+最高统帅部的命令已完成！你已击退敌军的进攻。
+[Submission2.Failed]
+你的部队已被击溃！你未能完成命令！
+[StringTable.Retreat]
+掩护左翼的小队正在逃离战场！

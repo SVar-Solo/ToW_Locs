@@ -1,0 +1,106 @@
+﻿hkey.lowspeed	Infanteriegeschwindigkeit beibehalten
+hkey.mining	Mine legen
+hkey.mineclearing	Minen räumen
+hkey.attack	Angriff
+hkey.defend	Verteidigen / Drehen
+hkey.groundattack	Flächenfeuer
+hkey.move	In Stellung bewegen
+hkey.nextunit	Nächste Einheit
+hkey.pause	Pause
+hkey.prevunit	Vorherige Einheit
+hkey.retreat	Rückzug
+hkey.stop	Befehl abbrechen
+hkey.storm	Sturm \ Bewegen
+hkey.ambush	Hinterhalt
+hkey.sneak	Anschleichen
+hkey.smokecloudfast	Nebelwand (sofortiger Schuss)
+hkey.smokecloud	Nebelwand
+hkey.attachdetach	Anhängen / Abhängen
+hkey.evacuate	Austeigen
+hkey.autopickup	Automatisch aufnehmen
+hkey.addtogroup0	Zu Gruppe 10 hinzufügen
+hkey.addtogroup1	Zu Gruppe 1 hinzufügen
+hkey.addtogroup2	Zu Gruppe 2 hinzufügen
+hkey.addtogroup3	Zu Gruppe 3 hinzufügen
+hkey.addtogroup4	Zu Gruppe 4 hinzufügen
+hkey.addtogroup5	Zu Gruppe 5 hinzufügen
+hkey.addtogroup6	Zu Gruppe 6 hinzufügen
+hkey.addtogroup7	Zu Gruppe 7 hinzufügen
+hkey.addtogroup8	Zu Gruppe 8 hinzufügen
+hkey.addtogroup9	Zu Gruppe 9 hinzufügen
+hkey.group0	Gruppe 10 auswählen
+hkey.group1	Gruppe 1 auswählen
+hkey.group2	Gruppe 2 auswählen
+hkey.group3	Gruppe 3 auswählen
+hkey.group4	Gruppe 4 auswählen
+hkey.group5	Gruppe 5 auswählen
+hkey.group6	Gruppe 6 auswählen
+hkey.group7	Gruppe 7 auswählen
+hkey.group8	Gruppe 8 auswählen
+hkey.group9	Gruppe 9 auswählen
+hkey.remembergroup0	Gruppe 10 erstellen
+hkey.remembergroup1	Gruppe 1 erstellen
+hkey.remembergroup2	Gruppe 2 erstellen
+hkey.remembergroup3	Gruppe 3 erstellen
+hkey.remembergroup4	Gruppe 4 erstellen
+hkey.remembergroup5	Gruppe 5 erstellen
+hkey.remembergroup6	Gruppe 6 erstellen
+hkey.remembergroup7	Gruppe 7 erstellen
+hkey.remembergroup8	Gruppe 8 erstellen
+hkey.remembergroup9	Gruppe 9 erstellen
+hkey.inventory	Inventar
+hkey.vehicleCharacteristics	Fahrzeugeigenschaften
+hkey.exit	Beenden
+hkey.load	Schnell laden
+hkey.save	Schnell speichern
+hkey.unitinfoicon	Symbole ein/aus
+hkey.messagelog	Nachrichtenverlauf
+hkey.view_sectors	Sichtbereiche ein/aus
+hkey.viewtargetarrow	Zielsymbole ein/aus
+hkey.grab_screen	Screenshot
+hkey.multiplayerchattalk	Nachricht an Verbündete senden
+hkey.multiplayerchatyell	Nachricht an alle senden
+hkey.cameratopdownview	Taktische Karte
+hkey.hide_panels	GUI ein/aus
+hkey.nextmusictrack	Nächster Musiktitel
+hkey.camerafreelock	Freie Kamera
+hkey.binocularview	Fernglasansicht
+hkey.cameramoveforward	Kamera vorwärts
+hkey.cameramovebackward	Kamera rückwärts
+hkey.cameramoveleft	Kamera links
+hkey.cameramoveright	Kamera rechts
+hkey.cameramoveup	Kamera hoch
+hkey.cameramovedown	Kamera runter
+hkey.camerarotateup	Kamera nach oben drehen
+hkey.camerarotatedown	Kamera nach unten drehen
+hkey.camerarotateleft	Kamera nach links drehen
+hkey.camerarotateright	Kamera nach rechts drehen
+hkey.cameramovetomsg	Kamera zur Signalquelle bewegen
+hkey.camerasetdefault	Kameraansicht zurücksetzen
+hkey.bindcamera	Kamera an ausgewählte Einheit fixieren
+hkey.linkcamera	Kamera an Einheit koppeln
+hkey.time2xspeed	Spielgeschwindigkeit anpassen
+hkey.actionmode	Aktionsmodus
+hkey.setbodymodelay	Kriechen
+hkey.setbodymodeknee	Sprint
+hkey.setbodymodestay	Eiltempo
+hkey.firemode	Feuermodus
+hkey.attackup	Oben angreifen
+hkey.attackmedium	Mitte angreifen
+hkey.attackdown	Unten angreifen
+hkey.attackbarrage	Abwehr-Flächenfeuer
+hkey.formation	Formation
+hkey.SwitchDamageMessagesMode	Schadensmeldungsmodus umschalten
+hkey.MultiplayerExchangePoints	Punkte übertragen
+hkey.selectweaponandammoreset	Waffenauswahl aufheben
+hkey.selectweaponandammo1	Primärwaffe auswählen
+hkey.selectweaponandammo2	Splittergranaten auswählen
+hkey.selectweaponandammo3	Panzerabwehrgranaten auswählen
+hkey.selectweaponandammo4	Hauptkanone auswählen
+hkey.selectweaponandammo5	Panzergranaten (AP) auswählen
+hkey.selectweaponandammo6	Sprenggranaten (HE) auswählen
+hkey.selectweaponandammo7	Maschinengewehr auswählen
+hkey.selectweaponandammo8	Waffe 8 auswählen
+hkey.selectweaponandammo9	Waffe 9 auswählen
+hkey.repair	Reparieren
+hkey.cameratypeswitch	Kameramodus umschalten (frei/zentriert)

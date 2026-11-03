@@ -1,0 +1,59 @@
+﻿[Mission.Objectives]
+Drive the Polish troops away from their defensive positions.
+[Mission.Description]
+We expect our superior forces to quickly take control over Poland. However, the Polish troops are putting up stubborn resistance and fierce battles are taking place across the front. It is necessary to immediately launch an offensive by forces of the 3rd and the 4th Shock Armies of Army Group North and to strike a crushing blow against the Polish defensive positions in the area of the Mokra River. Your task is to defeat the Poles in your area as soon as possible. There is a settlement on the right flank of the Polish troops, be careful with it as artillery may be deployed there. You’ve got infantry, tanks and everything else you may need, so attack, for our Fuhrer!       
+
+Your orders:
+- 	Drive the Polish troops away from their defensive positions.
+[Mission.Success]
+The Polish defenses have been smashed. All of Poland will soon fall under our heels!
+[Mission.Failed]
+Amazingly your troops have been defeated! How could those Poles do that? You don’t deserve to command troops in battle!
+[ArtSupport.Objectives]
+Shell the enemy positions. 
+[ArtSupport.Description]
+Before you commit to a ground assault, launch an artillery barrage against the Polish defensive positions. The artillery prep barrage will help you to quickly overcome the first line of the enemy defense.
+
+Your orders:
+-	 Shell the enemy positions.
+[ArtSupport.Success]
+Order fulfilled, enemy positions shelled!
+[ArtSupport.Failed]
+Your artillery barrage was unable to sustain adequate damage to the Polish positions.
+[StringTable.Subtitle_01]
+Poland. September 1939
+[Submission1_1.Objectives]
+Attack the right flank of the Polish defenses.
+[Submission1_1.Description]
+Polish troops have taken up favorable positions for defense and have been repelling attacks of the German 3rd and 4th Armies of e Army Group North. 
+
+Your orders:
+- 	Use your available forces to attack the right flank of the enemy defensive line.
+[Submission1_1.Success]
+Orders fulfilled and the Poles have retreated! 
+[Submission1_1.Failed]
+You have not only failed your orders, but you have squandered your available troops.
+[Submission2.Objectives]
+Attack the Polish army tank group.
+[Submission2.Description]
+The enemy is trying to surround the German 3rd and 4th Armies, using armor assets. You need to attack the Polish tank group to prevent this encirclement. 
+
+Your orders:
+- 	Attack the Polish armor units.
+[Submission2.Success]
+You have accomplished your mission and the Polish tank group has been defeated! 
+[Submission2.Failed]
+You failed to fulfill your orders. The German 3rd and 4th Armies now risk being encircled.
+[Submission1.Objectives]
+Attack toward the right flank of the Polish secondary defensive line. 
+[Submission1.Description]
+Polish units are still resisting and their defensive positions must be overcome. Attack once more along with their right flank.
+
+Your order:
+-	Using your reserves, attack the Polish secondary defensive lines along their right flank.
+[Submission1.Success]
+Orders fulfilled and the Poles are fleeing!
+[Submission1.Failed]
+You have failed to fulfill the order!
+[StringTable.reserv]
+Reinforcements have arrived to support you.

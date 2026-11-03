@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+Занять оборону и приготовиться к отражению атаки.
+[Submission_1.Description]
+[Submission_01.Success]
+Задание выполнено.
+[Submission_01.Failed]
+Задание провалено.
+[StringTable.St1]
+Column1 SWITCH REACT
+[StringTable.St2]
+Column1 ATTACK
+[Mission.Objectives]
+Занять оборону перед наступающими войсками противника, отразить атаки и удержать занятые позиции.
+[Mission.Description]
+[NewSubmission.Success]
+Задача выполнена.
+[NewSubmission.Failed]
+Миссия провалена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Миссия провалена.
+[Submission_1.Success]
+Первая атака отбита.
+[Submission_1.Failed]
+Противник прорвал оборону.
+[Submission_2.Objectives]
+Противник перегруппировывается и скоро вновь попытается пробиться сквозь нашу оборону. Подготовьтесь к отражению следующей атаки и разместите прибывшее подкрепление на позициях.
+[Submission_2.Description]
+[Submission_3.Objectives]
+Необходимо очистить от противника небольшой населенный пункт, чтобы предотвратить попытку охвата нашей обороны.
+[Submission_3.Description]
+[Submission_4.Objectives]
+Очередная попытка американцев восстановить положение - приготовьтесь к обороне на позициях в захваченной деревне.
+[Submission_4.Description]
+[Submission_2.Success]
+Задача выполнена.
+[Submission_2.Failed]
+Миссия провалена.
+[Submission_3.Success]
+Задача выполнена.
+[Submission_3.Failed]
+Миссия провалена.
+[Submission_4.Success]
+Задача выполнена.
+[Submission_4.Failed]
+Миссия провалена.

@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Tieni e difendi l'area indicata.
+[Submission1.Description]
+Il 30mo Corpo Britannico ha lanciato una nuova offensiva contro la il 901mo Panzergrenadier Regiment che sta difendendo la città di Tilly.
+ 
+I tuoi ordini sono:
+-	Tieni la città.
+-	[Submission1.Success]
+Ben fatto, comandante!
+[Submission1.Failed]
+Missione fallita! Le tue truppe sono state sconfitte!
+[Submission2.Objectives]
+Ferma l’attacco nemico.
+[Submission2.Description]
+Il 30mo Corpo Britannico ha lanciato un attacco per disturbare le tue posizioni e permettere alla 7ma Divisione Corazzata di riprendere la propria offensiva
+ 
+I tuoi ordini sono:
+- Ferma l’attacco nemico.
+[Submission2.Success]
+Ben fatto, comandante! L’attacco del nemico è stato fermato.
+[Submission2.Failed]
+Missione fallita! Le tue truppe sono state sconfitte!

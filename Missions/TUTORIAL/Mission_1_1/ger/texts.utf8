@@ -1,0 +1,121 @@
+﻿[StringTable.1]
+Kamerasteuerung:
+Mit {hkey:cameramoveforward}, {hkey:cameramovebackward}, {hkey:cameramoveleft}, {hkey:cameramoveright} verschieben Sie die Kamera. Die Drehung wird durch Drücken des Mausrads aktiviert. Im freien Modus dreht sich die Kamera um ihre eigene Achse, und das Drehen des Mausrads stellt die Kamerahöhe senkrecht ein. Im zentrierten Modus dreht sich die Kamera um einen Punkt im Gelände vor der Kamera, und das Drehen des Mausrads verschiebt die Kamera relativ zu diesem Punkt vor bzw. zurück. Mit {hkey:cameratypeswitch} können Sie den Kameramodus schnell wechseln. Bei gehaltener STRG-Taste ändert das Drehen des Mausrads das Sichtfeld der Kamera. Bei gehaltener SHIFT-Taste bewegt sich die Kamera schneller.
+
+[StringTable.1.1]
+Die Gruppe in die Deckung hinter den Sandsäcken bewegen.
+Mit der linken Maustaste wählen Sie Truppen aus und wählen Befehle im Bedienfeld; mit der rechten Taste erteilen Sie Befehle. Je nachdem, auf welches Objekt Sie mit der rechten Maustaste klicken, führen die Truppen die eine oder andere Aktion aus.
+
+[StringTable.1.2]
+Wählen Sie die gesamte Gruppe aus, indem Sie die linke Maustaste gedrückt halten und die Maus so ziehen, dass sich alle Soldaten innerhalb des erscheinenden Rahmens befinden, und dann die Maustaste loslassen. Sie können eine Gruppe auch durch Doppelklick auf einen beliebigen Soldaten der Gruppe auswählen (oder bei gedrückter ALT-Taste). Legen Sie dann den Zielpunkt der Bewegung per Rechtsklick auf das Ziel fest.
+Um die gesamte Gruppe hinter die Sandsäcke zu bringen, müssen Sie für jeden Soldaten einzeln einen Zielpunkt festlegen oder die Formation „Frei“ verwenden.
+[StringTable.2]
+Das MG-Nest besetzen:
+Wählen Sie per Linksklick einen oder zwei Soldaten der Gruppe aus (halten Sie SHIFT gedrückt, um mehrere auszuwählen). Bewegen Sie dann den Cursor auf das schwere Maschinengewehr (der Cursor ändert sich und zeigt das Aufsitzen an) und klicken Sie mit der rechten Maustaste. Die ausgewählten Soldaten besetzen das schwere Maschinengewehr und nehmen automatisch ihre Positionen ein. 
+[StringTable.3]
+Die feindliche Gruppe ausschalten: 
+Sehen Ihre Soldaten feindliche Soldaten, eröffnen sie selbständig das Feuer auf sie. Sie können außerdem jedem Soldaten einzeln bestimmte Feuerbefehle erteilen (Cursor auf das Ziel bewegen und Rechtsklick). 
+[StringTable.4]
+Den Scharfschützen einsetzen, um die Geschützbedienung auszuschalten.
+Um den Scharfschützen ein Mitglied der Geschützbedienung angreifen zu lassen, bewegen Sie den Cursor auf einen von ihnen und klicken Sie mit der rechten Maustaste. Um das Ziel nicht zu verwechseln, achten Sie auf das eingeblendete Hilfsfenster, das die Eigenschaften der Soldaten und Ausrüstung unter dem Cursor anzeigt. Sie können auch die Befehle „Angriff“ {hkey:attack} und „Flächenfeuer“ {hkey:groundattack} verwenden und den Cursor auf einen bestimmten Punkt richten (zum Beispiel den Kopf eines Bedienungsmitglieds – es wird eine besondere Zielmarkierung angezeigt).
+Kann der Scharfschütze die Bedienung nicht treffen, versuchen Sie, sich von der anderen Seite zu nähern.
+[StringTable.5]
+Das Geschütz erbeuten:
+Wählen Sie die Soldaten aus, bewegen Sie dann den Cursor auf das Geschütz (der Cursor wechselt zum Symbol „Aufsitzen“) und klicken Sie mit der rechten Maustaste. Ihre Soldaten laufen zum Geschütz, um es zu erbeuten. 
+[StringTable.6]
+Das Geschütz an den Lastwagen anhängen und nach Südwesten zum Heuhaufen bewegen.
+Wählen Sie das Fahrzeug aus, klicken Sie dann auf die Schaltfläche „Haken“ mit dem Hakensymbol in der rechten Ecke des Spielmenüs ({hkey:attachdetach}), bewegen Sie den Cursor auf das Geschütz und klicken Sie mit der rechten Maustaste. Das Fahrzeug fährt an das Geschütz heran, und die Soldaten hängen es an das Fahrzeug an.
+Das Fahrzeug fährt heran, und die Soldaten hängen das Geschütz an das Fahrzeug an. Setzen Sie die Geschützbedienung in das Fahrzeug (das Aufsitzen der Soldaten funktioniert ähnlich wie zuvor bei der Besetzung des schweren Maschinengewehrs).
+Wählen Sie dann das Fahrzeug aus und klicken Sie mit der rechten Maustaste auf den Zielpunkt, um es zu bewegen. 
+
+[StringTable.7]
+Einen der feindlichen Panzer vernichten.
+Sehen Ihre Soldaten feindliche Panzer, eröffnen sie selbständig mit dem Geschütz das Feuer auf sie. Sie können auch ein Ziel zuweisen und die Schussrichtung wählen.
+Sie können den Feuermodus auf bestimmte Teile des Panzers umschalten: Turm {hkey:attackup}, freie Wahl {hkey:attackmedium} oder Ketten {hkey:attackdown}.
+[StringTable.8]
+Den Panzer erbeuten.
+Einen Panzer zu erbeuten funktioniert ähnlich wie das Aufsitzen von Soldaten in ein Fahrzeug.
+Wählen Sie die Gruppe aus, bewegen Sie dann den Cursor auf den Panzer (ein Symbol leuchtet auf und zeigt die Interaktion zwischen Soldaten und dieser Art von Ausrüstung an) und klicken Sie mit der rechten Maustaste darauf. Ihre Soldaten laufen los, um den Panzer zu besetzen.
+
+[StringTable.9]
+Einen Artillerieschlag auf die feindliche Stellung anfordern:
+Das Symbol der Artillerieunterstützung erscheint über der unteren Spielleiste. 
+Klicken Sie auf das Symbol und dann mit der rechten Maustaste, um das gewünschte Ziel anzugeben. 
+Sie können das Feuerfeld auch festlegen, indem Sie die rechte Maustaste gedrückt halten. 
+[StringTable.10]
+Luftunterstützung im angegebenen Gebiet anfordern.
+Ein Symbol für die Luftunterstützung erscheint über der unteren Interface-Leiste.
+Klicken Sie auf das Symbol der Luftunterstützung und geben Sie den Zielort an. 
+Es gibt 5 Arten von Flugzeugen:
+- Aufklärer – klären für begrenzte Zeit um einen einzelnen Punkt herum auf;
+- Bomber – werfen Bomben auf den angegebenen Punkt ab und kehren zum Stützpunkt zurück;
+- Jäger – patrouillieren den Luftraum um den angegebenen Punkt, greifen feindliche Flugzeuge an und greifen vor der Rückkehr zum Stützpunkt Bodenziele an;
+- Erdkampfflugzeuge – greifen die dem angegebenen Punkt nächstgelegenen Bodenziele an oder suchen selbständig nach Zielen;
+- Sturzkampfbomber – greifen Ziele im steilen Sturzflug mit Bomben an und greifen danach wie gewöhnliche Erdkampfflugzeuge an.
+
+[StringTable.11]
+Mit dem erbeuteten Panzer das feindliche gepanzerte Fahrzeug und die feindliche Infanteriegruppe vernichten.
+Mit der Schaltfläche „Feuermodus“ {hkey:firemode} können Sie dem Panzer das Feuern ohne Befehl verbieten oder erlauben.
+
+[StringTable.Pause]
+Um die Pause zu beenden, drücken Sie die Taste „{hkey:pause}“.
+
+[StringTable.Pos]
+Sie bewegen sich in die falsche Richtung.
+
+[Submission.Objectives]
+Die Grundausbildung abschließen!
+[Submission.Description]
+Soldat! Sie sind in die Reihen der Roten Armee eingetreten! Bevor Sie an die Front gehen, müssen Sie die Grundausbildung abschließen. Sie müssen die folgenden Aufgaben Ihres Kommandeurs erfüllen:
+
+- Bewegen Sie Ihre Gruppe in die Deckung hinter den Sandsäcken und besetzen Sie mit Ihren Soldaten das Maschinengewehr.
+- Schalten Sie mit dem Scharfschützentrupp die Geschützbedienung aus und erbeuten Sie dann das Geschütz. 
+- Vernichten Sie einen feindlichen Panzer.
+- Lernen Sie den Umgang mit Granaten.
+[Submission.Success]
+Sie haben die Grundausbildung abgeschlossen!
+[Submission.Failed]
+Leider haben Sie die Grundausbildung nicht bestanden!
+[StringTable.Fail]
+Sie haben die Grundausbildung nicht bestanden. Starten Sie die Ausbildungsmission neu.
+[StringTable.Sniper]
+Vergleichen Sie die Fertigkeiten der beiden Scharfschützen. Ein Scharfschütze hat hohe Werte in „Treffsicherheit“ und „Aufklärung“; der andere ist in beiden Disziplinen als „niedrig“ eingestuft. Je höher die Werte, desto erfahrener der Soldat.
+Die Fertigkeit „Treffsicherheit“ zeigt, wie genau Ihr Soldat mit Handfeuerwaffen schießt. Die Fertigkeit „Aufklärung“ zeigt, wie geschickt der Soldat darin ist, Feinde auf Entfernung zu entdecken, aber auch, wie schwer er selbst vom Feind zu entdecken ist. 
+Nach jeder abgeschlossenen Mission können Sie die Erfahrung Ihres Soldaten steigern und so seine Fertigkeiten im Verlauf der Kampagne verbessern.  
+[StringTable.Mine]
+Die feindlichen Soldaten sind in ein Minenfeld gelaufen!
+Es gibt mehrere Arten von Minenfeldern, entweder mit Panzerminen oder mit Schützenminen.
+[StringTable.Win]
+Auftrag erfüllt!
+[StringTable.Car]
+Um das Geschütz vom Fahrzeug abzuhängen, wählen Sie das Fahrzeug aus, an dem das Geschütz hängt, und drücken Sie die Schaltfläche „Abhängen“ {hkey:attachdetach} – das Geschütz wird vom Fahrzeug getrennt. Lassen Sie dann die Soldaten absitzen (Fahrzeug auswählen und die Schaltfläche „Absitzen“ {hkey:evacuate} drücken). Damit die Soldaten das Geschütz besetzen, wählen Sie sie aus und klicken Sie mit der rechten Maustaste auf das Geschütz.
+
+[StringTable.33]
+Liegende Soldaten sind für den Feind viel schwerer zu treffen. Um Soldaten hinzulegen, drücken Sie die Schaltfläche „Kriechen“ {hkey:setbodymodelay}.
+Damit sich Ihre Soldaten nicht eigenmächtig bewegen, ändern Sie den Verhaltensmodus mit der Schaltfläche „Freie Bewegung einschränken/erlauben“ {hkey:actionmode}.
+[StringTable.Pani]
+Die feindliche Panzerbesatzung gerät in Panik (niedrige Moral) und steigt aus!
+
+[StringTable.SM7_GrenadeTraining_HE]
+Mit Handgranaten die Besatzung des gepanzerten Fahrzeugs ausschalten.
+Sie haben nun 2 Soldaten mit Handgranaten gegen Personal unter Ihrem Kommando. Solche Granaten können gepanzerten Fahrzeugen keinen ernsthaften Schaden zufügen, sind aber wirksam gegen offene Besatzungen, Geschützbedienungen, Infanterie und Fahrzeuge.
+Hindernisse schwächen die Druckwelle und halten Splitter auf, daher muss die Granate in die Mitte des Fahrzeugs geworfen werden. Bringen Sie den Soldaten näher heran, aktivieren Sie den Befehl „Flächenfeuer“ {hkey:groundattack} oder „Angriff“ {hkey:attack} und klicken Sie mit der rechten Maustaste in die Mitte des gepanzerten Fahrzeugs – es wird eine gelbe oder rote Fadenkreuzmarkierung angezeigt, und Ihr Soldat wirft eine Granate auf diesen Punkt.
+
+[StringTable.SM7_GrenadeTraining_HE_end]
+Die Besatzung des gepanzerten Fahrzeugs wurde ausgeschaltet.
+
+[StringTable.SM7_GrenadeTraining_AT]
+Mit Panzerabwehrgranaten den feindlichen Panzer ausschalten.
+Sie haben nun 2 Soldaten mit Panzerabwehr-Handgranaten RPG-40 zur Verfügung. Diese Granaten detonieren beim Aufprall auf ein Hindernis und durchschlagen die Panzerung mit der Druckwelle; ihre Splitterwirkung ist gering. Eine solche Granate enthält eine beeindruckende Menge Sprengstoff, die ausreicht, um Dach oder Heck vieler Panzer zu beschädigen, aber bei weitem nicht aller.
+Bringen Sie den Soldaten von hinten näher an den Panzer heran, aktivieren Sie den Befehl „Flächenfeuer“ {hkey:groundattack} oder „Angriff“ {hkey:attack} und klicken Sie mit der rechten Maustaste auf den Bereich hinter dem Turm – das ist die verwundbarste Stelle des Panzers.
+
+[StringTable.SM7_GrenadeTraining_AT_end]
+Der Panzer wurde ausgeschaltet.
+
+[StringTable.SM7_GrenadeTraining_HEAT]
+Mit Hohlladungs-Handgranaten den feindlichen Panzer ausschalten.
+Sie haben nun 2 Soldaten mit Hohlladungs-Handgranaten RPG-43 zur Verfügung. Auch diese Granaten detonieren beim Aufprall auf ein Hindernis, durchschlagen die Panzerung aber mit einem Hohlladungsstrahl, der eine weit höhere Durchschlagsleistung als die Granate RPG-40 hat, jedoch vergleichsweise geringeren Schaden anrichtet.
+Aktivieren Sie den „Schadensinfo-Modus“ {hkey:SwitchDamageMessagesMode}, um Durchschlagsvektoren und Meldungen über Schäden im Inneren zu sehen – das gilt für alle Granaten im Spiel. Bringen Sie den Soldaten ebenso von hinten näher an den Panzer heran, aktivieren Sie den Befehl „Flächenfeuer“ {hkey:groundattack} oder „Angriff“ {hkey:attack} und klicken Sie mit der rechten Maustaste auf den Bereich hinter dem Turm – durch einen Treffer in Motor oder Kraftstofftank geht der Panzer mit hoher Wahrscheinlichkeit in Flammen auf.
+
+[StringTable.SM7_GrenadeTraining_HEAT_end]
+Der Panzer wurde ausgeschaltet.

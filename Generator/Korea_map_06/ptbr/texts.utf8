@@ -1,0 +1,69 @@
+﻿[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Objectives]
+Elimine todos os hostis nesta região para capturar a província.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Description]
+O inimigo construiu fortificações na região. Rompa as defesas dele e elimine os hostis.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_large.defend_large.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Objectives]
+Defenda a região.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_large.attack_large.Mission.Description]
+O inimigo lançou um assalto às suas fortificações. Elimine os hostis atacantes.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Objectives]
+Capture todas as fortificações da região e elimine os hostis.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Description]
+O inimigo tentará capturar as suas fortificações. Impeça isso eliminando as tropas dele.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_large.assault_large.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Objectives]
+Você está cercado! A retirada é impossível. Você deve defender a região.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Description]
+O inimigo lançou um assalto às suas fortificações. Elimine os hostis atacantes.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_large.attack_large.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Objectives]
+Capture todas as fortificações da região e elimine os hostis.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_large.attack_large.Mission.Description]
+O inimigo tentará capturar as suas fortificações. Impeça isso eliminando as tropas dele.
+
+[Reinforcement.DefendGroupR1]
+2 esquadras de infantaria apoiadas por 2 canhões autopropulsados
+
+[Reinforcement.AssaultGroupR1]
+2 tanques apoiados por 2 esquadras de infantaria
+
+[Reinforcement.AttackGroupR1]
+2 tanques apoiados por 2 esquadras de infantaria
+

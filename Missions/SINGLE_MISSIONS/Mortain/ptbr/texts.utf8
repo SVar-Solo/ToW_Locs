@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+Defenda-se de uma nova ofensiva alemã.
+[Mission.Description]
+Para evitar o cerco, o Alto Comando Alemão lançou um contra-ataque pequeno, mas feroz, chamado Operação Ludditch.
+
+Sua ordem:
+- 	Deter a ofensiva alemã
+[Mission.Success]
+Missão cumprida. A ofensiva em massa foi detida.
+[Mission.Failed]
+O ataque alemão teve êxito e sofremos pesadas baixas.
+[Submission1.Objectives]
+Ataque o grupo de forças inimigas.
+[Submission1.Description]
+O reconhecimento informa que a primeira fase do ataque alemão parece vir contra nós pelo nordeste. 
+
+Sua ordem é:
+- 	Atacar as unidades inimigas que avançam do nordeste.
+[Submission1.Success]
+Missão cumprida. As forças inimigas estão recuando.
+[Submission1.Failed]
+Missão fracassada. Suas tropas foram derrotadas.
+[Submission2.Objectives]
+Ataque as forças inimigas.
+[Submission2.Description]
+A ofensiva alemã continua e agora parece que eles vão nos atacar pelo leste.
+
+Suas ordens:
+- 	Atacar as unidades inimigas que avançam do leste.
+[Submission2.Success]
+Missão cumprida. O ataque inimigo foi detido.
+[Submission2.Failed]
+Missão fracassada. Suas tropas foram destruídas.
+[Submission3.Objectives]
+Ataque as tropas que se aproximam pelo norte.
+[Submission3.Description]
+O dia ainda não está ganho. Outro ataque inimigo está sendo preparado pelo norte. Desta vez eles nos superam em número, mas você deve prevalecer.
+
+Suas ordens:
+- 	Destruir o principal assalto alemão.
+[Submission3.Success]
+Missão cumprida. Esta fase do plano inimigo foi detida.
+[Submission3.Failed]
+Missão fracassada. A ofensiva inimiga foi bem-sucedida e suas tropas foram destruídas.
+[StringTable.Reserve
+Os reforços chegaram.
+[Submission4.Objectives]
+Ataque as forças alemãs.
+[Submission4.Description]
+Resistimos até agora, mas parece que os alemães estão prestes a preparar um último ataque, desta vez vindo do leste.
+
+Suas ordens:
+- 	Atacar as forças inimigas que se aproximam do leste e impedir o cerco de nossas forças.
+[Submission4.Success]
+Missão cumprida. O inimigo não conseguiu romper nem cercar nossas forças.
+[Submission4.Failed]
+Missão fracassada. Suas tropas foram destruídas.
+[StringTable.Subtitle_01]
+França. Agosto de 1944
+[StringTable.Reserv]
+Os reforços chegaram.

@@ -1,0 +1,39 @@
+﻿[Mission1.Objectives]
+Défendre et garder le contrôle de la zone indiquée.
+[Mission1.Description]
+1er septembre 1939. Les troupes allemandes avancent sur trois fronts. Le groupe d’armée Nord délivre un effort majeur à partir de l’Allemagne du nord-ouest et de la Prusse orientale. Du sud-ouest de l’Allemagne et du nord de la Slovaquie, le groupe d’armée Sud attaque de son côté avec le soutien des 1re et 2e divisions slovaques.
+Conformément aux ordres du haut commandement polonais, vous devez mettre en place un dispositif défensif le long de la rivière Mokra et repousser l’avance polonaise.
+
+Vos ordres sont :
+-	Défendre et garder le contrôle de la zone indiquée.
+-	Empêcher l’ennemi de percer nos lignes défensives.
+[Mission1.Success]
+Bravo commandant ! Les Allemands ne sont pas parvenus à détruire nos défenses dans ce secteur du front !
+[Mission1.Failed]
+Vous avez échoué dans votre mission ! Les troupes allemandes ont percé nos défenses et avancent vers Varsovie. La Pologne est condamnée !
+[Submission1.Objectives]
+Repousser l’attaque initiale allemande.
+[Submission1.Description]
+L’ennemi tente de porter un coup puissant sur nos défenses dans le secteur de la rivière Mokra. Leur intention est de complètement détruire nos positions et de poursuivre leur avance. Le commandement polonais est préoccupé par la situation sur le front. Il faut le stabiliser ! 
+
+Vos ordres sont :
+-	Repousser l’avance des troupes allemandes.
+[Submission1.Success]
+Mission accomplie ! L’avance allemande dans le secteur a été repoussée !
+[Submission1.Failed]
+La mission a échoué ! Les troupes allemandes ont percé nos défenses dans le secteur !
+[StringTable.Reserv]
+Des renforts sont arrivés pour vous appuyer.
+[Submission2.Objectives]
+Contre-attaquer les forces ennemies.
+[Submission2.Description]
+L’ennemi tente de nous frapper par le flanc ! Il faut immédiatement contre-attaquer pour les empêcher d’encercler nos unités avant qu’il puisse nous infliger des dommages importants.
+
+Vos ordres sont :
+-	Attaquer les unités ennemies avançant sur notre flanc.
+[Submission2.Success]
+Mission accomplie ! Le groupe blindé ennemi a été repoussé.
+[Submission2.Failed]
+La mission a échoué ! Les forces ennemies ont percé vers nos arrières !
+[StringTable.Subtitle_01]
+Pologne. Septembre 1939

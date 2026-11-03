@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+Maintenir vos positions défensives dans la zone indiquée.
+[Mission1.Description]
+La situation est très grave, tout espoir est pratiquement perdu. De très nombreux camarades sont tombés au combat et sans aucun doute, de nombreux autres vont verser leur sang sur la terre de Normandie. Selon nos informations, des troupes allemandes approchent rapidement vers le village afin de neutraliser les défenses de Caen. A l’ouest et à l’est, nos flancs sont légèrement défendus, il est probable que l’ennemi puisse avancer également par ces directions.
+
+Vos ordres :
+-	Défendre le village à tout prix
+[Mission1.Success]
+Mission accomplie ! Vos soldats ont tenu leur position et sauvé Caen de l’avance allemande, pour le moment du moins.
+[Mission1.Failed]
+La mission a échoué ! Des troupes allemandes ont percé au travers de vos positions et se sont ruées vers Caen.
+[Submission1.Objectives]
+Repousser les attaques ennemies venant du nord-ouest.
+[Submission1.Description]
+Des troupes allemandes approchent du village afin de neutraliser les dernières résistances. Il faut absolument repousser cette attaque afin d’empêcher les Allemands de se diriger vers Caen.
+
+Vos ordres :
+-	Repousser l’attaque ennemie venant du nord-ouest.
+[Submission1.Success]
+Vous avez repoussé l’attaque allemande avec succès !
+[Submission1.Failed]
+L’ennemi a percé nos défenses !
+[Submission2.Objectives]
+Repousser l’attaque ennemie venant du nord.
+[Submission2.Description]
+Des troupes allemandes approchent du village afin de neutraliser les dernières résistances. Il faut absolument repousser cette attaque afin d’empêcher les Allemands de se diriger vers Caen.
+
+Vos ordres :
+-	Repousser l’attaque ennemie venant du nord.
+[Submission2.Success]
+Vous avez repoussé l’attaque allemande avec succès !
+[Submission2.Failed]
+L’ennemi a détruit notre ligne de défense !
+[Submission3_1.Objectives]
+Attaquer les forces ennemies.
+[Submission3_1.Description]
+Des unités amies sur notre flanc ouest se sont repliées et les Allemands avancent maintenant sur le village par cette direction. Continuez à résister et arrêtez cette nouvelle attaque !
+
+Vos ordres :
+-	Attaquer les forces ennemies venant par l’ouest.
+[Submission3_1.Success]
+La mission est accomplie et l’ennemi a été repoussé. Vous avez gagné !
+[Submission3_1.Failed]
+La mission a échoué, vos troupes ont été battues.
+[Submission4.Objectives]
+Attaquer les forces ennemies venant par l’est.
+[Submission4.Description]
+Ce sont maintenant des unités amies sur notre flanc est qui ont été submergées et les Allemands avancent maintenant vers Caen. Il faut les arrêter !
+
+Vos ordres :
+-	Attaquer les forces ennemies progressant par l’est.
+[Submission4.Success]
+Mission accomplie !
+[Submission4.Failed]
+La mission a échoué !
+[Submission5.Objectives]
+Repousser l’offensive des forces ennemies.
+[Submission5.Description]
+Selon une reconnaissance aérienne, l’ennemi avance vers Caen. Il est vital de rassembler toutes nos forces et de repousser l’avance ennemie. Vous êtes notre dernier espoir pour arrêter les Allemands !
+
+Vos ordres sont :
+- Repousser l’avance allemande vers Caen.
+[Submission5.Success]
+Mission accomplie ! L’attaque ennemie a été repoussée !
+[Submission5.Failed]
+L’ennemi a percé ! Vos troupes ont été balayées !
+[StringTable.Reserv]
+Des renforts sont arrivés en appui !
+[Submission4_1.Objectives]
+Attaquer les troupes ennemies.
+[Submission4_1.Description]
+Des unités amies sur notre flanc est ont été submergées et les Allemands avancent maintenant vers Caen. Il faut les arrêter !
+
+Vos ordres :
+-	Attaquer les forces ennemies progressant par l’est.
+[Submission4_1.Success]
+L’attaque a été repoussée et l’ennemi est en fuite !
+[Submission4_1.Failed]
+Vous avez échoué à stopper l’attaque ennemie et vos unités ont été éliminées !
+[Submission3.Objectives]
+Attaquer les unités ennemies.
+[Submission3.Description]
+Nos positions les plus à l’ouest sont tombées et les Allemands progressent rapidement vers le village. Il faut contre-attaquer immédiatement avant qu’ils ne percent vers Caen.
+
+Vos ordres sont :
+- 	Attaquer les forces ennemies progressant de l’ouest.
+[Submission3.Success]
+La mission est accomplie et l’ennemi a été battu !
+[Submission3.Failed]
+La mission a échoué et vos unités ont été battues.

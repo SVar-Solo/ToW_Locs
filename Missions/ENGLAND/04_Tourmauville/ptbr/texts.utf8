@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Liberte a aldeia de Tourmauville, garanta as travessias do rio Odon e limpe ambas as margens de forças inimigas.
+[Mission.Description]
+Na tentativa de deter nosso avanço, o inimigo montou suas defesas nas travessias do rio Odon logo adiante. Devemos garantir as travessias e eliminar todas as forças hostis.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+A ponte perto de Tourmauville.
+[Submission_1.Description]
+Uma ponte estratégica sobre o rio Odon fica ao sul de Tourmauville.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Outra ponte mais ao sul.
+[Submission_2.Description]
+Esta é outra ponte estratégica. Ela deve nos permitir flanquear o inimigo e lançar um ataque pela retaguarda contra os defensores de Tourmauville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Liberte Tourmauville.
+[Submission_3.Description]
+O inimigo consolidou sua posição em Tourmauville e tomou o controle das travessias do rio e de outros acessos. Devemos expulsá-lo da aldeia.
+[Submission_4.Objectives]
+O cruzamento.
+[Submission_4.Description]
+O cruzamento e os Panthers.
+[Submission_1.Success]
+Missão cumprida. A travessia de Tourmauville foi garantida.
+[Submission_1.Failed]
+Falha em cumprir a tarefa.
+[Submission_2.Success]
+Tarefa cumprida. Ponte garantida.
+[Submission_2.Failed]
+Falha em cumprir a tarefa.
+[Submission_3.Success]
+Tarefa cumprida. Tourmauville capturada.
+[Submission_3.Failed]
+Falha em cumprir a tarefa.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Falha em cumprir a tarefa.
+[StringTable.Tanks]
+Força de reserva disponível.

@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+Capture as posições inimigas na colina.
+[Submission_1.Description]
+Do ponto de vista estratégico, a colina é um local muito importante neste trecho da frente. Ela oferece grande vantagem ao lado que a controlar. 
+
+Suas ordens: 
+- 	Expulse o inimigo de suas posições na colina e estabeleça ali uma linha defensiva. 
+[Submission_1.Success]
+A colina foi capturada!
+[Submission_1.Failed]
+Derrota! Você não conseguiu tomar a colina.
+[Submission_2.Objectives]
+Amplie a cabeça de ponte destruindo os pontos fortes defensivos inimigos nas aldeias vizinhas. 
+[Submission_2.Description]
+Ao capturar a colina, você rompeu a linha defensiva inimiga. O inimigo ainda está nos flancos. Agora é necessário ampliar a cabeça de ponte. 
+
+Suas ordens: 
+- 	Destrua todas as posições inimigas nos flancos. 
+[Submission_2.Success]
+A missão foi cumprida.
+[Submission_2.Failed]
+Você fracassou na missão.
+[Submission_3.Objectives]
+Mantenha a colina a todo custo.
+[Submission_3.Description]
+Os alemães parecem estar se preparando para contra-atacar suas posições; você deve resistir ao avanço deles. 
+
+Suas ordens: 
+- 	Mantenha as posições na colina e destrua todas as forças inimigas que avançarem.
+[Submission_3.Success]
+O inimigo foi derrotado. A estrada para Cherbourg está aberta.
+[Submission_3.Failed]
+Você foi derrotado. A estrada para Cherbourg continua fechada.
+[Mission.Objectives]
+Destrua todos os focos de resistência alemã perto do porto de Cherbourg.
+[Mission.Description]
+A guarnição de Cherbourg foi isolada do restante das forças alemãs e, por isso, não dispõe de reservas suficientes. Mas, apesar da superioridade aliada em efetivos e equipamento, a guarnição rejeitou a oferta de rendição do General Collins. 
+
+Suas ordens:
+- 	Destrua todos os focos de resistência alemã perto do porto de Cherbourg.
+[Mission.Success]
+Você garantiu a vitória.
+[Mission.Failed]
+Você fracassou. Há unidades alemãs demais nesta área, e elas atrapalharão nossos avanços futuros.
+[StringTable.reserv]
+Os reforços chegaram.

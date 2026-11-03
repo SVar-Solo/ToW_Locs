@@ -1,0 +1,26 @@
+﻿surface.GROUND	GROUND
+surface.ASPHALT	ASPHALT
+surface.SAND	SAND
+surface.SANDROAD	SANDY ROAD
+surface.SNOW	SNOW
+surface.SNOWROAD	SNOWY ROAD
+surface.FIELD	FIELD
+surface.TILLAGE	PLOWED FIELD
+surface.GRASS	GRASS
+surface.CLAY	CLAY
+surface.ROCK	ROCK
+surface.WATER	WATER
+surface.SKY	SKY
+surface.STEEL	STEEL
+surface.BRICK	BRICK
+surface.CONCRETE	CONCRETE
+surface.WOOD	WOOD
+surface.EQUIPMENT	EQUIPMENT
+surface.GASOLINE	GASOLINE
+surface.BODY	BODY
+surface.GLASS	GLASS
+surface.LOAM	LOAM
+surface.FABRIC	FABRIC
+surface.STONE	STONE
+surface.BOARD	BOARDS
+surface.SWAMP	SWAMP

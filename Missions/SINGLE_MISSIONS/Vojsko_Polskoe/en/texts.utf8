@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Consolidate all friendly units in the vicinity and try and hold out against the German advance. If you must pull back, do so back across the Vistula River.
+[Mission.Description]
+German troops crossed into Poland early on September 1. The Polish units stationed close to the border were quickly overrun and scattered. Polish Command and Control on the front is almost non-existent and for the time being, the only concerted defensive efforts are coming from independent unit commanders with no guidance from their superiors.
+
+Your orders: 
+-  Consolidate all friendly units under your command 
+-  Defend against the advancing German units 
+-  Keep Colonel Czeslaw Mrozek alive.
+
+
+Designer Note: It is imperative that you keep your Colonel alive otherwise you will not be able to control new Polish units!
+[Mission.Success]
+Victory! Well done Colonel, you have managed to regain some semblance of control during this chaos.
+[Mission.Failed]
+Failure! Command and Control has broken down and you were unable to organize a suitable defense.
+[Submission_1.Objectives]
+In the nearby village is a friendly infantry unit in need of leadership. Use them to help in the defense.
+[Submission_1.Description]
+Your orders:
+- 	Take command of the garrison in the village ahead.
+[Submission_1.Success]
+Success. These troops have been added to your command.
+[Submission_1.Failed]
+You were unable to add the garrison troops to your command.
+[StringTable.Garnizon_1]
+The garrison is now under your direct command.
+[Submission_2.Objectives]
+Proceed to the next location. 
+[Submission_2.Success]
+Success, assets vital to your victory are now under your direct command.
+[Submission_2.Description]
+The village garrison has increased your numbers but these troops alone are not enough to stop the full German advance. According to a squad leader, a few tanks and three antitank guns are located in a neighboring village. 
+
+Your orders:
+- 	Proceed to the next village and acquire the equipment located there.
+[Submission_2.Failed]
+Failure. You were unable to acquire the equipment.
+[Submission_3.Objectives]
+Repel all enemy attacks.
+[Submission_3.Description]
+You have been able to add to your command with men and equipment. Hope that it is enough to stop the German attack. The enemy is coming along a wide front so be prepared to defend against multiple waves and from different directions. You must not let them cross the Vistula.
+
+Your orders:
+- 	Repel all enemy attacks.
+- 	Prevent any Germans from crossing the Vistula.
+[Submission_3.Success]
+The enemy attack was repelled. Your actions today will not be forgotten!
+[Submission_3.Failed]
+The enemy attack was too much to overcome and you have failed to stop them.
+[Submission_4.Objectives]
+The main enemy attack was resisted but now it is time to pull back.
+[Submission_4.Description]
+Colonel Mzorek must cross the river alive.
+[Submission_4.Success]
+Success! The Colonel survived and will live to fight another day. If all our commanders fight this bravely, then Poland may be able to push the Germans back across the border!
+[Submission_4.Failed]
+The Colonel did not survive. While he fought bravely, his fate and perhaps the fate of all of Poland was doomed.

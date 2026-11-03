@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Выдвинуться в направлении населенного пункта Ше и занять его.
+[Mission.Description]
+Предположительно противник не ожидает начала нашего наступления,  а вражеский гарнизон в Ше незначителен.
+[Submission_1.Objectives]
+Отбить контратаку.
+[Submission_1.Description]
+Противник пытается подтянуть резервы на помощь обороняющимся.
+[NewSubmission.Success]
+Атака отбита
+[NewSubmission.Failed]
+Противник прорвался
+[Submission_01.Success]
+Взяли Cheux
+[Submission_01.Failed]
+Не взяли Cheux
+[Mission.Success]
+Населенный пункт взят, окрестности очищены от противника.
+[Mission.Failed]
+Оборона противника оказалась значительно сильнее чем мы ожидали.
+[Submission_1.Success]
+Атака отбита.
+[Submission_1.Failed]
+Задача не выполнена.
+[StringTable.Tanks]
+Группа резерва на связи.

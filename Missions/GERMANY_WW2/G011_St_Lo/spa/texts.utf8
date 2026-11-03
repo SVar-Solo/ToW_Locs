@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Organice las defensas en las cercanías de Saint-Lô. Debería tenderle una emboscada al enemigo cuando este se acerque a la ciudad.
+[Submission_1.Description]
+Organice las defensas en las cercanías de Saint-Lô. Tiene un pelotón de Fallschirmjaegers de élite a su disposición. Úselos con prudencia.
+
+Sus órdenes:
+- 	Tienda una emboscada a las fuerzas americanas que se aproximan.
+[Submission_1.Success]
+Ha destruido la patrulla de reconocimiento americana.
+[Submission_1.Failed]
+¡La emboscada ha fracasado!
+[Submission_2.Objectives]
+Rechace el ataque enemigo utilizando todas las fuerzas que estén a su disposición.
+[Submission_2.Description]
+Las fuerzas americanas intentan establecer un punto de apoyo en Normandía, y Saint-Lô es clave para ello. Debemos impedir que tomen esta ciudad estratégica.
+
+Sus órdenes:
+-	Rechace los ataques de las fuerzas de los EE. UU. con todos los medios necesarios.
+[Submission_2.Success]
+¡Lo ha conseguido! ¡Ha frustrado el ataque americano!
+[Submission_2.Failed]
+Ha perdido, comandante. Los americanos continúan su camino, y nuestros planes para devolverlos al mar quizás hayan quedado truncados para siempre.
+[Submission_3.Objectives]
+Mantenga esa posición a toda costa.
+[Submission_3.Description]
+Los americanos son duros y obstinados, pero no deben tomar Saint-Lô, ¡y solo usted puede detenerles!
+
+Sus órdenes:
+- 	Mantenga sus posiciones y detenga el avance de los americanos.
+[Submission_3.Success]
+Ha resistido. Debemos seguir deteniendo a los americanos siempre que podamos.
+[Submission_3.Failed]
+Ha perdido. No nos podemos permitir estas derrotas, comandante.
+[Mission.Objectives]
+Mantenga sus posiciones en las colinas cercanas a Saint-Lô.
+[Mission.Description]
+La ciudad de Saint-Lô tiene una importancia estratégica, tanto para el ejército alemán como para el estadounidense. Perder esta ciudad significa quedarnos sin la oportunidad de devolver a los americanos al mar. Hay dos colinas en las afueras de la ciudad que ofrecen posiciones defensivas excepcionales para enfrentarse a los americanos que se acercan. Defienda la ciudad, comandante, ¡el futuro de Alemania depende de ello!
+
+Sus órdenes:
+- 	Despliegue a sus fuerzas en las colinas y alrededor de la granja y detenga a los americanos a toda costa.
+[Mission.Success]
+El pueblo alemán no olvidará su victoria gloriosa de hoy.
+[Mission.Failed]
+Debido a su fallo de hoy, las fuerzas americanas se apresuran a ocupar Saint-Lô y nuestras posibilidades de victoria se han reducido.
+[StringTable.tank_reserv]
+Se le han asignado unidades de artillería y tanques.
+[StringTable.reserv]
+Más tanques e infantería están ya a sus órdenes.

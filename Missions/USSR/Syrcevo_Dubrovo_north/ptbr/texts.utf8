@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Contestar o avanço inimigo na direção de Dubrova–Syrtsev.
+[Mission.Description]
+Em conjunto com a bateria de artilharia antitanque e o pelotão de fuzis antitanque, mantenha firmemente a área de defesa. Deve-se dar especial prioridade a manter as posições no flanco direito e em Syrtsev.
+[Mission.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Mission.Failed]
+O inimigo desarticulou a linha defensiva, nossas tropas estão recuando.
+[Submission_1.Objectives]
+Impeça o inimigo de destruir a bateria antiaérea posicionada na aldeia.
+[Submission_1.Success]
+A tentativa de penetrar no flanco direito da defesa foi suprimida.
+[Submission_1.Failed]
+A bateria antiaérea foi destruída, o inimigo avança pelo flanco direito.
+[Submission_2.Objectives]
+Mantenha a todo custo as posições nas proximidades de Syrtsev.
+[Submission_2.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Submission_2.Failed]
+Nossas forças recuam sob os golpes de um inimigo superior.
+[Submission_3.Objectives]
+Recue as tropas para as posições em Syrtsev. Impeça o inimigo de capturar a aldeia.
+[Submission_3.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Submission_3.Failed]
+Syrtsev foi ocupada pelo inimigo, nossas tropas recuam.
+[StringTable.SPG_InCome]
+Os canhões de assalto do 1440º Regimento de Artilharia Autopropulsada estão agora sob o seu comando.
+[StringTable.Infantry_InCome]
+Uma unidade de infantaria do 272º Regimento da Guarda está agora sob o seu controle.
+[StringTable.Tanks_InCome]
+Um grupo de tanques da 1ª Brigada Mecanizada está agora sob o seu controle.
+[StringTable.ChangeArmy]
+A unidade adjacente foi colocada sob o seu comando.
+
+[StringTable.SPG]
+Canhões de assalto do 1440º Regimento de Artilharia Autopropulsada
+[StringTable.TANKS]
+Tanques da 1ª Brigada Mecanizada
+[StringTable.INFANTRY]
+Infantaria do 272º Regimento de Infantaria da Guarda
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

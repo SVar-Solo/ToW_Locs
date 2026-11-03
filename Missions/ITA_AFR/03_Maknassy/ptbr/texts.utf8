@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Impeça o ataque
+[Submission_1.Description]
+O inimigo tenta acumular forças para desferir um golpe ao longo da estrada para os subúrbios. Tente impedir um ataque simultâneo disparando contra as unidades inimigas que se reagrupam.
+[NewSubmission.Success]
+Missão cumprida: a bateria foi destruída e suas posições foram tomadas.
+[NewSubmission.Failed]
+Missão fracassada.
+[Mission.Objectives]
+Proteja o subúrbio de Maknassy
+[Mission.Description]
+Assuma o comando das posições defensivas e prepare-se para repelir o ataque. Expulse o inimigo dos subúrbios de Maknassy.
+[Submission_2.Objectives]
+Destrua a bateria de artilharia
+[Submission_2.Description]
+Uma bateria de artilharia inimiga foi detectada; destrua-a e limpe as posições indicadas.
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+Missão fracassada.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission_2.Success]
+Missão cumprida.
+[Submission_2.Failed]
+Missão fracassada.

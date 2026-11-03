@@ -1,0 +1,34 @@
+﻿ai_messages.Command_Incomplete	Nie można wykonać rozkazu
+ai_messages.Soldier_Death	Poległ
+ai_messages.Soldier_Under_Attack	Żołnierz pod ostrzałem
+ai_messages.Soldier_No_Ammo	Żołnierz bez amunicji
+ai_messages.Soldier_No_Weapon	Brak broni
+ai_messages.Soldier_No_Point_In_LOF	Brak linii ognia
+ai_messages.Soldier_In_Panic	Panika
+ai_messages.Vehicle_Death	Pojazd zniszczony
+ai_messages.Vehicle_No_Crew	Pojazd bez załogi
+ai_messages.Artillery_Death	Działo zniszczone
+ai_messages.Artillery_No_Ammo	Działo bez amunicji
+ai_messages.Artillery_No_Weapon	Działo zniszczone
+ai_messages.Artillery_No_Point_In_LOF	Brak linii ognia
+ai_messages.Tankman_Under_Attack	Pojazd pod ostrzałem
+ai_messages.Tankman_No_Ammo	Pojazd bez amunicji
+ai_messages.Tankman_No_Weapon	Uzbrojenie pojazdu zniszczone
+ai_messages.Tankman_Damage_Engine	Pojazd unieruchomiony
+ai_messages.Tankman_Blocked	Droga pojazdu zablokowana
+ai_messages.Tankman_In_Panic	Panika
+ai_messages.Tankman_No_Point_In_LOF	Brak linii ognia
+ai_messages.Driver_Damage_Engine	Pojazd unieruchomiony
+ai_messages.Driver_Blocked	Droga pojazdu zablokowana
+ai_messages.Shooter_Not_Skilled	Niedoświadczony działonowy
+ai_messages.Driver_Not_Skilled	Niedoświadczony kierowca
+ai_messages.Tankman_Stucked	Pojazd ugrzązł
+ai_messages.Artillery_Stucked	Ugrzązło
+ai_messages.Mine_Defuse	Mina rozbrojona
+ai_messages.Mine_Place	Mina założona
+ai_messages.Mine_Detected	Wykryto minę
+ai_messages.Repair_Started	Rozpoczęto naprawę
+ai_messages.Repair_Finished	Naprawa zakończona
+ai_messages.Hold_Captive	Wzięty do niewoli
+ai_messages.Free_Captive	Uwolniony z niewoli
+ai_messages.Panic_Message	Panika

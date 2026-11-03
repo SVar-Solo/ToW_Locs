@@ -1,0 +1,17 @@
+﻿[Mission.Description]
+El 11 de agosto de 1944, a las 3:00, la vanguardia de la 95.ª División de Fusileros de la Guardia (95.ª Div. Fus. Guardia), que ocupaba la carretera Jmelnik-Szydlów en la zona de Skadla-Rachice, fue atacada por un gran grupo de tanques e infantería motorizada enemigos. Durante el combate, el destacamento sufrió graves pérdidas y fue empujado hacia el sudeste. El enemigo continúa avanzando en dirección a Szydlów. Se recibió una orden: "Con las fuerzas del 1076.º IPTAP, desplazarse a la dirección amenazada y rechazar los ataques de los tanques enemigos."
+[StringTable.1]
+Orden de combate: tomar posiciones defensivas en los accesos a la ciudad de Szydlów y rechazar los ataques de tanques e infantería motorizada.
+[StringTable.2]
+La 2.ª batería se acercó al campo de batalla.
+[StringTable.3]
+Las baterías sufrieron graves pérdidas. Los combatientes supervivientes deben replegarse hacia la zona de Szydlów.
+[StringTable.4]
+La orden fue cumplida, los ataques de los tanques enemigos fueron rechazados.
+
+
+
+[Mission.Objectives]
+Mantener las posiciones
+[Mission.Success]
+[Mission.Failed]

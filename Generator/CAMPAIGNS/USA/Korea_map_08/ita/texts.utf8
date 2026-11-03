@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missione fallita.
+
+[Reinforcement.Group3[Reinforcement]]
+Elicotteri e fanteria
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Il vostro gruppo di combattimento deve eliminare i nemici che difendono questo settore del fronte.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Attaccate e distruggete tutte le difese nemiche nell'area segnata sulla mappa.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Il nostro distaccamento avanzato di ricognizione ha travolto un nodo stradale al centro dell'area. Molto probabilmente il nemico tenterà di conquistarlo. Il vostro gruppo di combattimento deve avanzare fino al nodo stradale e sostenere il distaccamento di ricognizione.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Conquistare e mantenere il nodo stradale al centro dell'area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Impedire ai nemici di sfondare il vostro settore del fronte.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Conquistare e mantenere il nodo stradale al centro dell'area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Il nostro distaccamento avanzato di ricognizione ha travolto un nodo stradale al centro dell'area. Molto probabilmente il nemico tenterà di conquistarlo. Il vostro gruppo di combattimento deve avanzare fino al nodo stradale e sostenere il distaccamento di ricognizione.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+Conquistare e mantenere il nodo stradale al centro dell'area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Conquistare e mantenere il nodo stradale al centro dell'area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Conquistare e mantenere il nodo stradale al centro dell'area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Il nostro distaccamento avanzato di ricognizione ha travolto un nodo stradale al centro dell'area. Molto probabilmente il nemico tenterà di conquistarlo. Il vostro gruppo di combattimento deve avanzare fino al nodo stradale e sostenere il distaccamento di ricognizione.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Il nostro distaccamento avanzato di ricognizione ha travolto un nodo stradale al centro dell'area. Molto probabilmente il nemico tenterà di conquistarlo. Il vostro gruppo di combattimento deve avanzare fino al nodo stradale e sostenere il distaccamento di ricognizione.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+Il nostro distaccamento avanzato di ricognizione ha travolto un nodo stradale al centro dell'area. Molto probabilmente il nemico tenterà di conquistarlo. Il vostro gruppo di combattimento deve avanzare fino al nodo stradale e sostenere il distaccamento di ricognizione.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+Missione fallita.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Mezzi corazzati e fanteria
+

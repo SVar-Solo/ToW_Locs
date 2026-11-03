@@ -1,0 +1,24 @@
+﻿[mission.Objectives]
+Abra caminho até a ponte ao norte e atravesse-a com todas as tropas disponíveis.
+[mission.Description]
+Batalhas ferozes se alastram por toda a França. As tropas alemãs se aproximam de Paris. Após a batalha de Arras, nosso grupo foi cercado. A situação é desesperadora, não há chance de sobreviver, mas continuaremos lutando até o fim.
+[mission.Success]
+Missão cumprida, nossas tropas alcançaram a ponte.
+[mission.Failed]
+Sua esquadra foi destruída.
+[Submission_1.Objectives]
+Realize o reconhecimento das forças inimigas.
+[Submission_1.Description]
+Realize o reconhecimento das forças inimigas.
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+Missão fracassada.
+[Submission_2.Objectives]
+Você deve alcançar a ponte o mais rápido possível, evitando grandes grupos inimigos.
+[Submission_2.Description]
+O inimigo que nos cerca está disperso e ainda há chance de alcançar nossas tropas antes que a infantaria inimiga avance. Você deve abrir caminho até a ponte o mais rápido possível, evitando grandes grupos inimigos.
+[Submission_2.Success]
+Missão cumprida.
+[Submission_2.Failed]
+Missão fracassada.

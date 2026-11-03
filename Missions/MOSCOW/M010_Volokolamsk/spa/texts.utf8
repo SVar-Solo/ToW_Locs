@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Libere el pueblo de los invasores alemanes nazis.
+[Mission.Description]
+¡Las fuerzas enemigas huyen! En cuestión de días nuestra contraofensiva ha llegado a Volokolamsk. El cuartel general le ha asignado la misión de perseguir y eliminar todo remanente de las unidades enemigas y sus puntos de apoyo de nuestra línea del frente.
+
+Sus órdenes son:
+- Libere el pueblo de los invasores alemanes nazis.
+[Mission.Success]
+Ha liberado el pueblo. Ha cumplido las órdenes del cuartel general.
+[Mission.Failed]
+¡Ha fracasado en el cumplimiento de las órdenes del cuartel general!
+[Submission_1.Objectives]
+Libere el enclave.
+[Submission_1.Description]
+Al noroeste hay un enclave donde los alemanes se han hecho fuertes, camino a Volokolamsk. Se trata de una arteria de importancia estratégica que deberíamos asegurarnos. 
+
+Sus órdenes son:
+- Destruya las defensas enemigas con todos los efectivos disponibles.
+- Libere el enclave de los invasores.
+[Submission_1.Success]
+¡Ha cumplido las órdenes del cuartel general!
+[Submission_1.Failed]
+¡Ha fracasado en el cumplimiento de las órdenes del cuartel general! Han derrotado a sus tropas.
+[Submission_2.Objectives]
+Destruya las fuerzas enemigas.
+[Submission_2.Description]
+Los alemanes han pasado a la defensa activa y han empezado a enviar pequeños grupos de tanteo. Nuestros exploradores han alertado de la avanzadilla enemiga.
+
+Sus órdenes son:
+- Acabe con el avance de las tropas enemigas.
+[Submission_2.Success]
+Las tropas enemigas han sido derrotadas. ¡Ha cumplido la tarea!
+[Submission_2.Failed]
+Ha fracasado en el cumplimiento de sus órdenes. ¡Han derrotado a sus tropas!
+[Submission_3.Objectives]
+Rechace el contraataque enemigo.
+[Submission_3.Description]
+Nuestras tropas han ocupado el enclave, pero los alemanes no piensan dejarnos descansar aún. Incluso ahora están preparando un contraataque desde el norte.
+
+Sus órdenes son:
+- Rechace el contraataque enemigo.
+[Submission_3.Success]
+El contraataque enemigo ha sido rechazado. ¡Ha cumplido la orden!
+[Submission_3.Failed]
+¡Ha fracasado en el cumplimiento de las órdenes del cuartel general! No ha logrado mantener las posiciones que tanto le costaron tomar.

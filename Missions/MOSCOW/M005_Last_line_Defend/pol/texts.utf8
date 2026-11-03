@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Zatrzymać niemieckie natarcie w rejonie stacji Krjukowo.
+[Mission.Description]
+Niemcy skoncentrowali duże siły w rejonie stacji kolejowej Krjukowo. Nieprzyjaciel planuje przełamanie obrony w najsłabszych punktach oraz uderzenie, okrążenie i zniszczenie broniących się jednostek radzieckich. Dowództwo 16. Armii wyznaczyło do obrony czołgi współdziałające z piechotą.
+Twoje rozkazy:
+-	Współdziałając z czołgami, zatrzymać natarcie nieprzyjacielskich wojsk w rejonie stacji kolejowej Krjukowo.
+[Mission.Success]
+Zadanie wykonane! Nieprzyjacielskie natarcie zostało zatrzymane.
+[Mission.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.
+[Submission_1.Objectives]
+Odeprzeć wszystkie ataki nieprzyjaciela.
+[Submission_1.Description]
+W tych okolicznościach liczebność twoich sił uniemożliwia zorganizowanie głębokiej obrony. Jako wsparcie została wyznaczona 316. Dywizja Strzelców. Ale nawet z tymi posiłkami nie zdołasz stworzyć ciągłej linii obronnej. Atakujący nieprzyjaciel jest kilkakrotnie liczniejszy od was. Twoje główne zadanie to odpowiednie rozmieszczenie sił i uniemożliwienie nieprzyjacielowi przebicie się przez linię frontu na kontrolowanym przez ciebie odcinku frontu. 
+Twoje rozkazy:
+-	Odeprzeć wszystkie ataki nieprzyjaciela.
+[Submission_1.Success]
+Ataki nieprzyjaciela zostały odparte! Rozkaz dowództwa został wykonany!
+[Submission_1.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.
+[StringTable.Tanks]
+W tych okolicznościach potrzebna jest idealna współpraca piechoty i czołgów. Czołgi znajdują się pod twoim dowództwem.

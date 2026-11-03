@@ -1,0 +1,94 @@
+﻿[Mission.Objectives]
+Reestablish the defensive line.
+[Mission.Description]
+On the 14th of May, German troops broke through near Sedan. The French forces were unable to resist the combined actions of both tanks and dive-bombers in this new Blitzkrieg war. Belgian troops are retreating to Antwerp and setting up defensive positions. The English 1st and 2nd Corps are holding positions from Wavre to Louvain where our 3rd Division under the command of General Montgomery is engaged in a tough fight. The French 7th Army on the seaward flank is reeling back. In almost every clash of arms, the power and rage of the German offensive has been unstoppable. In the area of Monterme, the Germans, with two advancing tank divisions, have cut through the Maas and have captured our fortified defensive positions. It is vitally important to reestablish the defensive line in this area. 
+   
+Your orders are to:
+-	Eliminate the enemy in the vicinity and reestablish our defense line
+-	Defend the railway bridge
+[Mission.Success]
+Orders completed!
+
+The enemy has failed to break down our defenses in this sector. This is very much due to your efforts, commander. Well done! However, German troops with a host of heavy and light tanks have totally dispersed and routed our troops on the frontlines and nothing seems to be able to slow the German assault for long! There is still much work ahead for you.
+[Mission.Failed]
+You have failed in your orders!
+
+German forces, using both heavy and light tanks, have totally dispersed or routed our troops at the front. The Germans are advancing with an unprecedented speed, as yet unseen in the history of warfare! In nearly every battle, they have been unstoppable. 
+[SubMission_01_01.Objectives]
+Root out and destroy the enemy assault troops near the bridge.
+[SubMission_01_01.Description]
+German assault troops have arrived in our area. They have captured a railway bridge across the Maas. It is likely that the enemy will try to use this bridge to outflank our troops from the rear. The bridge must be taken back!
+
+Your orders:
+-	Locate and destroy the German assault troops
+-	Reestablish possession of the bridge
+[SubMission_01_01.Success]
+Orders successfully completed!
+[SubMission_01_01.Failed]
+Orders failed!
+[Submission_01_02.Objectives]
+Locate and destroy the enemy assault troops near the railway bridge.
+[Submission_01_02.Description]
+German assault troops have arrived in our area. They have captured a railway bridge across the Maas. According to combat intelligence, another small group of enemy forces are moving in the direction of the bridge and need to be stopped.
+
+Order:
+-	Destroy the enemy assault troops
+-	Reestablish or maintain the defense of the bridge
+[Submission_01_02.Success]
+Orders completed successfully.
+[Submission_01_02.Failed]
+You have failed in your orders!
+[Submission_02_01.Objectives]
+Root out the advancing enemy
+[Submission_02_01.Description]
+Our troops have been unable to resist the coordinated actions of German tanks and dive-bombers and have sustained heavy losses. Not only have we failed to reestablish our defensive lines, but the German assault squad that arrived in the area has managed to capture the key railway bridge. This has enabled the enemy to outflank and exposed our rear areas to further attack.
+ 
+Your orders are:
+-	Build up our defensive positions
+-	Find and destroy any enemy units in your area of operations
+[Submission_02_01.Success]
+Orders fulfilled! Well done commander!
+[Submission_02_01.Failed]
+Orders failed!
+[Submission_02_02.Objectives]
+Find and destroy all enemy units encountered
+[Submission_02_02.Description]
+Our troops have managed to reestablish a defensive line and have rooted out the German assault group. According to our combat intelligence group, the enemy is now trying to break our defense line from two sides at once. Expect attacks to originate both from Monterme and the near the rail bridge spanning the Maas.   
+
+Your orders are:
+-	Maintain and hold all defensive positions
+-	Eliminate all enemy attacking units
+[Submission_02_02.Success]
+Orders fulfilled!
+[Submission_02_02.Failed]
+You have failed in your orders!
+[Submission_02_03.Objectives]
+Root out the advancing enemy
+[Submission_02_03.Description]
+Our troops managed to reestablish the defense line but a German assault party landed in the area of the railway bridge and successfully seized it. This has enabled the enemy to outflank us from the rear and has put our troops in a most dangerous position. According to our combat intelligence, the enemy is trying to break through our defense line striking from two directions at once. Attacks are expected from the directions of Monterme and the railway bridge across the Maas River. The enemy is actively using coordinated actions of tanks and dive-bombers.      
+
+Your orders are:
+-	Establish defensive positions 
+-	Eliminate the enemy in all directions 
+[Submission_02_03.Success]
+Orders fulfilled
+[Submission_02_03.Failed]
+Orders not fulfilled
+[Submission_02_04.Objectives]
+Root out the advancing enemy.
+[Submission_02_04.Description]
+Our troops are not capable of resisting coordinated actions of tanks and dive-bombers and have sustained substantial losses on all positions. However, we have managed to root out the German assault party that had landed in the area of the railway bridge. According to combat intelligence, the enemy is trying to break through our defense line by striking from two directions at the same time. Attacks are expected from the directions of Monterme and the railway bridge across the Maas. 
+
+Your orders:
+-	Establish defense on positions 
+-	Eliminate the enemy forces attacking from multiple directions 
+[Submission_02_04.Success]
+Orders fulfilled.
+[Submission_02_04.Failed]
+Orders not fulfilled.
+[StringTable.Fr_Support]
+Reinforcements have arrived!
+[StringTable.Support]
+Reinforcements have arrived!
+[StringTable.Subtitle_01]
+France. May 1940

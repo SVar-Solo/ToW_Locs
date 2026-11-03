@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Stellungen halten
+[Mission.Description]
+Halten Sie die Stellungen bei Sidi Bou Zid.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Mission fehlgeschlagen.
+[Submission_1.Objectives]
+Die Stadt halten
+[Submission_1.Description]
+Das Armee-Hauptquartier hat Panzer aus der Reserve bereitgestellt, aber sie sind noch unterwegs. Der Feind versucht verzweifelt, Sidi Bou Zid zurückzuerobern. Sie müssen die Stadt halten, bis die Verstärkung eintrifft.
+[Submission_1.Success]
+Mission erfüllt.
+[Submission_1.Failed]
+Mission fehlgeschlagen.
+[Submission_2.Objectives]
+Feindliche Artilleriestellungen zerstören
+[Submission_2.Description]
+Sie haben jetzt das Kommando über Panzer aus der Reserve des Armee-Hauptquartiers. Nutzen Sie sie, um die kleine Siedlung einzunehmen und die feindlichen Artilleriestellungen zu zerstören.
+[Submission_2.Success]
+Mission erfüllt.
+[Submission_2.Failed]
+Mission fehlgeschlagen.
+[StringTable.Add_tanks]
+- Major, ich habe den Befehl gegeben, Ihnen Panzer aus der Reserve des Armee-Hauptquartiers zur Verfügung zu stellen. Die Amerikaner haben schwere Verluste erlitten, und es ist Zeit für einen Gegenangriff. Viel Glück Ihnen und Ihren Männern.

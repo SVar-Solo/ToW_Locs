@@ -1,0 +1,30 @@
+﻿[Mission.Objectives]
+Powstrzymaj wroga
+[Mission.Description]
+Podpułkowniku Waters! Musisz powstrzymać atak wroga na Tebessę.
+[Mission.Success]
+Rozkaz został wykonany! Wróg nie przebił się do Tebessy.
+[Mission.Failed]
+Wróg przełamał naszą obronę i szybko posuwa się w stronę Tebessy.
+[StringTable.Reinf]
+Pułkowniku Waters! Posiłki są w drodze. Trzymać się!
+[Submission1.Objectives]
+Utrzymaj linię
+[Submission1.Description]
+Utrzymać linię! Wróg nie może przebić się przez przełęcz!
+[Submission1.Success]
+Wróg został pokonany i ucieka!
+[Submission1.Failed]
+Wróg przełamał obronę! Nasze wojska wycofują się do Tebessy.
+[StringTable.Woters]
+Żołnierze, do akcji! Nie wolno nam ustąpić wrogowi!
+[StringTable.Woters1]
+Nadchodzą Niemcy.
+[StringTable.Woters2]
+Posiłki przybyły.
+[StringTable.Woters3]
+Cholera! Niemcy zneutralizowali artylerię na wzniesieniu.
+[StringTable.tank_spg]
+Czołgi i działa samobieżne
+[StringTable.human]
+Piechota.

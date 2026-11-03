@@ -1,0 +1,166 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Разгромить оборону противника в районе аэродрома.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Уничтожить атакующие войска противника. Не допустить зхвата населенного пункта.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Войска противника оказывают серьезное сопротивление в данном районе. По данным разведки неприятель концентрирует войска для наступления и захвата населенного пункта. Ваша задача контратаковать наступающие части врага и не допустить захвата населенного пункта.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+На северо-западе расположен аэродром противника. Он помечен на карте точкой. Командованием поставлена задача захватить этот аэродром. Для осуществления поставленной задача, необходимо разгромить ряд очагов обороны врага, расположенные на всех основных птях подхода к эродрому.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Аэродром захвачен.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Аэродром захвачен.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Ваши войска разбиты.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Ваши войска разбиты.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Контратаковать наступающие части войск противника. Не дать захватить населенный пункт.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Противник предпринимает действия, направленные на захват и контроль области в районе населенного пункта. Ваша задача контратаковать наступающие войска неприятеля, а также не допустить захвата населенного пункта.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Отбить все атаки войск противника на населенный пункт.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Отбить все атаки войск противника на населенный пункт.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Населенный пункт является узловым на пересечении дорог. Вокруг построены легкие оборонительные укрепления. Вашей группе поставлена задача не допустить захвата населенного пункта войсками противника.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Населенный пункт является узловым на пересечении дорог. Вокруг построены легкие оборонительные укрепления. Вашей группе поставлена задача не допустить захвата населенного пункта войсками противника.
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Танки и пехота в вашем распоряжении
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка доступна
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_inf_support]
+В вашем распоряжении пехота и механизированные средства
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_inf_support]
+В вашем распоряжении пехота и механизированные средства
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Артиллерия доступна 
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Артиллерия доступна 
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Авиация в вашем распоряжении
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Авиация в вашем распоряжении
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна для использования
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна для использования
+[BriefingElements.DEFEND.defend_prk.attack_usa.SPG_inf_support]
+В ваше распоряжение приданы самоходные установки и пехота
+[BriefingElements.SIEGE.defend_prk.attack_usa.SPG_inf_support]
+В ваше распоряжение приданы самоходные установки и пехота
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиаподдержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиаподдержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Разгромить оборону противника в районе аэродрома.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Уничтожить атакующие войска противника. Не допустить зхвата населенного пункта.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Войска противника оказывают серьезное сопротивление в данном районе. По данным разведки неприятель концентрирует войска для наступления и захвата населенного пункта. Ваша задача контратаковать наступающие части врага и не допустить захвата населенного пункта.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+На северо-западе расположен аэродром противника. Он помечен на карте точкой. Командованием поставлена задача захватить этот аэродром. Для осуществления поставленной задача, необходимо разгромить ряд очагов обороны врага, расположенные на всех основных птях подхода к эродрому.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Аэродром захвачен.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Аэродром захвачен.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Ваши войска разбиты.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Ваши войска разбиты.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Контратаковать наступающие части войск противника. Не дать захватить населенный пункт.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Противник предпринимает действия, направленные на захват и контроль области в районе населенного пункта. Ваша задача контратаковать наступающие войска неприятеля, а также не допустить захвата населенного пункта.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Отбить все атаки войск противника на населенный пункт.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Отбить все атаки войск противника на населенный пункт.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Задача выполнена.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Задание провалено.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Населенный пункт является узловым на пересечении дорог. Вокруг построены легкие оборонительные укрепления. Вашей группе поставлена задача не допустить захвата населенного пункта войсками противника.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Населенный пункт является узловым на пересечении дорог. Вокруг построены легкие оборонительные укрепления. Вашей группе поставлена задача не допустить захвата населенного пункта войсками противника.
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_inf_support]
+Танки и пехота в вашем распоряжении
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка доступна
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.ATTACK.attack_rus.defend_usa.Mechs_inf_support]
+В вашем распоряжении пехота и механизированные средства
+[BriefingElements.STORM.attack_rus.assault_usa.Mechs_inf_support]
+В вашем распоряжении пехота и механизированные средства
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Авиация в вашем распоряжении
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Авиация в вашем распоряжении
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна для использования
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна для использования
+[BriefingElements.DEFEND.defend_rus.attack_usa.SPG_inf_support]
+В ваше распоряжение приданы самоходные установки и пехота
+[BriefingElements.SIEGE.defend_rus.attack_usa.SPG_inf_support]
+В ваше распоряжение приданы самоходные установки и пехота
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиаподдержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиаподдержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[Reinforcement.Group1[Reinforcement]]
+Пехота и артиллерия из резерва
+[Reinforcement.Group2[Reinforcement]]
+Группа обороны аэродрома
+[Reinforcement.Group3[Reinforcement]]
+Артиллерия и пехота из резерва

@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Establezca una cabeza de puente en la orilla occidental del Pena.
+[Mission.Description]
+Tanques y artillería, con escaso apoyo de infantería, mantienen la línea en la orilla occidental del río. Hay puestos de combate aislados en la orilla oriental. El grupo de combate despejará de fuerzas enemigas la orilla oriental, atacará luego la parte occidental de Verkhopenye y capturará el cruce del río.
+[Submission1.Objectives]
+Capture el puente sobre el Pena, pase a la orilla occidental y defienda el cruce.
+[Submission1.Success]
+Misión cumplida. 
+[Submission1.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato. 
+[Submission2.Objectives]
+Mantenga el cruce hasta que lleguen las fuerzas principales.
+[Submission2.Success]
+Misión cumplida.
+[Submission2.Failed]
+Nuestras fuerzas han sido rechazadas por fuerzas enemigas superiores.
+[Mission.Success]
+Misión cumplida. Ya es posible trasladar las fuerzas principales de la división al otro lado del río.
+[Mission.Failed]
+No hemos podido cumplir nuestras órdenes. ¡El enemigo es demasiado fuerte!
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

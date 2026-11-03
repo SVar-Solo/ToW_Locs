@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Contain any and all German attacks. Cover the evacuation of the Allied troops at the port of Cherbourg.
+[Mission.Description]
+June 1941, on the outskirts of the port city of Cherbourg stands one of the last battalions of armed and properly organized French troops. The Germans now occupy France. The propaganda machine of Dr. Goebbels is working overtime in an attempt to break the spirit of the French resistance. The last of the Allied forces need more time in order to embark upon the transports and flee to the British Isles. It is up to you commander to buy them that time with your own blood if necessary.
+
+Your orders are:
+-	Contain and resist all German attacks using any available forces and means. You must hold the line and prevent the Germans from getting through to the evacuations areas.
+[Mission.Success]
+Your mission was a success!
+[Mission.Failed]
+You have failed in your mission!
+[Submission_1.Objectives]
+Repel the enemy attacks
+[Submission_1.Description]
+Your defenses are situated on a key hill. The Germans are forcing their way to the port of Cherbourg along several different axis of advance. The key to your success today will be in the correct deployment and layout of your defensive positions.
+
+Order: 
+-	Repel all attacks by the enemy. 
+[Submission_1.Success]
+You have repelled the enemy attacks!
+[Submission_1.Failed]
+You have lost!
+[Submission_2.Objectives]
+Attack the settlement to the West of the hill.
+[Submission_2.Description]
+To the West of your positions there is a settlement occupied by Germans. In view of the present situation, the enemy is not expecting any aggressive activities from your side and is quietly redistributing his forces, preparing for the next blow.  
+
+Order: 
+-	Organize a counterattack in the direction of the settlement and totally eliminate all German units located there. 
+
+[Submission_2.Success]
+The village is in our hands! Well done commander!
+[Submission_2.Failed]
+You have failed in your mission!
+[Submission_3.Objectives]
+Repel the enemy counterattack.
+[Submission_3.Description]
+The surprise attack has worked! The enemy has sustained heavy losses in manpower and equipment. In addition, a German plan for a simultaneous attack against your defensive positions from two sides was ruined. But this is not a total victory yet as the enemy is even now preparing a counterattack.
+
+Orders:
+-	Repel the German counterattack
+[Submission_3.Success]
+You have won! The enemy counterattack was stopped!
+[Submission_3.Failed]
+You have lost! You were unable to stop the enemy counterattack.
+[StringTable.reserv]
+Reinforcements have arrived

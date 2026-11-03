@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Stoppez la percée
+[Mission.Success]
+L’ennemi n’a pas réussi à percer le col !
+[Mission.Failed]
+Repli ! L’ennemi a percé le col !
+[Mission.Description]
+Stoppez la percée des groupes allemands par le col de Kasserine
+[Submission1.Objectives]
+Brisez les attaques ennemies le long des axes de percée possibles.
+[Submission1.Description]
+Lieutenant-colonel Waters ! Vous devez empêcher les troupes allemandes de percer le col de Kasserine.
+[Submission1.Success]
+L’ordre a été exécuté ! L’ennemi se replie !
+[Submission1.Failed]
+Nos troupes ont échoué ! L’ennemi continue d’avancer !
+[Submission2.Success]
+Les chars britanniques sont arrivés !
+[Submission2.Description]
+Tenez jusqu’à l’arrivée des chars britanniques
+[Submission2.Objectives]
+Tenez bon
+[Submission2.Failed]
+Nous avons échoué ! Les renforts n’ont pas eu le temps d’arriver !
+[Submission3.Objectives]
+Trouvez et détruisez les observateurs de tir ennemis
+[Submission3.Description]
+Une batterie de mortiers tire sur les positions de la 1re division d’infanterie. Localisez et éliminez les observateurs d’artillerie ennemis.
+[Submission3.Success]
+Les observateurs ennemis ont été éliminés !
+[Submission3.Failed]
+Les observateurs ennemis n’ont pas été éliminés !

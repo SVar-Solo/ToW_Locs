@@ -1,0 +1,240 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Alle feindlichen Verteidigungsstellungen im auf der Karte markierten Gebiet angreifen und vernichten.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Rücken Sie in das auf der Karte markierte Gebiet vor. Überrennen Sie alle feindlichen Stellungen und wehren Sie alle Gegenangriffe ab.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Der Feind wurde ausgeschaltet.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Der Feind wurde ausgeschaltet.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Ihr Kampftrupp muss die verteidigenden Feinde in diesem Frontabschnitt ausschalten.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Ihr Kampftrupp hat den Auftrag, die in diesem Abschnitt verteidigenden Feinde auszuschalten. Seien Sie gewarnt: Laut Aufklärung wird der Feind häufig Gegenangriffe führen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Die Straßenkreuzung in der Mitte des Gebiets einnehmen und halten.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Unser vorgeschobener Spähtrupp hat eine Straßenkreuzung in der Mitte des Gebiets überrannt. Der Feind wird höchstwahrscheinlich versuchen, sie einzunehmen. Ihr Kampftrupp soll zur Straßenkreuzung vorrücken und den Spähtrupp unterstützen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht. Das Gebiet bis auf Weiteres halten.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Ihr Kampftrupp muss den schmalen Durchgang südlich der Straßenkreuzung halten. Laut Aufklärung hat der Feind in der Gegend zahlreiche Kräfte konzentriert und plant möglicherweise einen Durchbruch in diesem Frontabschnitt. Das darf Ihr Kampftrupp nicht zulassen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Ihr Kampftrupp muss den schmalen Durchgang südlich der Straßenkreuzung halten. Laut Aufklärung hat der Feind in der Gegend zahlreiche Kräfte konzentriert und plant möglicherweise einen Durchbruch in diesem Frontabschnitt. Das darf Ihr Kampftrupp nicht zulassen.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Infanterietrupp untersteht Ihrem Befehl.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Infanterietrupp untersteht Ihrem Befehl.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Alle feindlichen Verteidigungsstellungen im auf der Karte markierten Gebiet angreifen und vernichten.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Rücken Sie in das auf der Karte markierte Gebiet vor. Überrennen Sie alle feindlichen Stellungen und wehren Sie alle Gegenangriffe ab.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Der Feind wurde ausgeschaltet.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Der Feind wurde ausgeschaltet.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Ihr Kampftrupp muss die verteidigenden Feinde in diesem Frontabschnitt ausschalten.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Ihr Kampftrupp hat den Auftrag, die in diesem Abschnitt verteidigenden Feinde auszuschalten. Seien Sie gewarnt: Laut Aufklärung wird der Feind häufig Gegenangriffe führen.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Die Straßenkreuzung in der Mitte des Gebiets einnehmen und halten.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Unser vorgeschobener Spähtrupp hat eine Straßenkreuzung in der Mitte des Gebiets überrannt. Der Feind wird höchstwahrscheinlich versuchen, sie einzunehmen. Ihr Kampftrupp soll zur Straßenkreuzung vorrücken und den Spähtrupp unterstützen.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Verhindern, dass der Feind in Ihrem Frontabschnitt durchbricht. Das Gebiet bis auf Weiteres halten.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Ihr Kampftrupp muss den schmalen Durchgang südlich der Straßenkreuzung halten. Laut Aufklärung hat der Feind in der Gegend zahlreiche Kräfte konzentriert und plant möglicherweise einen Durchbruch in diesem Frontabschnitt. Das darf Ihr Kampftrupp nicht zulassen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Ihr Kampftrupp muss den schmalen Durchgang südlich der Straßenkreuzung halten. Laut Aufklärung hat der Feind in der Gegend zahlreiche Kräfte konzentriert und plant möglicherweise einen Durchbruch in diesem Frontabschnitt. Das darf Ihr Kampftrupp nicht zulassen.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp untersteht Ihrem Befehl.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Infanterietrupp untersteht Ihrem Befehl.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Infanterietrupp untersteht Ihrem Befehl.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[Reinforcement.Group_tanks_infantry]
+Reserve-Infanterie-Panzer-Trupp
+
+[Reinforcement.Group_infantry]
+Infanterie
+

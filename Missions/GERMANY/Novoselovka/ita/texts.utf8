@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Distruggere le difese nemiche nella zona di Novoselovka.
+[Mission.Description]
+Unità russe ritirate, insieme a gruppi di carri e di artiglieria anticarro, sono passate alla difensiva nel settore a sud di Novoselovka e nel villaggio stesso. I fianchi della linea difensiva nemica sono coperti da campi minati. Il gruppo di combattimento ha l'ordine di assaltare Novoselovka, sfondare le difese nemiche e conquistare il villaggio.
+[Mission.Success]
+Missione compiuta, Novoselovka è stata occupata.
+[Mission.Failed]
+Non siamo riusciti a eseguire gli ordini. Il nemico è troppo forte! 
+[Submission_1.Objectives]
+Distruggere le difese nemiche nel villaggio.
+[Submission_1.Success]
+Le difese nemiche sono state distrutte. Le posizioni sono state occupate.
+[Submission_1.Failed]
+L'attacco si è arenato, è necessario un supporto immediato!
+[Submission_2.Objectives]
+Proseguire l'avanzata verso nord. Occupare la parte meridionale del villaggio di Novoselovka.
+[Submission_2.Success]
+La parte meridionale del villaggio è stata occupata.
+[Submission_2.Failed]
+L'attacco si è arenato, è necessario un supporto immediato.
+[Submission_3.Objectives]
+Conquistare le posizioni nemiche a nordovest di Novoselovka.
+[Submission_3.Success]
+Missione compiuta. Le forze nemiche si sono ritirate verso nordovest.
+[Submission_3.Failed]
+L'attacco si è arenato, è necessario un supporto immediato.
+[Submission_4.Objectives]
+Respingere il contrattacco dei carri armati russi!
+[Submission_4.Success]
+I carri armati nemici sono stati distrutti!
+[Submission_4.Failed]
+Le nostre forze ripiegano sotto la pressione del nemico.
+[StringTable.First_support]
+Un gruppo di carri armati delle riserve di divisione è ora ai vostri ordini.
+[StringTable.Second_support]
+Un'unità di fanteria e dei semoventi sono ora ai vostri ordini.
+
+[StringTable.Inf]
+Fanteria
+[StringTable.Tanks]
+Carri armati
+[StringTable.SPG]
+Semoventi
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

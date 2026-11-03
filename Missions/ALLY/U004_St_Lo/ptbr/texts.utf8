@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Liberte a cidade a nordeste das principais posições inimigas.
+[Mission.Description]
+Os alemães criaram e reforçaram posições defensivas perto de Saint-Lô. Segundo os dados de reconhecimento aéreo, o inimigo concentrou nesta área as principais forças do 7º Exército. O terreno é propício a emboscadas e a pequenos pontos fortes defensivos, portanto devemos avançar com cautela.
+
+Suas ordens são: 
+- 	Realize uma ação de sondagem com tanques e infantaria.
+- 	Liberte a cidade situada a nordeste. 
+[Mission.Success]
+A missão foi cumprida! A Operação Cobra continua.
+[Mission.Failed]
+A missão fracassou. 
+[Submission_1.Objectives]
+Realize uma ação de sondagem nas duas aldeias nos arredores de Saint-Lô. 
+[Submission_1.Description]
+O inimigo concentrou suas principais forças defensivas nas colinas perto da cidade. Duas aldeias estão no caminho da ofensiva de nossas forças. Não temos informações sobre a presença inimiga ali. 
+
+Suas ordens:
+- 	Realize ações de sondagem nas duas aldeias. 
+[Submission_1.Success]
+As ações de sondagem foram realizadas. O inimigo foi derrotado. 
+[Submission_1.Failed]
+A missão fracassou.
+[Submission_2.Objectives]
+Ataque as principais fortificações defensivas na colina. 
+[Submission_2.Description]
+O inimigo montou uma linha de defesa nos acessos à cidade, aproveitando as colinas ao redor. 
+
+Suas ordens:
+-	Destrua as defesas inimigas na colina.
+[Submission_2.Success]
+A missão foi cumprida. 
+[Submission_2.Failed]
+A missão fracassou.
+[Submission_3.Objectives]
+Capture a cidade de Saint-Lô. 
+[Submission_3.Description]
+A cidade de Saint-Lô tem grande importância estratégica. Ela é a chave para qualquer avanço adicional na França. 
+ 
+Suas ordens:
+-	Liberte a cidade de Saint-Lô destruindo a guarnição inimiga que a defende.
+[Submission_3.Success]
+A emboscada foi destruída! 
+[Submission_3.Failed]
+A missão fracassou.
+[Submission_4.Objectives]
+Destrua a bateria de artilharia inimiga.
+[Submission_4.Description]
+Os alemães posicionaram sua artilharia com astúcia. Todos os acessos à cidade podem ser varridos pelo fogo da colina onde está a bateria inimiga. 
+
+Suas ordens:
+- 	Destrua a bateria de artilharia inimiga na colina. 
+[Submission_4.Success]
+A bateria de artilharia foi destruída. 
+[Submission_4.Failed]
+A missão fracassou.
+[StringTable.Reserv]
+Os reforços chegaram.

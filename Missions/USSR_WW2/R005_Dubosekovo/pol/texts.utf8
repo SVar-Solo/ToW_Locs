@@ -1,0 +1,46 @@
+﻿[Submission1.Objectives]
+Odeprzeć niemiecki atak z północnego zachodu.
+[Submission1.Description]
+Według meldunków zwiadu, nieprzyjaciel zmierza w kierunku Dubosekowa. Znajduje się tam kluczowa stacja kolejowa, musisz ją za wszelką cenę obronić. Generał Panfiłow osobiście rozkazał ci walczyć do samego końca. 
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielski atak z północnego zachodu.
+[Submission1.Success]
+Nieprzyjacielskie natarcie zostało zatrzymane!
+[Submission1.Failed]
+Nieprzyjacielskie wojska przełamały obronę i zdobyły stację.
+[Submission2.Objectives]
+Odeprzeć nieprzyjacielski atak z południowego zachodu.
+[Submission2.Description]
+Nie powiodła się pierwsza niemiecka próba przełamania twojej obrony. Teraz wróg szykuje się do kolejnego natarcia - już słyszysz silniki czołgów na południowym zachodzie. Przegrupujcie się i nie pozwólcie im się oskrzydlić z tego kierunku. Nie wycofujcie się, za nami jest Moskwa!
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielski atak z południowego zachodu.
+[Submission2.Success]
+Zadanie wykonane! Wróg został odparty i wycofuje się!
+[Submission2.Failed]
+Zadanie niewykonane. Obrona została przełamana!
+[Submission0.Objectives]
+Utrzymać pozycje obronne wokół stacji.
+[Submission0.Description]
+Nieprzyjacielskie wojska szybko nacierają w kierunku węzła kolejowego Dubosekowo. Dowództwo naczelne uznało stację za niezwykle istotną i nakazało ci jej obronę za wszelką cenę.
+Twoje rozkazy:
+-	Utrzymać pozycje obronne we wskazanym rejonie.
+-	Niemcy nie mogą zdobyć stacji.
+
+[Submission0.Success]
+Zadanie wykonane! Niemieckie natarcie w tym kierunku zostało zatrzymane!
+[Submission0.Failed]
+Zadanie nie zostało wykonane! Niemcy zajęli stację Dubosekowo.
+[Submission3.Objectives]
+Odeprzeć atak nieprzyjaciela na stację.
+[Submission3.Description]
+Niemcy kontynuują natarcie na stację. Na innych odcinkach frontu sytuacja nie jest lepsza - wróg przewyższa Armię Czerwoną liczbą czołgów i ludzi; sytuacja jest dramatyczna. Musimy uniemożliwić nieprzyjacielowi zajęcie stolicy naszej ojczyzny.
+Twoje rozkazy:
+-	Odeprzeć atak nieprzyjaciela na stację.
+[Submission3.Success]
+Zadanie wykonane! Atak odparty!
+[Submission3.Failed]
+Zadanie nie zostało wykonane! Nieprzyjaciel przełamał obronę i zajął stację!
+[StringTable.Reserv]
+Przybyły posiłki.
+[StringTable.Subtitle_01]
+Stacja Dubosekowo. 1941

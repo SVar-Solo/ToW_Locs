@@ -1,0 +1,59 @@
+﻿[Mission.Objectives]
+Déloger les troupes polonaises de leur position défensive.
+[Mission.Description]
+Nous pensions que nos forces supérieures allaient rapidement prendre le contrôle de la Pologne. En fait, les Polonais livrent une résistance opiniâtre et des batailles furieuses sont livrées sur tout le front. Il faut immédiatement lancer une offensive avec les unités de la 3e et 4e armée de choc du groupe d’armée Nord et infliger un coup décisif contre les positions polonaises dans le secteur de la rivière Mokra. Votre mission est de battre les Polonais le plus rapidement possible. Un hameau se trouve sur le flanc droit adverse, de l’artillerie s’y trouve probablement. Vous avez de l’infanterie, des chars et tout ce qu’il faut pour attaquer. Lancez l’assaut, pour le Führer !
+
+Vos ordres :
+- 	Déloger les troupes polonaises de leur position défensive.
+[Mission.Success]
+Les défenses polonaises ont été brisées. Toute la Pologne sera bientôt sous notre contrôle !
+[Mission.Failed]
+Incroyable, vos troupes ont été battues ! Comment les Polonais ont-ils pu gagner ? Vous ne méritez pas de commander des troupes au feu !
+[ArtSupport.Objectives]
+Bombarder les positions ennemies. 
+[ArtSupport.Description]
+Avant de lancer l’assaut, demandez un tir de barrage sur les positions polonaises. La préparation d’artillerie vous aidera à briser la première ligne de défense ennemie. 
+
+Vos ordres :
+-	Bombarder les positions ennemies.
+[ArtSupport.Success]
+Mission accomplie, positions ennemies bombardées !
+[ArtSupport.Failed]
+Votre barrage d’artillerie n’a pas infligé des dommages suffisants aux positions polonaises.
+[StringTable.Subtitle_01]
+Pologne. Septembre 1939
+[Submission1_1.Objectives]
+Attaquer le flanc droit des défenses polonaises.
+[Submission1_1.Description]
+Des unités polonaises se sont placées en position favorable et ont repoussé des attaques des 3e et 4e armée du groupe d’armée Nord
+
+Vos ordres :
+- 	Utiliser toutes les forces disponibles pour attaquer le flanc droit de la ligne de défense ennemie.
+[Submission1_1.Success]
+Mission accomplie, les Polonais ont battu en retraite ! 
+[Submission1_1.Failed]
+Non seulement vous avez échoué, mais vos troupes ont été massacrées.
+[Submission2.Objectives]
+Attaquer le groupe blindé polonais.
+[Submission2.Description]
+L’ennemi tente d’encercler les 3e et 4e armées allemandes, en utilisant des moyens blindés. Attaquez le groupe de blindés polonais pour empêcher un encerclement. 
+
+Vos ordres :
+- 	Attaquer l’unité blindée polonaise.
+[Submission2.Success]
+Vous avez accompli votre mission et le groupe blindé polonais a été détruit ! 
+[Submission2.Failed]
+Vous n’avez pas réussi à accomplir votre mission. Les 3e et 4e armées allemandes risquent maintenant d’être encerclées.
+[Submission1.Objectives]
+Attaquer le flanc droit de la seconde ligne de défense polonaise. 
+[Submission1.Description]
+Des unités polonaises résistent encore et leurs positions défensives doivent être écrasées. Attaquer à nouveau leur flanc droit.
+
+Les ordres
+-	En utilisant vos réserves, attaquez le flanc droit de la seconde ligne de défense polonaise.
+[Submission1.Success]
+Mission accomplie, les Polonais s’enfuient !
+[Submission1.Failed]
+Vous n’avez pas réussi à accomplir votre mission !
+[StringTable.reserv]
+Des renforts sont arrivés en appui !

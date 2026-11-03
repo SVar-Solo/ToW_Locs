@@ -1,0 +1,48 @@
+﻿[Mission1.Objectives]
+Capturer la gare de Dubosekovo.
+[Mission1.Description]
+Selon nos reconnaissances aériennes, les Russes ont superbement fortifié les positions près de la gare de Dubosekovo. Pour le moment, les Russes se sont bien défendus et nos pertes sont plus importantes que prévues. Mais malgré cela, le haut commandement exige que cet emplacement stratégique soit absolument capturé.
+
+Vos ordres sont : 
+- 	Lancer une offensive vers la gare de Dubosekovo
+- 	Eliminer les troupes russes qui ont pris position dans la zone indiquée. 
+[Mission1.Success]
+La gare a été capturée. Une fois les rails réparés, nous serons en mesure de faire venir du ravitaillement et des munitions ! 
+[Mission1.Failed]
+Votre attaque a échoué ! Vous n’avez pas réussi à capture la gare !
+[Mission2.Objectives]
+Défendre la gare de Dubosekovo contre une contre-attaque russe.
+[Mission2.Description]
+Un groupe d’assaut russe approche vos positions récemment conquises. Il ne faut pas perdre la gare, tenez à tout prix.
+
+Vos ordres sont : 
+-	Repousser les attaques soviétiques.
+-	Empêcher les Russes de reprendre la gare.
+[Mission2.Success]
+L’attaque ennemie a été repoussée. Bien joué !
+[Mission2.Failed]
+Vous avez échoué et les Russes ont repris la gare.
+[Submission1.Objectives]
+Bombarder les positions ennemies.
+[Submission1.Description]
+Avant de lancer votre offensive sur la gare, bombarder les positions ennemies.
+
+Vos ordres :
+- 	Bombarder les positions ennemies.
+[Submission1.Success]
+Le bombardement est un succès. Les Ruses vont détaler dès qu’ils verront nos premiers chars !
+[Submission1.Failed]
+Votre artillerie a été inefficace !
+[Submission2.Objectives]
+Demander un appui aérien tactique.
+[Submission2.Description]
+Pour vous aider à détruire l’artillerie et l’infanterie ennemi, il faudrait demander un appui aérien.
+
+Vos ordres :
+- 	Demander un appui aérien tactique.
+[Submission2.Success]
+Nos avions ont attaqué les positions ennemies.
+[Submission2.Failed]
+Nos unités aériennes ne sont pas parvenues à vous appuyer.
+[StringTable.Reserv]
+Des renforts sont arrivés en appui !

@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+강을 건너 북쪽으로 진격하라.
+[Mission.Description]
+ 파리는 6월 14일에 함락되었고 프랑스 정부는 보르도로 달아났다. 일부 프랑스 군 부대와 수비대는 계속 싸우고 있다. 저항은 계속되어야 한다. 마지막 병사가 싸움을 멈추기 전까지 군은 패배한 것이 아니다!
+[Mission.Success]
+임무 완수
+[Mission.Failed]
+임무 실패
+[Submission_1.Objectives]
+다리를 건너 강 반대편으로 가라.
+[Submission_1.Description]
+다리를 건너 강 반대편으로 가라.
+[Submission_1.Success]
+임무 완수
+[Submission_1.Failed]
+임무 실패
+[Submission_2.Objectives]
+북부 구역에 도달하라.
+[Submission_2.Description]
+북부 구역에 도달하라.
+[Submission_2.Success]
+임무 완수
+[Submission_2.Failed]
+임무 실패

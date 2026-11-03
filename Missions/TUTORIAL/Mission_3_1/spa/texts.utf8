@@ -1,0 +1,134 @@
+﻿[Mission.Objectives]
+Tome el mando y rechace el ataque enemigo
+
+[Mission.Description]
+Tome bajo su mando a dos grupos de soldados británicos. Con una ametralladora pesada, destruya a un pelotón de infantería enemigo. Encuentre y use una bazuca para destruir el tanque enemigo.
+
+[Mission.Success]
+Mis felicitaciones, todas las tareas se han cumplido con éxito.
+
+[Mission.Failed]
+Tarea fallida
+
+[Submission_1.Objectives]
+Tome el mando del primer grupo
+
+[Submission_1.Description]
+Acerque el vehículo al grupo de tres soldados británicos y pasarán a estar bajo su mando.
+
+[Submission_1.Success]
+El grupo de soldados británicos ha pasado a estar bajo su mando.
+
+[Submission_1.Failed]
+Tarea fallida
+
+[Submission_2.Objectives]
+Tome el mando del segundo grupo
+
+[Submission_2.Description]
+Acerque su vehículo y a los soldados que se han unido a usted al grupo del puesto de combate en las afueras del pueblo, y pasarán a estar bajo su mando.
+
+[Submission_2.Success]
+El puesto de combate ha pasado a estar bajo su mando.
+
+[Submission_2.Failed]
+Tarea fallida
+
+[Submission_3.Objectives]
+Ocupe la ametralladora
+
+[Submission_3.Description]
+Seleccione a dos infantes del personal y ocupen la ametralladora.
+
+[Submission_3.Success]
+La ametralladora pesada está a su disposición.
+
+[Submission_3.Failed]
+Tarea fallida
+
+[Submission_4.Objectives]
+Rechace el ataque enemigo
+
+[Submission_4.Description]
+Tome posiciones defensivas en los edificios cercanos a la ametralladora y rechace el ataque de la infantería enemiga.
+
+[Submission_4.Success]
+El ataque enemigo ha sido rechazado.
+
+[Submission_4.Failed]
+Tarea fallida
+
+[StringTable.Submission_4]
+Dentro de un edificio y en modo de movimiento libre, los infantes pueden cambiar ligeramente de posición si desde allí les resulta más cómodo disparar a un objetivo detectado. Tenga en cuenta que la visibilidad puede quedar limitada por las paredes. Esto puede ser útil para una emboscada, pero dificulta hacerse una idea completa del combate.
+
+[Submission_5.Objectives]
+Destruya el tanque enemigo
+
+[Submission_5.Description]
+Un tanque alemán avanza hacia sus posiciones. Guiándose por el humo, encuentre el contenedor con el lanzagranadas antitanque y destruya el tanque enemigo.
+
+[Submission_5.Success]
+El tanque enemigo ha sido destruido.
+
+[Submission_5.Failed]
+Tarea fallida
+
+[StringTable.Submission_5.1]
+Un tanque alemán avanza hacia sus posiciones. Guiándose por el humo, encuentre el contenedor con el lanzagranadas antitanque y destruya el tanque enemigo. El contenedor se encuentra junto al camión quemado, detrás y a la derecha de sus posiciones; el punto está marcado con humo rojo. Lleve hasta él a un soldado con una ranura de arma libre y abra el inventario {hkey:inventory}: se mostrará un panel con los objetos cercanos al soldado. Puede recoger objetos haciendo doble clic con el botón izquierdo, arrastrando o usando uno de los botones de recogida. El soldado necesitará algo de tiempo para recoger los objetos. Para especificar la cantidad de objetos, mantenga pulsada la tecla CTRL (una unidad), MAYÚS (pila completa) o CTRL+MAYÚS (media pila) al transferirlos.
+
+[StringTable.Submission_5.2]
+Si el tanque está demasiado lejos, intente esconderse o tumbarse para que el tanque no pueda detectar a sus soldados. Ataque el tanque cuando se acerque. Use los modos de movimiento sigiloso {hkey:setbodymodelay} y prohíba el movimiento libre {hkey:actionmode}, o active el modo "Emboscada" {hkey:ambush}.
+
+[StringTable.Submission_5.3]
+Para garantizar la máxima eficacia del impacto de la "Bazuca", abra fuego aproximadamente a 2/3 o 1/2 del alcance máximo de tiro indicado por el sector de líneas discontinuas. Para ello, prohíba disparar al soldado con la "Bazuca" {hkey:firemode}, deje que el tanque llegue a la distancia requerida y luego permita de nuevo el fuego {hkey:firemode}. Entonces, si hay línea de fuego, el soldado disparará por su cuenta. Si da la orden directa de atacar el tanque, en ausencia de línea de fuego el soldado puede empezar a acercarse al objetivo, lo que a veces no es deseable.
+
+[Submission_6.Objectives]
+Evacuar
+
+[Submission_6.Description]
+Capture un vehículo para transportar infantería. Cargue a todo el personal en el camión y llévelo al punto de evacuación.
+
+[Submission_6.Success]
+Personal evacuado.
+
+[Submission_6.Failed]
+Tarea fallida
+
+[Submission_7.Objectives]
+Evacuar
+
+[Submission_7.Description]
+Evacue a todo el personal del pueblo hasta el punto de evacuación.
+
+[Submission_7.Success]
+El personal ha llegado al punto de evacuación
+
+[Submission_7.Failed]
+Tarea fallida
+
+[Submission_8.Objectives]
+Evacuar
+
+[Submission_8.Description]
+Debe evacuar al personal hasta el punto indicado. Para ello puede usar un vehículo, que puede solicitar con el botón de refuerzos.
+
+[Submission_8.Success]
+Personal evacuado
+
+[Submission_8.Failed]
+Tarea fallida
+
+[Submission_9.Objectives]
+Destruya los tanques con la aviación
+
+[Submission_9.Description]
+Debe solicitar aviones de ataque y destruir los tanques que avanzan desde el sudoeste. Para guiar con éxito a los aviones de ataque hasta el objetivo, los tanques deben estar en línea de visión directa de la infantería.
+
+[Submission_9.Success]
+¡Tanques destruidos!
+
+[Submission_9.Failed]
+Tarea fallida
+
+[StringTable.Submission_9]
+Debe solicitar aviones de ataque y destruir los tanques que avanzan desde el sudoeste. Para guiar con éxito a los aviones de ataque hasta el objetivo, los tanques deben estar en línea de visión directa de la infantería. Los aviones necesitarán algo de tiempo para llegar al objetivo. Tras atacar un objetivo, el avión hará una segunda pasada y atacará el siguiente.

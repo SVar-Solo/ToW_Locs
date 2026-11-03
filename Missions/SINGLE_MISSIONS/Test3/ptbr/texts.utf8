@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Execute uma operação de sabotagem na retaguarda inimiga, perto da cidade de Sandomierz. Encontre o depósito de combustível (POL) e de armamentos e destrua-o. Se encontrar posições de canhões antiaéreos, chame artilharia de longo alcance e ataques aéreos para neutralizá-las.
+[Mission.Description]
+O exército soviético se aproxima das próprias fronteiras do Terceiro Reich. Ambos os lados vêm se preparando para uma eventual batalha em torno da pequena cidade de Sandomierz. O Alto Comando Soviético enviou esquadras especiais de sabotadores para se infiltrarem atrás das linhas inimigas. Sua missão é reconhecer as posições inimigas e destruir meios logísticos e defesas antiaéreas. Sua esquadra de elite deve sabotar o depósito de combustível (POL) e de armamentos, localizar e destruir quaisquer posições de canhões antiaéreos que encontrar. Sua esquadra é composta pelos nossos melhores batedores e um atirador de elite. Use-os com sabedoria!
+[Mission.Success]
+Todas as missões foram cumpridas!
+[Mission.Failed]
+Missão fracassada!
+[Submission_1.Objectives]
+Penetre no povoado {hkey:move}. Faça o reconhecimento da situação. Elimine os guardas do depósito de combustível (POL) e de armamentos. Encontre e capture quaisquer Panzerschrecks, pois você poderá precisar do poder antiblindagem deles mais tarde.
+[Submission_1.Description]
+Tendo se esgueirado sem ser detectada pelas linhas de frente inimigas, sua esquadra está agora bem fundo na retaguarda. Cuidado com os postos de bloqueio inimigos situados ao longo das estradas e em cruzamentos e locais estratégicos. Patrulhas motorizadas são comuns e, se detectarem você, chamarão reforços rapidamente. Sua tarefa principal é destruir o depósito de combustível (POL) e de armamentos.
+[Submission_1.Success]
+Zona especial destruída.
+[Submission_1.Failed]
+Missão fracassada
+[Submission_2.Objectives]
+Faça o reconhecimento da localização de quaisquer posições antiaéreas. Solicite fogo de artilharia e apoio da aviação para destruir as posições. Capture transporte inimigo para facilitar a travessia da ponte.  
+[Submission_2.Description]
+Nossos meios aéreos têm lançado ataques constantes contra locais estratégicos alemães, mas as perdas são altas. O inimigo é hábil em camuflar suas posições antiaéreas, e localizá-las do ar tem se mostrado difícil e custoso em homens e máquinas. Sua esquadra está em posição ideal para ajudar nessa tarefa. Busque canhões antiaéreos nas proximidades e, ao encontrá-los, solicite fogo de artilharia e aviões de ataque ao solo para destruir esses locais.
+[Submission_2.Success]
+As posições antiaéreas foram localizadas e destruídas.
+[Submission_2.Failed]
+Missão fracassada.
+[Submission_3.Objectives]
+Avance até as pontes sobre o Vístula. Aniquile os guardas em ambas as margens do rio.
+[Submission_3.Description]
+Você cumpriu sua tarefa principal. Agora seu destacamento precisa voltar para casa. O único caminho é de volta pela ponte sobre o Vístula...
+[Submission_3.Success]
+Missão cumprida
+[Submission_3.Failed]
+Missão fracassada.
+[Submission_4.Objectives]
+Nossos aviões de reconhecimento localizaram uma coluna de tanques se deslocando pela autoestrada em direção às pontes do Vístula.
+Suas ordens:
+- Destrua a coluna de tanques por qualquer meio.
+[Submission_4.Description]
+Nossos aviões de reconhecimento avistaram uma coluna de tanques se deslocando pela autoestrada em direção às pontes que cruzam o Vístula. Sua tarefa é esperar até que a coluna se aproxime e então bloquear a ponte destruindo o tanque da frente. Talvez usar alguns Panzerschrecks alemães capturados seja eficaz...
+[Submission_4.Success]
+Bom trabalho!
+[Submission_4.Failed]
+Tarefa fracassada
+[Submission_5.Objectives]
+Um posto de bloqueio inimigo foi avistado. Se você for detectado, mate os guardas.
+[Submission_5.Description]
+Um posto de bloqueio inimigo foi avistado. Se você for detectado, mate os guardas.
+[Submission_5.Success]
+Missão cumprida.
+[Submission_5.Failed]
+Missão fracassada
+[StringTable.Zonder]
+O inimigo pediu reforços.
+[StringTable.EnemyVisible]
+O inimigo avistou suas tropas e elas devem ser eliminadas. O tempo é curto, você tem apenas cerca de 4 a 5 minutos antes que unidades inimigas adicionais possam chegar.
+[StringTable.Ahtung]
+O inimigo avistou sua esquadra.
+[StringTable.CallSupport]
+Os canhões antiaéreos alemães foram avistados. A posição não pode ser destruída apenas pela sua esquadra de sabotadores. Solicite apoio de artilharia e aéreo para eliminar o inimigo.
+[Submission_6.Objectives]
+Um posto de bloqueio inimigo foi avistado. Se você for detectado, mate os guardas.
+[Submission_6.Description]
+O posto de bloqueio fica em uma estrada de importância estratégica. Guerrilheiros poloneses relataram que uma unidade de patrulha motorizada monitora a estrada constantemente.
+[Submission_6.Success]
+O posto de bloqueio foi eliminado
+[Submission_6.Failed]
+Você perdeu e suas tropas de elite foram mortas!

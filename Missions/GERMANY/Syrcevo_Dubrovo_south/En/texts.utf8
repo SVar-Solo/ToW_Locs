@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+Capture the enemy strong point, ensure commitment to combat for the following forces.
+[Mission.Objectives]
+The combat team will advance towards Dubrovo. Defeat the enemy at the strong point, then reach the eastern outskirts of the village. Destroy the enemy defenses in the breakthrough sector. Secure the deployment zones for reinforcements.
+[Mission.Success]
+Mission complete.
+[Mission.Failed]
+We have failed to carry out our orders. The enemy is too strong! 
+[StringTable.Smoke]
+The left flank will be covered with a smoke barrage. Designate the arch of fire for the second smoke barrage.
+[Submission1.Objectives]
+Capture one of the enemy strong points, thus breaking his fire system.
+[Submission2.Objectives]
+Repel enemy counterattacks. Ensure commitment to combat for the following forces.
+[Submission1.Success]
+Mission complete.
+[Submission1.Failed]
+The attack has been stalled, immediate support is required.
+[Submission2.Success]
+Mission complete, the reinforcements have advanced into the enemy defense perimeter.
+[Submission2.Failed]
+Our forces withdraw under enemy pressure.
+[StringTable.SM11]
+Strongpoint 1 has been captured.
+[StringTable.SM12]
+Strongpoint 2 has been captured.
+[StringTable.SM13]
+Strongpoint 3 has been captured.
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

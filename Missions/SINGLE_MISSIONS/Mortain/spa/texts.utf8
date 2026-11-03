@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+Defiéndase de una nueva ofensiva alemana.
+[Mission.Description]
+Para evitar ser sitiados, la plana mayor alemana ha lanzado un pequeño pero feroz contraataque llamado “operación Lüttich”.
+
+Sus órdenes:
+- 	Detenga la ofensiva alemana.
+[Mission.Success]
+Misión cumplida. Se ha logrado detener la gran ofensiva.
+[Mission.Failed]
+El ataque alemán ha tenido éxito y hemos sufrido graves pérdidas.
+[Submission1.Objectives]
+Ataque a la agrupación de fuerzas enemigas.
+[Submission1.Description]
+Los equipos de reconocimiento informan de que la primera oleada alemana nos atacará por el noreste.
+
+Sus órdenes son:
+- 	Ataque a toda unidad enemiga que proceda del noroeste.
+[Submission1.Success]
+Misión cumplida. Las fuerzas enemigas se retiran.
+[Submission1.Failed]
+Misión fallida. Sus tropas han sido derrotadas.
+[Submission2.Objectives]
+Ataque a las fuerzas enemigas.
+[Submission2.Description]
+La ofensiva alemana prosigue y parece ser que ahora van a atacarnos por el este.
+
+Sus órdenes:
+- 	Ataque a toda unidad enemiga que proceda del noroeste.
+[Submission2.Success]
+Misión cumplida. ¡El ataque enemigo se ha detenido!
+[Submission2.Failed]
+Misión fallida. Sus tropas han sido destruidas.
+[Submission3.Objectives]
+Ataque a las tropas que se aproximen por el norte.
+[Submission3.Description]
+Aún no hemos ganado. Se prepara otro ataque enemigo desde el norte. Esta vez nos superan en número, pero debe imponerse.
+
+Sus órdenes:
+- 	Acabe con el asalto alemán.
+[Submission3.Success]
+Misión cumplida. Se ha detenido esta etapa del plan enemigo.
+[Submission3.Failed]
+Misión fallida. La ofensiva enemiga ha triunfado. Sus tropas han sido aniquiladas.
+[StringTable.Reserve
+Han llegado refuerzos.
+[Submission4.Objectives]
+Ataque a las fuerzas alemanas.
+[Submission4.Description]
+Hemos aguantado mucho, pero parece que los alemanes están preparando un último ataque, esta vez desde el este.
+
+Sus órdenes:
+- 	Ataque a las fuerzas enemigas procedentes del este y evite que cerquen a las nuestras.
+[Submission4.Success]
+Misión cumplida. El enemigo ha fracasado en su intento de abrir brecha y cercarnos.
+[Submission4.Failed]
+Misión fallida. Sus tropas han sido destruidas.
+[StringTable.Subtitle_01]
+Francia, agosto de 1944
+[StringTable.Reserv]
+Han llegado refuerzos.

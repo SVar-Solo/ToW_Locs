@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+고지의 독일군 포병 중대를 파괴하라. 적의 공격을 모두 격퇴하라.
+[Mission.Description]
+독일군은 바르샤바로 이어지는 도로를 엄호하기 위해 전방 고지에 포병 중대를 배치했다. 그들은 아군이 수도를 증원하지 못하게 하려 한다. 독일군 사령부는 진격하는 제8군의 측면에 대한 타격을 예상하지 못했으므로, 우리에게는 적에게 치명적인 일격을 가할 기회가 있다.    
+
+명령: 
+-	독일군 포병 중대를 파괴하라 
+-	적의 모든 공격에 맞서 방어하라 
+[Mission.Success]
+임무 완수!
+[Mission.Failed]
+임무에 실패했다!
+[Submission_1.Objectives]
+독일군 포병 중대를 파괴하라.
+[Submission_1.Description]
+독일군 포대가 고지에 배치되어 있다. 이 포대의 사격이 아군의 더 이상의 진격을 막고 있다. 
+
+명령:	
+-	적 포대를 파괴하고 고지를 점령하라.
+[Submission_1.Success]
+과제 완료.
+[Submission_1.Failed]
+임무에 실패했다!
+[Submission_2.Objectives]
+독일군 전차와 보병이 발견되었다. 즉시 공격하라!
+[Submission_2.Description]
+아군 정찰대가 보병을 동반한 독일군 전차를 발견했다. 진격을 계속하려면 이들을 제거하는 것이 중요하다. 
+
+명령:
+-	이 새로운 적의 진격을 저지하고 방어 진지를 차지하여 적을 섬멸하라.
+[Submission_2.Success]
+공격을 격퇴했다.
+[Submission_2.Failed]
+임무에 실패했다.
+[Submission_3.Objectives]
+고지에 방어 진지를 차지하고 독일군의 반격을 격퇴하라.
+[Submission_3.Description]
+독일군 포병 중대는 무력화되었으나, 적은 이미 잃어버린 진지를 되찾기 위한 반격을 준비하고 있다.
+
+명령:
+-	고지에 방어 진지를 차지하고 적의 반격을 모두 격퇴하라.
+[Submission_3.Success]
+적의 반격이 실패했다. 잘했다!
+[Submission_3.Failed]
+막심한 손실을 입었다. 우리는 패배했다!
+[StringTable.reserv]
+증원 부대가 전투에 합류했다!

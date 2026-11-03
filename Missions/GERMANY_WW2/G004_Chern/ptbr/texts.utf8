@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+Capture a estação ferroviária de Chern.
+[Mission1.Description]
+Com elementos da 3ª Divisão Panzer, você iniciará uma ofensiva em direção a Chern. Neste setor da frente, os russos construíram posições defensivas bastante fortes. A estação de Chern é uma área particularmente boa para uma ação defensiva, por isso você precisará agir com habilidade e rapidez para garantir a vitória.
+
+Suas ordens: 
+- 	Elimine as tropas inimigas e capture a estação ferroviária de Chern.
+[Mission1.Success]
+A ordem foi cumprida e a estação agora está em nossas mãos! Os russos ofereceram resistência muito feroz, de modo que nosso avanço em direção a Moscou pode ser mais difícil do que o esperado.
+[Mission1.Failed]
+Os russos foram tão obstinados na defesa que conseguiram pôr suas tropas totalmente em debandada! A responsabilidade por este desastre é exclusivamente sua. 
+[Submission_01.Objectives]
+Bombardeie as posições inimigas.
+[Submission_01.Description]
+Antes de lançar sua ofensiva, bombardeie as posições inimigas. 
+[Submission_01.Success]
+A ordem foi cumprida e a barragem foi um sucesso!
+[Submission_01.Failed]
+Sua barragem de artilharia não conseguiu desalojar as posições inimigas. 
+[Submission2_1.Objectives]
+Ataque as tropas inimigas pelo flanco direito.
+[Submission2_1.Description]
+Rompemos o flanco direito da defesa russa! Eles tentam deter nossa ofensiva empregando suas reservas na estação ferroviária. Podem estar se preparando para um contra-ataque, portanto esteja preparado.  
+
+Suas ordens:  
+- 	Ataque as tropas inimigas pelo flanco direito.
+[Submission2_1.Success]
+A ordem foi cumprida e o ataque foi um sucesso! 
+[Submission2_1.Failed]
+Ordens fracassadas. Os russos repeliram seu ataque! 
+[Submission1_1.Objectives]
+Ataque as tropas inimigas na estação de Chern. 
+[Submission1_1.Description]
+A defesa russa foi rompida! Eles tentam deter nossa ofensiva empregando suas reservas na estação ferroviária. Podem estar se preparando para um contra-ataque, portanto esteja preparado.  
+
+Suas ordens: 
+-	 Ataque o inimigo na estação de Chern.
+[Submission1_1.Success]
+Ordens cumpridas, a estação está em nossas mãos!
+[Submission1_1.Failed]
+Ordens fracassadas, você não conseguiu capturar a estação!
+[StringTable.Reserv]
+Chegaram reforços para apoiá-lo.
+[StringTable.Reserv1]
+As reservas estão a caminho.

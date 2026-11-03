@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+Odbudować linie obronne.
+
+[Mission.Description]
+14 maja Niemcy przebili się w okolicach Sedan. Oddziały francuskie nie potrafiły odeprzeć kombinowanych ataków czołgów i bombowców nurkujących. Oddziały belgijskie wycofały się na pozycje obronne do Antwerpii. 1. i 2. korpus brytyjski utrzymują pozycje od Wavre do Louvain, gdzie zaciekle walczy 3. dywizja, dowodzona przez generała Montgomery’ego. Francuska 7. Armia została zmuszona do wycofania się. Nie sposób zatrzymać siły i zaciekłości niemieckiej ofensywy. W rejonie Monthermé Niemcy przebili się przez Maas, rzucając do przodu dwie dywizje pancerne i zajmując umocnione pozycje obronne. Musimy przywrócić linie obronne w tym rejonie. 
+Twoje rozkazy:
+-	Zniszczyć wroga w pobliżu i odbudować linie obronne.
+-	Bronić mostu kolejowego.
+
+[Mission.Success]
+Zadanie wykonane!
+
+Nieprzyjacielowi nie udało się złamać obrony w tym sektorze. To między innymi twoja zasługa. Dobra robota! Jednak niemieckie wojska wyposażone w ciężkie i lekkie czołgi całkowicie rozproszyły nasze oddziały na froncie i zdaje się, że nic nie spowolni ich natarcia na dłużej! Przed tobą jeszcze wiele pracy.
+[Mission.Failed]
+Nie wykonałeś rozkazów!
+
+Siły niemieckie, wykorzystując ciężkie i lekkie czołgi, całkowicie rozbiły i rozproszyły nasze oddziały na froncie. Niemcy nacierają z niesamowitą szybkością! W prawie każdej bitwie byli nie do powstrzymania. 
+[SubMission_01_01.Objectives]
+Zaatakuj i zniszcz nieprzyjacielskie siły uderzeniowe w pobliżu mostu.
+[SubMission_01_01.Description]
+Wojska niemieckie weszły w nasz rejon i przejęły kontrolę nad mostem kolejowym na rzece Maas. Najprawdopodobniej spróbują wykorzystać go do wejścia na tyły naszych sił. Musimy odzyskać most!
+Twoje rozkazy:
+-	Znajdź i zniszcz niemieckie siły uderzeniowe.
+-	Odzyskaj kontrolę nad mostem.
+[SubMission_01_01.Success]
+Zadanie wykonane!
+[SubMission_01_01.Failed]
+Zadanie niewykonane!
+[Submission_01_02.Objectives]
+Znajdź i zniszcz nieprzyjacielskie siły uderzeniowe w pobliżu mostu kolejowego.
+[Submission_01_02.Description]
+
+Niemieckie siły uderzeniowe znalazły się w naszym rejonie i zajęły most kolejowy na rzece Maas. Wywiad wojskowy informuje o kolejnej grupie, która zmierza w kierunku mostu. Trzeba zatrzymać nieprzyjaciela.
+Rozkaz:
+Zniszczyć nieprzyjacielskie grupy uderzeniowe.
+Odbudować i utrzymać obronę mostu.
+[Submission_01_02.Success]
+Zadanie wykonane.
+[Submission_01_02.Failed]
+Nie wykonałeś zadania!
+[Submission_02_01.Objectives]
+Zniszcz nacierającego nieprzyjaciela
+[Submission_02_01.Description]
+Naszym wojskom nie udało się powstrzymać skoordynowanych działań niemieckich czołgów i bombowców nurkujących. Ponieśliśmy ciężkie straty. Nie tylko nie udało nam się odbudować linii obronnych, ale w dodatku pozwoliliśmy niemieckiej grupie uderzeniowej zdobyć most kolejowy. To umożliwiło nieprzyjacielowi manewr oskrzydlający i wystawiło nasze tyły na kolejne ataki.
+Twoje rozkazy:
+-	Zbuduj pozycje obronne.
+-	Znajdź i zniszcz jednostki nieprzyjaciela w rejonie działań.
+[Submission_02_01.Success]
+Zadanie wykonane! Dobra robota!
+[Submission_02_01.Failed]
+Zadanie niewykonane!
+[Submission_02_02.Objectives]
+Znajdź i zniszcz napotkane jednostki nieprzyjaciela.
+[Submission_02_02.Description]
+Nasze wojska zdołały odbudować linie obronne i zniszczyły niemiecką grupę uderzeniową. Wywiad informuje, że nieprzyjaciel próbuje przełamać obronę w dwóch miejscach. Spodziewaj się ataków w Montermé i w pobliżu mostu kolejowego na Maas. 
+Twoje rozkazy:
+-	Zająć i utrzymać pozycje obronne.
+-	Wyeliminować wszystkie nacierające nieprzyjacielskie jednostki.
+[Submission_02_02.Success]
+Zadanie wykonane!
+[Submission_02_02.Failed]
+Nie wykonałeś zadania!
+[Submission_02_03.Objectives]
+Zniszcz nacierającego wroga.
+[Submission_02_03.Description]
+Naszym wojskom udało się odbudować linię obrony, ale niemiecka grupa uderzeniowa wylądowała w pobliżu mostu kolejowego i zajęła go. Mogła dzięki temu wejść na tyły i zagrozić naszym oddziałom. Wywiad informuje, że nieprzyjaciel próbuje przełamać obronę w dwóch miejscach. Spodziewaj się ataków w Montermé i w pobliżu mostu kolejowego na Maas. Wróg aktywnie koordynuje działania czołgów i bombowców nurkujących. 
+Twoje rozkazy:
+-	Ustanowić pozycje obronne. 
+-	Zlikwidować wroga na wszystkich kierunkach. 
+[Submission_02_03.Success]
+Zadanie wykonane.
+[Submission_02_03.Failed]
+Zadanie niewykonane.
+[Submission_02_04.Objectives]
+Zniszcz nacierającego wroga.
+[Submission_02_04.Description]
+Nasze oddziały nie mogą sprostać skoordynowanym działaniom czołgów i bombowców nurkujących. Ponosimy poważne straty na wszystkich pozycjach. Jednak udało nam się rozbić niemiecki zespół uderzeniowy w rejonie mostu kolejowego. Wywiad informuje, że nieprzyjaciel próbuje przełamać obronę w dwóch miejscach. Spodziewaj się ataków w Montermé i w pobliżu mostu kolejowego na Maas.
+Twoje rozkazy:
+-	Ustanowić pozycje obronne. 
+-	Zlikwidować wroga na wszystkich kierunkach. 
+[Submission_02_04.Success]
+Zadanie wykonane.
+[Submission_02_04.Failed]
+Zadanie niewykonane.
+[StringTable.Fr_Support]
+Przybyły posiłki!
+[StringTable.Support]
+Przybyły posiłki!
+[StringTable.Subtitle_01]
+Francja 1940

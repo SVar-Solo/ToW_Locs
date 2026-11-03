@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Przerwijcie natarcie wojsk wroga w kierunku Dubrawy i Syrcewa.
+[Mission.Description]
+Wraz z baterią artylerii przeciwczołgowej i plutonem strzelców przeciwpancernych utrzymajcie broniony teren. Specjalnym priorytetem jest utrzymanie pozycji na prawej flance i w Syrcewie. 
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Wróg przerwał linię obrony, nasze wojska się wycofują.
+[Submission_1.Objectives]
+Nie pozwólcie wrogowi zniszczyć umieszczonej w wiosce baterii obrony przeciwlotniczej. 
+[Submission_1.Success]
+Próba spenetrowania prawej flanki została udaremniona.
+[Submission_1.Failed]
+Bateria obrony przeciwlotniczej została zniszczona, wróg naciera na prawą flankę.
+[Submission_2.Objectives]
+Za wszelką cenę utrzymajcie pozycje w pobliżu Syrcewa.
+[Submission_2.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Submission_2.Failed]
+Nasze wojska wycofują się, atakowane przez przeważające siły wroga.
+[Submission_3.Objectives]
+Wycofajcie wojska na pozycje w Syrcewie. Nie pozwólcie nieprzyjacielowi zdobyć wioski.
+[Submission_3.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Submission_3.Failed]
+Syrcewo zostało przejęte przez wroga, nasze wojska się wycofują.
+[StringTable.SPG_InCome]
+Działa szturmowe z 1440. Pułku Artylerii Samobieżnej są teraz pod waszą komendą.
+[StringTable.Inf_InCome]
+Jednostka piechoty z 272. Pułku Gwardii jest teraz pod waszą komendą. 
+[StringTable.Tanks_InCome]
+Zgrupowanie czołgów z 1. Brygady Zmechanizowanej jest teraz pod waszą komendą. 
+[StringTable.ChangeArmy]
+Sąsiednia jednostka została oddana pod waszą komendę.
+
+[StringTable.SPG]
+Działa szturmowe z 1440. Pułku Artylerii Samobieżnej
+[StringTable.TANKS]
+Czołgi z 1. Brygady Zmechanizowanej
+[StringTable.INFANTRY]
+Piechota z 272. Pułku Piechoty Gwardii
+[StringTable.Infantry_InCome]
+Jednostka piechoty z 272. Pułku Gwardii jest teraz pod waszą komendą.
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

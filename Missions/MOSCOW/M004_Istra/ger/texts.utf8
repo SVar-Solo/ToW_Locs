@@ -1,0 +1,26 @@
+﻿[Submission1.Objectives]
+Schlagen Sie den feindlichen Angriff zurück.
+[Submission1.Description]
+Die Hauptangriffe der feindlichen Angriffsgruppe, die bei Volokolamsk operiert zielten auf Solnechnogorsk und das Zentrum von Istra. Die Deutschen sind bereits nahe an die Gegend zwischen dem Istra Wasserreservoir und dem Istra Fluss gelangt. An einigen Stellen konnten deutsche Truppen bereits auf das Ostufer des Flusses übersetzen.
+
+Sie müssen den feindlichen Angriff eindämmen und die Zugänge zum Zentrum der Stadt unter Kontrolle behalten. 
+
+Ihre Befehle lauten:
+- Schlagen Sie den feindlichen Angriff zurück.
+[Submission1.Success]
+Die Befehle des Oberkommandos wurden erfüllt! Der Angriff der Deutschen Streitkräfte wurde zurückgeschlagen.
+[Submission1.Failed]
+Die Deutschen sind durch unsere Verteidigungsstellungen durchgebrochen und haben die Stadt eingenommen! Sie haben die Befehle des Oberkommandos nicht erfüllt!
+[Submission2.Objectives]
+Schlagen Sie die feindlichen Flankenangriffe zurück.
+[Submission2.Description]
+Feindliche Einheiten rücken aus dem Norden und Süden auf das Dorf vor, um uns in die Flanken zu fallen. Sie müssen diese Flankenangriffe abwehren.
+
+Ihre Befehle lauten:
+- Schlagen Sie die feindlichen Flankenangriffe zurück.
+[Submission2.Success]
+Die Befehle des Oberkommandos wurden erfüllt! Sie haben die feindlichen Angriffe zurückgeschlagen.
+[Submission2.Failed]
+Ihre Truppen wurden geschlagen! Sie haben Ihre Aufgabe nicht erfüllt!
+[StringTable.Retreat]
+Die Gruppe auf der linken Flanke flieht vom Schlachtfeld!

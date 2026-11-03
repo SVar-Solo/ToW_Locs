@@ -1,0 +1,26 @@
+﻿surface.GROUND	ЗЕМЛЯ
+surface.ASPHALT	АСФАЛЬТ
+surface.SAND	ПЕСОК
+surface.SANDROAD	ПЕСЧАНАЯ ДОРОГА
+surface.SNOW	СНЕГ
+surface.SNOWROAD	ЗАСНЕЖЕННАЯ ДОРОГА
+surface.FIELD	ПОЛЕ
+surface.TILLAGE	ПАШНЯ
+surface.GRASS	ТРАВА
+surface.CLAY	ГЛИНА
+surface.ROCK	КАМЕНЬ
+surface.WATER	ВОДА
+surface.SKY	НЕБО
+surface.STEEL	СТАЛЬ
+surface.BRICK	КИРПИЧ
+surface.CONCRETE	БЕТОН
+surface.WOOD	ДЕРЕВО
+surface.EQUIPMENT	ОБОРУДОВАНИЕ
+surface.GASOLINE	БЕНЗИН
+surface.BODY	ТЕЛО
+surface.GLASS	СТЕКЛО
+surface.LOAM	СУГЛИНОК
+surface.FABRIC	ТКАНЬ
+surface.STONE	КАМЕНЬ
+surface.BOARD	ДОСКА
+surface.SWAMP	БОЛОТО

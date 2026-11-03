@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+돌파를 저지하라
+[Mission.Success]
+적은 고개를 돌파하지 못했다!
+[Mission.Failed]
+후퇴하라! 적이 고개를 돌파했다!
+[Mission.Description]
+독일군 집단이 카세린 고개를 돌파하는 것을 저지하라
+[Submission1.Objectives]
+돌파 가능 축선을 따라 적의 공격을 무디게 하라.
+[Submission1.Description]
+워터스 중령! 독일군이 카세린 고개를 돌파하지 못하게 해야 한다.
+[Submission1.Success]
+명령을 완수했다! 적이 후퇴하고 있다!
+[Submission1.Failed]
+아군이 실패했다! 적이 계속 진격하고 있다!
+[Submission2.Success]
+영국군 전차가 도착했다!
+[Submission2.Description]
+영국군 전차가 도착할 때까지 버텨라
+[Submission2.Objectives]
+버텨라
+[Submission2.Failed]
+우리는 실패했다! 증원 부대가 도착할 시간이 없었다!
+[Submission3.Objectives]
+적 사격 관측병을 찾아 파괴하라
+[Submission3.Description]
+박격포 중대가 제1보병사단의 진지에 사격하고 있다. 적 포병 관측병의 위치를 찾아 제거하라.
+[Submission3.Success]
+적 관측병을 제거했다!
+[Submission3.Failed]
+적 관측병을 제거하지 못했다!

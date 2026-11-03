@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Pozbądź się obrony wroga w rejonie Nowosiłowki.
+[Mission.Description]
+Wycofujące się jednostki Rosjan wraz ze zgrupowaniami czołgów i artylerii przeciwczołgowej przeszły do defensywy w sektorze na południe od Nowosiłowki i w samej wiosce. Flanki linii obronnych wroga są pokryte polami minowymi. Grupa bojowa ma rozkaz ataku na Nowosiłowkę, przebicia się przez obronę wroga i przejęcia wioski.
+[Mission.Success]
+Misja ukończona, Nowosiłowka została zajęta.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazów. Nieprzyjaciel jest zbyt silny! 
+[Submission_1.Objectives]
+Zniszcz obronę wroga w wiosce.
+[Submission_1.Success]
+Nieprzyjacielska obrona została zniszczona. Pozycje zostały zajęte.
+[Submission_1.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie!
+[Submission_2.Objectives]
+Nacieraj w kierunku północnym. Zajmij południową część Nowosiłowki.
+[Submission_2.Success]
+Południowa część wioski została zajęta.
+[Submission_2.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[Submission_3.Objectives]
+Przejmij pozycje wroga na północny zachód od Nowosiłowki.
+[Submission_3.Success]
+Zadanie wykonane. Siły wroga wycofały się na północny zachód.
+[Submission_3.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[Submission_4.Objectives]
+Odeprzyj kontratak rosyjskich czołgów!
+[Submission_4.Success]
+Nieprzyjacielskie czołgi zostały zniszczone!
+[Submission_4.Failed]
+Nasze siły wycofują się pod naporem wroga.
+[StringTable.First_support]
+Grupa czołgów z rezerw dywizji jest teraz pod twoją komendą.
+[StringTable.Second_support]
+Jednostka piechoty i dział samobieżnych jest teraz pod twoją komendą.
+
+[StringTable.Inf]
+Piechota
+[StringTable.Tanks]
+Czołgi
+[StringTable.SPG]
+Działa samobieżne
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

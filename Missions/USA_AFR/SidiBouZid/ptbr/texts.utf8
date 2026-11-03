@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+Esmague o inimigo
+[Mission.Description]
+Tenente-Coronel Waters! O senhor deve realizar uma ofensiva para esmagar o inimigo na aldeia de Sidi Bou Zid.
+[Mission.Success]
+A ofensiva foi um sucesso! O inimigo está fugindo!
+[Mission.Failed]
+Recuar! Nossas tropas foram derrotadas!
+[Submission1.Objectives]
+Liberte a aldeia
+[Submission1.Description]
+Liberte a aldeia das tropas inimigas.
+[Submission1.Success]
+A aldeia foi libertada dos invasores.
+[Submission1.Failed]
+Não conseguimos desalojar o inimigo da aldeia!
+[Submission2.Objectives]
+Restabeleça o contato
+[Submission2.Description]
+Envie uma unidade de infantaria à posição dos obuseiros para restabelecer o contato.
+[Submission2.Success]
+O contato foi restabelecido.
+[Submission2.Failed]
+Não conseguimos restabelecer o contato com a artilharia!
+[Submission3.Objectives]
+Proteja a artilharia
+[Submission3.Description]
+Impeça o inimigo de capturar a artilharia.
+[Submission3.Success]
+O inimigo não conseguiu capturar a artilharia!
+[Submission3.Failed]
+O inimigo capturou a artilharia!
+[Submission4.Objectives]
+Capture a artilharia
+[Submission4.Description]
+Retome a posição da artilharia!
+[Submission4.Success]
+A artilharia é nossa de novo!
+[Submission4.Failed]
+O inimigo ainda controla a artilharia!
+[Submission5.Objectives]
+Destrua a emboscada
+[Submission5.Description]
+Destrua a emboscada
+[Submission5.Success]
+A emboscada foi destruída!
+[Submission5.Failed]
+A emboscada não foi destruída!
+[Submission8.Objectives]
+Destrua as forças inimigas que avançam
+[Submission8.Description]
+O inimigo lançou uma contraofensiva para embotar nosso ataque em Sidi Bou Zid. Destrua as forças inimigas que avançam!
+[Submission8.Success]
+As forças inimigas que avançavam foram destruídas!
+[Submission8.Failed]
+Nossas tropas foram esmagadas pelas forças inimigas que avançam!
+[StringTable.Zasada]
+Uma emboscada.
+[Submission6.Objectives]
+Destrua os tanques
+[Submission6.Description]
+Destrua os tanques inimigos que avançam.
+[Submission6.Success]
+Os tanques inimigos foram destruídos!
+[Submission6.Failed]
+Os tanques inimigos não foram destruídos!
+[Submission7.Objectives]
+Destrua os tanques inimigos
+[Submission7.Description]
+Uma unidade blindada inimiga foi avistada ao sul. Destrua-a o mais rápido possível.
+[Submission7.Success]
+A unidade blindada inimiga foi derrotada!
+[Submission7.Failed]
+A unidade blindada inimiga não foi derrotada!
+[StringTable.human]
+Infantaria
+[StringTable.spg]
+Canhões Autopropulsados

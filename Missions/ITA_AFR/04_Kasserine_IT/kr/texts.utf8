@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+적을 몰아내라
+[Submission_1.Description]
+적이 작은 산간 마을 주변에 방어 시설을 구축하여 통로를 장악하고 있다. 적을 진지에서 몰아내라.
+[Submission_01.Success]
+임무 완수.
+[Submission_01.Failed]
+임무 실패.
+[Mission.Objectives]
+산길을 소탕하라
+[Mission.Description]
+귀관의 부대에 산길과 인접 지역을 소탕하는 임무가 부여되었다.
+[NewSubmission.Success]
+임무 완수.
+[NewSubmission.Failed]
+임무 실패.
+[Submission_2.Objectives]
+거주지를 소탕하라
+[Submission_2.Description]
+도로 교차점에 배치된 미군의 측면 방어 시설이 더 이상의 진격을 가로막고 있다. 도로를 뚫기 위해 거주지에서 적을 소탕하라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+임무 실패.

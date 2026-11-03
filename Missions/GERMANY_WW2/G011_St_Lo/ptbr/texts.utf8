@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Organize suas defesas nos arredores de Saint-Lô. Você deve conseguir emboscar o inimigo quando ele se aproximar da cidade. 
+[Submission_1.Description]
+Organize suas defesas nos arredores de Saint-Lô. Você tem à disposição um esquadrão de Fallschirmjäger de elite. Use-o com sabedoria.
+
+Suas ordens: 
+- 	Embosque as forças americanas que se aproximam.
+[Submission_1.Success]
+O grupo de reconhecimento americano foi destruído.
+[Submission_1.Failed]
+A emboscada fracassou!
+[Submission_2.Objectives]
+Repila o ataque inimigo usando todas as forças à sua disposição.
+[Submission_2.Description]
+As forças americanas tentam estabelecer uma cabeça de praia na Normandia; Saint-Lô é a chave. Devemos impedi-las de tomar esta cidade vital.
+
+Suas ordens: 
+-	Repila os ataques das forças dos EUA por todos os meios necessários.
+[Submission_2.Success]
+Sucesso! Você frustrou o ataque americano!
+[Submission_2.Failed]
+Você perdeu, Comandante. Os americanos agora avançam e nossos planos de lançá-los de volta ao mar talvez estejam perdidos para sempre.
+[Submission_3.Objectives]
+Mantenha esta posição a todo custo.
+[Submission_3.Description]
+Os americanos são duros e obstinados, mas não se pode permitir que tomem Saint-Lô, e só você pode detê-los!
+
+Suas ordens: 
+- 	Mantenha suas posições e detenha o avanço americano.
+[Submission_3.Success]
+Você resistiu. Devemos continuar a deter os americanos em cada oportunidade.
+[Submission_3.Failed]
+Você perdeu. Não podemos nos dar ao luxo de derrotas como esta, Comandante.
+[Mission.Objectives]
+Mantenha suas posições nas colinas com vista para Saint-Lô. 
+[Mission.Description]
+A cidade de Saint-Lô tem importância estratégica tanto para o exército alemão quanto para os americanos. Perder esta cidade significa, na prática, perder a chance de lançar os americanos de volta ao mar. Há duas colinas bem nos arredores da cidade, que devem oferecer posições defensivas excepcionais para enfrentar os americanos que se aproximam. Defenda a cidade, Comandante; o destino da Alemanha depende disso!
+
+Suas ordens:
+- 	Posicione suas forças nas colinas e em torno da fazenda e detenha os americanos a todo custo!
+[Mission.Success]
+O povo alemão não esquecerá sua gloriosa vitória de hoje.
+[Mission.Failed]
+Por causa do seu fracasso hoje, as forças americanas agora correm para ocupar Saint-Lô e nossas chances de vitória diminuíram.
+[StringTable.tank_reserv]
+Unidades de tanques e de artilharia foram designadas ao seu comando. 
+[StringTable.reserv]
+Tanques e infantaria adicionais estão agora sob seu comando.

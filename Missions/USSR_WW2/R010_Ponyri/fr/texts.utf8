@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+Tenir jusqu’à ce que les renforts arrivent. Détruire autant d’unités ennemies que possible.
+[Submission_1.Description]
+
+Vos ordres sont :
+- 	Tenir jusqu’à ce que des renforts arrivent. 
+- 	Détruire autant d’unités ennemies que possible. 
+[Submission_1.Success]
+Des renforts sont arrivés !
+[Submission_1.Failed]
+Défaite ! Vous n’avez pas été capable de tenir assez longtemps.
+[Submission_2.Objectives]
+Tenir votre position.
+[Submission_2.Description]
+La gare de Ponyri est un point central de notre défense dans la partie nord du saillant de Koursk Conscient de cela, le commandement allemand a engagé ici certains de ses blindés les plus lourds et de l’artillerie automotrice. 
+
+Vos ordres :
+- 	Garder votre position à la gare de Ponyri. 
+[Submission_2.Success]
+Bon travail commandant. Vous avez tenu bon contre des forces supérieures en nombre.
+[Submission_2.Failed]
+Vous avez trahi la Mère Patrie ! Vos troupes ont été détruites.
+[Mission.Objectives]
+Arrêter l’avance allemande. 
+[Mission.Description]
+Sur le front nord du saillant de Koursk, les Allemands attaquent puissamment près la gare de Ponyri. 
+
+Vos ordres : 
+- 	Empêcher une percée sur la ligne de front près de la gare. 
+[Mission.Success]
+Mission accomplie. Les Allemands ne sont pas parvenus à percer nos lignes. 
+[Mission.Failed]
+Vous n’êtes pas parvenu à empêcher les Allemands de percer. Ils avancent maintenant directement vers Koursk.
+[StringTable.T34_Income]
+Des renforts sont arrivés.
+[StringTable.SPG_reserv]
+Des renforts sont arrivés. 
+[StringTable.Inf_reserv]
+De l’infanterie de la réserve est à votre disposition.

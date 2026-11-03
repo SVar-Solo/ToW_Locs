@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Occupez et défendez le village
+[Submission_1.Description]
+Prenez la localité et organisez sa défense.
+[Submission_01.Success]
+Mission accomplie.
+[Submission_01.Failed]
+Mission échouée.
+[Mission.Objectives]
+Détruisez l’ennemi
+[Mission.Description]
+Vous devez tenir bon face aux unités ennemies qui avancent, repousser leurs attaques et contre-attaquer. Pour empêcher les forces ennemies de se regrouper, nettoyez le champ de bataille des unités ennemies battues mais non entièrement détruites.
+[NewSubmission.Success]
+Mission accomplie.
+[NewSubmission.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Nettoyez la zone
+[Submission_2.Description]
+Détruisez ou dispersez les unités ennemies qui attaquent, et nettoyez le champ de bataille de leurs restes.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.

@@ -1,0 +1,39 @@
+﻿[Mission_01.Objectives]
+오시노프카, 그랴다, 자레치예를 해방하라.
+[Mission.Description]
+오시노프카, 그랴다, 자레치예를 해방하라.
+일대의 적 병력을 격멸하라.
+[Mission_01.Success]
+임무 완수.
+[Mission_01.Failed]
+임무 실패.
+[Mission.Objectives]
+오시노프카, 그랴다, 자레치예를 해방하라. 일대의 적 병력을 격멸하라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission1.Objectives]
+오시노프카의 적 병력을 소탕하라.
+[Submission1.Description]
+오시노프카의 적 병력을 소탕하라.
+[Submission1.Success]
+임무 완수.
+[Submission1.Failed]
+임무 실패.
+[Submission2.Objectives]
+그랴다를 해방하라.
+[Submission2.Description]
+그랴다를 해방하라.
+[Submission2.Success]
+임무 완수.
+[Submission2.Failed]
+임무 실패.
+[Submission3.Objectives]
+자레치예를 해방하라.
+[Submission3.Description]
+자레치예를 해방하라.
+[Submission3.Success]
+임무 완수.
+[Submission3.Failed]
+임무 실패.

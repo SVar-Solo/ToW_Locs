@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Richten Sie Ihre Verteidigungslinien am Rande von Saint-Lo ein. Sie sollten in der Lage sein dem Feind einen Hinterhalt zu legen, wenn er sich der Stadt nähert. 
+[Submission_1.Description]
+Richten Sie Ihre Verteidigungslinien am Rande von Saint-Lo ein. Ihnen steht eine Gruppe Elite Fallschirmjäger zur Verfügung. Benutzen Sie sie mit Bedacht.
+
+Ihre Befehle: 
+-	 Legen Sie einen Hinterhalt für die anrückenden amerikanischen Einheiten.
+[Submission_1.Success]
+Die amerikanische Aufklärungspatrouille wurde zerstört.
+[Submission_1.Failed]
+Der Hinterhalt ist gescheitert!
+[Submission_2.Objectives]
+Schlagen Sie den feindlichen Angriff mit allen zur Verfügung stehenden Einheiten zurück.
+[Submission_2.Description]
+Die amerikanischen Streitkräfte versuchen ihren Brückenkopf in der Normandie zu festigen und Saint-Lo ist der Schlüssel dazu. Wir müssen verhindern, dass sie diese wichtige Stadt einnehmen können.
+
+Ihre Befehle: 
+-	 Schlagen Sie die Angriffe durch die U.S. Streitkräfte zurück mit allen möglichen Mitteln.
+[Submission_2.Success]
+Erfolg! Sie haben den Amerikanischen Angriff abgewehrt!
+[Submission_2.Failed]
+Sie haben verloren. Die Amerikaner rücken weiter vor und unsere Pläne sie in die See zurückzudrängen sind vielleicht für immer verloren.
+[Submission_3.Objectives]
+Halten Sie diese Stellung um jeden Preis.
+[Submission_3.Description]
+Die Amerikaner sind hart im nehmen und stur, aber sie dürfen Saint-Lo nicht einnehmen, und nur Sie können sie aufhalten!
+
+Ihre Befehle: 
+-	 Halten Sie Ihre Stellung und stoppen Sie den Amerikanischen Vorstoss.
+[Submission_3.Success]
+Sie haben ausgehalten. Wir müssen die Amerikaner bei jeder sich bietenden Gelegenheit aufhalten.
+[Submission_3.Failed]
+Sie haben verloren. Wir können uns solche Niederlagen nicht leisten.
+[Mission.Objectives]
+Halten Sie Ihre Stellung auf den Hügeln um Saint-Lo. 
+[Mission.Description]
+Die Stadt Saint-Lo ist von wichtiger strategischer Bedeutung sowohl für die deutsche Armee als auch die Amerikaner. Der Verlust dieser Stadt bedeutet den Verlust der letzten Chance, die Amerikaner in die See zurückzudrängen. Es befinden sich zwei Hügel unweit der Stadt, die eine hervorragende Verteidigungsstellung bieten, um die anrückenden Amerikaner anzugreifen. Verteidigen Sie die Stadt, Kommendant; das Schicksal Deutschlands hängt davon ab!
+
+Ihre Befehle:
+-	 Stellen Sie Ihre Einheiten auf den Hügeln auf und um den Bauernhof auf, und halten Sie die Amerikaner um jeden Preis auf!
+[Mission.Success]
+Die Deutschen werden Ihren ehrenvollen Sieg heute niemals vergessen.
+[Mission.Failed]
+Wegen Ihrer Niederlage können die Amerikanischen Truppen jetzt Saint-Lo besetzen und die Chancen für unseren Sieg haben sich deutlich verschlechtert.
+[StringTable.tank_reserv]
+Panzer und Artillerie wurden Ihrem Kommando unterstellt. 
+[StringTable.reserv]
+Zusätzliche Panzer und Infanterie unterstehen jetzt Ihrem Befehl.

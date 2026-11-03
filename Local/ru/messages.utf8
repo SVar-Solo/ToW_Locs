@@ -1,0 +1,34 @@
+﻿ai_messages.Command_Incomplete	Команда не может быть выполнена
+ai_messages.Soldier_Death	Убит
+ai_messages.Soldier_Under_Attack	Атакован
+ai_messages.Soldier_No_Ammo	Закончились боеприпасы
+ai_messages.Soldier_No_Weapon	Нет оружия
+ai_messages.Soldier_No_Point_In_LOF	Не может прицелиться
+ai_messages.Soldier_In_Panic	Паникует
+ai_messages.Vehicle_Death	Уничтожен
+ai_messages.Vehicle_No_Crew	Нет экипажа
+ai_messages.Artillery_Death	Артиллерия уничтожена
+ai_messages.Artillery_No_Ammo	Закончились боеприпасы
+ai_messages.Artillery_No_Weapon	Орудие уничтожено
+ai_messages.Artillery_No_Point_In_LOF	Не может прицелиться
+ai_messages.Tankman_Under_Attack	Атакован
+ai_messages.Tankman_No_Ammo	Закончились боеприпасы
+ai_messages.Tankman_No_Weapon	Орудие уничтожено
+ai_messages.Tankman_Damage_Engine	Ходовая выведена из строя
+ai_messages.Tankman_Blocked	Путь заблокирован
+ai_messages.Tankman_In_Panic	Паникует
+ai_messages.Tankman_No_Point_In_LOF	Не может прицелиться
+ai_messages.Driver_Damage_Engine	Ходовая выведена из строя
+ai_messages.Driver_Blocked	Путь заблокирован
+ai_messages.Shooter_Not_Skilled	Неопытный наводчик
+ai_messages.Driver_Not_Skilled	Неопытный водитель
+ai_messages.Tankman_Stucked	Увяз
+ai_messages.Artillery_Stucked	Орудие застряло
+ai_messages.Mine_Defuse	Мина обезврежена
+ai_messages.Mine_Place	Мина установлена
+ai_messages.Mine_Detected	Обнаружена мина
+ai_messages.Repair_Started	Ремонт начат
+ai_messages.Repair_Finished	Ремонт завершен
+ai_messages.Hold_Captive	Сдался в плен
+ai_messages.Free_Captive	Освобожден из плена
+ai_messages.Panic_Message	Паникует

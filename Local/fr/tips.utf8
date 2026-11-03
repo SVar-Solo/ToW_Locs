@@ -1,0 +1,84 @@
+﻿[TIP_DESC.1]
+Une fois la mission chargée, vous entrez en phase de déploiement. Elle vous permet de placer vos unités dans la zone de déploiement, de donner les premiers ordres et d'établir certaines défenses si nécessaire. Vous pouvez ainsi organiser une défense optimale ou préparer votre attaque avant le début de la bataille.
+
+[TIP_DESC.2]
+Lorsque vous donnez un ordre, vous pouvez orienter vos unités dans différentes directions et modifier leur densité de formation. Pour cela, après avoir cliqué sur l'icône de l'ordre, maintenez le bouton droit de la souris enfoncé et déplacez la souris, puis choisissez l'orientation voulue et l'espacement entre les unités.
+
+[TIP_DESC.3]
+Les équipages de véhicules ne peuvent généralement pas utiliser leurs appareils de visée en se déplaçant ou en faisant pivoter leur tourelle.
+
+[TIP_DESC.4]
+Après une bataille victorieuse, vous pouvez améliorer la Précision, la Reconnaissance, la Conduite et le Pointage des soldats qui se sont distingués au combat. Les boutons correspondants permettent de répartir l'expérience automatiquement entre tous vos soldats ou d'attribuer des points au soldat de votre choix. Les décorations et les promotions influent sur le Commandement d'un soldat. L'intelligence d'un soldat ne peut pas évoluer ; elle détermine la vitesse à laquelle il gagne de l'expérience.
+
+[TIP_DESC.5]
+Les tirs et les mouvements révèlent les unités. L'infanterie est mieux dissimulée dans les tranchées, les bâtiments et lorsqu'elle est couchée dans l'herbe. Plus la compétence de Reconnaissance d'un soldat est élevée, plus il est difficile à repérer et plus il détecte facilement les troupes ennemies.
+
+[TIP_DESC.6]
+Avec l'ordre « Tir de zone » {hkey:groundattack}, vous pouvez cibler une zone plutôt qu'un point unique. Pour cela, déplacez la souris en maintenant le bouton droit enfoncé. Vous pouvez aussi définir un point de visée précis sur n'importe quel objet (un marqueur jaune fixe s'affiche) ; en mode « attaque » {hkey:attack}, le marqueur est rouge et suit l'objet lorsqu'il se déplace.
+
+[TIP_DESC.7]
+Vous pouvez activer rapidement le mode « Cessez le feu » pour les unités sélectionnées avec {hkey:firemode}. La restriction de mouvement s'active avec {hkey:actionmode}.
+
+[TIP_DESC.8]
+Pour ramasser les armes d'un soldat tombé, approchez-vous de son corps, cliquez sur l'icône de pistolet en haut de la barre d'informations principale {hkey:inventory}, puis sélectionnez les objets à ramasser ou à déposer. Les soldats ramassent aussi automatiquement les meilleures armes et munitions.
+
+[TIP_DESC.9]
+Les appareils optiques des véhicules peuvent être endommagés. Vous pouvez consulter leur état dans l'infobulle en survolant un membre de l'équipage avec le curseur.
+
+[TIP_DESC.10]
+En mode Embuscade {hkey:ambush}, vos unités, à l'exception de l'infanterie, n'ouvrent pas le feu sur une cible ennemie située à plus de 500 mètres. L'infanterie cherche un abri dans un rayon de 5 mètres et n'ouvre pas le feu sur des cibles situées à plus de 100 mètres.
+
+[TIP_DESC.11]
+Lorsque le libre mouvement est autorisé en mode « Défense », l'infanterie peut chercher les abris les plus proches dans un rayon de 5 mètres et adopter une posture de tir plus adaptée.
+
+[TIP_DESC.12]
+L'infanterie peut déminer dans un rayon de 2 mètres autour d'elle. Les sapeurs peuvent poser des mines, et leurs chances de détecter et de désamorcer une mine sans danger sont bien supérieures à celles de l'infanterie ordinaire. Les mines peuvent aussi exploser sous l'effet d'obus tombant à proximité.
+
+[TIP_DESC.13]
+L'onde de choc d'une explosion est atténuée par les obstacles qu'elle rencontre. Chaque obstacle (plaque de blindage de pièce, tranchée, mur, etc.) réduit les dégâts de moitié.
+Le champ d'éclats se répartit de manière inégale par rapport à l'axe de chute du projectile. Les dégâts d'éclats sont également bloqués par les obstacles ou par un combattant placé sur leur trajectoire.
+
+[TIP_DESC.14]
+Vous pouvez interdire à une unité d'utiliser une arme ou une munition en cliquant avec le bouton droit sur l'icône correspondante dans l'interface des armes. Un clic gauche force l'utilisation d'une arme ou d'une munition précise. Dans ce cas, l'ordre « Pivoter » {hkey:defend} ne s'appliquera plus à toute l'unité, mais uniquement à cette arme.
+
+[TIP_DESC.15]
+Les véhicules équipés de mortiers fumigènes peuvent tirer instantanément une grenade fumigène en cliquant avec le bouton droit sur le bouton « Écran de fumée » {hkey:smokecloudfast}, à condition que le poste de chef de char soit occupé.
+
+[TIP_DESC.16]
+La compétence du tireur n'influe pas sur la précision des mitrailleuses, y compris celle de caisse, mais elle influe sur celle de la mitrailleuse coaxiale.
+
+[TIP_DESC.17]
+Les équipages de chars peuvent réparer les chenilles et les roues endommagées des véhicules.
+
+[TIP_DESC.18]
+Les chars peuvent tracter des pièces d'artillerie immobiles et transporter des troupes.
+
+[TIP_DESC.19]
+La vitesse d'un véhicule dépend de son propre poids, du poids tracté, de la puissance du moteur, des caractéristiques de la boîte de vitesses, de la pente et du type de surface. Planifiez l'itinéraire optimal en tenant compte des montées et de la nature du sol.
+
+[TIP_DESC.20]
+Un fantassin dans une tranchée ne meurt pas lorsqu'un char passe au-dessus de lui.
+
+[TIP_DESC.21]
+La cime des arbres abattus peut aider à camoufler votre véhicule.
+
+[TIP_DESC.22]
+Lorsque vous choisissez une position de tir, tenez compte de la pente du terrain, faute de quoi l'unité ne pourra pas pointer son canon sur la cible. La ligne de visée et la ligne de tir ne coïncident généralement pas : une unité ne peut donc pas toujours tirer, même sur une cible observée.
+
+[TIP_DESC.23]
+De nombreuses unités sont capables de tir indirect en mode « Tir de zone » {hkey:groundattack}. Utilisez-le pour neutraliser une position ennemie présumée.
+
+[TIP_DESC.24]
+Utilisez si nécessaire l'ordre « Retraite » {hkey:retreat} pour retirer un char du combat sans exposer ses flancs et son arrière, faiblement protégés.
+
+[TIP_DESC.25]
+À chaque tir sur une cible immobile, l'unité affine progressivement son pointage et la dispersion des tirs diminue. Un changement de cible ou de position de l'unité annule ce réglage.
+
+[TIP_DESC.26]
+Un seul soldat peut faire pivoter une mitrailleuse lourde ou un mortier, mais il en faut deux pour les déplacer. Les pièces plus grosses nécessitent au moins deux soldats pour pivoter et se déplacer.
+
+[TIP_DESC.27]
+Pour modifier le champ de vision de la caméra (zoom), utilisez CTRL + molette de la souris. Pour accélérer le déplacement de la caméra, maintenez MAJ. Les jumelles s'activent avec {hkey:binocularview}. Pour passer rapidement du mode caméra libre au mode centré, appuyez sur {hkey:cameratypeswitch}. Vous pouvez lier la caméra à une unité avec {hkey:bindcamera} ou {hkey:linkcamera}.
+
+[TIP_DESC.28]
+En activant le mode « Infos de dégâts » {hkey:SwitchDamageMessagesMode}, les vecteurs des impacts, perforations, ricochets et échecs de projectiles s'affichent sur les véhicules. Aux niveaux de difficulté facile et moyen, de courts messages apparaissent près des unités ennemies lorsqu'elles sont endommagées.

@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+미군이 2번 지점 방향에서 오고 있다. 우리에게 도달하기 전에 공격하라! 다시 한번 말한다. 지형을 강력한 아군으로 삼아라! 행운을 빈다!
+[Mission.Success]
+철수가 성공적으로 완료되었다!
+[Mission.Failed]
+모든 '티거'가 격파되거나 파괴되었고, 철수가 끝나기 전에 적이 마을로 돌파했다. 임무 실패!
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+적의 첫 공격이 무너졌으나, 3번 지점에서 예비대를 투입하고 있다. 버텨라!
+[StringTable.IntroSubtitle1]
+게르하르트 소령이 퀴벨바겐을 타고 '티거' 지휘관들에게:
+[StringTable.IntroSubtitle2]
+적은 매우 강력하다, 그러나...
+[StringTable.IntroSubtitle3]
+다시 한번 상기시키겠다...
+[StringTable.IntroSubtitle4]
+티거는 원거리 공격에 거의 불사신이다.
+[StringTable.IntroSubtitle5]
+지형이 장거리 사격을 가능하게 해 준다...
+[StringTable.IntroSubtitle6]
+이것이 우리의 비장의 카드가 될 것이다.
+[StringTable.InfoSubtitle7]
+행운을 빈다, 장교 제군! 전진! 신이 우리와 함께하신다!
+[StringTable.InfoSubtitle8]
+'티거' 지휘관들: 명령대로!
+[StringTable.IntroSubtitle7]
+[StringTable.SubtitleWin1]
+게르하르트 소령: 해냈군! 하지만 나는 이보다 못한 결과는 기대하지 않았다.
+[StringTable.SubtitleWin2]
+장교 제군, 승리를 축하한다!
+[StringTable.SubtitleWin3]
+그러나 정당한 휴식을 마음껏 누리게 해 줄 수는 없다.
+[StringTable.SubtitleWin4]
+우리의 주의가 쏠려 있는 동안...
+[StringTable.SubtitleWin5]
+영국군이 미군에 의해 우리를 우회했다.
+[StringTable.SubtitleWin6]
+즉시 그들을 역습해야 한다.
+[StringTable.SubtitleWin7]
+제국의 운명이 다시 한번 우리 손에 달려 있다!
+[StringTable.SubtitleWin8]
+'티거' 승무원: 명령대로!
+[StringTable.SubtitleFail1]
+아군 전차 무전: 포로는 잡지 마라! 전부 죽여라!
+[StringTable.SubtitleFail2]
+네놈이 내 친구 지미를 죽였지! 죽어라, 이 빌어먹을 새끼야!
+[StringTable.SubtitleFail3]
+그 개자식들에게 자비는 없다! 짓밟아라!
+[StringTable.SubtitleFail4]
+타오르는 꼴을 봐라!

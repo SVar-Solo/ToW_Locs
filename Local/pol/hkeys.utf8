@@ -1,0 +1,107 @@
+﻿hkey.lowspeed	Tempo piechoty
+hkey.mining	Zaminuj
+hkey.mineclearing	Rozminuj
+hkey.attack	Atak
+hkey.defend	Obrona \ Obrót
+hkey.groundattack	Ostrzał obszaru
+hkey.move	Ruch na pozycję
+hkey.nextunit	Następna jednostka
+hkey.pause	Pauza
+hkey.prevunit	Poprzednia jednostka
+hkey.retreat	Wsteczny \ Odwrót
+hkey.stop	Przerwij rozkaz
+hkey.storm	Szturm \ Marsz
+hkey.ambush	Zasadzka
+hkey.sneak	Skradanie
+hkey.smokecloudfast	Zasłona dymna (natychmiastowy strzał)
+hkey.smokecloud	Zasłona dymna
+hkey.attachdetach	Podepnij \ Odepnij
+hkey.evacuate	Opuść pojazd
+hkey.autopickup	Autopodnoszenie
+hkey.addtogroup0	Dodaj do grupy 10
+hkey.addtogroup1	Dodaj do grupy 1
+hkey.addtogroup2	Dodaj do grupy 2
+hkey.addtogroup3	Dodaj do grupy 3
+hkey.addtogroup4	Dodaj do grupy 4
+hkey.addtogroup5	Dodaj do grupy 5
+hkey.addtogroup6	Dodaj do grupy 6
+hkey.addtogroup7	Dodaj do grupy 7
+hkey.addtogroup8	Dodaj do grupy 8
+hkey.addtogroup9	Dodaj do grupy 9
+hkey.group0	Wybierz grupę 10
+hkey.group1	Wybierz grupę 1
+hkey.group2	Wybierz grupę 2
+hkey.group3	Wybierz grupę 3
+hkey.group4	Wybierz grupę 4
+hkey.group5	Wybierz grupę 5
+hkey.group6	Wybierz grupę 6
+hkey.group7	Wybierz grupę 7
+hkey.group8	Wybierz grupę 8
+hkey.group9	Wybierz grupę 9
+hkey.remembergroup0	Utwórz grupę 10
+hkey.remembergroup1	Utwórz grupę 1
+hkey.remembergroup2	Utwórz grupę 2
+hkey.remembergroup3	Utwórz grupę 3
+hkey.remembergroup4	Utwórz grupę 4
+hkey.remembergroup5	Utwórz grupę 5
+hkey.remembergroup6	Utwórz grupę 6
+hkey.remembergroup7	Utwórz grupę 7
+hkey.remembergroup8	Utwórz grupę 8
+hkey.remembergroup9	Utwórz grupę 9
+hkey.inventory	Ekwipunek
+hkey.vehicleCharacteristics	Parametry pojazdu
+hkey.exit	Wyjście
+hkey.load	Szybkie wczytanie
+hkey.save	Szybki zapis
+hkey.unitinfoicon	Włącz/wyłącz ikony
+hkey.messagelog	Dziennik komunikatów
+hkey.view_sectors	Włącz/wyłącz sektory ostrzału
+hkey.viewtargetarrow	Włącz/wyłącz ikony celów
+hkey.grab_screen	Zrób zrzut ekranu
+hkey.multiplayerchattalk	Wiadomość do sojuszników
+hkey.multiplayerchatyell	Wiadomość do wszystkich
+hkey.cameratopdownview	Mapa taktyczna
+hkey.hide_panels	Pokaż / Ukryj interfejs
+hkey.nextmusictrack	Następny utwór
+hkey.camerafreelock	Swobodna kamera
+hkey.binocularview	Widok lornetki
+hkey.cameramoveforward	Kamera w przód
+hkey.cameramovebackward	Kamera w tył
+hkey.cameramoveleft	Kamera w lewo
+hkey.cameramoveright	Kamera w prawo
+hkey.cameramoveup	Kamera w górę
+hkey.cameramovedown	Kamera w dół
+hkey.camerarotateup	Obrót kamery w górę
+hkey.camerarotatedown	Obrót kamery w dół
+hkey.camerarotateleft	Obrót kamery w lewo
+hkey.camerarotateright	Obrót kamery w prawo
+hkey.cameramovetomsg	Kamera do źródła sygnału
+hkey.camerasetdefault	Resetuj widok kamery
+hkey.bindcamera	Widok z pierwszej osoby
+hkey.linkcamera	Przypnij kamerę do jednostki
+hkey.time2xspeed	Zmień prędkość gry
+hkey.actionmode	Tryb działania
+hkey.setbodymodelay	Czołganie
+hkey.setbodymodeknee	Sprint
+hkey.setbodymodestay	Marsz forsowny
+hkey.firemode	Tryb ognia
+hkey.attackup	Cel: góra
+hkey.attackmedium	Cel: środek
+hkey.attackdown	Cel: dół
+hkey.attackbarrage	Ogień zaporowy
+hkey.formation	Szyk
+hkey.SwitchDamageMessagesMode	Zmień tryb info o obrażeniach
+hkey.MultiplayerExchangePoints	Przekaż punkty
+hkey.selectweaponandammoreset	Wyczyść wybór broni
+hkey.selectweaponandammo1	Wybierz broń główną
+hkey.selectweaponandammo2	Wybierz granaty odłamkowe
+hkey.selectweaponandammo3	Wybierz granaty przeciwpancerne
+hkey.selectweaponandammo4	Wybierz działo główne
+hkey.selectweaponandammo5	Wybierz amunicję przeciwpancerną
+hkey.selectweaponandammo6	Wybierz amunicję burzącą
+hkey.selectweaponandammo7	Wybierz karabin maszynowy
+hkey.selectweaponandammo8	Wybierz broń 8
+hkey.selectweaponandammo9	Wybierz broń 9
+hkey.repair	Naprawa
+hkey.cameratypeswitch	Zmień tryb kamery (swobodna/wyśrodkowana)
+hkey.guiactivate	Escape

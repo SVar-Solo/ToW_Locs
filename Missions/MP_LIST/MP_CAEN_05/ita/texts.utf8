@@ -1,0 +1,46 @@
+﻿[StringTable.]
+[StringTable.ArmyB_WIN]
+L'alleanza 2 vince!
+[StringTable.ArmyA_WIN]
+L'alleanza 1 vince!
+[StringTable.ArmyA_king_Hill_A]
+L'alleanza 1 conquista la bandiera A!
+[StringTable.ArmyA_king_Hill_B]
+L'alleanza 1 conquista la bandiera B!
+[StringTable.ArmyA_king_Hill_C]
+L'alleanza 1 conquista la bandiera C!
+[StringTable.ArmyA_king_Hill_D]
+L'alleanza 1 conquista la bandiera D!
+[StringTable.ArmyA_king_Hill_E]
+L'alleanza 1 conquista la bandiera E!
+[StringTable.ArmyB_king_Hill_A]
+L'alleanza 2 conquista la bandiera A!
+[StringTable.ArmyB_king_Hill_B]
+L'alleanza 2 conquista la bandiera B!
+[StringTable.ArmyB_king_Hill_C]
+L'alleanza 2 conquista la bandiera C!
+[StringTable.ArmyB_king_Hill_D]
+L'alleanza 2 conquista la bandiera D!
+[StringTable.ArmyB_king_Hill_E]
+L'alleanza 2 conquista la bandiera E!
+[StringTable.Hill_A_Lost]
+La bandiera A non è più controllata!
+[StringTable.Hill_B_Lost]
+La bandiera B non è più controllata!
+[StringTable.Hill_C_Lost]
+La bandiera C non è più controllata!
+[StringTable.Hill_D_Lost]
+La bandiera D non è più controllata!
+[StringTable.Hill_E_Lost]
+La bandiera E non è più controllata!
+[StringTable.ArmyA_capture_ALL_flags]
+L'alleanza 1 controlla tutte le bandiere! L'alleanza 2 deve conquistare almeno una bandiera entro due minuti, altrimenti perderà la partita.
+[StringTable.ArmyB_capture_ALL_flags]
+L'alleanza 2 controlla tutte le bandiere! L'alleanza 1 deve conquistare almeno una bandiera entro due minuti, altrimenti perderà la partita.
+[StringTable.One_or_more_flags_lost]
+Una o più bandiere sono andate perse.
+
+[StringTable.rus]
+Rinforzi
+[StringTable.ger]
+Rinforzi

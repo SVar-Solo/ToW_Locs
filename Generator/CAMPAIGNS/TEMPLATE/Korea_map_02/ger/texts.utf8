@@ -1,0 +1,435 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Die feindliche Verteidigung am Flugplatz zerstören.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Die angreifenden Feinde ausschalten. Lassen Sie nicht zu, dass der Feind die Ortschaft einnimmt.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Der Feind leistet in diesem Gebiet erbitterten Widerstand. Laut Aufklärung hat er seine Kräfte für eine Offensive zur Einnahme der Ortschaft zusammengezogen. Sie müssen den bevorstehenden Angriff abwehren. Lassen Sie nicht zu, dass der Feind die Stellung einnimmt.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Sie müssen den auf der Karte markierten feindlichen Flugplatz im Nordwesten einnehmen. Dazu müssen Sie die Feindverteidigung an den Zugängen zum Flugplatz zerstören.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Flugplatz eingenommen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Flugplatz eingenommen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Den Feindangriff aufhalten. Lassen Sie nicht zu, dass der Feind die Ortschaft einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Der Feind versucht, das Gebiet um die Ortschaft zu sichern. Wehren Sie den Feindangriff ab und lassen Sie nicht zu, dass er die Stellung einnimmt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Alle Feindangriffe auf die Ortschaft abwehren.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Alle Feindangriffe auf die Ortschaft abwehren.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Lassen Sie nicht zu, dass der Feind die Ortschaft am Straßenknotenpunkt einnimmt. Nutzen Sie die leichten Befestigungen im Gebiet.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Lassen Sie nicht zu, dass der Feind die Ortschaft am Straßenknotenpunkt einnimmt. Nutzen Sie die leichten Befestigungen im Gebiet.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Infanterie-Panzer-Gruppe steht unter Ihrem Kommando.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_inf_support]
+Mechanisierte Infanterie steht Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_inf_support]
+Mechanisierte Infanterie steht Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte stehen Ihnen zur Verfügung.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte stehen Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.SPG_inf_support]
+Infanterie-Selbstfahrlafetten-Gruppe steht Ihnen zur Verfügung.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.SPG_inf_support]
+Infanterie-Selbstfahrlafetten-Gruppe steht Ihnen zur Verfügung.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Die feindliche Verteidigung am Flugplatz zerstören.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Die angreifenden Feinde ausschalten. Lassen Sie nicht zu, dass der Feind die Ortschaft einnimmt.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Der Feind leistet in diesem Gebiet erbitterten Widerstand. Laut Aufklärung hat er seine Kräfte für eine Offensive zur Einnahme der Ortschaft zusammengezogen. Sie müssen den bevorstehenden Angriff abwehren. Lassen Sie nicht zu, dass der Feind die Stellung einnimmt.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Sie müssen den auf der Karte markierten feindlichen Flugplatz im Nordwesten einnehmen. Dazu müssen Sie die Feindverteidigung an den Zugängen zum Flugplatz zerstören.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Flugplatz eingenommen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Flugplatz eingenommen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Den Feindangriff aufhalten. Lassen Sie nicht zu, dass der Feind die Ortschaft einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Der Feind versucht, das Gebiet um die Ortschaft zu sichern. Wehren Sie den Feindangriff ab und lassen Sie nicht zu, dass er die Stellung einnimmt.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Alle Feindangriffe auf die Ortschaft abwehren.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Alle Feindangriffe auf die Ortschaft abwehren.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Lassen Sie nicht zu, dass der Feind die Ortschaft am Straßenknotenpunkt einnimmt. Nutzen Sie die leichten Befestigungen im Gebiet.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Lassen Sie nicht zu, dass der Feind die Ortschaft am Straßenknotenpunkt einnimmt. Nutzen Sie die leichten Befestigungen im Gebiet.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_inf_support]
+Infanterie-Panzer-Gruppe steht unter Ihrem Kommando.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Luftwaffe verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Mechs_inf_support]
+Mechanisierte Infanterie steht Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Mechs_inf_support]
+Mechanisierte Infanterie steht Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte stehen Ihnen zur Verfügung.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte stehen Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.SPG_inf_support]
+Infanterie-Selbstfahrlafetten-Gruppe steht Ihnen zur Verfügung.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.SPG_inf_support]
+Infanterie-Selbstfahrlafetten-Gruppe steht Ihnen zur Verfügung.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[Reinforcement.Group1[Reinforcement]]
+Reserve-Infanterie-Panzer-Gruppe
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Den Straßenknotenpunkt einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Marschieren Sie im Eilmarsch in das auf der Karte markierte Gebiet und schalten Sie alle Feinde aus, auf die Sie treffen. Erreichen Sie Ihr Ziel innerhalb der vorgegebenen Zeit und sichern Sie den Straßenknotenpunkt und das umliegende Gebiet. Seien Sie bereit, alle feindlichen Gegenangriffe abzuwehren.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Ihre Truppen sind geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Den Straßenknotenpunkt einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Marschieren Sie im Eilmarsch in das auf der Karte markierte Gebiet und schalten Sie alle Feinde aus, auf die Sie treffen. Erreichen Sie Ihr Ziel innerhalb der vorgegebenen Zeit und sichern Sie den Straßenknotenpunkt und das umliegende Gebiet. Seien Sie bereit, alle feindlichen Gegenangriffe abzuwehren.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Flugplatz eingenommen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Den eroberten Flugplatz sichern.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Durch das erfolgreiche Vorgehen unserer Truppen wurde ein feindlicher Flugplatz erobert. Dieser Flugplatz ist für die kommenden Operationen unserer Truppen in diesem Gebiet von entscheidender Bedeutung. Sichern Sie den Flugplatz um jeden Preis und wehren Sie alle Feindangriffe ab.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Den eroberten Flugplatz sichern.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Durch das erfolgreiche Vorgehen unserer Truppen wurde ein feindlicher Flugplatz erobert. Dieser Flugplatz ist für die kommenden Operationen unserer Truppen in diesem Gebiet von entscheidender Bedeutung. Sichern Sie den Flugplatz um jeden Preis und wehren Sie alle Feindangriffe ab.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Den eroberten Flugplatz sichern.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Durch das erfolgreiche Vorgehen unserer Truppen wurde ein feindlicher Flugplatz erobert. Dieser Flugplatz ist für die kommenden Operationen unserer Truppen in diesem Gebiet von entscheidender Bedeutung. Sichern Sie den Flugplatz um jeden Preis und wehren Sie alle Feindangriffe ab.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Ihre Truppen sind geschlagen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Den Straßenknotenpunkt einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Marschieren Sie im Eilmarsch in das auf der Karte markierte Gebiet und schalten Sie alle Feinde aus, auf die Sie treffen. Erreichen Sie Ihr Ziel innerhalb der vorgegebenen Zeit und sichern Sie den Straßenknotenpunkt und das umliegende Gebiet. Seien Sie bereit, alle feindlichen Gegenangriffe abzuwehren.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Ihre Truppen sind geschlagen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Den Straßenknotenpunkt einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Marschieren Sie im Eilmarsch in das auf der Karte markierte Gebiet und schalten Sie alle Feinde aus, auf die Sie treffen. Erreichen Sie Ihr Ziel innerhalb der vorgegebenen Zeit und sichern Sie den Straßenknotenpunkt und das umliegende Gebiet. Seien Sie bereit, alle feindlichen Gegenangriffe abzuwehren.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Flugplatz eingenommen.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Eigene Truppen geschlagen.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Den eroberten Flugplatz sichern.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Durch das erfolgreiche Vorgehen unserer Truppen wurde ein feindlicher Flugplatz erobert. Dieser Flugplatz ist für die kommenden Operationen unserer Truppen in diesem Gebiet von entscheidender Bedeutung. Sichern Sie den Flugplatz um jeden Preis und wehren Sie alle Feindangriffe ab.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Den eroberten Flugplatz sichern.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Durch das erfolgreiche Vorgehen unserer Truppen wurde ein feindlicher Flugplatz erobert. Dieser Flugplatz ist für die kommenden Operationen unserer Truppen in diesem Gebiet von entscheidender Bedeutung. Sichern Sie den Flugplatz um jeden Preis und wehren Sie alle Feindangriffe ab.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Den eroberten Flugplatz sichern.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Durch das erfolgreiche Vorgehen unserer Truppen wurde ein feindlicher Flugplatz erobert. Dieser Flugplatz ist für die kommenden Operationen unserer Truppen in diesem Gebiet von entscheidender Bedeutung. Sichern Sie den Flugplatz um jeden Preis und wehren Sie alle Feindangriffe ab.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Mission gescheitert.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Luftunterstützung steht Ihnen zur Verfügung.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Granatwerferunterstützung steht unter Ihrem Kommando.
+

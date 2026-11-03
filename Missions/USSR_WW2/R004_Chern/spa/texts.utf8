@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Rechace a las tropas alemanas que llegan desde el oeste.
+[Mission1.Description]
+La 3a. División Acorazada enemiga se dirige desde el oeste de Chern’ a aplastar nuestras tropas en este sector y acercarse a Tula. El enemigo goza de una gran superioridad numérica.
+
+Sus órdenes:
+-	 Detenga a la 3a. División Acorazada enemiga.
+[Mission1.Success]
+¡Ha frustrado el ataque de las tropas enemigas! Los alemanes han sido incapaces de avanzar.
+[Mission1.Failed]
+¡El enemigo ha podido atravesar nuestras defensas y tomar la estación! Ya les falta menos para llegar a Moscú...
+[Mission1_1.Objectives]
+Rechace el ataque enemigo proveniente del sur.
+[Mission1_1.Description]
+Las tropas alemanas han atravesado la línea del frente al sur de Chern’ y ahora se dirigen rápidamente hacia nosotros. Intentarán derrotarnos y unirse a la 3a. División Acorazada en su avance hacia Tula.
+
+Sus órdenes:
+- 	Pare el asalto del enemigo desde el sur.
+[Mission1_1.Success]
+¡Se ha conseguido rechazar el ataque enemigo!
+[Mission1_1.Failed]
+¡El enemigo ha llegado a la estación! Ha fracasado en la operación.
+[Submission1.Objectives]
+Conserve y defienda la estación de Chern’.
+[Submission1.Description]
+Las tropas alemanas siguen atacando nuestras posiciones alrededor de la estación de Chern’. Nosotros somos todo lo que queda entre ellos y Tula, y debemos detenerles.
+
+Sus órdenes son:
+- 	Mantenga las defensas alrededor de la estación de Chern’.
+- 	Impida que las tropas enemigas lleguen hasta Tula.
+[Submission1.Success]
+¡El enemigo ha sido destruido! Las órdenes del comandante se han llevado a cabo.
+[Submission1.Failed]
+¡El enemigo ha atravesado sus defensas y tiene abierto el camino a Tula!
+[StringTable.Reserv]
+Han llegado refuerzos.

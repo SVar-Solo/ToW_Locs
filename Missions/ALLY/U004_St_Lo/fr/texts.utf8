@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Libérer la ville au nord-est et détruire les positions ennemies.
+[Mission.Description]
+Les Allemands ont rétabli et renforcé une position défensive près de Saint-Lô. Selon nos reconnaissances aériennes, l’ennemi a concentré les forces principales de la 7e armée dans ce secteur. Le terrain se prête bien à des embuscades et des petits points fortifiés, il faut donc progresser avec prudence.
+
+Vos ordres sont :
+- 	Conduire une action de reconnaissance en utilisant des chars et de l’infanterie.
+- 	Libérer la ville au nord-est. 
+[Mission.Success]
+La mission a été accomplie ! L’opération Cobra continue.
+[Mission.Failed]
+La mission a échoué. 
+[Submission_1.Objectives]
+Conduire une action de reconnaissance dans les deux villages à la périphérie de Saint-Lô. 
+[Submission_1.Description]
+L’ennemi a concentré l’essentiel de ses forces défensives sur les collines près de la ville. Deux villages sont situés sur le chemin de notre offensive. Nous n’avons aucune informations précises sur les forces ennemies. 
+
+Vos ordres :
+- 	Conduire une action de reconnaissance dans les deux villages. 
+[Submission_1.Success]
+L’action de reconnaissance a été rondement menée. L’ennemi a été défait. 
+[Submission_1.Failed]
+La mission a échoué.
+[Submission_2.Objectives]
+Attaquer les défenses principales sur la colline. 
+[Submission_2.Description]
+L’ennemi a installé une ligne de défense sur les approches de la ville, sur deux collines environnantes. 
+
+Vos ordres :
+-	Détruire les défenses ennemies sur la colline.
+[Submission_2.Success]
+La mission a été accomplie. 
+[Submission_2.Failed]
+La mission a échoué.
+[Submission_3.Objectives]
+Capturer la ville de Saint-Lô. 
+[Submission_3.Description]
+La ville de Saint-Lô présente une grande importance stratégique. C’est la clé de toute progression ultérieure en France. 
+ 
+Vos ordres :
+-	Libérer la ville de Saint-Lô, en détruisant la garnison qui la défend.
+[Submission_3.Success]
+L’embuscade a été contrecarrée ! 
+[Submission_3.Failed]
+La mission a échoué.
+[Submission_4.Objectives]
+Détruire la batterie d’artillerie ennemie.
+[Submission_4.Description]
+Les Allemands ont astucieusement positionné leur artillerie. Toutes les approches de la ville peuvent être balayées par le feu des pièces placées sur une colline. 
+
+Vos ordres :
+- 	Détruire la batterie d’artillerie ennemie placée sur la colline. 
+[Submission_4.Success]
+La batterie d’artillerie ennemie a été détruite. 
+[Submission_4.Failed]
+La mission a échoué.
+[StringTable.Reserv]
+Des renforts sont arrivés.

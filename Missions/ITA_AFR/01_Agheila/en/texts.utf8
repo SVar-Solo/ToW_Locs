@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Destroy the convoy
+[Submission_1.Description]
+Destroy the enemy convoy approaching El Agheila.
+[Submission_01.Success]
+Mission accomplished.
+[Submission_01.Failed]
+Mission failed.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Hold the fortified point
+[Mission.Description]
+Organize the defense, hold the fortified point and block the road to El Agheila completely.
+[NewSubmission.Success]
+Mission accomplished.
+[NewSubmission.Failed]
+Mission failed.
+[Mission.Success]
+Mission completed.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Success]
+The convoy is destroyed.
+[Submission_1.Failed]
+The enemy convoy broke through to El Agheila!
+[NewSubmission.Objectives]
+[NewSubmission.Description]

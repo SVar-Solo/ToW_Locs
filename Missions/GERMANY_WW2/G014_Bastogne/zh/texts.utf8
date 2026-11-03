@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+消灭乌法利兹附近的所有敌军部队。
+[Mission.Description]
+“守望莱茵”行动已经开始。我军前锋部队已深深楔入敌军腹地，但在巴斯托涅镇附近遭遇顽强抵抗。
+
+命令：
+- 	夺取前方的城镇
+- 	消灭在山丘上据守的敌军
+[Mission.Success]
+城镇已被夺取！
+[Mission.Failed]
+你输了！你的所有进攻都被击退了。
+[Submission_1.Objectives]
+在城镇附近的山丘上建立桥头堡。消灭所有敌军部队和火炮。
+[Submission_1.Description]
+城镇附近山丘上的桥头堡是美军防御的关键位置。步兵、炮兵和反坦克炮守卫着这处桥头堡。
+
+命令：
+- 	消灭遭遇的所有敌军，并夺取桥头堡。
+[Submission_1.Success]
+桥头堡是我们的了！
+[Submission_1.Failed]
+胜利已经丧失。美军击败了你！
+[Submission_2.Objectives]
+击退敌军反击并夺取城镇。
+[Submission_2.Description]
+在最初丢失桥头堡后，美军已投入预备队进行反击。
+
+命令：
+- 	守住桥头堡，反击敌军并夺取城镇。
+[Submission_2.Success]
+你守住了！
+[Submission_2.Failed]
+你输掉了这场战斗！
+
+[StringTable.reserv]
+增援部队已抵达。

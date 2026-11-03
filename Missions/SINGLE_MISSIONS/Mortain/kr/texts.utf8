@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+새로운 독일군 공세에 맞서 방어하라.
+[Mission.Description]
+포위를 피하기 위해 독일군 최고사령부는 뤼티히 작전이라 불리는 소규모이나 맹렬한 반격을 개시했다.
+
+명령:
+- 	독일군 공세를 저지할 것
+[Mission.Success]
+임무 완수. 대규모 공세가 저지되었다.
+[Mission.Failed]
+독일군의 공격이 성공하여 아군은 큰 피해를 입었다.
+[Submission1.Objectives]
+적 병력 집단을 공격하라.
+[Submission1.Description]
+정찰 보고에 따르면 독일군 공격의 1단계는 북동쪽에서 아군을 향해 오는 것으로 보인다. 
+
+명령:
+- 	북동쪽에서 진격해 오는 적 부대를 공격할 것.
+[Submission1.Success]
+임무 완수. 적 병력이 후퇴하고 있다.
+[Submission1.Failed]
+임무 실패. 귀관의 부대가 패배했다.
+[Submission2.Objectives]
+적 병력을 공격하라.
+[Submission2.Description]
+독일군의 공세가 계속되고 있으며, 이번에는 동쪽에서 공격해 올 것으로 보인다.
+
+명령:
+- 	동쪽에서 진격하는 적 부대를 공격할 것.
+[Submission2.Success]
+임무 완수. 적의 공격이 저지되었다.
+[Submission2.Failed]
+임무 실패. 귀관의 부대가 괴멸되었다.
+[Submission3.Objectives]
+북쪽에서 접근하는 부대를 공격하라.
+[Submission3.Description]
+아직 승부가 난 것이 아니다. 북쪽에서 또 한 차례 적의 공격이 준비되고 있다. 이번에는 적이 수적으로 우세하지만 귀관은 반드시 이겨내야 한다.
+
+명령:
+- 	독일군의 주공을 격파할 것.
+[Submission3.Success]
+임무 완수. 적 계획의 이 단계가 저지되었다.
+[Submission3.Failed]
+임무 실패. 적의 공세가 성공했고 귀관의 부대는 괴멸되었다.
+[StringTable.Reserve
+증원 부대가 도착했다.
+[Submission4.Objectives]
+독일군을 공격하라.
+[Submission4.Description]
+지금까지 버텨냈으나, 독일군이 동쪽에서 시작될 마지막 공격을 준비하는 듯하다.
+
+명령:
+- 	동쪽에서 접근하는 적 병력을 공격하여 아군의 포위를 막을 것.
+[Submission4.Success]
+임무 완수. 적은 돌파와 아군 포위에 실패했다.
+[Submission4.Failed]
+임무 실패. 귀관의 부대가 괴멸되었다.
+[StringTable.Subtitle_01]
+프랑스, 1944년 8월
+[StringTable.Reserv]
+증원 부대가 도착했다.

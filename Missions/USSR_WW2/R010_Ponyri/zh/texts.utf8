@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+坚守到增援部队到达。尽可能多地消灭敌军。
+[Submission_1.Description]
+
+你的命令是：
+- 	坚守到增援部队到达。 
+- 	尽可能多地消灭敌军。 
+[Submission_1.Success]
+增援部队已到达！
+[Submission_1.Failed]
+失败。你未能坚守足够长的时间。
+[Submission_2.Objectives]
+坚守阵地。
+[Submission_2.Description]
+波内里车站是我军在库尔斯克突出部北面防御的焦点。德军指挥部深知这一点，已在此地段部署了其最重型的装甲和自行火炮部队中的一部分。 
+
+你的命令：
+- 	坚守波内里车站的阵地。 
+[Submission_2.Success]
+干得好，指挥官。你在敌众我寡的情况下坚守住了。
+[Submission_2.Failed]
+你辜负了祖国！你的部队已被消灭。
+[Mission.Objectives]
+阻止德军的推进。 
+[Mission.Description]
+沿库尔斯克突出部北侧全线，德军部队一直在波内里车站附近激战。 
+
+你的命令： 
+- 	防止敌军在车站附近突破我军前线。 
+[Mission.Success]
+你的命令成功完成。德军未能突破前线。 
+[Mission.Failed]
+你未能阻止德军突破。他们现在正直接向库尔斯克推进。
+[StringTable.T34_Income]
+增援部队已到达。
+[StringTable.SPG_reserv]
+增援部队已到达。 
+[StringTable.Inf_reserv]
+预备队的步兵现可供你调遣。

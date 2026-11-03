@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+계곡의 거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+계곡의 거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+거주지를 점령했다.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+거주지를 점령했다.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+아군이 패배했다.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+아군이 패배했다.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+귀관의 전투단은 적의 주요 수송로까지 돌파했지만 적 주력이 거주지를 방어하고 있다. 적 방어선을 파괴하고 거주지를 점령하라.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+귀관의 전투단은 적의 주요 수송로까지 돌파했지만 적 주력이 거주지를 방어하고 있으며 반격을 준비하고 있을 수도 있다. 거주지를 점령하라.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+공격해 오는 적에게 치명타를 가하라. 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+정찰에 따르면 적 선발대가 아군이 주둔한 거주지를 향해 이동하고 있다. 적과 교전하여 모든 적을 제거하라. 일부가 거주지까지 돌파하면 남은 방어 병력과 함께 제거하라.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+거주지에 대한 적의 모든 반격을 격퇴하라.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+추후 통지가 있을 때까지 지정된 시간 동안 방어선을 사수하라.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+적이 거주지를 점령했다.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+적이 거주지를 점령했다.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+계곡의 거주지는 이 지역의 전략적 방어 거점이며 주요 수송로 위에 있다. 이 진지를 잃으면 이 지역의 통신이 단절된다. 지정된 시간 동안 방어선을 사수하고 적이 이 진지를 점령하지 못하게 해야 한다.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+계곡의 거주지는 이 지역의 전략적 방어 거점이며 주요 수송로 위에 있다. 이 진지를 잃으면 이 지역의 통신이 단절된다. 적이 이 진지를 점령하게 해서는 안 된다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+예비 기갑 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_support]
+기계화 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_support]
+기계화 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+박격포 지원이 귀관의 지휘 하에 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+예비 보병 팀을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+예비 기갑 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+예비 보병 팀을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+예비 기갑 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+공군을 사용할 수 있으며 명령을 대기 중이다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+공군을 사용할 수 있으며 명령을 대기 중이다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+계곡의 거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+귀관의 전투단은 적의 주요 수송로까지 돌파했다. 적 주력이 거주지를 방어하고 있다. 적 방어선을 파괴하고 진지를 점령하라.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+거주지를 점령하라.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+정찰에 따르면 적 선발대가 지도에 표시된 거주지를 향해 이동하고 있다. 적보다 먼저 도착해 거주지를 점령하고 방어를 구축해야 한다. 적이 먼저 도착했다면 즉시 공격하여 모든 적을 제거하고 진지를 점령하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+적의 모든 공격을 격퇴하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+계곡의 거주지는 이 지역의 전략적 방어 거점이며 주요 수송로 위에 있다. 이 진지를 잃으면 이 지역의 통신이 단절된다. 적이 이 진지를 점령하게 해서는 안 된다.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+적의 모든 공격을 격퇴하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+계곡의 거주지는 이 지역의 전략적 방어 거점이며 주요 수송로 위에 있다. 이 진지를 잃으면 이 지역의 통신이 단절된다. 적이 이 진지를 점령하게 해서는 안 된다.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+정찰에 따르면 적 선발대가 아군이 주둔한 거주지를 향해 이동하고 있다. 아군 주력이 도착할 때까지 지정된 시간 동안 거주지를 사수해야 한다.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+지정된 시간 동안 거주지를 사수하라.
+
+[Reinforcement.Group1[Reinforcement]]
+장갑차량 및 보병
+

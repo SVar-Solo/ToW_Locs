@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Stop the advance of German troops in the area of the Kryukovo railroad station.
+[Mission.Description]
+The Germans have concentrated a large force in the area of the Kryukovo railroad station. The enemy’s plan is to break through the thinnest areas of our defense and in a pinpoint attack, they will try to encircle and destroy any remaining Soviet units. The 16th Army HQ has allocated additional tank units to help defend the area.
+ 
+Your order is to:
+- Stop the German troops advancing on the Kryukovo railroad station.
+[Mission.Success]
+HQ’s order has been fulfilled! The advance of enemy troops was stopped.
+[Mission.Failed]
+You failed to fulfill HQ’s orders! Your troops were defeated.
+[Submission_1.Objectives]
+Repel all enemy attacks.
+[Submission_1.Description]
+You do not have enough forces under your command to situate a deep defense. Elements of the 316th Rifle Division have been sent to you as reinforcements but even with these added troops it would be impossible to establish a continuous solid line of defense. You must be wise commander and setup various strong points in order to stop the enemy attacks. Only in this way will you be able to withstand this onslaught while outnumbered.
+ 
+Your order is to:
+- Repel all enemy attacks.
+[Submission_1.Success]
+Enemy attacks were repelled! HQ’s order has been fulfilled!
+[Submission_1.Failed]
+You have failed in carrying out the HQ order! Your troops were defeated.
+[StringTable.Tanks]
+Your current mission calls for more flexibility and coordination. As such, additional tank units are now being placed under your command.

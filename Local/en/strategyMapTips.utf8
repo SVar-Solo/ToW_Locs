@@ -1,0 +1,42 @@
+﻿[STRATEGY_MAP_TIP.1]
+Campaign battles begin in strategic mode, with the available combat teams determined by the campaign. In strategic mode, the player can maneuver his or her combat teams, use them to attack the enemy or defend their own positions, and even call in air and artillery support. The strategic map is comprised of a number of interconnected areas, over which the enemy and allied combat teams can maneuver. On the strategic map, the player can select reinforcements and support, and assign those resources to their combat teams. Later, when the player captures key locations, he or she may receive further reinforcements and support. Players can assign these resources at any time during their turn, but only to battle groups which are not actively engaged in combat.
+The strategic map of the area determines certain combat movement conditions. Combat teams cannot enter closed areas.
+
+\t Description of the game modes:
+1. The strategic mode is turn-based.
+2. A single turn includes the player’s movement, the enemy’s movement, and any combat that results from the maneuvers of the players' units.
+3. The number of turns permitted is determined by the campaign.
+4. Player’s turn ends when all of his or her combat teams have exhausted their action points. The turn can be ended early if the player wishes, for instance if the player wishes a combat team to remain where it is to defend an area from the enemy.
+5. Enemy’s turn ends in the same way, when all the enemy combat teams have exhausted their action points, or before that if the enemy player so chooses.
+7. Combat occurs when both the player’s and the enemy’s combat teams are present in the same location.
+8. To win a campaign, the player needs to score more than his or her enemy, or eliminate all of the enemy's combat teams.
+9. Points are scored after all combat has ended across the map.
+
+[STRATEGY_MAP_TIP.2]
+\t Deploying troops on the strategic map 
+1. By default, all player troops begin in the buffer zone (or home front). From there they may be deployed to any starting area on the tactical map.
+2. A single area can only hold one player or enemy combat team.
+3. An area can offer a bonus to the force that has won that area, including additional air or artillery support, troops, fuel, or reinforcements.
+4. If a combat team has been cut off from all friendly areas, it cannot replenish its ammunition, access reserves, or, if it is also out of action points, exit the area. Troop morale of isolated units is also reduced.
+
+[STRATEGY_MAP_TIP.3]
+A combat team is a set of troops plus a reserve. The troops can move across the tactical map, and may be resupplied from their reserves. A reserve belongs solely to their combat team, and can only be used to replenish the troops of that team -- unless that allied force has been surrounded.
+
+\t Combat team parameters:
+1. Experience level.
+2. Fuel. (Fuel is spent on movement, cannot be replenished when surrounded, and is otherwise replenished once every turn.)
+3. Ammunition. (Ammo is spent during combat, and cannot be replenished when surrounded.)
+4. Support.
+5. Movement speed. (This depends on the presence of vehicles, infantry, and artillery, and falls to 1 when an adjacent area is occupied by the enemy.)
+
+\t Combat team movement:
+1. Moves are planned and performed consecutively, one combat team at a time. A combat team may only move once per turn. Newly deployed combat teams cannot receive orders on the same turn; they cannot be deployed then move on the same turn.
+2. The current combat team must stop moving before the next one can move.
+3. All moves must be made before combat begins.
+4. A combat team may move from one area to another.
+5. No two combat teams may occupy the same area. A combat team cannot move through an area occupied by the enemy.
+6. A combat team cannot be divided into separate units. All units in a combat team move together.
+7. Combat teams that have suffered losses cannot be merged with other combat teams.
+8. Certain landscape features may prevent a combat team from moving or engaging in combat.
+9. Retreating is very similar to regular movement. However, if a combat team has nowhere to retreat, it is destroyed.
+

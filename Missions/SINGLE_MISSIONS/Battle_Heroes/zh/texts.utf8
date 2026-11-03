@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+击退德军所有进攻，然后发起反击。
+[Mission.Description]
+德军已兵临克里姆林宫视线之内。莫斯科决不能落入法西斯分子之手！
+
+你的命令：
+	- 挫败敌人的进攻，迟滞其向莫斯科的推进
+	- 发起反击
+[Mission.Success]
+任务完成。
+[Mission.Failed]
+你未能完成命令。
+[Submission_1.Objectives]
+挫败敌人的进攻
+[Submission_1.Description]
+阻止敌人的进攻
+[Submission_1.Success]
+任务完成。 
+[Submission_2.Failed]
+任务失败。
+[Submission_2.Success]
+任务完成。
+[Submission_2.Description]
+你们守住了阵地。敌人正在溃逃。鉴于当前形势，将从预备队中调拨坦克协助你。你必须继续追击敌人！
+
+你的命令：
+	- 反击敌军
+[Submission_2.Objectives]
+反击敌人
+[StringTable.Reserv_inf]
+预备队的步兵已划归你指挥
+[StringTable.Reserv_Tanks]
+预备队的坦克已划归你指挥。
+[Submission_1.Failed]
+任务失败。

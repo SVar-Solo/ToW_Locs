@@ -1,0 +1,22 @@
+﻿[Submission_1.Objectives]
+摧毁敌军防御。
+[Submission_1.Description]
+德军在撤退过程中，于亚德罗米诺地区沿一条新的防线集结。你需要摧毁这些敌军防御，才能继续向沃洛科拉姆斯克推进。
+
+你的命令：
+- 摧毁敌军防御。
+[Submission_1.Success]
+你的命令已完成！你摧毁了敌军的防御。
+[Submission_1.Failed]
+你未能完成任务！你的部队已被击溃。
+[Submission_2.Objectives]
+击退敌军进攻。
+[Submission_2.Description]
+德军发起了又一次反攻，企图消灭我军在该地区的部队。你绝不能让出寸土，必须顶住这次最新的进攻。
+
+你的命令：
+-击退敌军的进攻。
+[Submission_2.Success]
+任务完成！你击退了敌军的进攻。
+[Submission_2.Failed]
+任务失败！你的部队已被击溃。

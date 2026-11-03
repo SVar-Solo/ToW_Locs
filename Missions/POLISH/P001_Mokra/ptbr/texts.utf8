@@ -1,0 +1,40 @@
+﻿[Mission1.Objectives]
+Mantenha e defenda a área indicada.
+[Mission1.Description]
+1º de setembro de 1939. As tropas alemãs aceleram seu avanço em três frentes. O Grupo de Exércitos Norte desfere um golpe a partir das regiões noroeste da Alemanha e da Prússia Oriental. Do sudeste da Alemanha e do norte da Eslováquia ataca o Grupo de Exércitos Sul, apoiado pela 1ª e 2ª Divisões eslovacas.
+Seguindo as ordens do Alto Comando polonês, você precisa reforçar as defesas em torno do rio Mokra e repelir o avanço alemão.
+
+Suas ordens são:
+-	Mantenha e defenda a área indicada.
+-	Impeça as tropas inimigas de romperem as linhas defensivas.
+[Mission1.Success]
+Bom trabalho, comandante! Os alemães não conseguiram eliminar nossas defesas neste setor da frente!
+[Mission1.Failed]
+Você fracassou em sua tarefa! As tropas alemãs romperam as defesas e avançam em direção a Varsóvia. A Polônia está condenada!
+[Submission1.Objectives]
+Repila este ataque inicial das tropas alemãs.
+[Submission1.Description]
+O inimigo tenta desferir um poderoso golpe contra nossas defesas perto do rio Mokra. Pretende destruir completamente nossas posições defensivas e avançar mais para o interior. 
+O comando polonês está preocupado com a situação na frente. Ela deve ser estabilizada! 
+
+Suas ordens são: 
+-	Repila o avanço das tropas alemãs.
+[Submission1.Success]
+Ordem cumprida! O ataque alemão neste setor foi repelido!
+[Submission1.Failed]
+Ordens fracassadas! As tropas alemãs esmagaram nossas defesas neste setor!
+[StringTable.Reserv]
+Reforços chegaram para apoiá-lo.
+[Submission2.Objectives]
+Contra-ataque as forças inimigas.
+[Submission2.Description]
+O inimigo tenta atacar nossos flancos! Você deve atacá-lo imediatamente para evitar o cerco de nossas tropas, antes que ele possa causar sérios danos às nossas forças.
+
+Suas ordens são:
+-	Ataque as unidades inimigas que avançam pelo seu flanco.
+[Submission2.Success]
+Ordem concluída! O grupo de tanques inimigo fracassou em cumprir a missão.
+[Submission2.Failed]
+Ordens fracassadas! As forças inimigas romperam até nossas posições na retaguarda!
+[StringTable.Subtitle_01]
+Polônia. Setembro de 1939

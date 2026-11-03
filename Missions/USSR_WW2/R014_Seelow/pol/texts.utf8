@@ -1,0 +1,33 @@
+﻿[Submission_1.Objectives]
+Pierwsza linia umocnień przed wzgórzami Seelow została przełamana. Resztki wojsk hitlerowskich wycofują się do drugiej linii fortyfikacji. Masz ich ścigać i złamać drugą linię niemieckiej obrony.
+[Submission_1.Description]
+Nasi zwiadowcy informują, że przed nami ciągnie się długi kanał, na którym leży nienaruszony most. Nad kanałem mieści się małe miasto, a pierwsza linia obrony znajduje się na pobliskich wzgórzach. Uderz na obronę po tej stronie kanału i zajmij most.
+Twoje rozkazy: 
+-	Zajmij niemieckie stanowiska obronne przy kanale.
+[Submission_1.Success]
+Zadanie wykonane.
+[Submission_1.Failed]
+Zadanie nie zostało wykonane.
+[Submission_2.Objectives]
+Zdobyć wzgórza.
+[Submission_2.Description]
+Wróg wycofał się na wzgórza. Zdaniem zwiadu, Niemcy zbudowali potężny pas obrony, a ich jednostki zajęły pozycje. Niemcy wiedzą, że tylko oni stoją między nami a Berlinem, są więc gotowi walczyć do ostatniego człowieka. Zniszczcie ich, ostateczne zwycięstwo jest w waszym zasięgu. 
+Twoje rozkazy:
+-	Zgnieść opór nieprzyjaciela i zdobyć wzgórza Seelow.
+[Submission_2.Success]
+Wzgórza Seelow zostały zajęte. Przed nami Berlin i koniec wojny.
+[Submission_2.Failed]
+Zadanie nie zostało wykonane. Niemieccy obrońcy odparli twój atak.
+[Mission.Objectives]
+Zdławić nieprzyjacielski opór i zdobyć wzgórza Seelow.
+[Mission.Description]
+Do połowy kwietnia armia niemiecka, choć zdziesiątkowana, zachowywała zdolność bojową. Choć morale było słabe, wiele jednostek walczyło dalej. Niemieckie dowództwo naczelne zgromadziło w Berlinie i wokół miasta olbrzymie siły, a Armia Czerwona szykowała się do ostatecznego natarcia. Zanim mogli uderzyć na Berlin, musieli oczyścić pobliskie wzgórza Seelow, usiane stanowiskami obronnymi, bunkrami, okopami i jednostkami gotowymi walczyć do samego końca.
+W połowie kwietnia radzieckie oddziały uderzyły na wzgórza, lecz z początku zostały odparte. Twoja kolej, czeka na ciebie zwycięstwo! 
+Twoje rozkazy:
+-	Za wszelką cenę zająć wzgórza Seelow.
+[Mission.Success]
+Wzgórza Seelow zostały zdobyte! Przed nami Berlin i koniec wojny. 
+[Mission.Failed]
+Zadanie nie zostało wykonane. Nie udało ci się zająć wzgórz Seelow
+[StringTable.reserv]
+Przybyły posiłki.

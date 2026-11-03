@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Allontana il nemico dalle sue posizioni.
+[Submission1.Description]
+Gli invasori nazisti hanno consolidato le loro posizioni su di una linea che va dal bacino dell’Istra alla città di Istra e non cederanno il terreno se non dopo un fiera resistenza. E’ di vitale importanza allontanare il nemico da queste posizioni. 
+
+I tuoi ordini sono:
+- Allontana il nemico dalle sue posizioni.
+[Submission1.Success]
+Gli ordini sono stati eseguiti!
+[Submission1.Failed]
+Non sei riuscito a eseguire i tuoi ordini!
+[Submission2.Objectives]
+- Distruggi le unità nemiche che avanzano.
+[Submission2.Description]
+Unità naziste hanno lanciato un pericoloso contrattacco lungo la linea del fronte. Devi affrontare e distruggere il nemico che sta avanzando.
+
+I tuoi ordini sono:
+- Distruggi le unità tedesche che avanzano.
+[Submission2.Success]
+Gli ordini sono stati eseguiti! Le truppe nemiche sono state respinte.
+[Submission2.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Le tue truppe sono state sconfitte.

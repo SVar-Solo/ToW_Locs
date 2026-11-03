@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Couvrez la retraite du 1075e régiment de la 316e division d’infanterie en vous déployant sur une position défensive près de la halte ferroviaire de Dubosekovo.
+[Mission.Description]
+16 novembre. La 4e compagnie du 1075e régiment de la 316e division d’infanterie installe une position défensive sur une colline près de la halte ferroviaire de Dubosekovo, à sept kilomètres au sud-est de Volokolamsk. Sa mission principale et de stopper toute attaque de la 11e Panzerdivision afin de permettre au régiment de se replier en bon ordre et de rectifier ainsi la ligne de front. Les durs combats du mois d’octobre ont privé la division de près de la moitié de ses effectifs et la quasi-totalité de son équipement. Pour l’aider dans sa mission, la 4e compagnie, commandée par le capitaine Gundilovitch et le politruk Klochkov, a reçu deux canons antichar de 45mm. 
+
+Vos ordres sont :
+- Couvrez la retraite du 1075e régiment de la 316e division d’infanterie en vous déployant sur une position défensive près de la halte ferroviaire de Dubosekovo.
+[Mission.Success]
+Vous avez rempli votre mission!
+[Mission.Failed]
+Vous avez échoué!
+[Submission_1.Objectives]
+Repoussez la première vague d’assaillants.
+[Submission_1.Description]
+La reconnaissance indique que les Allemands ont l’intention d’attaquer par le sud-ouest le long de l’autoroute reliant la gare à Dubosekovo. Leur avant-garde ne compte qu’un peloton d’infanterie incomplet, deux chars et quelques véhicules blindés. 
+
+Vos ordres sont: 
+- Repousser l’attaque ennemie. 
+[Submission_1.Success]
+Vous avez réussi! L’attaque ennemie a été repoussée. 
+[Submission_1.Failed]
+Vous avez échoué! Vos troupes ont été détruites! 
+[Submission_2.Objectives]
+Repoussez l’attaque de chars. 
+[Submission_2.Description]
+L’avant-garde allemande n’a pas réussi à capturer la halte ferroviaire et a dû se replier. Il faut maintenant s’attendre à une attaque de plus grande envergure menée avec plus de moyens. Il fait empêcher l’ennemi de percer nos lignes.
+
+Vos ordres sont:
+- Stoppez les chars ennemis. 
+[Submission_2.Success]
+Vous avez réussi! L’attaque ennemie a été repoussée 
+[Submission_2.Failed]
+Vous avez échoué! Vos troupes ont été détruites! 
+[Submission_3.Objectives]
+Tenez vos positions.
+[Submission_3.Description]
+Pas un pas en arrière! La Russie a beau être vaste, il n’y a plus d’endroits où se replier, puisque Moscou se trouve juste derrière nous.
+
+Vos ordres sont:
+- Tenez vos positions.
+[Submission_3.Success]
+Vous avez accompli votre mission!
+[Submission_3.Failed]
+Vous avez échoué!

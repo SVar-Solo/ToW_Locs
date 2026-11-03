@@ -1,0 +1,23 @@
+﻿[Mission1.Objectives]
+Accompagner la colonne blindée jusqu’à la zone.
+[Mission1.Description]
+Les Alliés continuent de progresser depuis les têtes de pont en Normandie. Dans l’immédiat, prendre le contrôle de Caen est absolument crucial pour poursuivre notre avance.
+
+Une colonne d’unités blindées anglaises (les fameux Rats du Désert) avancent sur une route principale vers la ville de Caen. Le haut commandement veut encercler les positions allemandes dans le secteur en utilisant la 7e division blindée britannique. 
+[Mission1.Success]
+La mission a été accomplie et vous allez certainement prendre Caen prochainement. Les Allemands ne seront pas capables de nous rejeter à la mer !
+[Mission1.Failed]
+C’est un échec, les Allemands sont parvenus à vous battre. En considérant les forces qui étaient à votre disposition, c’est même incroyable que vous ayez été battu !
+[Mission2.Objectives]
+Détruire les chars ennemis.
+[Mission2.Description]
+Lors de sa progression vers Caen, la colonne blindée anglaise a subi une attaque de la 2e compagnie du  schwere-SS-Panzer Abteilung 101, commandée par Michael Wittmann. Certains des chars de la colonne ont été endommagés. Les Allemands préparent une offensive vers Villers-Bocage.
+
+Vos ordres : 
+- 	Détruire les chars ennemis.
+[Mission2.Success]
+Mission accomplie ! Les chars ennemis ont été détruits et la route vers Caen est libre !
+[Mission2.Failed]
+Vos troupes ont été battues ! Vous avez perdu la bataille !
+[StringTable.Reserv]
+Des renforts sont arrivés en appui !

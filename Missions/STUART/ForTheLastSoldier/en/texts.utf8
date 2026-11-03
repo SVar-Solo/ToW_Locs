@@ -1,0 +1,107 @@
+﻿[StringTable.Strongpoint1lost]
+Strongpoint 1 is lost!
+[StringTable.Strongpoint2lost]
+Strongpoint 2 is lost!
+[StringTable.Strongpoint3lost]
+Strongpoint 3 is lost!
+[StringTable.Strongpoint4lost]
+Strongpoint 4 is lost!
+[StringTable.Strongpoint5lost]
+Strongpoint 5 is lost!
+[StringTable.Strongpoint6lost]
+Strongpoint 6 is lost!
+[StringTable.StrongpointsLost]
+Five strongpoints are lost!
+[StringTable.StuartTankLost]
+Alan Mitchell’s Stuart is damaged and won’t be able to repel the enemy attacks!
+[StringTable.StuartCrewLost]
+Stuart crew is dead, the strongpoints won’t last without its support!
+[StringTable.IntroSubtitle1]
+Captain Whistler: Alright, all villages are taken, now we wait for the Jerries.
+[StringTable.IntroSubtitle2]
+Lieutenant Parker: Sir, what if they get us one by one?
+[StringTable.IntroSubtitle3]
+Whistler: Bullshit, Parker. They need tanks to do that, and they’ve got only a few and ...
+[StringTable.IntroSubtitle4]
+those are not here. What's that? I hear the clang of tracks! Damn!
+[StringTable.IntroSubtitle4a]
+Grenades for action! We’ll show’em!
+[StringTable.IntroSubtitle5]
+Parker: I can’t see it through the dust! This is a Stuart! What if the Germans are fooling us?
+[StringTable.IntroSubtitle6]
+Whistler: Parker, you coward! Attract the attention of this tank crew!
+[StringTable.IntroSubtitle6a]
+Parker (to himself): Sir, God certainly endowed you with courage...
+[StringTable.IntroSubtitle6b]
+as much as he deprived you of a basic understanding of the trade of war!
+[StringTable.IntroSubtitle7]
+Whistler: See, Parker, these are not the Germans. Guys, with your tank...
+[StringTable.IntroSubtitle8]
+we can kick some Jerry’s asses. All by ourselves...
+[StringTable.IntroSubtitle9]
+you won't get to our troops anyways. Take posts!
+[StringTable.IntroSubtitle10]
+Parker, Mitchell and soldiers: Yes, sir!
+[StringTable.WinSubtitle1]
+Lieutenant Parker: Thanks, buddy!
+[StringTable.WinSubtitle2]
+Let's drop by Flying bottle in Frisco after war, shall we?
+[StringTable.WinSubtitle3]
+Alan Mitchell: You’re from California? It’s pretty far from my place, but we'll surely drop by...
+[StringTable.WinSubtitle4]
+Alan Mitchell: Where’s Whistler?
+[StringTable.WinSubtitle5]
+Parker: He got killed, he rushed out to the courtyard, when the Germans came around...
+[StringTable.WinSubtitle6]
+and got a burst point-blank. He was very courageous, but...
+[StringTable.WinSubtitle7]
+he was going to end like this, sooner or later.
+[StringTable.WinSubtitle8]
+Radio operator voice from the tank: Our troops are on the way!
+[StringTable.FailSubtitle1]
+Oberlieutenant Daniel Nowitzki: Well, heroes!...
+[StringTable.FailSubtitle2]
+To tell the truth, I'd choose to fight, if I were in your shoes...
+[StringTable.FailSubtitle3]
+but you gotta have some special skills...
+[StringTable.FailSubtitle4]
+to organize things in such a stupid way. When we find your commander,.. [StringTable.FailSubtitle5]
+I’ll buy him some booze, if he’s alive, or bring some flowers to his grave,
+[StringTable.FailSubtitle6]
+if he’s dead. And all comes with a dedicatory inscription
+[StringTable.FailSubtitle7]
+"For unmatched courage and stupidity!"
+[MainTask.Objectives]
+Hold at least two of the fortified points
+[MainTask.Success]
+A radiogram from Lieutenant Colonel Waters: Due to your skillful defensive organization and engaging of the enemy reserves we managed to defeat their advance force and send you the reinforcement. Good work, lads!
+[MainTask.Failed]
+From Lieutenant Colonel Waters’ report to the command: the enemy got hold of the fortified points and his reserves reinforced the advance force. The assigned task was not completed...
+[MainTask.Description]
+A radiogram from Lieutenant Colonel Waters: Use the network of fortified points and the Stuart light tank to engage and destroy the arriving enemy reserves. Hold at least any two of the fortified points. Remember that your tank will draw much more numerous enemy forces than captain Whistler expects. If the tank gets damaged, the Germans will surely defeat our isolated groups.
+[StringTable.EnemyIsDefeated]
+Sir, the Jerries are retreating! It seems we’re way too tough for them!
+[StringTable.SecondWaveDefeated]
+Sir! The Jerries’ second wave of attacks has been repelled!
+[StringTable.FirstWaveDefeated]
+Oh, sons of bitches, you didn't expect our tank, did you? They are scarpering, sir!
+[StringTable.SecondWaveIncoming]
+Sir! They are advancing again! This time they attack us from two directions!
+[StringTable.SecondWave1Defeated]
+Sir! The south-western attack has been repelled! After they lost their tanks and their infantry saw our Stuart coming, and they ran away!
+[StringTable.SecondWave2Defeated]
+Sir! The enemy in the south-eastern direction is retreating after a few bursts from our tank!
+[StringTable.ThirdWave1Defeated]
+Sir! After the tank was destroyed the enemy infantry unit fled!
+[StringTable.ThirdWave2Defeated]
+Sir! Having lost their tank, the enemy infantry unit has retreated, with our Stuart in sight!
+[StringTable.ThirdWave3Defeated]
+Sir! The group of enemy APC and infantry ceased the attack!
+[StringTable.ThirdWaveIncoming]
+Sir! The enemy has deployed much heavier forces, we are being attacked from three directions!
+[StringTable.FirstStrongpointLost]
+A radiogram from Lieutenant Colonel Waters: We are now unable to reclaim the fortified point that we lost, but your Stuart could dislodge the enemy infantry that invades that place! Act accordingly to the situation and drive the enemy out of the captured fortified points!
+[StringTable.MitchellIsKilled]
+Alan Mitchell has been killed!
+[StringTable.ReturnInTank]
+Send the disembarked tank crewmen back into the tank to complete the mission.

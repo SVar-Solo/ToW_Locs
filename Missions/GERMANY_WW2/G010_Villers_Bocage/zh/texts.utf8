@@ -1,0 +1,68 @@
+﻿[Mission.Objectives]
+英军正试图抵达卡昂，你必须阻止他们。
+[Mission.Description]
+在蒙哥马利将军指挥下的英军，意图夺取维莱博卡日，然后向卡昂推进。你可以调遣党卫军第101重装甲营的数辆坦克，其中包括坦克王牌米夏埃尔·维特曼。对朝你而来的英军装甲纵队迅速而猛烈地出击。
+
+命令：
+-	 阻止英军装甲纵队。尽可能多地摧毁敌军坦克和装备。
+[Mission.Success]
+任务完成！你今天的行动将被铭记多年。
+[Mission.Failed]
+任务失败！给英军造成重创的机会丧失了。
+[Submission_1.Objectives]
+攻击敌军装甲纵队。
+[Submission_1.Description]
+英军第7装甲师的一部分正在行军，驶向维莱博卡日小镇，目的地是卡昂。
+
+命令：
+-	利用突然性、速度和你的优质坦克，给英军造成最大程度的杀伤。	 
+[Submission_1.Success]
+你重创了英军。
+[Submission_1.Failed]
+你的进攻失败了。
+[Submission_2.Objectives]
+如有可能，让米夏埃尔·维特曼和他的坦克乘员活下来。
+[Submission_2.Description]
+坦克王牌米夏埃尔·维特曼和他的乘员无论作为战斗力量还是作为象征都极为宝贵。你必须不惜一切代价保住他和他的乘员！
+[Submission_2.Success]
+米夏埃尔·维特曼在战斗中幸存，毫无疑问他将在今后的战斗中继续骚扰盟军。
+[Submission_2.Failed]
+米夏埃尔·维特曼已阵亡。
+[Submission_3.Objectives]
+继续攻击剩余的英军。
+[Submission_3.Description]
+你已给英军带来恐惧与毁灭。继续与剩余的英军交战。
+
+命令：
+-	 英军似乎正在该地区一处小农场周围重新集结，找到并消灭他们。
+[Submission_3.Success]
+你对农场的进攻取得了成功。
+[Submission_3.Failed]
+你对农场周围英军的进攻失败了。
+[Submission_4.Objectives]
+夺取小农场附近的关键战略位置。
+[Submission_4.Description]
+在维莱博卡日附近的一处农场周围发现了敌军。该农场靠近一处战略性十字路口，必须夺取。
+
+命令：
+-	 消灭农场周围的英军部队。
+-	 守住农场，抵御英军的任何反击。
+[Submission_4.Success]
+你已夺取农场并击溃了英军部队。
+[Submission_4.Failed]
+你对农场的进攻失败了。
+[Submission_5.Objectives]
+抵挡英军夺回农场的一切企图。
+[Submission_5.Description]
+你出其不意地打击了英军并给他们造成了重大杀伤，但他们开始重整集结，并决心夺取维莱博卡日镇。你必须击退这次反击。
+
+命令：
+-	 击退敌军的反击。
+[Submission_5.Success]
+你赢了！你今天的行动将永载战争史册。
+[Submission_5.Failed]
+你被击败了，英军向卡昂的推进将不受阻碍地继续。
+[StringTable.inf_reserv]
+一支步兵班已交由你调遣。
+[StringTable.tank_reserv]
+你从我军预备队获得了额外的坦克。

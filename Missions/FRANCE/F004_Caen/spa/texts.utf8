@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+Mantenga las posiciones de defensa en la zona especificada.
+[Mission1.Description]
+La situación es muy grave; casi no hay esperanza de salvación. Muchos camaradas han caído en los combates y, sin duda, muchos más están destinados a morir y teñir con su sangre las tierras de Normandía. Según los informes, las tropas alemanas avanzan rápidamente hacia el pueblo para arrasar cualquier resistencia que encuentren en su camino hacia Caen. Desde el este y el oeste, nuestros flancos están muy poco protegidos, con lo que resulta muy probable que las tropas alemanas ataquen por dichos puntos.
+
+Sus órdenes:
+-	Mantenga la defensa del pueblo.
+[Mission1.Success]
+¡Misión cumplida! Sus soldados han mantenido sus posiciones y salvado Caen de los alemanes, al menos de momento.
+[Mission1.Failed]
+¡Órdenes incumplidas! Las tropas alemanas han conseguido atravesar sus posiciones y han irrumpido en Caen.
+[Submission1.Objectives]
+Rechace el ataque enemigo desde el noroeste.
+[Submission1.Description]
+Las tropas alemanas avanzan hacia el pueblo con el propósito de acabar con cualquier tipo de resistencia. Es de vital importancia para nosotros que se rechace este ataque, y evitar así que los alemanes lleguen a Caen.
+
+Sus órdenes:
+-	Rechace el ataque enemigo desde el noroeste.
+[Submission1.Success]
+¡Ha conseguido rechazar el ataque alemán!
+[Submission1.Failed]
+¡El enemigo ha atravesado las defensas!
+[Submission2.Objectives]
+Rechace el ataque enemigo desde el norte.
+[Submission2.Description]
+Las tropas alemanas avanzan hacia el pueblo con el propósito de acabar con cualquier tipo de resistencia. Es de vital importancia para nosotros que se rechace este ataque, y evitar así que los alemanes lleguen a Caen.
+
+Sus órdenes:
+-	Rechace el ataque enemigo desde el norte.
+[Submission2.Success]
+¡Ha frenado el ataque enemigo!
+[Submission2.Failed]
+¡El enemigo ha aplastado las defensas!
+[Submission3_1.Objectives]
+Ataque a la agrupación de fuerzas enemigas.
+[Submission3_1.Description]
+Las fuerzas aliadas del flanco oeste han caído y los alemanes avanzan una vez más hacia el pueblo desde esa dirección. ¡Siga resistiendo el envite enemigo y detenga este nuevo ataque!
+
+Sus órdenes:
+-	Ataque a las fuerzas enemigas que avanzan desde el oeste.
+[Submission3_1.Success]
+Ha cumplido la misión, y el enemigo se retira. ¡Ha salvado la situación!
+[Submission3_1.Failed]
+Misión incumplida, sus tropas han sufrido una derrota.
+[Submission4.Objectives]
+Ataque a la agrupación enemiga que procede del este.
+[Submission4.Description]
+Las tropas aliadas del flanco este han sido superadas, y las tropas alemanas se dirigen ahora hacia Caen. ¡Tiene que detenerles!
+
+Sus órdenes:
+-	Ataque a las tropas enemigas que proceden del este.
+[Submission4.Success]
+¡Misión cumplida!
+[Submission4.Failed]
+¡Órdenes incumplidas!
+[Submission5.Objectives]
+Rechace la ofensiva de tropas enemigas.
+[Submission5.Description]
+Según el reconocimiento aéreo, otro batallón enemigo avanza hacia Caen. Reúne a todas las fuerzas disponibles y rechaza el avance enemigo. ¡Es la última esperanza para detener a los alemanes!
+
+Sus órdenes son:
+- Rechace el avance alemán hacia Caen.
+[Submission5.Success]
+¡Misión cumplida! ¡Ha frenado el ataque enemigo!
+[Submission5.Failed]
+¡El enemigo ha vencido! ¡Sus tropas han sido eliminadas!
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.
+[Submission4_1.Objectives]
+Ataque a las tropas enemigas.
+[Submission4_1.Description]
+Las tropas aliadas del flanco este han sido superadas, y las tropas alemanas se dirigen ahora hacia Caen. ¡Tiene que detenerles!
+
+Sus órdenes:
+-	Ataque a las tropas enemigas que proceden del este.
+[Submission4_1.Success]
+Ha rechazado el ataque enemigo y las tropas del este se retiran.
+[Submission4_1.Failed]
+¡No ha frenado el ataque enemigo y sus tropas han sido eliminadas!
+[Submission3.Objectives]
+Ataque a la agrupación de fuerzas enemigas.
+[Submission3.Description]
+Nuestras posiciones más occidentales han caído y, una vez más, los alemanes avanzan rápidamente hacia el pueblo. Tiene que atacarles de una vez, antes de que abran una brecha y tomen Caen.
+
+Sus órdenes son:
+- 	Ataque a las tropas enemigas que proceden del oeste.
+[Submission3.Success]
+¡Ha cumplido la misión y ha derrotado al enemigo!
+[Submission3.Failed]
+Ha incumplido las órdenes y han derrotado a sus tropas.

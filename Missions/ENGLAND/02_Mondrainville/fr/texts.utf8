@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Libérez Mondrainville, progressez vers le sud, sécurisez la route de Caen et éliminez tous les points d’appui ennemis.
+[Mission.Description]
+Progressez, bloquez la route de Caen et nettoyez les environs de Mondrainville de la présence ennemie.
+[Submission_01.Success]
+Mondrainville prise.
+[Submission_01.Failed]
+Mondrainville n’a pas été prise.
+[Submission_1.Objectives]
+Chassez l’ennemi de la ferme.
+[Submission_1.Description]
+D’après la reconnaissance aérienne, une batterie d’artillerie ennemie se trouve à la ferme. Éliminez-la.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Repoussez l’attaque ennemie sur Mondrainville.
+[Submission_3.Description]
+Pour tenter de conserver Mondrainville, l’ennemi envoie des renforts.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Sécurisez la route de Caen.
+[Submission_2.Description]
+Délogez l’ennemi du groupe de bâtiments le long de la route de Caen.
+[Submission_3.Success]
+Attaque repoussée.
+[Submission_3.Failed]
+Mission échouée.
+[Submission_1.Success]
+Batterie d’artillerie éliminée. Ferme sécurisée.
+[Submission_1.Failed]
+Mission non accomplie.
+[Submission_2.Success]
+Route sécurisée.
+[Submission_2.Failed]
+Mission non accomplie.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[StringTable.Tanks]
+Force de réserve disponible.

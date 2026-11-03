@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Destroy the enemy defenses.
+[Mission.Description]
+German troops have taken up yet another defensive line. They have concentrated significant antitank forces near Chismena.
+
+Your order is to:
+- Destroy the enemy defenses in the area of Chismena.
+[Mission.Success]
+The enemy defenses were destroyed. Your task has been a success!
+[Mission.Failed]
+You failed to fulfill your order!
+[Submission_1.Objectives]
+Capture the heights.
+[Submission_1.Description]
+The enemy forces are concentrated on the heights to the north of the settlement. The defending enemy forces include antitank guns and self-propelled guns. 
+
+Your order is to:
+- Drive the enemy away from the heights.
+[Submission_1.Success]
+Your task has been fulfilled! You drove the enemy away from the heights.
+[Submission_1.Failed]
+The enemy has repelled your attack. You failed to fulfill your order!

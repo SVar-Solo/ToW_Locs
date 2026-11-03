@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Percez les défenses
+[Mission.Description]
+Commandant Gerhard, votre équipe de combat doit avancer sur Le Kef via Thala. La route de Thala passe par le col de Kasserine où, selon nos renseignements, les forces américaines sont en défense. Percez les défenses ennemies au col et poursuivez l'avance.
+[Mission.Success]
+Les défenses ennemies ont été détruites.
+[Mission.Failed]
+Repli. Nous n'avons pas réussi à percer les défenses ennemies au col.
+[Submission_1.Objectives]
+Éliminez le flanc gauche
+[Submission_1.Description]
+Attaquez immédiatement l'ennemi et éliminez le flanc gauche de ses défenses. Les renseignements indiquent que la route à travers le col est plutôt étroite et réglée par l'artillerie ennemie. Mais il existe un sentier de montagne que nous pouvons emprunter pour atteindre et détruire les canons antichars ennemis.
+[Submission_1.Success]
+Le flanc gauche des défenses ennemies a été détruit !
+[Submission_1.Failed]
+Mission échouée.
+[Submission_1_1.Objectives]
+Repoussez la contre-attaque
+[Submission_1_1.Description]
+L'ennemi contre-attaque ! Mobilisez immédiatement vos forces et repoussez l'assaut !
+[Submission_1_1.Success]
+La contre-attaque a été repoussée avec succès.
+[Submission_1_1.Failed]
+Mission échouée.
+[Submission_3.Objectives]
+Éliminez les défenses ennemies
+[Submission_3.Description]
+Selon nos renseignements, une petite équipe de combat ennemie a établi des défenses au-delà du col. Pour avancer sur Thala, il faut éliminer les défenses ennemies.
+[Submission_3.Success]
+Les défenses ennemies ont été éliminées.
+[Submission_3.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Éliminez le flanc droit
+[Submission_2.Description]
+Notre reconnaissance a découvert que l'ennemi a miné tous les passages du col sauf un, protégé par l'artillerie et l'infanterie ennemies. Nous n'avons pas le temps de déminer, car notre aviation signale une importante formation ennemie qui approche du col. Pour permettre à nos troupes d'avancer, nous devons écraser le flanc droit des défenses ennemies.
+[Submission_2.Success]
+Le flanc droit des défenses ennemies a été détruit.
+[Submission_2.Failed]
+Mission échouée.
+[Submission_2_1.Objectives]
+Écrasez l'ennemi
+[Submission_2_1.Description]
+L’équipe de combat ennemie contre-attaque ! Nous devons l'éliminer par un coup écrasant.
+[Submission_2_1.Success]
+L'équipe de combat ennemie a été éliminée.
+[Submission_2_1.Failed]
+Mission échouée.
+[StringTable.Reinforcement]
+Commandant Gerhard. Vous avez maintenant le commandement des chars et de l'infanterie de la 10e Panzerdivision.

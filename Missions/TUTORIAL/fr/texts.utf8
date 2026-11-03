@@ -1,0 +1,56 @@
+﻿[TUTORIAL.FullName]
+
+[TUTORIAL.Description]
+
+[Mission_1_1.FullName]
+1.1 Instruction de base 
+[Mission_1_1.Description]
+Soldat ! Vous avez rejoint les rangs de l’Armée rouge ! Avant de partir au front, vous devez suivre une instruction de base et accomplir plusieurs tâches fixées par votre commandant.
+
+[Mission_1_2.FullName]
+1.2 Ligne de vue et ligne de tir
+[Mission_1_2.Description]
+L’objectif principal de ce didacticiel est de montrer les principes de fonctionnement des calculs de ligne de vue et de ligne de tir dans le jeu, ainsi que les différents modes de caméra. Votre tâche est de détruire l’un des chars ennemis.
+
+[Mission_2_1.FullName]
+2.1 Tactique de combat
+[Mission_2_1.Description]
+Soldat ! Aujourd’hui, vous allez étudier la tactique appropriée pour donner l’assaut à une position fortifiée ennemie. 
+Vous devez exécuter vos ordres exactement comme ils sont fixés par votre commandant, avec une obéissance totale !
+
+[Mission_2_2.FullName]
+2.2 Tactique défensive
+[Mission_2_2.Description]
+Soldat ! Les envahisseurs allemands oppriment le peuple soviétique et dévastent villages et villes.
+Vous devez apprendre la tactique appropriée pour stopper l’avance des troupes allemandes.
+Vos troupes ne doivent pas se replier de leurs positions de défense !
+
+[Mission_2_3.FullName]
+2.3 Commandement et contrôle
+[Mission_2_3.Description]
+Chaque formation ou unité militaire est dirigée par un commandant. Contrôler les troupes, c’est garder le doigt sur le pouls des événements et conserver l’initiative. L’objectif principal de cette mission d’entraînement est d’apprendre à contrôler les troupes et à employer efficacement les armes combinées au combat.
+
+
+[Mission_3_1.FullName]
+3.1 Bataille d’entraînement – Afrique 1943. Défense
+[Mission_3_1.Description]
+Arrêter l’attaque de l’infanterie et des véhicules blindés ennemis.
+Dans cette bataille d’entraînement, vous découvrirez les bases de la défense en zone rurale sur le théâtre d’opérations africain. Vous apprendrez à transporter des troupes, à utiliser les abris, à choisir les armes et à employer au combat un lance-grenades antichar portatif.
+
+[Mission_3_2.FullName]
+3.2 Bataille d’entraînement – Afrique 1943. Assaut
+[Mission_3_2.Description]
+Diriger une petite unité d’infanterie et s’emparer d’une localité africaine par un assaut. 
+Vous apprendrez à mener une reconnaissance, à utiliser des grenades fumigènes, à progresser dans les bâtiments avec les modes « Attaque » et « Assaut », ainsi qu’à utiliser un véhicule capturé.
+
+[Mission_3_3.FullName]
+3.3 Bataille d’entraînement – Koursk 1943
+[Mission_3_3.Description]
+Apprenez à utiliser l’environnement et le terrain pour approcher discrètement des positions ennemies dans la direction de Koursk. À la tête d’un détachement de reconnaissance, reprenez le village saisi par l’ennemi. Capturez des armes ennemies ; avec leur aide, organisez une défense et repoussez la contre-attaque de l’ennemi.
+
+[Mission_3_4.FullName]
+3.4 Bataille d’entraînement – Corée 1950
+[Mission_3_4.Description]
+Apprenez à utiliser un hélicoptère de transport et à poser des mines dans un secteur menacé par des chars sur le théâtre d’opérations coréen. Repoussez l’attaque ennemie contre vos positions.
+
+[TUTORIAL.Epilogue]

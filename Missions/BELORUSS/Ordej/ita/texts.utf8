@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Liberare Ordez e Sosnovaja Naspa e respingere i contrattacchi nemici.
+[Mission.Description]
+Liberare Ordez e Sosnovaja Naspa. Mantenerle in caso di attacchi nemici. Ripulire dalle truppe nemiche l'area occupata, le strade e le vicinanze.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission1.Objectives]
+Liberare Ordez.
+[Submission1.Description]
+Liberare Ordez.
+[Submission1.Success]
+Compito portato a termine.
+[Submission1.Failed]
+Compito fallito.
+[Submission2.Objectives]
+Liberare Sosnovaja Naspa.
+[Submission2.Description]
+Liberare Sosnovaja Naspa.
+[Submission2.Success]
+Compito portato a termine.
+[Submission2.Failed]
+Compito fallito.
+[Submission3.Objectives]
+Mantenere Ordez.
+[Submission3.Description]
+Mantenere Ordez.
+[Submission3.Success]
+Compito portato a termine.
+[Submission3.Failed]
+Compito fallito.

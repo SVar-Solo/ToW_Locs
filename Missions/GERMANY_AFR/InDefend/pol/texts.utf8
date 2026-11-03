@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Utrzymaj pozycje
+[Mission.Description]
+Utrzymaj pozycje pod Sidi Bou Zid.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana!
+[Submission_1.Objectives]
+Utrzymaj miasto
+[Submission_1.Description]
+Sztab armii przydzielił czołgi z odwodu, ale są jeszcze w drodze. Wróg desperacko próbuje odzyskać Sidi Bou Zid. Musisz utrzymać miasto do czasu nadejścia posiłków.
+[Submission_1.Success]
+Misja wykonana.
+[Submission_1.Failed]
+Misja nieudana!
+[Submission_2.Objectives]
+Zniszcz wrogie stanowiska artylerii
+[Submission_2.Description]
+Masz teraz dowództwo nad czołgami z odwodu sztabu armii. Użyj ich, by zdobyć małą osadę i zniszczyć wrogie stanowiska artylerii.
+[Submission_2.Success]
+Misja wykonana.
+[Submission_2.Failed]
+Misja nieudana!
+[StringTable.Add_tanks]
+- Majorze, kazałem przydzielić panu czołgi z odwodu sztabu armii. Amerykanie ponieśli ciężkie straty i nadszedł czas na kontratak. Powodzenia dla pana i pańskich ludzi.

@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+Comandante, conquistate il villaggio sull'isola e distruggete le difese nemiche. Data la loro robustezza, procederemo per gradi, senza svelare la direzione dell'attacco principale.
+[Mission.Description]
+Comandante, il vostro obiettivo principale è conquistare un villaggio situato sull'isola e distruggere le difese nemiche che vi sono state costruite. Data la loro robustezza, intendiamo procedere per gradi, senza impiegare tutte le forze disponibili, altrimenti sveleremmo senza dubbio al nemico la direzione dell'attacco principale.
+[Mission.Success]
+Congratulazioni, Comandante! L'obiettivo è raggiunto!
+[Mission.Failed]
+Comandante, ritirate subito le truppe superstiti: non riusciamo a sfondare le difese nemiche! E pensate a una scusa adeguata per il vostro fallimento, da presentare a Sir Winston e a Sua Maestà!
+[Submission_1.Objectives]
+Comandante, ripulite l'insediamento settentrionale, che copre il passaggio al villaggio. Avete solo lo squadrone di autoblindo; i Valentine sono in marcia. Vi sono assegnati fanteria, cannoni da campagna e anticarro.
+[Submission_1.Description]
+Comandante, il vostro primo obiettivo è ripulire dal nemico l'insediamento settentrionale che copre il passaggio verso il villaggio sull'isola. Purtroppo i lenti Valentine sono ancora in marcia e lo squadrone di autoblindo è tutto ciò che avete. Tuttavia, secondo i rapporti dell'intelligence, dovrebbe bastare per compiere l'obiettivo. Alla vostra forza sono assegnati una squadra di fanteria, cannoni da campagna e cannoni anticarro, per ogni evenienza.
+[Submission_1.Success]
+La prima fase è completata! I Valentine ritardatari, con il supporto della fanteria, si uniscono alle vostre forze.
+[Submission_1.Failed]
+La missione è fallita!
+[Submission_2.Objectives]
+Comandante, neutralizzate le batterie da campagna e contraeree nel sud-est (punto 3) per liberare mortai e aviazione. Poi riceverete rinforzi.
+[Submission_2.Description]
+Comandante, i piloti segnalano batterie da campagna e contraeree nemiche. Le batterie da campagna si trovano nella parte sudorientale del campo di battaglia (punto 3) e non permettono ai nostri mortai di aprire il fuoco. I nostri aerei non possono attaccare a causa dei cannoni contraerei. Neutralizzateli e avrete i vostri rinforzi.
+[Submission_2.Success]
+La batteria nemica è stata neutralizzata. Ora i nostri mortai possono aprire il fuoco!
+[Submission_2.Failed]
+La missione è fallita!
+[Submission_3.Objectives]
+Conquistate l'insediamento meridionale. Le difese sono più solide, ma i Valentine in arrivo aiuteranno; valutate una cortina fumogena sul guado, a vostra discrezione.
+[Submission_3.Description]
+Il nostro prossimo piano è conquistare l'insediamento meridionale. Le difese lì sono molto più solide di quelle a nord, ma con l'aiuto dei Valentine in arrivo dovreste riuscire a prenderlo. Comandante, i guadi potrebbero essere esposti al fuoco nemico, quindi una cortina fumogena sul guado potrebbe rivelarsi utile. Ma la decisione spetta a voi.
+[Submission_3.Success]
+L'insediamento meridionale è stato conquistato! Tutti i passaggi occidentali sono nostri e avete a disposizione dei rinforzi.
+[Submission_3.Failed]
+La missione è fallita!
+[Submission_4.Objectives]
+Penetrate rapidamente nelle retrovie nemiche (punto 5) con almeno tre fanti: accerchiate o ingannate il nemico e fissate le coordinate per l'attacco aereo. Il tempo è contro di noi!
+[Submission_4.Description]
+Comandante, ora dobbiamo darci una mossa! Con una rapida penetrazione nelle retrovie nemiche (punto 5) possiamo raggiungere due scopi insieme: accerchiare il nemico, o almeno fargli credere di esserlo, e fornire le coordinate per un attacco aereo sui rinforzi nemici in marcia. Per riuscirci dobbiamo avere in quella zona almeno tre dei nostri fanti. Il tempo è contro di noi!
+[Submission_4.Success]
+Comandante, la nostra aviazione ha usato le coordinate da voi fornite e ha bombardato con successo il convoglio nemico giunto a rinforzare i difensori. Il nemico si dispone a difesa circolare, credendosi accerchiato: non ci resta che distruggerlo!
+[Submission_4.Failed]
+Il convoglio nemico è riuscito a raggiungere la guarnigione. Comandante, riorganizzate le vostre forze, respingete il contrattacco e distruggete completamente la guarnigione!
+[StringTable.LateValentine]
+Un solitario Valentine che si era perso per strada sta correndo in soccorso: ha saputo della nostra situazione difficile via radio!
+[StringTable.FlakCrippled]
+La difesa contraerea nemica è fuori combattimento: ora la nostra aviazione può entrare in azione!
+[StringTable.NorthernVillageCleared]
+Comandante, le mie congratulazioni! L'insediamento settentrionale è stato ripulito dal nemico. Continuate a spingere!
+[StringTable.SouthernVillageCleared]
+Comandante, state avanzando con costanza. I Crucchi sono stati scacciati dall'insediamento meridionale. Incalzateli!
+[StringTable.LastReserve]
+Comandante, le nostre forze corazzate hanno subito perdite gravi: vi mando l'ultima riserva operativa. Non prendete decisioni avventate!
+[StringTable.SubtitleIntro1]
+Dalla radio di una jeep esce la voce del Primo Ministro Winston Spencer Churchill:
+[StringTable.SubtitleIntro2]
+... Sua Maestà e l'intero Regno Unito si aspettano che i nostri...
+[StringTable.SubtitleIntro3]
+soldati in Tunisia facciano il loro dovere!
+[StringTable.SubtitleIntro4]
+Ufficiale (a bassa voce): Tutti per uno, dall'alfa all'omega...
+[StringTable.SubtitleIntro5]
+Ufficiale (a voce alta, ai suoi subordinati): Ragazzi, posso solo aggiungere che
+[StringTable.SubtitleIntro6]
+vista l'importanza dell'obiettivo, al comando ci sarà Montgomery in persona!
+[StringTable.SubtitleIntro7]
+E ora, ai vostri posti di combattimento!
+[StringTable.SubtitleIntro8]
+Soldati: Signorsì, signore!
+[StringTable.SubtitleWin1]
+Soldati tra loro: ...bene, tu, io, Jenkins e Parker
+[StringTable.SubtitleWin2]
+siamo vivi, Knightly è ferito, è tutto quello che resta del nostro plotone,...
+[StringTable.SubtitleWin3]
+gli unici sopravvissuti. Sì, e Freeman con il suo Val della seconda. Che fortunato...
+[StringTable.SubtitleWin4]
+Carrista Freeman: Ragazzi, Johny... (un soldato) è morto!
+[StringTable.SubtitleWin5]
+Oh, la sua povera Maude! Le scriveva sempre, ogni volta che ne aveva la possibilità...
+[StringTable.SubtitleWin6]
+Allora, Freeman, sarai tu a scriverle per cosa è morto!
+[StringTable.SubtitleWin7]
+Freeman: Perché i loro piccoli Harry e Ann non debbano mai...
+[StringTable.SubtitleWin8]
+vedere tutti questi orribili incubi!
+[StringTable.SubtitleFail1]
+Soldati tedeschi: Du kennst als Fachmann mit Routine ...
+[StringTable.SubtitleFail2]
+Matilda noch und Valentine. Come ho fatto a centrare l'ultimo in testa, eh?
+[StringTable.SubtitleFail3]
+Guter Kerl! I Tommy sono dei polli: la prossima volta li ricacceremo indietro...
+[StringTable.SubtitleFail4]
+con la coda tra le gambe fino in Algeria!

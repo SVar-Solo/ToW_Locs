@@ -1,0 +1,30 @@
+﻿[Mission.Objectives]
+Smorzate l’attacco nemico
+[Mission.Description]
+Tenente colonnello Waters! Dovete smorzare l’attacco nemico su Tebessa.
+[Mission.Success]
+L’ordine è stato eseguito! Il nemico non è riuscito a sfondare fino a Tebessa.
+[Mission.Failed]
+Il nemico ha sfondato le nostre difese e avanza rapidamente verso Tebessa.
+[StringTable.Reinf]
+Colonnello Waters! I rinforzi sono in arrivo. Tenete duro!
+[Submission1.Objectives]
+Tenere la linea
+[Submission1.Description]
+Tenete la linea! Il nemico non deve sfondare il passo!
+[Submission1.Success]
+Il nemico è stato sconfitto e fugge!
+[Submission1.Failed]
+Il nemico ha sfondato le difese! Le nostre truppe si ritirano su Tebessa.
+[StringTable.Woters]
+Soldati, all’azione! Non dobbiamo cedere al nemico!
+[StringTable.Woters1]
+Ecco i tedeschi.
+[StringTable.Woters2]
+Sono arrivati i rinforzi.
+[StringTable.Woters3]
+Maledizione! I tedeschi hanno neutralizzato l’artiglieria sull’altura.
+[StringTable.tank_spg]
+Carri armati e semoventi
+[StringTable.human]
+Fanteria.

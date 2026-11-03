@@ -1,0 +1,561 @@
+﻿[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Stage a preemptive strike on the attacking enemy. Do not allow the hostiles to capture the bridge.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+The bridge is strategically important, but at present is only defended by a small infantry team. According to reconnaissance, the enemy is preparing to attack the position. You must advance swiftly, and stage a preemptive strike on the attacking enemy.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission failed. Enemy captured the bridge.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission failed. Enemy captured the bridge.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission failed. Enemy captured the bridge.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+The bridge is strategically important. You must advance and stage a preemptive strike on the attacking enemy. Pay attention to the left flank, which is vulnerable and may be breached by infantry teams. You must hold the bridge at all costs.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+The bridge is strategically important. You must advance and stage a preemptive strike on the attacking enemy. Pay attention to the left flank, which is vulnerable and may be breached by infantry teams. You must hold the bridge at all costs.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Stage a preemptive strike on the attacking enemy. Do not allow the hostiles to capture the bridge.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Stage a preemptive strike on the attacking enemy. Do not allow the hostiles to capture the bridge.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillery support is awaiting orders.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillery support is awaiting orders.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve infantry-armor team is at your command.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve infantry-armor team is at your command.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Eliminate the defending hostiles, and capture the inhabited locality marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Your combat team is charged with escorting our forces across the river. Capture the bridge and destroy the enemy's defenses in the inhabited locality, which are preventing our troops from advancing.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Your combat team is charged with escorting our forces across the river. Capture the bridge and destroy the enemy's defenses in the inhabited locality, which are preventing our troops from advancing. According to reconnaissance, the enemy will actively counterattack with mobile firepower.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Eliminate the defending hostiles, and capture the inhabited locality marked on the map.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Friendly troops defeated.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Stage a preemptive strike on the attacking enemy. Do not allow the hostiles to capture the bridge.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+The bridge is strategically important, but at present is only defended by a small infantry team. According to reconnaissance, the enemy is preparing to attack the position. You must advance swiftly, and stage a preemptive strike on the attacking enemy.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission failed. Enemy captured the bridge.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission failed. Enemy captured the bridge.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission failed. Enemy captured the bridge.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+The bridge is strategically important. You must advance and stage a preemptive strike on the attacking enemy. Pay attention to the left flank, which is vulnerable and may be breached by infantry teams. You must hold the bridge at all costs.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+The bridge is strategically important. You must advance and stage a preemptive strike on the attacking enemy. Pay attention to the left flank, which is vulnerable and may be breached by infantry teams. You must hold the bridge at all costs.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Stage a preemptive strike on the attacking enemy. Do not allow the hostiles to capture the bridge.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Stage a preemptive strike on the attacking enemy. Do not allow the hostiles to capture the bridge.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillery support is awaiting orders.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillery support is awaiting orders.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Reserve infantry-armor team is at your command.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Reserve infantry-armor team is at your command.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Eliminate the defending hostiles, and capture the inhabited locality marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Your combat team is charged with escorting our forces across the river. Capture the bridge and destroy the enemy's defenses in the inhabited locality, which are preventing our troops from advancing.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Your combat team is charged with escorting our forces across the river. Capture the bridge and destroy the enemy's defenses in the inhabited locality, which are preventing our troops from advancing. According to reconnaissance, the enemy will actively counterattack with mobile firepower.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Eliminate the defending hostiles, and capture the inhabited locality marked on the map.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Friendly troops defeated.
+
+[Reinforcement.Group_tanks_infantry]
+Reserve infantry-armor team
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Eliminate the defending hostiles, and capture the inhabited locality marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Eliminate hostiles in the inhabited locality marked on the map. Capture the locality and be ready to repel all enemy counterattacks.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture the inhabited locality in the valley.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Quick-march to the area marked on the map, and launch an immediate off-the-march attack on the enemy vanguard, before they have a chance to establish their defenses. Capture the inhabited locality and be ready to repel all counterattacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Capture and hold the inhabited locality.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[Reinforcement.Group1[Reinforcement]]
+Infantry and armored vehicles
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Capture and hold the inhabited locality.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Capture and hold the inhabited locality.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Eliminate the defending hostiles, and capture the inhabited locality marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Eliminate hostiles in the inhabited locality marked on the map. Capture the locality and be ready to repel all enemy counterattacks.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Capture the inhabited locality in the valley.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Quick-march to the area marked on the map, and launch an immediate off-the-march attack on the enemy vanguard, before they have a chance to establish their defenses. Capture the inhabited locality and be ready to repel all counterattacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Capture and hold the inhabited locality.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Description]
+Quick-march to the village marked on the map. Establish your defenses there, and hold it for the designated period of time, until the main body of our forces arrives.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Objectives]
+Capture and hold the inhabited locality.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Objectives]
+Capture and hold the inhabited locality.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Mortar support is available.
+

@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Utrzymajcie linię na wschodnim brzegu Pjany. Nie pozwólcie wrogowi na stworzenie przyczółku na zachodnim brzegu.
+[Mission.Description]
+Wraz z czołgami z 200. Brygady Pancernej zabezpieczcie punkt obronny w zachodniej części Wierchopieni. Jednostki wycofujące się do strefy obronnej zostaną zebrane, przezbrojone i wysłane do odpowiednich sektorów. Zniszczcie w kontratakach nadciągające grupy wroga, broniąc jednocześnie okupowanych pozycji.
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Wróg przekroczył Pjanę, nasze wojska się wycofują.
+[Submission1.Objectives]
+Odeprzyjcie wszystkie ataki wroga. Nie pozwólcie nieprzyjacielowi przedrzeć się do mostów na Pjanie.
+[Submission1.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Submission1.Failed]
+Przeważające siły wroga kontynuują natarcie.
+[Submission2.Objectives]
+Wróg przedostał się do pozycji niedaleko przeprawy przez rzekę, istnieje zagrożenie, iż ustanowi przyczółek na zachodnim brzegu. Natychmiast przypuśćcie kontratak i odepchnijcie przeciwnika od rzeki.
+[Submission2.Success]
+Kontratak przebiega dobrze, wróg się wycofuje.
+[Submission2.Failed]
+Kontratak został powstrzymany, istnieje możliwość, że wróg ustanowi przyczółek.
+[StringTable.Platzdarm]
+Zniszczcie przemieszczające się grupy wroga, zanim otrzyma posiłki.
+[StringTable.Air!]
+Nalot! Kryć się!
+
+[StringTable.Tanks]
+Czołgi z 203. Niezależnego Pułku Czołgów Ciężkich
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

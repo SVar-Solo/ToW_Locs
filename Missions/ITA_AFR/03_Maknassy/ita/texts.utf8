@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Impedite l’attacco
+[Submission_1.Description]
+Il nemico cerca di ammassare forze per sferrare un colpo lungo la strada verso i sobborghi. Cercate di impedire un attacco simultaneo battendo con il fuoco le unità nemiche che si stanno riorganizzando.
+[NewSubmission.Success]
+Missione compiuta: la batteria è distrutta e le sue posizioni sono state invase.
+[NewSubmission.Failed]
+Missione fallita.
+[Mission.Objectives]
+Proteggete il sobborgo di Maknassy
+[Mission.Description]
+Prendete il comando delle posizioni difensive e preparatevi a respingere l’attacco. Scacciate il nemico dai sobborghi di Maknassy.
+[Submission_2.Objectives]
+Distruggete la batteria d’artiglieria
+[Submission_2.Description]
+È stata individuata una batteria d’artiglieria nemica: distruggetela e ripulite le posizioni indicate.
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+Missione fallita.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission_2.Success]
+Missione compiuta.
+[Submission_2.Failed]
+Missione fallita.

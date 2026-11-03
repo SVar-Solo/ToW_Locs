@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Besetzen Sie Hügel 112.
+[Mission.Description]
+Besetzen und halten Sie Hügel 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Sichern Sie den südwestlichen Hang.
+[Submission_1.Description]
+Vertreiben Sie den Feind vom südwestlichen Hang.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Sichern Sie den östlichen Hang.
+[Submission_2.Description]
+Vertreiben Sie den Feind vom östlichen Hang.
+[Submission_3.Objectives]
+Sichern Sie den Bauernhof im nördlichen Teil des Dorfes.
+[Submission_3.Description]
+Der Feind, der den Bauernhof besetzt hält, kann auf die Flanken unserer Truppen feuern, die entlang des Hügels 112 vorrücken.
+[Submission_4.Objectives]
+Befreien Sie das Dorf am südwestlichen Hang.
+[Submission_4.Description]
+Der Feind im Dorf kann seine Truppen, die auf dem südwestlichen Hang Stellung bezogen haben, effektiv unterstützen.
+[Submission_5.Objectives]
+Zerstören Sie die feindlichen Panzer, die am Gegenangriff beteiligt sind.
+[Submission_5.Description]
+Der Feind versucht, uns mit einem Gegenangriff durch schwere Panzer zu vertreiben.
+[Mission.Success]
+Hügel 112 wurde befreit.
+[Mission.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_1.Success]
+Der südwestliche Hang wurde gesichert.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_2.Success]
+Der Feind wurde vom östlichen Hang vertrieben.
+[Submission_2.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_3.Success]
+Bauernhof gesichert.
+[Submission_3.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_4.Success]
+Dorf wurde befreit.
+[Submission_4.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_5.Success],
+Der Gegenangriff wurde abgewehrt.
+[Submission_5.Failed]
+Aufgabe wurde nicht erfüllt.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

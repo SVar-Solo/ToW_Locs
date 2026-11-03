@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+敵の防御を撃破せよ。
+[Mission.Description]
+ドイツ軍はまたも別の防衛線に陣取った。彼らはチスメナ付近に相当な対戦車戦力を集中させている。
+
+命令：
+- チスメナ地区の敵防御を撃破せよ。
+[Mission.Success]
+敵の防御は撃破された。貴官の任務は成功だ！
+[Mission.Failed]
+貴官は命令を果たせなかった！
+[Submission_1.Objectives]
+高地を占領せよ。
+[Submission_1.Description]
+敵部隊は集落の北の高地に集中している。防衛する敵部隊には対戦車砲と自走砲が含まれる。 
+
+命令：
+- 敵を高地から駆逐せよ。
+[Submission_1.Success]
+貴官の任務は果たされた！ 貴官は敵を高地から駆逐した。
+[Submission_1.Failed]
+敵は貴官の攻撃を撃退した。貴官は命令を果たせなかった！

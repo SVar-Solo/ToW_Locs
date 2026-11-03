@@ -1,0 +1,50 @@
+﻿[Submission_1.Objectives]
+Repel the attack
+[Submission_1.Description]
+Take defense positions and prepare to repel an attack.
+[Submission_01.Success]
+Mission completed.
+[Submission_01.Failed]
+Mission failed.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Hold the occupied positions
+[Mission.Description]
+Take defensive positions opposite the advancing enemy troops, repel their attacks and hold your ground.
+[NewSubmission.Success]
+Mission accomplished.
+[NewSubmission.Failed]
+Mission failed.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Success]
+The first attack has been repelled.
+[Submission_1.Failed]
+The enemy has breached your defense.
+[Submission_2.Objectives]
+Prepare to repel next attack
+[Submission_2.Description]
+The enemy is regrouping and will soon attempt to breach your defense again. Prepare to repel their next attack and deploy the arriving reinforcements.
+[Submission_3.Objectives]
+Clean up the settlement
+[Submission_3.Description]
+Clear this small settlement from the enemy to prevent an enveloping attack on our defenses.
+[Submission_4.Objectives]
+Defend occupied positions
+[Submission_4.Description]
+The Americans are trying to recover their balance once again, prepare to defend your positions in the captured village.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.
+[Submission_3.Success]
+Mission accomplished.
+[Submission_3.Failed]
+Mission failed.
+[Submission_4.Success]
+Mission accomplished.
+[Submission_4.Failed]
+Mission failed.

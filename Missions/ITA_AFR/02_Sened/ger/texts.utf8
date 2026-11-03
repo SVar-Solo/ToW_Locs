@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Head the defense
+[Submission_1.Description]
+Support the units guarding the railroad station and the settlement; then head the defense.
+[Submission_01.Success]
+All troops are under your command now.
+[Submission_01.Failed]
+Mission Failed.
+[Mission.Objectives]
+Stop the enemy
+[Mission.Description]
+Retain control of the settlement and the station. If the station is captured, counterattack the enemy and reclaim it. Losing the settlement means that the enemy broke through and the mission is failed.
+[NewSubmission.Success]
+The station is ours once again!
+[NewSubmission.Failed]
+Mission failed.
+[Mission.Success]
+Mission completed, all attacks have been repelled.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Success]
+All units are under your command now.
+[Submission_1.Failed]
+You denial to command the defense will cost you dearly!
+[Submission_2.Objectives]
+Counterattack
+[Submission_2.Description]
+The enemy has captured the station! Counterattack and reclaim it.
+[Submission_2.Success]
+Mission accomplished, the station is ours once again.
+[Submission_2.Failed]
+Mission failed.

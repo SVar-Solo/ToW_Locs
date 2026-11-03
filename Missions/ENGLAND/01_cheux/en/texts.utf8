@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Advance to and capture the village of Cheux.
+[Mission.Description]
+The enemy will not be expecting us, and the Cheux garrison is small.
+[Submission_1.Objectives]
+Repel the counterattack.
+[Submission_1.Description]
+The enemy is trying to pull in reserves to support the defenders.
+[NewSubmission.Success]
+Counterattack repelled.
+[NewSubmission.Failed]
+Enemy broke through.
+[Submission_01.Success]
+Cheux captured.
+[Submission_01.Failed]
+Failed to capture Cheux.
+[Mission.Success]
+Village captured. Area secure.
+[Mission.Failed]
+Enemy defences were stronger than expected.
+[Submission_1.Success]
+Attack repelled.
+[Submission_1.Failed]
+Failed to accomplish the task.
+[StringTable.Tanks]
+Reserve force available.

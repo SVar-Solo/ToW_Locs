@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Zniszcz nieprzyjacielską artylerię.
+[Submission1.Description]
+Artyleria wroga zagraża naszym jednostkom, przygotowującym duże natarcie. Wykorzystaj wojska pancerne do zaatakowania pozycji artylerii nieprzyjaciela. 
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielską artylerię.
+[Submission1.Success]
+Artyleria została zniszczona!
+[Submission1.Failed]
+Artyleria wroga nie ucierpiała i wciąż zagraża naszym wojskom. 
+[Mission1.Objectives]
+Zgnieć nieprzyjacielską obronę.
+[Mission1.Description]
+Alianckie dywizje wycofujące się z zachodu i południowego zachodu, ściśnięte w rejonie Gravlin, Arras i Brugge, od wschodu i południowego wschodu atakuje grupa Armii A i grupa Armii B. Wojska brytyjskie rozpoczęły ewakuację z rejonu Dunkierki. Jednostki francuskie osłaniają odwrót Anglików, zajmując pozycje obronne na przedmieściach. Nie możemy pozwolić, by nieprzyjaciel umknął nam przez morze. Jak najszybciej zniszczcie wroga. 
+Twoje rozkazy: 
+-	Użyj dostępnych sił, by zlikwidować alianckie jednostki, zajmujące pozycje obronne w rejonie tego miasta.
+[Mission1.Success]
+Gratulacje! Pokonałeś Francuzów! Dzięki temu może zdołamy dopaść Anglików, zanim zdążą się ewakuować.
+[Mission1.Failed]
+Niestety, przegrałeś! Francuzi zdołali utrzymać linie, dzięki czemu Brytyjczycy zyskali kolejny dzień niezakłóconej ewakuacji. 
+[StringTable.Reserv]
+Przybyły posiłki.

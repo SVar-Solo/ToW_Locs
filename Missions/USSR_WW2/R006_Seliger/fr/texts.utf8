@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+Attaquer la colonne blindée ennemi.
+[Submission1.Description]
+Vos unités viennent à peine de mettre en place des positions défensives autour du village que déjà une colonne blindée ennemie approche sur la route. Il faut repousser cette menace !
+
+Vos ordres : 
+- 	Renforcer vos postions autour du hameau et attaquer la colonne ennemie.
+[Submission1.Success]
+La mission a été accomplie !
+[Submission1.Failed]
+La mission a échoué ! La colonne de véhicules ennemis n’a pas été détruite.
+[Submission2.Objectives]
+Attaquer les Allemands qui progressent sur les flancs.
+[Submission2.Description]
+Selon nos reconnaissances aériennes, l’ennemi a déployé des unités pas loin d’ici et ces troupes avancent dans votre direction. Les Allemands préparent certainement une attaque, il faut contrecarrer leur plan.
+
+Vos ordres sont : 
+- 	Attaquer le groupe d’assaut ennemi et l’empêcher d’encercler vos unités.
+[Submission2.Success]
+Les ordres du commandement ont été exécutés ! Les Allemands ne sont pas parvenus à tourner votre position !
+[Submission2.Failed]
+La mission a échoué ! Vos unités ont été encerclées.
+[Mission1.Objectives]
+Garder le contrôle du village.
+[Mission1.Description]
+Le QG a reçu des informations confirmant que l’ennemi prépare une nouvelle offensive dans votre secteur.
+
+Vos ordres :
+- 	Garder le contrôle du village et des environs.
+[Mission1.Success]
+Les ordres du commandement ont été exécutés ! Grâce à votre action décisive, les Allemands ne sont pas parvenus à percer nos lignes ici !
+[Mission1.Failed]
+Vous avez échoué. Les Allemands sont parvenus à percer le front dans votre secteur !
+[Submission3.Objectives]
+Résister à l’attaque allemande.
+[Submission3.Description]
+Après l’attaque sur la colonne blindée allemande, ceux-ci ont engagé des forces supplémentaires pour prendre la ville. Préparez-vous à une nouvelle attaque, commandant.
+
+Vos ordres : 
+- 	Arrêter l’assaut des envahisseurs fascistes.
+[Submission3.Success]
+Vous avez exécuté les ordres du commandement et vous avez gardé le contrôle du village !
+[Submission3.Failed]
+Mission échouée, l’ennemi a capturé le village.
+[Submission4.Objectives]
+Attaque le groupe ennemi sur nos arrières.
+[Submission4.Description]
+Une nouvelle colonne blindée s’est présenté sur nos arrières, elle doit être neutralisée avant de nous avoir complètement encerclés.
+
+Vos ordres : 
+- 	Attaquer le groupe ennemi sur nos arrières.
+[Submission4.Success]
+Mission accomplie, les Allemands battent en retraite!
+[Submission4.Failed]
+Vous avez échoué et les Allemands remportent une nouvelle victoire.
+[StringTable.Reserv]
+Des renforts vous sont attribués.

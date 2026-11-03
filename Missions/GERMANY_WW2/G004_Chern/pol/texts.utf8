@@ -1,0 +1,43 @@
+﻿[Mission1.Objectives]
+Zdobyć stację kolejową Czerno.
+[Mission1.Description]
+Siłami 3. dywizji pancernej powinieneś rozpocząć natarcie w kierunku Czerna. Na tym odcinku frontu Rosjanie zgromadzili dość silną obronę. 
+Stacja w Czernie to dobra pozycja obronna, toteż aby zwyciężyć, będziesz się musiał wykazać sprytem i szybkością działania.
+Twoje rozkazy: 
+-	Wyeliminować wojska nieprzyjaciela i zająć stację Czerno.
+[Mission1.Success]
+Zadanie zostało wykonane, stacja jest w naszych rękach! Rosjanie stracili wszystkich żołnierzy, ale sądząc po tym, jak zaciekle się bronili, dotarcie do Moskwy może nas wiele kosztować.
+[Mission1.Failed]
+Rosjanie tak uparcie się bronili, że udało im się zniszczyć twoje oddziały! Odpowiadasz za tę porażkę. 
+[Submission_01.Objectives]
+Ostrzelać nieprzyjacielskie pozycje.
+[Submission_01.Description]
+Zanim rozpoczniesz natarcie, ostrzelaj artylerią nieprzyjacielskie pozycje obronne. 
+[Submission_01.Success]
+Zadanie wykonane. Ostrzał był skuteczny!
+[Submission_01.Failed]
+Ostrzał artylerii nie zdołał osłabić obrony wroga. 
+[Submission2_1.Objectives]
+Uderz na siły wroga z prawego skrzydła.
+[Submission2_1.Description]
+Przebiliśmy się na prawym skrzydle radzieckiej obrony! Nieprzyjaciel próbuje zatrzymać natarcie naszych oddziałów i koncentruje rezerwy na stacji. Rosjanie mogą wykonać kontratak, więc bądźcie gotowi na wszystko.
+Twoje rozkazy: 
+-	Uderzyć na prawym skrzydle wojsk nieprzyjaciela.
+[Submission2_1.Success]
+Zadanie wykonane. Atak zakończył się powodzeniem! 
+[Submission2_1.Failed]
+Zadanie niewykonane. Rosjanie odparli twój atak! 
+[Submission1_1.Objectives]
+Zaatakować wojska nieprzyjaciela na stacji Czerno. 
+[Submission1_1.Description]
+Radziecka obrona została przełamana! Nieprzyjaciel próbuje skoncentrować ocalałe siły na stacji kolejowej i sprowadzić rezerwy, by kontynuować obronę. Rosjanie mogą kontratakować, więc bądźcie gotowi na wszystko. 
+Twoje rozkazy: 
+-	Zaatakować nieprzyjaciela na stacji Czerno.
+[Submission1_1.Success]
+Zadanie wykonane. Stacja jest nasza!
+[Submission1_1.Failed]
+Zadanie niewykonane. Nie zdobyłeś stacji!
+[StringTable.Reserv]
+Przybyły posiłki.
+[StringTable.Reserv1]
+Zbliżają się posiłki.

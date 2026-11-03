@@ -1,0 +1,56 @@
+﻿[TUTORIAL.FullName]
+
+[TUTORIAL.Description]
+
+[Mission_1_1.FullName]
+1.1 Basic training 
+[Mission_1_1.Description]
+Soldier! You have joined the ranks of the Red Army! Before leaving for the front you need to undergo basic training and complete a number of tasks set by your commander.
+
+[Mission_1_2.FullName]
+1.2 Line of Sight and Line of Fire
+[Mission_1_2.Description]
+The main goal of this tutorial is to show the working principles behind the line of sight and line of fire calculations in the game as well as the various camera operation modes. Your task is to destroy one of the enemy tanks.
+
+[Mission_2_1.FullName]
+2.1 Combat tactics
+[Mission_2_1.Description]
+Soldier! Today you will be studying proper tactics on how to assault an enemy fortified position. 
+You must fulfill your orders precisely as set by your commander and with complete obedience!
+
+[Mission_2_2.FullName]
+2.2 Defensive tactics
+[Mission_2_2.Description]
+Soldier! German invaders are oppressing the Soviet people, devastating villages and cities.
+You have to learn the proper tactics to stop the advance of German troops.
+Your troops must not retreat from their defense positions!
+
+[Mission_2_3.FullName]
+2.3 Command and control
+[Mission_2_3.Description]
+Each military formation or unit is lead by a commander. Controlling troops means keeping a firm hand on the pulse of events and retaining the initiative. The main objective of this training mission is to learn to control troops and how to effectively use combined arms in battle.
+
+
+[Mission_3_1.FullName]
+3.1 Tutorial Battle - Africa 1943. Defense
+[Mission_3_1.Description]
+Stop the enemy’s infantry and armored vehicle attack.
+In this training battle, you will be introduced to the basics of defense in rural areas of the African theater of operations. You will learn how to transport troops, use cover, select weapons, and use a hand‑held anti‑tank grenade launcher in combat.
+
+[Mission_3_2.FullName]
+3.2 Tutorial Battle - Africa 1943. Assault
+[Mission_3_2.Description]
+Lead a small infantry unit and capture an African settlement by storm. 
+You will learn how to conduct reconnaissance, use smoke grenades, advance through buildings in the “Attack” and “Assault” modes, and also use a captured vehicle.
+
+[Mission_3_3.FullName]
+3.3 Tutorial Battle - Kursk 1943
+[Mission_3_3.Description]
+Learn to use the surroundings and terrain for a covert approach to enemy positions in the Kursk direction. Commanding a reconnaissance detachment, recapture the village seized by the enemy. Capture enemy weapons; with their help, organize a defense and repel the enemy's counterattack.
+
+[Mission_3_4.FullName]
+3.4 Tutorial Battle - Korea 1950
+[Mission_3_4.Description]
+Learn to use a transport helicopter and carry out minelaying in a tank-threatened sector in the Korean theater of operations. Repel the enemy's attack on your positions.
+
+[TUTORIAL.Epilogue]

@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+Aplaste al enemigo
+[Mission.Description]
+¡Teniente coronel Waters! Debe llevar a cabo una ofensiva para aplastar al enemigo en la aldea de Sidi Bou Zid.
+[Mission.Success]
+¡La ofensiva ha sido un éxito! ¡El enemigo huye!
+[Mission.Failed]
+¡Retirada! ¡Nuestras tropas han sido derrotadas!
+[Submission1.Objectives]
+Libere la aldea
+[Submission1.Description]
+Libere la aldea de las tropas enemigas.
+[Submission1.Success]
+La aldea ha sido liberada de los invasores.
+[Submission1.Failed]
+¡No hemos logrado desalojar al enemigo de la aldea!
+[Submission2.Objectives]
+Restablezca el contacto
+[Submission2.Description]
+Envíe una unidad de infantería a la posición de artillería de obuses para restablecer el contacto.
+[Submission2.Success]
+El contacto ha sido restablecido.
+[Submission2.Failed]
+¡No hemos logrado restablecer el contacto con la artillería!
+[Submission3.Objectives]
+Proteja la artillería
+[Submission3.Description]
+Impida que el enemigo capture la artillería.
+[Submission3.Success]
+¡El enemigo no ha logrado capturar la artillería!
+[Submission3.Failed]
+¡El enemigo ha capturado la artillería!
+[Submission4.Objectives]
+Capture la artillería
+[Submission4.Description]
+¡Recupere la posición de artillería!
+[Submission4.Success]
+¡La artillería vuelve a ser nuestra!
+[Submission4.Failed]
+¡El enemigo aún controla la artillería!
+[Submission5.Objectives]
+Destruya la emboscada
+[Submission5.Description]
+Destruya la emboscada
+[Submission5.Success]
+¡La emboscada ha sido destruida!
+[Submission5.Failed]
+¡La emboscada no ha sido destruida!
+[Submission8.Objectives]
+Destruya las fuerzas enemigas que avanzan
+[Submission8.Description]
+El enemigo ha lanzado una contraofensiva para frenar nuestro ataque en Sidi Bou Zid. ¡Destruya las fuerzas enemigas que avanzan!
+[Submission8.Success]
+¡Las fuerzas enemigas que avanzaban han sido destruidas!
+[Submission8.Failed]
+¡Nuestras tropas han sido aplastadas por las fuerzas enemigas que avanzaban!
+[StringTable.Zasada]
+Una emboscada.
+[Submission6.Objectives]
+Destruya los tanques
+[Submission6.Description]
+Destruya los tanques enemigos que avanzan.
+[Submission6.Success]
+¡Los tanques enemigos han sido destruidos!
+[Submission6.Failed]
+¡Los tanques enemigos no han sido destruidos!
+[Submission7.Objectives]
+Destruya los tanques enemigos
+[Submission7.Description]
+Se ha avistado una unidad blindada enemiga al sur. Destrúyala lo antes posible.
+[Submission7.Success]
+¡La unidad blindada enemiga ha sido derrotada!
+[Submission7.Failed]
+¡La unidad blindada enemiga no ha sido derrotada!
+[StringTable.human]
+Infantería
+[StringTable.spg]
+Cañones autopropulsados

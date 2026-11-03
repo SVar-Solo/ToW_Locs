@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Vertreiben Sie den Feind aus den Ortschaften Ifs, Bras und Hubert-Folie.
+[Mission.Description]
+Säubern Sie diese Ortschaften vom Feind.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Befreien Sie Ifs.
+[Submission_1.Description]
+Säubern Sie diese Ortschaften von feindlichen Truppen.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Vernichten Sie den Feind, der Bras besetzt hält. 
+[Submission_2.Description]
+Zerstören Sie die feindliche Stellung.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Sichern Sie Hubert-Folie.
+[Submission_3.Description]
+Säubern Sie Hubert-Folie vom Feind.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Die Straße nach Süden.
+[Submission_4.Description]
+Sichern Sie die Straße.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_1.Success]
+Aufgabe erfüllt.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_2.Success]
+Aufgabe erfüllt.
+[Submission_2.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_3.Success]
+Aufgabe erfüllt.
+[Submission_3.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_4.Success]
+Mission erfüllt.
+[Submission_4.Failed]
+Aufgabe wurde nicht erfüllt.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Aufgabe wurde nicht erfüllt.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

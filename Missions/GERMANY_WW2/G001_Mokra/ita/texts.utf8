@@ -1,0 +1,59 @@
+﻿[Mission.Objectives]
+Allontana le truppe polacche dalle posizioni difensive.
+[Mission.Description]
+Riteniamo che la superiorità delle nostre truppe ci permetterà di prendere rapidamente il controllo della Polonia. L'esercito polacco sta comunque opponendo una feroce resistenza. E' necessario lanciare immediatamente un'offensiva con le forze della Terza e della Quarta Armata del Gruppo d'Armata Nord e colpire le posizioni difensive polacche presso il fiume Mokra. Il tuo obiettivo è di sconfiggere il nemico prima possibile. C'è un insediamento sul fianco destro delle truppe polacche; fai attenzione a eventuali postazioni di artiglieria che potrebbero essere presenti. Hai a disposizione fanteria, carri armati e tutto quello di cui puoi avere bisogno. Quindi avanza per il nostro Fuhrer!
+
+I tuoi ordini sono:
+-	Allontana le truppe polacche dalle posizioni difensive.
+[Mission.Success]
+Le difese polacche sono state abbattute. La Polonia presto sarà nostra!
+[Mission.Failed]
+Incredibilmente le tue truppe sono state sconfitte! Come hanno potuto i Polacchi avere successo? Non meriti di guidare delle truppe in battaglia!
+[ArtSupport.Objectives]
+Bombarda le posizioni nemiche.
+[ArtSupport.Description]
+Prima di lanciare un'offensiva terrestre, bombarda pesantemente le posizioni difensive delle truppe polacche. L'attacco preparatorio di artiglieria ti aiuterà a superare più in fretta la prima linea delle difese nemiche.
+
+I tuoi ordini sono:
+-	Bombarda le posizioni nemiche.
+[ArtSupport.Success]
+Ordini eseguiti; il nemico è stato bombardato!
+[ArtSupport.Failed]
+Il tuo sbarramento di artiglieria non ha danneggiato a sufficienza le truppe polacche.
+[StringTable.Subtitle_01]
+Polonia. Settembre 1939
+[Submission1_1.Objectives]
+Colpisci il fianco destro della linea difensiva polacca.
+[Submission1_1.Description]
+Le truppe polacche hanno occupato delle favorevoli posizioni difensive e continuano a respingere gli attacchi delle unità della Terza e della Quarta Armata del Gruppo d'Armata Nord.
+
+I tuoi ordini sono:
+-	Usa le forze disponibili per attaccare il fianco destro della linea difensiva nemica.
+[Submission1_1.Success]
+Gli obiettivi del comando sono stati eseguiti e i polacchi si sono ritirati!
+[Submission1_1.Failed]
+Non solo gli obiettivi non sono stati raggiunti, ma hai sprecato le truppe disponibili.
+[Submission2.Objectives]
+Attacca i mezzi corazzati dell'esercito polacco.
+[Submission2.Description]
+Il nemico sta cercando di circondare la Terza e la Quarta Armata usando i propri mezzi corazzati. Devi attaccare i carri armati polacchi per impedirlo.
+
+I tuoi ordini sono:
+-	Attacca i carri armati polacchi.
+[Submission2.Success]
+Hai completato la tua missione e i mezzi corazzati polacchi sono stati sconfitti!
+[Submission2.Failed]
+Non sei riuscito a eseguire i tuoi ordini. La Terza e la Quarta Armata rischiano di essere circondate!
+[Submission1.Objectives]
+Attacca il fianco destro della seconda linea difensiva nemica.
+[Submission1.Description]
+Le truppe polacche stanno opponendo una feroce resistenza e le loro posizioni difensive devono essere superate. Attacca ancora una volta il loro fianco destro.
+
+I tuoi ordini sono:
+-	Con le forze della riserva, attacca il fianco destro della seconda linea difensiva nemica.
+[Submission1.Success]
+Gli ordini sono stati eseguiti. I  polacchi stanno fuggendo!
+[Submission1.Failed]
+Non sei riuscito ad eseguire gli ordini!
+[StringTable.reserv]
+I rinforzi sono arrivati.

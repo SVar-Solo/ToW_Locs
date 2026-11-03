@@ -1,0 +1,36 @@
+﻿[Submission01.Objectives]
+Brechen Sie durch die feindlichen Verteidigungslinien und befreien Sie das Dorf
+[Submission01.Description]
+Die Stunde der Entscheidung ist gekommen; wir müssen das Rückgrat der faschistischen Armeegruppe Mitte brechen. Um dies zu erreichen wurden alle sowjetischen Reserveeinheiten in diesem Abschnitt zusammengezogen. Ihre Einheiten sind ein wichtiger Teil dieser Offensive. Um Sie bei Ihrer Aufgabe zu unterstützen wurden Ihnen schwere Panzer unterstellt. Benutzen Sie sie mit Bedacht und beweisen Sie, dass unser Vertrauen in Ihre Fähigkeiten gerechtfertigt ist.
+
+Ihre Befehle:
+-	 Brechen Sie durch die feindlichen Verteidigungslinien.
+-	 Befreien Sie das Dorf von den faschistischen Aggressoren.
+[Submission01.Success]
+Der Feind zieht sich zurück! Das Dorf wurde befreit! Das ist eine wirklich beeindruckende Leistung!  
+[Submission01.Failed]
+Ihr Angriff ist gescheitert. Anstatt weiter anzugreifen müssen wir uns nun für einen deutschen Gegenangriff wappnen.
+[Submission02.Objectives]
+Brechen Sie durch die feindlichen Verteidigungslinien.
+[Submission02.Description]
+Infanterie und Panzerabwehrgeschütze verteidigen den Zugang zum Dorf. Sie müssen unbedingt die erste feindliche Verteidigungsline eliminieren.
+
+Ihre Befehle:
+-	 Brechen Sie durch die feindlichen Verteidigungslinien.
+[Submission02.Success]
+Die feindlichen Verteidigungslinien wurden durchschlagen.
+[Submission02.Failed]
+Ihre Truppen wurden eliminiert. Sie haben die Hoffnungen des Oberkommandos nicht erfüllt!
+[Submission03.Objectives]
+Befreien Sie das Dorf.
+[Submission03.Description]
+Der geschlagene Feind ist nun auf seine zweite Verteidigungslinie zurückgewichen, und erhielt dort Verstärkungen. Sie müssen diese Einheiten zerstören und Ihren Vormarsch fortsetzen.
+
+Ihre Befehle:
+-	 Befreien Sie das Dorf von den faschistischen Aggressoren.
+[Submission03.Success]
+Das Dorf wurde befreit. Ein grossartiger Erfolg, Kommandeur!
+[Submission03.Failed]
+Sie haben das Leben der Soldaten unter Ihrem Kommando nutzlos vergeudet.
+[StringTable.Reserv]
+Sie erhielten Verstärkungen.

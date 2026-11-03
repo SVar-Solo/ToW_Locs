@@ -1,0 +1,278 @@
+﻿[StringTable.1]
+Para abrir a janela das ordens de comando atuais, pressione o botão BRIEFING no canto superior direito da tela (o ícone de "envelope").
+
+[StringTable.2]
+No modo de movimento livre e com nível de perigo baixo, sua infantaria tentará encontrar cobertura por perto. Se um inimigo for avistado, os soldados podem mudar de postura ou alterar levemente a posição, permanecendo na cobertura, para atirar de forma mais conveniente.
+
+[StringTable.3]
+Alguns soldados têm granadas de fumaça; às vezes é necessário criar uma cortina de fumaça para alcançar a próxima cobertura e atravessar uma área aberta.
+Use o comando "Cortina de fumaça" {hkey:smokecloud} e indique, clicando com o botão direito, um ponto para o arremesso da granada dentro do alcance. Você também pode selecionar à força a granada necessária no inventário e lançá-la com o comando "Fogo em área" {hkey:groundattack}.
+
+[StringTable.4]
+Quando os soldados se aproximam do inimigo a curta distância, podem entrar em combate corpo a corpo. O resultado do combate corpo a corpo é determinado pelo nível da habilidade "Reconhecimento" dos soldados.
+Se o inimigo os superar significativamente em número e a moral dos soldados estiver baixa, eles podem entrar em pânico (perda temporária de controle) ou se render (perda total de controle).
+Uma dica detalhada sobre o estado da moral de um soldado pode ser vista passando o mouse sobre a linha "moral" no painel de informações da unidade.
+
+[StringTable.5]
+Se há inimigos entrincheirados em um edifício, você pode tentar "desalojá-los" lançando uma granada por uma janela ou porta no modo "Fogo em área" {hkey:groundattack}. Mesmo que a granada não caia onde deveria, há chance de que os soldados inimigos saiam correndo do edifício para o fogo dos seus soldados.
+
+[StringTable.6]
+Capture o carro blindado. Selecione pelo menos dois soldados para operar o veículo capturado — um deles deve ter alta habilidade de motorista e o outro, alta habilidade de artilheiro.
+
+[StringTable.7]
+Você dispõe de apoio aéreo. Em vez de atacar os canhões inimigos de frente, recomenda-se reconhecer a localização dos canhões com um atirador de elite e depois chamar aviões de ataque para a área. Eles precisarão de algum tempo para voar até a área especificada e depois começarão a procurar alvos nas proximidades. Se não houver alvos perto do ponto especificado, os aviões de ataque atacarão outros alvos prioritários que consigam detectar com as armas correspondentes a bordo.
+
+[Submission1.Objectives]
+Mova a esquadra até os pontos de passagem especificados.
+[Submission1.Description]
+Suas ordens são:
+- Mova a esquadra em formação de coluna até o Ponto de Passagem 1.
+
+Para isso:
+- Selecione a esquadra de infantaria arrastando uma caixa de seleção ao redor dela enquanto mantém pressionado o botão esquerdo do mouse -ou- clicando duas vezes no ícone do comandante.
+- Selecione a formação - COLUNA 
+- Selecione o modo de movimento – CORRIDA
+- Aponte o cursor para o local de destino e clique com o botão direito do mouse.
+- Selecione a orientação da formação mantendo pressionado o botão direito do mouse e movendo o mouse.
+
+Nota:
+- Formações disponíveis: LIVRE, LINHA, COLUNA, GARRA
+- A formação padrão usada pelas tropas é LINHA
+- Só é possível mudar de formação ao dar um comando de movimento
+- Modos de movimento disponíveis: LIVRE, CORRIDA CURTA, FURTIVO
+- O modo padrão usado pelas tropas é LIVRE
+- As tropas podem mudar de modo de movimento por conta própria
+- A ordem de movimento padrão é ASSALTAR
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+Assim, quando alguém enrola a armadura e parte às pressas, sem parar nem de dia nem de noite e marchando em passo dobrado por cem li, os três comandantes serão capturados. Pois as tropas vigorosas chegarão primeiro e as fracas ficarão para trás, de modo que, se esse método for usado, apenas um décimo do exército chegará.
+
+[Submission1.Success]
+Missão cumprida!
+[Submission1.Failed]
+Missão fracassada!
+[Submission2.Objectives]
+Elimine as unidades inimigas defensoras.
+[Submission3.Objectives]
+Limpe a área e use o veículo blindado e a metralhadora inimigos para estabelecer uma posição defensiva.
+[Submission3.Description]
+Suas ordens são:
+- Limpe a área.
+- Use a metralhadora e o veículo blindado inimigos para estabelecer uma defesa para a esquadra no vilarejo.
+
+Para isso:
+- Selecione os soldados com as maiores habilidades de motorista e artilheiro.
+- Embarque-os no veículo blindado abandonado.
+- Coloque dois soldados na metralhadora para usá-la.
+- Coloque um soldado com alta habilidade de pontaria na metralhadora.
+- Recolha armas e munição abandonadas.
+
+Nota:
+- Cada esquadra é liderada por um comandante. O quanto você consegue controlar suas tropas depende em grande parte da presença dele no campo de batalha. Se o comandante for morto, a esquadra pode perder a coesão e até fugir do campo de batalha, portanto proteja seu comandante
+
+- Clique em um tanque, canhão ou veículo vazio... use o botão direito do mouse para ordenar que seu soldado embarque no objeto selecionado
+- Use como motorista um soldado com a maior classificação de MOTORISTA
+- Use como artilheiro um soldado com a maior classificação de ARTILHEIRO 
+- Você pode trocar as posições dos soldados dentro de um tanque, canhão ou veículo
+- Selecione um tripulante e, mantendo pressionado o botão esquerdo do mouse, arraste-o para outra posição. Note que leva algum tempo até que as posições sejam trocadas
+- Você precisa de pelo menos dois homens na guarnição para mover uma metralhadora. Apenas um tripulante é necessário para girá-la
+- Para obter o melhor poder de fogo de uma metralhadora, coloque um soldado com boa habilidade de pontaria na posição de artilheiro
+- Para recolher uma arma ou munição abandonada, posicione um soldado que realizará essa ação perto do objeto abandonado e ative o botão INVENTÁRIO (um botão com ícone de pistola no painel inferior). Depois disso será exibido um painel com os objetos no chão perto do soldado e você poderá arrastar os objetos manualmente para o painel de armas e para a mochila. Você também pode dar ao soldado a ordem de recolher do chão todos os itens ou apenas os melhores, automaticamente, clicando nos botões correspondentes do painel de inventário. Por padrão, os soldados recolhem automaticamente as melhores armas. Você pode desativar esse modo para soldados selecionados clicando no botão RECOLHIMENTO AUTOMÁTICO DE ITENS na barra de comandos.
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+Portanto, determine os planos do inimigo e saberá qual estratégia terá êxito e qual não;
+Provoque-o e descubra o padrão de seus movimentos.
+Determine suas disposições e assim descubra o campo de batalha.
+Sonde-o e saiba onde sua força é abundante e onde é deficiente.
+
+[Submission3.Success]
+Missão cumprida!
+[Submission3.Failed]
+Missão fracassada!
+[Mission1.Objectives]
+BRIEFING GERAL 
+[Mission1.Description]
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+1. Portanto, no início seja tímido como uma donzela. Quando o inimigo lhe der uma abertura, seja veloz como uma lebre e ele não conseguirá resistir a você.
+
+2. Se consigo determinar as disposições do inimigo ao mesmo tempo que oculto as minhas, posso concentrar-me e ele deve se dividir. E se me concentro enquanto ele se divide, posso usar toda a minha força para atacar uma fração da dele. Ali, serei numericamente superior. Então, se consigo usar muitos para golpear poucos no ponto escolhido, aqueles com quem lido estarão em situação desesperadora.
+
+3. Em geral, na batalha, use as forças normais para engajar; use as extraordinárias para vencer.
+
+4. Defende-se quando a força é insuficiente; ataca-se quando ela é abundante.
+ 
+5. Preste atenção em alimentar as tropas; não as fatigue sem necessidade. Una-as em espírito; conserve suas forças. Faça planos insondáveis para os movimentos do exército. 
+
+6. E assim como a água molda seu curso de acordo com o terreno, o exército conduz sua vitória de acordo com a situação do inimigo.
+E assim como a água não tem forma constante, na guerra não há condições constantes.
+Assim, aquele que consegue obter a vitória modificando sua tática de acordo com a situação do inimigo pode ser chamado de divino.
+
+[Mission1.Success]
+Você cumpriu seus objetivos! Você foi promovido à patente de oficial do Exército Vermelho!
+[Mission1.Failed]
+Missão fracassada!
+[Submission2.Description]
+Suas ordens são:
+- Destruir a esquadra alemã no vilarejo de Malinki, Ponto de Passagem 2
+
+Para isso:
+- Mantenha o controle de cada soldado emitindo ordens individuais em tempo hábil
+- Use granadas de mão para atacar soldados inimigos escondidos atrás de cobertura (clique com o botão esquerdo no botão de granada de mão para ativá-la como arma)
+- Use atiradores de elite para eliminar oficiais inimigos e guarnições de metralhadoras (se o seu atirador de elite for morto, outro soldado - de preferência com alta habilidade de pontaria - pode pegar o fuzil com mira telescópica)
+- Suprima a resistência inimiga com fogo de metralhadora
+- Use pausas táticas para dar ordens e manter a consciência situacional
+
+Nota:
+- Quando seus soldados veem soldados inimigos, eles começam a atirar neles por conta própria, exceto quando recebem ordens de "Cessar fogo"
+- Ao selecionar um soldado, você pode escolher qual arma ele usará em combate clicando com o botão esquerdo do mouse no painel de armas. Você pode proibir o uso de armas individuais, granadas ou de algumas munições valiosas clicando com o botão direito.
+- Selecione granadas para eliminar inimigos escondidos atrás de obstáculos. Há granadas ofensivas (pequeno raio de explosão; usadas porque o atacante geralmente não tem cobertura disponível) e granadas defensivas (grande raio de explosão; usadas porque o defensor geralmente está atrás de boa cobertura)
+- Você pode designar alvos a cada soldado de forma independente
+- Ao selecionar o comando ATACAR e clicar com o botão direito do mouse em uma unidade-alvo, você ordena que seu soldado ataque o alvo com a arma selecionada. O soldado se aproximará do inimigo se estiver fora do alcance efetivo da arma
+- Ao selecionar o comando ASSALTAR e clicar com o botão direito do mouse em um local-alvo, você ordena que o soldado avance em assalto até o alvo. O soldado se aproximará do inimigo, atirando em movimento, e tentará destruí-lo com granadas.
+- Ao selecionar o comando ATACAR O SOLO e clicar com o botão direito do mouse no campo de batalha, você ordena que seu soldado ataque aquele local (fogo em área) com a arma selecionada. O soldado tentará atirar no local designado a partir de sua posição atual. Use esse modo com a granada selecionada para lançá-la contra inimigos fora da vista do seu combatente.
+- Você tem um atirador de elite em sua esquadra; um soldado com altas classificações de "reconhecimento" e "pontaria". Use-o para eliminar o oficial inimigo e a guarnição do canhão, causando pânico entre os inimigos. 
+- Para manter o inimigo acuado, use sua metralhadora. Não se esqueça de cobrir o metralhador, pois ele será o alvo principal dos soldados inimigos. 
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+O inimigo não deve saber onde pretendo dar combate. Pois, se ele não sabe onde pretendo dar combate, deve se preparar em um grande número de lugares. E quando se prepara em um grande número de lugares, aqueles que terei de enfrentar em qualquer um deles serão poucos.
+Pois, se ele se prepara na frente, sua retaguarda será fraca, e se na retaguarda, sua frente será frágil. Se ele se prepara à esquerda, sua direita será vulnerável, e se à direita, haverá poucos à sua esquerda. E quando ele se prepara em toda parte, será fraco em toda parte.
+
+[Submission2.Success]
+Você cumpriu sua missão!
+[Submission2.Failed]
+Missão fracassada!
+[Submission4.Objectives]
+Capture o veículo blindado
+[Submission4.Description]
+Capture o veículo blindado
+
+Nota:
+Selecione um ou dois soldados, coloque o cursor sobre um veículo blindado (o cursor muda para um ícone de "embarcar") e clique com o botão direito. Seus soldados começarão a correr para entrar no veículo blindado.
+[Submission4.Success]
+Tarefa concluída!
+[Submission4.Failed]
+Tarefa fracassada!
+[Submission5.Objectives]
+Repila o ataque inimigo.
+[Submission5.Description]
+Suas ordens são:
+- Eliminar o inimigo atacante no Ponto de Passagem 3
+
+Para isso:
+- Use a mobilidade e a blindagem do veículo blindado
+- Use armas e equipamentos capturados
+- Tome a iniciativa e elimine o inimigo em um contra-ataque decisivo
+
+Nota:
+- Para selecionar quais projéteis disparar em um veículo blindado, tanque ou canhão, clique com o botão esquerdo no canhão (abre-se uma lista dos projéteis disponíveis para esse canhão) e clique com o botão esquerdo no projétil de sua escolha. Isso recarregará o canhão com um projétil do tipo de munição selecionado
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+É uma doutrina de guerra não presumir que o inimigo não virá, mas confiar na própria prontidão para enfrentá-lo; não presumir que ele não atacará, mas tornar a si mesmo invencível.
+
+[Submission5.Success]
+Missão cumprida!
+[Submission5.Failed]
+Missão fracassada!
+[Submission6.Objectives]
+Destrua os canhões inimigos
+[Submission6.Description]
+Suas ordens são:
+- Destruir os canhões inimigos no Ponto de Passagem 4
+- Solicite apoio aéreo para destruir os canhões inimigos
+
+Para isso:
+- Selecione o apoio aéreo disponível
+- Os seguintes tipos de apoio aéreo estão disponíveis no jogo: AVIÕES DE ATAQUE AO SOLO, CAÇAS, BOMBARDEIROS e RECONHECIMENTO 
+
+Nota:
+- AVIÕES DE ATAQUE AO SOLO são usados para destruir veículos levemente blindados e canhões inimigos
+- CAÇAS são úteis para combater e destruir aeronaves inimigas
+- BOMBARDEIROS são usados para lançar ataques aéreos contra posições inimigas fortificadas
+- RECONHECIMENTO é usado para coletar informações de inteligência sobre o campo de batalha, vistas do alto
+- Não envie o veículo blindado para a frente, pois ele pode ser facilmente destruído pelos canhões inimigos
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+Se alguém perguntar: "É possível tornar as tropas capazes de tal coordenação instantânea?", respondo: "É possível." Pois, embora os homens de Wu e de Yueh se odeiem mutuamente, se estivessem juntos em um barco jogado pelo vento cooperariam como a mão direita com a esquerda.
+Portanto, não basta depositar a confiança em cavalos amarrados ou em rodas de carros de guerra enterradas.
+Cultivar um nível uniforme de bravura é o objetivo da administração militar. E é pelo uso correto do terreno que tanto as forças de choque quanto as flexíveis são empregadas da melhor maneira.
+[Submission6.Success]
+Missão cumprida!
+[Submission6.Failed]
+Missão fracassada!
+[Submission7.Objectives]
+Solicite apoio aéreo.
+[Submission7.Description]
+Solicite apoio aéreo.
+Nota:
+Um ícone de apoio aéreo aparecerá acima do painel inferior.
+Clique no ícone de apoio aéreo e clique com o botão direito no local do alvo. 
+Há 4 tipos de aeronaves: reconhecimento, caças, bombardeiros e aviões de ataque ao solo. 
+[Submission7.Success]
+Tarefa concluída!
+[Submission7.Failed]
+Tarefa fracassada!
+[Submission8.Objectives]
+Capture os canhões inimigos 
+[Submission8.Description]
+Suas ordens são:
+- Capturar os canhões inimigos 
+- Estabelecer uma posição defensiva diante do vilarejo de Malinki 
+- Coloque dois soldados no canhão para usá-lo 
+- Coloque o soldado com a maior classificação de artilheiro na posição de artilheiro
+
+Nota:
+- Para selecionar projéteis em um carro blindado, tanque, canhão etc., clique com o botão direito no ícone de seta à direita do canhão no painel de armas, abre-se uma lista das munições disponíveis para esse canhão, e então selecione o tipo de projétil desejado clicando com o botão esquerdo do mouse. O botão direito do mouse é usado para proibir o uso do tipo de projétil selecionado. Após selecionar um projétil, os ícones do canhão e do projétil serão destacados em amarelo, o que significa que a unidade usará somente esse canhão e esse projétil. Se outro projétil já estiver carregado no cano, a recarga com a munição selecionada só ocorrerá depois de disparar o projétil já carregado.
+- A guarnição do canhão pode girar e mover o canhão; são necessárias pelo menos duas pessoas para girá-lo ou movê-lo.
+- Para obter o melhor volume de fogo e precisão ao usar os canhões, coloque o soldado com a maior classificação de artilheiro na posição de artilheiro.
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+Antigamente, os guerreiros habilidosos primeiro se tornavam invencíveis e aguardavam o momento de vulnerabilidade do inimigo.
+A invencibilidade depende de si mesmo; a vulnerabilidade do inimigo, dele.
+Segue-se que os hábeis na guerra podem tornar-se invencíveis, mas não podem tornar o inimigo certamente vulnerável.
+Por isso se diz que alguém pode saber como vencer, mas não necessariamente conseguir fazê-lo.
+A invencibilidade reside na defesa; a possibilidade de vitória, no ataque.
+(…)Portanto, o comandante habilidoso assume uma posição em que não pode ser derrotado e não perde nenhuma oportunidade de dominar o inimigo.
+
+[Submission8.Success]
+Missão cumprida!
+[Submission8.Failed]
+Missão fracassada!
+[Submission9.Objectives]
+Destrua os tanques inimigos
+[Submission9.Description]
+
+Suas ordens são:
+- Destruir os tanques inimigos usando os canhões capturados e o seu tanque no Ponto de Passagem 5
+
+Para isso:
+- Você pode especificar o ponto de mira ao atacar um alvo - as opções possíveis são: MIRAR MAIS ALTO, MIRA LIVRE e MIRAR MAIS BAIXO
+
+
+Nota:
+- Lembre-se de que cada tipo de projétil é projetado para um fim específico
+- Projéteis altamente explosivos (HE) são projetados para destruir infantaria inimiga, veículos levemente blindados e canhões a céu aberto.
+- O projétil perfurante (AP) é maciço, propenso a ricochetes, não tem carga explosiva.
+- O projétil perfurante com capa (APC) é maciço, menos propenso a ricochetes, não tem carga explosiva.
+- O projétil perfurante altamente explosivo (APHE) é propenso a ricochetes, tem carga explosiva
+- O projétil perfurante composto com capa balística (APCBC) é maciço, menos propenso a ricochetes, não tem carga explosiva.
+- O projétil de subcalibre (APCR, APDS) tem alta penetração de blindagem, mas a perde mais rápido com o aumento da distância. Não tem carga na câmara, causa menos dano e tem menos precisão.
+- O projétil antitanque altamente explosivo (HEAT) penetra o obstáculo com um jato cumulativo; a penetração de blindagem não depende da distância. Também tem um efeito limitado de fragmentação altamente explosiva.
+- Projétil de fumaça - projetado para criar cortinas de fumaça.
+
+
+"A ARTE DA GUERRA", DE SUN TZU
+Sun Tzu disse:
+Tropas lançadas contra o inimigo como uma pedra de moinho contra ovos são um exemplo de um sólido atuando sobre um vazio.
+
+[Submission9.Success]
+Missão cumprida!
+[Submission9.Failed]
+Missão fracassada!

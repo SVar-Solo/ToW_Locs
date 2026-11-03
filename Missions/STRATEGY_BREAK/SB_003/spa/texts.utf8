@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Cruce el río y avance hacia el norte.
+[Mission.Description]
+ París cayó el 14 de junio y el gobierno francés huyó a Burdeos. Algunas unidades militares y guarniciones francesas siguen luchando. La resistencia debe continuar: ¡el ejército no está derrotado hasta que el último soldado deje de combatir!
+[Mission.Success]
+Misión cumplida
+[Mission.Failed]
+Misión fallida
+[Submission_1.Objectives]
+Cruce un puente para llegar a la otra orilla del río.
+[Submission_1.Description]
+Cruce un puente para llegar a la otra orilla del río.
+[Submission_1.Success]
+Misión cumplida
+[Submission_1.Failed]
+Misión fallida
+[Submission_2.Objectives]
+Alcance el sector norte.
+[Submission_2.Description]
+Alcance el sector norte.
+[Submission_2.Success]
+Misión cumplida
+[Submission_2.Failed]
+Misión fallida

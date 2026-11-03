@@ -1,0 +1,96 @@
+﻿[Mission.Objectives]
+Ristabilisci la linea difensiva
+[Mission.Description]
+Il 14 maggio i tedeschi hanno sfondato vicino a Sedan. Le truppe francesi non sono riuscite a resistere all'azione combinata dei carri e dei bombardieri nemici in questa nuova guerra lampo. Le truppe belghe si stanno ritirando sulle posizione difensive di Antwerp. Il primo ed il secondo corpo di spedizione inglese sono ancora tra Wavre e Louvain, dove la nostra terza divisione comandata dal Generale Montgomery è impegnata in furiosi combattimenti. La settima armata francese si sta ritirando sul fianco più vicino al mare. Fino ad ora in tutti gli scontri la potenza e la ferocia tedesca si è dimostrata inarrestabile. Nell'area di Montermé i tedeschi hanno attraversato il Maas con due divisioni corazzate e hanno catturato le posizioni fortificate. Per noi è di vitale importanza riuscire a ristabilire la linea difensiva in quest'area.
+   
+I tuoi ordini sono:
+-	Elimina il nemico presente nella zona e ristabilisci la linea difensiva
+-	Difendi il ponte della ferrovia
+[Mission.Success]
+Missione completata!
+
+Il nemico non è riuscito a sfondare le nostre difese in questo settore. Questo principalmente per merito tuo, comandante. Ben fatto! Comunque, le truppe tedesche grazie all'impiego di un alto numero di carri armati e di mezzi blindati, hanno completamente annientato o mandato in rotta le nostre forze sulla linea del fronte e ora avanzano rapidamente. Hai ancora molto da fare.
+[Mission.Failed]
+Non hai portato a termine i tuoi ordini!
+
+Le truppe tedesche, grazie all'impiego di carri armati e di mezzi blindati, hanno completamente annientato o mandato in rotta le nostre forze sul fronte e ora avanzano rapidamente. Fino ad ora la ferocia tedesca si è dimostrata inarrestabile.
+
+[SubMission_01_01.Objectives]
+Manda in rotta le truppe tedesche che hanno attaccato il ponte.
+[SubMission_01_01.Description]
+Truppe da assalto tedesche sono arrivate nella nostra zona. Hanno preso un ponte della ferrovia sul Maas. E' probabile che il nemico cercherà di usare questo ponte per accerchiare le nostre truppe da dietro. Devi riprendere il ponte!
+
+I tuoi ordini sono:
+-	Individua e distruggi le truppe d'assalto tedesche.
+-	Riprendi possesso del ponte.
+[SubMission_01_01.Success]
+Missione completata!
+[SubMission_01_01.Failed]
+Missione fallita!
+[Submission_01_02.Objectives]
+Individua e distruggi le truppe d'assalto tedesche vicino al ponte della ferrovia.
+[Submission_01_02.Description]
+
+Truppe da assalto tedesche sono arrivate nella nostra zona. Hanno preso un ponte della ferrovia sul Maas. Secondo il nostro servizio informativo, un altro piccolo gruppo di truppe nemiche si sta dirigendo verso il ponte. Deve essere fermato.
+
+I tuoi ordini sono:
+-	Elimina le truppe d'assalto tedesche.
+-	Riprendi o mantieni il possesso del ponte.
+[Submission_01_02.Success]
+Missione completata.
+[Submission_01_02.Failed]
+Missione fallita.
+[Submission_02_01.Objectives]
+Manda in rotta il nemico che sta avanzando.
+[Submission_02_01.Description]
+Le nostre truppe non sono riuscite a resistere all'azione combinata dei carri e dei bombardieri nemici e hanno subito delle gravi perdite. Non solo non siamo riusciti a ristabilire la nostra linea di difesa, ma le truppe d'assalto tedesche che sono arrivate nella zona hanno preso il ponte della ferrovia. Questo potrebbe permettere al nemico di aggirarci e di mettere ancora più in pericolo le nostre truppe.
+
+I tuoi ordini sono:
+-	Stabilisci le nostre posizioni difensive.
+-	Trova ed elimina le unità nemiche nella tua zona di operazioni.
+[Submission_02_01.Success]
+Missione completata. Ben fatto, comandante!
+[Submission_02_01.Failed]
+Missione fallita.
+[Submission_02_02.Objectives]
+Trova ed elimina le unità nemiche che incontri.
+[Submission_02_02.Description]
+Le nostre forze sono riuscite a ristabilire la linea difensiva e a mandare in rotta le truppe d'assalto tedesche. Secondo il nostro servizio informativo, il nemico ora sta cercando di spezzare le nostre difese attaccando da due lati contemporaneamente. Attendiamo attacchi dalla direzione di Montermé e dal ponte ferroviario sul Maas.
+
+I tuoi ordini sono:
+-	Mantieni tutte le posizioni difensive.
+-	Elimina tutte le unità nemiche che stanno attaccando.
+[Submission_02_02.Success]
+Missione completata.
+[Submission_02_02.Failed]
+Missione fallita.
+[Submission_02_03.Objectives]
+Manda in rotta il nemico che avanza
+[Submission_02_03.Description]
+Le nostre truppe sono riuscite a ristabilire la linea difensiva, ma forze d'assalto tedesche sono arrivate nell'area del ponte della ferrovia e lo hanno catturato. Questo ha permesso al nemico di aggirarci e di mettere ancora più in pericolo le nostre truppe. Secondo il nostro servizio informativo, il nemico sta cercando di spezzare le nostre difese attaccando da due lati contemporaneamente. Attendiamo attacchi dalla direzione di Montermé e dal ponte ferroviario sul Maas. Il nemico sta usando azioni coordinate tra carri armati e bombardieri.
+
+I tuoi ordini sono:
+-	Stabilisci le posizioni difensive.
+-	Elimina il nemico in tutte le direzioni
+[Submission_02_03.Success]
+Missione completata.
+[Submission_02_03.Failed]
+Missione fallita.
+[Submission_02_04.Objectives]
+Manda in rotta il nemico in avvicinamento.
+[Submission_02_04.Description]
+Le nostre truppe non sono riuscite a resistere all'azione combinata dei carri e dei bombardieri nemici e hanno subito delle gravi perdite in tutte le posizioni. Comunque siamo riusciti a mettere in fuga le truppe d'assalto tedesche che erano arrivate nella zona del ponte del ferrovia. Secondo il nostro servizio informativo, il nemico sta cercando di spezzare le nostre difese attaccando da due lati contemporaneamente. Attendiamo attacchi dalla direzione di Montermé e dal ponte ferroviario sul Maas.
+
+I tuoi ordini sono:
+-	Stabilisci le posizioni difensive.
+-	Elimina il nemico che sta attaccando da varie direzioni
+[Submission_02_04.Success]
+Missione completata.
+[Submission_02_04.Failed]
+Missione fallita.
+[StringTable.Fr_Support]
+I rinforzi sono arrivati!
+[StringTable.Support]
+I rinforzi sono arrivati!
+[StringTable.Subtitle_01]
+Francia. Maggio 1940

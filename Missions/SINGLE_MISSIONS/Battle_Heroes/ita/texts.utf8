@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+Respingi tutti gli attacchi tedeschi e poi lancia un contrattacco.
+[Mission.Description]
+Le unità tedesche sono vicino al Cremino. Mosca non deve cadere nelle mani dei fascisti!
+
+I tuoi ordini sono:
+	- Resisti agli attacchi del nemico e ferma la loro avanzata verso Mosca.
+	- Lancia un contrattacco.
+[Mission.Success]
+Hai portato a termine la missione.
+[Mission.Failed]
+Non hai eseguito gli ordini.
+[Submission_1.Objectives]
+Resisti agli attacchi del nemico.
+[Submission_1.Description]
+Ferma gli attacchi del nemico.
+[Submission_1.Success]
+Missione completata. 
+[Submission_2.Failed]
+Missione fallita.
+[Submission_2.Success]
+Missione completata.
+[Submission_2.Description]
+Hai resistito. Il nemico sta fuggendo. Data l'attuale situazione, ti verranno assegnati dei carri armati provenienti dalla riserva per darti la necessaria assistenza. Continua a inseguire il nemico!
+
+I tuoi ordini sono:
+	- Contrattacca le truppe nemiche
+[Submission_2.Objectives]
+Contrattacca il nemico
+[StringTable.Reserv_inf]
+Fanteria proveniente dalla riserva sono stati trasferiti sotto il tuo comando.
+[StringTable.Reserv_Tanks]
+Carri armati provenienti dalla riserva sono stati trasferiti sotto il tuo comando.
+[Submission_1.Failed]
+Missione fallita.

@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+위력 수색으로 주변 지역을 정찰하고 마주치는 적 부대를 모두 격멸하라.
+[Mission.Description]
+연합군 주력은 됭케르크에서 바다를 건너 철수했고, 남은 것은 흩어졌으나 불굴의 프랑스군 부대들뿐이다. 서부 프랑스의 최종 점령은 독일군이 자체 전열을 재정비하느라 지연되었다. 이 지연 덕분에 좁은 기회의 창이 열렸고, 프랑스군의 반격이 준비되었다.
+[Mission.Success]
+승리! 귀관은 적에게 심각한 타격을 입혔다.
+[Mission.Failed]
+패배. 오늘 귀관이 실패하여 모든 것을 잃었을지도 모른다!
+[Submission_1.Objectives]
+인근 마을에 적 부대가 있는지 정찰하라.
+[Submission_1.Description]
+독일군이 전방의 도시를 점령했다는 보고가 있다. 전방을 정찰하고, 저항에 부딪히면 적을 도시에서 몰아내라. 가용한 예비대는 귀관에게 배정되었다.
+
+명령:
+-	도시를 정찰하고 적과 마주치면 교전할 것. 증원 부대가 귀관의 지휘 하에 이동 중이다. 
+[Submission_1.Success]
+정찰 완료.
+[Submission_1.Failed]
+도시 정찰에 실패했다.
+[StringTable.Add_reserv]
+예비대에서 전차 몇 대를 받았다.
+[StringTable.Add_Artillery]
+귀관의 상황을 평가한 사령부가 추가 포병 전력을 제공했다.
+[Submission_2.Objectives]
+도시에 있는 적을 공격하라.
+[Submission_2.Description]
+정찰 결과 독일군이 상당수의 병력을 배치하는 데 성공했으나, 주력은 아직 됭케르크에서 행군 중인 것으로 드러났다. 이 기회를 잡아 적이 가장 예상하지 못할 때 타격해야 한다.
+
+명령:
+	-  적이 아직 도시에서 진지를 공고히 하는 중이므로, 적에 대해 공격을 개시할 것.
+[Submission_2.Success]
+적을 제거했다. 잘했다, 지휘관!
+[Submission_2.Failed]
+임무에 실패했다!
+[Submission_3.Objectives]
+적 전차의 공격을 격퇴하라.
+[Submission_3.Description]
+적 병력이 예상보다 훨씬 강력한 것으로 드러났다. 적은 전투에 상당한 전차 부대를 투입했다.
+
+명령:
+	-  적 전차의 공격에 저항할 것.
+[Submission_3.Success]
+적의 공격이 저지되었다!
+[Submission_3.Failed]
+패배. 적 전차는 쓰러뜨리기에 너무 강했다.

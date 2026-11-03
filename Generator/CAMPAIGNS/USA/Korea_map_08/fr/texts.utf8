@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission échouée.
+
+[Reinforcement.Group3[Reinforcement]]
+Hélicoptères et infanterie
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Votre équipe de combat doit éliminer les hostiles qui défendent ce secteur du front.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Attaquez et détruisez toutes les défenses ennemies dans la zone indiquée sur la carte.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Notre détachement de reconnaissance avancé a pris un carrefour routier au centre de la zone. L'ennemi tentera très probablement de s'en emparer. Votre équipe de combat doit avancer jusqu'au carrefour et appuyer le détachement de reconnaissance.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capturez et tenez le carrefour routier au centre de la zone.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Empêchez les hostiles de percer votre secteur du front.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Notre détachement avancé, composé d'infanterie et d'artillerie automotrice, a coupé le principal couloir de transport ennemi. Tenez les positions capturées et ne laissez pas l'ennemi rétablir ses lignes de ravitaillement.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Capturez et tenez le carrefour routier au centre de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Notre détachement de reconnaissance avancé a pris un carrefour routier au centre de la zone. L'ennemi tentera très probablement de s'en emparer. Votre équipe de combat doit avancer jusqu'au carrefour et appuyer le détachement de reconnaissance.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+Capturez et tenez le carrefour routier au centre de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Capturez et tenez le carrefour routier au centre de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Capturez et tenez le carrefour routier au centre de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Notre détachement de reconnaissance avancé a pris un carrefour routier au centre de la zone. L'ennemi tentera très probablement de s'en emparer. Votre équipe de combat doit avancer jusqu'au carrefour et appuyer le détachement de reconnaissance.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Notre détachement de reconnaissance avancé a pris un carrefour routier au centre de la zone. L'ennemi tentera très probablement de s'en emparer. Votre équipe de combat doit avancer jusqu'au carrefour et appuyer le détachement de reconnaissance.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+Notre détachement de reconnaissance avancé a pris un carrefour routier au centre de la zone. L'ennemi tentera très probablement de s'en emparer. Votre équipe de combat doit avancer jusqu'au carrefour et appuyer le détachement de reconnaissance.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+Mission échouée.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Blindés et infanterie
+

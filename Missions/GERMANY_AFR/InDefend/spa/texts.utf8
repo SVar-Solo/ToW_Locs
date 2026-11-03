@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Mantener posiciones
+[Mission.Description]
+Mantenga las posiciones junto a Sidi Bou Zid.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+¡Misión fallida!
+[Submission_1.Objectives]
+Mantener la ciudad
+[Submission_1.Description]
+El cuartel general del ejército ha proporcionado tanques de la reserva, pero aún están en camino. El enemigo intenta desesperadamente recuperar Sidi Bou Zid. Debe mantener la ciudad hasta que lleguen los refuerzos.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+¡Misión fallida!
+[Submission_2.Objectives]
+Destruir las posiciones de artillería enemigas
+[Submission_2.Description]
+Ahora tiene el mando de los tanques de la reserva del cuartel general del ejército. Úselos para capturar el pequeño asentamiento y destruir las posiciones de artillería enemigas.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+¡Misión fallida!
+[StringTable.Add_tanks]
+- Mayor, he dado la orden de proporcionarle tanques de la reserva del cuartel general del ejército. Los estadounidenses han sufrido graves pérdidas y es hora de un contraataque. Buena suerte a usted y a sus hombres.

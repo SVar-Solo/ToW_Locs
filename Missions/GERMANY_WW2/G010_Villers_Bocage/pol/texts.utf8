@@ -1,0 +1,63 @@
+﻿[Mission.Objectives]
+Brytyjczycy próbują dotrzeć do Caen, musisz ich powstrzymać.
+[Mission.Description]
+Oddziały brytyjskie, dowodzone przez Montgomery’ego, zamierzają zająć Villers-Bocage i nacierać na Caen. Masz do dyspozycji czołgi ze Schwere SS-Panzer-Abteilung 101, wśród nich pancerny oddział Michaela Wittmana. Uderz szybko i mocno na zbliżającą się brytyjską kolumnę pancerną.
+Twoje rozkazy:
+-	Zatrzymać brytyjską kolumnę pancerną. Zniszczyć jak najwięcej brytyjskich czołgów. 
+[Mission.Success]
+Zadanie wykonane! Twoje dzisiejsze czyny przejdą do historii.
+[Mission.Failed]
+Zadanie nie zostało wykonane! Przepadła okazja zadania poważnych strat siłom brytyjskim.
+[Submission_1.Objectives]
+Zaatakować nieprzyjacielską kolumnę pancerną.
+[Submission_1.Description]
+Elementy brytyjskiej 7. dywizji pancernej poruszają się drogą w kierunku małego miasta Villers-Bocage, na drodze do Caen.
+Twoje rozkazy: 
+-	Wykorzystaj zaskoczenie, szybkość i przewagę swych czołgów, by zadać siłom brytyjskim jak największe straty.
+[Submission_1.Success]
+Zdziesiątkowałeś siły brytyjskie. 
+[Submission_1.Failed]
+Atak nie powiódł się!
+[Submission_2.Objectives]
+Utrzymaj przy życiu Michaela Wittmana i jego załogę.
+[Submission_2.Description]
+Załoga Michaela Wittmana to cenne jednostki naszej armii. Musisz za wszelką cenę utrzymać ich przy życiu.
+[Submission_2.Success]
+Michael Wittman przeżył bitwę i z pewnością będzie nękał aliantów w nadchodzących starciach.
+[Submission_2.Failed]
+Michael Wittman został zabity.
+[Submission_3.Objectives]
+Kontynuować atak na pozostałe siły brytyjskie.
+[Submission_3.Description]
+Zasiałeś strach i zniszczenie w szeregach Brytyjczyków. Kontynuuj walkę z pozostałymi siłami brytyjskimi. 
+Twoje rozkazy: 
+-	Brytyjczycy organizują się w pobliżu małego gospodarstwa w tym rejonie. Znajdź ich i zniszcz.
+[Submission_3.Success]
+Farma zdobyta!
+[Submission_3.Failed]
+Natarcie na gospodarstwo nie powiodło się.
+[Submission_4.Objectives]
+Zdobądź kluczowy punkt strategiczny w pobliżu małego gospodarstwa.
+[Submission_4.Description]
+Wróg został wykryty na farmie w okolicy Villers-Bocage. Leży ona w pobliżu strategicznego skrzyżowania i trzeba ją zająć. 
+Twoje rozkazy: 
+-	Zniszcz brytyjskie jednostki w pobliżu farmy.
+-	Utrzymaj farmę podczas brytyjskiego kontrataku.
+[Submission_4.Success]
+Zdobyłeś gospodarstwo i rozbiłeś jednostki brytyjskie!
+[Submission_4.Failed]
+Twój atak na gospodarstwo nie powiódł się!
+[Submission_5.Objectives]
+Odeprzeć brytyjski atak na zdobytą farmę.
+[Submission_5.Description]
+Brytyjczycy nie spodziewali się takiego obrotu spraw, zadałeś im poważne straty, ale zaczynają się przegrupowywać i koniecznie chcą zająć. Musisz odeprzeć ich kontratak.
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielski kontratak.
+[Submission_5.Success]
+Wygrałeś! Twoje dzisiejsze wyczyny zostaną wpisane do annałów wojny.
+[Submission_5.Failed]
+Zostałeś pokonany, Brytyjczycy bez przeszkód kontynuują natarcie na Caen.
+[StringTable.inf_reserv]
+Drużyna piechoty została przekazana pod twoje dowództwo.
+[StringTable.tank_reserv]
+Masz do dyspozycji dodatkowe czołgi.

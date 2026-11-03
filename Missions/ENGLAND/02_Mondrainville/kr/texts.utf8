@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+몽드랭빌을 해방하고 남쪽으로 밀고 나가 캉으로 가는 도로를 확보하고 적 거점을 모두 제거하라.
+[Mission.Description]
+전진하여 캉으로 가는 도로를 차단하고 몽드랭빌 주변 지역의 적을 소탕하라.
+[Submission_01.Success]
+몽드랭빌을 점령했다.
+[Submission_01.Failed]
+몽드랭빌 점령에 실패했다.
+[Submission_1.Objectives]
+농장에서 적을 몰아내라.
+[Submission_1.Description]
+항공 정찰에 따르면 농장에 적 포병 중대가 있다. 이를 제거하라.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+몽드랭빌에 대한 적의 공격을 격퇴하라.
+[Submission_3.Description]
+적은 몽드랭빌을 지키려고 증원 병력을 투입하고 있다.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+캉으로 가는 도로를 확보하라.
+[Submission_2.Description]
+캉으로 가는 도로변 건물군에서 적을 몰아내라.
+[Submission_3.Success]
+공격을 격퇴했다.
+[Submission_3.Failed]
+임무 실패.
+[Submission_1.Success]
+포병 중대를 제거했다. 농장을 확보했다.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[Submission_2.Success]
+도로를 확보했다.
+[Submission_2.Failed]
+목표를 달성하지 못했다.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[StringTable.Tanks]
+예비 병력 가용

@@ -1,0 +1,38 @@
+﻿[Submission_1.Objectives]
+Evite que los rusos crucen el canal.
+[Submission_1.Description]
+Alemania oriental… los rusos luchan por abrirse camino hacia Berlín. La última oportunidad de frenar al enemigo está en los altos de Seelow. El terreno está cubierto de pequeñas montañas y los valles están sembrados de canales. Su misión consiste en contener el avance de las unidades enemigas hasta que lleguen los refuerzos. Hay buenas posiciones defensivas a ambos lados del canal. Para ganar tiempo para que los refuerzos lleguen y se desplieguen, debe impedir que los rusos crucen el canal.
+
+Sus órdenes son:
+- 	Mantenga la posición hasta que lleguen los refuerzos.
+- 	Evite que los rusos crucen el canal.
+[Submission_1.Success]
+¡Felicidades! El heroísmo de sus soldados es incomparable.
+[Submission_1.Failed]
+Ha perdido. Alemania está condenada.
+[Submission_2.Objectives]
+Organice sus defensas en los altos. Rechace los ataques rusos.
+[Submission_2.Description]
+El cuartel general le ha asignado fuerzas de la reserva de la división. Establezca posiciones defensivas en los altos y rechace el asalto ruso.
+
+Sus órdenes:
+- 	¡Luchar hasta la muerte!
+[Submission_2.Success]
+Ha vencido. Aunque creíamos que la guerra estaba perdida, hemos aguantado un día más.
+[Submission_2.Failed]
+Ha perdido. Ahora nuestro destino está en manos del enemigo.
+[Mission.Objectives]
+Mantenga los altos de Seelow.
+[Mission.Description]
+Las fuerzas del Ejército Rojo se abren paso hacia Berlín. Nos aventajan en soldados y equipo. En esta situación crítica, hay que resistir, contener el asalto y, saltando desde los muros de Berlín, asestar un golpe devastador al enemigo. El pueblo alemán confía en sus soldados. El enemigo, a las órdenes del mariscal Zhukov, se ha confiado y se abalanza sobre nosotros desordenadamente. ¡Saque partido de sus errores!
+
+Sus órdenes:
+- 	Una vez atrincherado en los altos de Seelow, impida que las tropas rusas rompan sus defensas.
+[Mission.Success]
+¡Ha resistido! Alemania sobrevive un día más ante sus enemigos.
+[Mission.Failed]
+¡Ha sufrido una derrota! La guerra está perdida.
+[StringTable.reserv]
+Han llegado refuerzos.
+[StringTable.Last_reserv]
+Le han enviado tropas de reserva del cuartel general para reforzarle. ¡Mantenga los altos cueste lo que cueste!

@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Stop the enemy
+[Mission.Description]
+Take command of tank, infantry and artillery units of the 6th Armoured Division and stop the advance of the enemy 10th Panzer Division, preventing it from capturing Thala. Our scattered troops are still retreating from the Kasserine pass. You must secure roads with your mobile units and bring back our troops, supporting them if necessary.
+[Mission.Success]
+Mission accomplished!
+[Mission.Failed]
+Mission failed!
+[Submission1.Objectives]
+Attack the German vanguard
+[Submission1.Description]
+Enemy vanguard units are approaching our positions. Destroy them.
+[Submission1.Success]
+The order has been carried out!
+[Submission1.Failed]
+The order has not been carried out!
+[Submission2.Objectives]
+Secure the column
+[Submission2.Description]
+Several vehicles are moving from the Kasserine Pass, it looks like these are our retreating units. Check if this is the case and arrange for their protection from possible German attacks.
+[Submission2.Success]
+Mission accomplished!
+[Submission2.Failed]
+Mission failed!
+[Submission4.Objectives]
+Repel all enemy attacks.
+[Submission4.Description]
+Hold for 20 minutes until our assault aircraft make their move. There are Allied units on the way, in addition, aviation will act in our interests, it is already in the air, it is necessary to hold out for a few minutes.
+[Submission4.Failed]
+Mission failed!
+[Submission4.Success]
+Mission accomplished.
+[StringTable.SubMission4_WIN]
+Coordinates have been acquired, artillery is opening fire!
+[StringTable.Message1]
+Take command of tank, infantry and artillery units of the 6th Armoured Division and stop the advance of the enemy 10th Panzer Division, preventing it from capturing Thala. 
+[StringTable.Message2]
+Repel all enemy attacks. Hold for 20 minutes until our assault aircraft make their move.
+[StringTable.Message3]
+Take cover! Our air forces are going to hammer the Germans into the dirt!

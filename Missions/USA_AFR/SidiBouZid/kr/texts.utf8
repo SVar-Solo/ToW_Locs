@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+적을 분쇄하라
+[Mission.Description]
+워터스 중령! 공세를 펼쳐 시디 부 지드 마을의 적을 분쇄해야 한다.
+[Mission.Success]
+공세가 성공했다! 적이 도주하고 있다!
+[Mission.Failed]
+후퇴하라! 아군이 패배했다!
+[Submission1.Objectives]
+마을을 해방하라
+[Submission1.Description]
+마을에서 적군을 몰아내라.
+[Submission1.Success]
+마을을 침략자들로부터 해방했다.
+[Submission1.Failed]
+마을에서 적을 몰아내지 못했다!
+[Submission2.Objectives]
+연락을 복구하라
+[Submission2.Description]
+곡사포 진지로 보병 부대를 보내 연락을 복구하라.
+[Submission2.Success]
+연락이 복구되었다.
+[Submission2.Failed]
+포병과의 연락을 복구하지 못했다!
+[Submission3.Objectives]
+포병을 보호하라
+[Submission3.Description]
+적이 포병을 점령하지 못하게 하라.
+[Submission3.Success]
+적은 포병을 점령하지 못했다!
+[Submission3.Failed]
+적이 포병을 점령했다!
+[Submission4.Objectives]
+포병을 탈환하라
+[Submission4.Description]
+포병 진지를 되찾아라!
+[Submission4.Success]
+포병이 다시 아군 손에 들어왔다!
+[Submission4.Failed]
+적이 여전히 포병을 장악하고 있다!
+[Submission5.Objectives]
+매복 부대를 격멸하라
+[Submission5.Description]
+매복 부대를 격멸하라
+[Submission5.Success]
+매복 부대를 격멸했다!
+[Submission5.Failed]
+매복 부대를 격멸하지 못했다!
+[Submission8.Objectives]
+진격하는 적군을 격멸하라
+[Submission8.Description]
+적이 시디 부 지드에서의 아군 공격을 무디게 하려고 반격을 개시했다. 진격하는 적군을 격멸하라!
+[Submission8.Success]
+진격하는 적군을 격멸했다!
+[Submission8.Failed]
+아군이 진격하는 적군에게 분쇄되었다!
+[StringTable.Zasada]
+매복.
+[Submission6.Objectives]
+전차를 파괴하라
+[Submission6.Description]
+진격하는 적 전차를 파괴하라.
+[Submission6.Success]
+적 전차를 격파했다!
+[Submission6.Failed]
+적 전차를 파괴하지 못했다!
+[Submission7.Objectives]
+적 전차를 파괴하라
+[Submission7.Description]
+남쪽에서 적 기갑 부대가 발견되었다. 최대한 빨리 파괴하라.
+[Submission7.Success]
+적 기갑 부대를 격파했다!
+[Submission7.Failed]
+적 기갑 부대를 격파하지 못했다!
+[StringTable.human]
+보병
+[StringTable.spg]
+자주포

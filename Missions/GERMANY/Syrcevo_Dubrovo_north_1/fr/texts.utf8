@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Percez la ligne de défense Syrtsev - Doubrovo et détruisez le poste de commandement de Syrtsev.
+[Mission.Description]
+L'équipe de combat, appuyée par des chars et des canons d'assaut, progressera vers Doubrovo - Syrtsev en contournant Syrtsev par l'est. Battez les points d'appui ennemis, puis atteignez la rive est de la Péna, au nord de Syrtsev. Détruisez à tout prix le poste de commandement soviétique de Syrtsev.
+[Submission_1.Objectives]
+Percez la ligne de défense Syrtsev - Doubrovo. Sécurisez l'objectif avec l'infanterie.
+[Submission_2.Objectives]
+Un poste de commandement ennemi se trouve dans le village de Syrtsev. Il faut poursuivre l'avance et détruire ce poste de commandement.
+[Submission_1.Success]
+La ligne de défense ennemie est prise.
+[Submission_1.Failed]
+L'attaque est enrayée, un soutien immédiat est nécessaire.
+[Submission_2.Success]
+Le poste de commandement ennemi a été détruit. Syrtsev est occupé par nos forces.
+[Submission_2.Failed]
+L'attaque est bloquée, un soutien immédiat est nécessaire.
+[Mission.Success]
+La ligne de défense ennemie Syrtsev - Doubrova a été percée. Le poste de commandement ennemi de Syrtsev a été détruit.
+[Mission.Failed]
+Nous avons échoué à exécuter nos ordres. L'ennemi est trop fort ! 
+[StringTable.Ger_infantry]
+Une unité d'infanterie de réserve est désormais sous votre commandement.
+[StringTable.Ger_support]
+Des chars, des canons automoteurs et des unités d'infanterie sont en réserve. Vous en prendrez le commandement si l'attaque se déroule bien.
+
+[StringTable.Inf]
+Infanterie
+[StringTable.Tanks]
+Chars
+[StringTable.SPG]
+Canons automoteurs
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

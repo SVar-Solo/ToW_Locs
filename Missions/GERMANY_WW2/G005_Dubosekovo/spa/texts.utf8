@@ -1,0 +1,48 @@
+﻿[Mission1.Objectives]
+Capture la estación de ferrocarril de Dubosekovo.
+[Mission1.Description]
+Según las fotos aéreas del servicio de información, los rusos han hecho un buen trabajo fortificando sus posiciones en la zona de la estación ferroviaria de Dubosekovo. Hasta el momento, los rusos se han defendido mejor de lo que esperábamos y nuestras bajas han sido más cuantiosas. Pese a ello, la plana mayor alemana necesita que tome este importante punto estratégico.
+
+Sus órdenes son:
+- 	Lance una ofensiva sobre la estación de Dubosekovo.
+- 	Elimine a las tropas rusas que hayan tomado posiciones defensivas en la zona especificada.
+[Mission1.Success]
+Ha tomado la estación del tren. Después de reparar las vías podremos distribuir provisiones y munición desde la retaguardia.
+[Mission1.Failed]
+¡Su ataque ha fracasado! No ha podido apoderarse de la estación de tren.
+[Mission2.Objectives]
+Proteja la estación de Dubosekovo del contraataque ruso.
+[Mission2.Description]
+Un grupo de asalto ruso se acerca a las posiciones que acabamos de conseguir. No podemos perder esta estación de tren; hay que defenderla a toda costa.
+
+Sus órdenes son:
+-	 Rechace todos los ataques de las tropas rusas.
+-	 Evite que los soldados rusos tomen la estación.
+[Mission2.Success]
+Ha frenado el ataque enemigo. ¡Felicidades!
+[Mission2.Failed]
+Ha fracasado, y los rusos han recuperado la estación de tren.
+[Submission1.Objectives]
+Cañonee las posiciones enemigas.
+[Submission1.Description]
+Antes de iniciar la ofensiva sobre la estación de tren enemiga, cañonee las posiciones defensivas enemigas.
+
+Sus órdenes:
+- 	Cañonee las posiciones enemigas.
+[Submission1.Success]
+El cañoneo ha sido un éxito. ¡No cabe duda de que los rusos huirán en cuanto vean nuestros tanques!
+[Submission1.Failed]
+¡Su artillería ha sido ineficaz!
+[Submission2.Objectives]
+Solicite apoyo aéreo directo.
+[Submission2.Description]
+Para poder destruir las unidades de infantería y de artillería enemigas, deberá pedir apoyo aéreo directo.
+
+Sus órdenes:
+- 	Solicite el apoyo aéreo disponible.
+[Submission2.Success]
+Nuestros aviones han atacado las posiciones enemigas.
+[Submission2.Failed]
+Nuestras unidades aéreas no han podido proporcionarle el apoyo aéreo apropiado.
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.

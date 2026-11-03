@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Empêchez l’ennemi de percer à Novosselovka.
+[Mission.Description]
+Défendez les positions à 500 m au sud de Novosselovka, le point d’appui antichar dans le village même et la seconde ligne à la lisière nord-ouest du village. Concentrez vos efforts sur le maintien du centre du village. Empêchez l’ennemi de pénétrer au nord de Novosselovka.
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+Les forces ennemies ont occupé Novosselovka et progressent maintenant vers le nord.
+[Submission_1.Objectives]
+Tenez les positions jusqu’à l’arrivée des renforts.
+[Submission_1.Success]
+Mission accomplie, l’avance ennemie est stoppée.
+[Submission_1.Failed]
+L’ennemi poursuit son avance ; il risque de percer vers le nord.
+[Submission_2.Objectives]
+Battez l’ennemi qui avance sur la partie nord-ouest du village.
+[Submission_2.Success]
+La percée ennemie a été repoussée.
+[Submission_2.Failed]
+Contre-attaque repoussée, l’ennemi poursuit son avance.
+[StringTable.Support]
+Un groupe de chars et d’infanterie est désormais sous votre commandement.
+[StringTable.Infantry]
+Infanterie du 959e régiment d’infanterie
+[StringTable.Tanks]
+Chars du 3e corps mécanisé
+[StringTable.Call_SPG]
+Des canons d’artillerie automoteurs sont désormais sous votre contrôle.
+
+[StringTable.SPG]
+Canons d’artillerie automoteurs
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

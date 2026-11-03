@@ -1,0 +1,42 @@
+﻿[Main_mission.Objectives]
+Zlikwidować uciekającego nieprzyjaciela.
+[Main_mission.Description]
+Wywiad informuje, że obrona Caen została zmieciona, a wróg wycofuje się w pośpiechu. Nasze oddziały spóźniły się z zamknięciem okrążenia i obawiamy się, że część sił nieprzyjaciela się wymknęła. Musisz uniemożliwić im ucieczkę.
+Twoje rozkazy:
+-	Umocnij siły w pobliżu małej wioski i za wszelką cenę utrzymaj pobliskie skrzyżowanie. Pod żadnym pozorem nie opuszczaj tego rejonu. Wróg może pojawić się w każdej chwili.
+[Main_Mission.Success]
+Wróg został pokonany! Teraz ten teren jest pod naszą kontrolą!
+[Main_Mission.Failed]
+Przegrałeś. Przeciwnik wymknął ci się. 
+[Submission_1.Objectives]
+Zniszczyć nieprzyjacielskie czołgi.
+[Submission_1.Description]
+Niedobitki niemieckich jednostek próbują się wyrwać z okrążenia. Choć nieprzyjaciel został osłabiony, wciąż trzeba się z nim liczyć. Wykryto także niemieckie jednostki pancerne. 
+Twoje rozkazy:
+-	Uniemożliwić nieprzyjacielowi wyrwanie się z okrążenia. Zniszczyć napotkane czołgi nieprzyjaciela.
+[Submission_1.Success]
+Gratulacje! Zatrzymałeś siły nieprzyjaciela!
+[Submission_1.Failed]
+Przegrałeś. Wróg umknął z naszej pułapki.
+[Submission_2.Objectives]
+Zatrzymaj wojska nieprzyjaciela!
+[Submission_2.Description]
+Wróg ma w tym rejonie więcej wojsk, niż się spodziewaliśmy. Próbuje się przebić. 
+Twoje rozkazy:
+-	Wyeliminować oddziały wroga.
+[Submission_2.Success]
+Udało ci się! Wojska nieprzyjaciela zostały zniszczone!
+[Submission_2.Failed]
+Nie wykonałeś zadania! 
+[Submission_3.Objectives]
+Zająć gospodarstwo. Wyeliminować napotkanych nieprzyjaciół.
+[Submission_3.Description]
+Niemcom nie udało się przebić, ale nie wyeliminowaliśmy ich całkowicie. Dowództwo uważa, że najlepiej będzie natychmiast rozpocząć ofensywę i zniszczyć pozostałe pozycje wroga.
+Twoje rozkazy:
+-	Rozpocząć atak. Uderzyć na gospodarstwo i zlikwidować nieprzyjaciela.
+[Submission_3.Success]
+Wróg został zniszczony! Gospodarstwo jest w naszych rękach!
+[Submission_3.Failed]
+Nie udało ci się zająć farmy!
+[StringTable.Reserv]
+Przybyły posiłki.

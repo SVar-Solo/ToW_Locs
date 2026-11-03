@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Empêchez l’ennemi d’occuper la cote 232.8 et de percer jusqu’à Kalinovka.
+[Mission.Description]
+Occupez et sécurisez la zone défensive sur les pentes sud-est de la cote 232.8. Empêchez l’ennemi de percer jusqu’à Kalinovka. Concentrez vos efforts sur le maintien des positions devant la crête de la colline. Veillez à tout prix à ce que les unités du 10e corps de chars soient engagées au combat aux abords de la colline.
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+Nos forces se replient sous l’assaut d’un ennemi supérieur en nombre.
+[Submission1.Objectives]
+Tenez vos positions jusqu’à l’arrivée des unités du 10e corps de chars.
+[Submission1.Success]
+Mission accomplie, l’avance ennemie a été stoppée.
+[Submission1.Failed]
+L’ennemi a percé la ligne de front et poursuit son avance.
+[Submission2.Objectives]
+De concert avec les unités du 10e corps de chars, contre-attaquez l’ennemi.
+[Submission2.Success]
+La contre-attaque se déroule comme prévu, l’ennemi se replie.
+[Submission2.Failed]
+La contre-attaque a échoué, nos troupes ont été arrêtées par des forces supérieures.
+[StringTable.Support]
+Des groupes de chars et d’infanterie ont été placés sous votre commandement.
+
+[StringTable.Avia_Support]
+Frappe aérienne des Il-2 disponible.
+[StringTable.Art_Support]
+Une batterie d’artillerie à roquettes Katioucha ouvrira le feu sur votre signal.
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

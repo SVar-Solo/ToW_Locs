@@ -1,0 +1,42 @@
+﻿[STRATEGY_MAP_TIP.1]
+Les batailles de campagne débutent en mode stratégique, les équipes de combat disponibles étant déterminés par la campagne. En mode stratégique, le joueur peut manœuvrer ses équipes de combat, les engager pour attaquer l’ennemi ou défendre ses propres positions, et même faire appel à un soutien aérien et d’artillerie. La carte stratégique est composée de plusieurs zones reliées entre elles, à travers lesquelles les équipes de combat ennemies et alliées peuvent manœuvrer. Sur la carte stratégique, le joueur peut choisir des renforts et des soutiens, et les affecter à ses équipes de combat. Plus tard, lorsque le joueur s’empare de points clés, il peut recevoir des renforts et des soutiens supplémentaires. Le joueur peut affecter ces ressources à tout moment de son tour, mais uniquement aux équipes qui ne sont pas engagées dans un combat.
+La carte stratégique de la région détermine certaines conditions de déplacement au combat. Les équipes de combat ne peuvent pas pénétrer dans les zones fermées.
+
+\t Description des modes de jeu :
+1. Le mode stratégique se joue au tour par tour.
+2. Un tour comprend le mouvement du joueur, le mouvement de l’ennemi et tous les combats résultant des manœuvres des unités des deux camps.
+3. Le nombre de tours autorisés est déterminé par la campagne.
+4. Le tour du joueur prend fin lorsque toutes ses équipes de combat ont épuisé leurs points d’action. Le joueur peut mettre fin au tour plus tôt s’il le souhaite, par exemple pour qu’une équipe reste sur place afin de défendre une zone contre l’ennemi.
+5. Le tour de l’ennemi se termine de la même manière, lorsque toutes ses équipes de combat ont épuisé leurs points d’action, ou plus tôt si l’ennemi en décide ainsi.
+7. Un combat a lieu lorsque des équipes de combat du joueur et de l’ennemi sont présents au même endroit.
+8. Pour remporter une campagne, le joueur doit marquer plus de points que son adversaire, ou éliminer toutes les équipes de combat ennemies.
+9. Les points sont attribués une fois tous les combats de la carte terminés.
+
+[STRATEGY_MAP_TIP.2]
+\t Déploiement des troupes sur la carte stratégique
+1. Par défaut, toutes les troupes du joueur commencent dans la zone tampon (ou à l’arrière). De là, elles peuvent être déployées dans n’importe quelle zone de départ de la carte tactique.
+2. Une zone ne peut accueillir qu’une seule équipe de combat, allié ou ennemi.
+3. Une zone peut offrir un bonus à la force qui l’a conquise : soutien aérien ou d’artillerie supplémentaire, troupes, carburant ou renforts.
+4. Si une équipe de combat est coupée de toutes les zones amies, elle ne peut plus se réapprovisionner en munitions, accéder aux réserves ni, si elle n’a plus de points d’action, quitter la zone. Le moral des troupes isolées est également réduit.
+
+[STRATEGY_MAP_TIP.3]
+Une équipe de combat est un ensemble de troupes accompagné d’une réserve. Les troupes peuvent se déplacer sur la carte tactique et être réapprovisionnées à partir de leurs réserves. Une réserve appartient exclusivement à son équipe de combat et ne peut servir qu’à regarnir les troupes de cette équipe, sauf si cette force alliée est encerclée.
+
+\t Paramètres d’une équipe de combat :
+1. Niveau d’expérience.
+2. Carburant. (Le carburant est consommé par les déplacements, ne peut pas être reconstitué en cas d’encerclement, et est sinon reconstitué à chaque tour.)
+3. Munitions. (Les munitions sont consommées au combat et ne peuvent pas être reconstituées en cas d’encerclement.)
+4. Soutien.
+5. Vitesse de déplacement. (Elle dépend de la présence de véhicules, d’infanterie et d’artillerie, et tombe à 1 lorsqu’une zone adjacente est occupée par l’ennemi.)
+
+\t Déplacement des équipes de combat :
+1. Les déplacements sont planifiés et exécutés l’un après l’autre, une équipe de combat à la fois. Une équipe ne peut se déplacer qu’une fois par tour. Une équipe nouvellement déployée ne peut pas recevoir d’ordres au cours du même tour : elle ne peut pas être déployée puis se déplacer dans le même tour.
+2. L’équipe de combat en cours doit cesser de se déplacer avant que la suivante puisse le faire.
+3. Tous les déplacements doivent être effectués avant le début des combats.
+4. Une équipe de combat peut passer d’une zone à une autre.
+5. Deux équipes de combat ne peuvent pas occuper la même zone. Une équipe de combat ne peut pas traverser une zone occupée par l’ennemi.
+6. Une équipe de combat ne peut pas être scindée en unités distinctes. Toutes les unités d’une équipe se déplacent ensemble.
+7. Les équipes de combat ayant subi des pertes ne peuvent pas être fusionnées avec d’autres équipes.
+8. Certaines particularités du terrain peuvent empêcher une équipe de combat de se déplacer ou de combattre.
+9. La retraite est très semblable à un déplacement ordinaire. Toutefois, si une équipe de combat n’a nulle part où se replier, elle est détruite.
+

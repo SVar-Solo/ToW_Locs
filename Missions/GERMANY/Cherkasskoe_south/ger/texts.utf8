@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Der Gefechtsverband wird den südlichen Ortsrand von Tscherkasskoje besetzen und sich um das Ziel versammeln.
+[Mission.Description]
+Die Aufklärung beschafft Informationen über feindliche Stellungen, die gegnerische Feuerkraft und die Panzergräben. Überwinden Sie so schnell wie möglich die Panzergräben und nehmen Sie die erste Verteidigungslinie ein. Greifen Sie die Flanke an und neutralisieren Sie die sowjetischen Verteidigungsstellungen. Ziehen Sie dann Ihre Truppen im bebauten Gebiet zusammen.
+[Mission.Success]
+Der südliche Teil von Tscherkasskoje wurde besetzt. Die feindlichen Truppen haben sich nach Norden zurückgezogen.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark!
+[Submission_1.Objectives]
+Dringen Sie zur ersten Linie der feindlichen Gräben durch und nehmen Sie die Stellungen mithilfe der Infanterie ein.
+[Submission_1.Success]
+Die Linie mit Hindernissen wurde überschritten. Der erste Schützengraben wird angegriffen.
+[Submission_1.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt!
+[Submission_2.Objectives]
+Greifen Sie den Feind am südlichen Ortsrand von Tscherkasskoje an. Besetzen und halten Sie das Dorf.
+[Submission_2.Success]
+Der südliche Teil von Tscherkasskoje wurde besetzt.
+[Submission_2.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt!
+[Submission_3.Objectives]
+Wehren Sie den Gegenangriff der feindlichen Panzer ab. Verhindern Sie, dass der Feind das bebaute Gebiet einnimmt.
+[Submission_3.Success]
+Der Gegenangriff des Feindes wurde erfolgreich zurückgeschlagen.
+[Submission_3.Failed]
+Unsere Truppen mussten sich unter feindlichem Feuer zurückziehen.
+[StringTable.Ifantry_support]
+Eine Infanterieeinheit steht jetzt unter Ihrem Kommando.
+[StringTable.Inf_1]
+Infanterie
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

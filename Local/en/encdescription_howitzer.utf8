@@ -1,0 +1,48 @@
+﻿[EncDescription_data/units/howitzer/rus/122mm_M30]
+122mm Howitzer M1938 (M-30)
+
+By the early 1930s, Soviet military command had recognized that, despite improvements, pre-World War I 122mm howitzers were not meeting the challenges of the modern battlefield. German engineers also canceled production plans for similar howitzer – the Lubok. The Soviet military was having trouble deciding between 122mm and 107mm caliber, but finally, in 1937, several design bureaus at once commenced work on 122mm howitzers.
+The M-30 gun, under development by the design bureau of F. F. Petrov, was completed on March 31, 1931. However, it took over a year to resolve problems identified during testing, so the M-30 was adopted for mass production only on September 29, 1939. The two competing projects were cancelled: the ballistics of the U-2 were inferior and it was taking too long to develop; and the F-25, designed by V. G. Grabin, required a muzzle break and a number of other parts which were difficult to manufacture.
+The M-30 was an innovative design for its time. It was heavier and had shorter maximum range than its foreign counterparts (light 105mm howitzers), but it also used heavier ammunition.
+From 1940 to 1955, the mass production of the M-30 totaled 19266 pieces. The M-30 was in active service during the Great Patriotic War, having become one of the Soviet Army’s favorite weapons. These howitzers were operated from sheltered firing positions for use against entrenched and exposed personnel and unarmored vehicles, fieldworks, artillery, and mortar batteries. Thanks to the shaped charges added to its ammunition stocks in 1943, the M-30 could also deal with the occasional heavily armored German vehicle. Aside from standard field carriages, M-30 howitzers were also mounted on SU-122 SPGs.
+The M-30 was used in the Korean War by the North Korean forces, and was considered the best howitzer on the entire peninsula.
+During the postwar years, these guns were exported to dozens of countries and used in many armed conflicts. In some countries, the M-30 remains in service to this day.
+
+[EncDescription_data/units/howitzer/ger/150mm_sFH18]
+sFH18 was a German 150mm heavy field howitzer of WW2. sFH means schwereFeldHaubitze and is a standard abbreviation for all German cannons of it's class. Barrels of this cannons were installed into "Hummel" self-propelled guns, and some of them were installed on captured French "Lorraine" armored vehicles. This cannon had excellent ballistics, but it was too heavy if compared to American 155mm M1 and Russian D-1.
+
+[EncDescription_data/units/howitzer/ger/75mm_LeIG_18_Kursk1943]
+75mm Infantry Support Gun, leichtes Infanteriegeschütz 18
+
+The 75mm le.IG 18 Light Infantry Gun was designed by Rheinmetall AG in 1927, and German armed forces began receiving the gun by 1932.  The Gun 18 was designed as a regimental gun. Each infantry or mechanized infantry division was to have a field artillery battery made up of six le.IG 18s and two heavy s.I.G.33 guns; the reconnaissance battalion was two have two more light infantry guns.
+
+The weapon was of a rather unusual construction, combining design elements of an artillery gun and a mortar. The weapon’s elevation could be set from -10 to +73 degrees, which, in conjunction with separate loading and five different shot types allowed this weapon to be fired both directly and indirectly. The weapon’s traverse was only 11 degrees; however the weapon could be easily rotated by its crew.
+
+Another interesting design element was the lack of a conventional breech, as it appears on other contemporary weapons. Instead the weapon had a barrel hinged at the business end, which could be elevated shotgun-style, ejecting a shell casing, and allowing a new shell to be loaded.
+
+The gun was very light, weighing only 400 kg (882 lbs), which allowed the gun crew to easily move it manually in the field. When needed, the weapon could be broken down into five parts, transported separately. Several modifications of the weapon existed, with wooden wheels, and metal rims with conventional tires. When equipped with the latter, the gun could be moved as fast as 50 km/h.
+
+The gun could fire two types of High Explosive shells, two types of HEAT rounds, and a target marking shell, containing 220 cardboard circles of various colors, easily visible on terrain.
+
+One of the main advantages of the gun was its unique flexibility. Due to its indirect fire capability, the gun was very useful when attacking fixed fortifications. Other advantages included its low weight, compact size, ease of use, and reliability. The gun however was not without disadvantages, which included its short range of only 3,570 meters (which however was usually enough on battalion level), and a low rate of fire of about 12 rounds per minute. Also, limited traverse angles and the limited speed of the APCR round made the weapon of limited use as an anti-tank gun. Still, the  le.IG 18 was one of the best infantry support weapons of the Wehrmacht.
+
+The le.IG 18 remained in production throughout the war. A total of 8,266 were built between 1939 and 1945. By September 1st, 1939 German armed forces had 2,933 in active service; by June 1st of 1941 the numbers grew to 4,176. In addition to the le.IG 18, Germany produced several other 75mm guns, including the I.G.37, created with the use of captured Soviet 45mm guns, with 2,279 produced in 1944; and the I.G.42, with 527 produced in 1944 and 1945.
+
+Many le.IG 18 were captured and used by the Allies; Soviet High Command even published a gunnery manual for it in 1943.
+
+[EncDescription_data/units/howitzer/usa/105mm_Howitzer_M2A1]
+105mm M2A1 Howitzer
+
+In 1919, based on battlefield analysis conducted during WWI, the US began work on a new 105mm divisional howitzer. The M1921E proved its superiority over the other prototypes, and in 1921 was selected for large-scale manufacture after certain improvements were made. The gun had an innovative design for its time, so the improvements took longer than planned, but the new howitzer, designated the M1, was finally adopted in 1928. However, the Great Depression prevented its mass production. In 1934 it was further improved and adopted as M2, but again it failed to enter mass production for the same economic reasons.
+By 1940, the US economy had finally recovered, and Europe was enveloped in war. The need for new guns was urgently felt, and finally, in March 1941, the long-awaited howitzer, that had by then undergone yet further improvements, finally entered mass production under the designation M2A1.
+In terms of design, the gun was a light field howitzer mounted on a split-trail spring carriage. It featured a horizontal sliding wedge breechblock, hydropneumatic recuperator, and semi-fixed ammunition (7 charges). In general, this howitzer was quite a success, and could easily stand against its German counterpart, the 10.5cm leFH 18.
+105mm howitzers were divisional artillery: an artillery regiment of a US infantry division consisted of three 105mm howitzer and one 155mm howitzer battalions. M2A1 guns were mainly operated from sheltered firing positions and could even be used against tanks, thanks to their HEAT projectiles. In World War II, M2A1 howitzers were used wherever the US Army fought. After the war, these guns remained in service, but were redesignated M101. The M101 howitzer was actively used in numerous wars and armed conflicts, including the Korean War. Many were exported to other countries, and in some places they remain in service to this day. A total number of 8536 M2A1 and M2A2 howitzers were manufactured from 1940 through 1945.
+
+[EncDescription_data/units/howitzer/uk/87mm_25pdr_gun_howitzer_Mk2]
+87.6mm Ordnance QF 25-pounder Mark II Field Gun/Howitzer
+
+Work began in 1935 in the United Kingdom to design a new general purpose field weapon. Until that time, British division artillery consisted of an 18-pdr (84mm) field gun and a 4.5-in (114mm) howitzer. The new 25-pdr gun was to replace both, which meant that the new weapon had to combine features of a field gun and a howitzer; not an easy task. Carriage design for the new weapon took some time, and the first production variant, the Mk.I, still used the 18-pdr gun’s carriage. Production of Mk.IIs with its own Carriage 25-pdr began by late 1939.
+
+The 25-pdr was a rather unique artillery gun, which can be classified as a field gun/howitzer. With a maximum elevation angle of 45 degrees, the weapon used semi-fixed ammunition with up to three propellant charges, giving it indirect fire capability. At the same time, the weapon was quite capable of direct fire. With a box trail carriage, the gun’s traverse was 4 degrees in each direction. However, the weapon could be mounted on a special firing platform, transportable with the gun, which allowed it to rotate 360 degrees. Semiautomatic breech allowed for high rate of fire. Late model variants were also equipped with a muzzle brake. Generally the 25-pdr was a successful design, making it one of the best artillery pieces of the war.
+
+Organizationally 25-pdr guns were part of infantry division artillery numbering 72 guns (3 regiments of 24 guns each); one (or two, later in the war) 25-pdr regiments would also be attached to armoured divisions. Most often the weapon was used for indirect fire, but when needed could be used in a direct-fire anti-tank role. 25-pdrs served with Commonwealth nations throughout WWII, and remained in active service into the 1970s. Some of the former colonies continue to use the gun to this day. Ammunition for the 25-pdr is still being manufactured in Pakistan.

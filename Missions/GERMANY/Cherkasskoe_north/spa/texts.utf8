@@ -1,0 +1,47 @@
+﻿[StringTable.Hoerlein]
+Inicie el ataque cuando los bombarderos en picado terminen de bombardear las posiciones rusas en la aldea.
+[StringTable.Nebelwerfer_support]
+Un escuadrón de morteros cohete está listo para apoyar nuestro avance.
+[Mission.Objectives]
+Ocupe la parte norte de Cherkasskoe. Destruya a las fuerzas enemigas de la zona.
+[Mission.Description]
+El grupo de combate ocupará Cherkasskoe mediante un ataque conjunto de tanques, cañones de asalto e infantería. Una vez ocupada la primera posición, esté preparado para rechazar los contraataques de tanques y cañones autopropulsados enemigos desde los flancos.
+[Mission.Success]
+Cherkasskoe ha sido ocupada y las fuerzas enemigas han sido destruidas.
+[Mission.Failed]
+No hemos podido cumplir nuestras órdenes. ¡El enemigo es demasiado fuerte!
+[Submission_2_1.Objectives]
+Rechace los contraataques enemigos; destruya tanques y cañones de asalto.
+[Submission_2_1.Success]
+¡Los tanques rusos han sido destruidos!
+[Submission_2_1.Failed]
+Nuestras fuerzas se retiran bajo la presión enemiga.
+[Submission_2_2.Objectives]
+Rechace los contraataques enemigos; destruya tanques y cañones de asalto.
+[Submission_2_2.Success]
+¡Los tanques rusos han sido destruidos!
+[Submission_2_2.Failed]
+Nuestras fuerzas se retiran bajo la presión enemiga.
+[Submission_3.Objectives]
+El fuego de mortero ruso dificulta nuestro avance. El reconocimiento aéreo indica que sus posiciones de tiro están en la arboleda al noroeste de Cherkasskoe. Es necesario ocupar esas posiciones o neutralizar los morteros con fuego de contrabatería. 
+[Submission_3.Success]
+La batería de morteros enemiga ha sido destruida.
+[Submission_3.Failed]
+No hemos logrado destruir los morteros enemigos.
+[Submission_4.Objectives]
+Destruya los cañones antitanque rusos al noreste de Cherkasskoe.
+[Submission_4.Success]
+El punto fuerte antitanque ruso ha sido destruido.
+[Submission_4.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato.
+[StringTable.Hoerlein]
+Inicie el ataque cuando los bombarderos en picado ataquen las posiciones rusas en la aldea.
+[StringTable.Tanks]
+Tanques e infantería
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

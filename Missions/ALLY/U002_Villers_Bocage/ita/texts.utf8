@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Accompagna la colonna corazzata fino all'area indicata.
+[Mission1.Description]
+Le truppe alleate stanno proseguendo la loro espansione in Normandia. In questo momento prendere Caen è estremamente importante, dato che ci permetterà di proseguire la nostra avanzata.
+
+Una colonna di forze corazzate inglesi (i famosi Ratti del Deserto), sta percorrendo la strada che si dirige verso la città di Caen. L'Alto Comando inglese si aspetta di stringere la morsa sulle posizioni tedesche presenti nell'area usando le forze della Settima Divisione Corazzata britannica.
+
+[Mission1.Success]
+Gli ordini del comando sono stati portati a termine e prenderemo Caen in breve tempo. I tedeschi non riusciranno a rigettarci in mare!
+[Mission1.Failed]
+Missione fallita. I tedeschi sono riusciti a sconfiggerti. Considerando la quantità di forze che avevi a disposizione, è davvero incredibile!
+[Mission2.Objectives]
+Distruggi i carri armati nemici.
+[Mission2.Description]
+Lungo la strada per Caen, la colonna corazzata inglese è stata attaccata dalla seconda compagnia del 101mo battaglione di carri pesanti delle SS, comandata da Michael Wittmann. Una parte dei carri è stata danneggiata. I tedeschi stanno preparando un attacco verso Villers-Bocage.
+
+I tuoi ordini sono:
+-	Distruggi i carri armati nemici.
+[Mission2.Success]
+Missione completata! I carri nemici sono stati distrutti e la strada per Caen è libera!
+[Mission2.Failed]
+Le tue truppe sono state sconfitte! Hai perso la battaglia!
+[StringTable.Reserv]
+I rinforzi sono arrivati in tuo aiuto.

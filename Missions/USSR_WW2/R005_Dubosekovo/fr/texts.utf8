@@ -1,0 +1,50 @@
+﻿[Submission1.Objectives]
+Arrêter l’attaque allemande venant du nord-ouest.
+[Submission1.Description]
+D’après nos reconnaissances, un groupe d’unités ennemies se dirige vers Dubosekovo. Une autre gare importante se trouve là et il faut la défendre à tout prix. Le général Panfilov vous a personnellement confié cette mission. 
+
+Vos ordres :
+- 	Arrêter l’attaque allemande venant du nord-ouest.
+[Submission1.Success]
+L’attaque ennemie a été stoppée !
+[Submission1.Failed]
+De troupes ennemies ont percé nos lignes et capturé la gare.
+[Submission2.Objectives]
+Arrêter l’attaque allemande venant du sud-ouest.
+[Submission2.Description]
+La première tentative allemande de percer nos lignes a échoué. Ils tentent maintenant un autre assaut – vous pouvez déjà entendre les moteurs des blindés arrivant du sud-ouest. Regroupez-vous et ne vous laissez pas tourner par cette direction. Plus un pas en arrière, Moscou est derrière nous !
+
+Vos ordres :
+- 	Arrêter l’attaque allemande venant du sud-ouest.
+
+[Submission2.Success]
+Mission accomplie ! L’ennemi a été stoppé et il bat en retraite !
+[Submission2.Failed]
+La mission a échoué et vos défenses ont été percées !
+[Submission0.Objectives]
+Tenir et défendre la gare stratégique.
+[Submission0.Description]
+Des unités ennemies avancent vers le centre ferroviaire de Dubosekovo. Le haut commandement considère cette gare comme un point stratégique et vous commande de la défendre coûte que coûte.
+
+Vos ordres sont :
+- 	Défendre la zone indiquée.
+- 	Les Allemands ne doivent pas s’emparer de la gare.
+[Submission0.Success]
+Mission accomplie ! L’assaut allemand a été repoussé !
+[Submission0.Failed]
+La mission a échoué ! Les Allemands ont capturé la gare Dubosekovo.
+[Submission3.Objectives]
+Repousser l’attaque ennemie sur la gare.
+[Submission3.Description]
+Les Allemands continuent de pousser vers la gare. La situation sur le reste du front n’est pas meilleure. Nous sommes dominés numériquement et la situation est désespérée. Nous devons empêcher l’ennemi de s’emparer de la capitale !
+
+Vos ordres :
+ - 	Repousser l’attaque ennemie sur la gare.
+[Submission3.Success]
+Mission accomplie ! L’assaut allemand a été repoussé !
+[Submission3.Failed]
+L’ennemi est parvenu à percer et à capturer la gare !
+[StringTable.Reserv]
+Des renforts sont arrivés.
+[StringTable.Subtitle_01]
+Gare de Dubosekovo. 1941

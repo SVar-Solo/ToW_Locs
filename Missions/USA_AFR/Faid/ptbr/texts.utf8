@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Impeça as tropas alemãs de romperem
+[Mission.Description]
+Tenente-Coronel Waters! As tropas alemãs não devem romper para o oeste.
+[Mission.Success]
+A ofensiva alemã foi detida.
+[Mission.Failed]
+Fracassamos!
+[Submission1.Objectives]
+Mantenha a linha
+[Submission1.Description]
+Mantenha a linha em Sidi Bou Zid.
+[Submission1.Success]
+O inimigo foi derrotado e está recuando!
+[Submission1.Failed]
+O inimigo esmagou as defesas! Recuar!
+[Submission2.Objectives]
+Aguente firme
+[Submission2.Description]
+Mantenha-se até a chegada dos reforços.
+[Submission2.Success]
+Os reforços chegaram!
+[Submission2.Failed]
+[Submission3.Objectives]
+Envie imediatamente tanques para o flanco esquerdo para fechar a brecha!
+[Submission3.Description]
+[Submission3.Success]
+A brecha inimiga foi fechada!
+[Submission3.Failed]
+[StringTable.Army3]
+O inimigo está rompendo no flanco esquerdo! Envie imediatamente tanques para fechar a brecha!
+[StringTable.Enemy]
+Alemães! Ação, agora!
+[StringTable.Avia]
+Alerta aéreo!
+[StringTable.Obhod]
+O inimigo está nos flanqueando pelo norte!
+[Submission4.Objectives]
+Ataque as tropas inimigas
+[Submission4.Description]
+Ataque as tropas inimigas que flanqueiam.
+[Submission4.Success]
+O inimigo está recuando!
+[Submission4.Failed]
+[StringTable.tank]
+Tanques
+[StringTable.human]
+Infantaria

@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Zerstören Sie die feindlichen Verteidigungslinien.
+[Mission.Description]
+Die Deutschen haben eine weitere Verteidigungslinie aufgebaut. Sie haben starke Panzerabwehrtruppen in der Nähe von Chismena gesammelt.
+
+Ihre Befehle lauten:
+- Zerstören Sie die feindlichen Verteidigungslinien bei Chismena.
+[Mission.Success]
+Die feindlichen Verteidigungslinien wurden vernichtet. Ihre Mission war ein voller Efolg!
+[Mission.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt!
+[Submission_1.Objectives]
+Nehmen Sie die Höhen ein.
+[Submission_1.Description]
+Die feindlichen Truppen sind auf den Anhöhen im Norden der Siedlung konzentriert. Sie verfügen über Panzerabwehrkanonen und Sturmgeschütze. 
+
+Ihre Befehle lauten:
+- Vertreiben Sie den Feind von der Anhöhe.
+[Submission_1.Success]
+Der Befehl wurde ausgeführt! Sie haben den Feind von der Anhöhe vertrieben.
+[Submission_1.Failed]
+Der Feind hat Ihren Angriff zurückgeschlagen. Sie haben Ihre Aufgabe nicht erfüllt!

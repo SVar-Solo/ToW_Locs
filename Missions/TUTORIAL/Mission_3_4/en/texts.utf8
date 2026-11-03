@@ -1,0 +1,116 @@
+﻿[Mission.Objectives]
+Do not allow the enemy to break into the settlement.
+
+[Mission.Description]
+Using the combat engineer squad assigned to you, provide cover for our troops. Do not let enemy troops reach the American transport base.
+
+[Mission.Success]
+You have successfully completed the task. The command thanks you for your service.
+
+[Mission.Failed]
+You have failed the task.
+
+[SubMission_01.Objectives]
+While waiting for the helicopter, place the combat engineer squad in the tent near the landing pad. You have four minutes to complete the task. Time starts now.
+
+[SubMission_01.Description]
+We need to use a transport helicopter to deliver the combat engineer squad to the settlement. To do this, wait for its arrival in the tent closest to the landing pad.
+
+[SubMission_01.Success]
+Task completed.
+
+[SubMission_01.Failed]
+Task failed.
+
+[SubMission_02.Objectives]
+Use the helicopter to move the combat engineer squad to the settlement. You have six minutes to complete the task. Time starts now.
+
+[SubMission_02.Description]
+A US Army transport helicopter is capable of transferring an infantry squad over the mountains. Use it to quickly move your combat engineer squad to the settlement under attack by the enemy army.
+
+[SubMission_02.Success]
+Task completed.
+
+[SubMission_02.Failed]
+Task failed.
+
+[SubMission_03.Objectives]
+Mine the bridge with anti-tank mines. You have six minutes to complete the task. Time starts now.
+
+[SubMission_03.Description]
+Enemy units are on the approaches to the settlement; allied troops are barely holding back the onslaught. It is necessary to mine the bridge with anti-tank mines so that enemy tanks fall into the trap.
+
+[SubMission_03.Success]
+Task completed.
+
+[SubMission_03.Failed]
+Task failed.
+
+[SubMission_04.Objectives]
+Destroy the enemy units.
+
+[SubMission_04.Description]
+Use all available means to destroy the enemy army. Use the tactical advantage of allied forces, as well as the newest US Army tank.
+
+[SubMission_04.Success]
+Task completed.
+
+[SubMission_04.Failed]
+Task failed.
+
+[StringTable.avia_report]
+Air support is available. Specify a point on the terrain where air support should be directed. Attack aircraft attack the enemy independently.
+
+[StringTable.msg_01_01]
+Under your command is a combat engineer squad.
+When "classic unit selection mode" is activated in the settings, you can select the entire infantry squad by left-clicking on one of the soldiers with the Alt key held (or by double-clicking the left mouse button). When classic mode is deactivated, an individual soldier is selected with the Alt key held.
+
+[StringTable.msg_01_02]
+Send the squad to the tent marked with a red smoke signal. Wait for the helicopter to arrive.
+
+[StringTable.msg_02_01]
+To board the squad onto the helicopter, you need to select the squad and right-click on the helicopter.
+
+[StringTable.msg_02_02]
+To send the helicopter to the desired point, simply select it and right-click on a point on the ground near the red signal smoke near the village.
+
+[StringTable.msg_02_03]
+To disembark the squad from the helicopter, use the "Disembark" {hkey:evacuate} command.
+
+[StringTable.msg_02_04]
+Send your squad closer to the bridge, guided by the red signal smoke.
+
+[StringTable.msg_03_01]
+Combat engineers have an increased chance of detecting enemy mines in mine clearing mode. The combat engineer skill is marked by a mine icon on the soldier's icon in the bottom panel when selecting the squad.
+Combat engineers are armed with two types of mines:
+- Anti-tank mines are detonated only under vehicles and do not react to infantry. Their explosive effect is sufficient to disable a tank.
+- Anti-personnel mines are effective against infantry, but also detonate under vehicles without causing them significant damage.
+Keep in mind that mines can be detonated by an external explosion.
+
+[StringTable.msg_03_02]
+To lay an anti-tank mine, select the required soldier, select the anti-tank mine in his interface, select the "Mine" {hkey:mining} command and specify a point on the ground or bridge where the mine will be placed. The placed mine will be marked with a flag.
+
+[StringTable.msg_03_03]
+You can specify several points by holding the SHIFT key, then cancel the command with LMB and, again holding SHIFT, specify the retreat point with RMB. Then the combat engineer, having laid the mines, will retreat to the specified point.
+
+[StringTable.msg_03_04]
+The enemy has a significant advantage in forces. Withdraw your squad to the rear of the village's right flank. There is an empty heavy tank there.
+
+[StringTable.msg_03_05]
+If the enemy tank reaches the bridge, it will detonate on a mine and block the path for other vehicles.
+
+[StringTable.msg_04_01]
+It is advisable before boarding the tank to throw a smoke grenade near it to hide it from the enemy. Then the crew will have more time to prepare the tank for battle and distribute roles in the crew.
+
+[StringTable.msg_04_02]
+To capture the tank, select the combat engineer squad and right-click on it; these soldiers are well trained and capable of operating the tank.
+
+[StringTable.msg_04_03]
+Note that each type of mobile vehicle has characteristics of maximum speed and number of gears. These characteristics, as well as the driver's skill, engine power, vehicle mass, towed mass, terrain slope and soil type, directly affect the rate of acceleration and the maximum possible speed of movement.
+
+[StringTable.msg_04_04]
+Insufficient driver experience can lead to slow acceleration of the vehicle, to random stops due to gear shifting errors, or to temporary engine stalls.
+
+[StringTable.msg_04_05]
+Destroy the advancing enemy forces.
+To enter the firing line, always try to choose the optimal tank movement route so as not to expose the sides to fire.

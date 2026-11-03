@@ -1,0 +1,39 @@
+﻿[Mission_01.Objectives]
+Liberare Osinovka, Grjada e Zarece.
+[Mission.Description]
+Liberare Osinovka, Grjada e Zarece.
+Eliminare le forze nemiche nella zona.
+[Mission_01.Success]
+Missione compiuta.
+[Mission_01.Failed]
+Missione fallita.
+[Mission.Objectives]
+Liberare Osinovka, Grjada e Zarece. Eliminare le forze nemiche nella zona.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita!
+[Submission1.Objectives]
+Ripulire Osinovka dalle truppe nemiche.
+[Submission1.Description]
+Ripulire Osinovka dalle truppe nemiche.
+[Submission1.Success]
+Compito portato a termine.
+[Submission1.Failed]
+Compito fallito.
+[Submission2.Objectives]
+Liberare Grjada.
+[Submission2.Description]
+Liberare Grjada.
+[Submission2.Success]
+Compito portato a termine.
+[Submission2.Failed]
+Compito fallito.
+[Submission3.Objectives]
+Liberare Zarece.
+[Submission3.Description]
+Liberare Zarece.
+[Submission3.Success]
+Compito portato a termine.
+[Submission3.Failed]
+Compito fallito.

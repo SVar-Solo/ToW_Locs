@@ -1,0 +1,68 @@
+﻿[Mission.Objectives]
+Gli inglesi stanno cercando di raggiungere Caen; devi fermarli.
+[Mission.Description]
+Le truppe inglesi comandate da Montgomery intendono prendere la cittadina di Villers-Bocage e poi dirigersi verso Caen. Hai a tua disposizione parecchi carri della Schwere SS-Panzer-Abteilung 101, e anche l'asso Michael Wittmann. Colpisci in fretta e colpisci duro la colonna corazzata britannica che si sta dirigendo nella tua direzione.
+
+I tuoi ordini sono:
+-	Ferma la colonna corazzata inglese. Distruggi il maggior numero possibile di carri nemici.  
+[Mission.Success]
+Gli ordini sono stati eseguiti! Le tue gesta verranno ricordate per sempre!
+[Mission.Failed]
+Non hai eseguito gli ordini! Hai perso l'occasione di infliggere gravi danni agli inglesi.
+[Submission_1.Objectives]
+Attacca la colonna corazzata nemica.
+[Submission_1.Description]
+Elementi della Settima Divisione Corazzata inglese sono in marcia per la cittadina di Villers-Bocage, sulla strada per Caen.
+
+I tuoi ordini sono:
+-	Usa sorpresa, velocità e la superiorità dei tuoi carri per infliggere il massimo danno alle forze britanniche.
+[Submission_1.Success]
+La colonna inglese è stata decimata.
+[Submission_1.Failed]
+Il tuo attacco è fallito!
+[Submission_2.Objectives]
+Mantieni in vita Michael Wittmann e il suo equipaggio se possibile.
+[Submission_2.Description]
+Il comandante Michael Wittmann e il suo equipaggio sono estremamente importanti sia per il loro valore che per la loro presenza simbolica. Devi tenerli in vita ad ogni costo!
+[Submission_2.Success]
+Michael Wittmann è sopravvissuto alla battaglia e avrà ancora la possibilità di infastidire ancora gli Alleati nelle prossime battaglie.
+[Submission_2.Failed]
+Michael Wittmann è stato ucciso.
+[Submission_3.Objectives]
+Continua il tuo attacco contro le rimanenti forze inglesi.
+[Submission_3.Description]
+Hai seminato morte e distruzione tra le forze inglesi. Continua a combatterle.
+I tuoi ordini sono:
+
+-	Le forze inglesi si stanno riorganizzando vicino ad un piccolo insediamento presente nella zona; trovale e distruggili.
+[Submission_3.Success]
+Il tuo attacco all'insediamento ha avuto successo.
+[Submission_3.Failed]
+Il tuo attacco contro le forze inglesi all'insediamento è fallito.
+[Submission_4.Objectives]
+Cattura una locazione strategica vicino a un piccolo insediamento.
+[Submission_4.Description]
+Il nemico è stato localizzato in un insediamento vicino a Villers-Bocage. Si trova accanto a un incrocio strategico e deve essere preso.
+
+I tuoi ordini sono:
+-	Distruggi le unità inglesi intorno all'insediamento.
+-	Tieni le posizioni al contrattacco inglese.
+[Submission_4.Success]
+Hai preso l'insediamento e sconfitto le unità inglesi.
+[Submission_4.Failed]
+Il tuo attacco all'insediamento è fallito.
+[Submission_5.Objectives]
+Resisti a tutti i tentativi inglesi di riprendere l'insediamento.
+[Submission_5.Description]
+Hai sorpreso le truppe inglesi e le hai inflitto gravi perdite, ma il nemico si sta riorganizzando ed è intenzionato a prendere la cittadina di Villers-Bocage. Devi respingere il suo contrattacco.
+
+I tuoi ordini sono:
+-	Respingi il contrattacco nemico.
+[Submission_5.Success]
+Hai vinto! Le tue azioni di oggi rimarranno per sempre negli annali della storia.
+[Submission_5.Failed]
+Sei stato sconfitto e l'avanzata inglese verso Caen continuerà senza opposizione.
+[StringTable.inf_reserv]
+Una squadra di fanteria è adesso a tua disposizione.
+[StringTable.tank_reserv]
+Dei carri supplementari provenienti dalle riserve sono a tua disposizione.

@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+Evite que el enemigo que nos ataca desde el oeste rompa sus defensas.
+[Submission1.Description]
+Tras una larga demora, los americanos han empezado a acercarse a la zona de Arras. La situación en esta parte del frente es muy grave. El ejército enemigo avanza desde el oeste y es superior en número.
+
+Sus órdenes:
+- 	Evite que un ataque enemigo procedente del oeste rompa nuestras defensas.
+[Submission1.Success]
+¡Misión cumplida! El enemigo se está replegando.
+[Submission1.Failed]
+El enemigo ha roto nuestras defensas, ¡tenemos que retirarnos!
+[Mission1.Objectives]
+Detenga el avance de los americanos.
+[Mission1.Description]
+El tercer ejército americano ha llegado a nuestras líneas de defensa. Los americanos preparan un avance a gran escala a lo largo de la línea del frente y desde diversas direcciones. Tendremos que cubrir la retirada de nuestras tropas conteniendo este último avance.
+
+Sus órdenes:
+-	Mantenga las posiciones de defensa en la zona especificada.
+- 	Detenga las tropas enemigas en esta parte de la línea del frente.
+[Mission1.Success]
+¡Misión cumplida! El ataque americano ha sido desmantelado. Esto muestra de nuevo la superioridad abrumadora de las armas alemanas.
+[Mission1.Failed]
+¡Han roto sus defensas! Alemania no olvidará a los soldados del Reich caídos, pero apenas recordará a su inútil comandante.
+[Submission2.Objectives]
+Evite que rompan sus defensas del sur.
+[Submission2.Description]
+Un gran contingente de tropas americanas avanza desde el sur. Respaldan su avance con aviones y artillería.
+
+Sus órdenes:
+- 	Resista este nuevo asalto desde el sur.
+[Submission2.Success]
+¡Misión cumplida! Ha detenido al enemigo.
+[Submission2.Failed]
+¡El enemigo ha atravesado sus defensas!
+[Submission3.Objectives]
+Se acerca otra oleada de asaltos desde el suroeste.
+[Submission3.Description]
+Los exploradores dicen que las tropas enemigas avanzan desde el suroeste.
+
+Sus órdenes:
+- 	Rechace el ataque enemigo proveniente del suroeste.
+[Submission3.Success]
+¡Ha logrado rechazar el ataque enemigo!
+[Submission3.Failed]
+El enemigo ha traspasado sus defensas. ¡Tendrá que retirarse!
+[Submission4.Objectives]
+Resista este nuevo ataque que se inicia en el noroeste.
+[Submission4.Description]
+Un grupo de tropas americanas avanza desde el noroeste.
+
+Sus órdenes:
+ -	 Mantenga la posición contra las tropas enemigas que atacan desde el noroeste.
+[Submission4.Success]
+¡Misión cumplida!
+[Submission4.Failed]
+¡Han roto las defensas de sus tropas!
+[StringTable.Reserv]
+Tiene refuerzos.

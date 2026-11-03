@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Drive the enemy out of their positions.
+[Submission1.Description]
+The Nazi invaders have consolidated their positions along a line between the Istra Reservoir and Istra City and are not likely to give ground without stiff resistance. It is vitally important to drive the enemy out from these positions. 
+
+Your order is to:
+-Drive the enemy away from their positions.
+[Submission1.Success]
+Your order has been fulfilled!
+[Submission1.Failed]
+You failed to complete your order!
+[Submission2.Objectives]
+Destroy the advancing enemy.
+[Submission2.Description]
+Nazi units have launched a vicious counterattack along this area of the front. You need to engage and destroy the advancing enemy.
+
+Your order is to:
+- Destroy the attacking German units.
+[Submission2.Success]
+Your orders have been fulfilled! The enemy troops were defeated.
+[Submission2.Failed]
+You have failed to successfully complete your orders! Your troops were defeated.

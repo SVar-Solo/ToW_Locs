@@ -1,0 +1,198 @@
+﻿[PRK.FullName]
+호랑이의 도약
+
+[PRK.Description]
+1950년 6월, 북한군은 포병의 지원을 받으며 38도선을 넘어 대한민국을 침공했다. 북한군은 병력 13만 5천 명, T-34-85 전차 150대와 기타 군사 장비로 이루어져 있었다. 한국은 15만 명을 소집할 수 있었으나 기갑 차량과 항공기가 부족했다. 북한군의 진격은 대체로 성공적이었다. 6월 28일 북한군은 대한민국의 수도 서울을 점령했다. 그러나 7월 3일 이후 유엔 안전보장이사회의 결정에 따라 주로 미군으로 구성된 유엔군이 한국 편에서 분쟁에 참전했다. 그럼에도 이들은 북한군의 공격을 밀어내지 못했고, 북한군은 8월 20일 대한민국 최남단 도인 부산에 도달했다.
+
+[HAMGEN_PUKTO.FullName]
+함경북도
+
+[HAMGEN_PUKTO.Description]
+<Description> 태그 누락
+
+[YANGANDO.FullName]
+양강도
+
+[YANGANDO.Description]
+<Description> 태그 누락
+
+[HAMGEN_NAMDO.FullName]
+황해남도
+
+[HAMGEN_NAMDO.Description]
+<Description> 태그 누락
+
+[CHAGANDO.FullName]
+자강도
+
+[CHAGANDO.Description]
+<Description> 태그 누락
+
+[PHENAN_PUKTO.FullName]
+평안북도
+
+[PHENAN_PUKTO.Description]
+<Description> 태그 누락
+
+[PHENAN_NAMDO.FullName]
+평안남도
+
+[PHENAN_NAMDO.Description]
+<Description> 태그 누락
+
+[PHENYAN.FullName]
+평양
+
+[PHENYAN.Description]
+<Description> 태그 누락
+
+[KANWONDO_PUKTO.FullName]
+강원도(북)
+
+[KANWONDO_PUKTO.Description]
+북한의 강원도(북)는 접경 지역을 따라 위치한다. 대부분 고원 지대이지만 해안선을 따라 난 지형은 차량 수송에 적합하다.
+
+[HVANHE_PUKTO.FullName]
+황해북도
+
+[HVANHE_PUKTO.Description]
+황해북도의 남쪽 경계는 38도선을 따른다. 남쪽에 적군이 집결해 있다. 이 도는 북한의 수도 평양을 방어하는 데 전략적으로 매우 중요하다.
+
+[KANWONDO_NAMDO.FullName]
+강원도(남)
+
+[KANWONDO_NAMDO.Description]
+강원도(남)의 북쪽 경계는 한반도를 북한과 남한으로 가르는 38도선을 따른다. 산악 지대이기 때문에 이 도에는 중방어 시설이 없으며 산길이 험하다. 소규모 방어 병력도 우세한 공격 병력을 막아 낼 수 있다. 작은 마을과 사찰이 방어 거점으로 바뀌어 점령하기가 매우 어렵다. 차량이 다닐 수 없는 바위투성이 길만이 점유되지 않은 채 남아 있다.
+
+[KENGIDO.FullName]
+경기도
+
+[KENGIDO.Description]
+한국의 수도 서울이 있는 경기도는 전략적으로 매우 중요한 도이다. 대부분 평야이지만 곳곳에 주민 거주지가 산재해 있고 그 상당수가 요새화되었다. 당연히 서울 자체는 한국군에서 가장 경험 많은 병력이 지키고 있으며 중방어 시설로도 둘러싸여 있다. 이 도의 북쪽 경계는 한국을 북한과 남한으로 가르는 38도선을 따른다.
+
+[KENSAN_PUKTO.FullName]
+경상북도
+
+[KENSAN_PUKTO.Description]
+경상북도는 한반도 동해안으로 나가는 통로이다. 이 도를 장악하는 쪽은 해상으로 보급을 받을 수 있어 상당한 전략적 이점을 얻는다. 경상북도에는 산간 계곡이 많지만 동해안에 가까워질수록 산이 낮아지고 계곡이 넓고 평평해진다. 그래서 이 지역은 공격하기에는 매우 편리하나 방어하기는 어렵다.
+
+[CHUNCHON_PUKTO.FullName]
+충청북도
+
+[CHUNCHON_PUKTO.Description]
+충청북도는 한국의 수도 서울로 가는 주요 수송 회랑이다. 수많은 군사 기지와 요새가 이 도에 집중되어 있다. 충청북도를 장악하면 상당한 이점을 얻는다.
+
+[CHUNCHON_NAMDO.FullName]
+충청남도
+
+[CHUNCHON_NAMDO.Description]
+충청남도의 상당 부분은 거의 통과할 수 없는 산악 지대가 차지하고 있으나 공격에 취약한 지역도 일부 있으며, 당연히 이런 곳은 방어와 요새화가 견고하다. 모든 주민 거주지가 거점으로 바뀌었지만 바위투성이 길 일부는 차량이 지나갈 수 없다. 그래서 이곳은 은밀히 기동하여 적을 기습할 수 있는 소규모 보병 분대에 안성맞춤이다.
+
+[PUSAN.FullName]
+부산
+
+[PUSAN.Description]
+부산 교두보는 한국군의 마지막 진지이다. 이 가장 중요한 전략 지역은 미군의 교두보 구실을 하며 방어가 견고한 거점이 여럿 있다. 부산 교두보와 부산, 울산, 포항 항구를 점령하면 유엔군 사령부 병력이 증원과 보급품을 들여오지 못하게 될 것이다.
+
+[KENSAN_NAMDO.FullName]
+경상남도
+
+[KENSAN_NAMDO.Description]
+경상남도는 전라북도 및 경상북도와 접해 있다. 대부분 산지이며 가야산, 덕유산, 지리산의 국립공원 세 곳이 있다. 가장 높은 봉우리는 덕유산(1614미터)이다. 한반도의 다른 지역과 마찬가지로 이 도는 몬순 기후로, 여름은 덥고 습하며 겨울은 비교적 춥고 건조하다. 연평균 기온은 섭씨 10.6도이고 연 강수량은 1395.2mm(1993년 기준)이다. 강수량 대부분(850mm)은 여름 석 달간 이어지는 장마철에 내린다.
+
+[CHOPLA_PUKTO.FullName]
+전라북도
+
+[CHOPLA_PUKTO.Description]
+전라북도는 서해안에 위치한다. 이 도의 항구는 병력과 보급품 이동에 매우 중요하다. 그러나 해안 지역을 제외하면 도 전체가 험준한 산지여서 중방어 시설은 없다.
+
+[CHOPLA_NAMDO.FullName]
+전라남도
+
+[CHOPLA_NAMDO.Description]
+전라남도는 한국 최남단의 도이다. 북부는 산지가 대부분이다. 그러나 남쪽과 해안 지역으로 갈수록 산이 낮아져 넓은 계곡이 된다. 전략적 의미에서 이 도의 남부는 대형 항구가 많아 해상 보급품 수송에 중요하다. 미군 사령부는 이를 이점으로 활용하고 있다. 전라남도를 점령하면 적의 보급선이 끊기고 해상 보급로에 접근할 수 있게 된다.
+
+[Battle Group 6.Name]
+제203전차연대
+
+[Battle Group 13.Name]
+제205전차연대
+
+[Battle Group 4.Name]
+제24보병사단
+
+[Battle Group 3.Name]
+제7보병사단
+
+[Battle Group 2.Name]
+제1보병사단
+
+[Battle Group 14.Name]
+제1보병사단
+
+[Battle Group 8.Name]
+제603기계화연대
+
+[Battle Group 12.Name]
+제12보병사단
+
+[Battle Group 9.Name]
+제10보병사단
+
+[PRK.Epilogue]
+한국전쟁 첫 82일 동안 조선인민군은 38도선 이남으로 진군하며 앞을 가로막는 한국군을 모두 쓸어버렸다. 9월 초부터 조선인민군은 총공세를 벌여 한국군과 미군을 격파하고 국토의 90%와 인구의 92%를 확보했다. 전쟁의 이 첫 단계에서 미군 사령부는 막대한 수의 항공기와 함정, 보병사단 5개, 독립 보병연대 여러 개, 최고사령부 예비 포병연대 5개, 독립 전차대대 4개를 끌어들였다. 또한 미군 사령부는 한국군을 군사 장비와 인원 양면에서 보강하기 위해 여러 긴급 조치를 취했다. 그럼에도 그들은 조선인민군의 공세를 견디지 못했고 미군은 후퇴할 수밖에 없었다. 조선인민군은 부산 일대 전체를 장악하기 직전까지 갔으나, 공수 병력과 해군 병력이 없었고 전차와 포병의 손실을 포함해 상당한 사상자를 내고 있었다.
+
+[PRK.FailureEpilogue]
+조선인민군은 매우 가혹한 조건에서 고투하고 있었다. 전력은 크게 불균형했고, 인민군은 압도적인 유엔군 사령부 병력을 앞에 두고 무기와 인원의 심각한 부족에 시달렸다. 조선인민군 부대는 공중과 포병 공격으로 막대한 손실을 입었고 결국 반도 북부로 후퇴할 수밖에 없었다.
+
+[Battle Group 2.FullName]
+제1보병사단
+
+[Battle Group 3.FullName]
+제7보병사단
+
+[Battle Group 4.FullName]
+제24보병사단
+
+[Battle Group 6.FullName]
+제2전차연대
+
+[Battle Group 18.Name]
+제1기병사단
+
+[Battle Group 18.FullName]
+제1기병사단
+
+[Battle Group 8.FullName]
+제603기계화연대
+
+[Battle Group 9.FullName]
+제10보병사단
+
+[Battle Group 12.FullName]
+제12보병사단
+
+[Battle Group 13.FullName]
+제205전차연대
+
+[Battle Group 14.FullName]
+제1보병사단
+
+[Reinforcement.PRK_artillery]
+총사령부 예비 포병
+
+[Reinforcement.prk_infantry]
+예비 보병
+
+[Reinforcement.PRK_Tank]
+예비 전차
+
+[Reinforcement.Usa_artillery]
+예비 포병
+
+[Reinforcement.USA_infantry]
+예비 보병
+
+[Reinforcement.usa_tank]
+예비 전차
+

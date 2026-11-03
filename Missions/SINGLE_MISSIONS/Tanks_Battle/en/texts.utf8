@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Our forces have been encircled and are now attempting a breakout.
+[Mission.Description]
+Your main objective is to break through the enemy encirclement. Having fought your way through to the river, prevent the Russians from setting up antitank defense positions so our follow on units can progress unimpeded.
+[Mission.Success]
+You have managed to break through the encirclement.
+[Mission.Failed]
+You forces were unable to breakout.
+[Submission_1.Objectives]
+Break through the encirclement and advance toward the town on the river. To widen our corridor of advance, engage and destroy all enemy units encountered. 
+[Submission_1.Description]
+Your orders:
+	- Advance to the town on the river
+	- Destroy all enemy troops on the way
+[Submission_1.Success]
+Victory! Your forces have broken through and established a strongpoint along the river.
+[Submission_1.Failed]
+You have failed. Our forces were unable to achieve a breakout.
+[StringTable.ger_reserv]
+Headquarters has assigned some armor units to your command. Use them wisely commander!

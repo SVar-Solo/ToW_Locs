@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+摧毁高地上的德军炮兵阵地。击退敌军的所有进攻。
+[Mission.Description]
+德军在前方高地上部署了一个炮兵阵地，以掩护通往华沙的道路。他们企图阻止我军增援首都。德军指挥部没有料到会有人打击推进中的第8集团军的侧翼，因此我们现在有机会给他们一记致命打击。    
+
+命令： 
+-	摧毁德军炮兵阵地 
+-	抵御敌军的所有进攻 
+[Mission.Success]
+任务完成！
+[Mission.Failed]
+你失败了！
+[Submission_1.Objectives]
+摧毁德军炮兵阵地。
+[Submission_1.Description]
+一个德军炮兵阵地部署在高地上。该炮兵阵地的火力阻碍了我军继续前进。 
+
+Orders:	
+-	摧毁敌军炮兵阵地并占领高地。
+[Submission_1.Success]
+任务完成。
+[Submission_1.Failed]
+你未能完成任务！
+[Submission_2.Objectives]
+发现德军坦克和步兵。立即攻击！
+[Submission_2.Description]
+我们的侦察兵发现了由步兵伴随的德军坦克。要继续推进，消灭他们至关重要。 
+
+命令：
+-	阻止敌军的这次新推进，占据防御阵地并消灭敌人。
+[Submission_2.Success]
+进攻已被击退。
+[Submission_2.Failed]
+你未能完成任务。
+[Submission_3.Objectives]
+在高地上占据防御阵地，击退德军的反击。
+[Submission_3.Description]
+德军炮兵阵地已被压制，但敌人已在准备反击以夺回丢失的阵地。
+
+命令：
+-	在高地上占据防御阵地，击退敌军的所有反击。
+[Submission_3.Success]
+敌军的反击失败了。干得好！
+[Submission_3.Failed]
+我们蒙受了惨重损失。我们失败了！
+[StringTable.reserv]
+增援已投入战斗！

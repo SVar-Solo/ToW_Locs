@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Cubra el repliegue de la 316ª. División de Fusileros del 1075º. Regimiento tomando posiciones defensivas cerca de la estación ferroviaria de Dubosekovo.
+[Mission.Description]
+16 de noviembre. La 4ª. Compañía de la 316ª. División de Fusileros del 1075º. Regimiento está tomando posiciones defensivas en un monte cercano al apeadero de Dubosekovo, 7 kilómetros al sureste de Volokolamsk. Su misión principal es frenar cualquier ataque de tropas alemanas (la 11ª. División Panzer) y dar al regimiento la oportunidad de replegarse para alinearse mejor en las líneas del frente. La dura lucha de octubre ha privado a la división de casi el 50% de sus efectivos y casi todo su equipo. Para ayudarle a completar su misión, la compañía al mando de los capitanes Gundilovich y Politruk Klochkov recibió dos cañones antitanque de 45 mm.     
+
+Sus órdenes son:
+- Cubra el repliegue de la 316ª. División de Fusileros del 1075º. Regimiento tomando posiciones defensivas cerca de la estación ferroviaria de Dubosekovo.
+[Mission.Success]
+¡La orden se ha llevado a cabo!
+[Mission.Failed]
+¡Ha fallado en el desempeño de su misión!
+[Submission_1.Objectives]
+Frene el primer escalón del ataque enemigo.
+[Submission_1.Description]
+Los exploradores informan de que los alemanes tratan de atacar desde el suroeste por la carretera que lleva a la estación ferroviaria de Dubosekovo. Su avanzadilla es limitada: se limita a un escaso pelotón de infantería, dos tanques y algunos vehículos blindados.  
+
+Sus órdenes son:
+- Rechace el ataque enemigo. 
+[Submission_1.Success]
+¡Misión cumplida! Ha frenado el ataque enemigo. 
+[Submission_1.Failed]
+Ha fracasado en el cumplimiento de la orden. Sus tropas han sido destruidas. 
+[Submission_2.Objectives]
+Rechace el ataque de los tanques enemigos.
+[Submission_2.Description]
+Las primeras fuerzas alemanas han fracasado en la toma de la estación ferroviaria y han tenido que replegarse. Ahora deberíamos esperar una oleada más poderosa, con más Panzer e infantería involucrados. El enemigo no debe abrir brechas en nuestra retaguardia.
+
+Sus órdenes son:
+- Detenga a los Panzer enemigos. 
+[Submission_2.Success]
+¡Ha cumplido la orden! El ataque de tanques enemigos ha sido rechazado.
+[Submission_2.Failed]
+¡Ha fallado en el desempeño de su misión! Han derrotado a sus tropas.
+[Submission_3.Objectives]
+Mantenga la posición.
+[Submission_3.Description]
+¡Ni un paso atrás! Pese a que Rusia sea enorme, no hay más sitio donde replegarse más allá de Moscú.
+
+Sus órdenes son:
+- Mantenga la posición.
+[Submission_3.Success]
+¡Ha cumplido la orden!
+[Submission_3.Failed]
+¡Ha fallado en el desempeño de su misión!

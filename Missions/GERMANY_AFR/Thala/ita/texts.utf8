@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Eliminare il nemico
+[Mission.Description]
+Eliminare il nemico nella città di Thala.
+[Mission.Success]
+Le difese nemiche a Thala sono state completamente eliminate.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Objectives]
+Condurre una ricognizione
+[Submission_1.Description]
+Condurre una ricognizione per individuare le posizioni nemiche. Correggere gli attacchi al suolo della nostra aviazione d'assalto.
+[Submission_1.Success]
+Le postazioni d'artiglieria nemiche sono state individuate. Le coordinate precise sono state trasmesse all'aviazione.
+[Submission_1.Failed]
+Missione fallita.
+[Submission_2.Objectives]
+Distruggere i carri armati nemici
+[Submission_2.Description]
+Sono stati avvistati carri armati britannici. Abbiamo l'ordine di ingaggiare e distruggere i carri armati nemici.
+[Submission_2.Success]
+La forza corazzata nemica è stata eliminata.
+[Submission_2.Failed]
+Missione fallita.
+[StringTable.income]
+Abbiamo ricevuto altre truppe di rinforzo per proseguire l'offensiva.
+[Submission_3.Objectives]
+Eliminare le difese nemiche sulle alture
+[Submission_3.Description]
+Il nemico ha organizzato delle difese sulle alture oltre Thala. Secondo i nostri servizi informativi, i britannici dispongono di armamento anticarro sufficiente. Eliminare le difese nemiche sulle alture.
+[Submission_3.Success]
+Le difese nemiche sono state eliminate.
+[Submission_3.Failed]
+Missione fallita.

@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Cross the river and advance to the north.
+[Mission.Description]
+ Paris fell on June 14 and the French government escaped to Bordeaux. Some French military units and garrisons keep on fighting. The resistance must continue, the army is not defeated until the last soldier stops fighting!
+[Mission.Success]
+Mission accomplished
+[Mission.Failed]
+Mission failed
+[Submission_1.Objectives]
+Cross a bridge to get to the opposite side of the river.
+[Submission_1.Description]
+Cross a bridge to get to the opposite side of the river.
+[Submission_1.Success]
+Mission accomplished
+[Submission_1.Failed]
+Mission failed
+[Submission_2.Objectives]
+Reach the northern sector.
+[Submission_2.Description]
+Reach the northern sector.
+[Submission_2.Success]
+Mission accomplished
+[Submission_2.Failed]
+Mission failed

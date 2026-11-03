@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Break through the enemy defenses in the vicinity of Verkhopenye.
+[Mission.Description]
+Grossdeutschland continues the assault on Syrtsevo and after it has been occupied breaks through to the north towards Verkhopenye and clears enemy from both shores of Pena. Combat team enhanced with tanks of Strachwitz's brigade will advance towards Syrtsevo, Verkhopenye along the east shore of Pena, and then it will reach the western shore. 
+[Submission_1.Objectives]
+The enemy has left the first line of defense in panic under pressure from our artillery and aircraft. The vanguard must occupy the relinquished positions quickly and hold them until the main force arrives. 
+[Submission_1.Success]
+Mission complete.
+[Submission_1.Failed]
+The vanguard has been repelled by the enemy.
+[Mission.Success]
+Mission complete. Enemy command post has been destroyed.
+[Mission.Failed]
+We have failed to carry out our orders. The enemy is too strong!
+[Submission_2.Objectives]
+Repel the enemy counterattacks and occupy the Russians' second line of defense.
+[Submission_2.Success]
+Mission complete.
+[Submission_2.Failed]
+The attack has been stifled, immediate support is required.
+[Submission_3.Objectives]
+Cross the river Pena and destroy the enemy command post.
+[Submission_3.Success]
+Mission complete.
+[Submission_3.Failed]
+The attack has been stalled, immediate support is required.
+[StringTable.first_support]
+A group consisting of infantry, tanks and artillery is now under your command.
+[StringTable.second_support]
+Tanks and assault guns have been placed under your command.
+[StringTable.Inf]
+Infantry
+[StringTable.Tanks]
+Tanks
+[StringTable.SPG_close]
+Stug 40G assault guns
+[StringTable.SPG_open]
+Self-propelled artillery
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

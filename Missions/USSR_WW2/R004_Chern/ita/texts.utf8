@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Ferma le truppe tedesche che si avvicinano da ovest.
+[Mission1.Description]
+La Terza Divisione Corazzata nemica si sta avvicinando dal settore a ovest di Chern per eliminare le nostre truppe e avvicinarsi a Tula. Il nemico è in netta superiorità numerica.
+
+I tuoi ordini sono:
+-	 Ferma la Terza Divisione Corazzata nemica
+[Mission1.Success]
+L'attacco delle truppe nemiche è stato respinto! I tedeschi non sono stati in grado di passare.
+[Mission1.Failed]
+Il nemico è riuscito a superare le nostre difese e raggiungere la stazione! Un altro passo indietro verso Mosca...
+[Mission1_1.Objectives]
+Respingi l'attacco nemico che viene da sud.
+[Mission1_1.Description]
+Le truppe tedesche hanno superato la linea del fronte a sud di Chern e si stanno dirigendo rapidamente verso le nostre posizioni. Intendono circondare le nostre truppe e unirsi alla Terza Divisione Corazzata nell'avanzata verso Tula.
+
+I tuoi ordini sono:
+- 	Ferma l'attacco nemico che viene da sud.
+[Mission1_1.Success]
+L'attacco nemico è stato respinto!
+[Mission1_1.Failed]
+Il nemico è riuscito ad arrivare alla stazione! Hai fallito.
+[Submission1.Objectives]
+Tieni e difendi la stazione di Chern.
+[Submission1.Description]
+Le truppe tedesche continuano ad attaccare le nostre posizioni vicino alla stazione di Chern. Noi siamo tutto quello che si interpone tra il nemico e Tula. Dobbiamo fermarle.
+
+I tuoi ordini sono:
+- 	Tieni le posizioni difensive intorno alla stazione di Chern 
+- 	Impedisci alle truppe nemiche di dirigersi verso Tula.
+[Submission1.Success]
+Il nemico è stato annientato! Gli ordini sono stati eseguiti!
+[Submission1.Failed]
+Il nemico ha superato le tue difese e la strada verso Tula è spianata!
+[StringTable.Reserv]
+I rinforzi sono arrivati.

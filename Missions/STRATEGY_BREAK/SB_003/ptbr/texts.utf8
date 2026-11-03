@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Atravesse o rio e avance para o norte.
+[Mission.Description]
+ Paris caiu em 14 de junho e o governo francês fugiu para Bordeaux. Algumas unidades militares e guarnições francesas continuam lutando. A resistência deve continuar, o exército não está derrotado até que o último soldado deixe de lutar!
+[Mission.Success]
+Missão cumprida
+[Mission.Failed]
+Missão fracassada
+[Submission_1.Objectives]
+Atravesse uma ponte para chegar ao outro lado do rio.
+[Submission_1.Description]
+Atravesse uma ponte para chegar ao outro lado do rio.
+[Submission_1.Success]
+Missão cumprida
+[Submission_1.Failed]
+Missão fracassada
+[Submission_2.Objectives]
+Alcance o setor norte.
+[Submission_2.Description]
+Alcance o setor norte.
+[Submission_2.Success]
+Missão cumprida
+[Submission_2.Failed]
+Missão fracassada

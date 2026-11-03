@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Wehren Sie die faschistischen Truppen ab, die aus dem Osten angreifen.
+[Mission1.Description]
+Die deutschen Truppen haben an diesem Frontabschnitt einen Angriff in Richtung von Vyazma begonnen. Das Ziel ist der Durchbruch durch unsere Verteidigungslinien um näher an Moskau zu kommen. Es ist äusserst wichtig für uns den feindlichen Angriff in diesem Abschnitt abzuwehren um Zeit zu gewinnen, um unsere Reserven zusammenzuführen.
+
+Ihre Befehle: 
+-	 Schlagen Sie den feindlichen Angriff aus dem Osten zurück.
+[Mission1.Success]
+Der feindliche Angriff wurde abgewehrt! Sie haben geholfen uns die nötige Atemfreiheit zu verschaffen, und jetzt können Tausende von Panzersperren, Flugzeugen und Panzern gebaut und hunderte neuer Rekruten ausgebildet werden. Die Faschisten werden Moskau nicht erobern!
+[Mission1.Failed]
+Der Feind ist durch unsere Verteidigungslinien gebrochen und rückt auf Moskau vor. Zahllose Soldaten unter Ihrem Befehl wurden sinnlos geopfert. Sie haben bewiesen, dass Sie Ihrem Rang nicht würdig sind.
+[Mission2.Objectives]
+Schlagen Sie den feindlichen Angriff aus dem Norden zurück.
+[Mission2.Description]
+Grosse feindliche Streitkräfte nähern sich aus dem Norden. Unsere Verteidigung wurde durch den feindlichen Angriff aus dem Osten geschwächt. Konzentrieren Sie alle Ihre Einheiten und wehren Sie den Vormarsch des faschistischen Angreifers ab, bis Verstärkungen eintreffen. Der Feind darf nicht durchbrechen! Moskau darf nicht fallen!
+
+Ihre Befehle: 
+-	 Schlagen Sie den deutschen Angriff aus dem Norden zurück.
+[Mission2.Success]
+Durch tapferen Einsatz haben Sie es geschaftt, den feindlichen Angriff abzuwehren!
+[Mission2.Failed]
+Der Feind ist durch unsere Verteidigungslinien gebrochen!
+[Mission3.Objectives]
+Benutzen Sie alle verfügbaren Einheiten um einen Gegenangriff durchzuführen.
+[Mission3.Description]
+Die deutschen Truppen haben nicht durch unsere Verteidigungslinien um das Dorf brechen können. In der gewonnen Zeit konnten einige Reserveeinheiten eintreffen und stehen nun unter Ihrem Kommando. Führen Sie mit diesen neuen Einheiten einen Gegenangriff durch und bringen Sie den Faschisten maximale Verluste bei.
+
+Ihre Befehle: 
+-	 Führen Sie einen Gegenangriff durch und zerschlagen Sie die feindliche Frontlinie.
+[Mission3.Success]
+Der Gegenangriff war erfolgreich! Die Faschisten erlitten eine ernste Niederlage.
+[Mission3.Failed]
+Sie haben Ihre Mission nicht erfüllt. Ihr Gegenangriff hat nur noch mehr tapfere Soldaten unter Ihrem Kommando das Leben gekostet.
+[Submission1.Objectives]
+Halten Sie Ihre Verteidigungspositionen in dem markierten Bereich.
+[Submission1.Description]
+Die deutschen Truppen drängen weiter in Richtung Moskau vor. Die Hauptstadt ist in Gefahr, und im Moment kann niemand mehr für die Rettung des Vaterlandes unternehmen als Sie. Einige unserer Armeen wurden bei Vyazma eingekesselt, und beschäftigen im Moment 28 faschistische Divisionen. Grosse feindliche Streitkräfte nähern sich Vyazma. Sie werden unsere Truppen umzingeln oder umgehen wolen, und ihren Vormarsch auf Moskau fortsetzen. 
+
+Ihre Befehle:
+-	 Halten Sie das Dorf.
+-	 Verhindern Sie, dass die feindlichen Truppen nach Moskau durchbrechen können.
+[Submission1.Success]
+Der Befehl wurde ausgeführt! Der Vormarsch der deutschen Truppen in Richtung Moskaus wurde gestoppt!
+[Submission1.Failed]
+Die Aufgabe wurde nicht erfüllt! Die faschistischen Truppen sind durch unsere Verteidigungslinien gebrochen und setzen ihren Vormarsch auf Moskau fort!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.

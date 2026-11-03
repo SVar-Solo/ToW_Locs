@@ -1,0 +1,42 @@
+﻿[Submission_1.Objectives]
+Para evitar que los tanques rusos penetren hasta su retaguardia, tendrá que detenerlos a toda costa.
+[Submission_1.Description]
+Los rusos han lanzado otra contraofensiva más. Intentan de nuevo atravesar las líneas y hacer estragos en nuestra retaguardia. Si se salen con la suya, podrán unirse a otras unidades amigas para rodear a nuestras fuerzas. Debemos vencer y parar este ataque.
+
+Sus órdenes:
+-	Destruya todas las unidades enemigas que encuentre.
+[Submission_1.Success]
+Ha vencido y ha detenido esta última ofensiva rusa.
+[Submission_1.Failed]
+¡Ha perdido! Las tropas rusas han atravesado las líneas y ahora se dirigen hacia nuestra vulnerable retaguardia.
+[Submission_2.Objectives]
+Aplaste a la resistencia rusa en la estación de Projorovka.
+[Submission_2.Description]
+Los rusos han perdido impulso. Aproveche este momento para atacar la estación de Projorovka.
+
+Sus órdenes:
+-	Continúe avanzando hacia la estación de Projorovka y destruya todas las unidades defensiva que encuentre.
+[Submission_2.Success]
+¡Ha vencido! Bien hecho, comandante. Sus acciones en el día de hoy nos darán un tiempo muy valioso para recuperar la iniciativa.
+[Submission_2.Failed]
+¡Ha perdido! Hemos desperdiciado una oportunidad de oro para asestar un terrible golpe a los rusos.
+[Mission.Objectives]
+Tome la estación de Projorovka.
+[Mission.Description]
+La operación “Zitadelle” (ciudadela) ha comenzado y el 2o. SS Panzer Corps ha recibido las órdenes de destruir las defensas enemigas construidas a lo largo de los frentes de Kartashovka–Beregovoye–Projorovka–Storozhevoie.
+
+Sus órdenes:
+-	Acabe con las defensas rusas de los alrededores de la estación de Projorovka.
+
+[Mission.Success]
+¡Felicidades! Ha destruido la defensa rusa.
+[Mission.Failed]
+¡No ha podido tomar la estación de Projorovka!
+[StringTable.Tanks_Reserv]
+Tiene tanques de la división de reserva a su disposición.
+[StringTable.SPG_Reserv]
+Tiene unidades de artillería autopropulsada a su disposición.
+[StringTable.Infantry_Reserv]
+Tiene unidades de infantería de la reserva a su disposición.
+[StringTable.Inf_reserv]
+Tiene unidades de infantería de la reserva a su disposición.

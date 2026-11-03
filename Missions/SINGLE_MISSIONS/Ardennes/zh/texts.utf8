@@ -1,0 +1,21 @@
+﻿[StringTable.Subtitle_01]
+听着！你们要爬上320高地进行侦察。
+[StringTable.Subtitle_02]
+是，长官。
+[StringTable.Subtitle_03]
+七辆坦克正沿着道路推进。
+[StringTable.Subtitle_04]
+快在桥的南端布设反坦克地雷！ 
+[StringTable.Subtitle_05]
+是，长官。
+[Submission1.Objectives]
+阻止敌方坦克向南推进。
+[Submission1.Description]
+自德军突破美军前线后不久，你的排就一直在行动，现在已抵达330高地脚下，就在一条蜿蜒穿过茂密森林、两岸陡峭的小溪以南。在这段令人沮丧又混乱的行军中，你被各个司令部和指挥所来回推诿，似乎没有哪位长官清楚发生了什么，也不知道需要你做什么。终于，大约两小时前，你的连长下达了明确的任务：阻止任何德军坦克经由横跨320高地与330高地之间小溪的桥梁向南推进。
+
+你的命令：
+- 阻止敌方坦克向南推进。
+[Submission1.Success]
+任务完成。 
+[Submission1.Failed]
+任务失败。

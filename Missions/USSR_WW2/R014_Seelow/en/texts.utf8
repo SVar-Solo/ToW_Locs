@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+The first line of fortifications in front of the Seelow Heights has been broken! German remnants are now falling back to their second line of fortifications. Your task is to pursue them and crack through this defensive belt.
+[Submission_1.Description]
+Our scouts report that to our front is a long canal, crossed by an intact road bridge. Along the canal is a small town and prime defensive positions are located in the heights above. Assault the defensive positions on this side of the canal and secure the bridge.
+
+Your orders: 
+-	 Capture the German defensive positions in front of the canal.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Capture the heights.
+[Submission_2.Description]
+The enemy has retired to the heights above the town. Our scouts report substantial defensive positions and units are now in position. The German know that they are the only thing between Berlin and us and seem intent on fighting to the very last man. Destroy them commander, ultimate victory is within our grasp. 
+
+Your orders:
+-	 Crush the enemy resistance and capture the Seelow Heights.
+[Submission_2.Success]
+The Seelow Heights have been taken. Berlin and the end of the war lie ahead.
+[Submission_2.Failed]
+Mission failed. The German defenders were able to resist your attack.
+[Mission.Objectives]
+Crush the final enemy resistance and capture the Seelow Heights.
+[Mission.Description]
+By mid April the German Army, although shaken, still retained some of its combat power. While morale was low, many German units continued to soldier on. German High Command massed what units it had in and around Berlin while the Red Army prepared for its final thrust. Before they could assault Berlin, they had to first clear the nearby Seelow Heights, an area ringed with defensive positions, bunkers, trenches and units determined to fight to the death.
+In mid April, the Russia troops assaulted the heights but were initially thrown back. It’s now your turn commander, victory awaits! 
+
+Your orders:
+-	 Take the Seelow Heights at any cost.
+[Mission.Success]
+The Seelow Heights have been captured! Berlin and the end of the war lie ahead.
+[Mission.Failed]
+The task has been failed. You have not yet captured the Seelow Heights.
+[StringTable.reserv]
+Reinforcements have arrived.

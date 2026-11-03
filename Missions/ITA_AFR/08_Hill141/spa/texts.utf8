@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Rechace el siguiente ataque
+[Submission_1.Description]
+El enemigo se reagrupa; prepárese para rechazar el siguiente ataque.
+[Submission_01.Success]
+Misión cumplida.
+[Submission_01.Failed]
+Misión fallida.
+[Mission.Objectives]
+Rechace todos los ataques enemigos
+[Mission.Description]
+Mantenga sus alturas dominantes. Rechace todos los ataques enemigos.
+[NewSubmission.Success]
+Misión cumplida.
+[NewSubmission.Failed]
+Misión fallida.
+[Submission_2.Objectives]
+Rechace el ataque de tanques
+[Submission_2.Description]
+Se acerca el siguiente ataque y, al parecer, cuenta con el apoyo de tanques.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+Misión fallida.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+Misión fallida.

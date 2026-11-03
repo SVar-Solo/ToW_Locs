@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Das Ziel ist es, die Ortschaften Grentheville, Soliers und Four zu befreien.
+[Mission.Description]
+Vertreiben Sie den Feind aus diesen Ortschaften.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Vertreiben Sie den Feind aus Grentheville.
+[Submission_1.Description]
+Zerstören Sie die feindliche Stellung.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1.Objectives]
+[Submission1.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission2.Objectives]
+[Submission2.Description]
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Erobern Sie das Dorf Soliers. 
+[Submission_2.Description]
+Vertreiben Sie den Feind aus Soliers.
+[Submission_3.Objectives]
+Befreien Sie Four.
+[Submission_3.Description]
+Vernichten Sie den Feind, der Four besetzt hält. 
+[Submission_2.Success]
+Aufgabe erfüllt.
+[Submission_2.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_1.Success]
+Aufgabe erfüllt.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_3.Success]
+Aufgabe erfüllt.
+[Submission_3.Failed]
+Aufgabe wurde nicht erfüllt.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Aufgabe wurde nicht erfüllt.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

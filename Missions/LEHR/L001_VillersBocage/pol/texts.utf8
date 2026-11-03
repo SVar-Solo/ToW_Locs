@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Broń wskazanego terenu.
+[Mission.Description]
+Elitarna Panzer Lehr znajduje się na północny wschód od Villers-Bocage. Rankiem 13 lipca 1944 roku brytyjska 7. Dywizja Pancerna rozpoczęła atak na Villers-Bocage. Zamiarem było oskrzydlenie Twoich sił. Brytyjczycy mieli nadzieję, że seria pozorowanych ataków na lewym skrzydle ściągnie rezerwy dywizji i da im zwycięstwo. Musisz uniemożliwić przeciwnikom wdarcie się głęboko w obronę, ponieważ może to grozić całkowitym okrążeniem i zniszczeniem Twojej dywizji.
+ 
+Rozkazy:
+- Uniemożliwić nieprzyjacielowi wdarcie się głęboko w Twoją obronę.
+[Mission.Success]
+Dobra robota!
+[Mission.Failed]
+Porażka! Twoje siły zostały zniszczone!
+[Submission_1.Objectives]
+Odeprzeć nieprzyjacielskie ataki.
+[Submission_1.Description]
+Wróg panuje w powietrzu i może uderzyć z wielu kierunków. Twoje siły są rozciągnięte i muszą bronić rozległego terenu.
+ 
+Rozkazy:
+- Przygotować obronę wszystkich dróg ataku.
+- Zminimalizować straty.
+- Odeprzeć nieprzyjacielskie ataki. 
+[Submission_1.Success]
+Dobra robota! Ataki nieprzyjaciela zostały odparte.
+[Submission_1.Failed]
+Porażka! Twoje siły zostały pokonane.
+[Submission_2.Objectives]
+Przeprowadź kontratak na wycofującego się nieprzyjaciela.
+[Submission_2.Description]
+Wróg poniósł znaczne straty i wycofuje się. Wykorzystaj swoje rezerwy do pościgu i zniszcz nieprzyjaciela!
+ 
+Rozkazy:
+- Przeprowadź kontratak na wycofującego się nieprzyjaciela.
+[Submission_2.Success]
+Dobra robota. Siły nieprzyjaciela zostały pokonane.
+[Submission_2.Failed]
+Porażka! Zostałeś pokonany.
+[StringTable.tanks_reserv]
+Otrzymałeś dodatkowe jednostki pancerne z rezerw dywizji.

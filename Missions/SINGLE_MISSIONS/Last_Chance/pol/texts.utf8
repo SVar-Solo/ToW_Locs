@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+Przeprowadzić rozpoznanie w naszym rejonie, zniszczyć wszystkie napotkane jednostki wroga.
+[Mission.Description]
+Większość sił alianckich ewakuowano przez port w Dunkierce, na lądzie zostały jedynie rozrzucone siły francuskie. Ostatecznie zajęcie Francji opóźniło się, ponieważ Niemcy również potrzebowali czasu na przegrupowanie się. Dzięki temu opóźnieniu Francuzi zyskali czas i przygotowali kontratak.
+[Mission.Success]
+Zwycięstwo! Zadałeś nieprzyjacielowi potężny cios.
+[Mission.Failed]
+Porażka. Wszystko może zostać stracone -zawiodłeś!
+[Submission_1.Objectives]
+Rozpoznaj wieś i sprawdź, czy nie ma w niej oddziałów wroga. 
+[Submission_1.Description]
+Mamy meldunki, że Niemcy zajęli to miasto przed nami. Sprawdź to, a jeśli natrafisz na opór -wypędź nieprzyjaciela z miasta. Przydzieliliśmy ci wszystkie dostępne w tej chwili rezerwy.
+Twoje rozkazy:
+-	Rozpoznaj miasto i zaatakuj napotkanego wroga. Twoje posiłki są w drodze. 
+[Submission_1.Success]
+Zwiad zakończony.
+[Submission_1.Failed]
+Nie udało ci się rozpoznać miasta.
+[StringTable.Add_reserv]
+Otrzymałeś rezerwy pancerne.
+[StringTable.Add_Artillery]
+Po ocenie sytuacji dowództwo przydzieliło ci z rezerw dodatkowe jednostki artylerii.
+[Submission_2.Objectives]
+Zaatakować nieprzyjaciela w mieście.
+[Submission_2.Description]
+Wyniki zwiadu pokazały, że Niemcy sprowadzili do Caen duże siły, jednak główna część wojsk jest wciąż w drodze z Dunkierki. Musimy wykorzystać okazję i uderzyć na wroga, gdy się tego nie spodziewa. 
+Twoje rozkazy:
+-	Zaatakuj nieprzyjaciela, który jeszcze nie skończył umacniać swoich pozycji wokół miasta.
+[Submission_2.Success]
+Wróg wyeliminowany. Dobra robota!
+[Submission_2.Failed]
+Porażka!
+[Submission_3.Objectives]
+Odeprzeć ataki nieprzyjacielskich czołgów.
+[Submission_3.Description]
+Wróg okazał się silniejszy, niż sądziliśmy. Udało mu się wprowadzić do walki sporo jednostek pancernych. 
+Twoje rozkazy:
+-	Odeprzyj atak nieprzyjacielskich czołgów.
+[Submission_3.Success]
+Wróg zatrzymany!
+[Submission_3.Failed]
+Porażka. Nie udało ci się pokonać nieprzyjacielskich czołgów.

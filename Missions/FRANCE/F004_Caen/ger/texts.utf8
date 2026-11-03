@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+Halten Sie Ihre Verteidigungspositionen in dem markierten Bereich.
+[Mission1.Description]
+Die Situation ist sehr ernst; es gibt kaum noch Hoffnung. Viele unserer Kameraden sind im Kampf gefallen, und ohne Zweifel werden noch viele andere Ihr Blut in der Normandie vergiessen. Unsere Späher berichten, dass deutsche Truppen schnell auf das Dorf zumarschieren, um jeglichen Widerstand auf ihrem Weg nach Caen zu zerschlagen. Unsere Flanken im Westen und Osten sind nur spärlich verteidigt, also ist es wahrscheinlich, dass die deutschen in diesen Richtungen durchbrechen werden.   
+
+Ihre Befehle:
+-	 Halten Sie die Stellung im Dorf.
+[Mission1.Success]
+Befehl ausgeführt! Ihre Soldaten haben Ihre Stellung gehalten und Caen vor den Deutschen gerettet, zumindest für den Moment.
+[Mission1.Failed]
+Befehle nicht ausgeführt! Deutsche Truppen sind durch Ihre Stellungen gebrochen und sind in Caen eingedrungen.  
+[Submission1.Objectives]
+Schlagen Sie den feindlichen Angriff aus dem Nordwesten zurück.
+[Submission1.Description]
+Deutsche Truppen marschieren auf das Dorf zu mit dem Ziel, allen Widerstand auszuschalten. Es ist äusserst wichtig für uns diesen Angriff zurückzuschlagen, und damit den Deutschen den Zugriff auf Caen zu verwehren.
+
+Ihre Befehle:
+-	 Schlagen Sie den feindlichen Angriff aus dem Nordwesten zurück.
+[Submission1.Success]
+Sie haben erfolgreich den deutschen Angriff zurückgeschlagen!
+[Submission1.Failed]
+Der Feind ist durch die Verteidigungslinie gebrochen!
+[Submission2.Objectives]
+- Schlagen Sie den feindlichen Angriff aus dem Norden zurück.
+[Submission2.Description]
+Deutsche Truppen marschieren auf das Dorf zu mit dem Ziel, allen Widerstand auszuschalten. Es ist äusserst wichtig für uns diesen Angriff zurückzuschlagen, und damit den Deutschen den Zugriff auf Caen zu verwehren.
+
+Ihre Befehle:
+-	 Schlagen Sie den feindlichen Angriff aus dem Norden zurück.
+[Submission2.Success]
+Der feindliche Angriff wurde gestoppt!
+[Submission2.Failed]
+Der Feind hat Ihre Verteidigungslinien zerschmettert!
+[Submission3_1.Objectives]
+Greifen Sie die feindlichen Einheiten an.
+[Submission3_1.Description]
+Befreundete Einheiten auf unserer Westflanke sind zusammengebrochen und die Deutschen greifen das Dorf wieder aus dieser Richtung an. Halten Sie weiterhin Stand und halten Sie diesen neuen Angriff auf!
+
+Ihre Befehle:
+- 	Greifen Sie die Feindeinheiten an, die jetzt aus dem Westen vorrücken.
+[Submission3_1.Success]
+Die Aufgabe wurde erfüllt und der Feind flieht. Sie haben den Tag gerettet!
+[Submission3_1.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt, und Ihre Einheiten haben eine herbe Niederlage einstecken müssen.
+[Submission4.Objectives]
+- Greifen Sie die feindlichen Einheiten an, die aus dem Osten vorrücken.
+[Submission4.Description]
+Befreundete Einheiten an unserer Ostflanke wurden überrant und die deutschen Truppen marschieren jetzt in Richtung Caen. Sie müssen ihn aufhalten!
+
+Ihre Befehle:
+-	 Greifen Sie die feindlichen Einheiten an, die aus dem Osten vorrücken.
+[Submission4.Success]
+Befehl ausgeführt!
+[Submission4.Failed]
+Befehle nicht ausgeführt!
+[Submission5.Objectives]
+Schlagen Sie den feindlichen Angriff zurück.
+[Submission5.Description]
+Unsere Luftaufklärung berichtet, dass eine weitere feindliche Gruppe sich Caen nähert. Es ist äusserst wichtig, dass Sie alle verfügbaren Einheiten sammeln um diesen feindlichen Vormarsch aufzuhalten. Sie sind unsere letzte Hoffnung um die Deutschen aufzuhalten!
+
+Ihre Befehle lauten:
+- Stoppen Sie den deutschen Vormarsch auf Caen.
+[Submission5.Success]
+Befehl ausgeführt! Der feindliche Angriff wurde gestoppt!
+[Submission5.Failed]
+Der Feind ist durchgebrochen! Ihre Truppen wurden eliminiert!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.
+[Submission4_1.Objectives]
+Greifen Sie die feindlichen Einheiten an.
+[Submission4_1.Description]
+Befreundete Einheiten an unserer Ostflanke wurden überrant und die deutschen Truppen marschieren jetzt in Richtung Caen. Sie müssen ihn aufhalten!
+
+Ihre Befehle:
+-	 Greifen Sie die feindlichen Einheiten an, die aus dem Osten vorrücken.
+[Submission4_1.Success]
+Der feindliche Angriff wurde gestoppt und der Feind flieht!
+[Submission4_1.Failed]
+Sie konnten den feindlichen Angriff nicht stoppen und ihre Einheiten wurden eliminiert!
+[Submission3.Objectives]
+Greifen Sie die feindlichen Einheiten an.
+[Submission3.Description]
+Unsere westlichsten Stellungen sind gefallen und die Deutschen rücken wieder schnell gegen das Dorf vor. Sie müssen sie sofort angreifen bevor sie durchbrechen und Caen einnehmen können.
+
+Ihre Befehle lauten:
+- 	Greifen Sie die Feindeinheiten an, die aus dem Westen vorrücken.
+[Submission3.Success]
+Die Aufgabe wurde erfüllt und der Feind wurde geschlagen!
+[Submission3.Failed]
+Die Aufgabe wurde nicht erfüllt und ihre Einheiten wurden geschlagen.

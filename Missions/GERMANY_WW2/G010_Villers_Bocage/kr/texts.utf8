@@ -1,0 +1,68 @@
+﻿[Mission.Objectives]
+영국군이 캉에 도달하려 하고 있다. 그들을 저지해야 한다.
+[Mission.Description]
+몽고메리 장군이 지휘하는 영국군은 빌레르보카주를 점령한 뒤 캉으로 진격하려 한다. 귀관의 지휘 아래에는 전차 에이스 미하엘 비트만을 포함한 제101중친위전차대대의 전차 몇 대가 있다. 귀관 쪽으로 오는 영국군 기갑 종대를 신속하고 강력하게 타격하라. 
+
+명령:
+-	 영국군 기갑 종대를 저지하라. 최대한 많은 적 전차와 장비를 격파하라.  
+[Mission.Success]
+임무 완료! 오늘 귀관의 행동은 오래도록 기억될 것이다.
+[Mission.Failed]
+임무 실패! 영국군에게 심각한 타격을 입힐 기회를 놓쳤다.
+[Submission_1.Objectives]
+적 기갑 종대를 공격하라.
+[Submission_1.Description]
+영국 제7기갑사단의 부대들이 캉으로 가는 길에 행군하여 소도시 빌레르보카주로 향하고 있다. 
+
+명령: 
+-	기습과 속도, 우수한 전차를 활용하여 영국군에게 최대한의 피해를 입혀라.	 
+[Submission_1.Success]
+영국군을 궤멸시켰다.
+[Submission_1.Failed]
+공격이 실패했다.
+[Submission_2.Objectives]
+가능하다면 미하엘 비트만과 그의 전차 승무원들을 살려라.
+[Submission_2.Description]
+전차 에이스 미하엘 비트만과 그의 승무원들은 전투력으로서도, 상징으로서도 매우 소중하다. 무슨 일이 있어도 그와 승무원들을 살려야 한다!
+[Submission_2.Success]
+미하엘 비트만은 전투에서 살아남았고, 앞으로의 전투에서도 연합군을 계속 괴롭힐 것이 틀림없다.
+[Submission_2.Failed]
+미하엘 비트만이 전사했다. 
+[Submission_3.Objectives]
+남은 영국군에 대한 공격을 계속하라.
+[Submission_3.Description]
+귀관은 영국군에게 공포와 파괴를 안겼다. 남은 영국군과 계속 교전하라.
+
+명령: 
+-	 영국군이 이 지역의 작은 농장 주변에서 재편하는 듯하니, 찾아내서 격파하라.
+[Submission_3.Success]
+농장 공격에 성공했다.
+[Submission_3.Failed]
+농장 주변의 영국군에 대한 공격이 실패했다.
+[Submission_4.Objectives]
+작은 농장 근처의 전략 요충지를 점령하라.
+[Submission_4.Description]
+빌레르보카주 인근 농장 주변에서 적이 탐지되었다. 이 농장은 전략적 교차로 근처에 있어 반드시 점령해야 한다.
+
+명령: 
+-	 농장 주변의 영국군 부대를 격파하라.
+-	 영국군의 모든 반격에 맞서 농장을 사수하라.
+[Submission_4.Success]
+농장을 점령하고 영국군을 패주시켰다.
+[Submission_4.Failed]
+농장 공격이 실패했다.
+[Submission_5.Objectives]
+영국군이 농장을 되찾으려는 모든 시도를 저지하라.
+[Submission_5.Description]
+귀관은 영국군을 기습하여 상당한 타격을 입혔으나, 그들은 재편하여 집결하기 시작했으며 빌레르보카주를 점령하겠다는 결의에 차 있다. 이 반격을 막아내야 한다.
+
+명령:
+-	 적의 반격을 격퇴하라.
+[Submission_5.Success]
+승리했다! 오늘 귀관의 행동은 전쟁사에 영원히 남을 것이다.
+[Submission_5.Failed]
+패배했다. 캉을 향한 영국군의 진격은 저지받지 않고 계속될 것이다.
+[StringTable.inf_reserv]
+보병 분대가 지휘관의 지휘하에 배속되었다.
+[StringTable.tank_reserv]
+예비대에서 추가 전차를 지급받았다.

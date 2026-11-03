@@ -1,0 +1,46 @@
+﻿[StringTable.]
+[StringTable.ArmyB_WIN]
+A Aliança 2 vence!
+[StringTable.ArmyA_WIN]
+A Aliança 1 vence!
+[StringTable.ArmyA_king_Hill_A]
+A Aliança 1 captura a bandeira A!
+[StringTable.ArmyA_king_Hill_B]
+A Aliança 1 captura a bandeira B!
+[StringTable.ArmyA_king_Hill_C]
+A Aliança 1 captura a bandeira C!
+[StringTable.ArmyA_king_Hill_D]
+A Aliança 1 captura a bandeira D!
+[StringTable.ArmyA_king_Hill_E]
+A Aliança 1 captura a bandeira E!
+[StringTable.ArmyB_king_Hill_A]
+A Aliança 2 captura a bandeira A!
+[StringTable.ArmyB_king_Hill_B]
+A Aliança 2 captura a bandeira B!
+[StringTable.ArmyB_king_Hill_C]
+A Aliança 2 captura a bandeira C!
+[StringTable.ArmyB_king_Hill_D]
+A Aliança 2 captura a bandeira D!
+[StringTable.ArmyB_king_Hill_E]
+A Aliança 2 captura a bandeira E!
+[StringTable.Hill_A_Lost]
+A bandeira A não está mais sob controle!
+[StringTable.Hill_B_Lost]
+A bandeira B não está mais sob controle!
+[StringTable.Hill_C_Lost]
+A bandeira C não está mais sob controle!
+[StringTable.Hill_D_Lost]
+A bandeira D não está mais sob controle!
+[StringTable.Hill_E_Lost]
+A bandeira E não está mais sob controle!
+[StringTable.ArmyA_capture_ALL_flags]
+A Aliança 1 controla todas as bandeiras! A Aliança 2 deve capturar pelo menos uma bandeira em dois minutos ou perderá a partida.
+[StringTable.ArmyB_capture_ALL_flags]
+A Aliança 2 controla todas as bandeiras! A Aliança 1 deve capturar pelo menos uma bandeira em dois minutos ou perderá a partida.
+[StringTable.One_or_more_flags_lost]
+Uma ou mais bandeiras foram perdidas.
+
+[StringTable.rus]
+Reforços
+[StringTable.ger]
+Reforços

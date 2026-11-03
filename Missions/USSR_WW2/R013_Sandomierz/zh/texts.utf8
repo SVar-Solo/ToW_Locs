@@ -1,0 +1,57 @@
+﻿[Mission1.Objectives]
+消灭敌军坦克部队。
+[Mission1.Description]
+我军侦察兵发现了一支德军虎王坦克纵队。在这些重型坦克抵达目的地之前将其消灭，现在是当务之急。 
+
+你的命令： 
+- 	将你的部队开往指定区域，消灭一支虎王坦克纵队。
+[Mission1.Success]
+德军装甲部队败在了我们更高超的技术和武器之下。
+[Mission1.Failed]
+尽管获得了所有支援和战斗力量，你仍未能阻止敌军坦克纵队。
+[Mission2.Objectives]
+消灭村庄周围的敌军。
+[Mission2.Description]
+渡过维斯瓦河后，苏军部队发现德军在西岸组织了强大的防御。法西斯侵略者占据着你前方的村庄。侦察报告称，步兵和装甲部队都在重兵防守该镇。
+
+你的命令：
+- 	消灭村庄周围的敌军。
+[Mission2.Success]
+敌军已被消灭，村庄获得解放！现在你的部队可以巩固兵力，以加强桑多梅日桥头堡。
+[Mission2.Failed]
+你的部队已被消灭。敌军因这场胜利而更加嚣张，现在威胁着要把我军赶回维斯瓦河。
+[Submission1.Objectives]
+夺取虎王坦克。
+[Submission1.Description]
+在村庄里发现了几辆德军重型虎王坦克，但不见其乘员的踪影。这些坦克将是极好的战利品，对我们自己的工程师研究也很有价值。 
+
+你的命令： 
+-	 夺取敌军虎王坦克。
+[Submission1.Success]
+坦克已被夺取——干得漂亮！
+[Submission1.Failed]
+尽管你竭尽全力，仍未能夺取这些坦克！
+[Mission3.Objectives]
+顶住德军的进攻。
+[Mission3.Description]
+德军正发起大规模反击，目标是重新占领桑多梅日并摧毁我军桥头堡。
+
+你的命令： 
+-	 不惜一切代价挡住敌军的进攻。
+[Mission3.Success]
+敌军的进攻已被击退，桥头堡已得到巩固。
+[Mission3.Failed]
+尽管你的士兵英勇奋战，敌军仍赢得了这场战斗。
+[Submission2_1.Objectives]
+消灭敌军。
+[Submission2_1.Description]
+这座位于你所在战线地段的村庄已被德军占领。侦察报告称，有数支步兵和坦克部队，包括更多虎王坦克，现正在该镇内及周围构筑工事。 
+
+你的命令： 
+- 	消灭村庄中的敌军。
+[Submission2_1.Success]
+敌军已被彻底消灭！
+[Submission2_1.Failed]
+你的部队已被消灭——敌军仍在村庄中！
+[StringTable.Reserv]
+你已获得增援部队。

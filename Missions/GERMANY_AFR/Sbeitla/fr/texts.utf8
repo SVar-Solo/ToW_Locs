@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Établissez une base de départ
+[Mission.Description]
+Commandant Gerhard, vous devez établir une base de départ pour une offensive sur Sbeitla en détruisant les défenses ennemies dans ce secteur. Écrasez l'ennemi avec nos chars.
+[Mission.Success]
+Nous avons préparé la base de départ de l'offensive. Les défenses ennemies ont été détruites.
+[Mission.Failed]
+Repli. Nous n'avons pas réussi à briser la résistance ennemie dans ce secteur.
+[SubMission_01.Objectives]
+Détruisez les équipes de reconnaissance ennemies
+[SubMission_01.Description]
+Nous devons détruire les équipes de reconnaissance ennemies le plus vite possible pour les empêcher d'informer leur haut commandement de nos effectifs et de notre dispositif.
+[SubMission_01.Success]
+Les équipes de reconnaissance ont été détruites, l'infanterie ennemie prend la fuite.
+[SubMission_01.Failed]
+[SubMission_02.Objectives]
+Débordez l'ennemi
+[SubMission_02.Description]
+Nos renseignements indiquent qu'une batterie d'artillerie défend la route. Nous devons déborder la ligne de défense principale de l'ennemi. Utilisez le lit de la rivière. Je suppose que l'ennemi tirera sur la vallée. Nous devons redéployer les troupes en lieu sûr au plus vite.
+[SubMission_02.Success]
+Nous avons débordé avec succès le gros des forces ennemies.
+[SubMission_02.Failed]
+[SubMission_03.Objectives]
+Établissez une liaison radio
+[SubMission_03.Description]
+Notre reconnaissance a trouvé un emplacement pour un contact radio, mais il est tenu par l'ennemi. Nous devons éliminer les ennemis et amener l'un de nos chars ou véhicules blindés à cet endroit.
+[SubMission_03.Success]
+L'ennemi a été détruit, la hauteur est sécurisée.
+[SubMission_03.Failed]
+[SubMission_04.Objectives]
+Éliminez la batterie d'artillerie
+[SubMission_04.Description]
+L'ennemi a redéployé une batterie d'artillerie sur l'île. Nous devons l'éliminer. 
+[SubMission_04.Success]
+La batterie d'artillerie ennemie a été éliminée.
+[SubMission_04.Failed]
+[SubMission_05.Objectives]
+Trouvez un passage sûr
+[SubMission_05.Description]
+Avant l'offensive finale, nous devons vérifier l'absence de champs de mines aux points de franchissement.
+[SubMission_05.Success]
+Un passage sûr a été trouvé.
+[SubMission_05.Failed]
+[StringTable.Rommel_01]
+Je compte sur vous et vos hommes, Commandant. Je comprends que les hommes sont las, mais la situation exige que nous mobilisions nos meilleures qualités. De tels jours font naître des héros dont les générations futures se souviendront.
+[StringTable.Gerhard_01]
+Mon général ! Il n'est pas nécessaire de nous dire cela, à moi et à mes hommes. Nous sommes des soldats du Reich allemand, et nous ne l'oublions jamais ! Cependant, votre présence ici, en première ligne, nous aidera à oublier la fatigue et à nous battre vaillamment !
+[StringTable.Gerhard_02]
+Oui, mon général ! ...Merde ! Nous avons perdu le contact avec le haut commandement. Les montagnes doivent faire écran à nos émetteurs. Nous devons rétablir le contact au plus vite.
+[StringTable.Gerhard_03]
+Que se passe-t-il ? Rétablissez immédiatement la liaison radio !

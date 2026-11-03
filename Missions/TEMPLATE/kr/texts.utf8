@@ -1,0 +1,237 @@
+﻿[TEMPLATE.FullName]
+새 캠페인
+
+[TEMPLATE.Description]
+캠페인 설명
+
+[HAMGEN_PUKTO.FullName]
+함경북도
+
+[HAMGEN_PUKTO.Description]
+함경북도는 북한의 최북단 도이다. 북쪽으로 중국과 국경을 접하고 있으며, 긴 동쪽 해안선은 동해에 면해 있다. 이 도에는 중국과 소련 양측의 화물을 처리하는 북한의 주요 철도 분기점이 있다. 지형은 대부분 평야이지만 서쪽에는 큰 산맥이 있다.
+
+[YANGANDO.FullName]
+양강도
+
+[YANGANDO.Description]
+양강도는 북쪽으로 중국과 접해 있다. 좁은 산길이 얽혀 있는 산악 지대가 대부분을 차지하여 통행이 거의 불가능하다. 그럼에도 양강도는 매우 중요한 전략 지역인데, 소련에서 들어오는 주요 철도가 이곳에 있어 북한군에 군사 장비와 무기를 공급하기 때문이다.
+
+[HAMGEN_NAMDO.FullName]
+황해남도
+
+[HAMGEN_NAMDO.Description]
+서쪽은 산이 많지만 황해남도는 동해안을 향해 동쪽으로 뻗어 나가며 비옥한 농경지로 평평해진다. 이 풍요로운 땅에서 쌀, 밀, 유채가 생산되어 이 도는 북한의 주요 농업 중심지이다. 황해남도를 점령하면 더 북쪽으로 전투를 밀고 나갈 훌륭한 발판을 얻게 된다.
+
+[CHAGANDO.FullName]
+자강도
+
+[CHAGANDO.Description]
+북쪽으로 중국과 접한 자강도는 북한에서 가장 발달한 공업 지역 중 하나이다. 이곳의 주요 철도 분기점은 중국과 소련에서 오는 모든 화물을 처리하며, 도 내에는 북한군의 주요 보급 기지가 있다. 자강도는 바다에 접해 있지 않다.
+
+[PHENAN_PUKTO.FullName]
+평안북도
+
+[PHENAN_PUKTO.Description]
+북부의 평안북도는 중국과 국경을 접하고 있다. 도청 소재지인 신의주는 주요 교통 요충지이며, 용암포항은 황해 어업의 주요 중심지 중 하나이다. 지형은 대부분 산지이며 해안 지역에는 골짜기가 주를 이룬다.
+
+[PHENAN_NAMDO.FullName]
+평안남도
+
+[PHENAN_NAMDO.Description]
+북한의 평안남도는 도청 소재지가 평성이며, 북쪽으로 평안북도 및 자강도, 동쪽과 남동쪽으로 황해남도 및 강원도, 남쪽으로 황해북도 및 평양과 접한다. 서쪽으로는 황해에 면해 있다. 이 도는 해상으로 병력과 보급품을 재배치하기 위한 집결지로서 전략적 가치가 있다.
+
+[PHENYAN.FullName]
+평양
+
+[PHENYAN.Description]
+평양은 수도와 주변 도의 이름이며, 북한의 주요 경제 중심지이자 주요 공업 거점이다. 평양시는 산으로 둘러싸인 평야에 자리하고 있다. 1946년에 평안남도에서 분리되어 독립된 도가 되었다. 도시와 그 주변 지역은 강력하게 요새화되어 있으며 방어가 견고하다.
+
+[KANWONDO_PUKTO.FullName]
+강원도(북)
+
+[KANWONDO_PUKTO.Description]
+북한의 강원도(북)는 접경 지역을 따라 위치한다. 대부분 고원 지대이지만 해안선을 따라 난 지형은 차량 수송에 적합하다.
+
+[HVANHE_PUKTO.FullName]
+황해북도
+
+[HVANHE_PUKTO.Description]
+황해북도의 남쪽 경계는 38도선을 따른다. 적 병력이 남쪽에 집결해 있다. 이 도는 북한의 수도 평양 방어에 전략적으로 매우 중요하다.
+
+[KANWONDO_NAMDO.FullName]
+강원도(남)
+
+[KANWONDO_NAMDO.Description]
+강원도(남)의 북쪽 경계는 한반도를 남북으로 나누는 38도선을 따른다. 산악 지대이므로 이 도에는 중요한 방어 시설이 없고 산길은 험하다. 소규모 방어 병력으로도 우세한 공격 병력을 저지할 수 있다. 작은 마을과 사찰은 점령하기 매우 어려운 방어 거점으로 바뀌었다. 차량이 다닐 수 없는 바위 길만이 점령되지 않은 채 남아 있다.
+
+[KENGIDO.FullName]
+경기도
+
+[KENGIDO.Description]
+한국의 수도 서울이 있는 경기도는 전략적으로 매우 중요한 도이다. 대부분 평야이지만 곳곳에 주민 거주지가 산재해 있고 그 상당수가 요새화되었다. 당연히 서울 자체는 한국군에서 가장 경험 많은 병력이 지키고 있으며 중방어 시설로도 둘러싸여 있다. 이 도의 북쪽 경계는 한국을 북한과 남한으로 가르는 38도선을 따른다.
+
+[KENSAN_PUKTO.FullName]
+경상북도
+
+[KENSAN_PUKTO.Description]
+경상북도는 한반도 동해안으로 통하는 길목이다. 이 도를 차지한 쪽은 해상으로 보급을 받을 수 있으며, 이는 중대한 전략적 이점이다. 경상북도에는 산간 계곡이 많지만 동해안에 가까워질수록 산이 낮아지고 계곡이 넓고 평평해진다. 이 때문에 공격하기는 매우 쉽지만 방어하기는 어렵다.
+
+[CHUNCHON_PUKTO.FullName]
+충청북도
+
+[CHUNCHON_PUKTO.Description]
+충청북도는 남한의 수도 서울로 향하는 주요 교통로이다. 이 도에는 수많은 군사 기지와 방어 시설이 집중되어 있다. 충청북도를 장악하면 상당한 이점을 얻을 수 있다.
+
+[CHUNCHON_NAMDO.FullName]
+충청남도
+
+[CHUNCHON_NAMDO.Description]
+충청남도의 상당 부분은 거의 통과할 수 없는 산지이지만, 공격에 취약한 지역도 있다. 물론 그런 곳은 방어가 견고하고 요새화되어 있다. 모든 주민 거주지가 거점으로 바뀌었으나 일부 바위 길은 차량이 통과할 수 없다. 이런 곳은 은밀히 기동하여 적을 기습할 수 있는 소규모 보병 분대에 안성맞춤이다.
+
+[PUSAN.FullName]
+부산
+
+[PUSAN.Description]
+부산 교두보는 한국군의 마지막 진지이다. 이 가장 중요한 전략 지역은 미군의 교두보 구실을 하며 방어가 견고한 거점이 여럿 있다. 부산 교두보와 부산, 울산, 포항 항구를 점령하면 유엔군 사령부 병력이 증원과 보급품을 들여오지 못하게 될 것이다.
+
+[KENSAN_NAMDO.FullName]
+경상남도
+
+[KENSAN_NAMDO.Description]
+경상남도는 전라북도 및 경상북도와 인접해 있다. 대부분 산지이며 가야산, 덕유산, 지리산의 3개 국립공원이 있다. 가장 높은 봉우리는 덕유산(1614미터)이다. 한반도의 다른 지역과 마찬가지로 이 도는 몬순 기후로, 여름은 덥고 습하며 겨울은 비교적 춥고 건조하다. 연평균 기온은 섭씨 10.6도이고 연 강수량은 1395.2mm(1993년 기준)이다. 강수량의 대부분(850mm)은 여름 3개월간 이어지는 우기에 내린다.
+
+[CHOPLA_PUKTO.FullName]
+전라북도
+
+[CHOPLA_PUKTO.Description]
+전라북도는 서해안에 위치해 있다. 이곳의 항구는 병력과 보급품의 이동에 매우 중요하다. 그러나 해안 지역을 제외하면 이 도는 험준한 산지여서 중요한 방어 시설은 없다.
+
+[CHOPLA_NAMDO.FullName]
+전라남도
+
+[CHOPLA_NAMDO.Description]
+전라남도는 남한의 최남단 도이다. 북쪽 지역은 산이 지배적이다. 그러나 남쪽과 해안 지역으로 갈수록 산은 넓은 계곡으로 이어진다. 전략적 중요성 면에서, 이 도의 남부는 대형 항구가 많아 해상 보급품 수송에 중요하다.
+
+[Battle Group 6.Name]
+1기갑사단
+
+[Battle Group 13.Name]
+2기갑사단
+
+[Battle Group 4.Name]
+101전차여단
+
+[Battle Group 3.Name]
+101기계화사단
+
+[Battle Group 2.Name]
+101보병사단
+
+[Battle Group 14.Name]
+제1보병사단
+
+[Battle Group 8.Name]
+1기계화사단
+
+[Battle Group 12.Name]
+2포병사단
+
+[Battle Group 9.Name]
+1포병사단
+
+[Battle Group 18.Name]
+101포병사단
+
+[Reinforcement.PRK_artillery]
+포병
+
+[Reinforcement.PRK_tanks]
+전차
+
+[Battle Group 6.FullName]
+제1기갑사단
+
+[Battle Group 8.FullName]
+제1기계화사단
+
+[Battle Group 9.FullName]
+제1포병사단
+
+[Battle Group 12.FullName]
+제2포병사단
+
+[Battle Group 13.FullName]
+제2기갑사단
+
+[Battle Group 14.FullName]
+제1보병사단
+
+[Battle Group 24.Name]
+10포병사단
+
+[Battle Group 24.FullName]
+10포병사단
+
+[Battle Group 25.Name]
+10기계화사단
+
+[Battle Group 25.FullName]
+제10기계화사단
+
+[Battle Group 26.Name]
+제10보병사단
+
+[Battle Group 26.FullName]
+제10보병사단
+
+[Battle Group 27.Name]
+10전차여단
+
+[Battle Group 27.FullName]
+제10전차여단
+
+[Battle Group 28.Name]
+20기계화사단
+
+[Battle Group 28.FullName]
+제20기계화사단
+
+[Battle Group 29.Name]
+20보병사단
+
+[Battle Group 29.FullName]
+제20보병사단
+
+[TEMPLATE.Epilogue]
+최고사령부는 귀관과 귀관의 부대가 거둔 승리를 축하한다! 병사들과 장교들의 용맹과 영웅적 행위, 그리고 비할 데 없는 전투력이 이 위대한 승리를 가져왔다! 그러나 귀관의 지휘 통제와 예리한 전술 감각, 전략적 선견지명이 없었다면 결코 성공하지 못했을 것이다!
+
+[TEMPLATE.FailureEpilogue]
+귀관의 부대는 용맹과 영웅적 행위에도 불구하고 패배했다. 적은 너무 강했다. 그러나 쓰라린 패배는 미래의 승리를 앞당기는 좋은 교훈이기도 하다. 패배 없이는 승리도 없다. 패배한 훌륭한 지휘관은 오히려 더 강하고 현명해진다.
+
+[Battle Group 2.FullName]
+제101보병사단
+
+[Battle Group 3.FullName]
+제101기계화사단
+
+[Battle Group 4.FullName]
+제101전차여단
+
+[Battle Group 18.FullName]
+제101포병사단
+
+[Reinforcement.PRK_Tank]
+전차
+
+[Battle Group 30.Name]
+107기계화사단
+
+[Battle Group 30.FullName]
+제107기계화사단
+
+[Battle Group 31.Name]
+2전차여단
+
+[Battle Group 31.FullName]
+제2전차여단
+

@@ -1,0 +1,134 @@
+﻿[Mission.Objectives]
+Assumete il comando e respingete l'attacco nemico
+
+[Mission.Description]
+Prendete il comando di due gruppi di soldati britannici. Usando una mitragliatrice pesante, distruggete una squadra di fanteria nemica. Trovate e usate un bazooka per distruggere il carro armato nemico.
+
+[Mission.Success]
+Congratulazioni, tutti i compiti sono stati portati a termine con successo.
+
+[Mission.Failed]
+Compito fallito
+
+[Submission_1.Objectives]
+Assumete il comando del primo gruppo
+
+[Submission_1.Description]
+Avvicinate il veicolo al gruppo di tre soldati britannici e passeranno sotto il vostro comando.
+
+[Submission_1.Success]
+Il gruppo di soldati britannici è passato sotto il vostro comando.
+
+[Submission_1.Failed]
+Compito fallito
+
+[Submission_2.Objectives]
+Assumete il comando del secondo gruppo
+
+[Submission_2.Description]
+Avvicinate il vostro veicolo e i soldati che si sono uniti a voi al gruppo dell'avamposto di combattimento alla periferia del villaggio e passerà sotto il vostro comando.
+
+[Submission_2.Success]
+L'avamposto di combattimento è passato sotto il vostro comando.
+
+[Submission_2.Failed]
+Compito fallito
+
+[Submission_3.Objectives]
+Occupate la mitragliatrice
+
+[Submission_3.Description]
+Selezionate due fanti dal personale e occupate la mitragliatrice.
+
+[Submission_3.Success]
+La mitragliatrice pesante è a vostra disposizione.
+
+[Submission_3.Failed]
+Compito fallito
+
+[Submission_4.Objectives]
+Respingete l'attacco nemico
+
+[Submission_4.Description]
+Prendete posizione in difesa negli edifici vicino alla mitragliatrice e respingete l'attacco della fanteria nemica.
+
+[Submission_4.Success]
+L'attacco nemico è stato respinto.
+
+[Submission_4.Failed]
+Compito fallito
+
+[StringTable.Submission_4]
+Quando si trovano all'interno di un edificio in modalità di movimento libero, i fanti possono cambiare leggermente posizione se da lì è più comodo sparare a un bersaglio individuato. Tenete presente che la visibilità può essere limitata dai muri. Questo può essere utile per un'imboscata, ma impedisce di avere un quadro completo della battaglia.
+
+[Submission_5.Objectives]
+Distruggete il carro armato nemico
+
+[Submission_5.Description]
+Un carro armato tedesco avanza verso le vostre posizioni. Seguendo il fumo, trovate il contenitore con il lanciagranate anticarro e distruggete il carro armato nemico.
+
+[Submission_5.Success]
+Il carro armato nemico è stato distrutto.
+
+[Submission_5.Failed]
+Compito fallito
+
+[StringTable.Submission_5.1]
+Un carro armato tedesco avanza verso le vostre posizioni. Seguendo il fumo, trovate il contenitore con il lanciagranate anticarro e distruggete il carro armato nemico. Il contenitore si trova accanto al camion bruciato dietro e a destra delle vostre posizioni; il punto è segnalato da fumo rosso. Portate fin lì un soldato con uno slot arma libero, aprite l'inventario {hkey:inventory}: verrà mostrato un pannello con gli oggetti vicini al soldato. Potete raccogliere gli oggetti con un doppio clic del tasto sinistro, trascinandoli oppure usando uno dei pulsanti di raccolta. Il soldato avrà bisogno di un po' di tempo per raccogliere gli oggetti. Per specificare la quantità di oggetti, tenete premuto CTRL (un pezzo), MAIUSC (intera pila), CTRL+MAIUSC (mezza pila) durante il trasferimento.
+
+[StringTable.Submission_5.2]
+Se il carro armato è troppo lontano, cercate di nasconderti o sdraiarvi in modo che non possa individuare i vostri soldati. Attaccate il carro quando si avvicina. Usate le modalità di movimento furtivo {hkey:setbodymodelay} e vietate il movimento libero {hkey:actionmode}, oppure attivate la modalità "Imboscata" {hkey:ambush}.
+
+[StringTable.Submission_5.3]
+Per garantire la massima efficacia del colpo del "Bazooka", aprite il fuoco a circa 2/3 o 1/2 della gittata massima indicata dal settore tratteggiato. Per farlo, vietate di sparare al soldato con il "Bazooka" {hkey:firemode}, lasciate che il carro armato arrivi alla distanza richiesta, poi consentite di nuovo il fuoco {hkey:firemode}. In questo modo, se c'è una linea di tiro, il soldato sparerà da sé. Se impartisci l'ordine diretto di attaccare il carro armato, in assenza di una linea di tiro il soldato potrebbe iniziare ad avvicinarsi al bersaglio, il che a volte non è desiderabile.
+
+[Submission_6.Objectives]
+Evacuazione
+
+[Submission_6.Description]
+Catturate un veicolo per il trasporto della fanteria. Caricate tutto il personale sul camion, poi portatelo al punto di evacuazione.
+
+[Submission_6.Success]
+Personale evacuato.
+
+[Submission_6.Failed]
+Compito fallito
+
+[Submission_7.Objectives]
+Evacuazione
+
+[Submission_7.Description]
+Evacuate tutto il personale dal villaggio al punto di evacuazione.
+
+[Submission_7.Success]
+Il personale ha raggiunto il punto di evacuazione
+
+[Submission_7.Failed]
+Compito fallito
+
+[Submission_8.Objectives]
+Evacuazione
+
+[Submission_8.Description]
+Dovete evacuare il personale al punto indicato. Per farlo potete usare un veicolo, che potete chiamare con il pulsante dei rinforzi.
+
+[Submission_8.Success]
+Personale evacuato
+
+[Submission_8.Failed]
+Compito fallito
+
+[Submission_9.Objectives]
+Distruggete i carri armati con l'aviazione
+
+[Submission_9.Description]
+Dovete chiamare gli aerei d'attacco e distruggere i carri armati in arrivo da sud-ovest. Perché gli aerei d'attacco siano guidati con successo sul bersaglio, i carri armati devono trovarsi in linea di vista diretta della fanteria.
+
+[Submission_9.Success]
+Carri armati distrutti!
+
+[Submission_9.Failed]
+Compito fallito
+
+[StringTable.Submission_9]
+Dovete chiamare gli aerei d'attacco e distruggere i carri armati in arrivo da sud-ovest. Perché gli aerei d'attacco siano guidati con successo sul bersaglio, i carri armati devono trovarsi in linea di vista diretta della fanteria. Gli aerei impiegheranno un po' di tempo a raggiungere il bersaglio. Dopo aver attaccato un bersaglio, l'aereo effettuerà un secondo passaggio e attaccherà il successivo.

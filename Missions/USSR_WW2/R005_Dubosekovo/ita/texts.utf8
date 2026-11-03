@@ -1,0 +1,50 @@
+﻿[Submission1.Objectives]
+Respingi l'attacco nemico proveniente da nordovest.
+[Submission1.Description]
+Secondo le nostre informazioni, un gruppo di truppe nemiche sta avanzando verso Dubosekovo. In quella zona si trova un altro nodo ferroviario chiave e tu devi proteggerlo ad ogni costo. Il generale Panfilov ti ha personalmente ordinato di resistere fino alla fine.
+
+I tuoi ordini sono:
+- 	Respingi l'attacco nemico proveniente da nordovest.
+[Submission1.Success]
+L'attacco nemico è stato fermato!
+[Submission1.Failed]
+Il nemico ha superato le tue difese e la preso la stazione!
+[Submission2.Objectives]
+Respingi l'attacco nemico proveniente da sudovest.
+[Submission2.Description]
+Il primo tentativo da parte dei tedeschi di superare le tue difese è fallito. Adesso si stanno preparando per un nuovo assalto: puoi già sentire il rumore dei loro carri che avanzano da sudovest. Riorganizzati e non permettere loro di aggirarti in questa direzione. Non devi ritirarti; Mosca è alle nostre spalle!
+
+I tuoi ordini sono:
+- 	Respingi l'attacco nemico proveniente da sudovest.
+
+[Submission2.Success]
+Ordini eseguiti! L'attacco del nemico è stato respinto e i tedeschi si stanno ritirando!
+[Submission2.Failed]
+Non hai portato a termine gli ordini e le tue difese sono state superate!
+[Submission0.Objectives]
+Tieni e difendi la stazione ferroviaria.
+[Submission0.Description]
+Le truppe nemiche stanno rapidamente avanzando sul nodo ferroviario di Dubosekovo. L'Alto Comando ha stabilito che la stazione è di importanza critica e ti ordina di difenderla a tutti i costi.
+
+I tuoi ordini sono:
+- 	Tieni e difendi le aree indicate.
+- 	Impedisci alle truppe tedesche di prendere la stazione.
+[Submission0.Success]
+Ordini eseguiti! L'assalto tedesco è stato respinto!
+[Submission0.Failed]
+Non hai portato a termine gli ordini! Le truppe tedesche hanno preso la stazione di Dubosekovo.
+[Submission3.Objectives]
+Respingi l'attacco tedesco alla stazione.
+[Submission3.Description]
+I tedeschi stanno continuando la loro spinta verso la stazione. La situazione in altre parti del fronte non è migliore: siamo in inferiorità numerica e la situazione è disperata. Dobbiamo impedire al nemico di prendere la capitale della nostra Madre Patria.
+
+I tuoi ordini sono:
+ - 	Respingi l'attacco tedesco alla stazione.
+[Submission3.Success]
+Ordini eseguiti! Il nemico è stato sconfitto!
+[Submission3.Failed]
+Il nemico ha superato le tue difese e la preso la stazione!
+[StringTable.Reserv]
+I rinforzi sono arrivati.
+[StringTable.Subtitle_01]
+Stazione di Dubosekovo. 1941

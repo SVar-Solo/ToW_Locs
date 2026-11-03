@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Befreien Sie Cagny und Frenouville.
+[Mission.Description]
+Unsere nächsten Ziele sind Cagny und Frenouville.
+[StringTable.SPGs_Tanks]
+Hauptkräfte
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Erobern Sie Cagny.
+[Submission_1.Description]
+Vertreiben Sie den Feind aus Cagny.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Vertreiben Sie den Feind aus dem Bauernhof.
+[Submission_2.Description]
+Die Deutschen haben den Bauernhof in eine Stellung umgebaut. Vernichten Sie sie.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Befreien Sie Frenouville.
+[Submission_3.Description]
+Eine weitere Ortschaft auf unserem Weg. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+Mission erfüllt.
+[Submission_3.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_2.Success]
+Mission erfüllt.
+[Submission_2.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_4.Objectives]
+Luftabwehrkanonen an der Straßenkreuzung.
+[Submission_4.Description]
+Eine Batterie 88 mm Flugabwehrkanonen verhindert unseren Vorstoß zu den feindlichen Stellungen. Ein Vorstoß mit gepanzerten Fahrzeugen würde zu hohen Verlusten führen. Die Batterie muss ausgeschaltet werden, bevor der Hauptteil unserer Truppen eingesetzt werden kann.
+[NewSubmission3.Success]
+Flugabwehrkanonen wurden zerstört.
+[NewSubmission3.Failed]
+Zerstören der Flugabwehrkanonen ist fehlgeschlagen.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_1.Success]
+Mission erfüllt.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[Submission_4.Success]
+Batterie wurde neutralisiert. Mission erfüllt.
+[Submission_4.Failed]
+Aufgabe wurde nicht erfüllt.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

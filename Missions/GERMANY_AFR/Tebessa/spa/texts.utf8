@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Destruir las defensas
+[Mission.Description]
+Destruya las defensas estadounidenses en el paso de Tebessa.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+¡Misión fallida!
+[Submission_1.Objectives]
+Tomar un punto de apoyo
+[Submission_1.Description]
+Asegure el objetivo marcado en el mapa eliminando los cañones y las tropas enemigos que se encuentran allí.
+[Submission_1.Success]
+La cabeza de partida ha sido asegurada.
+[Submission_1.Failed]
+¡Misión fallida!
+[StringTable.Haubitze]
+Ahora tiene el mando de los obuses. Úselos para apoyar la ofensiva.
+[Submission_2.Objectives]
+Eliminar el primer escalón
+[Submission_2.Description]
+Elimine la primera capa de las defensas enemigas.
+[Submission_2.Success]
+La primera capa de las defensas enemigas ha sido eliminada.
+[Submission_2.Failed]
+¡Misión fallida!
+[Submission_3.Objectives]
+Eliminar el segundo escalón
+[Submission_3.Description]
+Elimine la segunda capa de las defensas enemigas en la salida del paso.
+[Submission_3.Success]
+Las defensas enemigas han sido eliminadas por completo.
+[Submission_3.Failed]
+¡Misión fallida!
+[StringTable.Add_tanks]
+Le he proporcionado tanques de la reserva del cuartel general del ejército.

@@ -1,0 +1,41 @@
+﻿[STRATEGY_MAP_TIP.1]
+Feldzugsschlachten beginnen im Strategiemodus, wobei die verfügbaren Kampfgruppen durch den Feldzug bestimmt werden. Im Strategiemodus kann der Spieler seine Kampfgruppen manövrieren, sie zum Angriff auf den Feind oder zur Verteidigung eigener Stellungen einsetzen und sogar Luft- und Artillerieunterstützung anfordern. Die Strategiekarte besteht aus einer Reihe miteinander verbundener Gebiete, über die sich die feindlichen und verbündeten Kampfgruppen bewegen können. Auf der Strategiekarte kann der Spieler Verstärkungen und Unterstützung auswählen und diese Ressourcen seinen Kampfgruppen zuweisen. Wenn der Spieler später Schlüsselpositionen einnimmt, kann er weitere Verstärkungen und Unterstützung erhalten. Der Spieler kann diese Ressourcen jederzeit während seines Zuges zuweisen, jedoch nur an Kampfgruppen, die sich nicht aktiv im Kampf befinden.
+Die Strategiekarte des Gebiets bestimmt bestimmte Bewegungsbedingungen im Kampf. Kampfgruppen können gesperrte Gebiete nicht betreten.
+
+\t Beschreibung der Spielmodi:
+1. Der Strategiemodus ist rundenbasiert.
+2. Ein einzelner Zug umfasst die Bewegung des Spielers, die Bewegung des Feindes und alle Kämpfe, die sich aus den Manövern der Spielereinheiten ergeben.
+3. Die Anzahl der erlaubten Züge wird durch den Feldzug bestimmt.
+4. Der Zug des Spielers endet, wenn alle seine Kampfgruppen ihre Aktionspunkte aufgebraucht haben. Der Zug kann vorzeitig beendet werden, wenn der Spieler dies wünscht, z.B. wenn der Spieler möchte, dass eine Kampfgruppe an ihrem Ort bleibt, um ein Gebiet vor dem Feind zu verteidigen.
+5. Der Zug des Feindes endet auf die gleiche Weise, wenn alle feindlichen Kampfgruppen ihre Aktionspunkte aufgebraucht haben, oder vorher, wenn der feindliche Spieler dies wünscht.
+7. Ein Kampf findet statt, wenn sich sowohl die Kampfgruppe des Spielers als auch die des Feindes im selben Gebiet befinden.
+8. Um einen Feldzug zu gewinnen, muss der Spieler mehr Punkte als sein Feind erzielen oder alle feindlichen Kampfgruppen eliminieren.
+9. Punkte werden vergeben, nachdem alle Kämpfe auf der Karte beendet sind.
+
+[STRATEGY_MAP_TIP.2]
+\t Aufstellung von Truppen auf der Strategiekarte
+1. Standardmäßig beginnen alle Spielertruppen in der Pufferzone (oder Heimatfront). Von dort aus können sie in jedem Startgebiet auf der taktischen Karte eingesetzt werden.
+2. In einem Gebiet kann sich immer nur eine Spieler- oder feindliche Kampfgruppe befinden.
+3. Ein Gebiet kann der Streitmacht, die dieses Gebiet gewonnen hat, einen Bonus bieten, darunter zusätzliche Luft- oder Artillerieunterstützung, Truppen, Treibstoff oder Verstärkungen.
+4. Wenn eine Kampfgruppe von allen befreundeten Gebieten abgeschnitten ist, kann sie ihre Munition nicht auffüllen, auf Reserven zugreifen oder, falls sie auch keine Aktionspunkte mehr hat, das Gebiet verlassen. Die Moral isolierter Einheiten ist ebenfalls reduziert.
+
+[STRATEGY_MAP_TIP.3]
+Eine Kampfgruppe besteht aus einem Truppenkontingent plus einer Reserve. Die Truppen können sich über die taktische Karte bewegen und aus ihren Reserven versorgt werden. Eine Reserve gehört ausschließlich zu ihrer Kampfgruppe und kann nur zum Auffüllen der Truppen dieser Gruppe verwendet werden – es sei denn, diese verbündete Streitmacht ist eingekesselt.
+
+\t Parameter der Kampfgruppe:
+1. Erfahrungsstufe.
+2. Treibstoff. (Treibstoff wird für Bewegung ausgegeben, kann bei Einkesselung nicht aufgefüllt werden und wird ansonsten einmal pro Zug aufgefüllt.)
+3. Munition. (Munition wird während des Kampfes verbraucht und kann bei Einkesselung nicht aufgefüllt werden.)
+4. Unterstützung.
+5. Bewegungsgeschwindigkeit. (Sie hängt von der Anwesenheit von Fahrzeugen, Infanterie und Artillerie ab und sinkt auf 1, wenn ein angrenzendes Gebiet vom Feind besetzt ist.)
+
+\t Bewegung der Kampfgruppe:
+1. Bewegungen werden nacheinander geplant und ausgeführt, immer eine Kampfgruppe nach der anderen. Eine Kampfgruppe kann sich nur einmal pro Zug bewegen. Neu aufgestellte Kampfgruppen können im selben Zug keine Befehle erhalten; sie können nicht im selben Zug aufgestellt und bewegt werden.
+2. Die aktuelle Kampfgruppe muss ihre Bewegung beenden, bevor die nächste sich bewegen kann.
+3. Alle Bewegungen müssen vor Kampfbeginn abgeschlossen sein.
+4. Eine Kampfgruppe kann sich von einem Gebiet in ein anderes bewegen.
+5. Keine zwei Kampfgruppen dürfen dasselbe Gebiet besetzen. Eine Kampfgruppe kann sich nicht durch ein vom Feind besetztes Gebiet bewegen.
+6. Eine Kampfgruppe kann nicht in separate Einheiten aufgeteilt werden. Alle Einheiten in einer Kampfgruppe bewegen sich gemeinsam.
+7. Kampfgruppen, die Verluste erlitten haben, können nicht mit anderen Kampfgruppen zusammengelegt werden.
+8. Bestimmte Geländemerkmale können eine Kampfgruppe an der Bewegung oder Kampfaufnahme hindern.
+9. Der Rückzug ist der normalen Bewegung sehr ähnlich. Hat eine Kampfgruppe jedoch keinen Rückzugsort, wird sie vernichtet.

@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Libérez Roudaki, Ossipovo. Sécurisez la route de Vitebsk.
+[Mission.Description]
+Libérez Roudaki, Ossipovo. Sécurisez la route de Vitebsk.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission1.Objectives]
+Libérez Roudaki.
+[Submission1.Description]
+Libérez Roudaki.
+[Submission1.Success]
+Mission accomplie.
+[Submission1.Failed]
+Mission échouée.
+[Submission2.Objectives]
+Libérez Ossipovo.
+[Submission2.Description]
+Libérez Ossipovo.
+[Submission2.Success]
+Mission accomplie.
+[Submission2.Failed]
+Mission échouée.
+[Submission3.Objectives]
+Établissez une position défensive à Ossipovo, repoussez les contre-attaques ennemies.
+[Submission3.Description]
+Établissez une position défensive à Ossipovo ; préparez-vous à repousser les attaques ennemies.
+[Submission3.Success]
+Mission accomplie.
+[Submission3.Failed]
+Mission échouée.
+[Submission4.Objectives]
+Interceptez et détruisez immédiatement le détachement de QG ennemi qui bat en retraite sur la route vers le nord ! Si le convoi du QG perce l’encerclement, votre mission échouera.
+[Submission4.Description]
+Interceptez et détruisez immédiatement le détachement de QG ennemi qui bat en retraite sur la route vers le nord !
+[Submission4.Success]
+Mission accomplie.
+[Submission4.Failed]
+Mission accomplie.
+[Submission5.Objectives]
+L’ennemi tente de percer vers Roudaki. Interceptez et détruisez le groupe blindé.
+[Submission5.Description]
+L’ennemi tente de percer vers Roudaki. Interceptez et détruisez le groupe blindé.
+[Submission5.Success]
+Mission accomplie.
+[Submission5.Failed]
+Mission échouée.

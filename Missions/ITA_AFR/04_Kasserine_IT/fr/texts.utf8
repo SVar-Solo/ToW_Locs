@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Délogez l’ennemi
+[Submission_1.Description]
+Le passage est contrôlé par l’ennemi, qui a bâti des fortifications autour d’un petit village de montagne. Délogez l’ennemi de ses positions.
+[Submission_01.Success]
+Mission accomplie.
+[Submission_01.Failed]
+Mission échouée.
+[Mission.Objectives]
+Dégagez la route de montagne
+[Mission.Description]
+Votre unité a pour mission de dégager la route de montagne et les zones adjacentes.
+[NewSubmission.Success]
+Mission accomplie.
+[NewSubmission.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Nettoyez la localité
+[Submission_2.Description]
+Notre avance est entravée par les fortifications de flanc des Américains, déployés au carrefour. Nettoyez la localité de la présence ennemie afin de débloquer la route.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.

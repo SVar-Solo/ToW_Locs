@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+Verstärkungen sind eingetroffen.
+[Submission1.Objectives]
+Erobern Sie das Dorf und zerstören Sie die feindlichen Einheiten.
+[Submission1.Description]
+Deutsche Einheiten haben das benachbare Dorf besetzt und scheinen auf Verstärkungen zu warten. Sie sollen einen Angriff auf die Siedlung durchführen bevor weitere Feindeinheiten eintreffen können.
+
+Ihre Befehle lauten:
+-	 Nehmen Sie die Siedlung ein.
+-	 Neutralisieren Sie alle feindlichen Truppen.
+[Submission1.Success]
+Mission erfolgreich erfüllt. Die feindlichen Einheiten wurden aus dem Dorf vertrieben.
+[Submission1.Failed]
+Aufgabe gescheitert.
+[Mission1.Objectives]
+Neutralisieren Sie alle feindlichen Truppen.
+[Mission1.Description]
+Die deutschen Truppen haben Ihren Vormarsch auf Mortain begonnen. Der Feind hat mehrere kleine Siedlungen in dieser Gegend erobert. Aufklärung erwartet, dass der Feind eine Offensive in dieser Richtung plant. Sie müssen ihn aufhalten!
+
+Ihre Befehle lauten:
+	Vertreiben Sie den Feind aus den besetzten Siedlungen.
+[Mission1.Success]
+Mission erfolgreich erfüllt.
+[Mission1.Failed]
+Aufgabe gescheitert.
+[Submission2.Objectives]
+Erobern Sie das Dorf und zerstören Sie die feindlichen Einheiten.
+[Submission2.Description]
+Eine Abteilung feindlicher Truppen hat sich in der kleinen Siedlung eingeigelt. Sie bereiten eine Gegenoffensive in Richtung Mortain vor.
+
+Ihre Befehle lauten:
+	Vertreiben Sie den Feind aus seiner Stellung und nehmen Sie die Siedlung ein.
+[Submission2.Success]
+Mission erfolgreich erfüllt. Die Siedlungen sind unter Ihrer Kontrolle.
+[Submission2.Failed]
+Aufgabe gescheitert. Sie haben schwere Verluste erlitten.
+[Submission3.Objectives]
+Zerschlagen Sie die feindliche Panzergruppe.
+[Submission3.Description]
+Der Feind wurde durch eine kleine gepanzerte Streitmacht verstärkt.
+
+Ihre Befehle lauten:
+-	 Greifen und zerstören Sie alle feindlichen Panzereinheiten.
+[Submission3.Success]
+Mission erfolgreich erfüllt.
+[Submission3.Failed]
+Aufgabe gescheitert. Sie haben schwere Verluste erlitten.

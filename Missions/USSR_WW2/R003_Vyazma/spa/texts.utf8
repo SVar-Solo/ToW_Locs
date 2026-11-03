@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Detenga a las tropas fascistas que atacan desde el este.
+[Mission1.Description]
+Las tropas alemanas han lanzado un ataque en esta parte de la línea del frente en la dirección de Viaz’ma. Intentan atravesar nuestras defensas y acercarse a Moscú. Tenemos que detener este ataque enemigo para ganar tiempo para reunir las reservas.
+
+Sus órdenes:
+- 	Detenga el ataque enemigo proveniente desde el este.
+[Mission1.Success]
+¡La acometida enemiga ha sido detenida! Nos ha ayudado a conseguir otra plaza fuerte en la que podremos colocar miles de nuevos abrojos antitanque, construir decenas de aviones y tanques y entrenar a cientos de reclutas. ¡Los fascistas no tomarán Moscú!
+[Mission1.Failed]
+El enemigo ha abierto una brecha en nuestras defensas y se dirige hacia Moscú. Has perdido inútilmente a decenas de soldados que estaban a tus órdenes. Has demostrado no ser digno de tus galones.
+[Mission2.Objectives]
+Detenga el ataque alemán desde el norte.
+[Mission2.Description]
+Muchas fuerzas enemigas avanzan desde el norte. El ataque enemigo desde el este ha debilitado nuestras defensas. Reúna todas las fuerzas disponibles y detenga el avance de los agresores fascistas hasta que lleguen reservas. ¡El enemigo no debe abrir brecha! ¡Moscú no puede caer!
+
+Sus órdenes:
+-	 Detenga el ataque alemán desde el norte.
+[Mission2.Success]
+¡Ha logrado detener el ataque del enemigo con un esfuerzo sobrehumano!
+[Mission2.Failed]
+¡El adversario ha roto nuestras defensas!
+[Mission3.Objectives]
+Utilice todas las fuerzas disponibles para efectuar un contraataque.
+[Mission3.Description]
+Las tropas alemanas no han conseguido atravesar nuestras defensas, situadas alrededor del pueblo. Gracias al tiempo ganado, varias unidades de reserva han llegado para apoyarle. Contraataque con esas nuevas fuerzas y provoque el máximo de bajas que pueda a los fascistas.
+
+Sus órdenes:
+- 	Contraataque y aleje a las tropas enemigas de la línea del frente.
+[Mission3.Success]
+¡Contraataque conseguido! Ha causado un daño grave a los fascistas.
+[Mission3.Failed]
+No ha cumplido las órdenes. Su contraataque solo ha conseguido que más tropas valientes mueran a sus órdenes.
+[Submission1.Objectives]
+Mantenga las defensas en la zona especificada.
+[Submission1.Description]
+Las tropas alemanas avanzan hacia Moscú. La capital está en peligro, y actualmente no hay otro lugar más importante que el suyo para la salvación de la Madre Patria. Muchos de nuestros ejércitos han sido envueltos cerca de Viaz’ma, bloqueando los efectivos de veintiocho divisiones fascistas. Numerosas fuerzas enemigas se dirigen a Viaz’ma. Intentan envolver o rodear nuestras tropas y continuar su avance hacia Moscú.
+
+Sus órdenes:
+- 	Mantenga la defensa alrededor del pueblo.
+- 	Evite el paso de las tropas alemanas hacia Moscú.
+[Submission1.Success]
+¡La orden se ha llevado a cabo! ¡Ha frenado el avance de las tropas alemanas hacia Moscú!
+[Submission1.Failed]
+¡La orden no se ha llevado a cabo! Las tropas fascistas han roto sus defensas y prosiguen su avance hacia Moscú.
+[StringTable.Reserv]
+Han llegado refuerzos.

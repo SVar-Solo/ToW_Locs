@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Capture e mantenha a aldeia de Otto.
+[Mission.Description]
+De acordo com o reconhecimento de que dispomos, os britânicos ocupam a aldeia à frente apenas com uma pequena força. Embora suas posições provavelmente estejam bem fortificadas, esta é uma rara oportunidade de expulsá-los. Sob seu comando estão forças do 902º Regimento Panzergrenadier e algum apoio blindado.
+ 
+Suas ordens:
+- Ataque as forças britânicas que ocupam a aldeia de Otto e expulse-as.
+[Mission.Success]
+Bom trabalho, Comandante! As defesas inimigas foram rompidas.
+[Mission.Failed]
+Missão fracassada! 
+[Submission_1.Objectives]
+Ataque as posições inimigas na aldeia de Otto.
+[Submission_1.Description]
+A aldeia de Otto fica a sudeste de suas posições iniciais. Aparentemente nossa avaliação anterior do reconhecimento estava um tanto equivocada e a aldeia está mais bem ocupada e mais fortificada do que o previsto. Coordene seus ataques com sabedoria, Comandante, e tome aquela cidade!
+ 
+Suas ordens:
+- Capture Otto.
+[Submission_1.Success]
+Bom trabalho, Comandante! A aldeia foi capturada.
+[Submission_1.Failed]
+Missão fracassada!
+[Submission_2.Objectives]
+Organize suas tropas para estabelecer uma defesa adequada contra qualquer contra-ataque inimigo. 
+[Submission_2.Description]
+Tendo perdido a aldeia, o inimigo certamente contra-atacará para recuperar esse prêmio.
+ 
+Suas ordens:
+- Repila todos os ataques.
+[Submission_2.Success]
+Bom trabalho, Comandante! Os ataques inimigos foram repelidos.
+[Submission_2.Failed]
+Missão fracassada! Suas forças foram postas em debandada.

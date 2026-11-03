@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Destrua a defesa inimiga e capture a aldeia.
+[Mission.Description]
+O inimigo transformou a aldeia à frente num local estratégico fundamental, cuja captura o QG exigiu. O terreno nesta área tem uma grande colina com vista para a cidade, o que dificulta a observação a longa distância. Nossos elementos de reconhecimento informam que o inimigo está bem fortificado e apoiado por artilharia autopropulsada e canhões antitanque. 
+ 
+Suas ordens:
+- Destrua as defesas inimigas.
+- Capture a aldeia.
+[Mission.Success]
+Bom trabalho, Comandante!
+[Mission.Failed]
+Missão fracassada! Suas tropas foram derrotadas.
+[Submission_1.Objectives]
+Capture a posição inimiga.
+[Submission_1.Description]
+O terreno acidentado forçará combates a menos de 500 metros, mas a aldeia inimiga à frente deve ser tomada.
+ 
+Suas ordens:
+- Por todos os meios, expulse o inimigo do campo e ocupe suas posições!
+[Submission_1.Success]
+Bom trabalho, Comandante! Suas tropas são vitoriosas.
+[Submission_1.Failed]
+Missão fracassada! Você fracassou.

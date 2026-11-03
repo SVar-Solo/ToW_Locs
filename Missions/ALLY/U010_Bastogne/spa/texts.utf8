@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Libere la ciudad de Houffalize y expulse al enemigo de los altos.
+[Mission.Description]
+El cielo se ha despejado después de semanas de nieve y tiempo riguroso, y la fuerza aérea ya puede por fin ofrecernos apoyo sobre las Ardenas. Los tanques de Patton han llegado hasta la ciudad de Bastoña y han relevado a las tropas que habían resistido con tanto tesón. Asegurada Bastoña, hay que obligar a los alemanes a replegarse y acabar la batalla de las Ardenas.
+
+Sus órdenes son:
+-	Ataque al enemigo en Houffalize y dispérselo.
+-	Prosiga su avance hacia los altos y aplaste las defensas enemigas.
+[Mission.Success]
+Ha ganado y ha echado a los alemanes.
+[Mission.Failed]
+¡Ha perdido la batalla y ha regalado al enemigo una victoria importante!
+[Submission_1.Objectives]
+Tome la ciudad de Houffalize.
+[Submission_1.Description]
+Tras los ataques por sorpresa de los alemanes al principio de la batalla de las Ardenas, las fuerzas americanas se atrincheraron en la ciudad de Bastoña y sus inmediaciones, que era una posición clave por estar situada en el cruce de siete carreteras diferentes. Elementos de la 101a. Aerotransportada y de la 10a. División Acorazada resistieron firmemente ataque tras ataque contra unas fuerzas muy superiores y con un tiempo muy adverso. Cuando el cielo se despejó por fin, efectivos avanzados de las fuerzas de relevo de Patton llegaron a la ciudad y lanzaron contraataques para alejar a los alemanes de las inmediaciones.
+
+Sus órdenes:
+-	Libere la ciudad de Houffalize.
+[Submission_1.Success]
+¡La ciudad es nuestra!
+[Submission_1.Failed]
+Ha perdido. Ha sido incapaz de tomar la ciudad.
+[Submission_2.Objectives]
+Aproveche las victorias logradas hasta el momento y ocupe los altos al este de Houffalize.
+[Submission_2.Description]
+Al este de la ciudad hay muchas montañas y cadenas de gran interés estratégico. Hace cuatro días, los alemanes ocuparon esos altos y la ciudad de Houffalize y ahora utilizan nuestras fortificaciones para defenderse.
+
+Sus órdenes:
+-	Destruya las defensas enemigas en los altos.
+[Submission_2.Success]
+¡Las montañas vuelven a ser nuestras!
+[Submission_2.Failed]
+Ha perdido. Ha sido incapaz de asegurar las importantes montañas que rodean Houffalize.
+[StringTable.reserv]
+Han llegado refuerzos para ayudarle.

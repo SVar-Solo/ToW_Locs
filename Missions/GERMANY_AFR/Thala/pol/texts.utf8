@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Wyeliminuj wroga
+[Mission.Description]
+Wyeliminuj wroga w mieście Thala.
+[Mission.Success]
+Obrona wroga w Thala została całkowicie wyeliminowana.
+[Mission.Failed]
+Misja nieudana!
+[Submission_1.Objectives]
+Przeprowadź rozpoznanie
+[Submission_1.Description]
+Przeprowadź rozpoznanie, aby znaleźć pozycje wroga. Koryguj uderzenia naziemne naszego lotnictwa szturmowego.
+[Submission_1.Success]
+Stanowiska wrogiej artylerii zostały zlokalizowane. Dokładne współrzędne przekazano lotnictwu.
+[Submission_1.Failed]
+Misja nieudana!
+[Submission_2.Objectives]
+Zniszcz wrogie czołgi
+[Submission_2.Description]
+Zauważono brytyjskie czołgi. Mamy rozkaz podjąć walkę i zniszczyć wrogie czołgi.
+[Submission_2.Success]
+Siły wrogich czołgów zostały wyeliminowane.
+[Submission_2.Failed]
+Misja nieudana!
+[StringTable.income]
+Otrzymaliśmy dodatkowe wojska do kontynuowania ofensywy.
+[Submission_3.Objectives]
+Wyeliminuj obronę wroga na wzniesieniach
+[Submission_3.Description]
+Wróg zorganizował obronę na wzniesieniach za Thala. Według naszego wywiadu Brytyjczycy mają wystarczająco dużo broni przeciwpancernej. Wyeliminuj obronę wroga na wzniesieniach.
+[Submission_3.Success]
+Obrona wroga została wyeliminowana.
+[Submission_3.Failed]
+Misja nieudana!

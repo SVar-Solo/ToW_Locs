@@ -1,0 +1,55 @@
+﻿[Mission.Objectives]
+Wyprzeć polskie oddziały z pozycji obronnych.
+[Mission.Description]
+Spodziewamy się, że liczniejsze siły naszych armii umożliwią nam szybkie zdobycie Polski. Jednak polskie wojska stawiają opór, dochodzi do zaciekłych starć. Musimy natychmiast rozpocząć natarcie siłami armii 3. i 4. z grupy Armii Północ i zadać polskiej obronie miażdżący cios w rejonie rzeki Mokrej. Twoje zadanie to jak najszybsze pokonanie Polaków. Na prawym skrzydle polskich wojsk znajduje się wieś. Uważaj, może tam być artyleria. Masz piechotę, czołgi i wszystko, czego potrzebujesz. Do ataku, za Führera!       
+Twoje rozkazy:
+-	Wyprzeć polskie oddziały z pozycji obronnych.
+[Mission.Success]
+Polska obrona została rozbita. Wkrótce cały kraj znajdzie się w naszej władzy! 
+[Mission.Failed]
+Zadziwiające, ale twoje wojska zostały pokonane! Jak to się Polakom udało? Nie jesteś godny prowadzić oddziały do boju! 
+[ArtSupport.Objectives]
+Ostrzelać pozycje nieprzyjaciela. 
+[ArtSupport.Description]
+Zanim rozpoczniesz natarcie, ostrzelaj artylerią obronne pozycje wojsk polskich.
+Przygotowanie artyleryjskie pomoże ci szybciej przebić się przez pierwszą linię nieprzyjacielskiej obrony.
+Twoje rozkazy:
+-	Ostrzelać pozycje nieprzyjaciela.
+[ArtSupport.Success]
+Zadanie wykonane. Wróg został ostrzelany!
+[ArtSupport.Failed]
+Ostrzał artyleryjski nie wyrządził polskiej obronie wystarczających szkód.
+[StringTable.Subtitle_01]
+Polska. Wrzesień 1939.
+[Submission1_1.Objectives]
+Uderzyć na prawe skrzydło polskiej obrony.
+[Submission1_1.Description]
+Polskie wojska zajęły dogodne pozycje obronne i wciąż odpierają ataki 3. i 4. armii niemieckiej z grupy Armii Północ. 
+Twoje rozkazy:
+-	Wykorzystaj rezerwy do uderzenia na prawe skrzydło linii obronnych nieprzyjaciela.
+[Submission1_1.Success]
+Zadanie zostało wykonane. Polacy wycofują się! 
+[Submission1_1.Failed]
+Zadanie nie zostało wykonane. Bezproduktywnie straciłeś nasze rezerwy.
+[Submission2.Objectives]
+Zaatakuj pancerne zgrupowanie wojsk polskich.
+[Submission2.Description]
+Przeciwnik usiłuje zadać nam potężny cios z pomocą zgrupowania pancernego. Musisz zaatakować polskie czołgi, aby zapobiec okrążeniu. 
+Twoje rozkazy:
+-	Zaatakować polskie czołgi.
+[Submission2.Success]
+Zadanie wykonane. Polskie zgrupowanie pancerne zostało rozbite. 
+[Submission2.Failed]
+Nie wykonałeś rozkazu. 3. i 4. armia niemiecka mogą się znaleźć w okrążeniu.
+[Submission1.Objectives]
+Uderzyć na prawe skrzydło drugiej linii obrony nieprzyjaciela. 
+[Submission1.Description]
+Polskie wojska wciąż stawiają zaciekły opór, musimy przełamać ich obronę. Uderz ponownie na ich prawą flankę.
+Twoje rozkazy:
+-	Wykorzystując rezerwy, uderz na prawe skrzydło drugiej linii nieprzyjacielskiej obrony.
+[Submission1.Success]
+Zadanie wykonane. Polacy uciekają!
+[Submission1.Failed]
+Nie wykonałeś rozkazu!
+[StringTable.reserv]
+Przybyły posiłki.

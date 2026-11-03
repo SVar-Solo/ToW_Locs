@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Mantenha a linha na margem leste do Pena. Impeça o inimigo de criar uma cabeça de ponte na margem oeste.
+[Mission.Description]
+Em conjunto com os tanques da 200ª Brigada de Tanques, garanta o ponto forte na parte oeste da aldeia de Verkhopenye. As unidades que recuam para a área de defesa serão reunidas, reabastecidas e posicionadas nos setores correspondentes. Destrua os grupos inimigos que avançam por meio de contra-ataques, protegendo as posições ocupadas.
+[Mission.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Mission.Failed]
+O inimigo atravessou o rio Pena, nossas tropas estão recuando.
+[Submission1.Objectives]
+Repila todos os ataques inimigos. Impeça o inimigo de romper até as pontes sobre o Pena.
+[Submission1.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Submission1.Failed]
+As forças inimigas superiores continuam o avanço.
+[Submission2.Objectives]
+O inimigo rompeu até as posições perto da travessia; há risco de ele estabelecer uma cabeça de ponte na margem oeste. Contra-ataque imediatamente o inimigo e empurre-o para longe do rio.
+[Submission2.Success]
+O contra-ataque se desenvolve bem, o inimigo recua.
+[Submission2.Failed]
+O contra-ataque foi derrotado; há risco de o inimigo criar uma cabeça de ponte.
+[StringTable.Platzdarm]
+Destrua os grupos inimigos que avançam antes que recebam reforços.
+[StringTable.Air!]
+Ataque aéreo! Todos, abriguem-se!
+
+[StringTable.Tanks]
+Tanques do 203º Regimento Independente de Tanques Pesados
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

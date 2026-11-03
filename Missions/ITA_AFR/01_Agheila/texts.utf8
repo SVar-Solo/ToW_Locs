@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Уничтожить движущуюся к Эль-Агейле вражескую колонну.
+[Submission_1.Description]
+[Submission_01.Success]
+Задание выполнено.
+[Submission_01.Failed]
+Задание провалено.
+[StringTable.St1]
+Column1 SWITCH REACT
+[StringTable.St2]
+Column1 ATTACK
+[Mission.Objectives]
+Занять оборону, удержать укреплённый пункт и полностью блокировать дорогу на Эль-Агейлу.
+[Mission.Description]
+[NewSubmission.Success]
+Миссия выполнена.
+[NewSubmission.Failed]
+Миссия провалена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Миссия провалена.
+[Submission_1.Success]
+Колонна уничтожена.
+[Submission_1.Failed]
+Вражеская колонна прорвалась к Эль-Агейле!
+[NewSubmission.Objectives]
+[NewSubmission.Description]

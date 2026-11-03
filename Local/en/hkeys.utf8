@@ -1,0 +1,107 @@
+﻿hkey.lowspeed	Maintain infantry speed
+hkey.mining	Mine
+hkey.mineclearing	Clear mines
+hkey.attack	Attack
+hkey.defend	Defend \ Rotate
+hkey.groundattack	Area fire
+hkey.move	Move to position
+hkey.nextunit	Next unit
+hkey.pause	Pause
+hkey.prevunit	Previous unit
+hkey.retreat	Reverse \ Retreat
+hkey.stop	Abort command
+hkey.storm	Assault \ Move
+hkey.ambush	Ambush
+hkey.sneak	Sneak
+hkey.smokecloudfast	Smoke screen (instant shoot)
+hkey.smokecloud	Smoke screen
+hkey.attachdetach	Attach \ Detach
+hkey.evacuate	Disembark
+hkey.autopickup	Auto pick up
+hkey.addtogroup0	Add to group 10
+hkey.addtogroup1	Add to group 1
+hkey.addtogroup2	Add to group 2
+hkey.addtogroup3	Add to group 3
+hkey.addtogroup4	Add to group 4
+hkey.addtogroup5	Add to group 5
+hkey.addtogroup6	Add to group 6
+hkey.addtogroup7	Add to group 7
+hkey.addtogroup8	Add to group 8
+hkey.addtogroup9	Add to group 9
+hkey.group0	Select group 10
+hkey.group1	Select group 1
+hkey.group2	Select group 2
+hkey.group3	Select group 3
+hkey.group4	Select group 4
+hkey.group5	Select group 5
+hkey.group6	Select group 6
+hkey.group7	Select group 7
+hkey.group8	Select group 8
+hkey.group9	Select group 9
+hkey.remembergroup0	Create group 10
+hkey.remembergroup1	Create group 1
+hkey.remembergroup2	Create group 2
+hkey.remembergroup3	Create group 3
+hkey.remembergroup4	Create group 4
+hkey.remembergroup5	Create group 5
+hkey.remembergroup6	Create group 6
+hkey.remembergroup7	Create group 7
+hkey.remembergroup8	Create group 8
+hkey.remembergroup9	Create group 9
+hkey.inventory	Inventory
+hkey.vehicleCharacteristics	Vehicle characteristics
+hkey.exit	Exit
+hkey.load	Quick Load
+hkey.save	Quick Save
+hkey.unitinfoicon	Turn icons on/off
+hkey.messagelog	Messages log
+hkey.view_sectors	Turn attack sectors on/off
+hkey.viewtargetarrow	Turn target icons on/off
+hkey.grab_screen	Take a screenshot
+hkey.multiplayerchattalk	Send message to allies
+hkey.multiplayerchatyell	Send message to all
+hkey.cameratopdownview	Tactical map
+hkey.hide_panels	Show / Hide GUI
+hkey.nextmusictrack	Next music track
+hkey.camerafreelock	Free look
+hkey.binocularview	Binoculars view
+hkey.cameramoveforward	Camera move forward
+hkey.cameramovebackward	Camera move backward
+hkey.cameramoveleft	Camera move left
+hkey.cameramoveright	Camera move right
+hkey.cameramoveup	Camera move up
+hkey.cameramovedown	Camera move down
+hkey.camerarotateup	Camera rotate up
+hkey.camerarotatedown	Camera rotate down
+hkey.camerarotateleft	Camera rotate left
+hkey.camerarotateright	Camera rotate right
+hkey.cameramovetomsg	Move camera to signal source
+hkey.camerasetdefault	Reset camera view
+hkey.bindcamera	First-person view
+hkey.linkcamera	Link camera to unit
+hkey.time2xspeed	Adjust Game Speed
+hkey.actionmode	Action mode
+hkey.setbodymodelay	Crawl
+hkey.setbodymodeknee	Dash
+hkey.setbodymodestay	Double time
+hkey.firemode	Fire mode
+hkey.attackup	Attack top
+hkey.attackmedium	Attack center
+hkey.attackdown	Attack base
+hkey.attackbarrage	Defensive ground fire
+hkey.formation	Formation
+hkey.SwitchDamageMessagesMode	Cycle damage info mode
+hkey.MultiplayerExchangePoints	Transfer points
+hkey.selectweaponandammoreset	Clear weapon selection
+hkey.selectweaponandammo1	Select primary weapon
+hkey.selectweaponandammo2	Select Frag grenades
+hkey.selectweaponandammo3	Select Anti-Tank grenades
+hkey.selectweaponandammo4	Select main gun
+hkey.selectweaponandammo5	Select AP ammunition
+hkey.selectweaponandammo6	Select HE ammunition
+hkey.selectweaponandammo7	Select machinegun
+hkey.selectweaponandammo8	Select weapon 8
+hkey.selectweaponandammo9	Select weapon 9
+hkey.repair	Repair
+hkey.cameratypeswitch	Switch camera mode (free/centered)
+hkey.guiactivate	Escape

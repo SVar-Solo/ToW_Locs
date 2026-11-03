@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Defienda el área especificada.
+[Mission.Description]
+Sus tropas, parte de la División Panzer Lehr de élite, están situadas al noreste de Villers-Bocage. La mañana del 13 de julio de 1944, la 7ª. Brigada Acorazada inglesa ha iniciado un asalto con el objeto de tomar Villers-Bocage y rebasar sus tropas. Los británicos esperan que una serie de ataques de tanteo contra su flanco izquierdo comprometan a las reservas de la división y aseguren la victoria de éstos. Debe impedir que los británicos profundicen demasiado en sus defensas ya que, de lo contrario, correría el riesgo de ser rodeado por completo y con ello la destrucción final de la división.
+ 
+Sus órdenes:
+- Evite que el enemigo penetre en su zona defensiva de control.
+[Mission.Success]
+¡Bien hecho, comandante!
+[Mission.Failed]
+¡Misión fallida! ¡Sus tropas han sido destruidas!
+[Submission_1.Objectives]
+Rechace los ataques enemigos.
+[Submission_1.Description]
+El enemigo domina el cielo y es capaz de atacar desde varias direcciones distintas. Las fuerzas con las que usted cuenta están muy diseminadas y tienen que defender una zona muy amplia.
+ 
+Sus órdenes:
+- Establezca las suficientes defensas para cubrir todas las vías de ataque.
+- Reduzca las bajas todo lo que pueda.
+- Rechace los ataques enemigos. 
+[Submission_1.Success]
+¡Bien hecho, comandante! Los ataques enemigos han sido rechazados.
+[Submission_1.Failed]
+¡Misión fallida! Sus tropas han sido derrotadas.
+[Submission_2.Objectives]
+Contraataque al enemigo en retirada.
+[Submission_2.Description]
+El enemigo ha sufrido importantes bajas y se está retirando. Utilice sus reservas para perseguirlo y destruirlo.
+ 
+Sus órdenes:
+- Monte un contraataque contra las fuerzas enemigas en retirada.
+[Submission_2.Success]
+¡Bien hecho, comandante! Las fuerzas enemigas han sido derrotadas.
+[Submission_2.Failed]
+¡Misión fallida! Le han derrotado.
+[StringTable.tanks_reserv]
+Ha recibido unidades blindadas adicionales de la división de reserva.

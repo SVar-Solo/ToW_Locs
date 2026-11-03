@@ -1,0 +1,64 @@
+﻿[MainTask.Objectives]
+Conquistate la base di rifornimento e respingete tutti i possibili contrattacchi nemici.
+[MainTask.Description]
+[MainTask.Success]
+Radiogramma di Rommel: Al comandante italiano. L'attacco nemico è respinto, le nostre forze sono già nelle immediate vicinanze della stazione. Congratulazioni per la vittoria!
+[MainTask.Failed]
+Radiogramma di Rommel al quartier generale: Generale von Arnim! Questi italiani hanno subito perdite intollerabili e si sono dimostrati incapaci di compiere l'obiettivo. Ah, del resto non ci si può aspettare molto da loro!
+[StringTable.VillageCaptured]
+Radiogramma di Rommel: Al comandante italiano. Le mie congratulazioni per la conquista della stazione: le truppe inglesi superstiti depongono le armi e implorano pietà! Bello, vero? Tuttavia le mie truppe stanno ancora sfondando l'ostinata resistenza del nemico. La ricognizione aerea segnala che un gruppo da battaglia nemico, organizzato in fretta, si sta avvicinando alle vostre posizioni dal punto 2 nel tentativo di contrattaccare. Raggiungerà la stazione in 10 minuti. Sfruttate il tempo, i cannoni da campagna e le mitragliatrici catturati per organizzare la difesa e respingere l'attacco! Avrete anche una formazione dei nostri caccia per contrastare eventuali attacchi nemici.
+[StringTable.ReadyForAssault]
+Radiogramma di Rommel: Al comandante italiano. Avete ridotto al silenzio i cannoni da campagna e le mitragliatrici nemici: ora vi autorizzo ad attaccare il resto del reparto e avrete a disposizione anche i bombardieri.
+[StringTable.IntroSubtitle1]
+Un capitano tedesco si rivolge ai soldati italiani:
+[StringTable.IntroSubtitle2]
+Ho sentito parlare molto del coraggio e delle capacità...
+[StringTable.IntroSubtitle3]
+degli Alpini italiani, e spero che non siano solo chiacchiere!
+[StringTable.IntroSubtitle4]
+Signore Tenente vi spiegherà i dettagli dell'obiettivo che abbiamo ricevuto, [StringTable.IntroSubtitle5]
+io posso solo aggiungere che questo è...
+[StringTable.IntroSubtitle6]
+uno degli obiettivi più importanti...
+[StringTable.IntroSubtitle7]
+che abbiamo mai avuto la possibilità di compiere.
+[StringTable.IntroSubtitle8]
+Quindi dimostratevi degni della gloria dell'Antica Roma!
+[StringTable.WinSubtitle1]
+Voci di soldati italiani: Giuseppe, hai la bandiera con te?
+[StringTable.WinSubtitle1a]
+L'ha... dimenticata! Questo scemo di Bologna fa sempre le cose a modo suo!
+[StringTable.WinSubtitle2]
+L'ho trovata!... Passamela, sarebbe un bel guaio se i tedeschi...
+[StringTable.WinSubtitle3]
+ci scambiassero per inglesi. Abbiamo già i loro cannoni!
+[StringTable.WinSubtitle4]
+Il carro in testa, un Panzer IV, è tedesco!
+[StringTable.WinSubtitle5]
+Non sparate! Si stanno avvicinando... e non aprite il fuoco!
+[StringTable.WinSubtitle6]
+Ci hanno riconosciuti, ora va tutto bene!
+[StringTable.WinSubtitle7]
+Carrista tedesco: Sprechen Sie Deutsch, italienischer Kamerad?...
+[StringTable.WinSubtitle8]
+Gratulieren! Sieg heil!
+[StringTable.FailSubtitle1]
+Ecco che arriva Ziegler.
+[StringTable.FailSubtitle2]
+Kameraden, questi macaroni hanno fallito la missione!
+[StringTable.FailSubtitle3]
+Calma, Ziegler! Sai qual è la differenza tra i carri italiani e quelli tedeschi?
+[StringTable.FailSubtitle4a]
+No, non lo so.
+[StringTable.FailSubtitle4]
+I nostri carri hanno 3 marce avanti e 1 retromarcia, e quelli italiani è tutto al contrario!
+[StringTable.FailSubtitle5]
+Dietrich, riderei con te, ma ora la nostra situazione si può descrivere con sole due parole:
+[StringTable.FailSubtitle6]
+ALLES KAPUTT!
+[StringTable.WinSubtitle6a]
+Sia lodato Dio, siamo fortunati!
+[StringTable.WinSubtitle6b]
+Ehi, Giuseppe, faresti meglio a tenere la bocca chiusa e a badare alla bandiera!
+[StringTable.EnemyIsHere]
+Radiogramma di Rommel: Al comandante italiano. La ricognizione aerea segnala che il nemico è nelle immediate vicinanze della stazione. Tenetela a ogni costo! Le mie forze hanno sfondato le difese nemiche e stanno marciando in vostro aiuto!

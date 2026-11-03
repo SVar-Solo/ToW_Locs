@@ -1,0 +1,69 @@
+﻿[StringTable.]
+
+
+[StringTable.ArmyB_WIN]
+L’Alliance n° 2 gagne !
+
+[StringTable.ArmyA_WIN]
+L’Alliance n° 1 gagne !
+
+[StringTable.ArmyA_king_Hill_A]
+L’Alliance n° 1 a capturé le drapeau A !
+
+[StringTable.ArmyA_king_Hill_B]
+L’Alliance n° 1 a capturé le drapeau B !
+
+[StringTable.ArmyA_king_Hill_C]
+L’Alliance n° 1 a capturé le drapeau C !
+
+[StringTable.ArmyA_king_Hill_D]
+L’Alliance n° 1 a capturé le drapeau D !
+
+[StringTable.ArmyA_king_Hill_E]
+L’Alliance n° 1 a capturé le drapeau E !
+
+[StringTable.ArmyB_king_Hill_A]
+L’Alliance n° 2 a capturé le drapeau A !
+
+[StringTable.ArmyB_king_Hill_B]
+L’Alliance n° 2 a capturé le drapeau B !
+
+[StringTable.ArmyB_king_Hill_C]
+L’Alliance n° 2 a capturé le drapeau C !
+
+[StringTable.ArmyB_king_Hill_D]
+L’Alliance n° 2 a capturé le drapeau D !
+
+[StringTable.ArmyB_king_Hill_E]
+L’Alliance n° 2 a capturé le drapeau E !
+
+[StringTable.Hill_A_Lost]
+Le drapeau A a été perdu !
+
+[StringTable.Hill_B_Lost]
+Le drapeau B a été perdu !
+
+[StringTable.Hill_C_Lost]
+Le drapeau C a été perdu !
+
+[StringTable.Hill_D_Lost]
+Le drapeau D a été perdu !
+
+[StringTable.Hill_E_Lost]
+Le drapeau E a été perdu !
+
+[StringTable.ArmyA_capture_ALL_flags]
+L’Alliance n° 1 a capturé tous les drapeaux ! L’Alliance n° 2 a 2 minutes pour reprendre au moins 1 drapeau, faute de quoi elle perdra la mission.
+
+[StringTable.ArmyB_capture_ALL_flags]
+L’Alliance n° 2 a capturé tous les drapeaux ! L’Alliance n° 1 a 2 minutes pour reprendre au moins 1 drapeau, faute de quoi elle perdra la mission.
+
+[StringTable.One_or_more_flags_lost]
+Un ou plusieurs drapeaux ont été perdus !
+
+[StringTable.rus]
+Renforts
+
+[StringTable.ger]
+Renforts
+

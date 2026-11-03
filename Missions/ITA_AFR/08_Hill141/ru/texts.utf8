@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Отразить атаку
+[Submission_1.Description]
+Противник перегруппировывается, подготовьтесь к отражению очередной атаки.
+[Submission_01.Success]
+Задача выполнена.
+[Submission_01.Failed]
+Задача провалена.
+[Mission.Objectives]
+Отбить все атаки
+[Mission.Description]
+Удерживать позиции на высоте. Отбить все вражеские атаки.
+[NewSubmission.Success]
+Задача выполнена.
+[NewSubmission.Failed]
+Задача провалена.
+[Submission_2.Objectives]
+Отразить танковую атаку
+[Submission_2.Description]
+Очередная атака, и, похоже, при поддержке танков.
+[Submission_2.Success]
+Задача выполнена.
+[Submission_2.Failed]
+Задача не выполнена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Задача не выполнена.
+[Submission_1.Success]
+Задача выполнена.
+[Submission_1.Failed]
+Задача не выполнена.

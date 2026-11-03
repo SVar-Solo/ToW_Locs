@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+체르카스코예 남쪽에서 적의 공격을 격퇴하라. 
+[Mission.Description]
+그로스도이칠란트 사단의 전차를 동반한 최대 보병 1개 대대 규모의 병력이 남쪽에서 체르카스코예를 공격해 오고 있다. 제1참호를 사수하는 데 역량을 집중하라. 적이 돌파하면 마을 남서쪽 외곽의 대체 진지로 후퇴하라.
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+아군은 우세한 적의 공격에 밀려 후퇴한다.
+[Submission_1.Objectives]
+증원 부대가 도착할 때까지 적이 체르카스코예 남부로 침투하지 못하게 막아라.
+[Submission_1.Success]
+적의 진격을 저지했다.
+[Submission_1.Failed]
+적이 마을로 돌파했고 아군은 후퇴하고 있다.
+[Submission_2.Objectives]
+체르카스코예 중앙부로 후퇴하라. 포병과 전차 사격으로 주력이 새 방어선으로 철수하는 것을 엄호하라.
+[Submission_2.Success]
+임무 완료. 아군이 새 방어선을 점령했다.
+[Submission_2.Failed]
+부대 통제가 상실되었다. 각 부대가 고립된 집단으로 흩어져 무질서하게 후퇴한다.
+[StringTable.Reinforcement_tanks]
+사단 예비대에서 파견된 전차 집단이 지휘관의 지휘하에 들어왔다.
+[StringTable.Reinforcement_spg]
+자주포 1개 포대가 지휘관의 통제하에 들어왔다.
+
+[StringTable.ChangeArmy]
+좌익과 우익의 전투단이 이제 지휘관의 지휘하에 있다. 
+[StringTable.tanks]
+제245독립전차연대의 전차
+[StringTable.SPG]
+제1440자주포연대의 돌격포
+[StringTable.Infantry]
+보병
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

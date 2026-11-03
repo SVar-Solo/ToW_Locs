@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Impedite lo sfondamento delle truppe tedesche
+[Mission.Description]
+Tenente colonnello Waters! Le truppe tedesche non devono sfondare verso ovest.
+[Mission.Success]
+L’offensiva tedesca è stata fermata.
+[Mission.Failed]
+Abbiamo fallito!
+[Submission1.Objectives]
+Tenere la linea
+[Submission1.Description]
+Tenere la linea a Sidi Bou Zid.
+[Submission1.Success]
+Il nemico è stato sconfitto e si ritira!
+[Submission1.Failed]
+Il nemico ha travolto le difese! Ritirata!
+[Submission2.Objectives]
+Resistete
+[Submission2.Description]
+Tenere la posizione fino all’arrivo dei rinforzi.
+[Submission2.Success]
+Sono arrivati i rinforzi!
+[Submission2.Failed]
+[Submission3.Objectives]
+Inviate subito i carri armati sul fianco sinistro per chiudere la breccia!
+[Submission3.Description]
+[Submission3.Success]
+La breccia nemica è stata chiusa!
+[Submission3.Failed]
+[StringTable.Army3]
+Il nemico sta sfondando sul fianco sinistro! Inviate subito i carri armati a chiudere la breccia!
+[StringTable.Enemy]
+Tedeschi! Agite subito!
+[StringTable.Avia]
+Allarme aereo!
+[StringTable.Obhod]
+Il nemico ci aggira da nord!
+[Submission4.Objectives]
+Attaccare le truppe nemiche
+[Submission4.Description]
+Attaccare le truppe nemiche che ci aggirano.
+[Submission4.Success]
+Il nemico si ritira!
+[Submission4.Failed]
+[StringTable.tank]
+Carri armati
+[StringTable.human]
+Fanteria

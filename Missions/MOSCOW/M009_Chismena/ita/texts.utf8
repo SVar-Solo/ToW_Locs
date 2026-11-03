@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Distruggi le difese del nemico.
+[Mission.Description]
+Le truppe tedesche hanno assunto una nuova linea difensiva. Hanno concentrato forze significative vicino a Chismena.
+
+I tuoi ordini sono:
+- Distruggi le difese del nemico nella zona di Chismena.
+[Mission.Success]
+Gli ordini sono stati eseguiti! Hai distrutto le difese del nemico.
+[Mission.Failed]
+Non sei riuscito a eseguire i tuoi ordini!
+[Submission_1.Objectives]
+Prendi le alture.
+[Submission_1.Description]
+Le forze del nemico sono concentrate sulle alture a nord dell’insediamento. I difensori hanno a disposizione cannoni anticarro e semoventi di artiglieria. 
+
+I tuoi ordini sono:
+- Allontana il nemico dalle alture.
+[Submission_1.Success]
+Gli ordini sono stati eseguiti! Hai scacciato il nemico dalle alture.
+[Submission_1.Failed]
+Il nemico ha respinto il tuo attacco. Non sei riuscito a eseguire i tuoi ordini!

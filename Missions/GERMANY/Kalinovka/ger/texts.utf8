@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Besetzen und halten Sie den Hügel 232.8.
+[Mission.Description]
+Der Gefechtsverband wird zusammen mit Panzern, motorisierter Infanterie und Artillerie in Richtung des Hügels 232.8 vorrücken. Besiegen Sie den Feind am südöstlichen Hang des Hügels und stoßen Sie weiter in Richtung des nordwestlichen Hangs vor. Halten Sie den Hügel und schützen Sie die Hauptkräfte der Division vor Flankenangriffen durch feindliche Panzer und Infanterie.
+[Submission1.Objectives]
+Erobern Sie die feindlichen Stellungen auf dem Hügel 232.8.
+[Submission2.Objectives]
+Wehren Sie die feindlichen Panzer ab.
+[Mission.Success]
+Mission abgeschlossen.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark!
+[Submission1.Success]
+Mission abgeschlossen, Hügel 232.8 wurde eingenommen.
+[Submission1.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[Submission2.Success]
+Gegenangriffe des Feindes wurden erfolgreich zurückgeschlagen.
+[Submission2.Failed]
+Unsere Truppen mussten sich unter feindlichem Feuer zurückziehen!
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

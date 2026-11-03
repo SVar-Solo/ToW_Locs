@@ -1,0 +1,110 @@
+﻿[Submission_1.Objectives]
+Déterminer la visibilité directe et indirecte.
+
+[Submission_1.Description]
+Vous avez deux soldats à votre disposition, placés à une certaine distance l’un de l’autre. Du côté ennemi, un char Pz.IV F2 sort de la localité. Pendant son déplacement, divers obstacles (maisons, arbres et autres objets) bloquent la visibilité de ce char pour vos unités.
+
+[Submission_1.Success]
+Tâche accomplie !
+
+[Submission_1.Failed]
+Tâche échouée !
+
+[StringTable.Direct_undirect_vis]
+L’un des soldats voit le char ennemi en ligne de vue directe ; quand ce soldat est sélectionné, l’icône du char devient rouge vif. Le second soldat ne voit pas directement le char, bien que la distance le permette. Cela est possible parce que des objets de la carte obstruent la vue. Dans ce cas, l’icône du char pour ce soldat devient semi-transparente. Cela signifie que le soldat qui a le char en ligne de vue directe le « repère » pour le soldat qui ne le voit pas directement. Lorsque la sélection est retirée aux deux soldats, ou lorsque plusieurs unités sont sélectionnées à la fois, l’icône du char devient rouge vif. Dans cette situation, vos deux unités peuvent tirer sur la cible s’il existe une ligne de tir.
+
+[StringTable.unvis]
+Le char est invisible pour toutes vos unités. Dans cette situation, aucune de vos unités ne peut tirer directement sur la cible ennemie. Pendant un certain temps, vos unités se « souviendront » de la position de l’ennemi ; dans ce cas, l’icône au-dessus de l’ennemi changera d’aspect.
+L’herbe, les buissons et les arbres, y compris tombés, constituent aussi des obstacles à la visibilité. Cela peut être exploité tactiquement, mais faites attention à la taille des cimes et à la hauteur de l’herbe pour déterminer si votre unité sera dissimulée derrière. Si vous ouvrez le feu, le camouflage sera levé pendant un certain temps.
+Outre la visibilité directe, à une certaine distance, l’infanterie peut déterminer la position approximative de l’ennemi au bruit si celui-ci tire, se déplace ou fait pivoter sa tourelle.
+
+[StringTable.Direct_vis]
+Pour toutes vos unités, le char est en ligne de vue directe. Essayez de sélectionner toutes vos unités une par une. L’icône du char est toujours rouge vif. Dans cette situation, s’il existe une ligne de tir, n’importe laquelle de vos unités peut tirer sur la cible.
+Avec la « ligne de vue » activée dans les paramètres, vous pouvez vérifier la ligne de tir à l’aide de l’une des commandes – « attaque » {hkey:attack}, « assaut » {hkey:storm} ou « tir de zone » {hkey:groundattack}. Après avoir activé la commande et avant de donner l’ordre, une flèche s’affichera de votre unité jusqu’au pointeur de la souris. La couleur rouge de la flèche indique une section sans obstacle sur la ligne de tir ; la couleur noire – après un obstacle. Pour les véhicules, une infobulle apparaîtra près du pointeur de la souris pour expliquer pourquoi il n’y a pas de ligne de tir. Si vous déplacez le curseur en dehors des secteurs de vision de l’unité, une partie de la flèche sera colorée en bleu.
+
+[StringTable.ENTER]
+Le jeu vous permet de fixer la caméra sur votre unité. La caméra peut pivoter librement. Vous pouvez aussi sélectionner n’importe quelle autre unité (groupe d’unités) et la contrôler. Quand vous appuyez sur {hkey:bindcamera}, la caméra se déplace et se fixe sur l’unité ; quand vous appuyez sur {hkey:linkcamera}, la caméra se fixe sur l’unité en conservant la distance actuelle. Cette fonction marche pour toutes les unités situées dans la zone de jeu jouable. En dehors de la zone de jeu, vous ne pouvez pas fixer la caméra sur une unité.
+
+[Mission.Objectives]
+Particularités de la visualisation de la visibilité dans le jeu.
+
+[Mission.Description]
+À l’aide de vos deux soldats et d’un char ennemi en mouvement, différentes variantes d’affichage d’une unité ennemie sous diverses conditions de visibilité sont simulées. En particulier :
+- les deux unités du joueur voient directement le char ennemi ;
+- l’une des unités du joueur voit le char ennemi en ligne de vue directe, tandis que l’autre ne voit pas l’ennemi « directement » ;
+- aucun des deux soldats ne voit le char ennemi.
+
+							   
+									  
+										  
+[Mission.Success]
+Tâche accomplie !
+
+[Mission.Failed]
+Tâche échouée !
+
+[Submission_2.Objectives]
+Fixer la caméra directement sur une unité.
+
+[Submission_2.Description]
+Il y a deux unités amies et deux unités ennemies sur la carte. L’une des unités ennemies se trouve en dehors de la zone de jeu. Le jeu vous permet de fixer la caméra sur n’importe quelle unité, y compris ennemie, située à l’intérieur de la zone de jeu. Vous ne pouvez pas fixer la caméra sur des unités situées en dehors de la zone de jeu.
+
+[Submission_2.Success]
+Tâche accomplie !
+
+[Submission_2.Failed]
+Tâche échouée !
+
+[StringTable.Line_of_Fire]
+Un canon a été mis à votre disposition. Dans la plupart des cas, si une unité ennemie est en ligne de vue directe du canon, il a une ligne de tir. Mais il arrive qu’il y ait visibilité directe sans ligne de tir – cela est dû à un obstacle sur la ligne de tir du canon (pli de terrain, clôture, etc.), ou au fait que le canon ne peut pas être pointé sur la cible en raison d’un angle de dépression/d’élévation insuffisant du tube. Si le canon ne voit pas directement l’unité ennemie, mais qu’une unité de votre armée la voit directement, la ligne de tir est le plus souvent absente, mais il existe des situations où le canon ne voit pas directement l’ennemi tout en ayant une ligne de tir. Le plus souvent, cela se produit lorsque l’unité ennemie se trouve à une distance supérieure à la portée de visibilité, ou lorsque l’ennemi est dissimulé par la végétation. Dans ce cas, le canon peut tirer.
+
+[Submission_3.Objectives]
+Détruire le char ennemi.
+
+[Submission_3.Description]
+Vous avez un canon à votre disposition. Détruisez le char ennemi.
+
+[Submission_3.Success]
+Tâche accomplie !
+
+[Submission_3.Failed]
+Tâche échouée !
+
+[StringTable.Howitzer_1]
+Prenez le commandement d’une batterie d’artillerie. Elle peut effectuer des tirs indirects depuis une position défilée si la trajectoire du projectile le permet. La courbure de la trajectoire dépend de la vitesse initiale du projectile. Plus la vitesse est faible, plus il est facile de faire passer le projectile au-dessus des plis de terrain si la distance est courte. Parfois, vous devrez choisir avec soin la bonne position du canon pour qu’il puisse tirer sur la zone voulue.
+
+[StringTable.Howitzer_2]
+Si une seule unité est sélectionnée, lorsque vous passez le curseur de la souris sur l’ennemi, la trajectoire sera calculée et le type d’icône au niveau du curseur indiquera si le tir est possible. Le calcul de la trajectoire tient compte de la vitesse initiale du projectile actuel : sélectionnez donc de force les obus HE en faisant un clic droit sur l’icône d’obus du panneau des armes, car leur vitesse initiale est plus faible. Essayez de neutraliser le matériel léger de l’ennemi avec la commande « Tir de zone » {hkey:groundattack}. Si une seule unité est sélectionnée, après activation de la commande, une ligne avec une flèche apparaîtra pour indiquer s’il y a visibilité directe jusqu’au curseur, et le type d’icône au niveau du curseur indique s’il existe une trajectoire indirecte vers ce point. Vous pouvez indiquer un seul point ou définir une zone de tir en maintenant le bouton droit de la souris.
+
+[Submission_4.Objectives]
+Neutraliser le groupe de matériel léger ennemi.
+
+[Submission_4.Description]
+Vous avez une batterie d’artillerie à votre disposition. Neutralisez le groupe de véhicules ennemis.
+
+[Submission_4.Success]
+Tâche accomplie !
+
+[Submission_4.Failed]
+Tâche échouée !
+
+[StringTable.Tank_Vis_Line_1]
+Prendre le commandement d’un char M3 « Lee ».
+Chaque poste d’équipage d’un véhicule peut être équipé de dispositifs optiques ou de fentes d’observation par lesquels le membre d’équipage regarde tour à tour. Les dispositifs optiques peuvent être mis hors service ; des informations sur leur état s’obtiennent dans une infobulle en survolant avec le curseur de la souris le poste d’un membre d’équipage dans le panneau d’information inférieur de l’interface. Les dispositifs d’observation ont un secteur de vision limité verticalement et horizontalement, et peuvent avoir un grossissement optique, aucun grossissement ou une visibilité réduite. Les membres d’équipage à découvert observent sans dispositifs optiques, comme l’infanterie ordinaire.
+
+[StringTable.Tank_Vis_Line_2]
+Changez la position de votre char et neutralisez le Pz IV ennemi.
+Le tireur dans la tourelle ne peut pas tirer avec le canon de 37 mm faute d’obus, mais il observe à travers ses dispositifs optiques et a repéré un char devant, en partie dissimulé par un pli de terrain. Le canon dans le sponson est capable de tirer, mais n’a pas de ligne de tir.
+Pour vérifier la ligne de tir d’un canon précis du char, sélectionnez le canon en cliquant gauche sur son icône dans le panneau des armes, puis utilisez l’une des commandes (par exemple « attaque » {hkey:attack}, « assaut » {hkey:storm} ou « tir de zone » {hkey:groundattack}) pour vérifier la ligne de tir.
+
+[Submission_5.Objectives]
+Neutraliser le char ennemi.
+
+[Submission_5.Description]
+Vous avez un char M3 « Lee » à votre disposition. Neutralisez le char ennemi.
+
+[Submission_5.Success]
+Tâche accomplie !
+
+[Submission_5.Failed]
+Tâche échouée !

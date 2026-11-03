@@ -1,0 +1,107 @@
+﻿[StringTable.Strongpoint1lost]
+Il caposaldo 1 è perduto!
+[StringTable.Strongpoint2lost]
+Il caposaldo 2 è perduto!
+[StringTable.Strongpoint3lost]
+Il caposaldo 3 è perduto!
+[StringTable.Strongpoint4lost]
+Il caposaldo 4 è perduto!
+[StringTable.Strongpoint5lost]
+Il caposaldo 5 è perduto!
+[StringTable.Strongpoint6lost]
+Il caposaldo 6 è perduto!
+[StringTable.StrongpointsLost]
+Cinque capisaldi sono perduti!
+[StringTable.StuartTankLost]
+Lo Stuart di Alan Mitchell è danneggiato e non potrà respingere gli attacchi nemici!
+[StringTable.StuartCrewLost]
+L’equipaggio dello Stuart è morto, i capisaldi non resisteranno senza il suo sostegno!
+[StringTable.IntroSubtitle1]
+Capitano Whistler: Bene, tutti i villaggi sono presi, ora aspettiamo i crucchi.
+[StringTable.IntroSubtitle2]
+Tenente Parker: Signore, e se ci prendono uno alla volta?
+[StringTable.IntroSubtitle3]
+Whistler: Stronzate, Parker. Per farlo servono i carri armati, e ne hanno solo pochi e...
+[StringTable.IntroSubtitle4]
+non sono qui. Cos’è quello? Sento il cigolio dei cingoli! Dannazione!
+[StringTable.IntroSubtitle4a]
+Granate pronte! Gliela faremo vedere!
+[StringTable.IntroSubtitle5]
+Parker: Non vedo niente nella polvere! È uno Stuart! E se i tedeschi ci stessero ingannando?
+[StringTable.IntroSubtitle6]
+Whistler: Parker, codardo! Attira l’attenzione dell’equipaggio di quel carro!
+[StringTable.IntroSubtitle6a]
+Parker (tra sé): Signore, Dio vi ha certo dotato di coraggio...
+[StringTable.IntroSubtitle6b]
+quanto vi ha privato della più elementare comprensione del mestiere delle armi!
+[StringTable.IntroSubtitle7]
+Whistler: Vedi, Parker, non sono tedeschi. Ragazzi, col vostro carro...
+[StringTable.IntroSubtitle8]
+possiamo prendere a calci nel culo qualche crucco. Da soli...
+[StringTable.IntroSubtitle9]
+non arriverete comunque alle nostre truppe. Ai vostri posti!
+[StringTable.IntroSubtitle10]
+Parker, Mitchell e i soldati: Signorsì, signore!
+[StringTable.WinSubtitle1]
+Tenente Parker: Grazie, amico!
+[StringTable.WinSubtitle2]
+Dopo la guerra facciamo un salto al Flying Bottle a Frisco, che ne dici?
+[StringTable.WinSubtitle3]
+Alan Mitchell: Sei della California? È piuttosto lontano da casa mia, ma di sicuro faremo un salto...
+[StringTable.WinSubtitle4]
+Alan Mitchell: Dov’è Whistler?
+[StringTable.WinSubtitle5]
+Parker: È morto, è corso fuori nel cortile quando sono arrivati i tedeschi...
+[StringTable.WinSubtitle6]
+e ha preso una raffica a bruciapelo. Era molto coraggioso, ma...
+[StringTable.WinSubtitle7]
+prima o poi sarebbe finita così.
+[StringTable.WinSubtitle8]
+Voce del marconista dal carro: Le nostre truppe sono in arrivo!
+[StringTable.FailSubtitle1]
+Oberleutnant Daniel Nowitzki: Bene, eroi!...
+[StringTable.FailSubtitle2]
+A dire il vero, al vostro posto avrei scelto di combattere...
+[StringTable.FailSubtitle3]
+ma bisogna avere qualche dote speciale...
+[StringTable.FailSubtitle4]
+per organizzare le cose in modo così stupido. Quando troveremo il vostro comandante,.. [StringTable.FailSubtitle5]
+gli pagherò da bere, se è vivo, o porterò dei fiori sulla sua tomba,
+[StringTable.FailSubtitle6]
+se è morto. E il tutto con una dedica
+[StringTable.FailSubtitle7]
+“Per l’impareggiabile coraggio e stupidità!”
+[MainTask.Objectives]
+Tenete almeno due dei punti fortificati
+[MainTask.Success]
+Radiogramma del tenente colonnello Waters: Grazie alla vostra abile organizzazione difensiva e all’ingaggio delle riserve nemiche siamo riusciti a sconfiggere la loro forza avanzata e a inviarvi rinforzi. Ottimo lavoro, ragazzi!
+[MainTask.Failed]
+Dal rapporto del tenente colonnello Waters al comando: il nemico si è impadronito dei punti fortificati e le sue riserve hanno rinforzato la forza avanzata. Il compito assegnato non è stato portato a termine...
+[MainTask.Description]
+Radiogramma del tenente colonnello Waters: Usate la rete di punti fortificati e il carro leggero Stuart per ingaggiare e distruggere le riserve nemiche in arrivo. Tenete almeno due qualsiasi dei punti fortificati. Ricordate che il vostro carro attirerà forze nemiche molto più numerose di quelle che il capitano Whistler si aspetta. Se il carro viene danneggiato, i tedeschi sconfiggeranno di sicuro i nostri gruppi isolati.
+[StringTable.EnemyIsDefeated]
+Signore, i crucchi si ritirano! Sembra che siamo troppo duri per loro!
+[StringTable.SecondWaveDefeated]
+Signore! La seconda ondata di attacchi dei crucchi è stata respinta!
+[StringTable.FirstWaveDefeated]
+Ah, figli di puttana, non vi aspettavate il nostro carro, eh? Se la danno a gambe, signore!
+[StringTable.SecondWaveIncoming]
+Signore! Avanzano di nuovo! Stavolta ci attaccano da due direzioni!
+[StringTable.SecondWave1Defeated]
+Signore! L’attacco da sud-ovest è stato respinto! Dopo aver perso i carri e visto arrivare il nostro Stuart, la loro fanteria è scappata!
+[StringTable.SecondWave2Defeated]
+Signore! Il nemico a sud-est si ritira dopo qualche raffica del nostro carro!
+[StringTable.ThirdWave1Defeated]
+Signore! Distrutto il carro, la fanteria nemica è fuggita!
+[StringTable.ThirdWave2Defeated]
+Signore! Perso il carro, la fanteria nemica si è ritirata, con il nostro Stuart in vista!
+[StringTable.ThirdWave3Defeated]
+Signore! Il gruppo di trasporti corazzati e fanteria nemici ha cessato l’attacco!
+[StringTable.ThirdWaveIncoming]
+Signore! Il nemico ha schierato forze molto più pesanti, siamo attaccati da tre direzioni!
+[StringTable.FirstStrongpointLost]
+Radiogramma del tenente colonnello Waters: Ora non possiamo riprendere il punto fortificato che abbiamo perso, ma il vostro Stuart potrebbe scacciare la fanteria nemica che lo occupa! Agite secondo la situazione e scacciate il nemico dai punti fortificati catturati!
+[StringTable.MitchellIsKilled]
+Alan Mitchell è stato ucciso!
+[StringTable.ReturnInTank]
+Fate risalire sul carro i carristi sbarcati per completare la missione.

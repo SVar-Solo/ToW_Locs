@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+베르호페니예 일대의 적 방어선을 돌파하라.
+[Mission.Description]
+그로스도이칠란트는 시르체보 공격을 계속하며, 점령 후 북쪽으로 돌파하여 베르호페니예 방향으로 진격하고 페나강 양안의 적을 소탕한다. 슈트라흐비츠 여단의 전차로 증강된 전투단은 페나강 동안을 따라 시르체보, 베르호페니예 방향으로 진격한 뒤 서안에 도달한다. 
+[Submission_1.Objectives]
+적은 아군의 포병과 항공기의 압박에 공황 상태로 제1방어선을 버렸다. 선봉대는 버려진 진지를 신속히 점령하고 주력이 도착할 때까지 사수해야 한다. 
+[Submission_1.Success]
+임무 완료.
+[Submission_1.Failed]
+선봉대가 적에게 밀려났다.
+[Mission.Success]
+임무 완료. 적 지휘소를 파괴했다.
+[Mission.Failed]
+명령을 수행하지 못했다. 적이 너무 강하다!
+[Submission_2.Objectives]
+적의 반격을 격퇴하고 러시아군의 제2방어선을 점령하라.
+[Submission_2.Success]
+임무 완료.
+[Submission_2.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[Submission_3.Objectives]
+페나강을 건너 적 지휘소를 파괴하라.
+[Submission_3.Success]
+임무 완료.
+[Submission_3.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[StringTable.first_support]
+보병, 전차, 포병으로 구성된 집단이 지휘관의 통제하에 들어왔다.
+[StringTable.second_support]
+전차와 돌격포가 지휘관의 통제하에 들어왔다.
+[StringTable.Inf]
+보병
+[StringTable.Tanks]
+전차
+[StringTable.SPG_close]
+StuG 40G 돌격포
+[StringTable.SPG_open]
+자주포병
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

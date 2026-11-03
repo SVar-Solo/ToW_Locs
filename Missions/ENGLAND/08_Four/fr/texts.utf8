@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+L’objectif est de libérer les localités de Grentheville, Soliers et Four.
+[Mission.Description]
+Chassez l’ennemi des localités indiquées.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Délogez l’ennemi de Grentheville.
+[Submission_1.Description]
+Détruisez le point d’appui ennemi.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1.Objectives]
+[Submission1.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission2.Objectives]
+[Submission2.Description]
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Prenez le village de Soliers.
+[Submission_2.Description]
+Chassez l’ennemi de Soliers.
+[Submission_3.Objectives]
+Libérez Four.
+[Submission_3.Description]
+Éliminez l’ennemi retranché à Four.
+[Submission_2.Success]
+Tâche accomplie.
+[Submission_2.Failed]
+Mission non accomplie.
+[Submission_1.Success]
+Tâche accomplie.
+[Submission_1.Failed]
+Mission non accomplie.
+[Submission_3.Success]
+Tâche accomplie.
+[Submission_3.Failed]
+Mission non accomplie.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission non accomplie.
+[StringTable.Tanks]
+Force de réserve disponible.

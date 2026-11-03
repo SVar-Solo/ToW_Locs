@@ -1,0 +1,64 @@
+﻿[MainTask.Objectives]
+Zdobyć bazę zaopatrzeniową, odeprzeć wszystkie możliwe kontrataki wroga.
+[MainTask.Description]
+[MainTask.Success]
+Radiogram od Rommla: Do włoskiego dowódcy. Atak wroga odparty, nasze siły są już w bezpośrednim rejonie stacji. Gratulacje zwycięstwa!
+[MainTask.Failed]
+Radiogram od Rommla do sztabu: Generale von Arnim! Ci Włosi ponieśli nieznośne straty i okazali się niezdolni do wykonania zadania. Ach, i tak nie należy się po nich wiele spodziewać!
+[StringTable.VillageCaptured]
+Radiogram od Rommla: Do włoskiego dowódcy. Gratuluję zdobycia stacji, ocalali wojska angielskie składają broń i błagają o litość! Miło, prawda? Moje oddziały wciąż jednak przebijają się przez zaciekły opór wroga. Rozpoznanie lotnicze donosi, że pospiesznie zorganizowana wroga grupa bojowa zbliża się do Twoich pozycji od punktu 2, próbując przeprowadzić kontratak. Dotrze do stacji za 10 minut. Wykorzystaj ten czas oraz zdobyczne działa polowe i karabiny maszynowe, by zorganizować obronę i odeprzeć atak! Otrzymasz też klucz naszych myśliwców do przeciwdziałania możliwym uderzeniom wroga.
+[StringTable.ReadyForAssault]
+Radiogram od Rommla: Do włoskiego dowódcy. Uciszyłeś wrogie działa polowe i karabiny maszynowe, teraz zezwalam Ci na uderzenie na resztę oddziału, a do dyspozycji będziesz miał też bombowce.
+[StringTable.IntroSubtitle1]
+Niemiecki kapitan zwraca się do włoskich żołnierzy:
+[StringTable.IntroSubtitle2]
+Wiele słyszałem o odwadze i umiejętnościach...
+[StringTable.IntroSubtitle3]
+włoskich Alpini i mam nadzieję, że to nie jakieś bzdury!
+[StringTable.IntroSubtitle4]
+Signore Tenente wyjaśni szczegóły otrzymanego zadania, [StringTable.IntroSubtitle5]
+dodam tylko, że to jest ...
+[StringTable.IntroSubtitle6]
+jedno z najważniejszych zadań ...
+[StringTable.IntroSubtitle7]
+jakie kiedykolwiek mieliśmy szansę wykonać.
+[StringTable.IntroSubtitle8]
+Więc udowodnijcie, że jesteście godni chwały starożytnego Rzymu!
+[StringTable.WinSubtitle1]
+Głosy włoskich żołnierzy: Giuseppe, masz ze sobą flagę?
+[StringTable.WinSubtitle1a]
+Zapo... zapomniał! Ten głupek z Bolonii znowu robi po swojemu!
+[StringTable.WinSubtitle2]
+Znalazłem ją!... Dawaj tu, byłoby kiepsko, gdyby Niemcy...
+[StringTable.WinSubtitle3]
+wzięli nas za Anglików. Przecież mamy angielskie działa!
+[StringTable.WinSubtitle4]
+Czołg prowadzący – Panzer IV – jest niemiecki!
+[StringTable.WinSubtitle5]
+Wstrzymać ogień! Zbliżają się... i nie otwierać ognia!
+[StringTable.WinSubtitle6]
+Rozpoznali nas, wszystko w porządku!
+[StringTable.WinSubtitle7]
+Niemiecki czołgista: Sprechen Sie Deutsch, italienischer Kamerad?...
+[StringTable.WinSubtitle8]
+Gratulieren! Sieg heil!
+[StringTable.FailSubtitle1]
+Idzie Ziegler.
+[StringTable.FailSubtitle2]
+Kameraden, te makaroniarze oblali misję!
+[StringTable.FailSubtitle3]
+Spokojnie, Ziegler! Wiesz, jaka jest różnica między włoskimi a niemieckimi czołgami?
+[StringTable.FailSubtitle4a]
+Nie, nie wiem.
+[StringTable.FailSubtitle4]
+Nasze czołgi mają 3 biegi do przodu i 1 wsteczny, a włoskie mają dokładnie odwrotnie!
+[StringTable.FailSubtitle5]
+Dietrich, śmiałbym się z Tobą, ale naszą sytuację można opisać dwoma słowami:
+[StringTable.FailSubtitle6]
+ALLES KAPUTT!
+[StringTable.WinSubtitle6a]
+Dzięki Bogu, mamy szczęście!
+[StringTable.WinSubtitle6b]
+Hej, Giuseppe, lepiej trzymaj język za zębami i pilnuj flagi!
+[StringTable.EnemyIsHere]
+Radiogram od Rommla: Do włoskiego dowódcy. Rozpoznanie lotnicze donosi, że wróg jest w bezpośrednim rejonie stacji. Utrzymać ją za wszelką cenę! Moje siły przełamały obronę wroga i maszerują Wam na pomoc!

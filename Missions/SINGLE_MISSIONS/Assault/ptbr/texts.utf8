@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Rompa as defesas alemãs.
+[Mission.Description]
+As fases iniciais da Operação Overlord foram um sucesso, mas agora é hora de atacar mais fundo na Normandia ocupada pelo inimigo. O avanço para o interior, porém, tem um preço alto, pois os alemães estão entrincheirando todas as aldeias e locais estratégicos que podem. A topografia também joga contra os Aliados, pois o terreno peculiar deste setor limita a manobrabilidade.
+[Mission.Success]
+As defesas do inimigo foram destruídas!
+[Mission.Failed]
+Você sofreu perdas graves e foi derrotado.
+[Submission_1.Objectives]
+Destrua as defesas inimigas neste setor da frente.
+[Submission_1.Description]
+Usando fogo e manobra, tente flanquear as posições defensivas inimigas e tomá-las pela retaguarda. Estamos tentando desviar meios aéreos para seu uso e você deve ter algum apoio de artilharia de prontidão.
+[Submission_1.Success]
+Tarefa concluída.
+[Submission_1.Failed]
+Você perdeu!
+[StringTable.Tanks_reserv]
+Os tanques da reserva chegaram.
+[StringTable.reserv]
+Os reforços de infantaria chegaram.

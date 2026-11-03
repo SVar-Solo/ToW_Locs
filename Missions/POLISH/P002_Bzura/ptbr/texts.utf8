@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Destrua a bateria de artilharia alemã nas alturas. Repila todos os ataques do inimigo.
+[Mission.Description]
+Os alemães posicionaram uma bateria de artilharia nas alturas adiante para cobrir as estradas que levam a Varsóvia. Eles procuram impedir que nossas forças reforcem a capital. O comando alemão não esperava um golpe contra o flanco do 8º Exército em avanço, de modo que agora temos a chance de desferir-lhes um golpe crítico.    
+
+Suas ordens são: 
+-	Destrua a bateria de artilharia alemã 
+-	Defenda-se de todos os ataques inimigos 
+[Mission.Success]
+Missão cumprida!
+[Mission.Failed]
+Você fracassou!
+[Submission_1.Objectives]
+Destrua a bateria de artilharia alemã.
+[Submission_1.Description]
+Uma bateria de canhões alemã está posicionada nas alturas. O fogo da bateria impede que nossas tropas avancem mais. 
+
+Ordens:	
+-	Destrua a bateria de canhões inimiga e ocupe as alturas.
+[Submission_1.Success]
+Tarefa concluída.
+[Submission_1.Failed]
+Você fracassou em sua tarefa!
+[Submission_2.Objectives]
+Tanques e infantaria alemães foram avistados. Ataque-os imediatamente!
+[Submission_2.Description]
+Nossos batedores avistaram tanques alemães acompanhados de infantaria. Para continuar nosso avanço, é importante eliminá-los. 
+
+Ordens:
+-	Detenha este novo avanço inimigo, assuma posições defensivas e elimine o inimigo.
+[Submission_2.Success]
+O ataque foi repelido.
+[Submission_2.Failed]
+Você fracassou em sua tarefa.
+[Submission_3.Objectives]
+Assuma posições defensivas nas alturas e repila os contra-ataques alemães.
+[Submission_3.Description]
+A bateria de artilharia alemã foi neutralizada, mas o inimigo já se prepara para contra-atacar e retomar suas posições perdidas.
+
+Suas ordens:
+-	Assuma posições defensivas nas alturas e repila todos os contra-ataques do inimigo.
+[Submission_3.Success]
+O contra-ataque inimigo fracassou. Bom trabalho!
+[Submission_3.Failed]
+Sofremos pesadas perdas. Estamos derrotados!
+[StringTable.reserv]
+Os reforços entraram na batalha!

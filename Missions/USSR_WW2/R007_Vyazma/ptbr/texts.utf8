@@ -1,0 +1,36 @@
+﻿[Submission01.Objectives]
+Rompa as defesas inimigas e liberte a aldeia
+[Submission01.Description]
+A hora decisiva chegou; devemos quebrar a espinha dorsal do Grupo de Exércitos Centro fascista. Para isso, todas as reservas das tropas soviéticas foram concentradas neste setor. Suas tropas são um elemento importante desta nova ofensiva. Para auxiliar seus esforços, tanques pesados foram colocados sob o seu comando. Faça bom uso deles e justifique a nossa confiança em suas habilidades.
+
+Suas ordens:
+- 	Rompa as defesas inimigas.
+- 	Liberte a aldeia dos agressores fascistas.
+[Submission01.Success]
+O inimigo está em retirada! A aldeia foi libertada! Os resultados são realmente impressionantes.
+[Submission01.Failed]
+Seu ataque foi esmagado. Agora, em vez de avançar, devemos nos preparar para um contra-ataque alemão.
+[Submission02.Objectives]
+Rompa as defesas inimigas.
+[Submission02.Description]
+Infantaria e canhões antitanque protegem os acessos à aldeia. É necessário destruir a primeira linha de defesa inimiga.
+
+Suas ordens:
+- 	Rompa as defesas inimigas.
+[Submission02.Success]
+As defesas inimigas foram rompidas.
+[Submission02.Failed]
+Suas tropas foram destruídas. Você não correspondeu às esperanças do seu comando!
+[Submission03.Objectives]
+Liberte a aldeia.
+[Submission03.Description]
+As tropas inimigas castigadas recuaram para sua segunda linha de defesa, onde foram reforçadas. Você deve destruir essas unidades e continuar o seu avanço.
+
+Suas ordens:
+- 	Liberte a aldeia dos agressores fascistas.
+[Submission03.Success]
+A aldeia foi libertada. Um grande sucesso, comandante!
+[Submission03.Failed]
+Você desperdiçou inutilmente a vida dos soldados sob o seu comando.
+[StringTable.Reserv]
+Reforços foram colocados sob o seu comando.

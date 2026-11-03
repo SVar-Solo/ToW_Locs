@@ -1,0 +1,183 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Destruya las defensas enemigas cerca del aeródromo.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Elimine a los hostiles atacantes. No permita que el enemigo capture la localidad.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+El enemigo está organizando una feroz resistencia en la zona. Según el reconocimiento, el enemigo ha concentrado sus fuerzas para lanzar una ofensiva y capturar la localidad. Debe rechazar el ataque inminente. No permita que el enemigo capture la posición.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Debe capturar el aeródromo enemigo situado al noroeste, marcado en el mapa. Tendrá que destruir las defensas enemigas situadas en los accesos al aeródromo.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Aeródromo capturado.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Aeródromo capturado.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Tropas aliadas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Tropas aliadas derrotadas.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Rechace el ataque enemigo. No permita que el enemigo capture la localidad.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+El enemigo intenta asegurar la zona alrededor de la localidad. Rechace el ataque enemigo y no permita que capture la posición.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Rechace todos los ataques enemigos contra la localidad.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Rechace todos los ataques enemigos contra la localidad.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Un equipo de infantería y blindados está a sus órdenes.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_inf_support]
+La infantería mecanizada está a su disposición.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_inf_support]
+La infantería mecanizada está a su disposición.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Las fuerzas aéreas están a su disposición.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Las fuerzas aéreas están a su disposición.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.SPG_inf_support]
+Un equipo de infantería y cañones autopropulsados está a su disposición.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.SPG_inf_support]
+Un equipo de infantería y cañones autopropulsados está a su disposición.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+El apoyo aéreo está a su disposición.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+El apoyo aéreo está a su disposición.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture el cruce de caminos.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Avance a marcha forzada hacia la zona marcada en el mapa y elimine a los hostiles que encuentre. Alcance su objetivo dentro del tiempo especificado y asegure el cruce de caminos y la zona circundante. Esté preparado para rechazar cualquier contraataque enemigo.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Tropas aliadas derrotadas.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Destruya las defensas enemigas cerca del aeródromo.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Debe capturar el aeródromo enemigo situado al noroeste, marcado en el mapa. Tendrá que destruir las defensas enemigas situadas en los accesos al aeródromo.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Aeródromo capturado.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Tropas aliadas derrotadas.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Rechace el ataque enemigo. No permita que el enemigo capture la localidad.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+El enemigo intenta asegurar la zona alrededor de la localidad. Rechace el ataque enemigo y no permita que capture la posición.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos contra la localidad.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos contra la localidad.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[Reinforcement.Group1[Reinforcement]]
+Vehículos blindados e infantería
+

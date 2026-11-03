@@ -1,0 +1,74 @@
+﻿[SubMission_1.Objectives]
+Repel the main attack of the Red Army’s lead units. Then counterattack the enemy and capture a vital fuel station. 
+[SubMission_1.Description]
+The Red Army is advancing all along the frontline. The last reinforced defensive line of the German lies through the town of Kovel. General Headquarters has issued order to make a last-ditch stand. Frontline intelligence has reported that the Russians will likely be launching a probing action in order to reconnoiter our defenses along this sector. 
+
+Your orders are:
+- 	Repel the Russian attack and then launch a counterattack to disrupt the enemy. 
+- 	Capture the enemy fuel station.
+[SubMission_1.Success]
+The mission has been accomplished!
+[SubMission_1.Failed]
+You have failed commander! 
+[Mission.Objectives]
+Prevent the enemy from breaking through your defenses.
+[Mission.Description]
+The Russians have launched an offensive aimed at liberating the town of Kovel. You must defend the town and repulse this new attack.
+
+Your orders:
+- 	Repel all enemy attacks.
+[Mission.Success]
+The Russian offensive drive has been halted. Germany will not forget the heroism of its soldiers. 
+[Mission.Failed]
+This is a black day for Germany! You were unable to stop the Russians and have lost this battle.
+
+[Submission_2.Objectives]
+You must get these tanker trucks to the fuel station intact. 
+[Submission_2.Description]
+The Russian truck crews have fled; get those trucks to the fuel station! 
+
+Your orders:
+- 	Deliver the petrol tankers to the fuel station in the village.
+[Submission_2.Success]
+Good job commander. These petrol trucks will come in handy! 
+[Submission_2.Failed]
+The petrol tankers have been lost.
+[Submission_3.Objectives]
+Prepare defenses as best you can to repel the oncoming Russian attack.
+[Submission_3.Description]
+According to intelligence data, the Russians are preparing another offensive. Prepare as best you can to resist this newest threat.
+
+Your orders: 
+- 	Hold your positions against the advancing enemy forces. 
+[Submission_3.Success]
+Good job! You have destroyed the enemy assault troops!
+[Submission_3.Failed]
+The enemy attack was just too hard to overcome. You have failed.
+[Submission_5.Objectives]
+Destroy the enemy assault troops
+[Submission_5.Description]
+Russian assault troops are again heading toward the fuel depot. You must stop them from breaking through! Also be on the lookout for enemy saboteurs that may be trying to infiltrate your lines and disrupt our artillery positions to the rear.
+
+Your orders:
+- 	Destroy the approaching assault troops.
+[Submission_5.Success]
+Enemy units have been destroyed!
+[Submission_5.Failed]
+The enemy has broken through!
+[Submission_6.Objectives]
+Destroy a Russian petrol tank truck convoy and capture the petrol tanker trucks if possible. 
+[Submission_6.Description]
+During the attack, 4 tanker trucks filled with petrol left the fuel station! You need to stop that convoy!
+
+Your orders:
+- 	Capture the petrol tanker convoy if possible. If you can not capture them and they threaten to get away, you may destroy them.
+[Submission_6.Success]
+Good job commander, you have kept the petrol from getting back to the Russians.
+[Submission_6.Failed]
+The petrol tankers were able to get away. You were unable to stop them in time. 
+[StringTable.inf_reserv]
+A new infantry detachment has been assigned to your command.
+[StringTable.Tank_reserv]
+A detachment of tanks has been assigned to your command.
+[StringTable.SPG_reserv]
+A section of Self-Propelled Guns have been assigned to your command.

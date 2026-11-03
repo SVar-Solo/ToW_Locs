@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Mantenga la línea en la parte sur de la aldea de Verjopenye.
+[Mission.Description]
+Junto con una batería de artillería antitanque, una unidad de fusiles antitanque y varios tanques, asegure el punto fuerte al sudeste de Verjopenye. Debe darse especial prioridad a mantener las posiciones en las inmediaciones de los puentes sobre el Pena. Impida que el enemigo cruce el río.
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+El enemigo ha establecido una cabeza de puente en la orilla occidental del Pena; nuestras tropas se retiran.
+[Submission_1.Objectives]
+Ocupe las posiciones abandonadas. Cubra la retirada a través del río. 
+[Submission_1.Success]
+El grueso de las fuerzas ha asumido con éxito la defensa a lo largo de la ribera.
+[Submission_1.Failed]
+¡El equipo de cobertura ha sido derrotado; el grueso de las fuerzas está amenazado!
+[Submission_2.Objectives]
+Guarnezca las posiciones en las inmediaciones del cruce. Impida que el enemigo pase a la orilla opuesta.
+[Submission_2.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Submission_2.Failed]
+¡El enemigo ha capturado el puente y está estableciendo una cabeza de puente en nuestra orilla!
+[Submission_3.Objectives]
+Retírese a la orilla opuesta del Pena. Impida que las tropas enemigas crucen el río. 
+[Submission_3.Success]
+El enemigo ha sido detenido ante la barrera de agua.
+[Submission_3.Failed]
+El enemigo ha cruzado el río y ha expulsado a nuestras fuerzas de la parte sur de la aldea de Verjopenye.
+[StringTable.Add_to_plArmy]
+Todas las unidades apostadas a lo largo de la orilla del Pena quedan ahora bajo su control.
+[StringTable.Rus_Tanks]
+Un grupo de tanques ha sido enviado desde las reservas.
+[StringTable.infantry]
+Una unidad de infantería de las reservas ha llegado a su control.
+
+[StringTable.inf]
+Infantería
+[StringTable.Tanks]
+Tanques del 6.º Cuerpo de Tanques
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

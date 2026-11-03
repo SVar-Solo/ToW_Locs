@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Przebij się przez obronę wroga w pobliżu Wierchopieni.
+[Mission.Description]
+Grossdeutschland kontynuuje natarcie na Syrcew i po zajęciu go przebija się na północ, w stronę Wierchopieni, po czym eliminuje wrogie siły na obydwu brzegach Pjany. Drużyna bojowa wzmocniona przez czołgi z brygady Strachwitza będzie zmierzać w kierunku Syrcewa i Wierchopieni wzdłuż wschodniego brzegu Pjany, a potem dotrze do zachodniego brzegu. 
+[Submission_1.Objectives]
+Wróg pozostawił pierwszą linię obrony w rozsypce, przygniecioną ogniem naszej artylerii i samolotów. Awangarda musi szybko zająć opuszczone pozycje i utrzymać je do przybycia głównych sił. 
+[Submission_1.Success]
+Zadanie wykonane.
+[Submission_1.Failed]
+Awangarda została odparta przez wroga.
+[Mission.Success]
+Zadanie wykonane. Wrogi punkt dowodzenia został zniszczony.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazów. Nieprzyjaciel jest zbyt silny!
+[Submission_2.Objectives]
+Odeprzyj wrogie kontrataki i zajmij drugą linię rosyjskiej obrony.
+[Submission_2.Success]
+Zadanie wykonane.
+[Submission_2.Failed]
+Atak został powstrzymany, potrzebne natychmiastowe wsparcie.
+[Submission_3.Objectives]
+Przekrocz Pjanę i zniszcz wrogi punkt dowodzenia.
+[Submission_3.Success]
+Zadanie wykonane.
+[Submission_3.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[StringTable.first_support]
+Grupa złożona z piechoty, czołgów i artylerii jest teraz pod twoją komendą.
+[StringTable.second_support]
+Przekazano pod twoje dowództwo czołgi i działa samobieżne.
+[StringTable.Inf]
+Piechota
+[StringTable.Tanks]
+Czołgi
+[StringTable.SPG_close]
+Działa szturmowe Stug 40G
+[StringTable.SPG_open]
+Artyleria samobieżna
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

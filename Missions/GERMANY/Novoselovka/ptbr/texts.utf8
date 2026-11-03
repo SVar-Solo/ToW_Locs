@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Destrua as defesas inimigas na área de Novoselovka.
+[Mission.Description]
+Unidades russas retiradas, junto com grupos de tanques e de artilharia antitanque, passaram à defensiva no setor ao sul de Novoselovka e na própria aldeia. Os flancos da linha defensiva inimiga estão cobertos por campos minados. O grupo de combate recebe ordem de assaltar Novoselovka, romper as defesas inimigas e capturar a aldeia.
+[Mission.Success]
+Missão cumprida, Novoselovka foi ocupada.
+[Mission.Failed]
+Fracassamos em cumprir nossas ordens. O inimigo é forte demais! 
+[Submission_1.Objectives]
+Destrua a defesa inimiga na aldeia.
+[Submission_1.Success]
+As defesas inimigas foram destruídas. As posições foram ocupadas.
+[Submission_1.Failed]
+O ataque foi detido, é necessário apoio imediato!
+[Submission_2.Objectives]
+Pressione o avanço para o norte. Ocupe a parte sul da aldeia de Novoselovka.
+[Submission_2.Success]
+A parte sul da aldeia foi ocupada.
+[Submission_2.Failed]
+O ataque foi detido, é necessário apoio imediato.
+[Submission_3.Objectives]
+Capture as posições inimigas a noroeste de Novoselovka.
+[Submission_3.Success]
+Missão cumprida. As forças inimigas recuaram para o noroeste.
+[Submission_3.Failed]
+O ataque foi detido, é necessário apoio imediato.
+[Submission_4.Objectives]
+Repila o contra-ataque dos tanques russos!
+[Submission_4.Success]
+Os tanques inimigos foram destruídos!
+[Submission_4.Failed]
+Nossas forças recuam sob a pressão inimiga.
+[StringTable.First_support]
+Um grupo de tanques das reservas da divisão está agora sob seu comando.
+[StringTable.Second_support]
+Uma unidade de infantaria e canhões autopropulsados estão agora sob seu comando.
+
+[StringTable.Inf]
+Infantaria
+[StringTable.Tanks]
+Tanques
+[StringTable.SPG]
+Canhões autopropulsados
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

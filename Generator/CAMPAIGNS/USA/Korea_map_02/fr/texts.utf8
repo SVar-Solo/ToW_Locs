@@ -1,0 +1,183 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Détruisez les défenses ennemies près de l'aérodrome.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Éliminez les hostiles qui attaquent. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+L'ennemi organise une résistance acharnée dans la zone. Selon la reconnaissance, il a concentré ses forces pour lancer une offensive et capturer la localité. Vous devez repousser l'attaque imminente. Ne laissez pas l'ennemi s'emparer de la position.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Vous devez capturer l'aérodrome ennemi situé au nord-ouest, indiqué sur la carte. Vous devrez détruire les défenses ennemies qui en couvrent les abords.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Aérodrome capturé.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Aérodrome capturé.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Troupes amies vaincues.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Troupes amies vaincues.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Repoussez l'attaque ennemie. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+L'ennemi tente de sécuriser les environs de la localité. Repoussez son attaque et ne le laissez pas s'emparer de la position.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies sur la localité.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies sur la localité.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Une équipe d'infanterie et de blindés est sous vos ordres.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_inf_support]
+Une infanterie mécanisée est à votre disposition.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_inf_support]
+Une infanterie mécanisée est à votre disposition.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Les forces aériennes sont à votre disposition.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Les forces aériennes sont à votre disposition.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.SPG_inf_support]
+Une équipe d'infanterie et de canons automoteurs est à votre disposition.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.SPG_inf_support]
+Une équipe d'infanterie et de canons automoteurs est à votre disposition.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Un appui aérien est à votre disposition.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Un appui aérien est à votre disposition.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capturez le carrefour routier.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Marchez à vive allure jusqu'à la zone indiquée sur la carte et éliminez tous les hostiles rencontrés. Atteignez votre objectif dans le délai fixé et sécurisez le carrefour routier et ses environs. Soyez prêt à repousser toute contre-attaque ennemie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Troupes amies vaincues.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Détruisez les défenses ennemies près de l'aérodrome.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Vous devez capturer l'aérodrome ennemi situé au nord-ouest, indiqué sur la carte. Vous devrez détruire les défenses ennemies qui en couvrent les abords.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Aérodrome capturé.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Troupes amies vaincues.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Repoussez l'attaque ennemie. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+L'ennemi tente de sécuriser les environs de la localité. Repoussez son attaque et ne le laissez pas s'emparer de la position.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies sur la localité.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies sur la localité.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[Reinforcement.Group1[Reinforcement]]
+Blindés et infanterie
+

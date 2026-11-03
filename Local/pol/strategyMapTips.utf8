@@ -1,0 +1,42 @@
+﻿[STRATEGY_MAP_TIP.1]
+Bitwy kampanii rozpoczynają się w trybie strategicznym, a dostępne zgrupowania bojowe określa kampania. W trybie strategicznym możesz manewrować swoimi zgrupowaniami, atakować nimi wroga lub bronić własnych pozycji, a nawet wzywać wsparcie lotnicze i artyleryjskie. Mapa strategiczna składa się z połączonych ze sobą obszarów, po których mogą się przemieszczać zgrupowania wroga i sojuszników. Na mapie strategicznej możesz wybierać posiłki i wsparcie oraz przydzielać te zasoby swoim zgrupowaniom. Po zdobyciu kluczowych punktów możesz otrzymać kolejne posiłki i wsparcie. Zasoby możesz przydzielać w dowolnym momencie swojej tury, ale tylko grupom bojowym, które nie prowadzą aktualnie walki.
+Mapa strategiczna terenu określa pewne warunki ruchu bojowego. Zgrupowania bojowe nie mogą wchodzić na obszary zamknięte.
+
+\t Opis trybów gry:
+1. Tryb strategiczny jest turowy.
+2. Pojedyncza tura obejmuje ruch gracza, ruch wroga oraz wszystkie walki wynikające z manewrów jednostek obu stron.
+3. Liczbę dozwolonych tur określa kampania.
+4. Tura gracza kończy się, gdy wszystkie jego zgrupowania wyczerpią punkty akcji. Możesz zakończyć turę wcześniej, na przykład gdy chcesz, aby zgrupowanie pozostało na miejscu i broniło obszaru przed wrogiem.
+5. Tura wroga kończy się w ten sam sposób - gdy wszystkie zgrupowania wroga wyczerpią punkty akcji lub wcześniej, jeśli przeciwnik tak zdecyduje.
+7. Walka rozpoczyna się, gdy zgrupowania gracza i wroga znajdą się w tym samym miejscu.
+8. Aby wygrać kampanię, musisz zdobyć więcej punktów niż wróg albo wyeliminować wszystkie jego zgrupowania.
+9. Punkty przyznaje się po zakończeniu wszystkich walk na mapie.
+
+[STRATEGY_MAP_TIP.2]
+\t Rozmieszczanie wojsk na mapie strategicznej
+1. Domyślnie wszystkie wojska gracza zaczynają w strefie buforowej (na zapleczu). Stamtąd można je rozmieścić w dowolnym obszarze startowym na mapie taktycznej.
+2. W jednym obszarze może znajdować się tylko jedno zgrupowanie gracza lub wroga.
+3. Obszar może dawać premię stronie, która go zdobyła, np. dodatkowe wsparcie lotnicze lub artyleryjskie, wojska, paliwo albo posiłki.
+4. Jeśli zgrupowanie zostało odcięte od wszystkich przyjaznych obszarów, nie może uzupełniać amunicji ani korzystać z rezerw, a jeśli wyczerpało także punkty akcji - opuścić obszaru. Morale izolowanych oddziałów również spada.
+
+[STRATEGY_MAP_TIP.3]
+Zgrupowanie bojowe to oddziały wraz z rezerwą. Oddziały mogą poruszać się po mapie taktycznej i być zaopatrywane z rezerw. Rezerwa należy wyłącznie do swojego zgrupowania i służy tylko do uzupełniania jego oddziałów - chyba że zgrupowanie sojusznicze zostało okrążone.
+
+\t Parametry zgrupowania bojowego:
+1. Poziom doświadczenia.
+2. Paliwo. (Paliwo zużywa się na ruch, nie można go uzupełniać w okrążeniu, a poza tym uzupełnia się raz na turę.)
+3. Amunicja. (Amunicja zużywa się w walce i nie można jej uzupełniać w okrążeniu.)
+4. Wsparcie.
+5. Prędkość ruchu. (Zależy od obecności pojazdów, piechoty i artylerii, a spada do 1, gdy sąsiedni obszar zajmuje wróg.)
+
+\t Ruch zgrupowania bojowego:
+1. Ruchy planuje się i wykonuje kolejno, jedno zgrupowanie po drugim. Zgrupowanie może poruszyć się tylko raz na turę. Nowo rozmieszczone zgrupowania nie mogą otrzymać rozkazów w tej samej turze - nie można ich rozmieścić i przesunąć w tej samej turze.
+2. Bieżące zgrupowanie musi zakończyć ruch, zanim ruszy następne.
+3. Wszystkie ruchy należy wykonać przed rozpoczęciem walki.
+4. Zgrupowanie może przejść z jednego obszaru do drugiego.
+5. Dwa zgrupowania nie mogą zajmować tego samego obszaru. Zgrupowanie nie może przechodzić przez obszar zajęty przez wroga.
+6. Zgrupowania nie można podzielić na oddzielne jednostki. Wszystkie jednostki zgrupowania poruszają się razem.
+7. Zgrupowań, które poniosły straty, nie można łączyć z innymi.
+8. Niektóre elementy terenu mogą uniemożliwiać zgrupowaniu ruch lub walkę.
+9. Odwrót jest bardzo podobny do zwykłego ruchu. Jeśli jednak zgrupowanie nie ma dokąd się wycofać, zostaje zniszczone.
+

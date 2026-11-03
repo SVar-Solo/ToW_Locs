@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+포위망을 돌파하라.
+[Mission.Description]
+7월 중순까지 프랑스 대부분이 독일군에 점령되었다. 독일 기갑사단들은 프랑스 방어선을 돌파하여 신속한 돌격으로 해안선에 도달했다. 파리는 6월 14일에 함락되었고 프랑스 정부는 보르도로 달아났다.
+
+목표:
+-	포위망을 돌파할 것.
+[Mission.Success]
+임무 완수!
+[Mission.Failed]
+임무 실패! 귀관의 부대가 전사했다!
+[Submission1.Objectives]
+프랑스 병사들을 구하라.
+[Submission1.Description]
+프랑스군 보병 소부대가 포위되어 외딴 농가에 숨어 있다. 독일 보병이 접근하고 있다.
+
+목표:
+- 	프랑스 병사들을 죽음에서 구할 것.
+[Submission1.Success]
+임무 완수!
+[Submission1.Failed]
+임무 실패!
+[Submission2.Objectives]
+지형 정찰을 실시하라.
+[Submission2.Description]
+저격수로 지형 정찰을 실시하라.
+
+수령한 명령:
+- 	지형 정찰을 실시할 것.
+[Submission2.Success]
+지휘부 명령을 완수했다!
+[Submission2.Failed]
+지휘부 명령을 완수하지 못했다

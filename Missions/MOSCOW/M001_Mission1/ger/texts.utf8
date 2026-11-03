@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Decken Sie den  Rückzug des 1075. Regiments, 316. Schützendivision, indem Sie eine Verteidigungsstellung in der Nähe des Bahnhofs von Dubosekovo aufstellen.
+[Mission.Description]
+16. November. Die 4. Kompanie des 1075. Regiments, 316. Schützendivision richtet eine Verteidigungsstellung auf einem Hügel in der Nähe des Bahnhofs von Dubosekovo ein, 7km südöstlich von Volokolamsk. Die Hauptaufgabe ist es, alle Angriffe der deutschen Truppen (die 11. Panzer Division) aufzuhalten, und dem Regiment die Chance zu geben, einen geordneten Rückzug durchzuführen, um die Frontlinien zu begradigen. Die schweren Gefechte im Oktober hatten die Division fast 50% ihrer Soldaten gekostet, und fast das gesamte Material. Als Unterstützung bei ihrer Mission erhielt die Kompanie unter Befehl von Hauptmann Gundilovich und Politkommissar Klochkov zwei 45mm Panzerabwehrkanonen.     
+
+Ihre Befehle lauten:
+- Decken Sie den  Rückzug des 1075. Regiments, 316. Schützendivision, indem Sie eine Verteidigungsstellung in der Nähe des Bahnhofs von Dubosekovo aufstellen.
+[Mission.Success]
+Der Befehl wurde ausgeführt!
+[Mission.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt!
+[Submission_1.Objectives]
+- Schlagen Sie den ersten feindlichen Angriff zurück.
+[Submission_1.Description]
+Unsere Späher berichten, dass die Deutschen aus dem Südwesten angreifen wollen entlang der Strasse die zum Bahnhof von Dubosekovo führt. Die deutsche Vorhut scheint recht klein: nur ein schwacher Infanterie Zug, zwei Panzer und einige gepanzerte Fahrzeuge.  
+
+Ihre Befehle lauten:
+- Schlagen Sie den feindlichen Angriff zurück. 
+[Submission_1.Success]
+Befehl ausgeführt! Der feindliche Angriff wurde zurückgeschlagen. 
+[Submission_1.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt! Ihre Truppen wurden vernichtet. 
+[Submission_2.Objectives]
+Schlagen Sie den feindlichen Panzerangriff zurück.
+[Submission_2.Description]
+Die deutsche Vorhut  hat es nicht geschafft den Bahnhof einzunehmen und musste sich zurückziehen. Wir sollten jetzt mit einem stärkeren Angriff rechnen mit mehr Panzern und mehr Infanteriekräften. Der Feind darf nicht durchbrechen.
+
+Ihre Befehle lauten:
+- Halten Sie die feindlichen Panzer auf. 
+[Submission_2.Success]
+Der Befehl wurde ausgeführt! Der feindliche Angriff wurde zurückgeschlagen.
+[Submission_2.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt! Ihre Truppen wurden geschlagen.
+[Submission_3.Objectives]
+Halten Sie Ihre Stellung.
+[Submission_3.Description]
+Sie dürfen keinen Schritt zurückweichen! Obwohl Russland ein grosses Land ist können wir nirgendwo mehr hin, denn Moskau liegt direkt hinter uns.
+
+Ihre Befehle lauten:
+- Halten Sie Ihre Stellung.
+[Submission_3.Success]
+Der Befehl wurde ausgeführt!
+[Submission_3.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt!

@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Ustanów przyczółek na zachodnim brzegu Pjany.
+[Mission.Description]
+Czołgi i artyleria ze słabym wsparciem piechoty utrzymują linię zachodniego brzegu rzeki. Na wschodnim brzegu znajdują się odizolowane przyczółki bojowe. Grupa bojowa oczyści wschodni brzeg z sił wroga, a potem zaatakuje zachodnią część Wierchopieni i zajmie punkt przeprawy przez rzekę.
+[Submission1.Objectives]
+Przejmij most na Pjanie, a potem przejdź na zachodni brzeg rzeki i broń przejścia przez nią.
+[Submission1.Success]
+Zadanie wykonane. 
+[Submission1.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie. 
+[Submission2.Objectives]
+Broń przejścia, póki nie przybędą główne siły.
+[Submission2.Success]
+Zadanie wykonane.
+[Submission2.Failed]
+Nasi żołnierze zostali odparci przez przeważające siły przeciwnika.
+[Mission.Success]
+Zadanie wykonane. Można teraz przeprowadzić przez rzekę główne siły dywizji.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazów. Nieprzyjaciel jest zbyt silny!
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

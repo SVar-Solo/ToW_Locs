@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Avance e capture a aldeia de Cheux.
+[Mission.Description]
+O inimigo não nos espera, e a guarnição de Cheux é pequena.
+[Submission_1.Objectives]
+Repila o contra-ataque.
+[Submission_1.Description]
+O inimigo tenta trazer reservas para apoiar os defensores.
+[NewSubmission.Success]
+Contra-ataque repelido.
+[NewSubmission.Failed]
+O inimigo rompeu.
+[Submission_01.Success]
+Cheux capturada.
+[Submission_01.Failed]
+Falha na captura de Cheux.
+[Mission.Success]
+Aldeia capturada. Área segura.
+[Mission.Failed]
+As defesas inimigas eram mais fortes que o esperado.
+[Submission_1.Success]
+Ataque repelido.
+[Submission_1.Failed]
+Falha em cumprir a tarefa.
+[StringTable.Tanks]
+Força de reserva disponível.

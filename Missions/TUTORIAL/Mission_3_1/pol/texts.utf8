@@ -1,0 +1,134 @@
+﻿[Mission.Objectives]
+Przejmij dowodzenie i odeprzyj atak wroga
+
+[Mission.Description]
+Weź pod swoje dowództwo dwie grupy brytyjskich żołnierzy. Za pomocą ciężkiego karabinu maszynowego zniszcz wrogi oddział piechoty. Znajdź bazookę i użyj jej, aby zniszczyć wrogi czołg.
+
+[Mission.Success]
+Gratulacje, wszystkie zadania zostały pomyślnie wykonane.
+
+[Mission.Failed]
+Zadanie nieudane
+
+[Submission_1.Objectives]
+Przejmij dowodzenie nad pierwszą grupą
+
+[Submission_1.Description]
+Podprowadź pojazd bliżej grupy trzech brytyjskich żołnierzy, a przejdą oni pod Twoje dowództwo.
+
+[Submission_1.Success]
+Grupa brytyjskich żołnierzy przeszła pod Twoje dowództwo.
+
+[Submission_1.Failed]
+Zadanie nieudane
+
+[Submission_2.Objectives]
+Przejmij dowodzenie nad drugą grupą
+
+[Submission_2.Description]
+Podprowadź swój pojazd i żołnierzy, którzy do Ciebie dołączyli, bliżej grupy placówki bojowej na skraju wsi, a przejdą oni pod Twoje dowództwo.
+
+[Submission_2.Success]
+Placówka bojowa przeszła pod Twoje dowództwo.
+
+[Submission_2.Failed]
+Zadanie nieudane
+
+[Submission_3.Objectives]
+Obsadź karabin maszynowy
+
+[Submission_3.Description]
+Wybierz dwóch piechurów z personelu i obsadź karabin maszynowy.
+
+[Submission_3.Success]
+Ciężki karabin maszynowy jest do Twojej dyspozycji.
+
+[Submission_3.Failed]
+Zadanie nieudane
+
+[Submission_4.Objectives]
+Odeprzyj atak wroga
+
+[Submission_4.Description]
+Zajmij obronę w budynkach przy karabinie maszynowym i odeprzyj atak wrogiej piechoty.
+
+[Submission_4.Success]
+Atak wroga został odparty.
+
+[Submission_4.Failed]
+Zadanie nieudane
+
+[StringTable.Submission_4]
+Znajdując się w budynku w trybie swobodnego ruchu, piechurzy mogą nieznacznie zmienić swoją pozycję, jeśli stamtąd wygodniej strzelać do wykrytego celu. Pamiętaj, że widoczność może być ograniczona przez ściany. Może to być przydatne w zasadzce, ale utrudnia zobaczenie pełnego obrazu bitwy.
+
+[Submission_5.Objectives]
+Zniszcz wrogi czołg
+
+[Submission_5.Description]
+Niemiecki czołg zbliża się do Twoich pozycji. Kierując się dymem, znajdź kontener z przeciwpancernym granatnikiem i zniszcz wrogi czołg.
+
+[Submission_5.Success]
+Wrogi czołg został zniszczony.
+
+[Submission_5.Failed]
+Zadanie nieudane
+
+[StringTable.Submission_5.1]
+Niemiecki czołg zbliża się do Twoich pozycji. Kierując się dymem, znajdź kontener z przeciwpancernym granatnikiem i zniszcz wrogi czołg. Kontener znajduje się obok spalonej ciężarówki za Twoimi pozycjami i na prawo od nich; miejsce jest oznaczone czerwonym dymem. Podprowadź do niego żołnierza z wolnym miejscem na broń, otwórz ekwipunek {hkey:inventory} – wyświetli się panel z przedmiotami w pobliżu żołnierza. Przedmioty możesz podnosić dwukrotnym kliknięciem LPM, przeciąganiem lub jednym z przycisków podnoszenia. Żołnierz potrzebuje trochę czasu na podniesienie przedmiotów. Aby określić liczbę przedmiotów, podczas przenoszenia przytrzymaj CTRL (jedna sztuka), SHIFT (cały stos) lub CTRL+SHIFT (połowa stosu).
+
+[StringTable.Submission_5.2]
+Jeśli czołg jest zbyt daleko, spróbuj się ukryć lub położyć, aby czołg nie wykrył Twoich żołnierzy. Zaatakuj czołg, gdy podjedzie bliżej. Użyj trybów skradania {hkey:setbodymodelay}, zakaż swobodnego ruchu {hkey:actionmode} albo włącz tryb „Zasadzka” {hkey:ambush}.
+
+[StringTable.Submission_5.3]
+Aby trafienie z „Bazooki” było jak najskuteczniejsze, otwórz ogień mniej więcej na 2/3 lub 1/2 maksymalnego zasięgu strzału, wskazanego przerywanym sektorem. W tym celu zakaż żołnierzowi z „Bazooką” strzelania {hkey:firemode}, poczekaj, aż czołg zbliży się na wymaganą odległość, a następnie ponownie zezwól na strzelanie {hkey:firemode}. Wtedy, jeśli istnieje linia ognia, żołnierz sam otworzy ogień. Jeśli wydasz bezpośredni rozkaz ataku na czołg, to przy braku linii ognia żołnierz może zacząć zbliżać się do celu, co bywa niepożądane.
+
+[Submission_6.Objectives]
+Ewakuacja
+
+[Submission_6.Description]
+Przejmij pojazd do transportu piechoty. Załaduj cały personel na ciężarówkę, a następnie przewieź ją do punktu ewakuacji.
+
+[Submission_6.Success]
+Personel ewakuowany.
+
+[Submission_6.Failed]
+Zadanie nieudane
+
+[Submission_7.Objectives]
+Ewakuacja
+
+[Submission_7.Description]
+Ewakuuj cały personel ze wsi do punktu ewakuacji.
+
+[Submission_7.Success]
+Personel dotarł do punktu ewakuacji
+
+[Submission_7.Failed]
+Zadanie nieudane
+
+[Submission_8.Objectives]
+Ewakuacja
+
+[Submission_8.Description]
+Musisz ewakuować personel do wskazanego punktu. Możesz do tego użyć pojazdu, który wezwiesz przyciskiem posiłków.
+
+[Submission_8.Success]
+Personel ewakuowany
+
+[Submission_8.Failed]
+Zadanie nieudane
+
+[Submission_9.Objectives]
+Zniszcz czołgi lotnictwem
+
+[Submission_9.Description]
+Musisz wezwać samoloty szturmowe i zniszczyć czołgi nadjeżdżające z kierunku południowo-zachodniego. Aby samoloty szturmowe skutecznie naprowadzić na cel, czołgi muszą znajdować się w bezpośredniej linii widzenia piechoty.
+
+[Submission_9.Success]
+Czołgi zniszczone!
+
+[Submission_9.Failed]
+Zadanie nieudane
+
+[StringTable.Submission_9]
+Musisz wezwać samoloty szturmowe i zniszczyć czołgi nadjeżdżające z kierunku południowo-zachodniego. Aby samoloty szturmowe skutecznie naprowadzić na cel, czołgi muszą znajdować się w bezpośredniej linii widzenia piechoty. Samoloty potrzebują czasu, aby dolecieć do celu. Po ataku na jeden cel samolot wykona drugi przelot i zaatakuje następny.

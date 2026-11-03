@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Conserve y defienda la zona especificada.
+[Submission1.Description]
+El XXX Cuerpo británico ha lanzado un nuevo ataque contra el 910º. Regimiento Panzergrenadier, que se encuentra defendiendo la ciudad de Tilly.
+ 
+Sus órdenes:
+- Tome la ciudad.
+[Submission1.Success]
+¡Bien hecho, comandante!
+[Submission1.Failed]
+¡Misión fallida! Han destruido sus tropas.
+[Submission2.Objectives]
+Detenga el ataque enemigo.
+[Submission2.Description]
+El XXX Cuerpo británico ha lanzado un ataque de desgaste con objeto de desorganizar las posiciones alemanas y permitir que la 7ª. División Acorazada reanude su propia ofensiva.
+ 
+Sus órdenes:
+- Detenga el ataque enemigo.
+[Submission2.Success]
+¡Bien hecho, comandante! ¡El ataque enemigo se ha detenido!
+[Submission2.Failed]
+¡Misión fallida! Han destruido sus tropas.

@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+퀴베르빌을 해방하고 이후 진격에 대비하여 도로를 확보하라.
+[Mission.Description]
+전략 요충지인 퀴베르빌에는 남쪽과 남동쪽으로 이어지는 도로가 있다. 도로 확보는 아군의 진격에 필수적이다.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+퀴베르빌 외곽의 농장을 확보하라.
+[Submission_1.Description]
+적이 점거한 농장.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+퀴베르빌 마을을 해방하라.
+[Submission_2.Description]
+적은 퀴베르빌에서 전열을 정비하여 방어 태세를 취했다.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+남쪽으로 이어지는 도로를 확보하라.
+[Submission_3.Description]
+도로를 확보하고 이 지역의 적대 병력을 모두 제거하라.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+퀴베르빌 남동쪽의 도로를 확보하라.
+[Submission_4.Description]
+도로와 그 주변 지역에서 적을 소탕하라.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+임무 완수.
+[Submission_4.Failed]
+목표를 달성하지 못했다.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+목표를 달성하지 못했다.
+[Submission_2.Success]
+퀴베르빌을 점령했다. 임무 완수.
+[Submission_2.Failed]
+목표를 달성하지 못했다.
+[Submission_3.Success]
+임무 완수.
+[Submission_3.Failed]
+임무 실패.
+[StringTable.Tanks]
+예비 병력 가용

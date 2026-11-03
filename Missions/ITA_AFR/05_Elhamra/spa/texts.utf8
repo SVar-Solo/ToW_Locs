@@ -1,0 +1,50 @@
+﻿[Submission_1.Objectives]
+Rechace el ataque
+[Submission_1.Description]
+Ocupe posiciones defensivas y prepárese para rechazar un ataque.
+[Submission_01.Success]
+Misión cumplida.
+[Submission_01.Failed]
+Misión fallida.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Mantenga las posiciones ocupadas
+[Mission.Description]
+Ocupe posiciones defensivas frente a las tropas enemigas que avanzan, rechace sus ataques y mantenga el terreno.
+[NewSubmission.Success]
+Misión cumplida.
+[NewSubmission.Failed]
+Misión fallida.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission_1.Success]
+El primer ataque ha sido rechazado.
+[Submission_1.Failed]
+El enemigo ha roto su defensa.
+[Submission_2.Objectives]
+Prepárese para rechazar el siguiente ataque
+[Submission_2.Description]
+El enemigo se reagrupa y pronto intentará de nuevo romper su defensa. Prepárese para rechazar su próximo ataque y despliegue los refuerzos que lleguen.
+[Submission_3.Objectives]
+Limpie el poblado
+[Submission_3.Description]
+Despeje de enemigos este pequeño poblado para evitar un ataque envolvente contra nuestras defensas.
+[Submission_4.Objectives]
+Defienda las posiciones ocupadas
+[Submission_4.Description]
+Los estadounidenses intentan una vez más recuperar el equilibrio; prepárese para defender sus posiciones en la aldea capturada.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+Misión fallida.
+[Submission_3.Success]
+Misión cumplida.
+[Submission_3.Failed]
+Misión fallida.
+[Submission_4.Success]
+Misión cumplida.
+[Submission_4.Failed]
+Misión fallida.

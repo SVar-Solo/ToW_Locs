@@ -1,0 +1,64 @@
+﻿[MainTask.Objectives]
+Capture the supply base, repel all possible enemy counterattacks.
+[MainTask.Description]
+[MainTask.Success]
+Radiogram from Rommel: To Italian commander. The enemy attack is repelled, our forces are already in the immediate area of the station. Congratulations on your victory!
+[MainTask.Failed]
+Radiogram from Rommel to the headquarters: General von Arnim! These Italians have suffered intolerable losses and proved to be unable to accomplish the objective. Ah, one shouldn’t expect much from them anyway!
+[StringTable.VillageCaptured]
+Radiogram from Rommel: To Italian commander. My congratulations on capturing the station, surviving English troops put their guns down and beg for mercy! It’s nice, isn't it? However, my troops are still breaking trough the stubborn resistance of the enemy. Air reconnaissance reports that a hurriedly organized enemy battle group is approaching your positions from point 2, attempting to perform a counterattack. They will make it to the station in 10 minutes. Use the time, the captured field guns and machine guns to organize your defense and repel their attack! You will also have a flight of our fighters to oppose possible enemy strikes.
+[StringTable.ReadyForAssault]
+Radiogram from Rommel: To Italian commander. You silenced the enemy field guns and machine guns, now I authorize you to engage the rest of the unit and you will have the bombers at your disposal, too.
+[StringTable.IntroSubtitle1]
+A German captain addresses the Italian soldiers:
+[StringTable.IntroSubtitle2]
+I’ve heard much about courage and abilities...
+[StringTable.IntroSubtitle3]
+Of the Italian Alpini, and I hope it’s not just some twaddle!
+[StringTable.IntroSubtitle4]
+Signore Tenente will explain the details of the objective we’ve received, [StringTable.IntroSubtitle5]
+all I am going to add is that this is ...
+[StringTable.IntroSubtitle6]
+one of the most important objectives ...
+[StringTable.IntroSubtitle7]
+we’ve ever had the chance to fulfill.
+[StringTable.IntroSubtitle8]
+So prove yourself worthy of the glory of Ancient Rome!
+[StringTable.WinSubtitle1]
+Voices of Italian soldiers: Giuseppe, do you have the flag with you?
+[StringTable.WinSubtitle1a]
+He... forgot it! This moron from Bologna is just doing this his way as usual!
+[StringTable.WinSubtitle2]
+I’ve found it!... Pass it here, it would be very tough if Germans...
+[StringTable.WinSubtitle3]
+took us for English. We’ve got English guns already!
+[StringTable.WinSubtitle4]
+The head tank - Panzer IV - is German!
+[StringTable.WinSubtitle5]
+Hold your fire! They are approaching... and don’t open fire!
+[StringTable.WinSubtitle6]
+They recognized us, it’s all right now!
+[StringTable.WinSubtitle7]
+German tank crewman: Sprechen Sie Deutsch, italienischer Kamerad?...
+[StringTable.WinSubtitle8]
+Gratulieren! Sieg heil!
+[StringTable.FailSubtitle1]
+Here comes Ziegler.
+[StringTable.FailSubtitle2]
+Kameraden, these wops failed the mission!
+[StringTable.FailSubtitle3]
+Easy, Ziegler! Do you know the difference between Italian and German tanks?
+[StringTable.FailSubtitle4a]
+No, I don’t.
+[StringTable.FailSubtitle4]
+Our tanks have 3 forward gears and 1 reverse gear, and Italian tanks have it all vice versa!
+[StringTable.FailSubtitle5]
+Dietrich, I would laugh with you, but now our situation can be described with just two words:
+[StringTable.FailSubtitle6]
+ALLES KAPUTT!
+[StringTable.WinSubtitle6a]
+God be praised, we’re lucky!
+[StringTable.WinSubtitle6b]
+Hey, Giuseppe, you better keep your mouth shut and watch out for the flag!
+[StringTable.EnemyIsHere]
+Radiogram from Rommel: To Italian commander. Air reconnaissance reports that the enemy is in the immediate area of the station. Hold it at all costs! My forces have breached the enemy defenses and are marching to aid you!

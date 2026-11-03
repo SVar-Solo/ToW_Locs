@@ -1,0 +1,35 @@
+﻿[StringTable.1]
+Repousser l’attaque ennemie.
+Tactique de l’ennemi :
+Les chars lourds débordent et passent sur les arrières pour détruire votre artillerie. L’infanterie attaque les tranchées. Les chars légers couvrent la progression de l’infanterie.
+Votre tactique : vos soldats doivent tenir leur position. Utilisez les canons et les soldats équipés de fusils antichars PTRD pour immobiliser puis détruire les chars lourds ennemis, puis détruisez les chars légers ennemis. Utilisez l’infanterie pour détruire l’infanterie ennemie qui avance sur les positions.
+
+[StringTable.2]
+Repousser l’attaque ennemie.
+Tactique de l’ennemi :
+L’infanterie attaque les tranchées, puis les chars passent à l’attaque en couvrant l’infanterie par le feu.
+Votre tactique :
+Sélectionnez le type d’obus HE pour les canons et, avec l’infanterie, détruisez l’infanterie ennemie qui avance. Dès que les chars ennemis passent à l’attaque, détruisez-les par des tirs ajustés des canons.
+
+[Submission1.Objectives]
+Tenir la défense et repousser les attaques ennemies.
+
+[Submission1.Description]
+Les troupes allemandes avancent dans ce secteur du front dans le but de détruire les positions défensives de notre armée. Le Grand Quartier général (Stavka) juge nécessaire d’arrêter l’avance des troupes ennemies dans cette zone.
+
+Ordre reçu :
+- tenir la défense dans la zone indiquée ;
+- repousser les attaques allemandes.
+
+[Submission1.Success]
+Ordres du commandement exécutés ! L’avance ennemie dans ce secteur du front a été arrêtée ! Vous êtes digne du grade d’officier russe !
+
+[Submission1.Failed]
+Ordres non exécutés ! L’ennemi a percé la défense dans ce secteur du front !
+
+[StringTable.Win]
+Tâche accomplie !
+
+[StringTable.Disp]
+Mode de déploiement :
+Dans la zone en surbrillance, vous pouvez déplacer vos troupes (infanterie, artillerie, chars, mitrailleuses, etc.) – individuellement ou en groupe. Pour pivoter dans la direction voulue sans changer de position, sélectionnez les troupes et faites un clic droit dans la direction voulue. Après avoir déployé les troupes, vérifiez visuellement leurs lignes de tir en rapprochant la caméra du sol.

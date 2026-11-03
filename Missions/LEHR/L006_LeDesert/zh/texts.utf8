@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+摧毁指定区域内的敌军防御。
+[Mission.Description]
+在我军阵地前方，美军围绕一座小镇构筑了设防阵地。据我们的侦察兵报告，大约一个连的步兵据守其中，并有57毫米反坦克炮和105毫米榴弹炮支援。
+ 
+命令：
+- 率领你麾下的部队攻击敌军阵地并将其逐退。
+[Mission.Success]
+干得好，指挥官！敌军防线已被突破。
+[Mission.Failed]
+任务失败！你的部队已被击败。
+[Submission_1.Objectives]
+夺取村庄。
+[Submission_1.Description]
+迂回敌军主防御阵地的侧翼，以确保夺取该镇。
+ 
+命令：
+- 夺取村庄。
+[Submission_1.Success]
+干得好，指挥官！村庄已被夺取。
+[Submission_1.Failed]
+任务失败！你的部队已被消灭。

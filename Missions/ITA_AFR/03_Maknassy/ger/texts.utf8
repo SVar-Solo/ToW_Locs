@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Prevent attack
+[Submission_1.Description]
+The enemy is trying to accumulate forces to perform a strike along the road to the suburbs. Try to prevent a simultaneous attack by firing at the regrouping enemy units.
+[NewSubmission.Success]
+Mission accomplished: the battery is destroyed and its positions are overrun.
+[NewSubmission.Failed]
+Mission failed.
+[Mission.Objectives]
+Protect the suburb of Maknassy
+[Mission.Description]
+Take command of the defensive positions and prepare to repel the attack. Drive the enemy out from the Maknassy suburbs.
+[Submission_2.Objectives]
+Destroy artillery battery
+[Submission_2.Description]
+Enemy artillery battery is spotted, destroy it and clear the specified positions.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.

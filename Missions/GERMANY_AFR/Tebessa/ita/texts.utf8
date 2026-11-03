@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Distruggere le difese
+[Mission.Description]
+Distruggere le difese statunitensi sul passo di Tebessa.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Objectives]
+Prendere un punto d'appoggio
+[Submission_1.Description]
+Assicurare l'obiettivo segnato sulla mappa eliminando i cannoni e le truppe nemiche che vi si trovano.
+[Submission_1.Success]
+La base di partenza è stata assicurata.
+[Submission_1.Failed]
+Missione fallita.
+[StringTable.Haubitze]
+Ora avete il comando degli obici. Usateli per sostenere l'offensiva.
+[Submission_2.Objectives]
+Eliminare il primo scaglione
+[Submission_2.Description]
+Eliminare il primo livello delle difese nemiche.
+[Submission_2.Success]
+Il primo livello delle difese nemiche è stato eliminato.
+[Submission_2.Failed]
+Missione fallita.
+[Submission_3.Objectives]
+Eliminare il secondo scaglione
+[Submission_3.Description]
+Eliminare il secondo livello delle difese nemiche presso l'uscita del passo.
+[Submission_3.Success]
+Le difese nemiche sono state completamente eliminate.
+[Submission_3.Failed]
+Missione fallita.
+[StringTable.Add_tanks]
+Ho messo a sua disposizione dei carri armati dalla riserva del comando d'armata.

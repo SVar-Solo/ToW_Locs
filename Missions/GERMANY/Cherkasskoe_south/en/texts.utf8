@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+The combat team will occupy the southern outskirts of Cherkasskoe and rally on the objective.
+[Mission.Description]
+Reconnaissance will clarify the enemy’s position, hostile firepower and tank ditch passage points. Cross the tank ditch as quick as possible and destroy the first defense line. Flank and neutralize the Soviet defenses and consolidate on the built-up area.
+[Mission.Success]
+The southern part of Cherkasskoe has been occupied.  The enemy forces withdrew northward.
+[Mission.Failed]
+We have failed to carry out the order. The enemy is too strong!
+[Submission_1.Objectives]
+Reach the first line of enemy trenches and take the positions with infantry.
+[Submission_1.Success]
+The line of obstacles has been passed. Attacking the first trench.
+[Submission_1.Failed]
+The attack has been stalled, immediate support is required!
+[Submission_2.Objectives]
+Attack the enemy on the southern outskirts of Cherkasskoe. Occupy and hold the village.
+[Submission_2.Success]
+The southern part of Cherkasskoe has been occupied.
+[Submission_2.Failed]
+The attack has been stalled, immediate support is required!
+[Submission_3.Objectives]
+Repel the counterattack of enemy tanks. Prevent the enemy from capturing the built-up area.
+[Submission_3.Success]
+The enemy counterattack has been thwarted successfully.
+[Submission_3.Failed]
+Our forces withdraw under enemy pressure.
+[StringTable.Ifantry_support]
+An infantry unit is now under your control.
+[StringTable.Inf_1]
+Infantry
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

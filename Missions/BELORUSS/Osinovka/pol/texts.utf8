@@ -1,0 +1,39 @@
+﻿[Mission_01.Objectives]
+Wyzwól Osinowkę, Griadę, Zarzecze.
+[Mission.Description]
+Wyzwól Osinowkę, Griadę, Zarzecze.
+Wyeliminuj siły wroga w rejonie.
+[Mission_01.Success]
+Misja wykonana.
+[Mission_01.Failed]
+Misja nieudana!
+[Mission.Objectives]
+Wyzwól Osinowkę, Griadę, Zarzecze. Wyeliminuj siły wroga w rejonie.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana!
+[Submission1.Objectives]
+Oczyść Osinowkę z wojsk wroga.
+[Submission1.Description]
+Oczyść Osinowkę z wojsk wroga.
+[Submission1.Success]
+Zadanie wykonane.
+[Submission1.Failed]
+Zadanie nieudane.
+[Submission2.Objectives]
+Wyzwól Griadę.
+[Submission2.Description]
+Wyzwól Griadę.
+[Submission2.Success]
+Zadanie wykonane.
+[Submission2.Failed]
+Zadanie nieudane.
+[Submission3.Objectives]
+Wyzwól Zarzecze.
+[Submission3.Description]
+Wyzwól Zarzecze.
+[Submission3.Success]
+Zadanie wykonane.
+[Submission3.Failed]
+Zadanie nieudane.

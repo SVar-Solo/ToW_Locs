@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Odeprzyjcie ataki wroga na południe od Czerkaskoje. 
+[Mission.Description]
+Oddziały o sile zbliżonej do batalionu piechoty, z czołgami z Dywizji Grossdeutchland, nadchodzą od południa, by zaatakować Czerkaskoje. Skupcie się na utrzymaniu pierwszego okopu. Jeśli wróg się przebije, wycofajcie siły na pozycje zastępcze na południowo-zachodnich obrzeżach wioski.
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Nasze wojska wycofują się pod naporem przeważających sił wroga.
+[Submission_1.Objectives]
+Nie pozwólcie wrogowi przebić się do południowej części Czerkaskoje aż do przybycia wsparcia.
+[Submission_1.Success]
+Wrogie natarcie zostało zatrzymane.
+[Submission_1.Failed]
+Wróg przebił się do wioski, nasze wojska się wycofują.
+[Submission_2.Objectives]
+Wycofajcie się do centralnej części Czerkaskoje. Zabezpieczcie odwrót głównych sił na nowe linie za pomocą czołgów i artylerii.
+[Submission_2.Success]
+Misja ukończona, nasze siły zajęły nową linię obrony.
+[Submission_2.Failed]
+Utraciliśmy kontrolę nad jednostkami - wycofują się w nieładzie i odrębnych grupach.
+[StringTable.Reinforcement_tanks]
+Grupa czołgów z rezerw dywizji jest teraz pod waszą komendą.
+[StringTable.Reinforcement_spg]
+Bateria dział samobieżnych jest teraz pod waszą komendą.
+
+[StringTable.ChangeArmy]
+Grupy bojowe na lewej i prawej flance są teraz pod waszą komendą. 
+[StringTable.tanks]
+Czołgi z 245. Niezależnego Pułku Pancernego
+[StringTable.SPG]
+Działa szturmowe z 1440. Pułku Artylerii Samobieżnej
+[StringTable.Infantry]
+Piechota
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Rompa as defesas
+[Mission.Description]
+Major Gerhard, seu grupo de combate deve avançar até Le Kef via Thala. A estrada para Thala passa pelo desfiladeiro de Kasserine, onde, segundo nossa inteligência, as forças dos EUA estão defendendo. Rompa as defesas inimigas no desfiladeiro e continue o avanço.
+[Mission.Success]
+As defesas inimigas foram destruídas.
+[Mission.Failed]
+Recuar. Fracassamos em romper as defesas inimigas no desfiladeiro.
+[Submission_1.Objectives]
+Elimine o flanco esquerdo
+[Submission_1.Description]
+Ataque imediatamente o inimigo e elimine o flanco esquerdo de suas defesas. A inteligência informa que a estrada pelo desfiladeiro é bastante estreita e está sob mira da artilharia inimiga. Mas existe uma trilha na montanha por onde podemos chegar e destruir os canhões antitanque inimigos.
+[Submission_1.Success]
+O flanco esquerdo das defesas inimigas foi destruído!
+[Submission_1.Failed]
+Missão fracassada.
+[Submission_1_1.Objectives]
+Repila o contra-ataque
+[Submission_1_1.Description]
+O inimigo está contra-atacando! Mobilize imediatamente suas forças e repila o assalto!
+[Submission_1_1.Success]
+O contra-ataque foi repelido com sucesso.
+[Submission_1_1.Failed]
+Missão fracassada.
+[Submission_3.Objectives]
+Elimine as defesas inimigas
+[Submission_3.Description]
+Segundo nossa inteligência, um pequeno grupo de combate inimigo montou defesas além do desfiladeiro. Para avançar até Thala, é preciso eliminar as defesas inimigas.
+[Submission_3.Success]
+As defesas inimigas foram eliminadas.
+[Submission_3.Failed]
+Missão fracassada.
+[Submission_2.Objectives]
+Elimine o flanco direito
+[Submission_2.Description]
+Nosso reconhecimento descobriu que o inimigo minou todas as passagens do desfiladeiro, exceto uma, protegida por artilharia e infantaria inimigas. Não temos tempo para desminar, pois nossas forças aéreas informam que uma grande formação inimiga se aproxima do desfiladeiro. Para permitir o avanço de nossas tropas, devemos esmagar o flanco direito das defesas inimigas.
+[Submission_2.Success]
+O flanco direito das defesas inimigas foi destruído.
+[Submission_2.Failed]
+Missão fracassada.
+[Submission_2_1.Objectives]
+Esmague o inimigo
+[Submission_2_1.Description]
+O grupo de combate inimigo está contra-atacando! Devemos eliminá-lo com um golpe esmagador.
+[Submission_2_1.Success]
+O grupo de combate inimigo foi eliminado.
+[Submission_2_1.Failed]
+Missão fracassada.
+[StringTable.Reinforcement]
+Major Gerhard. O senhor agora tem o comando dos tanques e da infantaria da 10ª Divisão Panzer.

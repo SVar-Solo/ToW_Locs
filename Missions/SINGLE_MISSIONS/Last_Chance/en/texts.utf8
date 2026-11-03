@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Conduct a force recon of the surrounding area and destroy any enemy units encountered.
+[Mission.Description]
+The bulk of the allied forces have been evacuated across the sea at Dunkirk and all that remains are scattered and defiant French units. The final occupation of Western France has been delayed though as the Germans sought to regain their own cohesion. Because of this delay, a slim window of opportunity has opened and a French counter-attack has been prepared.
+[Mission.Success]
+Victory! You have dealt the enemy a serious blow.
+[Mission.Failed]
+Defeat. All may be lost, as you have failed this day!
+[Submission_1.Objectives]
+Scout out the nearby village for enemy troops.
+[Submission_1.Description]
+We have reports that the Germans have occupied the town ahead. Scout ahead and if you encounter resistance, drive the enemy from the town. What reserves we have on hand, have been assigned to you.
+
+Your orders are:
+-	Recon the town and engage the enemy if encountered. Reinforcements are en-route to your command. 
+[Submission_1.Success]
+Recon complete.
+[Submission_1.Failed]
+You have failed to properly recon the town.
+[StringTable.Add_reserv]
+You have received some tanks from the reserve.
+[StringTable.Add_Artillery]
+Having assessed your situation, HQ was provided you with additional artillery assets.
+[Submission_2.Objectives]
+Attack the enemy located in the town.
+[Submission_2.Description]
+The results of your recon have showed that the Germans managed to deploy a significant number of troops, however their main forces are still on march from Dunkirk. We must jump at the opportunity and strike at the enemy when they least expect it.
+
+Your orders:
+	-  With the enemy still consolidating his positions in the town, launch an attack against him.
+[Submission_2.Success]
+Enemy eliminated. Good job commander!
+[Submission_2.Failed]
+You have failed!
+[Submission_3.Objectives]
+Repulse the enemy tank attacks.
+[Submission_3.Description]
+The enemy forces are proving much stronger than expected. They have deployed substantial tank units to the battle.
+
+Your order is:
+	-  Resist the enemy tank attack.
+[Submission_3.Success]
+Enemy attack has been stopped!
+[Submission_3.Failed]
+Defeat. The enemy tanks have proven too tough to beat.

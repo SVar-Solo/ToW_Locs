@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Освободить от противника населенные пункты Каньи, Френувилль.
+[Mission.Description]
+Дальнейшими целями наступления являются Каньи и Френувилль.
+[StringTable.SPGs_Tanks]
+Main For
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Взять Каньи.
+[Submission_1.Description]
+Выбить противника из населенного пункта Каньи.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Выбить противника  укрепившегося в райное фермы.
+[Submission_2.Description]
+Здания фермы превращены немцами в опорный пункт. Выбейте их оттуда.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Освободить Френувилль.
+[Submission_3.Description]
+Еще один населенный пункт на пути наступления. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+Задача выполнена.
+[Submission_3.Failed]
+Задача не выполнена.
+[Submission_2.Success]
+Задача выполнена.
+[Submission_2.Failed]
+Задача не выполнена.
+[Submission_4.Objectives]
+Зенитки у перекрестка.
+[Submission_4.Description]
+Батарея 88 мм зенитных орудий контролирует подходы к позициям противника. Использование практически любой  бронетехники приведет к тяжелым потерям. Прежде чем ввести в бой основные силы, необходимо нейтрализовать батарею.
+[NewSubmission3.Success]
+Зенитки уничтожены
+[NewSubmission3.Failed]
+Зенитки не удалось нейтрализовать.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Задача не выполнена.
+[Submission_1.Success]
+Задача выполнена.
+[Submission_1.Failed]
+Задача не выполнена.
+[Submission_4.Success]
+Батарея нейтрализована, задача выполнена.
+[Submission_4.Failed]
+Задание не выполнено.
+[StringTable.Tanks]
+Группа резерва на связи.

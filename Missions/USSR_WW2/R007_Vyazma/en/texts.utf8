@@ -1,0 +1,36 @@
+﻿[Submission01.Objectives]
+Break through the enemy defenses and free the village
+[Submission01.Description]
+The decisive hour has come; we must break the backbone of the Fascist Army Group Center. To do this all the reserves of the Soviet troops have been massed up in this sector. Your troops are an important element of this new offensive. In order to assist in your efforts, heavy tanks have been assigned to your command. Make a good use of them and justify our trust in your abilities.
+
+Your orders:
+- 	Break through the enemy defenses.
+- 	Free the village from the fascist aggressors.
+[Submission01.Success]
+The enemy is in retreat! The village has been liberated! The results are very impressive indeed.  
+[Submission01.Failed]
+Your attack has been smashed. Now instead of advancing, we must prepare for a German counter-attack.
+[Submission02.Objectives]
+Break through the enemy defenses.
+[Submission02.Description]
+Infantry and anti-tank guns protect the approaches to the village. It is necessary to destroy the first line of enemy defense.
+
+Your orders:
+- 	Break through the enemy defenses.
+[Submission02.Success]
+The enemy defenses have been breached.
+[Submission02.Failed]
+Your troops have been destroyed. You have not lived up to your command’s hopes!
+[Submission03.Objectives]
+Liberate the village.
+[Submission03.Description]
+The battered enemy troops have retreated to their second line of defense where they have been reinforced. You must destroy these units and continue your advance.
+
+Your orders:
+- 	Liberate the village from the Fascist aggressors.
+[Submission03.Success]
+The village has been liberated. A great success commander!
+[Submission03.Failed]
+You have worthlessly expended the lives of the soldiers under your command.
+[StringTable.Reserv]
+Reinforcements have been assigned to you.

@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Liberare il villaggio di Tourmauville, assicurare i guadi sull’Odon e ripulire entrambe le sponde dalle forze nemiche.
+[Mission.Description]
+Nel tentativo di arrestare la nostra avanzata, il nemico ha predisposto le proprie difese ai guadi dell’Odon davanti a noi. Dobbiamo assicurarci i guadi ed eliminare tutte le forze ostili.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Il ponte presso Tourmauville.
+[Submission_1.Description]
+Un ponte strategico sull’Odon si trova a sud di Tourmauville.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Un altro ponte più a sud.
+[Submission_2.Description]
+È un altro ponte strategico. Dovrebbe permetterci di aggirare il nemico e di attaccare alle spalle i difensori di Tourmauville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Liberare Tourmauville.
+[Submission_3.Description]
+Il nemico ha consolidato la propria posizione a Tourmauville e ha preso il controllo dei guadi e degli altri accessi. Dobbiamo scacciare il nemico dal villaggio.
+[Submission_4.Objectives]
+L’incrocio.
+[Submission_4.Description]
+L’incrocio e i Panther.
+[Submission_1.Success]
+Missione compiuta. Il passaggio di Tourmauville è stato assicurato.
+[Submission_1.Failed]
+Compito non portato a termine.
+[Submission_2.Success]
+Compito portato a termine. Ponte assicurato.
+[Submission_2.Failed]
+Compito non portato a termine.
+[Submission_3.Success]
+Compito portato a termine. Tourmauville conquistata.
+[Submission_3.Failed]
+Compito non portato a termine.
+[Submission_4.Success]
+[Submission_4.Failed]
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Compito non portato a termine.
+[StringTable.Tanks]
+Forza di riserva disponibile.

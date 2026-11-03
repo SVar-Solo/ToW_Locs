@@ -1,0 +1,35 @@
+﻿[StringTable.Reserv]
+Des renforts sont arrivés pour vous appuyer.
+[Mission1.Objectives]
+Tenir les positions défensives dans la zone indiquée.
+[Mission1.Description]
+La 3e armée allemande progresse à vive allure à travers la Pologne orientale. Son objectif est de déborder et contourner nos forces au nord. Le haut commandement polonais a décidé de concentrer autant de forces que possible au sud-est du pays. Il faut à tout prix empêcher les Allemands de percer nos lignes. 
+
+Vos ordres sont les suivants :
+-	Défendre et tenir vos positions dans la zone indiquée.
+[Mission1.Success]
+Mission accomplie ! L’avance des troupes ennemies a été arrêtée !
+[Mission1.Failed]
+Vos troupes ont été défaites ! L’ennemi a détruit nos défenses et poursuit son avance !
+[Submission1.Objectives]
+Attaquer les nouvelles forces ennemies progressant du sud.
+[Submission1.Description]
+Des éclaireurs ont repéré un petit groupe d’unités allemandes progressant du sud en direction de Sandomierz. L’ennemie va probablement tenter une percée dans ce secteur pour ensuite couper à travers la rivière et avancer vers Sandomierz.
+
+Vos ordres :
+-	Attaquer les forces ennemies progressant du sud.
+[Submission1.Success]
+Mission accomplie ! Les troupes ennemies ont été attaquées et repoussées !
+[Submission1.Failed]
+Vous avez échoué dans votre mission ! Les troupes ennemies ont infligé de lourdes pertes.
+[Submission2.Objectives]
+Attaquer les troupes ennemies qui avancent maintenant de l’ouest.
+[Submission2.Description]
+Des troupes allemandes se rassemblent pour attaquer dans notre secteur. Des éclaireurs ont repéré une force ennemie importante approchant de l’ouest, vers Sandomierz.
+
+Vos ordres sont :
+-	Attaquer les forces ennemies avançant de l’ouest.
+[Submission2.Success]
+Mission accomplie ! L’attaque allemande venant de l’ouest a été repoussée.
+[Submission2.Failed]
+Vous avez échoué ! Les troupes allemandes ont pu profiter de la situation et nous ont infligé de lourdes pertes.

@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Realize um reconhecimento em força da área ao redor e destrua quaisquer unidades inimigas que encontrar.
+[Mission.Description]
+O grosso das forças aliadas foi evacuado por mar em Dunquerque e restam apenas unidades francesas dispersas e desafiadoras. A ocupação final do oeste da França foi adiada, pois os alemães procuraram recuperar sua própria coesão. Por causa desse atraso, abriu-se uma estreita janela de oportunidade e um contra-ataque francês foi preparado.
+[Mission.Success]
+Vitória! Você desferiu um duro golpe no inimigo.
+[Mission.Failed]
+Derrota. Tudo pode estar perdido, pois você fracassou neste dia!
+[Submission_1.Objectives]
+Faça o reconhecimento do vilarejo próximo em busca de tropas inimigas.
+[Submission_1.Description]
+Temos relatos de que os alemães ocuparam a cidade à frente. Faça o reconhecimento adiante e, se encontrar resistência, expulse o inimigo da cidade. As reservas de que dispomos foram designadas a você.
+
+Suas ordens são:
+-	Reconhecer a cidade e engajar o inimigo, se encontrado. Reforços estão a caminho do seu comando. 
+[Submission_1.Success]
+Reconhecimento concluído.
+[Submission_1.Failed]
+Você não conseguiu fazer o reconhecimento adequado da cidade.
+[StringTable.Add_reserv]
+Você recebeu alguns tanques da reserva.
+[StringTable.Add_Artillery]
+Após avaliar a sua situação, o QG forneceu a você meios de artilharia adicionais.
+[Submission_2.Objectives]
+Ataque o inimigo localizado na cidade.
+[Submission_2.Description]
+Os resultados do seu reconhecimento mostraram que os alemães conseguiram posicionar um número significativo de tropas, porém suas forças principais ainda estão em marcha desde Dunquerque. Devemos aproveitar a oportunidade e atacar o inimigo quando ele menos esperar.
+
+Suas ordens:
+	-  Com o inimigo ainda consolidando suas posições na cidade, lançar um ataque contra ele.
+[Submission_2.Success]
+Inimigo eliminado. Bom trabalho, comandante!
+[Submission_2.Failed]
+Você fracassou!
+[Submission_3.Objectives]
+Repila os ataques de tanques inimigos.
+[Submission_3.Description]
+As forças inimigas estão se mostrando muito mais fortes do que o esperado. Elas empregaram unidades de tanques substanciais na batalha.
+
+Sua ordem é:
+	-  Resistir ao ataque de tanques inimigos.
+[Submission_3.Success]
+O ataque inimigo foi detido!
+[Submission_3.Failed]
+Derrota. Os tanques inimigos se mostraram duros demais para serem vencidos.

@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Saque al enemigo de sus posiciones.
+[Submission1.Description]
+Los invasores nazis han consolidado sus posiciones en la línea entre el lago Istra y la ciudad de Istra y no están dispuestos a perder terreno sin una dura resistencia. Es de vital importancia sacar al enemigo de esas posiciones. 
+
+Sus órdenes son:
+- Saque al enemigo lejos de sus posiciones.
+[Submission1.Success]
+¡Ha cumplido la orden!
+[Submission1.Failed]
+Ha fracasado en el cumplimiento de su orden.
+[Submission2.Objectives]
+Destruya la avanzada enemiga.
+[Submission2.Description]
+Las unidades nazis han realizado un brutal contraataque en esta línea del frente. Debe enfrentarse a ellos y destruir la avanzada enemiga.
+
+Sus órdenes son:
+- Destruir a las unidades alemanas atacantes.
+[Submission2.Success]
+¡Ha cumplido sus órdenes! Las tropas enemigas han sido derrotadas.
+[Submission2.Failed]
+¡No ha conseguido cumplir sus órdenes! Han derrotado a sus tropas.

@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Освободить от противника населенный пункт Кувервилль, взять под контроль дороги для обеспечения дальнейшего развития наступления.
+[Mission.Description]
+Ключевой позицией в данной местности является населенный пункт Кувервилль, из которого ведут  дороги на юг и юго-восток, контроль над этими дорогами жизненно необходим для дальнейшего развития наступления.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Занять ферму на окраине Кувервилля.
+[Submission_1.Description]
+Здания фермы, занятые противником.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Освободить от противника деревню Кувервилль.
+[Submission_2.Description]
+Противник закрепился в зданиях непосредственно в Кувервилле и подготовил позиции к обороне.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Взять под контроль дорогу в южном направлении.
+[Submission_3.Description]
+Взять под контроль дорогу, уничтожить действующие в указанном районе войска противника.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Взять под контроль дорогу на юго-восточной окраине Кувервилля.
+[Submission_4.Description]
+Очистить от вражеских войск дорогу и ее окрестности.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+Задача выполнена.
+[Submission_4.Failed]
+Задача не выполнена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Задача провалена.
+[Submission_1.Success]
+Задача выполнена.
+[Submission_1.Failed]
+Задача не выполнена.
+[Submission_2.Success]
+Кувервилль взят, задача выполнена.
+[Submission_2.Failed]
+Задача не выполнена.
+[Submission_3.Success]
+Задача выполнена.
+[Submission_3.Failed]
+Задача провалена.
+[StringTable.Tanks]
+Группа резерва на связи.

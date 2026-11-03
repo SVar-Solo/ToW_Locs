@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Celem jest wyzwolenie miejscowości Grentheville, Soliers i Four.
+[Mission.Description]
+Wyprzyj wroga ze wskazanych miejscowości.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Wyprzyj wroga z Grentheville.
+[Submission_1.Description]
+Zniszcz wrogi punkt oporu.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1.Objectives]
+[Submission1.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission2.Objectives]
+[Submission2.Description]
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Zdobądź wieś Soliers.
+[Submission_2.Description]
+Wyprzyj wroga z Soliers.
+[Submission_3.Objectives]
+Wyzwól Four.
+[Submission_3.Description]
+Wyeliminuj wroga stacjonującego w Four.
+[Submission_2.Success]
+Zadanie wykonane.
+[Submission_2.Failed]
+Nie udało się wykonać zadania.
+[Submission_1.Success]
+Zadanie wykonane.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[Submission_3.Success]
+Zadanie wykonane.
+[Submission_3.Failed]
+Nie udało się wykonać zadania.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Nie udało się wykonać zadania.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

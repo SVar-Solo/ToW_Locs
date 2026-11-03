@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Elimine as defesas inimigas e capture o ponto alto.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Elimine as defesas inimigas e capture o ponto alto. Repila todos os contra-ataques inimigos.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+O inimigo tem fortificações sólidas na região. A primeira parte da linha de avanço é relativamente plana, portanto haverá apoio de tanques. No entanto, a segunda parte do avanço será somente de infantaria. Seu alvo principal é o ponto alto assinalado no mapa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+O inimigo tem fortificações sólidas na região. A primeira parte da linha de avanço é relativamente plana, portanto haverá apoio de tanques. No entanto, a segunda parte do avanço será somente de infantaria. Seu alvo principal é o ponto alto assinalado no mapa. Fique preparado: segundo o quartel-general, o inimigo pode lançar contra-ataques.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Ponto alto capturado.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Ponto alto capturado.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+As tropas foram derrotadas e estão recuando.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+As tropas foram derrotadas e estão recuando.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Mantenha o ponto alto assinalado no mapa. Minere todos os acessos.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Com a sua infantaria, mantenha o ponto alto na área de templo, de difícil travessia. Lembre-se: o inimigo também não poderá usar seus veículos blindados pesados. Designe grupos para colocar minas e guardar a retaguarda, e minere todos os acessos.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Ponto alto perdido.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Mantenha o ponto alto assinalado no mapa. Minere todos os acessos.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Mantenha o ponto alto assinalado no mapa até nova ordem.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Com a sua infantaria, mantenha o ponto alto na área de templo, de difícil travessia. Lembre-se: o inimigo também não poderá usar seus veículos blindados pesados. Designe grupos para colocar minas e guardar a retaguarda, e minere todos os acessos.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Com a sua infantaria, mantenha o ponto alto na área de templo, de difícil travessia. Lembre-se: o inimigo também não poderá usar seus veículos blindados pesados. Designe grupos para colocar minas e guardar a retaguarda, e minere todos os acessos.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Ponto alto perdido.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Ponto alto perdido.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MLR_SUPPORT]
+Artilharia de foguetes disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+A força aérea está aguardando ordens.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+A força aérea está aguardando ordens.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Elimine as defesas inimigas e capture o ponto alto.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Elimine as defesas inimigas e capture o ponto alto. Repila todos os contra-ataques inimigos.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+O inimigo tem fortificações sólidas na região. A primeira parte da linha de avanço é relativamente plana, portanto haverá apoio de tanques. No entanto, a segunda parte do avanço será somente de infantaria. Seu alvo principal é o ponto alto assinalado no mapa.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+O inimigo tem fortificações sólidas na região. A primeira parte da linha de avanço é relativamente plana, portanto haverá apoio de tanques. No entanto, a segunda parte do avanço será somente de infantaria. Seu alvo principal é o ponto alto assinalado no mapa. Fique preparado: segundo o quartel-general, o inimigo pode lançar contra-ataques.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Ponto alto capturado.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Ponto alto capturado.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+As tropas foram derrotadas e estão recuando.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+As tropas foram derrotadas e estão recuando.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Mantenha o ponto alto assinalado no mapa. Minere todos os acessos.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Com a sua infantaria, mantenha o ponto alto na área de templo, de difícil travessia. Lembre-se: o inimigo também não poderá usar seus veículos blindados pesados. Designe grupos para colocar minas e guardar a retaguarda, e minere todos os acessos.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Ponto alto perdido.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Mantenha o ponto alto assinalado no mapa. Minere todos os acessos.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Mantenha o ponto alto assinalado no mapa até nova ordem.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Com a sua infantaria, mantenha o ponto alto na área de templo, de difícil travessia. Lembre-se: o inimigo também não poderá usar seus veículos blindados pesados. Designe grupos para colocar minas e guardar a retaguarda, e minere todos os acessos.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Com a sua infantaria, mantenha o ponto alto na área de templo, de difícil travessia. Lembre-se: o inimigo também não poderá usar seus veículos blindados pesados. Designe grupos para colocar minas e guardar a retaguarda, e minere todos os acessos.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Ponto alto perdido.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Ponto alto perdido.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+A força aérea está aguardando ordens.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+A força aérea está aguardando ordens.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros sob o seu comando.
+
+[Reinforcement.Group_inf]
+Infantaria
+
+[Reinforcement.Group_infantry]
+Infantaria
+

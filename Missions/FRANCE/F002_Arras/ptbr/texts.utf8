@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Elimine as tropas inimigas na área indicada.
+[Mission1.Description]
+21 de maio de 1940. Quatro brigadas blindadas do 16º Exército alemão aproximaram-se de Arras. Para fechar a brecha e impedir a possível captura da cidade, os britânicos destacaram a 5ª Brigada de Tanques. O comando francês, desgostoso com o estado das coisas neste setor, também empregou grupos de tanques pertencentes ao 6º Exército francês.
+
+Suas ordens:
+-	Encontre e destrua todas as tropas alemãs em sua área. A 5ª Brigada de Tanques inglesa lhe dará apoio. 
+-	Impeça as tropas inimigas de romperem até Arras.
+[Mission1.Success]
+Bom trabalho, as tropas inimigas foram eliminadas e destruídas. Você ganhou um tempo muito necessário para preparar melhor a defesa de Arras.
+[Mission1.Failed]
+Suas tropas foram derrotadas! Agora os alemães poderão entrar em Arras sem dificuldade!
+[Submission1.Objectives]
+Dê apoio à brigada de tanques inglesa.
+[Submission1.Description]
+A 5ª Brigada de Tanques inglesa avança em direção à aldeia para eliminar as brigadas blindadas alemãs que se movem rumo a Arras. 
+O inimigo nos supera em veículos blindados e está decidido a avançar rumo ao objetivo final, Arras.
+
+Sua ordem é:
+- 	Dê apoio ativo à 5ª Brigada de Tanques inglesa pelo máximo de tempo possível.
+[Submission1.Success]
+Ordem bem-sucedida, a Brigada de Tanques inglesa sobreviveu à batalha com poucas baixas.
+[Submission1.Failed]
+Ordem fracassada, os alemães derrotaram a brigada de tanques inglesa!
+[StringTable.Reserv]
+Reforços chegaram para apoiá-lo.

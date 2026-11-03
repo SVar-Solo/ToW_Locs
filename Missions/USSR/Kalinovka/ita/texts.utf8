@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Impedire al nemico di occupare la Quota 232.8 e di sfondare fino a Kalinovka.
+[Mission.Description]
+Occupare e mettere in sicurezza l'area difensiva sui pendii sudorientali della Quota 232.8. Impedire al nemico di sfondare fino a Kalinovka. Concentrare gli sforzi sul mantenimento delle posizioni davanti al crinale dell'altura. Assicurarsi a ogni costo che le unità del 10o Corpo carri vengano schierate in combattimento nei pressi dell'altura.
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Le nostre forze si ritirano sotto l'assalto di un nemico superiore.
+[Submission1.Objectives]
+Tenere le posizioni fino all'arrivo delle unità del 10o Corpo carri.
+[Submission1.Success]
+Missione compiuta, l'avanzata nemica è stata fermata.
+[Submission1.Failed]
+Il nemico ha sfondato la prima linea e ora incalza l'avanzata.
+[Submission2.Objectives]
+Contrattaccare il nemico insieme alle unità del 10o Corpo carri.
+[Submission2.Success]
+Il contrattacco procede secondo i piani, il nemico si ritira.
+[Submission2.Failed]
+Il contrattacco è fallito, le nostre truppe sono state fermate da forze superiori.
+[StringTable.Support]
+Gruppi di carri armati e fanteria sono stati posti ai vostri ordini.
+
+[StringTable.Avia_Support]
+Attacco aereo degli Il-2 disponibile.
+[StringTable.Art_Support]
+Una batteria di artiglieria a razzo Katjuša aprirà il fuoco al vostro segnale.
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

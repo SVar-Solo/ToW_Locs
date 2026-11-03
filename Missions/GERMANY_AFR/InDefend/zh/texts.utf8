@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+坚守阵地
+[Mission.Description]
+坚守西迪布济德附近的阵地。
+[Mission.Success]
+任务完成。
+[Mission.Failed]
+任务失败。
+[Submission_1.Objectives]
+坚守城镇
+[Submission_1.Description]
+集团军司令部已从预备队中调拨坦克，但它们仍在途中。敌军正拼命试图夺回西迪布济德。在增援到达之前，你必须守住该镇。
+[Submission_1.Success]
+任务完成。
+[Submission_1.Failed]
+任务失败。
+[Submission_2.Objectives]
+摧毁敌军炮兵阵地
+[Submission_2.Description]
+你现在可以指挥集团军司令部预备队的坦克。用它们夺取小居民点并摧毁敌军炮兵阵地。
+[Submission_2.Success]
+任务完成。
+[Submission_2.Failed]
+任务失败。
+[StringTable.Add_tanks]
+- 少校，我已下令从集团军司令部预备队调拨坦克给你。美军损失惨重，是时候反击了。祝你和你的部下好运。

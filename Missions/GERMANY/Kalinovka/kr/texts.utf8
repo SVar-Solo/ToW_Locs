@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+232.8고지를 점령하고 사수하라.
+[Mission.Description]
+전차, 차량화 보병, 포병으로 구성된 전투단은 232.8고지 방향으로 진격한다. 고지 남동쪽 사면의 적을 격파하고 북서쪽 사면까지 진출한다. 고지를 사수하여 적 전차와 보병이 사단 주력을 측면에서 위협하지 못하도록 막아라.
+[Submission1.Objectives]
+232.8고지의 적 진지를 점령하라.
+[Submission2.Objectives]
+적 전차를 격퇴하라.
+[Mission.Success]
+임무 완료.
+[Mission.Failed]
+명령을 수행하지 못했다. 적이 너무 강하다!
+[Submission1.Success]
+임무 완료. 232.8고지를 점령했다.
+[Submission1.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[Submission2.Success]
+적의 반격을 성공적으로 격퇴했다.
+[Submission2.Failed]
+아군은 적의 압박에 밀려 후퇴한다!
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

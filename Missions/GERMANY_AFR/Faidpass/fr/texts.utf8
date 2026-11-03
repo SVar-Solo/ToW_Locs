@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+Percée dans la ville
+[Mission.Description]
+Mes respects, commandant. J'attends beaucoup de votre groupe. Vous serez l'axe d'avance principal et le premier à s'engouffrer dans la ville pour obtenir la victoire. Les données de la reconnaissance aérienne indiquent une concentration de canons antichars au nord. Mais vous devrez avancer vite, afin que l'ennemi n'ait pas le temps de faire venir des renforts. Que Dieu et le Reich allemand soient avec vous !
+[Mission.Success]
+Mission principale accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Objectives]
+Prenez la ville
+[Submission_1.Description]
+Prenez Sidi Bou Zid.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Détruisez les chars ennemis
+[Submission_2.Description]
+Détruisez les chars ennemis.
+[Submission_2.Success]
+Les chars ennemis ont été détruits.
+[Submission_2.Failed]
+Mission échouée.
+[StringTable.]
+Mon commandant, des chars américains ont été repérés.
+[StringTable.Us_Tanks_isVis]
+Mon commandant, des chars américains ont été repérés.
+[Submission_3.Objectives]
+Repoussez une contre-attaque
+[Submission_3.Description]
+Sidi Bou Zid est à nous. Mais nos pilotes signalent que l'ennemi prépare activement une contre-attaque à l'est de la ville. Les forces ennemies comprennent des chars et de l'infanterie. Nous devons prendre toutes les mesures et repousser la contre-attaque sur la ville. 
+[Submission_3.Success]
+La contre-attaque ennemie a été repoussée.
+[Submission_3.Failed]
+Nous avons perdu Sidi Bou Zid.
+[StringTable.INF]
+Mon commandant, les Tigers venus à votre aide ont été détruits. Prenez le commandement de l'infanterie d'escorte.
+[StringTable.Infantry]
+Mon commandant, les Tigers venus à votre aide ont été détruits. Prenez le commandement de l'infanterie d'escorte.
+[StringTable.Infantry_change]
+Mon commandant, prenez le commandement de l'infanterie d'escorte.

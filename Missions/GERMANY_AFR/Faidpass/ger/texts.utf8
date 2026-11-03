@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+In die Stadt einbrechen
+[Mission.Description]
+Guten Abend Major, ich setze große Erwartungen in Ihre Gruppe. Sie werden die Hauptstoßrichtung sein und als Erste in die Stadt einbrechen, um den Sieg zu erringen. Luftaufklärungsdaten deuten auf eine Konzentration von Panzerabwehrkanonen im Norden hin. Aber Sie müssen schnell vorrücken, damit der Feind keine Zeit hat, Verstärkung heranzuziehen. Mögen Gott und das Deutsche Reich mit Ihnen sein!
+[Mission.Success]
+Hauptauftrag erfüllt.
+[Mission.Failed]
+Mission fehlgeschlagen.
+[Submission_1.Objectives]
+Die Stadt einnehmen
+[Submission_1.Description]
+Nehmen Sie Sidi Bou Zid ein.
+[Submission_1.Success]
+Mission erfüllt.
+[Submission_1.Failed]
+Mission fehlgeschlagen.
+[Submission_2.Objectives]
+Feindliche Panzer zerstören
+[Submission_2.Description]
+Zerstören Sie feindliche Panzer.
+[Submission_2.Success]
+Feindliche Panzer wurden zerstört.
+[Submission_2.Failed]
+Mission fehlgeschlagen.
+[StringTable.]
+Major, Sir, US-Panzer wurden gesichtet.
+[StringTable.Us_Tanks_isVis]
+Major, Sir, US-Panzer wurden gesichtet.
+[Submission_3.Objectives]
+Einen Gegenangriff abwehren
+[Submission_3.Description]
+Sidi Bou Zid ist unser. Aber unsere Piloten melden, dass der Feind östlich der Stadt aktiv einen Gegenangriff vorbereitet. Die feindlichen Kräfte umfassen Panzer und Infanterie. Wir müssen alle Maßnahmen ergreifen und den Gegenangriff auf die Stadt abwehren.
+[Submission_3.Success]
+Feindlicher Gegenangriff wurde abgewehrt.
+[Submission_3.Failed]
+Wir haben Sidi Bou Zid verloren.
+[StringTable.INF]
+Major, die Tiger, die Ihnen zu Hilfe kommen sollten, wurden zerstört. Übernehmen Sie das Kommando über die Begleitinfanterie.
+[StringTable.Infantry]
+Major, die Tiger, die Ihnen zu Hilfe kommen sollten, wurden zerstört. Übernehmen Sie das Kommando über die Begleitinfanterie.
+[StringTable.Infantry_change]
+Major, übernehmen Sie das Kommando über die Begleitinfanterie.

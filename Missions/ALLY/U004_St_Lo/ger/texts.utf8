@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Befreien Sie die Stadt nordöstlich von der feindlichen Hauptstellung.
+[Mission.Description]
+Die Deutschen haben ihre Stellungen bei Saint-Lo eingerichtet und verstärkt. Laut unserer Luftaufklärung hat der Feind die Hauptstreitkräfte der 7. Armee in dieser Gegend konzentriert. Das Gelände ist für Hinterhalte und kleine Widerstandsnester günstig, und wir müssen vorsichtig vorrücken.
+
+Ihre Befehle lauten: 
+-	 Führen Sie eine Aufklärungsmission mit Panzern und Infanterie durch.
+-	 Befreien Sie die Stadt im Nordosten. 
+[Mission.Success]
+Die Mission wurde erfüllt! Operation Cobra läuft weiter.
+[Mission.Failed]
+Die Mission ist gescheitert. 
+[Submission_1.Objectives]
+Führen Sie eine Aufklärungsmission in die zwei Dörfer am Aussenbezirk von Saint-Lo durch. 
+[Submission_1.Description]
+Der Feind hat seine Hauptverteidigungseinheiten in den Hügeln in der Nähe der Stadt konzentriert. Zwei Dörfer befinden sich auf der Vormarschachse unserer Offensive. Wir haben keinerlei Informationen über feindliche Präsenz dort. 
+
+Ihre Befehle:
+-	 Führen Sie eine Aufklärungsmission in die zwei Dörfer durch. 
+[Submission_1.Success]
+Die Aufklärungsmission wurde ausgeführt. Der Feind wurde geschlagen. 
+[Submission_1.Failed]
+Die Mission ist gescheitert.
+[Submission_2.Objectives]
+Greifen Sie die feindlichen Befestigungen auf dem Hügel an. 
+[Submission_2.Description]
+Der Feind hat eine Reihe an Verteidigungsanlagen entlang dem Zugang zur Stadt eingerichtet und die umliegenden Hügel ausgenutzt. 
+
+Ihre Befehle:
+-	 Zerstören Sie die feindlichen Stellungen auf dem Hügel.
+[Submission_2.Success]
+Die Mission wurde erfüllt. 
+[Submission_2.Failed]
+Die Mission ist gescheitert.
+[Submission_3.Objectives]
+Nehmen Sie die Stadt Saint-Lo ein. 
+[Submission_3.Description]
+Die Stadt Saint-Lo ist von wichtiger strategischer Bedeutung. Sie ist der Schlüssel zu unserem weiteren Vormarsch in Frankreich. 
+ 
+Ihre Befehle:
+-	 Befreien Sie Saint-Lo und zerstören Sie die feindliche Gernison, die die Stadt verteidigt.
+[Submission_3.Success]
+Der Hinterhalt wurde neutralisiert! 
+[Submission_3.Failed]
+Die Mission ist gescheitert.
+[Submission_4.Objectives]
+Zerstören Sie die feindliche Artillerie Batterie.
+[Submission_4.Description]
+Die Deutschen haben ihre Artillerie geschickt positioniert. Alle Zugänge zu der Stadt können von dem Hügel aus mit Feuer belegt werden, wo die feindliche Batterie in Stellung gegangen ist. 
+
+Ihre Befehle:
+-	 Zerstören Sie die feindliche Artillerie Batterie auf dem Hügel. 
+[Submission_4.Success]
+Die Artillerie Batterie wurde zerstört. 
+[Submission_4.Failed]
+Die Mission ist gescheitert.
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.

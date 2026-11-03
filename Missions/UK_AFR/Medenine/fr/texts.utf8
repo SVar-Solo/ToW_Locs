@@ -1,0 +1,64 @@
+﻿[Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+[Mission.Description]
+Repoussez toutes les attaques ennemies et défendez les hauteurs.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission1.Objectives]
+Tenez la cote 1
+[Submission1.Description]
+La cote 1 est tactiquement très importante. Elle offre une excellente vue sur une grande partie de la ligne de front ainsi que sur l’ensemble de nos arrières. Si l’ennemi occupe la cote 1, il pourra régler ses tirs d’artillerie et pilonner avec précision nos positions arrière. Tenez-la coûte que coûte.
+[Submission1.Success]
+Les attaques ennemies ont été repoussées, avec de lourdes pertes pour l’adversaire !
+[Submission1.Failed]
+L’ennemi a pris la cote 1 !
+[Submission2.Objectives]
+Reprenez la cote 1 à l’ennemi.
+[Submission2.Description]
+L’infanterie ennemie s’est emparée de la cote 1. L’ordre est de déloger l’ennemi de la cote 1 à l’aide des réserves.
+[Submission2.Success]
+La cote 1 a été reprise.
+[Submission2.Failed]
+L’attaque a échoué. L’ennemi peut maintenant pilonner précisément nos positions !
+[Submission3.Objectives]
+Attaquez les sapeurs allemands.
+[Submission3.Description]
+Protégés par des chars ennemis, des sapeurs ennemis tentent de dégager des passages pour les chars dans notre champ de mines. Notre infanterie doit attaquer les sapeurs allemands et les empêcher d’achever leur travail. Notre artillerie vous couvrira d’un écran de fumée.
+[Submission3.Success]
+L’ennemi a cessé le déminage et se replie. Mission accomplie.
+[Submission3.Failed]
+Mission échouée ! Les sapeurs ennemis ont eu le temps de dégager quelques passages pour leurs chars. Nous devons maintenant nous préparer à repousser une attaque de chars !
+[Submission4.Objectives]
+Tenez activement la ligne en utilisant les tirs de batterie et l’aviation.
+[Submission4.Description]
+Tenez la cote 4 et les principales lignes de défense. Depuis des positions de tir abritées, infligez à l’ennemi le plus de dégâts possible avant qu’il n’atteigne nos principales lignes de défense.
+[Submission4.Success]
+L’ennemi a subi de lourdes pertes et bat en retraite. Mission accomplie !
+[Submission4.Failed]
+Des chars ennemis ont percé nos défenses et atteint le poste de commandement !  
+[StringTable.Message1]
+L’ennemi se replie. Sans doute pour se regrouper et attaquer de nouveau.
+[StringTable.Message2]
+L’ennemi bombarde la hauteur, probablement en préparant une nouvelle attaque. La pente arrière n’est pas battue par les tirs et l’infanterie peut y attendre la fin du bombardement.
+[StringTable.Reinf1]
+Les renforts sont arrivés.
+[StringTable.mess1]
+Les Allemands semblent avoir réglé leurs tirs et tirent pour tuer.
+[StringTable.mess2]
+L’ennemi semble avoir commencé à régler ses tirs sur nos positions. Il est vital de reprendre la cote 1 au plus vite !
+[StringTable.mess4]
+Les champs de mines sont indiqués sur la carte. Malheureusement, il n’y a que des mines antichars, qui n’arrêteront pas l’infanterie. De plus, les champs de mines doivent être protégés contre le déminage.
+[StringTable.mess5]
+L’infanterie ennemie a sécurisé la hauteur. Si elle dispose d’un observateur d’artillerie, nous allons bientôt avoir des difficultés.
+[StringTable.mess6]
+Les renforts sont arrivés.
+[StringTable.mess7]
+Attention ! Chars ennemis sur le flanc gauche !
+[StringTable.mess8]
+Le contact avec la batterie est établi. L’artillerie est prête à tirer sur demande !
+[StringTable.mess9]
+Des avions approchent de votre secteur, prêts à intervenir sur votre demande !
+[StringTable.mess3]
+Bombardement terminé. Regagnez vos positions.

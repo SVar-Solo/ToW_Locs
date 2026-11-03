@@ -1,0 +1,60 @@
+﻿[MainTask.Objectives]
+Stoppez la percée
+[MainTask.Description]
+Rendez-vous à la localité tenue par nos forces. Avec leur aide, tendez une embuscade au convoi ennemi. Ils ne doivent pas atteindre le col, pas un seul d’entre eux - un seul Allemand mettra en déroute le troupeau qui était notre armée. Alors bonne chance, et que Dieu vous aide. Souvenez-vous : ne laissez aucun Allemand atteindre vivant la sortie du col !
+[MainTask.Success]
+Le groupe mobile ennemi est vaincu, ses restes ont pris la fuite. Continuez comme ça !
+[MainTask.Failed]
+Du rapport du lieutenant-colonel Waters : ...l’ennemi a percé jusqu’à la sortie du col, a submergé nos forces qui se repliaient en désordre et les a détruites...
+[StringTable.Incoming]
+Les observateurs d’artillerie signalent que le convoi ennemi atteint le col et sera bientôt à portée de nos positions !
+[StringTable.IntroSubtitle1]
+Alan Mitchell : Bon sang, c’est quoi ça ?
+[StringTable.IntroSubtitle2]
+Soldats en fuite : Sauve qui peut ! Sauve qui peut !!!
+[StringTable.IntroSubtitle3]
+Alan Mitchell : Et ceux qui ne peuvent pas ? (à la radio) Mon colonel, ça sent mauvais, ils détalent comme des lapins...
+[StringTable.IntroSubtitle3a]
+(à l’équipage) Arrêtons-nous et parlons un peu. Armes de poing prêtes !
+[StringTable.IntroSubtitle3b]
+- Mais on n’est pas la police militaire ! - On ne va pas leur tirer dessus, juste les ramener à la raison !
+[StringTable.IntroSubtitle4]
+Alan Mitchell : Halte ! Où courez-vous comme ça, je me demande ?
+[StringTable.IntroSubtitle5]
+Un GI en fuite : Va te faire foutre, le héros ! Je veux pas crever, y a des tonnes d’Allemands ! ...
+[StringTable.IntroSubtitle6]
+... et t’es un crétin si tu veux pas vivre, comme ceux qui sont restés au village !
+[StringTable.IntroSubtitle7]
+Alan Mitchell : Voilà qui est mieux. Donc tout le monde ne s’est pas chié dessus ! ...
+[StringTable.IntroSubtitle8]
+... Et vous, sachez que les Allemands vous rattraperont même dans des chiottes de New York !
+[StringTable.WinSubtitle1]
+Aide de camp : Mon colonel, ils reviennent !
+[StringTable.WinSubtitle2]
+Lieutenant-colonel Waters : Tout ne tenait qu’à un fil...
+[StringTable.WinSubtitle3]
+...mais ils ont fait ce qu’ils avaient à faire.
+[StringTable.WinSubtitle4]
+Alan Mitchell : Mon colonel ! L’équipage...
+[StringTable.WinSubtitle5]
+Lieutenant-colonel Waters : Nous devons tous deux nous dépêcher, j’aurai votre rapport plus tard, Mitchell...
+[StringTable.WinSubtitle6]
+... ça se corse sur un autre champ de bataille, je dois y être.
+[StringTable.WinSubtitle7]
+Vous recevrez d’autres informations par radio ; en attendant, tenez, une lettre de Nelly !
+[StringTable.FailSubtitle1]
+Capitaine de la Wehrmacht : Alors, les Yankees, vous en avez eu assez de la guerre ? ...
+[StringTable.FailSubtitle2]
+Kameraden, inutile de prouver...
+[StringTable.FailSubtitle3]
+que les Américains sont des moutons à la guerre !
+[StringTable.FailSubtitle4]
+Même si leur char léger s’est battu sacrément bien, on a fini par le cramer !
+[StringTable.StuartDestroyed]
+Le char d’Alan Mitchell est détruit !
+[StringTable.MitchellIsKilled]
+Alan Mitchell a été tué !
+[StringTable.EnemySuccessful]
+L’ennemi a percé jusqu’à la sortie du col ! La mission est échouée !
+[StringTable.ReturnInTank]
+Remettez dans le char les membres d’équipage débarqués pour accomplir la mission.

@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Destroy the enemy artillery.
+[Submission1.Description]
+Enemy artillery units present a threat to our forces, which are preparing for a major offensive. Use your armor units and attack the enemy artillery positions.   
+
+Your orders:
+- 	Destroy the enemy artillery.
+[Submission1.Success]
+The artillery has been destroyed!
+[Submission1.Failed]
+The enemy artillery remains a threat to our forces due to your failure.
+[Mission1.Objectives]
+Crush the enemy defenses.
+[Mission1.Description]
+The retreating Allied divisions have squeezed into the area of Gravlin, Arras and Brugge. Army Group ‘A’ and Army Group ‘B’ have been attacking them from the East and the Southeast. The British troops have begun their evacuation from Dunkirk to England. French units are covering the English retreat by taking up defensive positions on the outskirts of town. We must not let the enemy units slip away and across the sea. Destroy them with all haste!      
+
+Your orders: 
+- 	Using your forces at hand, sweep clear the defensive positions on the outskirts of town.
+[Mission1.Success]
+Congratulations! You won a victory over the French! Because of your victory we may still be able to catch the English units before they all evacuate.
+[Mission1.Failed]
+Sadly, you have lost! The French managed to defend the line and the British got one more day of unhampered evacuation. 
+[StringTable.Reserv]
+Reinforcements have arrived to support you.

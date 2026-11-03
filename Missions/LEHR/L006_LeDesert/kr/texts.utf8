@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+지정 구역의 적 방어 시설을 파괴하라.
+[Mission.Description]
+아군 진지 전방에 미군이 소도시를 중심으로 요새화된 진지를 구축했다. 척후병에 따르면 대략 보병 1개 중대가 57mm 대전차포와 105mm 곡사포의 지원을 받으며 배치되어 있다.
+ 
+명령:
+- 지휘 아래 있는 병력으로 적 진지를 공격하여 몰아내라.
+[Mission.Success]
+잘했다, 지휘관! 적 방어선이 무너졌다.
+[Mission.Failed]
+임무 실패! 귀관의 부대가 패배했다.
+[Submission_1.Objectives]
+마을을 점령하라.
+[Submission_1.Description]
+도시를 확보하기 위해 적의 주 방어 진지를 측면에서 공격하라.
+ 
+명령:
+- 마을을 점령하라. 
+[Submission_1.Success]
+잘했다, 지휘관! 마을을 점령했다.
+[Submission_1.Failed]
+임무 실패! 귀관의 부대가 전멸했다.

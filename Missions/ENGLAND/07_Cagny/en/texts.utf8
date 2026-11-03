@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Liberate Cagny and Frenouville.
+[Mission.Description]
+Our next objectives are Cagny and Frenouville.
+[StringTable.SPGs_Tanks]
+Main Force
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Capture Cagny.
+[Submission_1.Description]
+Drive the enemy from Cagny.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Drive the enemy from the farm.
+[Submission_2.Description]
+The Germans have converted the farm into a strong point. Eliminate them.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Liberate Frenouville.
+[Submission_3.Description]
+Yet another locality along the advance. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+Mission accomplished.
+[Submission_3.Failed]
+Failed to accomplish the task.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Failed to accomplish the task.
+[Submission_4.Objectives]
+Air defence guns by the crossroads.
+[Submission_4.Description]
+A battery of 88mm air defence guns is blocking our approach to the enemy positions. Approaching with any kind of armoured forces will result in heavy losses. The battery must be neutralized before the main bulk of our forces can engage.
+[NewSubmission3.Success]
+Air defence guns destroyed.
+[NewSubmission3.Failed]
+Failed to neutralize the air defence guns.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Failed to accomplish the task.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Failed to accomplish the task.
+[Submission_4.Success]
+Battery neutralized. Mission accomplished.
+[Submission_4.Failed]
+Failed to accomplish the task.
+[StringTable.Tanks]
+Reserve force available.

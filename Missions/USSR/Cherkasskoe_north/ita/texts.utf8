@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Impedire al nemico di sfondare la prima linea. 
+[Mission.Description]
+Il nemico tenta di sfondare la difesa della divisione. L'ordine è di tenere Cerkasskoe. Priorità assoluta va data al mantenimento della prima trincea e del caposaldo anticarro. Contrattaccare i gruppi nemici in avanzata.
+[Submission1.Objectives]
+Distruggete i carri armati nemici.
+[Submission2.Objectives]
+Impedire al nemico di aggirare le nostre posizioni.
+[Submission3.Objectives]
+Il nemico ha sfondato la prima linea con carri e fanteria e ora avanza ulteriormente.
+[Submission4.Objectives]
+Un'unità nemica di forza compagnia, con il sostegno di carri pesanti e cannoni d'assalto, ha iniziato l'assalto al villaggio. Respingere l'attacco nemico.
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Le nostre forze si ritirano sotto l'assalto di un nemico superiore.
+[Submission1.Success]
+Missione compiuta, i carri armati nemici sono stati distrutti. 
+[Submission1.Failed]
+Missione fallita, i carri nemici avanzano ulteriormente.
+[Submission2.Success]
+Missione compiuta, la manovra di aggiramento è stata sventata.
+[Submission2.Failed]
+I carri nemici hanno aggirato le nostre posizioni.
+[Submission_2_1.Success]
+Missione compiuta, il gruppo di aggiramento è stato distrutto.
+[Submission_2_1.Failed]
+Contrattacco respinto, il nemico incalza l'avanzata.
+[Submission_2_2.Success]
+I carri nemici penetrati sono stati distrutti, equilibrio ristabilito.
+[Submission_2_2.Failed]
+Il contrattacco è fallito. I carri nemici hanno sfondato fino alle retrovie della divisione!
+[Submission3.Success]
+Missione compiuta. 
+[Submission3.Failed]
+Il nemico ha sfondato e avanza verso il posto di comando della divisione!
+[Submission4.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Submission4.Failed]
+Le nostre forze si ritirano sotto i colpi di un nemico superiore. 
+[StringTable.Tanks!]
+Carri armati! Preparatevi a respingere l'attacco corazzato.
+[StringTable.Stukas]
+Attacco aereo! Mettetevi al riparo!
+[StringTable.SM2]
+Quei carri li abbiamo fatti fuori per bene, e gli aviatori ci hanno dato una mano.
+[StringTable.SM2_1]
+Ora è molto probabile che i tedeschi superino le nostre posizioni. Attenzione ai fianchi!
+
+[StringTable.SPGs_Tanks]
+Carri armati e semoventi del 245o RCI e del 1440o RAS
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

@@ -1,0 +1,74 @@
+﻿[SubMission_1.Objectives]
+Respingi l'attacco dell'Armata Rossa. Poi contrattacca e prendi il controllo di una vitale stazione di rifornimento.
+[SubMission_1.Description]
+L'Armata Rossa sta avanzando su tutta la linea del fronte. L'ultima linea difensiva tedesca attraversa la città di Kovel. Il Quartier Generale ha ordinato di combattere fino all'ultimo uomo. Il servizio informazioni riporta che i russi lanceranno un attacco esplorativo per saggiare le nostre difese in questo settore.
+
+I tuoi ordini sono:
+-	Respingi l'attacco russo e poi lancia un contrattacco per fermare le operazioni nemiche.
+-	Prendi il controllo della stazione di rifornimento nemica.
+[SubMission_1.Success]
+Hai eseguito gli ordini!
+[SubMission_1.Failed]
+Hai fallito, comandante!
+[Mission.Objectives]
+Impedisci al nemico di superare le tue difese.
+[Mission.Description]
+Le truppe russe hanno lanciato un'offensiva per riprendere la città di Kovel. Devi difendere la città e respingere l'attacco.
+
+I tuoi ordini sono:
+-	Respingi tutti gli attacchi nemici.
+[Mission.Success]
+Le truppe russe hanno perso l'iniziativa. La Germania non dimenticherà l'eroismo dei suoi uomini.
+[Mission.Failed]
+E' un giorno triste nella storia della Germania! Non sei stato in grado di fermare i russi e siamo stati sconfitti.
+
+[Submission_2.Objectives]
+Devi portare le autobotti intatte alla stazione di rifornimento.
+[Submission_2.Description]
+I russi alla guida delle autobotti sono fuggiti; portale alla stazione di rifornimento.
+
+I tuoi ordini sono:
+-	Consegna le autobotti intatte alla stazione di rifornimento.
+[Submission_2.Success]
+Ottimo lavoro comandante. Queste autobotti saranno molto utili!
+[Submission_2.Failed]
+Le autobotti sono perdute.
+[Submission_3.Objectives]
+Prepara le difese per resistere al prossimo attacco russo.
+[Submission_3.Description]
+Secondo l'intelligence, i russi stanno preparando un'offensiva. Preparati meglio che puoi per resistere all'attacco.
+
+I tuoi ordini sono:
+-	Contieni l'avanzata delle truppe nemiche e mantieni le tue posizioni.
+[Submission_3.Success]
+Ottimo lavoro! Hai fermato le truppe d'assalto del nemico!
+[Submission_3.Failed]
+L'attacco nemico era superiore alle tue capacità di resistere. Hai fallito.
+[Submission_5.Objectives]
+Elimina le truppe d'assalto russe.
+[Submission_5.Description]
+Truppe d'assalto russe si stanno avvicinando al deposito di carburante! Devi impedirgli di passare! Inoltre, fai attenzione ai sabotatori nemici che potrebbero cercare di infiltrarsi tra le nostre linee per danneggiare le nostre postazioni di artiglieria.
+
+I tuoi ordini sono:
+-	Elimina le truppe d'assalto sovietiche.
+[Submission_5.Success]
+Le unità nemiche sono state eliminate.
+[Submission_5.Failed]
+Il nemico è passato!
+[Submission_6.Objectives]
+Distruggi la colonna di autobotti russe o, se possibile, catturala.
+[Submission_6.Description]
+I russi hanno sfruttato il loro attacco per prendere del carburante dalla stazione di rifornimento. Quattro autobotti a pieno carico sono appena partite. Fermale!
+
+I tuoi ordini sono:
+-	Cattura, se possibile, la colonna di autobotti nemiche. Se incontri delle difficoltà, e c'è rischio che riescano a fuggire, puoi distruggerle.
+[Submission_6.Success]
+Ottimo lavoro, comandante. Hai impedito ai russi di impossessarsi del carburante.
+[Submission_6.Failed]
+Le autobotti sono riuscite ad allontanarsi. Non sei riuscito a fermarle in tempo.
+[StringTable.inf_reserv]
+Un nuovo distaccamento di fanteria è appena arrivato sotto il tuo comando.
+[StringTable.Tank_reserv]
+Dei carri armati sono appena arrivati sotto il tuo comando.
+[StringTable.SPG_reserv]
+Veicoli semoventi sono appena arrivati sotto il tuo comando.

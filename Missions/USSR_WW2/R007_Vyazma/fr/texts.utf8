@@ -1,0 +1,36 @@
+﻿[Submission01.Objectives]
+Percer les défenses ennemies et libérer le village.
+[Submission01.Description]
+Le moment décisif est arrivé, il nous faut briser l’échine du groupe d’Armée Centre. Pour y parvenir, nos troupes ont été massées dans ce secteur. Vos unités ont un rôle important à jouer dans cette offensive. Afin de soutenir vos efforts, des chars lourds ont été mis sous votre commandement. Utilisez-les à bon escient et ne décevez pas notre confiance dans vos capacités.
+
+Vos ordres :
+- 	Percer les défenses ennemies.
+- 	Libérer le village de l’agresseur fasciste.
+[Submission01.Success]
+L’ennemi bat en retraite ! Le village a été libéré. Ce résultat est admirable.
+[Submission01.Failed]
+Votre attaque a été écrasée. Maintenant, au lieu d’avancer, nous devons nous préparer à une contre-attaque allemande…
+[Submission02.Objectives]
+Percer les défenses ennemies.
+[Submission02.Description]
+De l’infanterie et des canons antichars protègent le village. Il faut absolument détruire cette première ligne de défense.
+
+Vos ordres :
+- 	Percer les défenses ennemies.
+[Submission02.Success]
+Les défenses ennemies ont été percées.
+[Submission02.Failed]
+Vos unités ont été détruites. Vous avez déçu la confiance de vos supérieurs !
+[Submission03.Objectives]
+Libérer le village.
+[Submission03.Description]
+L’ennemi bat en retraite vers sa seconde ligne de défense qui a été renforcée. Il faut détruire ces unités et poursuivrent notre progression.
+
+Vos ordres :
+- 	Libérer le village de l’agresseur fasciste.
+[Submission03.Success]
+Le village a été libéré. Une grande victoire, commandant !
+[Submission03.Failed]
+Vous avez sacrifié la vie de vos hommes en vain.
+[StringTable.Reserv]
+Des renforts vous sont attribués.

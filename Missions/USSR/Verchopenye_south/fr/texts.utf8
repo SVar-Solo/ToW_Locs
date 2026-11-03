@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Tenez la ligne dans la partie sud du village de Verkhopenié.
+[Mission.Description]
+Avec une batterie d’artillerie antichar, une unité de fusils antichars et plusieurs chars, tenez le point d’appui au sud-est de Verkhopenié. Une priorité particulière doit être accordée au maintien des positions à proximité des ponts sur la Péna. Empêchez l’ennemi de franchir la rivière.
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+L’ennemi a établi une tête de pont sur la rive ouest de la Péna, nos troupes se replient.
+[Submission_1.Objectives]
+Occupez les positions abandonnées. Couvrez le repli de l’autre côté de la rivière. 
+[Submission_1.Success]
+Le gros des forces a réussi à prendre position en défense le long de la rive.
+[Submission_1.Failed]
+L’équipe de couverture est battue, le gros des forces est menacé !
+[Submission_2.Objectives]
+Occupez les positions à proximité du passage. Empêchez l’ennemi de gagner la rive opposée.
+[Submission_2.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Submission_2.Failed]
+L’ennemi a pris le pont et établit une tête de pont sur notre rive !
+[Submission_3.Objectives]
+Repliez-vous sur la rive opposée de la Péna. Empêchez les troupes ennemies de franchir la rivière. 
+[Submission_3.Success]
+L’ennemi a été arrêté devant l’obstacle aquatique.
+[Submission_3.Failed]
+L’ennemi a franchi la rivière et chassé nos forces de la partie sud du village de Verkhopenié.
+[StringTable.Add_to_plArmy]
+Toutes les unités en position le long de la rive de la Péna sont désormais sous votre contrôle.
+[StringTable.Rus_Tanks]
+Un groupe de chars a été envoyé depuis les réserves.
+[StringTable.infantry]
+Une unité d’infanterie issue des réserves est arrivée sous votre contrôle.
+
+[StringTable.inf]
+Infanterie
+[StringTable.Tanks]
+Chars du 6e corps de chars
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

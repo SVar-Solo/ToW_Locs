@@ -1,0 +1,23 @@
+﻿[Submission1.Objectives]
+Utrzymaj pozycje obronne we wsi.
+[Submission1.Description]
+Przeważające siły wroga nacierają na pozycje 1. Batalionu 901. Dywizji Grenadierów Pancernych. Z pomocą oddziału z 12. Dywizji Hitlerjugend SS utrzymaj ten teren!
+Rozkazy:
+- We współpracy z czołgami z 12. SS utrzymaj pozycje obronne wokół wsi.
+[Submission1.Success]
+Dobra robota! Wróg nie złamał Twojego ducha bojowego!
+[Submission1.Failed]
+Porażka! Twoje siły zostały pokonane.
+[Submission2.Objectives]
+Odeprzyj nieprzyjacielskie ataki.
+[Submission2.Description]
+Właśnie otrzymaliśmy informacje, że nieprzyjaciel zmienił kierunek natarcia i teraz zbliża się od północy. Przygotuj swoje wojska na kolejny atak.
+ 
+Rozkazy:
+- Odeprzyj nowy nieprzyjacielski atak.
+[Submission2.Success]
+Dobra robota! Wróg nie przełamał Twojej obrony.
+[Submission2.Failed]
+Porażka!
+[StringTable.Change]
+Dostałeś dodatkowe jednostki pancerne z rezerw dywizji.

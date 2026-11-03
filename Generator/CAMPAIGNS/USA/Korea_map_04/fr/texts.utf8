@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capturez la localité de la vallée.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capturez la localité de la vallée.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Localité capturée.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Localité capturée.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Troupes amies vaincues.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Troupes amies vaincues.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Votre équipe de combat a atteint le principal couloir de transport ennemi, mais le gros des forces ennemies défend la localité. Détruisez les défenses ennemies et capturez la localité.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Votre équipe de combat a atteint le principal couloir de transport ennemi, mais le gros des forces ennemies défend la localité et prépare peut-être une contre-attaque. Capturez la localité.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Portez un coup décisif aux hostiles qui attaquent. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Selon la reconnaissance, un détachement avancé ennemi se dirige vers la localité où sont stationnées vos troupes. Engagez-le et éliminez tous les hostiles. Si certains parviennent à atteindre la localité, éliminez-les avec les défenseurs restants.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les contre-attaques ennemies sur la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Tenez la ligne pendant la durée indiquée, jusqu'à nouvel ordre.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+L'ennemi a capturé la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+L'ennemi a capturé la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+La localité de la vallée est un point défensif stratégique de la zone et se trouve sur le principal couloir de transport. Si nous perdons cette position, nos communications dans la zone seront coupées. Vous devez tenir la ligne pendant la durée indiquée et ne pas laisser l'ennemi capturer cette position.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+La localité de la vallée est un point défensif stratégique de la zone et se trouve sur le principal couloir de transport. Si nous perdons cette position, nos communications dans la zone seront coupées. Vous ne devez pas laisser l'ennemi capturer cette position.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Une équipe blindée de réserve est sous vos ordres.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_support]
+Une équipe d'infanterie mécanisée est sous vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_support]
+Une équipe d'infanterie mécanisée est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Une équipe blindée de réserve est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Une équipe blindée de réserve est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviation est disponible et attend vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviation est disponible et attend vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capturez la localité de la vallée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Votre équipe de combat a atteint le principal couloir de transport ennemi. Le gros des forces ennemies défend la localité. Détruisez les défenses ennemies et capturez la position.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capturez la localité.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Selon la reconnaissance, un détachement avancé ennemi se dirige vers la localité indiquée sur la carte. Vous devez devancer l'ennemi, capturer la localité en premier, puis établir vos défenses. Si l'ennemi y arrive le premier, attaquez-le immédiatement, éliminez tous les hostiles et capturez la position.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+La localité de la vallée est un point défensif stratégique de la zone et se trouve sur le principal couloir de transport. Si nous perdons cette position, nos communications dans la zone seront coupées. Vous ne devez pas laisser l'ennemi capturer cette position.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+La localité de la vallée est un point défensif stratégique de la zone et se trouve sur le principal couloir de transport. Si nous perdons cette position, nos communications dans la zone seront coupées. Vous ne devez pas laisser l'ennemi capturer cette position.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Selon la reconnaissance, un détachement avancé ennemi se dirige vers la localité où sont stationnées vos troupes. Vous devez tenir la localité pendant la durée indiquée, jusqu'à l'arrivée de nos forces principales.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Tenez la localité pendant la durée indiquée.
+
+[Reinforcement.Group1[Reinforcement]]
+Blindés et infanterie
+

@@ -1,0 +1,29 @@
+﻿[Mission.Objectives]
+Localize e destrua a bateria antiaérea inimiga.
+[Mission.Description]
+O comandante da divisão ordenou o envio de grupos de reconhecimento de sabotagem com a missão de destruir postos de comando de defesa aérea e eliminar o maior número possível de canhões antiaéreos. O Unteroffizier Steiner reunirá e liderará um grupo de soldados altamente qualificados para cumprir a missão.
+[Submission_1.Objectives]
+O grupo de Steiner deve se infiltrar nas posições da bateria antiaérea inimiga e eliminá-la. Há um transmissor numa das casas da aldeia. Use-o para solicitar apoio aéreo.
+[StringTable.radio_avia]
+O rádio inimigo foi localizado. O apoio aéreo está agora sob seu controle.
+[StringTable.radio_mortar]
+O rádio inimigo foi localizado. O fogo de morteiros está à sua disposição.
+[Submission_1.Success]
+O grupo de Steiner informa: a bateria antiaérea foi destruída. 
+[Submission_1.Failed]
+O grupo de Steiner foi morto. As ordens do comandante da divisão não foram cumpridas.
+[Mission.Success]
+O grupo de reconhecimento de sabotagem cumpriu sua missão. Aguardando apoio de aviões de ataque ao solo.
+[Mission.Failed]
+O grupo de reconhecimento de sabotagem foi morto. A forte defesa aérea inimiga nos impede de usar aviões.
+[StringTable.Radio_avia_dis]
+A comunicação com a base foi perdida. É impossível solicitar apoio aéreo.
+[StringTable.Radio_mortar_dis]
+A comunicação foi perdida. É impossível atirar sem ajuste de tiro.
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

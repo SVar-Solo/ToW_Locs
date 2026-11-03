@@ -1,0 +1,26 @@
+﻿[Submission1.Objectives]
+Repila o ataque inimigo.
+[Submission1.Description]
+Os principais golpes do grupo de ataque inimigo baseado em Volokolamsk visam Solnechnogorsk e a cidade de Istra. Os alemães já se aproximaram da área entre o reservatório de Istra e o rio Istra. Em alguns locais, as tropas alemãs chegaram a cruzar para a margem leste do rio.
+
+Você deve conter o ataque inimigo e manter sob seu controle os acessos à cidade.
+
+Suas ordens:
+-Repila o ataque inimigo.
+[Submission1.Success]
+A ordem do Alto Comando foi cumprida! O ataque dos invasores alemães foi repelido.
+[Submission1.Failed]
+Os alemães conseguiram romper as defesas e ocupar a cidade! Você não cumpriu as ordens do Alto Comando!
+[Submission2.Objectives]
+Repila os ataques de flanco inimigos.
+[Submission2.Description]
+Tropas inimigas avançam do norte e do sul em direção à aldeia para atacar os nossos flancos. Você deve resistir a essas ações de flanqueamento!
+
+Suas ordens:
+- Repila os ataques de flanco inimigos.
+[Submission2.Success]
+As ordens do Alto Comando foram cumpridas! Você repeliu os ataques inimigos.
+[Submission2.Failed]
+Suas tropas foram derrotadas! Você não cumpriu as suas ordens!
+[StringTable.Retreat]
+O esquadrão que cobria o flanco esquerdo está fugindo do campo de batalha!

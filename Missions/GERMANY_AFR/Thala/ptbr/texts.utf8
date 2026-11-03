@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Elimine o inimigo
+[Mission.Description]
+Elimine o inimigo na cidade de Thala.
+[Mission.Success]
+As defesas inimigas em Thala foram completamente eliminadas.
+[Mission.Failed]
+Missão fracassada.
+[Submission_1.Objectives]
+Realize reconhecimento
+[Submission_1.Description]
+Realize reconhecimento para encontrar as posições inimigas. Corrija os ataques ao solo de nossas forças aéreas de assalto.
+[Submission_1.Success]
+As posições de artilharia inimigas foram localizadas. As coordenadas precisas foram transmitidas às forças aéreas.
+[Submission_1.Failed]
+Missão fracassada.
+[Submission_2.Objectives]
+Destrua os tanques inimigos
+[Submission_2.Description]
+Tanques britânicos foram avistados. Recebemos ordem de engajar e destruir os tanques inimigos.
+[Submission_2.Success]
+A força de tanques inimiga foi eliminada.
+[Submission_2.Failed]
+Missão fracassada.
+[StringTable.income]
+Recebemos reforços de mais tropas para continuar a ofensiva.
+[Submission_3.Objectives]
+Elimine as defesas inimigas nas alturas
+[Submission_3.Description]
+O inimigo montou defesas nas alturas além de Thala. Segundo nossa inteligência, os britânicos dispõem de armamento antitanque suficiente. Elimine as defesas inimigas nas alturas.
+[Submission_3.Success]
+As defesas inimigas foram eliminadas.
+[Submission_3.Failed]
+Missão fracassada.

@@ -1,0 +1,60 @@
+﻿[Mission.Objectives]
+Défendez-vous contre une offensive allemande.
+[Mission.Description]
+Pour éviter l'encerclement, le haut commandement allemand a lancé une furieuse contre-attaque, l'opération Ludditch. 
+
+Vos ordres : 
+-	Stoppez l'offensive allemande.
+[Mission.Success]
+Mission accomplie. Vous avez mis un terme à l'offensive allemande. 
+[Mission.Failed]
+L'attaque allemande a réussi et nous avons subi de lourdes pertes.
+[Submission1.Objectives]
+Attaquez le détachement ennemi. 
+[Submission1.Description]
+La reconnaissance rapporte que la phase initiale de l'offensive allemande semble arriver du nord-est. 
+
+Vos ordres sont : 
+- 	Attaquez l'ennemi qui progresse à partir du nord-est.
+[Submission1.Success]
+Mission accomplie. Les forces ennemies se replient.
+[Submission1.Failed]
+La mission est un échec. Vos troupes ont été vaincues. 
+[Submission2.Objectives]
+Attaquez les forces ennemies.
+[Submission2.Description]
+L'offensive allemande se poursuit. Il semble que le centre de gravité de l'attaque proviendra maintenant de l'est.
+
+Vos ordres : 
+-	Attaquez les forces ennemies provenant de l'est.
+[Submission2.Success]
+Mission accomplie. L'ennemi a été stoppé.
+[Submission2.Failed]
+La mission a échoué. Vos forces sont détruites.
+[Submission3.Objectives]
+Attaquez les troupes provenant du nord. 
+[Submission3.Description]
+La partie n'est pas encore gagnée. Une autre attaque est en préparation, cette fois à partir du nord. Cette fois, l'ennemi a la supériorité numérique, mais vous devez vaincre.
+
+Vos ordres:
+-	Détruisez l'assaut principal allemand.
+[Submission3.Success]
+Mission accomplie. Cette phase de l'attaque allemande a été stoppée.
+[Submission3.Failed]
+Échec. L'offensive ennemie est un succès et vos troupes sont détruites.
+[StringTable.Reserve
+Les renforts sont arrivés.
+[Submission4.Objectives]
+Attaquez les forces allemandes.
+[Submission4.Description]
+Nous avons tenu jusqu'à maintenant, mais il semble que les Allemands préparent une ultime tentative, cette fois encore à partir de l'est.
+Vos ordres :
+-	Attaquez les forces ennemies qui approchent par l'est et empêchez l'encerclement de nos forces. 
+ [Submission4.Success]
+Mission accomplie. L'ennemi n'a pas réussi à encercler nos forces. 
+[Submission4.Failed]
+Échec. Vos troupes sont détruites.
+[StringTable.Subtitle_01]
+France, août 1944.
+[StringTable.Reserv]
+Les renforts sont arrivés.

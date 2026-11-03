@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+시내 돌입
+[Mission.Description]
+소령, 자네 부대에 큰 기대를 걸고 있네. 자네들이 주공이 되어 가장 먼저 시내로 쳐들어가 승리를 쟁취해야 하네. 항공 정찰 자료에 따르면 북쪽에 대전차포가 집결해 있네. 하지만 적이 증원을 끌어올 시간이 없도록 신속히 진격해야 하네. 신과 독일 제국이 자네들과 함께하기를!
+[Mission.Success]
+주요 임무를 완수했다.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Objectives]
+시가지 점령
+[Submission_1.Description]
+시디 부 지드를 점령하라.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.
+[Submission_2.Objectives]
+적 전차를 파괴하라
+[Submission_2.Description]
+적 전차를 격파하라.
+[Submission_2.Success]
+적 전차를 격파했다.
+[Submission_2.Failed]
+임무 실패.
+[StringTable.]
+소령님, 미군 전차가 포착되었습니다.
+[StringTable.Us_Tanks_isVis]
+소령님, 미군 전차가 포착되었습니다.
+[Submission_3.Objectives]
+반격 격퇴
+[Submission_3.Description]
+시디 부 지드는 우리 손에 들어왔다. 그러나 아군 조종사들의 보고에 따르면 적이 시 동쪽에서 활발히 반격을 준비하고 있다. 적 병력에는 전차와 보병이 포함된다. 모든 수단을 동원하여 시가지에 대한 반격을 격퇴해야 한다. 
+[Submission_3.Success]
+적의 반격을 격퇴했다.
+[Submission_3.Failed]
+시디 부 지드를 잃었다.
+[StringTable.INF]
+소령님, 지원하러 오던 티거가 격파되었습니다. 호위 보병의 지휘를 맡으십시오.
+[StringTable.Infantry]
+소령님, 지원하러 오던 티거가 격파되었습니다. 호위 보병의 지휘를 맡으십시오.
+[StringTable.Infantry_change]
+소령님, 호위 보병의 지휘를 맡으십시오.

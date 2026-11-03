@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Rompa as defesas inimigas nas proximidades de Verkhopenye.
+[Mission.Description]
+A Grossdeutschland continua o assalto a Syrtsevo e, depois de ocupá-la, rompe para o norte em direção a Verkhopenye e limpa o inimigo de ambas as margens do Pena. O grupo de combate, reforçado com tanques da brigada de Strachwitz, avançará em direção a Syrtsevo e Verkhopenye ao longo da margem leste do Pena e depois alcançará a margem oeste. 
+[Submission_1.Objectives]
+O inimigo abandonou em pânico a primeira linha de defesa sob a pressão de nossa artilharia e aviação. A vanguarda deve ocupar rapidamente as posições abandonadas e mantê-las até a chegada da força principal. 
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+A vanguarda foi repelida pelo inimigo.
+[Mission.Success]
+Missão cumprida. O posto de comando inimigo foi destruído.
+[Mission.Failed]
+Fracassamos em cumprir nossas ordens. O inimigo é forte demais!
+[Submission_2.Objectives]
+Repila os contra-ataques inimigos e ocupe a segunda linha de defesa dos russos.
+[Submission_2.Success]
+Missão cumprida.
+[Submission_2.Failed]
+O ataque foi sufocado, é necessário apoio imediato.
+[Submission_3.Objectives]
+Atravesse o rio Pena e destrua o posto de comando inimigo.
+[Submission_3.Success]
+Missão cumprida.
+[Submission_3.Failed]
+O ataque foi detido, é necessário apoio imediato.
+[StringTable.first_support]
+Um grupo composto por infantaria, tanques e artilharia está agora sob seu comando.
+[StringTable.second_support]
+Tanques e canhões de assalto foram colocados sob seu comando.
+[StringTable.Inf]
+Infantaria
+[StringTable.Tanks]
+Tanques
+[StringTable.SPG_close]
+Canhões de assalto Stug 40G
+[StringTable.SPG_open]
+Artilharia autopropulsada
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

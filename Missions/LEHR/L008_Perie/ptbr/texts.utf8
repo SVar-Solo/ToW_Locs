@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Detenha o ataque inimigo.
+[Submission1.Description]
+Depois de muitas batalhas longas e semanas de combate, os americanos lançaram uma ofensiva maciça para destruir a Panzer Lehr de uma vez por todas. Você lutou bem, Comandante, e suas tropas honraram a Pátria, mas tudo será em vão se fracassar neste momento crítico. Mais uma vez, estamos em inferioridade numérica, mas esse é o nosso destino e você deve superá-lo uma vez mais!
+ 
+ Suas ordens:
+- Detenha o ataque inimigo.
+[Submission1.Success]
+Bom trabalho, Comandante! O ataque inimigo foi detido e suas tropas viverão para continuar a luta.
+[Submission1.Failed]
+Missão fracassada! Seu exército foi derrotado e não conseguiu deter os americanos.
+[Submission2.Objectives]
+Repila todos os ataques inimigos.
+[Submission2.Description]
+Nossos batedores avançados detectaram uma força-tarefa americana se aproximando pelo norte. Não devemos permitir que avance mais. Contenha-os, Comandante!
+ 
+Suas ordens:
+- Repila os ataques inimigos.
+[Submission2.Success]
+Bom trabalho, Comandante! Os ataques inimigos foram rechaçados.
+[Submission2.Failed]
+Missão fracassada! Seu exército foi eliminado.

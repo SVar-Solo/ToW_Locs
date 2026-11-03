@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Libere Ordezh y Sosnovaya Naspa y rechace los contraataques enemigos.
+[Mission.Description]
+Libere Ordezh y Sosnovaya Naspa. Manténgalas ante posibles ataques enemigos. Despeje de tropas enemigas la zona asegurada, las carreteras y los alrededores.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission1.Objectives]
+Libere Ordezh.
+[Submission1.Description]
+Libere Ordezh.
+[Submission1.Success]
+Tarea cumplida.
+[Submission1.Failed]
+Tarea fallida.
+[Submission2.Objectives]
+Libere Sosnovaya Naspa.
+[Submission2.Description]
+Libere Sosnovaya Naspa.
+[Submission2.Success]
+Tarea cumplida.
+[Submission2.Failed]
+Tarea fallida.
+[Submission3.Objectives]
+Mantenga Ordezh.
+[Submission3.Description]
+Mantenga Ordezh.
+[Submission3.Success]
+Tarea cumplida.
+[Submission3.Failed]
+Tarea fallida.

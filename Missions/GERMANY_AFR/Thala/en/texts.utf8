@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Eliminate the enemy
+[Mission.Description]
+Eliminate the enemy in the town of Thala.
+[Mission.Success]
+Enemy defences in Thala have been completely eliminated.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Objectives]
+Conduct recon
+[Submission_1.Description]
+Conduct recon to find enemy positions. Correct the ground strikes of our assault air forces.
+[Submission_1.Success]
+Enemy artillery positions have been located. Precise coordinates have been transmitted to air forces.
+[Submission_1.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Destroy the enemy tanks
+[Submission_2.Description]
+British tanks have been sighted. We are ordered to engage and destroy the enemy tanks.
+[Submission_2.Success]
+The enemy tank force has been eliminated.
+[Submission_2.Failed]
+Mission failed.
+[StringTable.income]
+We've been reinforced with more troops to continue the offensive.
+[Submission_3.Objectives]
+Eliminate enemy defences on the heights
+[Submission_3.Description]
+The enemy established defences on the heights beyond Thala. According to our intelligence, the British have enough anti-tank weaponry. Eliminate enemy defences on the heights.
+[Submission_3.Success]
+Enemy defences have been eliminated.
+[Submission_3.Failed]
+Mission failed.

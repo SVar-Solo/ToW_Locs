@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+Zniszczyć wszystkie jednostki wroga w pobliżu Houffalize.
+[Mission.Description]
+Rozpoczęła się Operacja „Straż Renu”. Nasze pierwsze jednostki wdarły się głęboko na teren wroga, ale natrafiły na silny opór w okolicach Bastogne. 
+Twoje rozkazy: 
+-	Zająć miasto. 
+-	Zniszczyć nieprzyjaciela okopanego na wzgórzach. 
+[Mission.Success]
+Miasto zostało zdobyte!
+[Mission.Failed]
+Przegrałeś! Wszystkie twoje ataki zostały odparte.
+[Submission_1.Objectives]
+Zdobądź przyczółek na wzgórzach w pobliżu miasta. Zniszcz nieprzyjacielską piechotę i artylerię. 
+[Submission_1.Description]
+Przyczółek na wzgórzach w pobliżu miasta jest kluczowym elementem amerykańskiej obrony. Tego przyczółka broni piechota, artyleria i działa przeciwpancerne.
+Twoje rozkazy: 
+-	Zniszczyć nieprzyjacielskie jednostki i zająć przyczółek.
+[Submission_1.Success]
+Zajęliśmy przyczółek!
+[Submission_1.Failed]
+Nie udało się. Zostałeś pokonany przez amerykańskie wojska!
+[Submission_2.Objectives]
+Odeprzeć nieprzyjacielskie kontrataki i zdobyć miasto.
+[Submission_2.Description]
+Po utracie przyczółka Amerykanie sprowadzili posiłki i kontratakują. 
+
+Twoje rozkazy:
+-	Utrzymać przyczółek, przejść do kontrataku i zdobyć miasto. 
+[Submission_2.Success]
+Utrzymałeś się!
+[Submission_2.Failed]
+Przegrałeś bitwę!
+
+[StringTable.reserv]
+Przybyły posiłki.

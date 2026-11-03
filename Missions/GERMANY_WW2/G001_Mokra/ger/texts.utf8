@@ -1,0 +1,59 @@
+﻿[Mission.Objectives]
+Vertreiben Sie die polnischen Truppen aus ihren Verteidigungsstellungen.
+[Mission.Description]
+Wir erwarten, dass unsere überlegenen Streitkräfte schnell die Kontrolle über Polen erringen. Doch die polnischen Truppen wehren sich heftig und wilde Gefechte finden entlang der gesamten Front statt. Wir müssen sofort eine Offensive durch die Einheiten der 3. und 4. Armee der Armeegruppe Nord starten, um einen starken Schlag gegen die polnischen Verteidigungsstellungen um den Fluss Mokra auszuführen. Ihre Aufgabe ist es, die Polen so schnell wie möglich zu schlagen. Auf der rechten Flanke der polnischen Einheiten befindet sich eine Siedlung, aber seien Sie vorsichtig, denn dort könnten sich Artillerieeinheiten befinden. Ihnen stehen Infanterie, Panzer und alles andere, was Sie benötigen, zur Verfügung, also greifen Sie umgehend an!       
+
+Ihre Befehle:
+-	 Vertreiben Sie die polnischen Truppen aus ihren Verteidigungsstellungen.
+[Mission.Success]
+Die polnischen Verteidigungslinien sind zerschmettert worden. Ganz Polen wird schon bald unser sein!
+[Mission.Failed]
+Unglaublicherweise wurden Ihre Truppen geschlagen! Wie konnten die Polen das nur anstellen? Sie verdienen es nicht, Soldaten in den Kampf zu führen!
+[ArtSupport.Objectives]
+Bombardieren Sie die feindlichen Stellungen. 
+[ArtSupport.Description]
+Bevor Sie zum Angriff übergehen, befehlen Sie einen Artillerieschlag gegen die polnischen Verteidigungsstellungen. Der Vorbereitungsschlag durch die Artillerie wird Ihnen helfen, die erste Verteidigungslinie schneller zu überwinden.
+
+Ihre Befehle:
+-	 Bombardieren Sie die feindlichen Stellungen.
+[ArtSupport.Success]
+Befehl ausgeführt, die Feindstellungen wurden bombardiert!
+[ArtSupport.Failed]
+Ihr Artillerieschlag hat kaum Schaden an den polnischen Stellungen verursacht.
+[StringTable.Subtitle_01]
+Polen. September 1939
+[Submission1_1.Objectives]
+Greifen Sie die rechte Flanke der polnischen Verteidigungslinien an.
+[Submission1_1.Description]
+Polnische Truppen haben eine starke Verteidigungsstellung eingenommen und haben die Angriffe der deutschen 3. und 4. Armee der Armeegruppe Nord zurückgeschlagen. 
+
+Ihre Befehle:
+-	 Greifen Sie die rechte Flanke der polnischen Verteidigungslinien mit Ihren Truppen an.
+[Submission1_1.Success]
+Befehle ausgeführt und die Polen ziehen sich zurück! 
+[Submission1_1.Failed]
+Sie haben nicht nur Ihre Befehle nicht ausgeführt, sondern auch die Truppen unter Ihrem Befehl verloren.
+[Submission2.Objectives]
+Greifen Sie die polnische Panzergruppe an.
+[Submission2.Description]
+Der Feind versucht die 3. und 4. Armee mit seinen Panzereinheiten zu umkreisen. Sie müssen die polnische Panzergruppe angreifen um die Einkesselung zu verhindern. 
+
+Ihre Befehle:
+-	 Greifen Sie die polnische Panzergruppe an.
+[Submission2.Success]
+Sie haben Ihre Aufgabe erfüllt und die polnische Panzergruppe wurde zerschlagen! 
+[Submission2.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt. Die deutsche 3. und 4. Armee könnte jetzt eingekesselt werden.
+[Submission1.Objectives]
+Greifen Sie die rechte Flanke der zweiten polnischen Verteidigungslinie an. 
+[Submission1.Description]
+Die Polen setzen sich noch immer zur Wehr und Ihre Verteidigungsstellung muss neutralisiert werden. Greifen Sie noch einmal ihre rechte Flanke an.
+
+Ihre Befehle:
+-	 Greifen Sie die rechte Flanke der zweiten polnischen Verteidigungslinie mit Ihren Reserveeinheiten an.
+[Submission1.Success]
+Befehle ausgeführt und die Polen ziehen sich zurück!
+[Submission1.Failed]
+Sie sind gescheitert!
+[StringTable.reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Os americanos estão a caminho vindo da direção do ponto 2, ataquem-nos antes que cheguem até nós! Lembro mais uma vez: façam do terreno o seu poderoso aliado! Boa sorte!
+[Mission.Success]
+A evacuação foi concluída com sucesso!
+[Mission.Failed]
+Todos os “Tigers” foram abatidos ou destruídos, o inimigo penetrou até o povoado antes de a evacuação terminar. A missão fracassou!
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+O primeiro ataque inimigo fracassou, mas eles estão empregando suas reservas a partir do ponto 3. Aguentem firme!
+[StringTable.IntroSubtitle1]
+O Major Gerhard, em seu “Kübelwagen”, aos comandantes dos “Tigers”:
+[StringTable.IntroSubtitle2]
+O inimigo é muito forte, mas...
+[StringTable.IntroSubtitle3]
+deixem-me lembrá-los mais uma vez de que...
+[StringTable.IntroSubtitle4]
+O Tiger é quase invulnerável a ataques de longa distância.
+[StringTable.IntroSubtitle5]
+O terreno nos permite atirar de longa distância, ...
+[StringTable.IntroSubtitle6]
+isso deve se tornar o nosso trunfo.
+[StringTable.InfoSubtitle7]
+Boa sorte, Herr Ofiziere! Avançar! Gott mit uns!
+[StringTable.InfoSubtitle8]
+Comandantes dos “Tigers”: Zu Befehl!
+[StringTable.IntroSubtitle7]
+[StringTable.SubtitleWin1]
+Major Gerhard: Conseguiram! Contudo, eu não esperava menos que isso.
+[StringTable.SubtitleWin2]
+Herren Ofiziere, parabéns pela vitória!
+[StringTable.SubtitleWin3]
+Embora eu não possa deixá-los desfrutar do merecido descanso.
+[StringTable.SubtitleWin4]
+Enquanto nossa atenção estava presa...
+[StringTable.SubtitleWin5]
+pelos americanos, os britânicos nos flanquearam.
+[StringTable.SubtitleWin6]
+Vocês devem contra-atacá-los imediatamente.
+[StringTable.SubtitleWin7]
+O destino do Reich está mais uma vez em nossas mãos!
+[StringTable.SubtitleWin8]
+Tripulação dos “Tigers”: Zu Befehl!
+[StringTable.SubtitleFail1]
+Rádios dos tanques aliados: Sem prisioneiros! Matem todos!
+[StringTable.SubtitleFail2]
+Vocês mataram meu amigo Jimmy! Morram, desgraçados do cacete!
+[StringTable.SubtitleFail3]
+Sem piedade para esses desgraçados! Esmaguem eles!
+[StringTable.SubtitleFail4]
+Vejam eles queimarem!

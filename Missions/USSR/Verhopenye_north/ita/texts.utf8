@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Tenere la linea sulla riva orientale della Pena. Impedire al nemico di creare una testa di sbarco sulla riva occidentale.
+[Mission.Description]
+Insieme ai carri della 200a Brigata carri, mettere in sicurezza il caposaldo nella parte occidentale del villaggio di Verchopen'e. Le unità che ripiegano verso l'area difensiva saranno raccolte, rifornite e schierate nei settori corrispondenti. Distruggere con contrattacchi i gruppi nemici in avanzata, proteggendo al contempo le posizioni occupate.
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Il nemico ha attraversato il fiume Pena, le nostre truppe si ritirano.
+[Submission1.Objectives]
+Respingere tutti gli attacchi nemici. Impedire al nemico di sfondare fino ai ponti sulla Pena.
+[Submission1.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Submission1.Failed]
+Le forze nemiche superiori proseguono l'avanzata.
+[Submission2.Objectives]
+Il nemico è penetrato fino alle posizioni presso l'attraversamento; c'è il rischio che crei una testa di ponte sulla riva occidentale. Contrattaccare subito il nemico e respingerlo dal fiume.
+[Submission2.Success]
+Il contrattacco si sviluppa bene, il nemico si ritira.
+[Submission2.Failed]
+Il contrattacco è stato respinto; c'è il rischio che il nemico crei una testa di ponte.
+[StringTable.Platzdarm]
+Distruggere i gruppi nemici in avanzata prima che ricevano rinforzi.
+[StringTable.Air!]
+Attacco aereo! Tutti al riparo!
+
+[StringTable.Tanks]
+Carri armati del 203o Reggimento carri pesanti indipendente
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

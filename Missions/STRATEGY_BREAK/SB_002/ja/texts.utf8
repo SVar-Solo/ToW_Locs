@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+包囲を突破せよ。
+[Mission.Description]
+7月半ばまでに、フランスの大半はドイツ軍に占領された。ドイツ軍装甲師団はフランス軍の防衛線を突破し、迅速な突進で海岸線に到達した。パリは6月14日に陥落し、フランス政府はボルドーへ逃れた。
+
+目標：
+-	包囲を突破せよ。
+[Mission.Success]
+任務完了！
+[Mission.Failed]
+任務失敗！部隊は戦死した！
+[Submission1.Objectives]
+フランス兵を救出せよ。
+[Submission1.Description]
+フランス軍の小規模な歩兵分遣隊が包囲され、孤立した農家に潜んでいる。ドイツ歩兵が接近中。
+
+目標：
+- 	フランス兵を死から救え。
+[Submission1.Success]
+任務完了！
+[Submission1.Failed]
+任務失敗！
+[Submission2.Objectives]
+地形偵察を実施せよ。
+[Submission2.Description]
+狙撃兵に地形偵察を実施させよ。
+
+受領した命令：
+- 	地形偵察を実施せよ。
+[Submission2.Success]
+司令部命令を遂行した！
+[Submission2.Failed]
+司令部命令を遂行できなかった

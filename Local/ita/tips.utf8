@@ -1,0 +1,84 @@
+﻿[TIP_DESC.1]
+Dopo il caricamento della missione si entra nella fase di schieramento. Qui puoi disporre le unità all'interno della zona di schieramento, impartire gli ordini iniziali e predisporre alcune difese. In questo modo puoi organizzare una difesa ottimale o preparare l'attacco prima dell'inizio della battaglia.
+
+[TIP_DESC.2]
+Quando impartisci gli ordini, puoi orientare le unità in varie direzioni e modificare la densità della formazione. Per farlo, dopo aver cliccato sull'icona dell'ordine, tieni premuto il tasto destro del mouse e muovi il mouse, quindi scegli la posizione desiderata delle unità e la distanza tra di esse.
+
+[TIP_DESC.3]
+Gli equipaggi dei veicoli di norma non possono usare i sistemi di puntamento ottici mentre il veicolo è in movimento o mentre la torretta ruota.
+
+[TIP_DESC.4]
+Dopo una battaglia vittoriosa puoi aumentare le abilità di Tiro, Ricognizione, Guida e Puntamento dei soldati che si sono distinti in azione. Premendo i pulsanti corrispondenti puoi distribuire l'esperienza automaticamente tra tutti i soldati oppure assegnare i punti a un soldato a tua scelta. Decorazioni e promozioni influiscono sul Comando di un soldato. L'Intelligenza di un soldato non può cambiare e determina la velocità con cui guadagna esperienza.
+
+[TIP_DESC.5]
+Il fuoco e il movimento rivelano le unità. La fanteria è meglio occultata nelle trincee, negli edifici e quando è distesa a terra nell'erba. Più alta è l'abilità di Ricognizione di un soldato, più è difficile individuarlo e più è bravo a scoprire le truppe nemiche.
+
+[TIP_DESC.6]
+Quando impartisci l'ordine "Fuoco d'area" {hkey:groundattack}, puoi prendere di mira un'area anziché un singolo punto. Per farlo, muovi il mouse tenendo premuto il tasto destro. Puoi anche fissare un punto di mira specifico su qualsiasi oggetto (verrà mostrato un indicatore giallo fisso) e, nella modalità "attacco" {hkey:attack}, l'indicatore sarà rosso e rimarrà sull'oggetto anche quando questo si muove.
+
+[TIP_DESC.7]
+Con {hkey:firemode} puoi attivare rapidamente la modalità Cessate il fuoco per le unità selezionate. La limitazione del movimento si attiva con {hkey:actionmode}.
+
+[TIP_DESC.8]
+Per raccogliere le armi di un soldato caduto, avvicinati al corpo, clicca sull'icona della pistola in cima alla barra principale delle informazioni {hkey:inventory} e seleziona gli oggetti che vuoi raccogliere o lasciare. I soldati raccolgono automaticamente anche armi e munizioni migliori.
+
+[TIP_DESC.9]
+I dispositivi ottici dei veicoli possono rompersi. Lo stato dei dispositivi ottici dei tuoi veicoli è visibile nel suggerimento che appare passando il cursore su un membro dell'equipaggio.
+
+[TIP_DESC.10]
+Nella modalità Imboscata {hkey:ambush}, le tue unità, tranne la fanteria, non apriranno il fuoco su un bersaglio nemico se si trova a più di 500 metri. La fanteria cercherà un riparo entro 5 metri da sé e non aprirà il fuoco su bersagli oltre i 100 metri.
+
+[TIP_DESC.11]
+Se nella modalità "Difesa" è consentito il movimento libero, la fanteria può cercare i ripari più vicini entro 5 metri e cambiare la posizione di tiro con una più adatta.
+
+[TIP_DESC.12]
+La fanteria è in grado di sminare i campi minati entro 2 metri da sé. I genieri possono posare mine e hanno molte più probabilità della fanteria ordinaria di individuare e disinnescare una mina in sicurezza. Le mine possono anche detonare per l'esplosione ravvicinata di proiettili.
+
+[TIP_DESC.13]
+L'onda d'urto dell'esplosione di un proiettile è attenuata dagli ostacoli sul suo percorso. Ogni ostacolo (scudo di un cannone, trincea, muro e così via) dimezza il danno.
+Il campo delle schegge si distribuisce in modo non uniforme rispetto al vettore di caduta del proiettile. Anche il danno delle schegge è bloccato dagli ostacoli o da un combattente che si trovi sul loro percorso.
+
+[TIP_DESC.14]
+Puoi vietare a un'unità l'uso di qualsiasi arma o munizione cliccando con il tasto destro sull'icona corrispondente nell'interfaccia delle armi. Con il tasto sinistro puoi invece forzare la selezione di un'arma o di una munizione specifica. In questo caso il comando "Ruota" {hkey:defend} si applicherà non all'intera unità, ma solo a quest'arma.
+
+[TIP_DESC.15]
+I mezzi dotati di mortai fumogeni a bordo possono sparare istantaneamente una granata fumogena premendo il tasto destro sul pulsante "Cortina fumogena" {hkey:smokecloudfast}, purché la postazione del comandante sia occupata.
+
+[TIP_DESC.16]
+L'abilità del puntatore non influisce sulla precisione delle mitragliatrici e delle mitragliatrici di prua, ma influisce su quella della mitragliatrice coassiale.
+
+[TIP_DESC.17]
+I carristi sono in grado di riparare i cingoli e le ruote danneggiati dei veicoli.
+
+[TIP_DESC.18]
+I carri armati possono rimorchiare pezzi d'artiglieria fermi e trasportare truppe.
+
+[TIP_DESC.19]
+La velocità del veicolo dipende dal suo peso, dal peso rimorchiato, dalla potenza del motore, dalle caratteristiche del cambio, dalla pendenza e dal tipo di superficie. Pianifica il percorso ottimale tenendo conto delle salite e dei tipi di terreno.
+
+[TIP_DESC.20]
+La fanteria in una trincea non muore se un carro armato le passa sopra.
+
+[TIP_DESC.21]
+Le chiome degli alberi abbattuti aiuteranno a mimetizzare il tuo veicolo.
+
+[TIP_DESC.22]
+Quando scegli una posizione di tiro, tieni conto della pendenza del terreno, altrimenti l'unità non riuscirà a puntare il cannone sul bersaglio. La linea di vista e la linea di tiro di norma non coincidono, quindi un'unità non sempre può sparare anche a un bersaglio osservato.
+
+[TIP_DESC.23]
+Molte unità sono in grado di eseguire il tiro indiretto nella modalità "Fuoco d'area" {hkey:groundattack}. Usalo per neutralizzare la presunta posizione nemica.
+
+[TIP_DESC.24]
+Se necessario, usa il comando "Ritirata" {hkey:retreat} per ritirare il carro armato dalla battaglia senza esporre i fianchi e il posteriore, poco protetti.
+
+[TIP_DESC.25]
+A ogni colpo sparato contro un bersaglio fermo, l'unità si aggiusta gradualmente il tiro e la dispersione dei colpi diminuisce. Cambiando bersaglio o spostando l'unità, l'aggiustamento viene azzerato.
+
+[TIP_DESC.26]
+Un solo soldato può orientare una mitragliatrice pesante o un mortaio, ma per spostarli ne servono due. I pezzi più grandi possono essere orientati e spostati da almeno due soldati.
+
+[TIP_DESC.27]
+Per cambiare il campo visivo della camera (zoom), usa CTRL + rotella del mouse. Per accelerare il movimento della camera, tieni premuto MAIUSC. Il binocolo si attiva con {hkey:binocularview}. Per passare rapidamente la camera dalla modalità libera a quella agganciata al centro, premi {hkey:cameratypeswitch}. Puoi agganciare la camera a un'unità premendo {hkey:bindcamera} o {hkey:linkcamera}.
+
+[TIP_DESC.28]
+Attivando la "Modalità info danni" {hkey:SwitchDamageMessagesMode}, sui veicoli verranno mostrati i vettori di colpi, perforazioni, rimbalzi e proiettili frantumati. Ai livelli di difficoltà facile e medio, quando le unità nemiche vengono danneggiate compaiono brevi messaggi accanto a esse.

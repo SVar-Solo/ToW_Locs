@@ -1,0 +1,42 @@
+﻿[Submission_1.Objectives]
+Um zu verhindern, dass die russischen Panzer in Ihren Rücken fallen können müssen Sie sie um jeden Preis aufhalten.
+[Submission_1.Description]
+Die Russen haben noch eine Gegenoffensive gestartet. Wieder einmal versuchen sie durch Ihre Linien zu brechen und in unserem rückwärtigen Raum Unheil zu stiften. Sollten sie das schaffen dann werden sie sich mit anderen Einheiten verbinden können und unsere Truppen einkesseln. Wir müssen diesen Angriff aufhalten.
+
+Ihre Befehle:
+-	 Zerstören Sie alle vorrückenden feindlichen Einheiten.
+[Submission_1.Success]
+Sie haben gewonnen und die neueste russische Offensive aufgehalten.
+[Submission_1.Failed]
+Sie haben verloren! Die russischen Einheiten sind durch Ihre Linien gedrungen und können sich nun frei in ihrem Rücken bewegen.
+[Submission_2.Objectives]
+Zerschlagen Sie den russischen Widerstand bei der Prokhorovka Station.
+[Submission_2.Description]
+Die Russen haben Ihren Angriffsschwung verloren. Nutzen Sie diese Gelegenheit, indem Sie die Prokhorovka Bahnstation angreifen.
+
+Ihre Befehle:
+-	 Setzen Sie Ihren Vormarsch in Richtung der Prokhorovka Station fort und neutralisieren Sie alle Feindeinheiten, denen Sie begegnen.
+[Submission_2.Success]
+Sie haben gewonnen! Gute Arbeit. Ihre Aktionen heute werden uns die viel benötigte Zeit bringen, um die Initiative wiederzuerlangen.
+[Submission_2.Failed]
+Sie haben verloren! Sie haben eine goldene Gelegenheit verspielt um einen entscheidenen Schlag gegen die Russen zu führen.
+[Mission.Objectives]
+Erbeuten Sie die Prokhorovka Station.
+[Mission.Description]
+Operation Zitadelle ist angelaufen und das 2. SS Panzer Korps hat die Aufgabe erhalten, durch die feindlichen Verteidigungslinien zu brechen, die entlang der Linie Kartashovka-Beregovoye-Prokhorovka-Storozhevoye verlaufen.
+
+Ihre Befehle:
+-	 Brechen Sie durch die russischen Verteidigungslinien bei der Prokhorovka Bahnstation. 
+
+[Mission.Success]
+Glückwunsch! Sie sind durch die russischen Verteidigungslinien gebrochen!
+[Mission.Failed]
+Sie konnten die Prokhorovka Bahnstation nicht erobern.
+[StringTable.Tanks_Reserv]
+Panzer aus der Divisionsreserve wurden unter Ihr Kommando unterstellt.
+[StringTable.SPG_Reserv]
+Selbstfahr-Artillerielafetten stehen Ihnen zur Verfügung.
+[StringTable.Infantry_Reserv]
+Infanterie aus unserer Reserve wurde Ihnen unterstellt.
+[StringTable.Inf_reserv]
+Infanterie aus unserer Reserve wurde Ihnen unterstellt.

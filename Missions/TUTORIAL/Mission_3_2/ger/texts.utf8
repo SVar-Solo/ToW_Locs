@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+Die Siedlung stürmen
+
+[Mission.Description]
+In die Siedlung eindringen, die feindliche Infanterie bekämpfen, einen Panzer entdecken und erbeuten. Den feindlichen Panzer vernichten. Zum angegebenen Punkt zurückziehen.
+
+[Mission.Success]
+Sie haben alle Aufgaben erfolgreich erfüllt!
+
+[Mission.Failed]
+Auftrag gescheitert.
+
+[Submission_1.Objectives]
+Die Siedlung einnehmen und den Panzer erbeuten
+
+[Submission_1.Description]
+Die vom Feind kontrollierte Siedlung einnehmen, den Panzer entdecken und erbeuten.
+
+[Submission_1.Success]
+Panzer entdeckt und erbeutet
+
+[Submission_1.Failed]
+Auftrag gescheitert.
+
+[Submission_2.Objectives]
+Die feindliche Artillerie vernichten
+
+[Submission_2.Description]
+Die feindliche Artillerie vernichten. Um die Aufgabe wirksamer zu erfüllen, Nebelgranaten zur Deckung einsetzen.
+
+[Submission_2.Success]
+Feindliche Artillerie vernichtet
+
+[Submission_2.Failed]
+Auftrag gescheitert.
+
+[Submission_3.Objectives]
+Den feindlichen Panzer vernichten
+
+[Submission_3.Description]
+Den aus südwestlicher Richtung heranrückenden feindlichen Panzer vernichten. Sie können eine Nebelwand legen.
+
+[Submission_3.Success]
+Feindlicher Panzer vernichtet
+
+[Submission_3.Failed]
+Auftrag gescheitert.
+
+[Submission_4.Objectives]
+Evakuieren
+
+[Submission_4.Description]
+Ihre Truppen zum Evakuierungspunkt evakuieren. Den Rückzug mit einer Nebelwand decken.
+
+[Submission_4.Success]
+Ihre Truppen wurden evakuiert
+
+[Submission_4.Failed]
+Auftrag gescheitert
+
+[StringTable.Storm]
+Für den wirksamsten Sturm auf Gebäude stellen Sie zuerst fest, wo sich der Feind befindet, um nicht ins Kreuzfeuer zu geraten. Postieren Sie mehrere Soldaten so, dass sie den Ausgang aus der Entfernung zuverlässig kontrollieren; mit den übrigen Soldaten nähern Sie sich dem Gebäude unbemerkt bis auf Granatwurfweite. Granaten werfen Sie am besten mit dem Befehl „Flächenfeuer“ {hkey:groundattack} durch die Tür. Zur Zerstörung des Gebäudes können Sie auch Panzerabwehrgranaten einsetzen.
+
+[StringTable.Ambush]
+Verwenden Sie den Bewegungsmodus „Kriechen“ {hkey:setbodymodelay}, damit Ihre Leute für den Feind schlechter zu sehen sind. Beachten Sie, dass Ihre Infanterie im Modus der freien Bewegung in der Nähe von Deckung oder Gebäuden versucht, sich dort zu verbergen, und sich dabei dem Feuer aussetzen kann; verbieten Sie ihr daher die freie Bewegung {hkey:actionmode}.
+
+[StringTable.House]
+Nutzen Sie Häuser als Deckung: Ihre Infanterie ist dann weniger verwundbar.
+
+[StringTable.Variation]
+In den meisten Gefechtslagen können Sie auf viele Arten handeln. In diesem Fall können die Geschütze entweder von Infanterie, die Nebelgranaten zur Deckung nutzt, oder von einem Panzer zerstört werden.
+
+[StringTable.Smoke]
+Der Panzer ist mit einem Nebelwerfer zum Legen von Nebelwänden ausgestattet. Befindet sich ein Kommandant im Panzer und ist das Gerät geladen, können Sie den Befehl „Nebelwand (Sofortschuss)“ {hkey:smokecloudfast} verwenden. Dann wird die Nebelwand sofort neben dem Panzer gelegt, ohne dass ein Zielpunkt angegeben werden muss.
+
+[StringTable.Evac]
+Evakuieren Sie Ihre Truppen zum Evakuierungspunkt. Er ist auf der Minikarte zu sehen, oder wechseln Sie in den Modus der taktischen Karte {hkey:cameratopdownview}. Decken Sie den Rückzug mit einer Nebelwand. Fahren Sie den Panzer rückwärts {hkey:retreat}, bis Sie die feindliche Schusslinie verlassen haben.

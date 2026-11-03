@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Utrzymajcie linię w południowej części wsi Wierchopienie.
+[Mission.Description]
+Wraz z baterią artylerii przeciwczołgowej, jednostką strzelców przeciwpancernych i kilkoma czołgami zabezpieczcie punkt obronny na południowy wschód od Wierchopieni. Specjalnym priorytetem jest utrzymanie pozycji w pobliżu mostów na Pjanie. Nie pozwólcie nieprzyjacielowi przekroczyć rzeki.
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Wróg ustanowił przyczółek na zachodnim brzegu Pjany, nasze wojska się wycofują.
+[Submission_1.Objectives]
+Zajmijcie opuszczone pozycje. Zabezpieczcie odwrót przez rzekę. 
+[Submission_1.Success]
+Głównym siłom udało się ustanowić linię obrony wzdłuż brzegu rzeki.
+[Submission_1.Failed]
+Drużyna zabezpieczająca została pokonana, główne siły zagrożone!
+[Submission_2.Objectives]
+Wyślijcie ludzi na pozycje nieopodal przeprawy przez rzekę. Nie pozwólcie wrogowi przejść na drugi brzeg.
+[Submission_2.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Submission_2.Failed]
+Wróg przejął most i ustanawia przyczółek na naszym brzegu!
+[Submission_3.Objectives]
+Wycofajcie się na drugi brzeg Pjany. Nie pozwólcie wojskom wroga przekroczyć rzeki. 
+[Submission_3.Success]
+Wróg został zatrzymany przed linią rzeki.
+[Submission_3.Failed]
+Wróg przekroczył rzekę i zmusił nasze siły do wycofania się z południowej części Wierchopieni.
+[StringTable.Add_to_plArmy]
+Wszystkie jednostki na pozycjach wzdłuż brzegu Pjany są teraz pod waszą kontrolą.
+[StringTable.Rus_Tanks]
+Grupa czołgów została wysłana z rezerw.
+[StringTable.infantry]
+Nowo przybyła jednostka piechoty z rezerw jest pod waszą komendą.
+
+[StringTable.inf]
+Piechota
+[StringTable.Tanks]
+Czołgi z 6. Korpusu Pancernego
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

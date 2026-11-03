@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+ドイツ軍の新たな攻勢に備えて防御せよ。
+[Mission.Description]
+包囲を避けるため、ドイツ軍最高司令部はリュティヒ作戦と呼ばれる小規模だが猛烈な反撃を開始した。
+
+命令：
+- 	ドイツ軍の攻勢を阻止せよ
+[Mission.Success]
+任務完了。大規模な攻勢は阻止された。
+[Mission.Failed]
+ドイツ軍の攻撃は成功し、我が方は甚大な損害を被った。
+[Submission1.Objectives]
+敵の部隊集団を攻撃せよ。
+[Submission1.Description]
+偵察報告によれば、ドイツ軍攻撃の第一段階は北東から我々に向かってくるようだ。 
+
+命令：
+- 	北東から前進してくる敵部隊を攻撃せよ。
+[Submission1.Success]
+任務完了。敵部隊は後退している。
+[Submission1.Failed]
+任務失敗。君の部隊は敗北した。
+[Submission2.Objectives]
+敵部隊を攻撃せよ。
+[Submission2.Description]
+ドイツ軍の攻勢は続いており、今度は東から我々を攻撃してくるようだ。
+
+命令：
+- 	東から前進してくる敵部隊を攻撃せよ。
+[Submission2.Success]
+任務完了。敵の攻撃は阻止された。
+[Submission2.Failed]
+任務失敗。君の部隊は壊滅した。
+[Submission3.Objectives]
+北から接近する部隊を攻撃せよ。
+[Submission3.Description]
+戦いはまだ終わっていない。北から別の敵の攻撃が準備されている。今度は敵の数が我々を上回るが、勝たねばならない。
+
+命令：
+- 	ドイツ軍の主攻撃を撃破せよ。
+[Submission3.Success]
+任務完了。敵の作戦のこの段階は阻止された。
+[Submission3.Failed]
+任務失敗。敵の攻勢は成功し、君の部隊は壊滅した。
+[StringTable.Reserve
+増援が到着した。
+[Submission4.Objectives]
+ドイツ軍を攻撃せよ。
+[Submission4.Description]
+ここまでは持ちこたえたが、ドイツ軍が東から最後の攻撃を準備しているようだ。
+
+命令：
+- 	東から接近する敵部隊を攻撃し、我が軍の包囲を阻止せよ。
+[Submission4.Success]
+任務完了。敵は突破と我が軍の包囲に失敗した。
+[Submission4.Failed]
+任務失敗。君の部隊は壊滅した。
+[StringTable.Subtitle_01]
+フランス　1944年8月
+[StringTable.Reserv]
+増援が到着した。

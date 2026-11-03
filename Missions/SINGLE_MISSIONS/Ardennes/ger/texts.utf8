@@ -1,0 +1,21 @@
+﻿﻿[StringTable.Subtitle_01]
+Begeben Sie sich zur Höhe 320 und erkunden Sie die Lage.
+[StringTable.Subtitle_02]
+Jawohl, Sir.
+[StringTable.Subtitle_03]
+Eine Gruppe von sieben Panzern bewegt sich auf der Straße in Richtung Brücke.
+[StringTable.Subtitle_04]
+Verlegen Sie Panzerminen auf die Straße südlich der Brücke.
+[StringTable.Subtitle_05]
+Jawohl, Sir.
+[Submission1.Objectives]
+Das Vordringen der feindlichen Panzer nach Süden stoppen.
+[Submission1.Description]
+Ihr Zug machte sich bald nach dem Angriff der Deutschen auf die vorgeschobenen Stellungen der amerikanischen Truppen auf den Weg. Inzwischen haben Sie den Fuß der Höhe 330 südlich eines steilen Baches erreicht, der durch den dichten Wald fließt. Die Reise verlief chaotisch und unübersichtlich: Sie haben zahlreiche Kommandostellen und Stäbe aufgesucht, aber keiner der Vorgesetzten konnte Ihnen erklären, was geschieht und welche Aufgaben Sie haben. Schließlich erhielten Sie vor etwa zwei Stunden den Befehl Ihres Kompaniechefs: Verhindern Sie das Vordringen deutscher Panzer nach Süden über die Brücke, die den Bach im Bereich zwischen den Höhen 320 und 330 überquert.
+
+Befehl erhalten:
+- das Vordringen der feindlichen Panzer nach Süden zu stoppen.
+[Submission1.Success]
+Auftrag erfüllt! Das Vordringen feindlicher Panzer nach Süden wurde gestoppt.
+[Submission1.Failed]
+Auftrag nicht erfüllt! Das Vordringen der feindlichen Panzer nach Süden wurde nicht gestoppt.

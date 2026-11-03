@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+Comandante, capture o povoado na ilha e destrua suas defesas. Dada a força delas, avançaremos por etapas, sem revelar a direção do ataque principal.
+[Mission.Description]
+Comandante, seu objetivo principal é capturar um povoado situado na ilha e destruir as defesas inimigas ali erguidas. Devido à força delas, planejamos fazê-lo por etapas, sem empregar todas as forças disponíveis, pois isso revelaria sem dúvida ao inimigo a direção do ataque principal.
+[Mission.Success]
+Parabéns, Comandante! O objetivo foi cumprido!
+[Mission.Failed]
+Comandante, recue agora suas tropas sobreviventes, não conseguimos romper as defesas inimigas! E pense em uma desculpa adequada para o seu fracasso, que você apresentará a Sir Winston e a Sua Majestade!
+[Submission_1.Objectives]
+Comandante, limpe o povoado ao norte, que cobre a passagem para o povoado da ilha. Você tem apenas o esquadrão de carros blindados; os Valentines ainda estão em marcha. Recebe infantaria, canhões de campanha e antitanque.
+[Submission_1.Description]
+Comandante, seu primeiro objetivo é limpar o inimigo do povoado ao norte, que cobre a passagem para o povoado da ilha. Infelizmente, os lentos Valentines ainda estão em marcha, e o esquadrão de carros blindados é tudo o que você tem. No entanto, segundo os relatórios de inteligência, deve bastar para cumprir o objetivo. Uma esquadra de infantaria e canhões de campanha e antitanque estão anexados à sua força, por precaução.
+[Submission_1.Success]
+A primeira etapa está concluída! Os Valentines retardatários, com apoio de infantaria, estão se juntando às suas forças.
+[Submission_1.Failed]
+A missão fracassou!
+[Submission_2.Objectives]
+Comandante, neutralize as baterias de campanha e antiaéreas no sudeste (ponto 3) para liberar nossos morteiros e aviação. Depois receberá reforços.
+[Submission_2.Description]
+Comandante, os pilotos informam a presença de baterias de campanha e antiaéreas inimigas. As baterias de campanha ficam na parte sudeste do campo de batalha (ponto 3) e não deixarão nossos morteiros abrirem fogo. Nossa aviação não pode atacar por causa dos canhões antiaéreos. Neutralize-as e você terá seus reforços.
+[Submission_2.Success]
+A bateria inimiga foi neutralizada. Agora nossos morteiros podem abrir fogo!
+[Submission_2.Failed]
+A missão fracassou!
+[Submission_3.Objectives]
+Capture o povoado ao sul. As defesas são mais fortes, mas os Valentines que chegam ajudarão; considere uma cortina de fumaça sobre o vau, se julgar necessário.
+[Submission_3.Description]
+Nosso próximo plano é capturar o povoado ao sul. As defesas ali são muito mais fortes que as do norte, mas com a ajuda dos Valentines que estão chegando você deverá conseguir capturá-lo. Comandante, os pontos de travessia do vau podem estar expostos ao fogo inimigo, então uma cortina de fumaça sobre o vau pode ser útil. No entanto, a decisão é sua.
+[Submission_3.Success]
+O povoado ao sul foi capturado! Todas as passagens a oeste são nossas, e você tem alguns reforços à sua disposição.
+[Submission_3.Failed]
+A missão fracassou!
+[Submission_4.Objectives]
+Penetre rapidamente na retaguarda inimiga (ponto 5) com pelo menos três infantes: cerque ou engane o inimigo e marque coordenadas para o ataque aéreo. O tempo está contra nós!
+[Submission_4.Description]
+Comandante, agora precisamos nos apressar! Realizando uma rápida penetração até a área de retaguarda inimiga (ponto 5), podemos cumprir dois objetivos de uma só vez: cercar o inimigo, ou ao menos fazê-lo acreditar nisso, e definir as coordenadas de um ataque aéreo contra os reforços inimigos em marcha. Precisamos de pelo menos três dos nossos soldados de infantaria nessa área para alcançar esse objetivo. O tempo está contra nós!
+[Submission_4.Success]
+Comandante, nossa aviação usou as coordenadas fornecidas por você e bombardeou com sucesso o comboio inimigo que chegava para reforçar as forças defensoras. O inimigo está adotando uma defesa circular, acreditando estar cercado; só nos resta destruí-lo!
+[Submission_4.Failed]
+O comboio inimigo conseguiu chegar à guarnição. Comandante, reagrupe suas forças, repila o contra-ataque e destrua completamente a guarnição!
+[StringTable.LateValentine]
+Um único Valentine que se perdeu no caminho está correndo para ajudar; eles ouviram falar da nossa situação difícil pelo rádio!
+[StringTable.FlakCrippled]
+A defesa antiaérea inimiga está arrasada, nossa aviação já pode entrar em ação!
+[StringTable.NorthernVillageCleared]
+Comandante, meus parabéns! O povoado ao norte foi limpo do inimigo. Continue avançando!
+[StringTable.SouthernVillageCleared]
+Comandante, você está avançando de forma constante. Os alemães foram expulsos do povoado ao sul. Empurre-os mais adiante!
+[StringTable.LastReserve]
+Comandante, nossas forças de tanques sofreram pesadas perdas, estou enviando nossa última reserva operacional. Não tome decisões aventureiras!
+[StringTable.SubtitleIntro1]
+A voz do Primeiro-Ministro Winston Spencer Churchill sai do rádio de um jipe:
+[StringTable.SubtitleIntro2]
+... Sua Majestade e todo o Reino Unido esperam que nossos...
+[StringTable.SubtitleIntro3]
+soldados na Tunísia cumpram o seu dever!
+[StringTable.SubtitleIntro4]
+Oficial (em voz baixa): Todos como um só, do alfa ao ômega...
+[StringTable.SubtitleIntro5]
+Oficial (em voz alta, aos seus subordinados): Rapazes, só posso acrescentar que,
+[StringTable.SubtitleIntro6]
+devido à importância do objetivo, o próprio Montgomery assumirá o comando!
+[StringTable.SubtitleIntro7]
+E agora, aos seus postos de combate!
+[StringTable.SubtitleIntro8]
+Soldados: Sim, senhor!
+[StringTable.SubtitleWin1]
+Soldados entre si: ...certo, você, eu, o Jenkins e o Parker
+[StringTable.SubtitleWin2]
+estamos vivos, o Knightly está ferido, é só o que sobrou do nosso pelotão,...
+[StringTable.SubtitleWin3]
+os únicos sobreviventes. É, e o Freeman com o Val dele, do segundo. Sortudo...
+[StringTable.SubtitleWin4]
+Tanquista Freeman: Rapazes, o Johny... (algum soldado) Morreu!
+[StringTable.SubtitleWin5]
+Ah, a pobre Maude dele! Ele escrevia cartas para ela sempre que tinha uma chance...
+[StringTable.SubtitleWin6]
+Então, Freeman, você vai escrever a ela pelo que ele morreu!
+[StringTable.SubtitleWin7]
+Freeman: Para que o pequeno Harry e a Ann deles nunca...
+[StringTable.SubtitleWin8]
+vejam todos esses pesadelos horríveis!
+[StringTable.SubtitleFail1]
+Soldados alemães: Du kennst als Fachmann mit Routine ...
+[StringTable.SubtitleFail2]
+Matilda noch und Valentine. Como foi que eu acertei o último na cabeça, hein?
+[StringTable.SubtitleFail3]
+Guter Kerl! Os ingleses são trouxas, da próxima vez vamos empurrá-los de volta...
+[StringTable.SubtitleFail4]
+com o rabo entre as pernas até a Argélia!

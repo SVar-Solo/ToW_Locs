@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+将敌军逐出其阵地。
+[Submission1.Description]
+纳粹侵略者已在伊斯特拉水库与伊斯特拉市之间一线巩固了阵地，不经顽强抵抗不可能让出阵地。将敌军逐出这些阵地至关重要。 
+
+你的命令：
+-将敌军逐出其阵地。
+[Submission1.Success]
+你的命令已完成！
+[Submission1.Failed]
+你未能完成命令！
+[Submission2.Objectives]
+消灭正在推进的敌军。
+[Submission2.Description]
+纳粹部队沿战线的这一地段发起了凶猛的反击。你需要迎击并消灭正在推进的敌军。
+
+你的命令：
+- 消灭进攻的德军部队。
+[Submission2.Success]
+你的命令已完成！敌军已被击败。
+[Submission2.Failed]
+你未能成功完成命令！你的部队已被击溃。

@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Tenez la ligne sur la rive est de la Péna. Empêchez l’ennemi de créer une tête de pont sur la rive ouest.
+[Mission.Description]
+Avec les chars de la 200e brigade de chars, tenez le point d’appui dans la partie ouest du village de Verkhopenié. Les unités qui se replient vers la zone de défense seront rassemblées, ravitaillées et déployées dans les secteurs correspondants. Détruisez les groupes ennemis qui avancent par des contre-attaques tout en protégeant les positions occupées.
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+L’ennemi a franchi la Péna, nos troupes se replient.
+[Submission1.Objectives]
+Repoussez toutes les attaques ennemies. Empêchez l’ennemi de percer jusqu’aux ponts sur la Péna.
+[Submission1.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Submission1.Failed]
+Les forces ennemies supérieures poursuivent leur avance.
+[Submission2.Objectives]
+L’ennemi a percé jusqu’aux positions proches du passage ; il risque d’établir une tête de pont sur la rive ouest. Contre-attaquez immédiatement l’ennemi et repoussez-le loin de la rivière.
+[Submission2.Success]
+La contre-attaque se déroule bien, l’ennemi se replie.
+[Submission2.Failed]
+La contre-attaque est repoussée ; l’ennemi risque de créer une tête de pont.
+[StringTable.Platzdarm]
+Détruisez les groupes ennemis qui avancent avant qu’ils ne reçoivent des renforts.
+[StringTable.Air!]
+Frappe aérienne ! Tout le monde à couvert !
+
+[StringTable.Tanks]
+Chars du 203e régiment de chars lourds indépendant
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Capture a Colina 112.
+[Mission.Description]
+Capture e mantenha a Colina 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Garanta a encosta sudoeste.
+[Submission_1.Description]
+Desaloje o inimigo da encosta sudoeste.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Garanta a encosta leste.
+[Submission_2.Description]
+Desaloje o inimigo da encosta leste.
+[Submission_3.Objectives]
+Garanta a fazenda na parte norte da aldeia.
+[Submission_3.Description]
+O inimigo que ocupa a fazenda pode disparar contra o flanco de nossas tropas que avançam pela Colina 112.
+[Submission_4.Objectives]
+Liberte a aldeia na encosta sudoeste.
+[Submission_4.Description]
+O inimigo na aldeia pode apoiar com eficácia suas tropas posicionadas na encosta sudoeste.
+[Submission_5.Objectives]
+Elimine os tanques inimigos que contra-atacam.
+[Submission_5.Description]
+O inimigo tenta nos expulsar com um forte contra-ataque de tanques.
+[Mission.Success]
+Colina 112 liberada.
+[Mission.Failed]
+Falha em cumprir a tarefa.
+[Submission_1.Success]
+Encosta sudoeste limpa.
+[Submission_1.Failed]
+Falha em cumprir a tarefa.
+[Submission_2.Success]
+Inimigo desalojado da encosta leste.
+[Submission_2.Failed]
+Falha em cumprir a tarefa.
+[Submission_3.Success]
+Fazenda garantida.
+[Submission_3.Failed]
+Falha em cumprir a tarefa.
+[Submission_4.Success]
+Aldeia liberada.
+[Submission_4.Failed]
+Falha em cumprir a tarefa.
+[Submission_5.Success]
+Contra-ataque repelido.
+[Submission_5.Failed]
+Falha em cumprir a tarefa.
+[StringTable.Tanks]
+Força de reserva disponível.

@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Detenga el ataque alemán en la estación de Projorovka.
+[Mission1.Description]
+Las tropas alemanas han lanzado un ataque en esta parte del frente para atravesar la línea de la estación de Projorovka. Tras la caída de la estación, atacarán por el norte hacia Oboyan para cercar a las unidades del frente de Voronezh.
+
+Sus órdenes:
+- 	Detenga el asalto alemán alrededor de la estación de Projorovka.
+- 	Evite que los alemanes entren en ese sector.
+[Mission1.Success]
+¡La acometida enemiga ha sido detenida!
+[Mission1.Failed]
+El enemigo ha conseguido atravesar nuestras defensas.
+[Mission2.Objectives]
+Utilice las unidades blindadas para destruir los tanques enemigos que se aproximan.
+[Mission2.Description]
+El enemigo está debilitado, y ahora todo está a nuestro favor. Sin embargo, las unidades blindadas enemigas se dirigen hacia Projorovka. Elementos de nuestro 5o. Ejército de la Guardia Acorazada llegan para ayudarle.
+
+Sus órdenes:
+- 	Use todas las fuerzas disponibles para destruir las unidades enemigas que amenazan la estación de Projorovka.
+[Mission2.Success]
+El enemigo ha salido huyendo. ¡Excelente trabajo, comandante!
+[Mission2.Failed]
+Han destruido sus tropas, y los fascistas siguen avanzando libremente.
+[Submission1.Objectives]
+Mantener las defensas alrededor de la estación de Projorovka.
+[Submission1.Description]
+Los tanques alemanes han llegado a Projorovka y se preparan para lanzar un potente ataque contra nuestras posiciones defensivas en este sector. Los informes de reconocimiento indican que los fascistas han reunido numerosos efectivos, lo que nos hace esperar un duro combate. Tiene que hacerse con la victoria y destruir a los alemanes.
+
+Sus órdenes:
+ - 	Use todas las fuerzas disponibles para destruir las unidades enemigas que amenazan la estación de Projorovka.
+[Submission1.Success]
+El combate ha sido duro pero ha salido victorioso. Gracias a sus esfuerzos ya podemos lanzar una contraofensiva.
+[Submission1.Failed]
+¡Las tropas alemanas han abierto brecha y están envolviendo a nuestras fuerzas! Los combates en Kursk han sido un desastre para el Ejército Rojo.
+[StringTable.Reserv]
+Se le han asignado refuerzos a su cargo.

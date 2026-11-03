@@ -1,0 +1,84 @@
+﻿[TIP_DESC.1]
+Una vez cargada la misión, entrará en la fase de despliegue. Esta le permite situar sus unidades dentro de la zona de despliegue, dar las órdenes iniciales y preparar ciertas defensas según sea necesario. Así podrá organizar una defensa óptima o preparar su ataque antes de que comience la batalla.
+
+[TIP_DESC.2]
+Al dar órdenes, puede colocar sus unidades orientadas en distintas direcciones y modificar su densidad de formación. Para ello, después de hacer clic en el icono de la orden, mantenga pulsado el botón derecho del ratón y mueva el ratón; luego elija la posición deseada de las unidades y la distancia entre ellas.
+
+[TIP_DESC.3]
+Por lo general, las tripulaciones de los vehículos no pueden usar sus miras ópticas mientras el vehículo está en movimiento o mientras giran la torreta.
+
+[TIP_DESC.4]
+Tras una batalla exitosa, puede aumentar las habilidades de Puntería, Exploración, Conducción y Artillería de los soldados que se hayan distinguido en combate. Con los botones correspondientes, puede repartir la experiencia automáticamente entre todos sus soldados o asignar puntos al soldado que elija. Las condecoraciones y los ascensos afectan al Liderazgo del soldado. La Inteligencia de un soldado no puede cambiar; determina la rapidez con que gana experiencia.
+
+[TIP_DESC.5]
+Disparar y moverse delata a las unidades. La infantería se camufla mejor en trincheras, en edificios y tendida en la hierba. Cuanto mayor sea la habilidad de Exploración de un soldado, más difícil es detectarlo y mejor detecta a las tropas enemigas.
+
+[TIP_DESC.6]
+Al dar una orden de «Fuego de área» {hkey:groundattack}, puede apuntar a una zona en lugar de a un solo punto. Para ello, mueva el ratón mientras mantiene pulsado el botón derecho. También puede fijar un punto de mira concreto sobre cualquier objeto (se mostrará un marcador estático amarillo); en el modo de «ataque» {hkey:attack}, el marcador será rojo y conservará su posición sobre el objeto aunque este se mueva.
+
+[TIP_DESC.7]
+Puede activar y desactivar rápidamente el modo de Alto el fuego de las unidades seleccionadas con {hkey:firemode}. La restricción de movimiento se activa y desactiva con {hkey:actionmode}.
+
+[TIP_DESC.8]
+Para recoger las armas de un soldado caído, acérquese a su cuerpo, haga clic en el icono de la pistola situado en la parte superior de la barra de información principal {hkey:inventory} y seleccione los objetos que desea recoger o soltar. Los soldados también recogen automáticamente armas y munición mejores.
+
+[TIP_DESC.9]
+Los dispositivos ópticos de los vehículos pueden romperse. Puede ver el estado de los dispositivos ópticos de sus vehículos en la información emergente al pasar el cursor sobre un tripulante.
+
+[TIP_DESC.10]
+En el modo de Emboscada {hkey:ambush}, sus unidades, salvo la infantería, no abrirán fuego contra un objetivo enemigo situado a más de 500 metros. La infantería intentará buscar cobertura en un radio de 5 metros y no abrirá fuego contra objetivos situados a más de 100 metros.
+
+[TIP_DESC.11]
+Con el movimiento libre permitido en el modo «Defensa», la infantería puede buscar los refugios más cercanos en un radio de 5 metros, así como cambiar la postura de tiro por una más adecuada.
+
+[TIP_DESC.12]
+La infantería puede despejar campos de minas a menos de 2 metros de distancia. Los zapadores pueden colocar minas, y su probabilidad de detectar y desactivar una mina con seguridad es mucho mayor que la de la infantería ordinaria. Las minas también pueden detonar por explosiones cercanas de proyectiles.
+
+[TIP_DESC.13]
+La onda expansiva de la explosión de un proyectil se debilita por los obstáculos que encuentra a su paso. Cada obstáculo (placa de blindaje de un cañón, trinchera, muro, etc.) reduce el daño a la mitad.
+El campo de fragmentos se dispersa de forma desigual respecto al vector de caída del proyectil. El daño de la metralla también es bloqueado por los obstáculos o por un combatiente que se interponga en la trayectoria del fragmento.
+
+[TIP_DESC.14]
+Puede prohibir que una unidad use cualquier arma o munición haciendo clic con el botón derecho en el icono correspondiente de la interfaz de armas. Con el botón izquierdo, se puede forzar la selección de un arma o munición concreta. En ese caso, la orden «Girar» {hkey:defend} se aplicará no a toda la unidad, sino solo a esa arma.
+
+[TIP_DESC.15]
+Los vehículos con morteros de humo a bordo pueden disparar al instante una granada de humo pulsando el botón derecho sobre el botón «Cortina de humo» {hkey:smokecloudfast}, siempre que el puesto del comandante esté ocupado.
+
+[TIP_DESC.16]
+La habilidad del artillero no afecta a la precisión de las ametralladoras ni de las ametralladoras de proa, pero sí a la de la ametralladora coaxial.
+
+[TIP_DESC.17]
+Los tanquistas pueden reparar las orugas y las ruedas rotas de los vehículos.
+
+[TIP_DESC.18]
+Los tanques pueden remolcar cañones estacionarios y transportar tropas.
+
+[TIP_DESC.19]
+La velocidad del vehículo depende de su propio peso, del peso remolcado, de la potencia del motor, de las características de la caja de cambios, de la pendiente y del tipo de superficie. Planifique la ruta óptima teniendo en cuenta las subidas y los tipos de suelo.
+
+[TIP_DESC.20]
+La infantería que está en una trinchera no morirá si un tanque pasa por encima de ella.
+
+[TIP_DESC.21]
+Las copas de los árboles caídos ayudarán a camuflar su vehículo.
+
+[TIP_DESC.22]
+Al elegir una posición de tiro, tenga en cuenta la pendiente de la superficie; de lo contrario, la unidad no podrá apuntar su cañón al objetivo. La línea de visión y la línea de fuego, por lo general, no coinciden, por lo que una unidad no siempre puede disparar ni siquiera a un objetivo que ve.
+
+[TIP_DESC.23]
+Muchas unidades son capaces de realizar fuego indirecto en el modo «Fuego de área» {hkey:groundattack}. Úselo para suprimir la posición enemiga prevista.
+
+[TIP_DESC.24]
+Use la orden «Retirada» {hkey:retreat} cuando sea necesario para sacar el tanque del combate sin exponer sus costados y su parte trasera, poco protegidos.
+
+[TIP_DESC.25]
+Con cada disparo contra un objetivo estacionario, la unidad va afinando su puntería y la dispersión de los impactos disminuye. Cambiar de objetivo o mover la unidad reinicia la puntería.
+
+[TIP_DESC.26]
+Un solo soldado puede girar una ametralladora pesada o un mortero, pero se necesitan dos soldados para moverlos. Los cañones más grandes requieren al menos dos soldados para girarlos y moverlos.
+
+[TIP_DESC.27]
+Para cambiar el campo de visión de la cámara (zoom), use CTRL + rueda del ratón. Para acelerar el movimiento de la cámara, mantenga pulsada la tecla SHIFT. Los binoculares se activan con {hkey:binocularview}. Para cambiar rápidamente el modo de cámara de libre a centrada, pulse {hkey:cameratypeswitch}. Puede vincular la cámara a una unidad pulsando {hkey:bindcamera} o {hkey:linkcamera}.
+
+[TIP_DESC.28]
+Al activar el «Modo de información de daños» {hkey:SwitchDamageMessagesMode}, se mostrarán sobre los vehículos los vectores de impactos, penetraciones, rebotes y fallos de proyectil. En los niveles de dificultad fácil y media, aparecerán mensajes breves junto a las unidades enemigas cuando reciban daños.

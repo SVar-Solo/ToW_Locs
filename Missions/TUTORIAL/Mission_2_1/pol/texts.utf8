@@ -1,0 +1,72 @@
+﻿[Submission1.Objectives]
+Zniszcz obronę wroga.
+
+[Submission1.Description]
+Dowódca frontu uznaje za konieczne zniszczenie obrony wroga w tym rejonie.
+
+Otrzymany rozkaz:
+- zdobyć pierwszą linię okopów;
+- zdobyć drugą linię okopów;
+- zdobyć trzecią linię okopów.
+
+[Submission1.Success]
+Rozkazy dowództwa wykonane! Otrzymujesz stopień oficera Armii Czerwonej!
+
+[Submission1.Failed]
+Operacja nieudana! Twoje wojska zostały zniszczone!
+
+[StringTable.1]
+Zdobądź pierwszą linię okopów.
+Przesuń czołgi do przodu, aby ostrzeliwały pozycje wroga i osłaniały natarcie piechoty. Użyj piechoty do ataku na wrogie okopy.
+
+[StringTable.2]
+Zdobądź drugą linię okopów. Użyj dwóch czołgów, aby oskrzydlić wroga i wyjść na jego tyły w celu zniszczenia wrogiej artylerii. Użyj piechoty do ataku na wrogie okopy, osłaniając jej natarcie czołgiem.
+
+Jeśli wrogie działo trudno trafić, spróbuj wyznaczyć pojedynczemu czołgowi punkt ostrzału poleceniem „Ostrzał obszarowy” {hkey:groundattack} jak najbliżej działa lub tuż za nim. Upewnij się, że do tego punktu istnieje linia ognia (być może trzeba będzie wybrać dogodniejszą pozycję dla czołgu). Czołg automatycznie wybierze pociski HE do ostrzału obszarowego.
+
+Czołgami możesz też rozjeżdżać działa i piechotę poza okopami.
+
+[StringTable.3]
+Zdobądź trzecią linię okopów.
+Te okopy są „aktywne”: po pierwsze, osłaniają się nawzajem ogniem; po drugie, gdy jeden okop zostanie zdobyty, żołnierze z drugiego zaczną atakować Twoje wojska, próbując wyprzeć je z zajętych pozycji.
+Wroga artyleria jest również osłaniana przez czołgi.
+Użyj dwóch ciężkich czołgów, aby oskrzydlić wroga i wyjść na jego tyły w celu zniszczenia wrogiej artylerii. Użyj piechoty do ataku na wrogie okopy z prawej lub z lewej flanki, osłaniając natarcie lekkim czołgiem.
+
+[StringTable.Win]
+Zadanie wykonane!
+
+[StringTable.Form]
+Twoje wojska mogą poruszać się w różnych szykach. W sumie są 4 rodzaje szyków:
+
+„Kolumna” – w czasie ruchu wojska tworzą kolumnę;
+„Klin” – w czasie ruchu wojska tworzą klin;
+„Swobodny” – w czasie ruchu wojska przyjmują dowolny kształt;
+„Linia” – w czasie ruchu wojska tworzą linię.
+
+Domyślnie wybrany jest szyk „Linia”. Szyki możesz szybko przełączać klawiszem {hkey:formation}. Odległości między jednostkami oraz kierunek szyku reguluje się, poruszając myszą z wciśniętym prawym przyciskiem; wojska rozwiną się w punkcie końcowym w wyznaczonym kierunku.
+
+Jeśli chcesz rozwinąć wojska w pożądanym kierunku bez zmiany ich bieżącej pozycji, wydaj rozkaz „Obróć” {hkey:defend}. Pojazdy, które nie mogą obracać się w miejscu, spróbują to zrobić w kilku manewrach. Wydając rozkaz ruchu dla pojedynczej jednostki, możesz ustawić końcowy kierunek obrotu, przytrzymując przez chwilę prawy przycisk myszy i ustawiając kierunek strzałki ruchem myszy.
+
+Dla pojazdów dostępny jest tryb ruchu z prędkością piechoty {hkey:lowspeed}.
+
+[StringTable.Action]
+Twoje wojska mogą poruszać się w dowolnym z trybów ruchu. Są 4 tryby ruchu:
+„ATAK” {hkey:attack} – wojska, zobaczywszy wroga, zatrzymują się i strzelają, aż wróg zostanie zniszczony lub zniknie z pola widzenia. Potem kontynuują atak.
+„SZTURM” {hkey:storm} – wojska strzelają do wroga podczas krótkich postojów w trakcie natarcia.
+„RUCH” {hkey:move} – wojska poruszają się głównie drogami, ignorując wrogów. Pojazdy z wieżą będą obracać ją w czasie ruchu. Ten rozkaz można też wydać, klikając dwukrotnie prawym przyciskiem myszy.
+„ODWRÓT/COFANIE” {hkey:retreat} – wojska (z wyjątkiem piechoty) poruszają się tyłem.
+
+Pamiętaj, że zawsze możesz zatrzymać swoje wojska i anulować wydane im rozkazy, wydając rozkaz „Przerwij polecenie” {hkey:stop}. Potem przejdą w tryb „Obrony”.
+
+Atakując okopy, wybierz „atak” lub „szturm” i wskaż punkt ruchu prawym przyciskiem myszy.
+
+[StringTable.WeaponsAndAmmos]
+Działo można załadować jednym z rodzajów amunicji z zestawu amunicji jednostki. Załadowane działo rozładowuje się strzałem. Półprzezroczysta ikona amunicji na panelu uzbrojenia pokazuje, że ten pocisk zostanie załadowany jako następny (na przykład jeśli wybrałeś go na siłę) i nie zawsze odpowiada pociskowi aktualnie załadowanemu. Aktualnie załadowany pocisk zobaczysz w podpowiedzi po najechaniu kursorem na ikonę działa.
+
+Twoje jednostki same starają się dobierać odpowiedni pocisk do każdego rodzaju celu. Wymaganą amunicję możesz wskazać na siłę, klikając prawym przyciskiem pole amunicji po prawej od ikony działa na panelu uzbrojenia. Następnie wybierz wymagany pocisk lewym przyciskiem myszy – działo i amunicja zostaną podświetlone na żółto. Od tej chwili jednostka będzie używać tylko tej broni z wybranym rodzajem amunicji, a polecenie „Obróć” dla czołgu {hkey:defend} będzie dotyczyć wieży z tym działem, a nie całej jednostki. Możesz też zakazać używania niektórych rodzajów amunicji lub broni, klikając prawym przyciskiem odpowiednią ikonę.
+
+[StringTable.EnemyTanks]
+Wrogie czołgi ruszyły przeciwko Tobie.
+Przebicie pancerza czołgu często nie wystarcza, aby go zniszczyć. Całkowite zniszczenie wrogiego czołgu można osiągnąć na różne sposoby – niszcząc kadłub, wywołując pożar silnika lub zbiornika paliwa, trafiając w schowek z amunicją i powodując jej detonację. Czołg można częściowo unieszkodliwić, zrywając mu gąsienice, niszcząc wieżę lub główne działo albo trafiając w pojedynczych kluczowych członków załogi. Wszystko to wymaga trafienia w konkretny moduł wewnątrz czołgu. Weź też pod uwagę, czy dane działo jest w stanie przebić pancerz wrogiego czołgu pod danym kątem trafienia oraz jakie uszkodzenia pocisk spowoduje po przebiciu.
+
+Aby zobaczyć wektory przebicia pancerza i informacje o uszkodzeniach wewnętrznych, włącz „Tryb informacji o uszkodzeniach” {hkey:SwitchDamageMessagesMode}.

@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+敗走する敵部隊を殲滅せよ。
+[Main_mission.Description]
+情報によれば、カーンの防衛線は粉砕され、敵は慌てて逃走している。ただし我が軍の包囲網閉鎖が遅れたため、一部の敵部隊が逃げ出す恐れがある。貴官の任務は、これらのドイツ軍部隊の脱出を阻止することだ。
+
+命令：
+-	小さな村の近くに戦力を集結させ、近くの交差点を何としても保持せよ。敵がいつ現れてもおかしくない。いかなる状況でも持ち場を離れるな。
+[Main_Mission.Success]
+敵は撃破された！この地域は確保された！
+[Main_Mission.Failed]
+貴官の敗北だ。敵は手から逃れた。 
+[Submission_1.Objectives]
+敵戦車を撃破せよ。
+[Submission_1.Description]
+さまざまなドイツ軍部隊の残存兵が包囲網の突破を試みている。敵は弱体化しているものの、依然として深刻な戦力である。ドイツ軍の装甲部隊も確認されている。
+
+命令：
+-	敵の突破を阻止せよ。遭遇した敵戦車はすべて破壊せよ。
+[Submission_1.Success]
+おめでとう！敵部隊を阻止した！
+[Submission_1.Failed]
+貴官は敗北し、敵部隊は我々の罠から逃れた。
+[Submission_2.Objectives]
+敵部隊を阻止せよ！
+[Submission_2.Description]
+この地域の敵兵力は予想より多い。敵は再び突破を試みている。 
+
+命令：
+-	敵部隊を排除せよ。
+[Submission_2.Success]
+成功だ！敵部隊は撃滅された！
+[Submission_2.Failed]
+任務に失敗した！ 
+[Submission_3.Objectives]
+農場を占領せよ。敵がいれば排除せよ。
+[Submission_3.Description]
+ドイツ軍の突破は失敗したが、敵はまだ排除されていない。司令部は、残る敵陣地を一掃するため、直ちに攻勢を開始するのが最善と判断している。
+
+命令：
+-	攻勢を開始せよ。農場を攻撃し、敵を排除せよ。
+[Submission_3.Success]
+敵は排除された！農場は我が軍の支配下にある！
+[Submission_3.Failed]
+農場の占領に失敗した。
+[StringTable.Reserv]
+増援が到着した。

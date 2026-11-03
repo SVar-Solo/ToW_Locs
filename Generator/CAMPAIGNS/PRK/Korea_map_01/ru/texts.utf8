@@ -1,0 +1,252 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Захватить мост через реку. Продвинуться дальше вглубь территории противника и атаковать отмеченную на карте военную базу.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Для дальнейшего развития наступления необходимо форсировать реку. В данном районе наиболее удобным средством переправы является мост. Противник построил плотную оборону у моста и в населённом пункте в непосредственной близости от переправы. Ваша задача - уничтожить оборону противника и захватить мост. Для закрепления успеха необходимо продвинуться вглубь обороны врага и захватить военную базу.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Задание провалено.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Мост захвачен противником.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Мост является главным стратегическим объектом в данном районе. По нему перебрасываются все основные силы и средства. Ваша задача - не дать противнику возможности захватить мост. Активной обороной сковать атакующие действия войск противника.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Активными действиями в обороне сковать наступление войск противника. Не дать противнику возможность захватить мост через реку.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Отбить все атаки противника. Удержать оборону и не дать противнику захватить мост через реку.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Задание провалено.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Противник предпринимает значительные усилия для захвата моста и переправы через реку. Ваша задача - любыми силами и средствами удержать оборону и не дать войскам неприятеля захватить мост и переправу через реку.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Отбить все атаки противника. Удержать оборону и не дать противнику захватить мост через реку.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Противник предпринимает значительные усилия для захвата моста и переправы через реку. Ваша задача - любыми силами и средствами удержать оборону и не дать войскам неприятеля захватить мост и переправу через реку.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Задание провалено.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Захватить мост через реку. Продвинуться дальше вглубь территории противника и атаковать отмеченную на карте военную базу.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Для дальнейшего развития наступления необходимо форсировать реку. В данном районе наиболее удобным средством переправы является мост. Противник построил плотную оборону у моста и в населённом пункте в непосредственной близости от переправы. Ваша задача - уничтожить оборону противника и захватить мост. Для закрепления успеха необходимо продвинуться вглубь обороны врага и захватить военную базу.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Задача выполнена
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Задание провалено
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Танки из резерва армии в вашем распоряжении
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Авиа поддержка в вашем распоряжении
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Минометы поддержки в вашем распоряжении
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Группа пехоты и танков поступила в ваше распоряжение
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Доступна артиллерийская поддержка
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Авиаподдержка доступна для использования
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Доступна минометная поддержка
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Командование выделило группу танков и пехоты из резерва
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Артподдержка доступна
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Штаб армии выделил авиацию для поддержки
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Командование выделило группу танков и пехоты из резерва
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Артподдержка доступна
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Штаб армии выделил авиацию для поддержки
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Группа пехоты и танков поступила в ваше распоряжение
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Доступна артиллерийская поддержка
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Авиаподдержка доступна для использования
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Доступна минометная поддержка
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Захватить мост через реку. Продвинуться дальше вглубь территории противника и атаковать отмеченную на карте военную базу.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Для дальнейшего развития наступления необходимо форсировать реку. В данном районе наиболее удобным средством переправы является мост. Противник построил плотную оборону у моста и в населённом пункте в непосредственной близости от переправы. Ваша задача - уничтожить оборону противника и захватить мост. Для закрепления успеха необходимо продвинуться вглубь обороны врага и захватить военную базу.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Задание провалено.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Мост захвачен противником.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Мост является главным стратегическим объектом в данном районе. По нему перебрасываются все основные силы и средства. Ваша задача - не дать противнику возможности захватить мост. Активной обороной сковать атакующие действия войск противника.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Активными действиями в обороне сковать наступление войск противника. Не дать противнику возможность захватить мост через реку.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Отбить все атаки противника. Удержать оборону и не дать противнику захватить мост через реку.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Задание провалено.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Противник предпринимает значительные усилия для захвата моста и переправы через реку. Ваша задача - любыми силами и средствами удержать оборону и не дать войскам неприятеля захватить мост и переправу через реку.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Отбить все атаки противника. Удержать оборону и не дать противнику захватить мост через реку.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Противник предпринимает значительные усилия для захвата моста и переправы через реку. Ваша задача - любыми силами и средствами удержать оборону и не дать войскам неприятеля захватить мост и переправу через реку.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Задача выполнена.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Задание провалено.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Захватить мост через реку. Продвинуться дальше вглубь территории противника и атаковать отмеченную на карте военную базу.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Для дальнейшего развития наступления необходимо форсировать реку. В данном районе наиболее удобным средством переправы является мост. Противник построил плотную оборону у моста и в населённом пункте в непосредственной близости от переправы. Ваша задача - уничтожить оборону противника и захватить мост. Для закрепления успеха необходимо продвинуться вглубь обороны врага и захватить военную базу.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Задача выполнена
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Задание провалено
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Infantry_support]
+Под ваше командование поступила группа пехоты
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+Танки из резерва армии в вашем распоряжении
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Авиа поддержка в вашем распоряжении
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Минометы поддержки в вашем распоряжении
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Группа пехоты и танков поступила в ваше распоряжение
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Доступна артиллерийская поддержка
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Авиаподдержка доступна для использования
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Доступна минометная поддержка
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Командование выделило группу танков и пехоты из резерва
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Артподдержка доступна
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Штаб армии выделил авиацию для поддержки
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Командование выделило группу танков и пехоты из резерва
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Артподдержка доступна
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Штаб армии выделил авиацию для поддержки
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Группа пехоты и танков поступила в ваше распоряжение
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Доступна артиллерийская поддержка
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Авиаподдержка доступна для использования
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Доступна минометная поддержка
+
+[Reinforcement.Group_reinforcement_tanks]
+Танки
+
+[Reinforcement.Group_reinforcement_inf]
+Пехота
+
+[Reinforcement.Group1[Reinforcement]]
+Танки и пехота из резерва
+

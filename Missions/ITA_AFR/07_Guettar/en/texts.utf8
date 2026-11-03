@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Occupy and defend the village
+[Submission_1.Description]
+Capture the settlement and organize its defenses.
+[Submission_01.Success]
+Mission accomplished.
+[Submission_01.Failed]
+Mission failed.
+[Mission.Objectives]
+Destroy the enemy
+[Mission.Description]
+You must hold your ground against advancing enemy units, repel enemy attacks and counterattack. In order to prevent enemy forces from regrouping, clear the battlefield from enemy units that were defeated but not completely destroyed.
+[NewSubmission.Success]
+Mission accomplished.
+[NewSubmission.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Clean up the area
+[Submission_2.Description]
+Destroy or scatter the attacking enemy units, clear the battlefield from their remnants.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.

@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+Сrush the enemy
+[Mission.Description]
+Lieutenant Colonel Waters! You must carry out an offensive to crush the enemy at the village of Sidi Bou Zid.
+[Mission.Success]
+The offensive has been a success! The enemy is fleeing!
+[Mission.Failed]
+Retreat! Our troops have been defeated!
+[Submission1.Objectives]
+Free the village
+[Submission1.Description]
+Free the village from enemy troops.
+[Submission1.Success]
+The village has been freed from invaders.
+[Submission1.Failed]
+We have failed to dislodge the enemy from the village!
+[Submission2.Objectives]
+Re-establish contact
+[Submission2.Description]
+Send an infantry unit to the howitzer artillery position to re-establish contact.
+[Submission2.Success]
+Contact has been re-established.
+[Submission2.Failed]
+We have failed to re-establish contact with the artillery!
+[Submission3.Objectives]
+Protect the artillery
+[Submission3.Description]
+Prevent the enemy from capturing the artillery.
+[Submission3.Success]
+The enemy has failed to capture the artillery!
+[Submission3.Failed]
+The enemy has captured the artillery!
+[Submission4.Objectives]
+Capture the artillery
+[Submission4.Description]
+Retake the artillery position!
+[Submission4.Success]
+The artillery is ours again!
+[Submission4.Failed]
+The enemy still controls the artillery!
+[Submission5.Objectives]
+Destroy the ambush
+[Submission5.Description]
+Destroy the ambush
+[Submission5.Success]
+Ambush has been destroyed!
+[Submission5.Failed]
+Ambush has not been destroyed!
+[Submission8.Objectives]
+Destroy the advancing enemy forces
+[Submission8.Description]
+The enemy has launched a counter-offensive to blunt our attack at Sidi Bou Zid. Destroy the advancing enemy forces!
+[Submission8.Success]
+The advancing enemy forces have been destroyed!
+[Submission8.Failed]
+Our troops have been crushed by the advancing enemy forces!
+[StringTable.Zasada]
+An ambush.
+[Submission6.Objectives]
+Destroy the tanks
+[Submission6.Description]
+Destroy the advancing enemy tanks.
+[Submission6.Success]
+Enemy tanks have been destroyed!
+[Submission6.Failed]
+Enemy tanks have not been destroyed!
+[Submission7.Objectives]
+Destroy enemy tanks
+[Submission7.Description]
+An enemy armored unit has been sighted to the south. Destroy it as soon as possible.
+[Submission7.Success]
+The enemy armored unit has been defeated!
+[Submission7.Failed]
+The enemy armored unit has not been defeated!
+[StringTable.human]
+Infantry
+[StringTable.spg]
+Self-propelled Guns

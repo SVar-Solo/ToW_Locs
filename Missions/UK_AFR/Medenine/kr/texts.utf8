@@ -1,0 +1,64 @@
+﻿[Mission.Objectives]
+적의 모든 공격을 격퇴하라.
+[Mission.Description]
+적의 공격을 모두 격퇴하고 고지를 방어하라.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission1.Objectives]
+1고지 사수
+[Submission1.Description]
+1고지는 전술적으로 매우 중요하다. 전선의 상당 부분과 아군 후방 전체가 한눈에 내려다보인다. 적이 1고지를 점령하면 포격을 보정하여 아군 후방 진지를 정확하게 타격할 수 있다. 어떤 대가를 치르더라도 사수하라.
+[Submission1.Success]
+적의 공격을 격퇴하고 큰 피해를 입혔다!
+[Submission1.Failed]
+적이 1고지를 점령했다!
+[Submission2.Objectives]
+적에게서 1고지를 탈환하라.
+[Submission2.Description]
+적 보병이 1고지를 점령했다. 예비대를 투입하여 적을 1고지에서 몰아내라.
+[Submission2.Success]
+1고지를 탈환했다.
+[Submission2.Failed]
+공격에 실패했다. 이제 적이 아군 진지를 정확하게 포격할 수 있다!
+[Submission3.Objectives]
+독일군 공병을 공격하라.
+[Submission3.Description]
+적 공병이 적 전차의 호위를 받으며 아군 지뢰밭에 전차 통로를 개척하려 하고 있다. 아군 보병은 독일군 공병을 공격하여 작업을 끝내지 못하게 하라. 아군 포병이 연막으로 엄호할 것이다.
+[Submission3.Success]
+적이 지뢰 제거를 중단하고 철수하고 있다. 임무 완수.
+[Submission3.Failed]
+임무 실패! 적 공병이 전차용 통로 몇 개를 개척할 시간을 얻었다. 이제 전차 공격을 격퇴할 준비를 해야 한다!
+[Submission4.Objectives]
+포대 사격과 항공 전력을 활용하여 능동적으로 방어선을 사수하라.
+[Submission4.Description]
+4고지와 주 방어선을 사수하라. 엄폐된 사격 진지에서 적이 아군 주 방어선에 도달하기 전에 최대한 많은 피해를 입혀라.
+[Submission4.Success]
+적이 막대한 피해를 입고 후퇴하고 있다. 임무 완수!
+[Submission4.Failed]
+적 전차가 아군 방어선을 돌파하여 지휘소에 도달했다!  
+[StringTable.Message1]
+적이 후퇴하고 있다. 재편성하여 다시 공격하려는 것으로 보인다.
+[StringTable.Message2]
+적이 고지에 포격을 가하고 있으며 새로운 공격을 준비하는 것으로 보인다. 후사면은 사격이 미치지 않으므로 보병은 포격이 끝날 때까지 그곳에서 기다릴 수 있다.
+[StringTable.Reinf1]
+증원 부대가 도착했다.
+[StringTable.mess1]
+독일군이 사격을 보정하여 정확히 노리고 쏘는 것 같다.
+[StringTable.mess2]
+적이 아군 진지에 사격을 보정하기 시작한 것 같다. 1고지를 최대한 빨리 탈환하는 것이 중요하다!
+[StringTable.mess4]
+지뢰밭은 지도에 표시되어 있다. 안타깝게도 대전차지뢰뿐이라 보병은 막지 못한다. 게다가 지뢰밭은 지뢰 제거로부터 지켜야 한다.
+[StringTable.mess5]
+적 보병이 고지를 확보했다. 포병 관측병이 있다면 곧 힘든 상황에 빠질 것이다.
+[StringTable.mess6]
+증원 부대가 도착했다.
+[StringTable.mess7]
+경고! 좌측 측면에 적 전차!
+[StringTable.mess8]
+포대와 연락이 닿았다. 포병이 요청 시 즉시 포격할 준비가 되었다!
+[StringTable.mess9]
+항공기가 귀관의 구역으로 접근 중이며, 요청 시 즉시 행동할 준비가 되었다!
+[StringTable.mess3]
+폭격이 멈췄다. 진지로 복귀하라.

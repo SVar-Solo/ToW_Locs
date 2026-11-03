@@ -1,0 +1,278 @@
+﻿[StringTable.1]
+Um das Fenster mit den aktuellen Befehlen zu öffnen, drücken Sie die Schaltfläche BRIEFING in der oberen rechten Ecke des Bildschirms (das Symbol „Briefumschlag“).
+
+[StringTable.2]
+Im Modus der freien Bewegung und bei geringer Gefahrenstufe versucht Ihre Infanterie, in der Nähe Deckung zu finden. Wird ein Feind entdeckt, können die Soldaten ihre Haltung ändern oder ihre Position leicht verlagern und dabei in Deckung bleiben, um bequemer zu feuern.
+
+[StringTable.3]
+Manche Soldaten haben Nebelgranaten; manchmal ist es nötig, eine Nebelwand zu legen, um die nächste Deckung zu erreichen und offenes Gelände zu überqueren.
+Verwenden Sie den Befehl „Nebelwand“ {hkey:smokecloud} und geben Sie per Rechtsklick einen Zielpunkt für den Granatwurf innerhalb der Wurfweite an. Sie können die gewünschte Granate auch gezielt im Inventar auswählen und mit dem Befehl „Flächenfeuer“ {hkey:groundattack} werfen.
+
+[StringTable.4]
+Nähern sich Soldaten dem Feind auf kurze Distanz, kann es zum Nahkampf kommen. Der Ausgang des Handgemenges wird durch die Fertigkeitsstufe „Aufklärung“ der Soldaten bestimmt.
+Ist der Feind deutlich in der Überzahl und die Moral der Soldaten niedrig, können sie in Panik geraten (vorübergehender Kontrollverlust) oder sich ergeben (vollständiger Kontrollverlust).
+Einen ausführlichen Tooltip zum Moralzustand eines Soldaten sehen Sie, wenn Sie den Mauszeiger über die Zeile „Moral“ im Einheiteninfo-Fenster bewegen.
+
+[StringTable.5]
+Haben sich Feinde in einem Gebäude verschanzt, können Sie versuchen, sie „auszuräuchern“, indem Sie im Modus „Flächenfeuer“ {hkey:groundattack} eine Granate durch ein Fenster oder eine Tür werfen. Selbst wenn die Granate nicht dort landet, wo sie soll, besteht die Chance, dass die feindlichen Soldaten aus dem Gebäude ins Feuer Ihrer Soldaten laufen.
+
+[StringTable.6]
+Den Panzerwagen erbeuten. Wählen Sie mindestens zwei Soldaten für das erbeutete Fahrzeug aus – einer sollte eine hohe Fahrerfertigkeit haben, der andere eine hohe Richtschützenfertigkeit.
+
+[StringTable.7]
+Ihnen steht Luftunterstützung zur Verfügung. Statt feindliche Geschütze frontal anzugreifen, empfiehlt es sich, den Standort der Geschütze mit einem Scharfschützen aufzuklären und dann Erdkampfflugzeuge in dieses Gebiet zu rufen. Sie brauchen einige Zeit, um das angegebene Gebiet zu erreichen, und beginnen dann, in der Nähe nach Zielen zu suchen. Gibt es in der Nähe des angegebenen Punktes keine Ziele, greifen die Erdkampfflugzeuge andere vorrangige Ziele an, die sie mit den entsprechenden Bordwaffen entdecken können.
+
+[Submission1.Objectives]
+Die Gruppe zu den angegebenen Wegpunkten bewegen.
+[Submission1.Description]
+Ihre Befehle lauten:
+- Bewegen Sie die Gruppe in Kolonnenformation zu Wegpunkt 1.
+
+Gehen Sie dazu wie folgt vor:
+- Wählen Sie die Infanteriegruppe aus, indem Sie bei gedrückter linker Maustaste einen Auswahlrahmen um sie ziehen –oder– indem Sie doppelt auf das Kommandeurssymbol klicken.
+- Wählen Sie die Formation – KOLONNE 
+- Wählen Sie den Bewegungsmodus – SPRINT
+- Richten Sie den Cursor auf den Zielort und klicken Sie mit der rechten Maustaste.
+- Legen Sie die Ausrichtung der Formation fest, indem Sie die rechte Maustaste gedrückt halten und die Maus bewegen.
+
+Hinweis:
+- Verfügbare Formationen: FREI, LINIE, KOLONNE, ZANGE
+- Die Standardformation der Truppen ist LINIE
+- Formationen lassen sich nur beim Erteilen eines Bewegungsbefehls wechseln
+- Verfügbare Bewegungsmodi: FREI, KURZER SPURT, SCHLEICHEN
+- Der Standardmodus der Truppen ist FREI
+- Die Truppen können ihren Bewegungsmodus nach eigenem Ermessen wechseln
+- Der Standard-Bewegungsbefehl ist STURM
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+Wer die Rüstung aufrollt und eilig aufbricht, weder Tag noch Nacht rastet und im Eilmarsch hundert Li zurücklegt, dessen drei Heerführer werden gefangen genommen. Denn die kräftigen Truppen kommen zuerst an, die schwachen bleiben zurück, sodass bei Anwendung dieses Verfahrens nur ein Zehntel des Heeres eintrifft.
+
+[Submission1.Success]
+Mission erfüllt!
+[Submission1.Failed]
+Mission gescheitert!
+[Submission2.Objectives]
+Die verteidigenden feindlichen Einheiten ausschalten.
+[Submission3.Objectives]
+Das Gebiet säubern und das feindliche gepanzerte Fahrzeug und Maschinengewehr nutzen, um eine Verteidigungsstellung einzurichten.
+[Submission3.Description]
+Ihre Befehle lauten:
+- Das Gebiet säubern.
+- Das feindliche Maschinengewehr und gepanzerte Fahrzeug nutzen, um für die Gruppe im Dorf eine Verteidigung einzurichten.
+
+Gehen Sie dazu wie folgt vor:
+- Wählen Sie die Soldaten mit den höchsten Fahrer- und Richtschützenfertigkeiten aus.
+- Setzen Sie sie in das verlassene gepanzerte Fahrzeug.
+- Setzen Sie zwei Soldaten an das Maschinengewehr, um es zu nutzen.
+- Setzen Sie einen Soldaten mit hoher Treffsicherheit an das Maschinengewehr.
+- Sammeln Sie zurückgelassene Waffen und Munition auf.
+
+Hinweis:
+- Jede Gruppe wird von einem Kommandeur geführt. Wie gut Sie Ihre Truppen kontrollieren können, hängt maßgeblich von seiner Anwesenheit auf dem Schlachtfeld ab. Fällt der Kommandeur, kann die Gruppe ihren Zusammenhalt verlieren und sogar vom Schlachtfeld fliehen, schützen Sie also Ihren Kommandeur
+
+- Klicken Sie auf einen leeren Panzer, ein Geschütz oder Fahrzeug... und befehlen Sie Ihrem Soldaten mit der rechten Maustaste, in das gewählte Objekt einzusteigen
+- Setzen Sie den Soldaten mit dem höchsten Wert in FAHRER als Fahrer ein
+- Setzen Sie den Soldaten mit dem höchsten Wert in RICHTSCHÜTZE als Richtschützen ein 
+- Sie können die Positionen der Soldaten in einem Panzer, Geschütz oder Fahrzeug tauschen
+- Wählen Sie ein Besatzungsmitglied aus und ziehen Sie es bei gedrückter linker Maustaste auf eine andere Position. Beachten Sie, dass der Positionswechsel einige Zeit dauert
+- Zum Bewegen eines Maschinengewehrs ist mindestens eine zweiköpfige Bedienung nötig. Zum Drehen genügt ein einziges Bedienungsmitglied
+- Um die beste Feuerkraft aus einem Maschinengewehr herauszuholen, setzen Sie einen Soldaten mit guter Treffsicherheit auf die Richtschützenposition
+- Um eine zurückgelassene Waffe oder Munition aufzunehmen, stellen Sie einen Soldaten in die Nähe des Objekts und aktivieren Sie die Schaltfläche INVENTAR (eine Schaltfläche mit Pistolensymbol in der unteren Leiste). Danach wird ein Fenster mit den Gegenständen angezeigt, die in der Nähe des Soldaten am Boden liegen, und Sie können Gegenstände per Hand in die Waffenleiste und den Rucksack ziehen. Sie können dem Soldaten auch befehlen, automatisch alle oder nur die besseren Gegenstände vom Boden aufzunehmen, indem Sie auf die entsprechenden Schaltflächen im Inventarfenster klicken. Standardmäßig nehmen Soldaten die besten Waffen automatisch auf. Für ausgewählte Soldaten können Sie diesen Modus deaktivieren, indem Sie in der Befehlsleiste auf die Schaltfläche AUTOMATISCH AUFNEHMEN klicken.
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+Erkunde daher die Pläne des Feindes, und du wirst wissen, welche Strategie erfolgreich sein wird und welche nicht;
+beunruhige ihn und finde das Muster seiner Bewegungen heraus.
+Erkunde seine Aufstellung und bestimme so das Schlachtfeld.
+Fühle ihm auf den Zahn und erfahre, wo seine Stärke reichlich und wo sie mangelhaft ist.
+
+[Submission3.Success]
+Mission erfüllt!
+[Submission3.Failed]
+Mission gescheitert!
+[Mission1.Objectives]
+ALLGEMEINES BRIEFING 
+[Mission1.Description]
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+1. Sei daher anfangs scheu wie ein Mädchen. Bietet der Feind eine Blöße, sei schnell wie ein Hase, und er wird dir nicht widerstehen können.
+
+2. Wenn ich die Aufstellung des Feindes erkunden und zugleich meine eigene verbergen kann, dann kann ich meine Kräfte sammeln, während er sich teilen muss. Sammle ich mich, während er sich teilt, kann ich meine gesamte Stärke gegen einen Bruchteil der seinen einsetzen. Dort bin ich zahlenmäßig überlegen. Kann ich dann mit vielen gegen wenige am gewählten Punkt zuschlagen, so geraten die, mit denen ich es zu tun habe, in arge Bedrängnis.
+
+3. Im Allgemeinen setze in der Schlacht die regulären Kräfte zum Kampf ein; die außergewöhnlichen, um zu siegen.
+
+4. Man verteidigt sich, wenn die Stärke nicht ausreicht; man greift an, wenn sie reichlich vorhanden ist.
+ 
+5. Sorge für die Verpflegung der Truppen; ermüde sie nicht unnötig. Einige sie im Geist; schone ihre Kräfte. Fasse unergründliche Pläne für die Bewegungen des Heeres. 
+
+6. Und wie das Wasser seinen Lauf nach dem Gelände richtet, so erringt ein Heer seinen Sieg gemäß der Lage des Feindes.
+Und wie das Wasser keine feste Form hat, gibt es im Krieg keine festen Bedingungen.
+Wer daher den Sieg zu erringen vermag, indem er seine Taktik der Lage des Feindes anpasst, von dem darf man sagen, er sei göttlich.
+
+[Mission1.Success]
+Sie haben Ihre Ziele erfüllt! Sie wurden zum Offizier der Roten Armee befördert!
+[Mission1.Failed]
+Mission gescheitert!
+[Submission2.Description]
+Ihre Befehle lauten:
+- Vernichten Sie die deutsche Gruppe im Dorf Malinki, Wegpunkt 2
+
+Gehen Sie dazu wie folgt vor:
+- Behalten Sie die Kontrolle über jeden Soldaten, indem Sie rechtzeitig Einzelbefehle erteilen
+- Setzen Sie Handgranaten gegen feindliche Soldaten ein, die sich hinter Deckung verbergen (Linksklick auf die Handgranaten-Schaltfläche, um sie als Waffe zu aktivieren)
+- Setzen Sie Scharfschützen ein, um feindliche Offiziere und MG-Bedienungen auszuschalten (fällt Ihr Scharfschütze, kann ein anderer Soldat – am besten mit hoher Treffsicherheit – das Zielfernrohrgewehr aufnehmen)
+- Unterdrücken Sie feindlichen Widerstand mit Maschinengewehrfeuer
+- Nutzen Sie taktische Pausen, um Befehle zu erteilen und den Überblick über die Lage zu behalten
+
+Hinweis:
+- Sehen Ihre Soldaten feindliche Soldaten, eröffnen sie selbständig das Feuer auf sie, außer wenn der Befehl „Feuer halten“ erteilt wurde
+- Wenn Sie einen Soldaten auswählen, können Sie per Linksklick in der Waffenleiste festlegen, welche Waffe er im Kampf verwendet. Den Einsatz einzelner Waffen, Granaten oder wertvoller Munition können Sie per Rechtsklick verbieten.
+- Wählen Sie Granaten, um Feinde hinter Hindernissen auszuschalten. Es gibt Angriffsgranaten (kleine Sprengweite; sie werden verwendet, weil der Angreifer meist keine Deckung hat) und Verteidigungsgranaten (große Sprengweite; sie werden verwendet, weil der Verteidiger meist hinter guter Deckung liegt)
+- Sie können jedem Soldaten unabhängig ein eigenes Ziel zuweisen
+- Wenn Sie den Befehl ANGRIFF wählen und mit der rechten Maustaste auf eine Zieleinheit klicken, befehlen Sie Ihrem Soldaten, das Ziel mit der gewählten Waffe anzugreifen. Liegt das Ziel außerhalb der wirksamen Waffenreichweite, nähert sich der Soldat dem Feind
+- Wenn Sie den Befehl STURM wählen und mit der rechten Maustaste auf einen Zielort klicken, befehlen Sie dem Soldaten, auf das Ziel zuzustürmen. Der Soldat rückt aus der Bewegung feuernd an den Feind heran und versucht, ihn mit Granaten zu vernichten.
+- Wenn Sie den Befehl FLÄCHENFEUER wählen und mit der rechten Maustaste auf das Schlachtfeld klicken, befehlen Sie Ihrem Soldaten, diesen Ort (Flächenfeuer) mit der gewählten Waffe anzugreifen. Der Soldat versucht, von seiner aktuellen Position aus auf den zugewiesenen Zielort zu schießen. Nutzen Sie diesen Modus mit der gewählten Granate, um sie auf Feinde außerhalb der Sicht Ihres Kämpfers zu werfen.
+- In Ihrer Gruppe befindet sich ein Scharfschütze, ein Soldat mit hohen Werten in „Aufklärung“ und „Treffsicherheit“. Setzen Sie ihn ein, um den feindlichen Offizier und die Geschützbedienung auszuschalten und Panik unter den Feinden zu verursachen. 
+- Um den Feind niederzuhalten, setzen Sie Ihr Maschinengewehr ein. Vergessen Sie nicht, den MG-Schützen zu decken, da er das Hauptziel der feindlichen Soldaten sein wird. 
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+Der Feind darf nicht wissen, wo ich die Schlacht zu liefern gedenke. Denn weiß er es nicht, muss er sich an sehr vielen Orten vorbereiten. Und bereitet er sich an sehr vielen Orten vor, so sind an jedem einzelnen Ort nur wenige, gegen die ich kämpfen muss.
+Rüstet er nach vorn, wird sein Rücken schwach sein, und rüstet er nach hinten, wird seine Front brüchig sein. Rüstet er nach links, wird seine Rechte verwundbar sein, und rüstet er nach rechts, werden nur wenige auf seiner Linken stehen. Und wenn er sich überall vorbereitet, wird er überall schwach sein.
+
+[Submission2.Success]
+Sie haben Ihre Mission erfüllt!
+[Submission2.Failed]
+Mission gescheitert!
+[Submission4.Objectives]
+Das gepanzerte Fahrzeug erbeuten
+[Submission4.Description]
+Das gepanzerte Fahrzeug erbeuten
+
+Hinweis:
+Wählen Sie einen oder zwei Soldaten aus, bewegen Sie dann den Cursor auf ein gepanzertes Fahrzeug (der Cursor wechselt zum Symbol „Aufsitzen“) und klicken Sie mit der rechten Maustaste. Ihre Soldaten laufen los, um in das gepanzerte Fahrzeug einzusteigen.
+[Submission4.Success]
+Auftrag erfüllt!
+[Submission4.Failed]
+Auftrag gescheitert!
+[Submission5.Objectives]
+Den feindlichen Angriff abwehren.
+[Submission5.Description]
+Ihre Befehle lauten:
+- Schalten Sie den angreifenden Feind bei Wegpunkt 3 aus
+
+Gehen Sie dazu wie folgt vor:
+- Nutzen Sie Beweglichkeit und Panzerung des gepanzerten Fahrzeugs
+- Nutzen Sie erbeutete Waffen und Ausrüstung
+- Ergreifen Sie die Initiative und schalten Sie den Feind in einem entschlossenen Gegenangriff aus
+
+Hinweis:
+- Um auszuwählen, welche Granaten ein gepanzertes Fahrzeug, ein Panzer oder ein Geschütz abfeuert, klicken Sie mit der linken Maustaste auf das Geschütz (es öffnet sich eine Liste der verfügbaren Granaten dieses Geschützes) und klicken Sie mit der linken Maustaste auf die gewünschte Granate. Das Geschütz wird dann mit einer Granate der gewählten Munitionsart nachgeladen
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+Es ist eine Lehre des Krieges, nicht anzunehmen, dass der Feind nicht kommt, sondern sich auf die eigene Bereitschaft zu verlassen, ihm zu begegnen; nicht zu vermuten, dass er nicht angreift, sondern sich selbst unbesiegbar zu machen.
+
+[Submission5.Success]
+Mission erfüllt!
+[Submission5.Failed]
+Mission gescheitert!
+[Submission6.Objectives]
+Die feindlichen Geschütze vernichten
+[Submission6.Description]
+Ihre Befehle lauten:
+- Vernichten Sie die feindlichen Geschütze bei Wegpunkt 4
+- Fordern Sie Luftunterstützung an, um die feindlichen Geschütze zu vernichten
+
+Gehen Sie dazu wie folgt vor:
+- Wählen Sie die verfügbare Luftunterstützung aus
+- Im Spiel stehen folgende Arten von Luftunterstützung zur Verfügung: ERDKAMPFFLUGZEUGE, JÄGER, BOMBER und AUFKLÄRER 
+
+Hinweis:
+- ERDKAMPFFLUGZEUGE dienen zur Vernichtung feindlicher leicht gepanzerter Fahrzeuge und Geschütze
+- JÄGER eignen sich zur Abwehr und Vernichtung feindlicher Flugzeuge
+- BOMBER dienen für Luftangriffe auf befestigte feindliche Stellungen
+- AUFKLÄRER dienen der Informationsgewinnung aus der Luft über dem Schlachtfeld
+- Schicken Sie das gepanzerte Fahrzeug nicht nach vorn, da es von den feindlichen Geschützen leicht zerstört werden kann
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+Fragt man: „Kann man Truppen zu einer so augenblicklichen Abstimmung befähigen?“, so antworte ich: „Das kann man.“ Denn obwohl die Männer von Wu und Yüeh einander gegenseitig hassen, würden sie in einem vom Wind geschüttelten Boot zusammenarbeiten wie die rechte Hand mit der linken.
+Es genügt daher nicht, sich auf gefesselte Pferde oder vergrabene Wagenräder zu verlassen.
+Ein gleichmäßiges Maß an Tapferkeit zu pflegen ist das Ziel der Heeresführung. Und durch die richtige Nutzung des Geländes werden sowohl die Stoßkräfte als auch die beweglichen Kräfte zum größten Vorteil eingesetzt.
+[Submission6.Success]
+Mission erfüllt!
+[Submission6.Failed]
+Mission gescheitert!
+[Submission7.Objectives]
+Luftunterstützung anfordern.
+[Submission7.Description]
+Luftunterstützung anfordern.
+Hinweis:
+Über der unteren Leiste erscheint ein Symbol für Luftunterstützung.
+Klicken Sie auf das Symbol der Luftunterstützung und klicken Sie mit der rechten Maustaste auf den Zielort. 
+Es gibt 4 Arten von Flugzeugen: Aufklärer, Jäger, Bomber und Erdkampfflugzeuge. 
+[Submission7.Success]
+Auftrag erfüllt!
+[Submission7.Failed]
+Auftrag gescheitert!
+[Submission8.Objectives]
+Die feindlichen Geschütze erbeuten 
+[Submission8.Description]
+Ihre Befehle lauten:
+- Erbeuten Sie die feindlichen Geschütze 
+- Richten Sie vor dem Dorf Malinki eine Verteidigungsstellung ein 
+- Setzen Sie zwei Soldaten an das Geschütz, um es zu nutzen 
+- Setzen Sie den Soldaten mit dem höchsten Richtschützenwert auf die Richtschützenposition
+
+Hinweis:
+- Um Granaten in einem Panzerwagen, Panzer, Geschütz usw. auszuwählen, klicken Sie mit der rechten Maustaste auf das Pfeilsymbol rechts neben dem Geschütz in der Waffenleiste; es öffnet sich eine Liste der für dieses Geschütz verfügbaren Munition, aus der Sie die gewünschte Geschossart per Linksklick auswählen. Mit der rechten Maustaste wird die Verwendung der gewählten Geschossart verboten. Nach der Auswahl eines Geschosses werden die Symbole von Geschütz und Geschoss gelb hervorgehoben, das heißt, die Einheit verwendet nur noch dieses Geschütz und dieses Geschoss. Ist bereits ein anderes Geschoss im Rohr geladen, erfolgt das Nachladen mit der gewählten Munition erst, nachdem das bereits geladene Geschoss verschossen wurde.
+- Die Geschützbedienung kann das Geschütz drehen und bewegen; zum Drehen oder Bewegen sind mindestens zwei Personen nötig.
+- Um mit den Geschützen die beste Feuerleistung und Genauigkeit zu erzielen, setzen Sie den Soldaten mit dem höchsten Richtschützenwert auf die Richtschützenposition.
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+Vorzeiten machten sich die geschickten Krieger zuerst unbesiegbar und warteten auf den Augenblick der Verwundbarkeit des Feindes.
+Die Unbesiegbarkeit hängt von einem selbst ab, die Verwundbarkeit des Feindes von ihm.
+Daraus folgt, dass die Kriegskundigen sich unbesiegbar machen, den Feind aber nicht mit Sicherheit verwundbar machen können.
+Darum heißt es, man könne wissen, wie man siegt, es aber nicht zwangsläufig tun.
+Die Unbesiegbarkeit liegt in der Verteidigung, die Möglichkeit des Sieges im Angriff.
+(…)Darum bezieht der geschickte Feldherr eine Stellung, in der er nicht geschlagen werden kann, und versäumt keine Gelegenheit, seinen Feind zu bezwingen.
+
+[Submission8.Success]
+Mission erfüllt!
+[Submission8.Failed]
+Mission gescheitert!
+[Submission9.Objectives]
+Die feindlichen Panzer vernichten
+[Submission9.Description]
+
+Ihre Befehle lauten:
+- Vernichten Sie die feindlichen Panzer mit den erbeuteten Geschützen und Ihrem Panzer bei Wegpunkt 5
+
+Gehen Sie dazu wie folgt vor:
+- Beim Angriff auf ein Ziel können Sie den Haltepunkt festlegen – die Möglichkeiten sind: HÖHER HALTEN, FREI HALTEN und TIEFER HALTEN
+
+
+Hinweis:
+- Beachten Sie, dass jede Granatenart für einen bestimmten Zweck ausgelegt ist
+- Sprenggranaten (HE) dienen zur Vernichtung feindlicher Infanterie, leicht gepanzerter Fahrzeuge und offener Geschütze.
+- Die panzerbrechende Granate (AP) ist ein Vollgeschoss, neigt zu Abprallern und hat keine Sprengladung.
+- Die panzerbrechende Haubengranate (APC) ist ein Vollgeschoss, neigt weniger zu Abprallern und hat keine Sprengladung.
+- Die panzerbrechende Sprenggranate (APHE) neigt zu Abprallern und hat eine Sprengladung
+- Die panzerbrechende Granate mit ballistischer Haube (APCBC) ist ein Vollgeschoss, neigt weniger zu Abprallern und hat keine Sprengladung.
+- Unterkalibergeschosse (APCR, APDS) haben eine hohe Durchschlagsleistung, verlieren sie aber mit zunehmender Entfernung schneller. Sie haben keine Kammerladung, richten weniger Schaden an und sind ungenauer.
+- Die Hohlladungsgranate (HEAT) durchschlägt ein Hindernis mit einem Hohlladungsstrahl, die Durchschlagsleistung ist nicht von der Entfernung abhängig. Sie hat zudem eine begrenzte Spreng-Splitterwirkung.
+- Nebelgeschoss – dient zum Legen von Nebelwänden.
+
+
+SUN TZU, „DIE KUNST DES KRIEGES“
+Sun Tzu sagte:
+Truppen, die gegen den Feind geworfen werden wie ein Mühlstein gegen Eier, sind ein Beispiel dafür, wie ein Fester auf ein Leeres wirkt.
+
+[Submission9.Success]
+Mission erfüllt!
+[Submission9.Failed]
+Mission gescheitert!

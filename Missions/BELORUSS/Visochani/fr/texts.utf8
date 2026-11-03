@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Libérez Vyssotchany des occupants allemands et détruisez la base d’appui ennemie.
+[Mission.Description]
+Vous devez éliminer la garnison ennemie de Kourtenki qui contrôle la route de Vyssotchany ; sécuriser cette route ; détruire les troupes blindées ennemies dans la zone Kourtenki – Vyssotchany ; et neutraliser l’artillerie à la lisière sud de Vyssotchany.
+[Mission.Success]
+Mission accomplie, Vyssotchany libéré.
+[Mission.Failed]
+Mission échouée.
+[Submission1.Objectives]
+Libérez Kourtenki.
+[Submission1.Description]
+Éliminez la garnison ennemie de Kourtenki et sécurisez la route de Vyssotchany. Préparez-vous à repousser une contre-attaque ennemie.
+[Submission1.Success]
+Kourtenki sécurisé.
+[Submission1.Failed]
+Mission échouée.
+[Submission2.Objectives]
+Détruisez la colonne blindée ennemie venant au secours de la garnison de Kourtenki.
+[Submission2.Description]
+La colonne blindée ennemie vient de Vyssotchany au secours de la garnison de Kourtenki. Interceptez-la et détruisez-la en l’attirant dans une embuscade.
+[Submission2.Success]
+Colonne ennemie détruite.
+[Submission2.Failed]
+Mission échouée.
+[Submission3.Objectives]
+Un autre groupe blindé ennemi est parti de Vyssotchany pour vous intercepter. Détruisez-le et poursuivez vers la libération du village.
+[Submission3.Description]
+Sécurisez complètement la route de Vyssotchany. Détruisez le groupe blindé ennemi.
+[Submission3.Success]
+La route de Vyssotchany est libre.
+[Submission3.Failed]
+Mission accomplie.

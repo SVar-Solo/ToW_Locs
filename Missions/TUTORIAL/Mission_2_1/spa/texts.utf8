@@ -1,0 +1,72 @@
+﻿[Submission1.Objectives]
+Destruya la defensa enemiga.
+
+[Submission1.Description]
+El comandante del frente considera necesario destruir la defensa enemiga en esta zona.
+
+Orden recibida:
+- capturar la primera línea de trincheras;
+- capturar la segunda línea de trincheras;
+- capturar la tercera línea de trincheras.
+
+[Submission1.Success]
+¡Órdenes del mando cumplidas! ¡Se le ha concedido el rango de oficial del Ejército Rojo!
+
+[Submission1.Failed]
+¡Ha fracasado en la operación! ¡Sus tropas han sido destruidas!
+
+[StringTable.1]
+Capture la primera línea de trincheras.
+Adelante los tanques para disparar contra las posiciones enemigas y cubrir el avance de la infantería. Use la infantería para atacar las trincheras enemigas.
+
+[StringTable.2]
+Capture la segunda línea de trincheras. Use dos tanques para flanquear al enemigo y llegar a su retaguardia para destruir la artillería enemiga. Use la infantería para atacar las trincheras enemigas, cubriendo su avance con un tanque.
+
+Si el cañón enemigo es difícil de alcanzar, intente asignar a un solo tanque un punto de fuego con la orden "Fuego de área" {hkey:groundattack} lo más cerca posible del cañón o ligeramente detrás de él. Asegúrese de que haya línea de fuego hasta ese punto (quizá deba elegir una posición más conveniente para su tanque). El tanque seleccionará automáticamente proyectiles HE para el fuego de área.
+
+También puede usar los tanques para aplastar cañones e infantería fuera de las trincheras.
+
+[StringTable.3]
+Capture la tercera línea de trincheras.
+Estas trincheras son "activas": primero, se cubren unas a otras con fuego; segundo, cuando se captura una trinchera, los soldados de la otra empiezan a atacar a sus tropas e intentan expulsarlas de las posiciones ocupadas.
+Además, la artillería enemiga está cubierta por tanques.
+Use dos tanques pesados para flanquear al enemigo y llegar a su retaguardia para destruir la artillería enemiga. Use la infantería para atacar las trincheras enemigas, ya sea por el flanco derecho o por el izquierdo, cubriendo el avance con un tanque ligero.
+
+[StringTable.Win]
+¡Tarea completada!
+
+[StringTable.Form]
+Sus tropas pueden desplazarse en distintas formaciones. En total hay 4 tipos de formaciones:
+
+"Columna": al desplazarse, las tropas forman una columna;
+"Escalón": al desplazarse, las tropas forman una cuña;
+"Libre": al desplazarse, las tropas adoptan una forma libre;
+"Línea": al desplazarse, las tropas forman una línea.
+
+La formación "Línea" está seleccionada por defecto. Puede alternar rápidamente entre formaciones con la tecla {hkey:formation}. Las distancias entre las unidades, así como la dirección de la formación, se regulan moviendo el ratón con el botón derecho pulsado; las tropas se desplegarán en el punto final en la dirección indicada.
+
+Si necesita desplegar las tropas en una dirección deseada sin cambiar su posición actual, dé la orden "Girar" {hkey:defend}. Los vehículos que no pueden girar sobre el sitio intentarán hacerlo con varias maniobras. Al dar una orden de movimiento a una sola unidad, puede fijar la dirección final de giro manteniendo pulsado el botón derecho del ratón durante un momento y marcando la dirección de la flecha con el movimiento del ratón.
+
+Para los vehículos está disponible el modo de movimiento a velocidad de infantería {hkey:lowspeed}.
+
+[StringTable.Action]
+Sus tropas pueden desplazarse en cualquiera de los modos de movimiento. Hay 4 modos de movimiento:
+"ATAQUE" {hkey:attack}: al ver al enemigo, las tropas se detendrán y abrirán fuego hasta que el enemigo sea destruido o desaparezca de la vista. Después continuarán el ataque.
+"ASALTO" {hkey:storm}: las tropas dispararán contra el enemigo desde breves paradas durante su avance.
+"MOVIMIENTO" {hkey:move}: las tropas se desplazan principalmente por las carreteras e ignoran a los enemigos. Los vehículos con torreta la girarán durante el desplazamiento. Esta orden también puede darse haciendo doble clic con el botón derecho del ratón.
+"MARCHA ATRÁS/RETIRADA" {hkey:retreat}: las tropas (excepto la infantería) se desplazan marcha atrás.
+
+Recuerde siempre que puede detener a sus tropas y cancelar las órdenes que se les hayan dado mediante la orden "Cancelar orden" {hkey:stop}. Después pasarán al modo "Defensa".
+
+Al atacar trincheras, seleccione "atacar" o "asalto" e indique el punto de movimiento haciendo clic con el botón derecho del ratón.
+
+[StringTable.WeaponsAndAmmos]
+Un cañón puede cargarse con uno de los tipos de munición de la dotación de la unidad. Un cañón cargado se descarga al disparar. El icono de munición semitransparente del panel de armas indica cuál se cargará a continuación (por ejemplo, si la seleccionó a la fuerza) y no siempre coincide con el proyectil cargado en ese momento. El proyectil cargado actualmente puede verse en la información emergente al pasar el cursor del ratón sobre el icono del cañón.
+
+Sus unidades intentan seleccionar automáticamente un proyectil adecuado para cada tipo de objetivo. Puede especificar a la fuerza la munición requerida haciendo clic con el botón derecho en la zona de munición situada a la derecha del icono del cañón en el panel de armas. Después seleccione el proyectil requerido con el botón izquierdo: el cañón y la munición se resaltarán en amarillo. Ahora la unidad usará solo esta arma con el tipo de munición seleccionado, y la orden "Girar" del tanque {hkey:defend} se aplicará ahora a la torreta con este cañón y no a toda la unidad. También puede prohibir el uso de ciertos tipos de munición o de arma haciendo clic con el botón derecho en el icono correspondiente.
+
+[StringTable.EnemyTanks]
+Han salido tanques enemigos a su encuentro.
+Penetrar el blindaje de un tanque suele no bastar para destruirlo. La destrucción completa de un tanque enemigo puede lograrse de varias maneras: destruyendo el casco, provocando un incendio del motor o del depósito de combustible, o alcanzando el almacén de munición y causando su detonación. Puede inutilizar parcialmente un tanque derribando sus orugas, destruyendo la torreta o el cañón principal, o alcanzando a miembros críticos de la dotación. Todo esto requiere alcanzar un módulo concreto del interior del tanque. Tenga en cuenta también si un cañón determinado puede penetrar el blindaje del tanque enemigo con el ángulo de impacto dado, así como el daño que causará el proyectil tras la penetración.
+
+Para ver los vectores de penetración del blindaje y la información sobre los daños internos, active el "Modo de información de daños" {hkey:SwitchDamageMessagesMode}.

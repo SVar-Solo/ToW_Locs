@@ -1,0 +1,49 @@
+﻿[Mission.Objectives]
+전선을 사수하라
+[Mission.Description]
+로열 햄프셔 연대 제5대대 병력으로 시디 느시르 철도역 부근의 전선을 사수하라. 제172야전포병연대 제155포대가 지원한다.
+아침에 적이 새로운 공격을 개시했다. 가능한 한 오래 적을 지연시키며 최대한 많은 피해를 입혀야 한다.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission1.Objectives]
+포대와 연락을 확립하라.
+[Submission1.Description]
+야전 포병 중대가 아군을 지원하고 있다. 얼마 전 그 사격 진지와의 연락이 끊어졌다. 아군 포병 관측병을 그들의 관측소로 보내야 한다.
+[Submission1.Success]
+임무 완수. 포대가 관측된 표적에 사격을 개시할 것이다.
+[Submission1.Failed]
+관측소가 파괴되었다!
+[Submission2.Objectives]
+증원 부대가 도착할 때까지 버텨라.
+[Submission2.Description]
+적의 공격이 더욱 거세지고 있다. 증원 부대가 도착할 때까지 어떤 대가를 치르더라도 전선을 사수하고 적에게 최대한 많은 피해를 입혀야 한다. 적 전차 파괴가 필수적이다. 전차 지원이 없으면 적 보병은 막아 내기가 더 쉬워진다. 
+[Submission2.Failed]
+임무 실패.
+[Submission2.Success]
+임무 완수.
+[Submission3.Objectives]
+후방으로 철수하라.
+[Submission3.Description]
+사상자가 발생했는데도 적은 계속해서 새 병력을 투입하며 아군 진지를 공격하고 있다. 아군도 특히 포병에서 상당한 손실을 입었으므로 더는 독일군을 막아 낼 수 없다. 다행히 충분히 오래 전선을 사수한 덕분에 포대가 접근하여 전투 준비를 마쳤다. 이제 그 사격의 엄호를 받으며 후방으로 철수할 수 있다. 서둘러야 한다. 곧 아군 항공 전력이 역을 폭격해 잿더미로 만들 것이다.
+[Submission3.Success]
+임무 완수.
+[Submission3.Failed]
+공황으로 부대 통제를 잃어 새 방어선으로 질서 있게 후퇴하지 못했다. 귀관의 부대가 아군 항공 전력의 타격을 받았다. 임무 실패.
+[Submission4.Objectives]
+증원 부대가 도착할 때까지 버텨라
+[Submission4.Description]
+사령부가 대전차포 중대를 하나 더 우리 구역에 보내고 있다. 그 중대가 도착할 때까지 전선을 사수해야 한다.
+[Submission4.Success]
+임무 완수. 포병이 도착하여 배치를 마쳤다.
+[Submission4.Failed]
+임무 실패.
+[StringTable.mess1]
+독일군은 진격이 막히자 후퇴하기 시작했다. 그들의 갑작스러운 공격은 실패했지만, 다음 공격은 훨씬 거셀 것이다.
+[StringTable.mess2]
+적 습격기 접근 중! 대공포, 사격 개시!
+[StringTable.mess3]
+역을 사수하지 못했다. 최고사령부는 독일군 손에 넘어가지 않도록 역을 파괴하기로 결정했다. 폭격기가 접근 중이니, 아군 폭탄에 맞지 않도록 남은 병력을 최대한 빨리 철수시켜라.
+[StringTable.mess4]
+포대가 파괴되었다.

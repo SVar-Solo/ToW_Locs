@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Durchbrechen Sie die feindlichen Verteidigungsstellungen in der Nähe von Werchopenje.
+[Mission.Description]
+Die Division Großdeutschland führt den Angriff auf Syrtsev weiter fort, und nachdem es besetzt wurde, stößt sie in Richtung Norden nach Werchopenje vor und eliminiert den Feind auf beiden Ufern der Pena. Der Gefechtsverband wird mit Panzern der Strachwitz-Brigade verstärkt und rückt in Richtung Syrtsev, Werchopenje entlang des östlichen Ufers der Pena vor und erreicht dann das westliche Ufer. 
+[Submission_1.Objectives]
+Der Feind hat seine erste Verteidigungslinie in Panik aufgegeben, nachdem wir ihn mit Artillerie und Flugzeugen angegriffen haben. Die Spitze muss die aufgegebenen Stellungen schnell besetzen und halten, bis die Hauptkräfte nachrücken. 
+[Submission_1.Success]
+Mission abgeschlossen.
+[Submission_1.Failed]
+Die Spitze hat den Feind zurückgedrängt.
+[Mission.Success]
+Mission abgeschlossen. Feindlicher Kommandoposten wurde zerstört.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark!
+[Submission_2.Objectives]
+Wehren Sie die feindlichen Gegenangriffe ab und besetzen Sie die zweite Verteidigungslinie der Russen.
+[Submission_2.Success]
+Mission abgeschlossen.
+[Submission_2.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[Submission_3.Objectives]
+Überqueren Sie den Fluss Pena und zerstören Sie den feindlichen Kommandoposten.
+[Submission_3.Success]
+Mission abgeschlossen.
+[Submission_3.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[StringTable.first_support]
+Eine Gruppe bestehend aus Infanterie, Panzern und Artillerie steht jetzt unter Ihrem Kommando.
+[StringTable.second_support]
+Panzer und Sturmgeschütze stehen jetzt unter Ihrem Kommando.
+[StringTable.Inf]
+Infanterie
+[StringTable.Tanks]
+Panzer
+[StringTable.SPG_close]
+StuG 40G Sturmgeschütze
+[StringTable.SPG_open]
+Panzerartillerie
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

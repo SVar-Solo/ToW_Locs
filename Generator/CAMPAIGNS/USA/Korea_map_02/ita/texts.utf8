@@ -1,0 +1,183 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Distruggere le difese nemiche vicino all'aeroporto.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Eliminare i nemici attaccanti. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Il nemico sta organizzando una feroce resistenza nell'area. Secondo la ricognizione, ha concentrato le sue forze per lanciare un'offensiva e conquistare il centro abitato. Dovete respingere l'attacco imminente. Non permettete al nemico di conquistare la posizione.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Dovete conquistare l'aeroporto nemico a nordovest, segnato sulla mappa. Dovrete distruggere le difese nemiche situate negli accessi all'aeroporto.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Gruppo di difesa dell'aeroporto
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Gruppo di difesa dell'aeroporto
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Le truppe amiche sono state sconfitte.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Le truppe amiche sono state sconfitte.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Respingete l'attacco nemico. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Il nemico sta cercando di assicurarsi il controllo dell'area intorno al centro abitato. Respingete l'attacco nemico e non permettete che conquisti la posizione.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici al centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici al centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+La squadra di fanteria e mezzi corazzati è ai vostri ordini.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_inf_support]
+La fanteria meccanizzata è a vostra disposizione.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_inf_support]
+La fanteria meccanizzata è a vostra disposizione.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Le forze aeree sono a vostra disposizione.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Le forze aeree sono a vostra disposizione.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.SPG_inf_support]
+La squadra di fanteria e semoventi è a vostra disposizione.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.SPG_inf_support]
+La squadra di fanteria e semoventi è a vostra disposizione.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Supporto aereo disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Supporto aereo disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è ai vostri ordini.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Conquistare il nodo stradale.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Marcia forzata fino all'area segnata sulla mappa ed eliminate tutti i nemici che incontrate. Raggiungete l'obiettivo entro il tempo stabilito e mettete in sicurezza il nodo stradale e l'area circostante. Tenetevi pronti a respingere eventuali contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Le truppe amiche sono state sconfitte.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Distruggere le difese nemiche vicino all'aeroporto.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Dovete conquistare l'aeroporto nemico a nordovest, segnato sulla mappa. Dovrete distruggere le difese nemiche situate negli accessi all'aeroporto.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Gruppo di difesa dell'aeroporto
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Le truppe amiche sono state sconfitte.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Respingete l'attacco nemico. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Il nemico sta cercando di assicurarsi il controllo dell'area intorno al centro abitato. Respingete l'attacco nemico e non permettete che conquisti la posizione.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Respingere tutti gli attacchi nemici al centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Respingere tutti gli attacchi nemici al centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Non permettete al nemico di conquistare il centro abitato che sorge sul nodo stradale. Usate le fortificazioni leggere presenti nell'area.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[Reinforcement.Group1[Reinforcement]]
+Mezzi corazzati e fanteria
+

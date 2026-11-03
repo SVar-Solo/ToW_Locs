@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+进攻敌军装甲纵队。
+[Submission1.Description]
+我军部队刚在村庄周围构筑好防御，就发现一支德军装甲纵队沿一条乡间道路向你部开来。你必须击退这一威胁！
+
+你的命令： 
+- 	在居民点周围集结，并进攻敌军纵队。
+[Submission1.Success]
+你的命令已完成！
+[Submission1.Failed]
+命令失败！德军纵队未被消灭。
+[Submission2.Objectives]
+进攻从侧翼推进的德军。
+[Submission2.Description]
+据我军空中侦察报告，敌军已在居民点附近不远处部署兵力，并正向你部移动。德军肯定正准备发起突击，所以我们必须粉碎他们的计划。
+
+命令是： 
+- 	进攻敌军突击群，阻止其包围你的部队。
+[Submission2.Success]
+命令已完成！德军未能包围我军！
+[Submission2.Failed]
+命令未能执行！你的部队已被包围。
+[Mission1.Objectives]
+守住居民点周围的防御。
+[Mission1.Description]
+司令部不断收到报告，明确表明敌军正计划在我们地段发起新的进攻。
+
+你的命令：
+- 	守住居民点周围的防御。
+[Mission1.Success]
+命令已完成！由于你的果断行动，德军未能突破我军在这段战线上的防御！
+[Mission1.Failed]
+你未能完成任务。德军设法突破了这段战线上的防御！
+[Submission3.Objectives]
+抵抗德军的进攻。
+[Submission3.Description]
+德军装甲纵队遭到攻击后，又投入了更多兵力来夺取该镇。指挥官，准备迎接又一次进攻。
+
+你的命令： 
+- 	阻止法西斯军队的突击。
+[Submission3.Success]
+你出色地执行了指挥员的命令，守住了居民点！
+[Submission3.Failed]
+任务失败——敌军已占领居民点。
+[Submission4.Objectives]
+进攻我军后方的敌军。
+[Submission4.Description]
+一支敌军装甲纵队已抵达我军后方；必须在他们包围我军阵地之前将其消灭。
+
+你的命令： 
+- 	进攻我军后方的敌军部队。
+[Submission4.Success]
+命令已执行，德军被击溃！
+[Submission4.Failed]
+你未能完成命令，德军又赢得了一场胜利。
+[StringTable.Reserv]
+你已获得增援部队

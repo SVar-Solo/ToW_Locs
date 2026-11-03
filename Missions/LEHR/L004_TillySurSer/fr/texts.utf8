@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Faire face à l’assaut ennemi.
+[Mission.Description]
+Des unités de la 50th Northumbrian Division progressent vers les positions défensives du 2e bataillon, Panzergrenadier-Regiment 901. Bien que dominé en nombre, vous avez à votre disposition un groupe combiné d’infanterie, de blindés et d’artillerie auto-tractée qui doit vous permettre de faire face à toutes les menaces.
+ 
+Vos ordres :
+- tenir votre position autour du village.
+[Mission.Success]
+Beau travail, commandant ! 
+[Mission.Failed]
+Vous avez échoué ! Vos forces battent en retraite.
+[Submission_1.Objectives]
+Repousser toutes les attaques ennemies.
+[Submission_1.Description]
+Les Britanniques ont une totale supériorité en hommes et en machines, mais le terrain les oblige à limiter leurs attaques au centre et sur le flanc gauche. Utilisez l’avantage stratégique de cette position pour placer vos troupes en conséquence et mettre en place une défense adéquate.
+
+Vos ordres :
+- repousser tous les assauts ennemis. 
+[Submission_1.Success]
+Beau travail, commandant ! Les forces ennemies sont détruites.
+[Submission_1.Failed]
+Vous avez échoué ! Vos unités sont battues.

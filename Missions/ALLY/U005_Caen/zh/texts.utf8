@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+消灭溃逃的敌军部队。
+[Main_mission.Description]
+根据我们的情报，卡昂的防御已被粉碎，敌人正仓皇逃窜。但我军合围太迟，我们担心有些敌军部队可能会溜走。你的任务是阻止这些德军逃出去。
+
+命令：
+-	在小村庄附近集结你的兵力，不惜一切代价守住附近的道路交叉口。无论如何不得离开该地区，因为敌人随时可能出现。
+[Main_Mission.Success]
+敌人已被击败！这一地区现在安全了！
+[Main_Mission.Failed]
+你输了。敌人从你手中溜走了。 
+[Submission_1.Objectives]
+消灭敌军坦克。
+[Submission_1.Description]
+多支德军部队的残部正试图突破包围圈。虽然敌人已被削弱，但仍是一支不容小觑的力量。同时还发现了德军装甲部队。
+
+命令：
+-	阻止敌人突围。摧毁遭遇的所有敌军坦克。
+[Submission_1.Success]
+祝贺你！你阻止了敌军！
+[Submission_1.Failed]
+你输了，敌军部队已从我们的包围圈中溜走。
+[Submission_2.Objectives]
+拦住敌军！
+[Submission_2.Description]
+敌人在该地区的兵力比预想的更多。他正企图再次突围。 
+
+命令：
+-	消灭敌军。
+[Submission_2.Success]
+你成功了！敌军已被消灭！
+[Submission_2.Failed]
+你未能完成任务！ 
+[Submission_3.Objectives]
+占领农场。发现敌人则将其消灭。
+[Submission_3.Description]
+德军突围未成，但敌人尚未被消灭。司令部认为，现在最好的办法是立即发起攻势，肃清残余的敌军阵地。
+
+命令：
+-	发起攻势。进攻农场，消灭敌人。
+[Submission_3.Success]
+敌人已被消灭！农场已在我们控制之下！
+[Submission_3.Failed]
+你未能夺取农场。
+[StringTable.Reserv]
+增援已到达。

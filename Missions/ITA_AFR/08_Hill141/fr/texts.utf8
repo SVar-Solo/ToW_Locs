@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Repoussez la prochaine attaque
+[Submission_1.Description]
+L’ennemi se regroupe ; préparez-vous à repousser la prochaine attaque.
+[Submission_01.Success]
+Mission accomplie.
+[Submission_01.Failed]
+Mission échouée.
+[Mission.Objectives]
+Repoussez toutes les attaques ennemies
+[Mission.Description]
+Tenez vos hauteurs dominantes. Repoussez toutes les attaques ennemies.
+[NewSubmission.Success]
+Mission accomplie.
+[NewSubmission.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Repoussez l’attaque de chars
+[Submission_2.Description]
+La prochaine attaque est lancée et, semble-t-il, elle est appuyée par des chars.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.

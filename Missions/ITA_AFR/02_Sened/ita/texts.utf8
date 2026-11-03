@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Guidate la difesa
+[Submission_1.Description]
+Sostenete le unità che presidiano la stazione ferroviaria e l’abitato; poi guidate la difesa.
+[Submission_01.Success]
+Tutte le truppe sono ora al vostro comando.
+[Submission_01.Failed]
+Missione fallita.
+[Mission.Objectives]
+Fermate il nemico
+[Mission.Description]
+Mantenete il controllo dell’abitato e della stazione. Se la stazione viene catturata, contrattaccate il nemico e riprendetela. Perdere l’abitato significa che il nemico ha sfondato e la missione è fallita.
+[NewSubmission.Success]
+La stazione è di nuovo nostra!
+[NewSubmission.Failed]
+Missione fallita.
+[Mission.Success]
+Missione compiuta, tutti gli attacchi sono stati respinti.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Success]
+Tutte le unità sono ora al vostro comando.
+[Submission_1.Failed]
+Il vostro rifiuto di guidare la difesa vi costerà caro!
+[Submission_2.Objectives]
+Contrattacco
+[Submission_2.Description]
+Il nemico ha catturato la stazione! Contrattaccate e riprendetela.
+[Submission_2.Success]
+Missione compiuta, la stazione è di nuovo nostra.
+[Submission_2.Failed]
+Missione fallita.

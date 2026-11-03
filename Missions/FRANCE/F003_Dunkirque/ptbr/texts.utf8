@@ -1,0 +1,18 @@
+﻿[Mission.Objectives]
+A missão principal é impedir que quaisquer tropas alemãs rompam até a área de evacuação.
+[Mission.Description]
+Em consequência de muitos dias de combate, o exército francês sofreu graves perdas, agravadas ainda mais pelos constantes bombardeios da aviação da Luftwaffe. Mas, mesmo com essas perdas, nossas tropas continuam tentando manter a linha e permitir que as outras forças aliadas embarquem e recuem através do Canal da Mancha. Hoje a tarefa principal é conter as tropas alemãs e impedir que rompam até as áreas de evacuação ao longo do litoral.      
+[Mission.Success]
+Missão cumprida com sucesso
+[Mission.Failed]
+Missão fracassada
+[Submission_1.Objectives]
+Repila todos os ataques das tropas alemãs
+[Submission_1.Description]
+A linha de defesa do Exército francês está bastante esticada por falta de efetivos. Restaram-nos poucos tanques, e a Luftwaffe alemã arrasou nosso poder aéreo. O que resta do poder aéreo aliado está empenhado em dar cobertura às áreas de evacuação. Apesar dessa situação terrível, é necessário repelir todos os ataques alemães para que as evacuações possam continuar.
+[Submission_1.Success]
+Os ataques foram repelidos. A evacuação terminou com sucesso.
+[Submission_1.Failed]
+Você perdeu! Unidades alemãs romperam e estão dizimando as tropas restantes que tentam evacuar.
+[StringTable.reserv]
+Os reforços chegaram!

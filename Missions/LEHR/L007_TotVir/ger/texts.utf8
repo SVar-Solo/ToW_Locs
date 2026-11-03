@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Zerstören Sie die feindlichen Verteidigungslinien und nehmen Sie das Dorf ein.
+[Mission.Description]
+Der Feind hat das Dorf in ein Widerstandsnest verwandelt. Es befindet sich ein Hügel zwischen Ihnen und der gegnerischen Armee; der Hügel blockiert die Sichtlinie und erlaubt so keine Angriffe aus der Distanz. Die gegnerischen Verteidiger verfügen über Panzerabwehrkanonen und Sturmgeschütze. Ihre Aufgabe ist es, den Feind anzugreifen und das Dorf einzunehmen.
+
+Ihre Befehle lauten:
+- Zerstören Sie die feindlichen Verteidigungslinien.
+- Nehmen Sie die Siedlung ein.
+[Mission.Success]
+Gute Arbeit!
+[Mission.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!
+[Submission_1.Objectives]
+Nehmen Sie die Stellung ein.
+[Submission_1.Description]
+Ein Dorf befindet sich nördlich der Stellung Ihrer Armee, und ist ein Teil der feindlichen Verteidigungslinie. Die gegnerischen Verteidigungslinien können aus einer Entfernung von 500 Metern beschossen werden. 
+
+Ihre Befehle lauten:
+- zerschlagen Sie die feindliche Verteidigung und nehmen Sie sie mit Ihren Truppen ein.
+[Submission_1.Success]
+Gute Arbeit! Ihre Armee war siegreich.
+[Submission_1.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.

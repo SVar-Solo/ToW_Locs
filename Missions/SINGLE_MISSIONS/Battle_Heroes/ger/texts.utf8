@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+Schlagen Sie alle deutschen Angriffe zurück und gehen dann zum Gegenangriff über.
+[Mission.Description]
+Deutsche Truppen sind in Sichtweite des Kremls. Moskau darf nicht an die Faschisten fallen!
+
+Ihre Befehle:
+	- Stoppen Sie den feindlichen Angriff und ihren Vormarsch auf Moskau
+	- Starten Sie einen Gegenangriff
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Sie haben Ihre Mission nicht erfüllt.
+[Submission_1.Objectives]
+Stoppen Sie den feindlichen Angriff
+[Submission_1.Description]
+Halten Sie den Feind auf
+[Submission_1.Success]
+Mission erfüllt. 
+[Submission_2.Failed]
+Misson gescheitert.
+[Submission_2.Success]
+Mission erfüllt.
+[Submission_2.Description]
+Sie haben ausgehalten. Der Feind flieht. Angesichts der aktuellen Situation werden Ihnen Panzer aus unserer Reserve unterstellt, um Sie zu unterstützen. Sie müssen dem Feind nachsetzen!
+
+Ihre Befehle:
+	- Starten Sie einen Gegenangriff gegn die feindlichen Truppen
+[Submission_2.Objectives]
+Schlagen Sie gegen den Feind zurück
+[StringTable.Reserv_inf]
+Infanterie aus der Reserve wurde unter Ihre Befehlsgewalt unterstellt
+[StringTable.Reserv_Tanks]
+Panzer aus der Reserve wurden unter Ihre Befehlsgewalt gestellt
+[Submission_1.Failed]
+Misson gescheitert.

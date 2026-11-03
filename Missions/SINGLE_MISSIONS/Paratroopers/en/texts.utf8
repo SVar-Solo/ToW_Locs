@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+Attack, capture and hold the bridge.
+[Submission_1.Description]
+Time is of the essence commander. You must attack, capture and hold the bridges. The Germans will not let these critical assets fall without a tough fight.
+
+Your orders:
+-	Attack and capture all the bridges marked on your map
+-	Defend against the Germans counter-attacks to regain the bridges
+[Submission_1.Failed]
+Mission failed. You were unable to capture the assigned bridges.
+[Submission_1.Success]
+You have captured the assigned bridges!
+[Mission.Objectives]
+Maintain your control over the bridges and begin to expand your presence into the town and drive out the enemy defenders.
+[Mission.Description]
+Quickly capturing bridges in the enemy rear is a task perfectly suited to light and fast Airborne troops which can drop in nearly undetected. Holding those bridges against concentrated enemy efforts, especially heavy armored units, is something that even the most elite units will have difficulty in achieving although it was often required.
+[Mission.Success]
+Victory! You have held on to the bridges and defended against enemy actions to recapture them.
+[Mission.Failed]
+Defeat. While your men fought bravely, they were unable to achieve their tasks.
+[Submission_2.Objectives]
+Attack into the village to our North.
+[Submission_2.Description]
+Local resistance fighters have told us that to the North of the bridges, is a small enemy occupied village that houses a German headquarters post and staff. We must not let this opportunity to disrupt their command and control slip by.
+
+Your orders:
+-	Attack the village
+-	Capture or kill the enemy HQ staff
+[Submission_2.Success]
+Great job, the town has fallen!
+[Submission_2.Failed]
+You were unable to capture the town and the enemy HQ staff has escaped.
+[StringTable.tank_reserv]
+Several tanks have broken through the enemy lines and are now under your command.
+[StringTable.inf_reserv]
+An additionally detachment of paratroopers has arrived to assist you.

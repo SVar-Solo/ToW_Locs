@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+전투단은 체르카스코예 남쪽 외곽을 점령하고 목표 지점에 집결한다.
+[Mission.Description]
+정찰로 적의 배치, 화력, 대전차호 통과 지점을 파악한다. 최대한 신속하게 대전차호를 건너 제1방어선을 격파하라. 소련군 방어 진지를 측면에서 무력화한 뒤 시가지에 거점을 구축하라.
+[Mission.Success]
+체르카스코예 남부를 점령했다. 적 병력은 북쪽으로 물러났다.
+[Mission.Failed]
+명령을 수행하지 못했다. 적이 너무 강하다!
+[Submission_1.Objectives]
+적 제1참호선까지 진출하여 보병으로 진지를 점령하라.
+[Submission_1.Success]
+장애물 지대를 통과했다. 제1참호를 공격 중이다.
+[Submission_1.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다!
+[Submission_2.Objectives]
+체르카스코예 남쪽 외곽의 적을 공격하라. 마을을 점령하고 사수하라.
+[Submission_2.Success]
+체르카스코예 남부를 점령했다.
+[Submission_2.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다!
+[Submission_3.Objectives]
+적 전차의 반격을 격퇴하라. 적이 시가지를 장악하지 못하도록 막아라.
+[Submission_3.Success]
+적의 반격을 성공적으로 저지했다.
+[Submission_3.Failed]
+아군은 적의 압박에 밀려 후퇴한다.
+[StringTable.Ifantry_support]
+보병 부대가 지휘관의 통제하에 들어왔다.
+[StringTable.Inf_1]
+보병
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

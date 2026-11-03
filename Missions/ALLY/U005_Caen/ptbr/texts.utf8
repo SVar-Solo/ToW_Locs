@@ -1,0 +1,46 @@
+﻿[Main_mission.Objectives]
+Elimine as unidades inimigas em fuga.
+[Main_mission.Description]
+Segundo nossos relatórios de inteligência, a defesa em Caen foi esmagada e o inimigo foge em desordem. Nossas tropas, porém, demoraram a fechar a armadilha, e tememos que algumas unidades inimigas escapem. Sua tarefa é impedir que essas tropas alemãs saiam.
+
+Suas ordens:
+-	Consolide suas forças perto da pequena aldeia e mantenha o entroncamento de estradas próximo a todo custo. Não deixe a área em hipótese alguma, pois o inimigo pode aparecer a qualquer momento.
+[Main_Mission.Success]
+O inimigo foi derrotado! Agora esta área está segura!
+[Main_Mission.Failed]
+Você perdeu. O inimigo escapou de suas mãos. 
+[Submission_1.Objectives]
+Destrua os tanques inimigos.
+[Submission_1.Description]
+Os remanescentes de várias unidades alemãs tentam romper o cerco. Embora enfraquecido, o inimigo ainda constitui uma força séria. Unidades blindadas alemãs também foram detectadas.
+
+Suas ordens:
+-	Impeça o inimigo de romper o cerco. Destrua todos os tanques inimigos que encontrar.
+[Submission_1.Success]
+Parabéns! Você deteve as forças inimigas!
+[Submission_1.Failed]
+Você perdeu e as unidades inimigas escaparam de nossa armadilha.
+[Submission_2.Objectives]
+Detenha as tropas inimigas!
+[Submission_2.Description]
+O inimigo tem mais tropas nesta área do que o esperado. Ele tenta mais uma ruptura. 
+
+Suas ordens:
+-	Elimine as tropas inimigas.
+[Submission_2.Success]
+Você conseguiu! As tropas inimigas foram destruídas!
+[Submission_2.Failed]
+Você fracassou na tarefa! 
+[Submission_3.Objectives]
+Ocupe a fazenda. Elimine o inimigo, se for localizado.
+[Submission_3.Description]
+Os alemães não conseguiram romper, mas o inimigo ainda não foi eliminado. O Quartel-General considera que a melhor medida agora é lançar uma ofensiva imediata para eliminar as posições inimigas restantes.
+
+Suas ordens:
+-	Lance uma ofensiva. Ataque a fazenda e elimine o inimigo.
+[Submission_3.Success]
+O inimigo foi eliminado! A fazenda está sob nosso controle!
+[Submission_3.Failed]
+Você fracassou em capturar a fazenda.
+[StringTable.Reserv]
+Os reforços chegaram.

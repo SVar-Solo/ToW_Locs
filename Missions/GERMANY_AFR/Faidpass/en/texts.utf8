@@ -1,0 +1,42 @@
+﻿[Mission.Objectives]
+Break into the town
+[Mission.Description]
+Greetings, Major, I have great expectations of your group. You will be the main axis of advance and the first to tear into the town to gain victory. Air intelligence data indicates a concentration of anti-tank guns to the north. But you will have to advance quickly, so the enemy has no time to pull in reinforcements. May God and the German Reich be with you!
+[Mission.Success]
+Primary mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Objectives]
+Capture the town
+[Submission_1.Description]
+Capture Sidi Bou Zid.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Destroy enemy tanks
+[Submission_2.Description]
+Destroy enemy tanks.
+[Submission_2.Success]
+Enemy tanks have been destroyed.
+[Submission_2.Failed]
+Mission failed.
+[StringTable.]
+Major, sir, U.S. tanks have been sighted.
+[StringTable.Us_Tanks_isVis]
+Major, sir, U.S. tanks have been sighted.
+[Submission_3.Objectives]
+Repel a counter-attack
+[Submission_3.Description]
+Sidi Bou Zid is ours. But our pilots report enemy actively preparing for a counter-attack east of the town. Enemy strength includes tanks and infantry. We must take every measure and repel the counter-attack on the town. 
+[Submission_3.Success]
+Enemy counter-attack has been repelled.
+[Submission_3.Failed]
+We have lost Sidi Bou Zid.
+[StringTable.INF]
+Major, the Tigers coming to help you have been destroyed. Take command of the escorting infantry.
+[StringTable.Infantry]
+Major, the Tigers coming to help you have been destroyed. Take command of the escorting infantry.
+[StringTable.Infantry_change]
+Major, take command of the escorting infantry.

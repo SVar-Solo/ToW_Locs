@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+마을을 점령하고 방어하라
+[Submission_1.Description]
+거주지를 점령하고 방어 태세를 갖추어라.
+[Submission_01.Success]
+임무 완수.
+[Submission_01.Failed]
+임무 실패.
+[Mission.Objectives]
+적을 섬멸하라
+[Mission.Description]
+진격해 오는 적 부대에 맞서 현 위치를 지키고, 적의 공격을 격퇴하고 반격해야 한다. 적 병력이 재편성하지 못하도록 격파되었으나 완전히 섬멸되지 않은 적 부대를 전장에서 소탕하라.
+[NewSubmission.Success]
+임무 완수.
+[NewSubmission.Failed]
+임무 실패.
+[Submission_2.Objectives]
+지역을 소탕하라
+[Submission_2.Description]
+공격해 온 적 부대를 섬멸하거나 흩어 버리고, 그 잔여 병력을 전장에서 소탕하라.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+임무 실패.

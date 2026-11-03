@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+적이 노보셀로프카에서 돌파하지 못하게 막아라.
+[Mission.Description]
+노보셀로프카 남쪽 500m의 진지, 마을 자체의 대전차 거점, 마을 북서쪽 경계의 제2선을 방어하라. 마을 중앙부를 사수하는 데 역량을 집중하라. 적이 노보셀로프카 북쪽으로 침투하지 못하게 막아라.
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+적 병력이 노보셀로프카를 점령하고 북쪽으로 진격하고 있다.
+[Submission_1.Objectives]
+증원이 도착할 때까지 진지를 사수하라.
+[Submission_1.Success]
+임무 완료, 적의 진격을 저지했다.
+[Submission_1.Failed]
+적이 진격을 밀어붙이고 있다. 적이 북쪽으로 돌파할 위험이 있다.
+[Submission_2.Objectives]
+마을 북서부로 진격하는 적을 격파하라.
+[Submission_2.Success]
+적의 돌파를 격파했다.
+[Submission_2.Failed]
+반격이 저지되었다. 적이 진격을 밀어붙이고 있다.
+[StringTable.Support]
+전차 및 보병 집단이 지휘관의 지휘하에 들어왔다.
+[StringTable.Infantry]
+제959보병연대의 보병
+[StringTable.Tanks]
+제3기계화군단의 전차
+[StringTable.Call_SPG]
+자주포가 지휘관의 통제하에 들어왔다.
+
+[StringTable.SPG]
+자주포
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

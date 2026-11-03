@@ -1,0 +1,282 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Zdobądź miejscowość w dolinie.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Zdobądź miejscowość w dolinie.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Miejscowość zdobyta.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Miejscowość zdobyta.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Twój oddział bojowy przedarł się do głównego korytarza transportowego wroga, ale większość sił przeciwnika broni miejscowości. Zniszcz umocnienia wroga i zdobądź pozycję.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Twój oddział bojowy przedarł się do głównego korytarza transportowego wroga. Większość sił przeciwnika broni jednak miejscowości i może także przeprowadzać kontrataki. Zdobądź pozycję wroga.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Zadaj miażdżący cios atakującym wrogom. Nie pozwól wrogowi zdobyć miejscowości.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Według rozpoznania wysunięty oddział wroga zmierza w stronę miejscowości, w której stacjonują Twoje wojska. Zwiąż walką i wyeliminuj przeciwnika. Jeśli któremuś uda się przedrzeć, wyeliminuj go wraz z pozostałymi obrońcami.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Odpieraj wszystkie kontrataki wroga na miejscowość.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Utrzymaj linię przez wyznaczony czas, do odwołania.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Wróg zdobył miejscowość.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Wróg zdobył miejscowość.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Miejscowość w dolinie jest strategicznym punktem obrony w tym rejonie i leży na głównym korytarzu transportowym. Jeśli stracimy tę pozycję, nasza łączność w rejonie zostanie przerwana. Nie możesz pozwolić wrogowi zdobyć tej pozycji. Musisz utrzymać linię przez wyznaczony czas i nie dopuścić do zdobycia pozycji przez przeciwnika.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Miejscowość w dolinie jest strategicznym punktem obrony w tym rejonie i leży na głównym korytarzu transportowym. Jeśli stracimy tę pozycję, nasza łączność w rejonie zostanie przerwana. Nie możesz pozwolić wrogowi zdobyć tej pozycji.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Rezerwowy oddział pancerny jest na Twoje rozkazy.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Rezerwowy oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_support]
+Oddział piechoty zmechanizowanej jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Rezerwowy oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_support]
+Oddział piechoty zmechanizowanej jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Rezerwowy oddział piechoty jest dostępny.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Rezerwowy oddział pancerny jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Rezerwowy oddział piechoty jest dostępny.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Rezerwowy oddział pancerny jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne i oczekuje rozkazów.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne i oczekuje rozkazów.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Zdobądź miejscowość w dolinie.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Zdobądź miejscowość w dolinie.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Miejscowość zdobyta.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Miejscowość zdobyta.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Twój oddział bojowy przedarł się do głównego korytarza transportowego wroga, ale większość sił przeciwnika broni miejscowości. Zniszcz umocnienia wroga i zdobądź pozycję.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Twój oddział bojowy przedarł się do głównego korytarza transportowego wroga. Większość sił przeciwnika broni jednak miejscowości i może także przeprowadzać kontrataki. Zdobądź pozycję wroga.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Zadaj miażdżący cios atakującym wrogom. Nie pozwól wrogowi zdobyć miejscowości.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Według rozpoznania wysunięty oddział wroga zmierza w stronę miejscowości, w której stacjonują Twoje wojska. Zwiąż walką i wyeliminuj przeciwnika. Jeśli któremuś uda się przedrzeć, wyeliminuj go wraz z pozostałymi obrońcami.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Odpieraj wszystkie kontrataki wroga na miejscowość.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Utrzymaj linię przez wyznaczony czas, do odwołania.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Wróg zdobył miejscowość.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Wróg zdobył miejscowość.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Miejscowość w dolinie jest strategicznym punktem obrony w tym rejonie i leży na głównym korytarzu transportowym. Jeśli stracimy tę pozycję, nasza łączność w rejonie zostanie przerwana. Nie możesz pozwolić wrogowi zdobyć tej pozycji. Musisz utrzymać linię przez wyznaczony czas i nie dopuścić do zdobycia pozycji przez przeciwnika.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Miejscowość w dolinie jest strategicznym punktem obrony w tym rejonie i leży na głównym korytarzu transportowym. Jeśli stracimy tę pozycję, nasza łączność w rejonie zostanie przerwana. Nie możesz pozwolić wrogowi zdobyć tej pozycji.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_inf_support]
+Rezerwowy oddział pancerny jest na Twoje rozkazy.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Infantry_support]
+Rezerwowy oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Mechs_support]
+Oddział piechoty zmechanizowanej jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Infantry_support]
+Rezerwowy oddział piechoty jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Mechs_support]
+Oddział piechoty zmechanizowanej jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Rezerwowy oddział piechoty jest dostępny.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_support]
+Rezerwowy oddział pancerny jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Rezerwowy oddział piechoty jest dostępny.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_support]
+Rezerwowy oddział pancerny jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne i oczekuje rozkazów.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne i oczekuje rozkazów.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[Reinforcement.Group_tanks_inf]
+Rezerwowy oddział piechoty i pojazdów pancernych
+
+[Reinforcement.Group_inf]
+Piechota
+
+[Reinforcement.Group_tanks_spg_arm]
+Piechota zmechanizowana w rezerwie
+
+[Reinforcement.Group_tanks]
+Czołgi
+
+[Reinforcement.Group1[Reinforcement]]
+Czołgi i piechota w rezerwie
+
+[Reinforcement.Group2[Reinforcement]]
+Działa samobieżne i piechota w rezerwie
+

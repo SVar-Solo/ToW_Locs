@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Les Américains arrivent depuis la direction du point 2, attaquez-les avant qu’ils ne nous atteignent ! Je vous le rappelle encore une fois : faites du terrain votre puissant allié ! Bonne chance !
+[Mission.Success]
+L’évacuation s’est terminée avec succès !
+[Mission.Failed]
+Tous les « Tigre » ont été mis hors de combat ou détruits, l’ennemi a percé jusqu’au village avant la fin de l’évacuation. La mission a échoué !
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+La première attaque ennemie a été brisée, mais ils engagent leurs réserves depuis le point 3. Tenez bon !
+[StringTable.IntroSubtitle1]
+Le major Gerhard, dans son « Kübelwagen », aux commandants des « Tigre » :
+[StringTable.IntroSubtitle2]
+L’ennemi est très fort, mais...
+[StringTable.IntroSubtitle3]
+je vous rappelle encore une fois que...
+[StringTable.IntroSubtitle4]
+Le Tigre est presque invulnérable aux tirs à longue distance.
+[StringTable.IntroSubtitle5]
+Le terrain nous permet de tirer de loin,...
+[StringTable.IntroSubtitle6]
+cela doit devenir notre atout maître.
+[StringTable.InfoSubtitle7]
+Bonne chance, Herr Offiziere ! En avant ! Gott mit uns !
+[StringTable.InfoSubtitle8]
+Commandants de « Tigre » : Zu Befehl !
+[StringTable.IntroSubtitle7]
+[StringTable.SubtitleWin1]
+Major Gerhard : Ils y sont arrivés ! Mais je n’en attendais pas moins.
+[StringTable.SubtitleWin2]
+Herren Offiziere, je vous félicite pour cette victoire !
+[StringTable.SubtitleWin3]
+Mais je ne peux pas vous laisser savourer votre repos bien mérité.
+[StringTable.SubtitleWin4]
+Pendant que notre attention était attirée...
+[StringTable.SubtitleWin5]
+par les Américains, les Britanniques nous ont débordés.
+[StringTable.SubtitleWin6]
+Vous devez les contre-attaquer immédiatement.
+[StringTable.SubtitleWin7]
+Le sort du Reich est de nouveau entre nos mains !
+[StringTable.SubtitleWin8]
+Équipages de « Tigre » : Zu Befehl !
+[StringTable.SubtitleFail1]
+Radios des chars alliés : Pas de quartier ! Butez-les tous !
+[StringTable.SubtitleFail2]
+Vous avez massacré mon pote Jimmy ! Crève, foutu salaud !
+[StringTable.SubtitleFail3]
+Pas de pitié pour ces salauds ! Écrasez-les !
+[StringTable.SubtitleFail4]
+Regardez-les cramer !

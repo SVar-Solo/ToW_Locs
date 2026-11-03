@@ -1,0 +1,107 @@
+﻿hkey.lowspeed	Vitesse de l'infanterie
+hkey.mining	Miner
+hkey.mineclearing	Déminer
+hkey.attack	Attaquer
+hkey.defend	Défendre \ Pivoter
+hkey.groundattack	Tir de zone
+hkey.move	Se déplacer
+hkey.nextunit	Unité suivante
+hkey.pause	Pause
+hkey.prevunit	Unité précédente
+hkey.retreat	Marche arrière \ Retraite
+hkey.stop	Annuler l'ordre
+hkey.storm	Assaut \ Déplacement
+hkey.ambush	Embuscade
+hkey.sneak	Furtivité
+hkey.smokecloudfast	Écran de fumée (tir immédiat)
+hkey.smokecloud	Écran de fumée
+hkey.attachdetach	Atteler \ Dételer
+hkey.evacuate	Débarquer
+hkey.autopickup	Ramassage auto
+hkey.addtogroup0	Ajouter au groupe 10
+hkey.addtogroup1	Ajouter au groupe 1
+hkey.addtogroup2	Ajouter au groupe 2
+hkey.addtogroup3	Ajouter au groupe 3
+hkey.addtogroup4	Ajouter au groupe 4
+hkey.addtogroup5	Ajouter au groupe 5
+hkey.addtogroup6	Ajouter au groupe 6
+hkey.addtogroup7	Ajouter au groupe 7
+hkey.addtogroup8	Ajouter au groupe 8
+hkey.addtogroup9	Ajouter au groupe 9
+hkey.group0	Sélect. groupe 10
+hkey.group1	Sélect. groupe 1
+hkey.group2	Sélect. groupe 2
+hkey.group3	Sélect. groupe 3
+hkey.group4	Sélect. groupe 4
+hkey.group5	Sélect. groupe 5
+hkey.group6	Sélect. groupe 6
+hkey.group7	Sélect. groupe 7
+hkey.group8	Sélect. groupe 8
+hkey.group9	Sélect. groupe 9
+hkey.remembergroup0	Créer groupe 10
+hkey.remembergroup1	Créer groupe 1
+hkey.remembergroup2	Créer groupe 2
+hkey.remembergroup3	Créer groupe 3
+hkey.remembergroup4	Créer groupe 4
+hkey.remembergroup5	Créer groupe 5
+hkey.remembergroup6	Créer groupe 6
+hkey.remembergroup7	Créer groupe 7
+hkey.remembergroup8	Créer groupe 8
+hkey.remembergroup9	Créer groupe 9
+hkey.inventory	Inventaire
+hkey.vehicleCharacteristics	Caractéristiques du véhicule
+hkey.exit	Quitter
+hkey.load	Chargement rapide
+hkey.save	Sauvegarde rapide
+hkey.unitinfoicon	Afficher/masquer les icônes
+hkey.messagelog	Journal des messages
+hkey.view_sectors	Afficher/masquer les secteurs d'attaque
+hkey.viewtargetarrow	Afficher/masquer les icônes de cible
+hkey.grab_screen	Capture d'écran
+hkey.multiplayerchattalk	Message aux alliés
+hkey.multiplayerchatyell	Message à tous
+hkey.cameratopdownview	Carte tactique
+hkey.hide_panels	Afficher / masquer l'interface
+hkey.nextmusictrack	Piste musicale suivante
+hkey.camerafreelock	Vue libre
+hkey.binocularview	Vue aux jumelles
+hkey.cameramoveforward	Caméra : avancer
+hkey.cameramovebackward	Caméra : reculer
+hkey.cameramoveleft	Caméra : gauche
+hkey.cameramoveright	Caméra : droite
+hkey.cameramoveup	Caméra : monter
+hkey.cameramovedown	Caméra : descendre
+hkey.camerarotateup	Caméra : pivoter vers le haut
+hkey.camerarotatedown	Caméra : pivoter vers le bas
+hkey.camerarotateleft	Caméra : pivoter à gauche
+hkey.camerarotateright	Caméra : pivoter à droite
+hkey.cameramovetomsg	Caméra vers la source du signal
+hkey.camerasetdefault	Réinitialiser la caméra
+hkey.bindcamera	Vue à la première personne
+hkey.linkcamera	Lier la caméra à l'unité
+hkey.time2xspeed	Régler la vitesse du jeu
+hkey.actionmode	Mode d'action
+hkey.setbodymodelay	Ramper
+hkey.setbodymodeknee	Courir en courbé
+hkey.setbodymodestay	Pas de course
+hkey.firemode	Mode de tir
+hkey.attackup	Viser le haut
+hkey.attackmedium	Viser le centre
+hkey.attackdown	Viser la base
+hkey.attackbarrage	Tir de barrage défensif
+hkey.formation	Formation
+hkey.SwitchDamageMessagesMode	Changer le mode d'infos de dégâts
+hkey.MultiplayerExchangePoints	Transférer des points
+hkey.selectweaponandammoreset	Annuler la sélection d'arme
+hkey.selectweaponandammo1	Sélect. arme principale
+hkey.selectweaponandammo2	Sélect. grenades à fragmentation
+hkey.selectweaponandammo3	Sélect. grenades antichar
+hkey.selectweaponandammo4	Sélect. canon principal
+hkey.selectweaponandammo5	Sélect. munitions AP
+hkey.selectweaponandammo6	Sélect. munitions HE
+hkey.selectweaponandammo7	Sélect. mitrailleuse
+hkey.selectweaponandammo8	Sélect. arme 8
+hkey.selectweaponandammo9	Sélect. arme 9
+hkey.repair	Réparer
+hkey.cameratypeswitch	Changer de mode caméra (libre/centré)
+hkey.guiactivate	Échap

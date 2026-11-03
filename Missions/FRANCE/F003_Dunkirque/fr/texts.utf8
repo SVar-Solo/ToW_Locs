@@ -1,0 +1,18 @@
+﻿[Mission.Objectives]
+La mission principale est d’empêcher les Allemands de percer vers la zone d’évacuation.
+[Mission.Description]
+Après plusieurs jours de combat, l’armée française a subi de lourdes pertes, encore aggravées par les bombardements constants de la Luftwaffe. Mais malgré les pertes, nos troupes continuent de tenir bon afin de permettre aux autres forces alliées d’embarquer et se replier au-delà de la Manche. Aujourd’hui, l’objectif est de contenir les troupes allemandes et les empêcher de percer vers les zones d’évacuation le long de la côte.
+[Mission.Success]
+Mission accomplie avec succès.
+[Mission.Failed]
+La mission a échoué!
+[Submission_1.Objectives]
+Repousser les attaques des troupes allemandes.
+[Submission_1.Description]
+La ligne de défense de l’armée française est affaiblie par manque d’effectif. Il nous reste peu de chars et la Luftwaffe a détruit nos moyens aériens. Les forces aériennes alliées restantes protègent les zones d’évacuation. Malgré cette situation difficile, il faut absolument repousser les assauts allemands pour permettre à l’évacuation de se poursuivre.
+Submission_1.Success]
+Les attaques ont été repoussées. L’évacuation a pu être menée à bien.
+[Submission_1.Failed]
+Vos avez perdu! Des unités allemandes ont percé et sont en train de décimer les troupes qui s’apprêtaient à évacuer.
+[StringTable.reserv]
+Des renforts sont arrivés!

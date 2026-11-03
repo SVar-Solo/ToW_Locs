@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Liberte a cidade de Houffalize e expulse o inimigo das alturas.
+[Mission.Description]
+O céu limpo finalmente chegou após semanas de neve e mau tempo, e agora a Força Aérea do Exército pode enfim prestar apoio aéreo aproximado sobre as Ardenas. Os tanques de Patton romperam até a cidade de Bastogne e socorreram as tropas que haviam resistido obstinadamente. Agora que Bastogne está segura, é hora de empurrar os alemães de volta e encerrar a Batalha das Ardenas.
+
+Suas ordens são:
+-	Ataque o inimigo em Houffalize e expulse-o.
+-	Continue seu avanço em direção às alturas e esmague as defesas inimigas.
+[Mission.Success]
+Você venceu e expulsou os alemães.
+[Mission.Failed]
+Você perdeu a batalha e deu ao inimigo uma vitória importante!
+[Submission_1.Objectives]
+Capture a cidade de Houffalize.
+[Submission_1.Description]
+Após os ataques-surpresa dos alemães no início da Batalha das Ardenas, as forças americanas entrincheiraram-se na cidade de Bastogne e ao seu redor, que era, por si só, um entroncamento fundamental ligando 7 estradas diferentes. Elementos da 101ª Divisão Aerotransportada e da 10ª Divisão Blindada resistiram obstinadamente a ataque após ataque, em condições de enorme desvantagem e sob um clima incrivelmente severo. Quando o céu finalmente clareou, elementos avançados das forças de socorro de Patton chegaram à cidade e foram lançados contra-ataques para limpar os arredores de unidades alemãs.  
+
+Suas ordens:
+-	Liberte a cidade de Houffalize.
+[Submission_1.Success]
+A cidade é nossa!
+[Submission_1.Failed]
+Você perdeu. Não conseguiu capturar a cidade.
+[Submission_2.Objectives]
+Aproveite suas vitórias até agora e capture as alturas a leste de Houffalize.
+[Submission_2.Description]
+A leste da cidade ficam várias colinas e cristas de importância estratégica. Há quatro dias, os alemães capturaram essas colinas junto com a cidade de Houffalize e agora usam nossas fortificações para fins defensivos. 
+
+Suas ordens:
+-	Destrua as defesas inimigas nas alturas.
+[Submission_2.Success]
+As colinas estão novamente em nossas mãos!
+[Submission_2.Failed]
+Você perdeu. Não conseguiu garantir as importantes colinas ao redor de Houffalize.
+[StringTable.reserv]
+Reforços chegaram para apoiá-lo.

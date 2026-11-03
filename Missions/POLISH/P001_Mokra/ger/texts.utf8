@@ -1,0 +1,40 @@
+﻿[Mission1.Objectives]
+Halten und verteidigen Sie die markierten Bereiche.
+[Mission1.Description]
+1. September 1939. Deutsche Truppen rücken an drei Fronten vor. Armeegruppe Nord führt einen Angriff aus dem Nordwesten, aus Ostpreussen, aus. Aus dem Südosten Deutschlands und dem Norden der Slowakei greift die Armeegruppe Süd an, unterstützt durch die Slowakischen 1. und 2. Divisionen.
+Die Befehle des polnischen Oberkommandos lauten, dass Sie eine Verteidigung um den Fluss Mokra errichten und den deutschen Vormarsch stoppen sollen.
+
+Ihre Befehle lauten:
+-	 Halten und verteidigen Sie die markierten Bereiche.
+-	 Verhindern Sie, dass die feindlichen Truppen durch Ihre Verteidigungslinien brechen können.
+[Mission1.Success]
+Gute Arbeit! Die Deutschen haben es nicht geschafft, unsere Verteidigungsstellung in diesem Frontabschnitt zu durchbrechen!
+[Mission1.Failed]
+Sie haben Ihre Mission nicht erfüllt! Deutsche Truppen sind durch die Verteidigungslinien gebrochen und marschieren in Richtung Warschau. Polen ist verloren!
+[Submission1.Objectives]
+Schlagen Sie den ersten Angriff der deutschen Truppen zurück.
+[Submission1.Description]
+Der Feind versucht einen starken Schlag gegen unsere Verteidigungslinien bei dem Fluss Mokra auszuführen. Sie wollen unsere Verteidigungsstellungen komplett zerstören und weiter Inland vorrücken. 
+Das polnische Oberkommando ist besorgt über die Situation an der Front. Wir müssen die Situation in Griff bekommen! 
+
+Ihre Befehle lauten: 
+-	 Schlagen Sie den deutschen Angriff zurück.
+[Submission1.Success]
+Befehl ausgeführt! Der deutsche Angriff in diesem Abschnitt wurde zurückgeschlagen!
+[Submission1.Failed]
+Sie sind gescheitert! Die deutschen Truppen sind durch unsere Verteidigungslinien in diesem Abschnitt gebrochen!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.
+[Submission2.Objectives]
+Führen Sie einen Gegenangriff gegen die feindlichen Einheiten aus.
+[Submission2.Description]
+Der Feind versucht uns in die Flanke zu fallen! Sie sollten den Feind sofort angreifen um einer Einkesselung unserer Truppen zuvorzukommen, bevor unsere Einheiten ernste Verluste erleiden müssen.
+
+Ihre Befehle lauten:
+-	 Greifen Sie die feindlichen Einheiten an, die auf unserer Flanke vorrücken.
+[Submission2.Success]
+Befehl ausgeführt! Die feindlichen Panzereinheiten haben eine Niederlage erlitten.
+[Submission2.Failed]
+Sie sind gescheitert! Die feindlichen Einheiten sind durch unsere Stellungen gebrochen!
+[StringTable.Subtitle_01]
+Polen. September 1939

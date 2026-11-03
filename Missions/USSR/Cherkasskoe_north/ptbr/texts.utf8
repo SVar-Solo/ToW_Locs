@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Impedir que o inimigo rompa a linha de frente.
+[Mission.Description]
+O inimigo tenta romper a defesa da divisão. A ordem é manter Cherkasskoe. Deve-se dar especial prioridade a manter a primeira trincheira e o ponto forte antitanque. Contra-ataque os grupos inimigos que avançam.
+[Submission1.Objectives]
+Destrua os tanques inimigos.
+[Submission2.Objectives]
+Impeça o inimigo de flanquear nossas posições.
+[Submission3.Objectives]
+O inimigo penetrou na linha de frente com tanques e infantaria e agora avança mais.
+[Submission4.Objectives]
+Uma unidade inimiga do porte de uma companhia, com apoio de tanques pesados e canhões de assalto, iniciou o assalto à aldeia. Repila o ataque inimigo.
+[Mission.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Mission.Failed]
+Nossas forças recuam sob o assalto de um inimigo superior.
+[Submission1.Success]
+Missão cumprida, os tanques inimigos foram destruídos.
+[Submission1.Failed]
+Missão fracassada, os tanques inimigos avançam mais.
+[Submission2.Success]
+Missão cumprida, a manobra de flanqueamento foi impedida.
+[Submission2.Failed]
+Os tanques inimigos flanquearam nossas posições.
+[Submission_2_1.Success]
+Missão cumprida, o grupo de envolvimento foi destruído.
+[Submission_2_1.Failed]
+Contra-ataque derrotado, o inimigo mantém o avanço.
+[Submission_2_2.Success]
+Os tanques inimigos que penetraram foram destruídos, o equilíbrio foi restabelecido.
+[Submission_2_2.Failed]
+O contra-ataque fracassou. Os tanques inimigos romperam até a retaguarda da divisão!
+[Submission3.Success]
+Missão cumprida.
+[Submission3.Failed]
+O inimigo rompeu e avança em direção ao posto de comando da divisão!
+[Submission4.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Submission4.Failed]
+Nossas forças recuam sob os golpes de um inimigo superior.
+[StringTable.Tanks!]
+Tanques! Preparem-se para repelir o ataque de tanques.
+[StringTable.Stukas]
+Ataque aéreo! Abriguem-se!
+[StringTable.SM2]
+Cuidamos bem desses tanques, e os aviadores nos deram uma mão.
+[StringTable.SM2_1]
+Agora é muito provável que os alemães passem por nossas posições. Cuidado com os flancos!
+
+[StringTable.SPGs_Tanks]
+Tanques e canhões autopropulsados do 245º RIT e do 1440º RAA
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

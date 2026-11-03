@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Richten Sie einen Brückenkopf auf dem westlichen Ufer der Pena ein.
+[Mission.Description]
+Panzer und Artillerie mit geringer Infanterieunterstützung halten die Linie auf dem westlichen Ufer des Flusses. Am östlichen Ufer befinden sich isolierte Gefechtsvorposten. Der Gefechtsverband wird die feindlichen Einheiten am östlichen Ufer vernichten und dann den westlichen Teil von Werchopenje angreifen und den Flussübergang einnehmen.
+[Submission1.Objectives]
+Nehmen Sie die Brücke über den Fluss Pena ein, rücken Sie weiter zum westlichen Ufer vor und halten Sie den Übergang.
+[Submission1.Success]
+Mission abgeschlossen. 
+[Submission1.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt. 
+[Submission2.Objectives]
+Halten Sie die Übergangsstelle, bis die Hauptkräfte nachrücken.
+[Submission2.Success]
+Mission abgeschlossen.
+[Submission2.Failed]
+Unsere Truppen wurden von den überlegenen feindlichen Truppen zurückgedrängt.
+[Mission.Success]
+Mission abgeschlossen. Es ist jetzt möglich, die Hauptkräfte der Division über den Fluss zu bewegen.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark!
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

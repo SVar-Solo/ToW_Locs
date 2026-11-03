@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Repila as tropas fascistas que atacam pelo Leste.
+[Mission1.Description]
+As tropas alemãs lançaram um avanço nesta parte da linha de frente na direção de Vyazma. Seu objetivo é romper nossas defesas e se aproximar de Moscou. É de vital importância repelir este ataque inimigo para ganhar tempo para concentrar as reservas.
+
+Suas ordens:
+- 	Repila o ataque inimigo vindo do Leste.
+[Mission1.Success]
+O ataque inimigo foi repelido! Você nos ajudou a assegurar mais um ganho: milhares de novos ouriços serão instalados, dezenas de aviões e tanques serão construídos e centenas de novos recrutas serão treinados. Os fascistas não tomarão Moscou!
+[Mission1.Failed]
+O inimigo rompeu nossas defesas e avança em direção a Moscou. Dezenas de soldados sob o seu comando foram perdidos em vão. Você provou ser indigno de sua patente.
+[Mission2.Objectives]
+Repila o ataque alemão vindo do Norte.
+[Mission2.Description]
+Consideráveis forças inimigas estão chegando do Norte. As defesas foram enfraquecidas pelo ataque inimigo vindo do Leste. Concentre todas as forças disponíveis e resista ao avanço dos agressores fascistas até a chegada das reservas. O inimigo não deve romper! Moscou não deve cair!
+
+Suas ordens:
+-	 Contenha o ataque alemão vindo do Norte.
+[Mission2.Success]
+Com esforço valoroso, você conseguiu repelir o ataque inimigo!
+[Mission2.Failed]
+O adversário rompeu nossas defesas!
+[Mission3.Objectives]
+Use todas as forças disponíveis para conduzir um contra-ataque.
+[Mission3.Description]
+As tropas alemãs não conseguiram romper nossas defesas em torno da aldeia. Graças ao tempo ganho, várias unidades de reserva chegaram para o seu uso. Contra-ataque com essas novas forças e cause o máximo de dano aos fascistas.
+
+Suas ordens:
+- 	Contra-ataque e expulse as tropas inimigas da linha de frente.
+[Mission3.Success]
+Um contra-ataque bem-sucedido! Danos graves foram causados aos fascistas.
+[Mission3.Failed]
+Você fracassou em suas ordens. Seu contra-ataque só resultou na morte de mais tropas valentes sob o seu comando.
+[Submission1.Objectives]
+Mantenha as defesas na área indicada.
+[Submission1.Description]
+As tropas alemãs avançam sobre Moscou. A capital está em perigo e, neste momento, não há lugar mais importante que o seu para a salvação da Pátria. Vários de nossos exércitos foram cercados perto de Vyazma, prendendo as forças de vinte e oito divisões fascistas. Consideráveis forças inimigas estão se movendo para Vyazma. Elas tentam cercar ou contornar nossas tropas e continuar o avanço sobre Moscou.
+
+Suas ordens:
+- 	Mantenha a defesa em torno da aldeia.
+- 	Impeça as tropas alemãs de romper em direção a Moscou.
+[Submission1.Success]
+A ordem foi cumprida! O avanço das tropas alemãs em direção a Moscou foi contido!
+[Submission1.Failed]
+A ordem não foi cumprida! As tropas fascistas romperam suas defesas e continuam o avanço sobre Moscou!
+[StringTable.Reserv]
+Os reforços chegaram.

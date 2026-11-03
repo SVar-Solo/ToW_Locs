@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Contenga todos y cada uno de los ataques alemanes. Cubra la evacuación de las tropas aliadas en el puerto de Cherburgo.
+[Mission.Description]
+Junio de 1941. En las afueras de la ciudad portuaria de Cherburgo resiste uno de los últimos batallones de las tropas francesas que están bien organizadas y armadas. Los alemanes ya ocupan Francia. La máquina propagandística del Dr. Goebbels trabaja contra reloj para lograr resquebrajar el espíritu de la resistencia francesa. Las últimas tropas aliadas necesitan más tiempo para embarcar en los transportes y huir a las islas Británicas. De usted depende proporcionarles ese tiempo, aunque tengas que pagarlo con su propia sangre.
+
+Sus órdenes son:
+-	Contenga y resista todos los ataques alemanes usando todas las fuerzas y medios de que disponga. Mantenga la línea de defensa y evite que los alemanes lleguen a las zonas de evacuación.
+[Mission.Success]
+¡Su misión ha sido un éxito!
+[Mission.Failed]
+¡Ha fracasado en su misión!
+[Submission_1.Objectives]
+Rechace los ataques enemigos.
+[Submission_1.Description]
+Sus defensas están situadas en una colina estratégica. Los alemanes se abren paso hacia el puerto de Cherburgo a través de muchas y diferentes cuñas de ataque. La clave para su éxito hoy residirá en el correcto despliegue y organización de sus posiciones de defensa.
+
+Órdenes:
+-	Rechace todos los ataques del enemigo.
+[Submission_1.Success]
+¡Ha rechazado los ataques del enemigo!
+[Submission_1.Failed]
+¡Ha perdido!
+[Submission_2.Objectives]
+Ataque el enclave situado al oeste de la colina.
+[Submission_2.Description]
+Al oeste de tus posiciones hay una población ocupada por los alemanes. Considerando la situación actual, el enemigo espera cualquier tipo de ofensiva por parte de usted y está redistribuyendo sus fuerzas discretamente para prepararse para el siguiente ataque.
+
+Órdenes:
+-	Organice un contraataque en dirección al enclave y elimine completamente a todas las unidades alemanas allí situadas.
+
+[Submission_2.Success]
+¡El pueblo está en nuestro poder! ¡Bien hecho, comandante!
+[Submission_2.Failed]
+¡Ha fracasado en su misión!
+[Submission_3.Objectives]
+Rechace el contraataque enemigo.
+[Submission_3.Description]
+¡El ataque sorpresa ha funcionado! El enemigo ha sufrido graves pérdidas humanas y logísticas. Además, ha impedido el plan alemán de un ataque simultáneo a sus posiciones de defensa desde dos puntos. Pero todavía no podemos cantar victoria, ya que el enemigo prepara un nuevo contraataque.
+
+Órdenes:
+-	Rechace el contraataque alemán.
+[Submission_3.Success]
+¡Ha vencido! Ha detenido el contraataque enemigo.
+[Submission_3.Failed]
+¡Ha perdido! Ha sido incapaz de parar el contraataque enemigo.
+[StringTable.reserv]
+¡Han llegado refuerzos!

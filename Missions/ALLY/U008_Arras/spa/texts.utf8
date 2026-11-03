@@ -1,0 +1,47 @@
+﻿[Submission_2.Objectives]
+Hemos localizado una posición defensiva enemiga. Su misión es acabar con ella.
+[Submission_2.Description]
+Los informes recientes le han permitido localizar una posición defensiva alemana en el pueblo que tiene delante. Para que las unidades del tercer ejército estadounidense puedan seguir avanzando, tendrá que neutralizar al enemigo.
+
+Sus órdenes:
+-	Elimine las tropas enemigas.
+[Submission_2.Success]
+¡El pueblo está en nuestro poder!
+[Submission_2.Failed]
+¡La resistencia alemana ha resultado ser más grande de lo que creíamos! Hemos perdido este combate.
+[Submission_1.Objectives]
+Explorar el enclave con todos los medios de que disponga.
+[Submission_1.Description]
+Las tropas alemanas están huyendo pero han dejado una pequeña retaguardia con la que tendrá que enfrentarse.
+
+Sus órdenes:
+-	Explore el enclave más cercano.
+[Submission_1.Success]
+Los exploradores han completado el reconocimiento del enclave.
+[Submission_1.Failed]
+La unidad de exploración ha sido eliminada.
+[Submission_3.Objectives]
+Siga avanzando por la carretera. Destruya la última posición defensiva alemana que hay ante el puente que cruza el canal.
+[Submission_3.Description]
+
+Sus órdenes:
+-	Continúe avanzando hasta el siguiente enclave.
+-	Ataque a todo enemigo que encuentre.
+[Submission_3.Success]
+¡El último obstáculo en el camino hacia Bruselas ha sido eliminado!
+[Submission_3.Failed]
+Ha perdido. El avance del tercer ejército se ha retrasado por culpa de su fallo.
+[Mission.Objectives]
+Acabe con todas las posiciones defensivas alemanas.
+[Mission.Description]
+Después del desembarco de los aliados en Normandía, las tropas alemanas se han retirado rápidamente, pero varias rezagadas han mantenido la posición y han seguido luchando. Los alemanes montan posiciones defensivas en casi todos los pueblos, convirtiéndolos en fortalezas. A pesar de que Rommel no había podido establecer líneas defensivas fortificadas por falta de tiempo y recursos, los soldados alemanes han seguido luchando desesperadamente.
+El calendario de la operación, establecido por Eisenhower y Montgomery, se ha incumplido repetidas veces y la ofensiva se ha visto postergada una y otra vez.
+
+Sus órdenes:
+-	Destruya las defensas alemanas.
+[Mission.Success]
+Ha ganado y ha expulsado a las unidades alemanas de sus posiciones defensivas.
+[Mission.Failed]
+Ha perdido. Los alemanes todavía poseen núcleos de defensa estratégicos en esta zona.
+[StringTable.reserv]
+Han llegado refuerzos para ayudarle.

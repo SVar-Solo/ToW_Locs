@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+高地のドイツ軍砲兵中隊を破壊せよ。敵の攻撃をすべて撃退せよ。
+[Mission.Description]
+ドイツ軍は、ワルシャワに通じる道路を掩護するため、前方の高地に砲兵中隊を配置した。我が軍が首都を増強するのを阻止しようとしている。ドイツ軍司令部は、前進する第8軍の側面への攻撃を予期していなかった。したがって今、我々には彼らに決定的な打撃を与える好機がある。    
+
+命令： 
+-	ドイツ軍砲兵中隊を破壊せよ 
+-	敵のあらゆる攻撃から防御せよ 
+[Mission.Success]
+任務完了！
+[Mission.Failed]
+貴官は失敗した！
+[Submission_1.Objectives]
+ドイツ軍砲兵中隊を破壊せよ。
+[Submission_1.Description]
+ドイツ軍の砲兵中隊が高地に配置されている。その砲撃が、我が軍のそれ以上の前進を阻んでいる。 
+
+Orders:	
+-	敵砲兵中隊を破壊し、高地を占領せよ。
+[Submission_1.Success]
+任務完了。
+[Submission_1.Failed]
+貴官は任務に失敗した！
+[Submission_2.Objectives]
+ドイツ軍の戦車と歩兵が確認された。直ちに攻撃せよ！
+[Submission_2.Description]
+我が軍の斥候が、歩兵を伴うドイツ軍戦車を確認した。進撃を続けるためには、これらを排除することが重要だ。 
+
+命令：
+-	この新たな敵の進撃を阻止し、防御陣地につき、敵を排除せよ。
+[Submission_2.Success]
+攻撃は撃退された。
+[Submission_2.Failed]
+貴官は任務に失敗した。
+[Submission_3.Objectives]
+高地に防御陣地を構え、ドイツ軍の反撃を撃退せよ。
+[Submission_3.Description]
+ドイツ軍砲兵中隊は無力化されたが、敵はすでに、失った陣地を奪還すべく反撃の準備をしている。
+
+命令：
+-	高地に防御陣地を構え、敵のあらゆる反撃を撃退せよ。
+[Submission_3.Success]
+敵の反撃は失敗した。よくやった！
+[Submission_3.Failed]
+我々は大損害を被った。敗北だ！
+[StringTable.reserv]
+増援が戦闘に加わった！

@@ -1,0 +1,240 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Attack and destroy all enemy defenses in the area marked on the map.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Advance to the area marked on the map. Overrun any enemy positions and repel all counterattacks.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+The enemy has been eliminated.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+The enemy has been eliminated.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Your combat team must eliminate the defending hostiles in this sector of the front.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Your combat team is charged with the elimination of the hostiles defending this sector. Be warned: according to reconnaissance, the enemy will be launching frequent counterattacks.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Capture and hold the road junction in the center of the area.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Our advance reconnaissance party has overrun a road junction in the center of the area. The enemy will most likely try to capture it. Your combat team is to advance to the road junction, and give support to the reconnaissance party.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front. Hold the area until further notice.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Your combat team must hold the narrow passage to the south of the road junction. According to reconnaissance, the enemy has concentrated a large number of forces in the area, and may be planning to break through this sector of the front. Your combat team must not let this happen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Your combat team must hold the narrow passage to the south of the road junction. According to reconnaissance, the enemy has concentrated a large number of forces in the area, and may be planning to break through this sector of the front. Your combat team must not let this happen.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Infantry-armor team is at your command.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Infantry-armor team is at your command.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Infantry team is at your command.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Infantry team is at your command.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Attack and destroy all enemy defenses in the area marked on the map.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Advance to the area marked on the map. Overrun any enemy positions and repel all counterattacks.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+The enemy has been eliminated.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+The enemy has been eliminated.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Your combat team must eliminate the defending hostiles in this sector of the front.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Your combat team is charged with the elimination of the hostiles defending this sector. Be warned: according to reconnaissance, the enemy will be launching frequent counterattacks.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Capture and hold the road junction in the center of the area.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Our advance reconnaissance party has overrun a road junction in the center of the area. The enemy will most likely try to capture it. Your combat team is to advance to the road junction, and give support to the reconnaissance party.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Prevent the hostiles from breaking through your sector of the front. Hold the area until further notice.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Your combat team must hold the narrow passage to the south of the road junction. According to reconnaissance, the enemy has concentrated a large number of forces in the area, and may be planning to break through this sector of the front. Your combat team must not let this happen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Your combat team must hold the narrow passage to the south of the road junction. According to reconnaissance, the enemy has concentrated a large number of forces in the area, and may be planning to break through this sector of the front. Your combat team must not let this happen.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Infantry-armor team is at your command.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Infantry-armor team is at your command.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Infantry team is at your command.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Infantry team is at your command.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[Reinforcement.Group_tanks_infantry]
+Reserve infantry-armor team
+
+[Reinforcement.Group_infantry]
+Infantry
+

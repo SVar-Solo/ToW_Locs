@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+增援已到达。
+[Submission1.Objectives]
+夺取村庄，消灭敌军。
+[Submission1.Description]
+德军已占领附近的村庄，似乎在等待增援。你必须在更多敌军赶到之前，对该居民点发起进攻。
+
+命令：
+-	夺取居民点。
+-	击败所有敌军。
+[Submission1.Success]
+任务顺利完成。敌军已被逐出村庄。
+[Submission1.Failed]
+任务失败。
+[Mission1.Objectives]
+击败所有敌军。
+[Mission1.Description]
+德军已开始向莫尔坦推进。敌人占领了该地区的几个小居民点。根据所有现有情报，敌人正准备向这个方向发起攻势。你必须阻止他们！
+
+你的命令是：
+	将敌人逐出被占领的居民点。
+[Mission1.Success]
+任务顺利完成。
+[Mission1.Failed]
+任务失败。
+[Submission2.Objectives]
+击败敌军并夺取村庄。
+[Submission2.Description]
+一支敌军分遣队已在小居民点中建立阵地。他们正准备向莫尔坦发起反攻。
+
+你的命令是：
+	将敌人逐出阵地，夺取该居民点。
+[Submission2.Success]
+任务顺利完成。居民点已在我们控制之下。
+[Submission2.Failed]
+任务失败。你的部队伤亡惨重。
+[Submission3.Objectives]
+击败敌军装甲部队。
+[Submission3.Description]
+敌人得到了一支小型装甲部队的增援。
+
+你的命令是：
+-	进攻并摧毁所有敌军装甲单位。
+[Submission3.Success]
+任务顺利完成。
+[Submission3.Failed]
+任务失败。你的部队遭受了重大损失。

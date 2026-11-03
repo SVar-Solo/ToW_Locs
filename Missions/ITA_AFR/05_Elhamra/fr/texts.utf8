@@ -1,0 +1,50 @@
+﻿[Submission_1.Objectives]
+Repoussez l’attaque
+[Submission_1.Description]
+Prenez position en défense et préparez-vous à repousser une attaque.
+[Submission_01.Success]
+Mission accomplie.
+[Submission_01.Failed]
+Mission échouée.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Tenez les positions occupées
+[Mission.Description]
+Prenez des positions défensives face aux troupes ennemies qui avancent, repoussez leurs attaques et tenez bon.
+[NewSubmission.Success]
+Mission accomplie.
+[NewSubmission.Failed]
+Mission échouée.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Success]
+La première attaque a été repoussée.
+[Submission_1.Failed]
+L’ennemi a percé votre défense.
+[Submission_2.Objectives]
+Préparez-vous à repousser la prochaine attaque
+[Submission_2.Description]
+L’ennemi se regroupe et tentera bientôt de percer de nouveau votre défense. Préparez-vous à repousser sa prochaine attaque et déployez les renforts qui arrivent.
+[Submission_3.Objectives]
+Nettoyez la localité
+[Submission_3.Description]
+Débarrassez cette petite localité de l’ennemi pour empêcher une attaque d’enveloppement contre nos défenses.
+[Submission_4.Objectives]
+Défendez les positions occupées
+[Submission_4.Description]
+Les Américains tentent une fois de plus de reprendre pied ; préparez-vous à défendre vos positions dans le village conquis.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.
+[Submission_3.Success]
+Mission accomplie.
+[Submission_3.Failed]
+Mission échouée.
+[Submission_4.Success]
+Mission accomplie.
+[Submission_4.Failed]
+Mission échouée.

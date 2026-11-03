@@ -1,0 +1,49 @@
+﻿[Mission.Objectives]
+Mantenga la línea
+[Mission.Description]
+Mantenga la línea cerca de la estación de ferrocarril de Sidi N'Sir con las fuerzas del 5.º Batallón del Regimiento Real de Hampshire, apoyado por la 155.ª Batería del 172.º Regimiento de Artillería de Campaña.
+Por la mañana el enemigo lanzó un nuevo ataque; debemos retrasarlo el mayor tiempo posible, causándole el máximo daño.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission1.Objectives]
+Establezca contacto con la batería.
+[Submission1.Description]
+Contamos con el apoyo de la batería de artillería de campaña. Hace un tiempo se perdió el contacto con ese emplazamiento de tiro. Debemos enviar a nuestro observador de artillería a su puesto de observación.
+[Submission1.Success]
+Misión cumplida. La batería abrirá fuego contra los objetivos detectados.
+[Submission1.Failed]
+¡El puesto de observación ha sido destruido!
+[Submission2.Objectives]
+Resista hasta que lleguen los refuerzos.
+[Submission2.Description]
+Los ataques enemigos son cada vez más feroces. Debemos mantener la línea a toda costa hasta que lleguen los refuerzos y causar al enemigo el mayor daño posible. Es vital destruir los tanques enemigos. Sin apoyo de tanques, su infantería será más fácil de contener. 
+[Submission2.Failed]
+Misión fallida.
+[Submission2.Success]
+Misión cumplida.
+[Submission3.Objectives]
+Retírese a la retaguardia.
+[Submission3.Description]
+A pesar de las bajas, el enemigo sigue enviando nuevas fuerzas al campo de batalla y atacando nuestras posiciones. Nosotros también hemos sufrido pérdidas considerables, sobre todo en artillería, y no podemos contener a los alemanes por más tiempo. Por fortuna, hemos mantenido la línea el tiempo suficiente, y la batería se ha aproximado y se ha preparado para el combate. Ahora podemos retirarnos a la retaguardia, protegidos por su fuego. Debemos darnos prisa, pues nuestras fuerzas aéreas pronto reducirán la estación a escombros.
+[Submission3.Success]
+Misión cumplida.
+[Submission3.Failed]
+Al perder el control de sus tropas por el pánico, no ha logrado retirarse de forma ordenada a una nueva línea defensiva. Su unidad ha sido alcanzada por las fuerzas aéreas aliadas. Misión fallida.
+[Submission4.Objectives]
+Resista hasta que lleguen los refuerzos
+[Submission4.Description]
+El mando envía otra batería antitanque a nuestro sector. Debemos mantener la línea hasta que llegue.
+[Submission4.Success]
+Misión cumplida. La artillería ha llegado y se ha desplegado.
+[Submission4.Failed]
+Misión fallida.
+[StringTable.mess1]
+Los alemanes fueron detenidos en seco y han comenzado a retirarse. Su ataque repentino ha fracasado; el siguiente será mucho más feroz.
+[StringTable.mess2]
+¡Atención! ¡Aviones de ataque alemanes! ¡Antiaéreos, a sus puestos!
+[StringTable.mess3]
+No hemos logrado mantener la estación. El alto mando ha decidido destruirla para evitar que caiga en manos alemanas. Los bombarderos se aproximan; retire las fuerzas restantes lo antes posible para evitar ser alcanzado por las bombas aliadas.
+[StringTable.mess4]
+La batería ha sido destruida.

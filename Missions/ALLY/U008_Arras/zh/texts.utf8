@@ -1,0 +1,47 @@
+﻿[Submission_2.Objectives]
+已发现敌军防御阵地。你的任务是将敌人清除。
+[Submission_2.Description]
+最新情报使你得以确定前方村庄中德军防御阵地的位置。为协助美国第3集团军各部推进，你需要消灭敌人。 
+
+命令：
+-	消灭敌军。
+[Submission_2.Success]
+村庄已在我们手中！
+[Submission_2.Failed]
+德军的抵抗比预想的更为顽强！我们输掉了这场战斗。
+[Submission_1.Objectives]
+用一切手段侦察该居民点。
+[Submission_1.Description]
+德军正在溃逃，但留下了一支小股后卫部队，你现在必须与其交战。
+
+命令：
+-	侦察最近的居民点。
+[Submission_1.Success]
+我们的侦察兵已完成对该居民点的侦察。
+[Submission_1.Failed]
+侦察分队已被消灭。
+[Submission_3.Objectives]
+沿道路继续前进。摧毁运河桥前最后一处德军防御阵地。
+[Submission_3.Description]
+
+命令：
+-	继续推进至下一个居民点。
+-	发现敌人时发起攻击。
+[Submission_3.Success]
+通往布鲁塞尔的路上最后一道障碍已被清除！
+[Submission_3.Failed]
+你输了。由于你的失败，整个第3集团军的推进都将被延误。
+[Mission.Objectives]
+铲除德军所有防御阵地。
+[Mission.Description]
+盟军在诺曼底登陆后，德军迅速后撤，但各部残余力量仍在坚守作战。德军几乎在每个村庄都构筑防御阵地，把它们变成了要塞。尽管隆美尔因时间和资源不足未能建立起坚固的防线，德国士兵仍在拼死战斗。
+艾森豪威尔和蒙哥马利制定的作战计划一再被打乱，攻势一次又一次地被延误。 
+
+命令：
+-	摧毁德军防御。
+[Mission.Success]
+你赢了，将德军逐出了他们的防御阵地。
+[Mission.Failed]
+你输了。德军仍然控制着该地区的一些关键防御阵地。
+[StringTable.reserv]
+增援已到达，将支援你作战。

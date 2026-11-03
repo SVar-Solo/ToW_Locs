@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Zdobądź odskocznię
+[Mission.Description]
+Majorze Gerhard, musisz zdobyć odskocznię do ofensywy na Sbeitlę, niszcząc obronę wroga w tym rejonie. Zmiażdż wroga naszymi czołgami.
+[Mission.Success]
+Przygotowaliśmy odskocznię do ofensywy. Obrona wroga została zniszczona.
+[Mission.Failed]
+Odwrót. Nie udało się przełamać oporu wroga w tym rejonie.
+[SubMission_01.Objectives]
+Zniszcz wrogie zespoły rozpoznawcze
+[SubMission_01.Description]
+Musimy jak najszybciej zniszczyć wrogie zespoły rozpoznawcze, by nie poinformowały swojego naczelnego dowództwa o naszej sile i rozmieszczeniu.
+[SubMission_01.Success]
+Zespoły rozpoznawcze zostały zniszczone, wroga piechota ucieka.
+[SubMission_01.Failed]
+[SubMission_02.Objectives]
+Oskrzydl wroga
+[SubMission_02.Description]
+Nasz wywiad donosi, że drogi broni bateria artylerii. Musimy oskrzydlić główną linię obrony wroga. Wykorzystaj koryto rzeki. Zakładam, że wróg będzie ostrzeliwał dolinę. Musimy jak najszybciej przemieścić wojska w bezpieczne miejsce.
+[SubMission_02.Success]
+Skutecznie oskrzydliliśmy główne siły wroga.
+[SubMission_02.Failed]
+[SubMission_03.Objectives]
+Nawiąż łączność radiową
+[SubMission_03.Description]
+Nasze rozpoznanie znalazło miejsce do łączności radiowej, ale jest ono strzeżone przez wroga. Musimy go wyeliminować i dostarczyć do tego miejsca jeden z naszych czołgów lub pojazdów pancernych.
+[SubMission_03.Success]
+Wróg został zniszczony, wzniesienie jest zabezpieczone.
+[SubMission_03.Failed]
+[SubMission_04.Objectives]
+Wyeliminuj baterię artylerii
+[SubMission_04.Description]
+Wróg przemieścił baterię artylerii na wyspę. Musimy ją wyeliminować. 
+[SubMission_04.Success]
+Wroga bateria artylerii została wyeliminowana.
+[SubMission_04.Failed]
+[SubMission_05.Objectives]
+Znajdź bezpieczne przejście
+[SubMission_05.Description]
+Przed ostateczną ofensywą musimy sprawdzić przeprawy pod kątem pól minowych.
+[SubMission_05.Success]
+Bezpieczna przeprawa została znaleziona.
+[SubMission_05.Failed]
+[StringTable.Rommel_01]
+Liczę na pana i pańskich ludzi, majorze. Rozumiem, że ludzie są zmęczeni, ale sytuacja wymaga, byśmy zmobilizowali nasze najlepsze cechy. Takie dni rodzą bohaterów, o których będą pamiętać kolejne pokolenia.
+[StringTable.Gerhard_01]
+Panie generale! Nie trzeba tego mówić mnie ani moim ludziom. Jesteśmy żołnierzami Rzeszy Niemieckiej i zawsze o tym pamiętamy! Jednak Pańska obecność tu, na linii frontu, pomoże nam zapomnieć o zmęczeniu i walczyć dzielnie!
+[StringTable.Gerhard_02]
+Tak jest, panie generale! ...Cholera! Straciliśmy łączność z naczelnym dowództwem. Góry muszą ekranować nasze nadajniki. Musimy jak najszybciej przywrócić łączność.
+[StringTable.Gerhard_03]
+Co się dzieje? Natychmiast przywróć łączność radiową!

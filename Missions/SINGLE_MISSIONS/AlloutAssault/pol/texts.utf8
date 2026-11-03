@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+Dowódco, zdobądź wioskę na wyspie i zniszcz jej umocnienia. Ze względu na ich siłę działamy etapami, nie zdradzając kierunku głównego uderzenia.
+[Mission.Description]
+Dowódco, Twoim głównym zadaniem jest zdobycie wioski leżącej na wyspie i zniszczenie zbudowanych tam umocnień wroga. Ze względu na ich siłę planujemy robić to etapami, bez angażowania wszystkich dostępnych sił, bo inaczej bez wątpienia zdradzilibyśmy nieprzyjacielowi kierunek głównego uderzenia.
+[Mission.Success]
+Gratulacje, Dowódco! Cel został osiągnięty!
+[Mission.Failed]
+Dowódco, wycofaj natychmiast ocalałe oddziały, nie jesteśmy w stanie przełamać obrony wroga! I wymyśl porządną wymówkę na swoją porażkę, którą przedstawisz sir Winstonowi i Jej Królewskiej Mości!
+[Submission_1.Objectives]
+Dowódco, oczyść północną osadę, osłaniającą przejście do wioski. Masz tylko eskadrę samochodów pancernych; Valentine'y są w marszu. Przydzielono Ci piechotę, działa polowe i przeciwpancerne.
+[Submission_1.Description]
+Dowódco, Twoim pierwszym zadaniem jest oczyszczenie z wroga północnej osady, osłaniającej przejście do wioski na wyspie. Niestety powolne Valentine'y wciąż są w marszu, a eskadra samochodów pancernych to wszystko, co masz. Według danych wywiadu powinno to jednak wystarczyć do wykonania zadania. Do Twoich sił przydzielono oddział piechoty oraz działa polowe i przeciwpancerne, na wypadek niebezpieczeństwa.
+[Submission_1.Success]
+Pierwszy etap zakończony! Spóźnione Valentine'y z wsparciem piechoty dołączają do Twoich sił.
+[Submission_1.Failed]
+Misja nieudana!
+[Submission_2.Objectives]
+Dowódco, zneutralizuj baterie polowe i przeciwlotnicze w południowo-wschodniej części (punkt 3), aby odblokować moździerze i lotnictwo. Otrzymasz posiłki.
+[Submission_2.Description]
+Dowódco, piloci meldują o wrogich bateriach polowych i przeciwlotniczych. Baterie polowe znajdują się w południowo-wschodniej części pola bitwy (punkt 3) i nie pozwolą naszym moździerzom otworzyć ognia. Nasze lotnictwo nie może atakować z powodu dział przeciwlotniczych. Zneutralizuj je, a otrzymasz posiłki.
+[Submission_2.Success]
+Wroga bateria została zneutralizowana. Teraz nasze moździerze mogą otworzyć ogień!
+[Submission_2.Failed]
+Misja nieudana!
+[Submission_3.Objectives]
+Zdobyć południową osadę. Obrona jest silniejsza, ale nadciągające Valentine'y pomogą; rozważ zasłonę dymną nad brodem, decyzja należy do Ciebie.
+[Submission_3.Description]
+Następny w planie jest atak na południową osadę. Obrona jest tam znacznie silniejsza niż na północy, ale z pomocą nadciągających Valentine'ów powinieneś ją zdobyć. Dowódco, brody mogą być pod ostrzałem wroga, więc zasłona dymna nad przeprawą może się przydać. Decyzja należy jednak do Ciebie.
+[Submission_3.Success]
+Południowa osada zdobyta! Wszystkie zachodnie przejścia są nasze, a Ty masz do dyspozycji nieco posiłków.
+[Submission_3.Failed]
+Misja nieudana!
+[Submission_4.Objectives]
+Szybko przebij się na tyły wroga (punkt 5) z co najmniej trzema piechurami: okrąż lub oszukaj wroga i wyznacz współrzędne nalotu. Czas działa przeciwko nam!
+[Submission_4.Description]
+Dowódco, teraz musimy się spieszyć! Szybkim przebiciem na tyły wroga (punkt 5) osiągniemy dwa cele naraz: okrążymy nieprzyjaciela albo przynajmniej sprawimy, że tak uwierzy, oraz wyznaczymy współrzędne dla nalotu na nadciągające wrogie posiłki. Aby to osiągnąć, musimy mieć w tym rejonie co najmniej trzech naszych piechurów. Czas działa przeciwko nam!
+[Submission_4.Success]
+Dowódco, nasze lotnictwo wykorzystało podane przez Ciebie współrzędne i skutecznie zbombardowało wrogi konwój zmierzający na odsiecz obrońcom. Wróg przyjmuje obronę okrężną, sądząc, że jest okrążony, a nam pozostaje tylko go zniszczyć!
+[Submission_4.Failed]
+Wrogi konwój dotarł do garnizonu. Dowódco, przegrupuj siły, odeprzyj kontratak i całkowicie zniszcz garnizon!
+[StringTable.LateValentine]
+Pojedynczy Valentine, który zgubił się po drodze, pędzi nam na odsiecz, usłyszeli w radiu o naszej ciężkiej sytuacji!
+[StringTable.FlakCrippled]
+Wroga obrona przeciwlotnicza jest sparaliżowana, nasze lotnictwo może wkroczyć do akcji!
+[StringTable.NorthernVillageCleared]
+Dowódco, gratulacje! Północna osada została oczyszczona z wroga. Naciskaj dalej!
+[StringTable.SouthernVillageCleared]
+Dowódco, posuwasz się stabilnie naprzód. Szwaby zostały wyparte z południowej osady. Gnaj ich dalej!
+[StringTable.LastReserve]
+Dowódco, nasze siły pancerne poniosły ciężkie straty, wysyłam ostatnią rezerwę operacyjną. Nie podejmuj żadnych ryzykownych decyzji!
+[StringTable.SubtitleIntro1]
+Z radia w jeepie dobiega głos premiera Winstona Spencera Churchilla:
+[StringTable.SubtitleIntro2]
+... Jego Królewska Mość i całe Zjednoczone Królestwo oczekują, że nasi...
+[StringTable.SubtitleIntro3]
+żołnierze w Tunezji spełnią swój obowiązek!
+[StringTable.SubtitleIntro4]
+Oficer (cicho): Wszyscy jak jeden mąż, od alfy do omegi...
+[StringTable.SubtitleIntro5]
+Oficer (głośno, do podwładnych): Chłopcy, dodam tylko, że
+[StringTable.SubtitleIntro6]
+ze względu na wagę celu dowództwo obejmie osobiście Montgomery!
+[StringTable.SubtitleIntro7]
+A teraz na stanowiska bojowe!
+[StringTable.SubtitleIntro8]
+Żołnierze: Tak jest, sir!
+[StringTable.SubtitleWin1]
+Żołnierze między sobą: ...no dobra, Ty, ja, Jenkins i Parker
+[StringTable.SubtitleWin2]
+żyjemy, Knightly jest ranny, to wszystko, co zostało z naszego plutonu,...
+[StringTable.SubtitleWin3]
+jedyni ocalali. No i Freeman ze swoim Valem z drugiego. Szczęściarz...
+[StringTable.SubtitleWin4]
+Czołgista Freeman: Chłopaki, Johny... (jakiś żołnierz) Nie żyje!
+[StringTable.SubtitleWin5]
+Och, biedna Maude! Pisał do niej listy przy każdej okazji...
+[StringTable.SubtitleWin6]
+No to, Freeman, napiszesz jej, za co zginął!
+[StringTable.SubtitleWin7]
+Freeman: Żeby ich mały Harry i Ann nigdy nie...
+[StringTable.SubtitleWin8]
+oglądali tych wszystkich okropnych koszmarów!
+[StringTable.SubtitleFail1]
+Niemieccy żołnierze: Du kennst als Fachmann mit Routine ...
+[StringTable.SubtitleFail2]
+Matilda noch und Valentine. Jak mi się udało trafić tego ostatniego w łeb, co?
+[StringTable.SubtitleFail3]
+Guter Kerl! Tommy to frajerzy, następnym razem zapędzimy ich z powrotem...
+[StringTable.SubtitleFail4]
+z podkulonym ogonem aż do samej Algierii!

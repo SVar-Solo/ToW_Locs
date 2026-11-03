@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Подполковник Уотерс! Необходимо не допустить прорыва немецких войск на запад.
+
+[Mission.Description]
+
+[Mission.Success]
+Наступление немецких войск остановлено.
+
+[Mission.Failed]
+Мы потерпели поражение!
+
+[Submission1.Objectives]
+Удерживать позиции около деревни.
+
+[Submission1.Description]
+
+[Submission1.Success]
+Противник потерпел поражение и отступает!
+
+[Submission1.Failed]
+Враг смял нашу оборону! Мы отступаем!
+
+[Submission2.Objectives]
+Продержаться до подхода подкрепления.
+
+[Submission2.Description]
+
+[Submission2.Success]
+Подкрепление прибыло!
+
+[Submission2.Failed]
+
+[Submission3.Objectives]
+Противник прорывается на левом фланге! Немедленно выдвинуть танки на левый фланг обороны для ликвидации прорыва!
+
+[Submission3.Description]
+
+[Submission3.Success]
+Вражеский прорыв ликвидирован!
+
+[Submission3.Failed]
+
+[StringTable.Enemy]
+Немцы! К бою!
+
+[StringTable.Avia]
+Воздушная тревога!
+
+[StringTable.Obhod]
+Враг обходит наши позиции с севера!
+
+[Submission4.Objectives]
+Атаковать группу войск противника, движущуюся в обход позиций.
+
+[Submission4.Description]
+
+[Submission4.Success]
+Враг бежит с поля боя!
+
+[Submission4.Failed]
+
+[StringTable.tank]
+Танки.
+
+[StringTable.human]
+Пехота.

@@ -1,0 +1,64 @@
+﻿[MainTask.Objectives]
+보급 기지를 점령하고 가능한 모든 적의 반격을 격퇴하라.
+[MainTask.Description]
+[MainTask.Success]
+롬멜의 무전: 이탈리아군 지휘관에게. 적의 공격은 격퇴되었고, 아군은 이미 역 인근에 도달했다. 승리를 축하한다!
+[MainTask.Failed]
+롬멜이 사령부에 보낸 무전: 폰 아르님 장군! 이탈리아군은 참을 수 없는 손실을 입고 목표를 달성하지 못했다. 아, 어차피 저들에게 큰 기대는 하지 말았어야 했지!
+[StringTable.VillageCaptured]
+롬멜의 무전: 이탈리아군 지휘관에게. 역 점령을 축하한다. 생존한 영국군은 총을 내려놓고 자비를 구걸하고 있다! 기분 좋지 않은가? 그러나 아군은 아직 적의 끈질긴 저항을 돌파하는 중이다. 공중 정찰에 따르면 급조된 적 전투단이 2번 지점에서 귀관의 진지로 접근하며 반격을 시도하고 있다. 이들은 10분 후 역에 도달할 것이다. 이 시간과 노획한 야포 및 기관총을 활용해 방어를 편성하고 적의 공격을 격퇴하라! 적의 공격에 대응할 아군 전투기 편대도 지원된다.
+[StringTable.ReadyForAssault]
+롬멜의 무전: 이탈리아군 지휘관에게. 귀관은 적의 야포와 기관총을 침묵시켰다. 이제 나머지 부대와 교전할 것을 허가하며, 폭격기 지원도 받게 될 것이다.
+[StringTable.IntroSubtitle1]
+독일군 대위가 이탈리아 병사들에게 말한다.
+[StringTable.IntroSubtitle2]
+이탈리아 알피니의 용기와 능력에 대해 많이 들었다...
+[StringTable.IntroSubtitle3]
+그게 그저 허튼소리가 아니기를 바란다!
+[StringTable.IntroSubtitle4]
+테넨테 각하께서 우리가 받은 목표의 세부 사항을 설명해 주실 것이다. [StringTable.IntroSubtitle5]
+다만 이것만은 덧붙이겠다...
+[StringTable.IntroSubtitle6]
+이것은 우리가 수행할 수 있었던 가장 중요한 목표 중 하나다...
+[StringTable.IntroSubtitle7]
+우리가 지금껏 수행할 기회를 얻은 것 중에서도 말이다.
+[StringTable.IntroSubtitle8]
+고대 로마의 영광에 걸맞은 존재임을 증명하라!
+[StringTable.WinSubtitle1]
+이탈리아 병사들의 목소리: 주세페, 깃발 가지고 있나?
+[StringTable.WinSubtitle1a]
+그 녀석... 잊어버렸대! 볼로냐 출신 멍청이는 늘 이런 식이라니까!
+[StringTable.WinSubtitle2]
+찾았다!... 이리 줘, 독일군이...
+[StringTable.WinSubtitle3]
+우리를 영국군으로 착각하면 큰일이야. 우리에겐 이미 영국제 포가 있잖아!
+[StringTable.WinSubtitle4]
+선두 전차는 4호 전차야, 독일군이다!
+[StringTable.WinSubtitle5]
+사격 중지! 접근 중이다... 쏘지 마라!
+[StringTable.WinSubtitle6]
+우리를 알아봤다, 이제 괜찮아!
+[StringTable.WinSubtitle7]
+독일 전차병: 독일어 하시오, 이탈리아 전우여?...
+[StringTable.WinSubtitle8]
+축하하오! 지크 하일!
+[StringTable.FailSubtitle1]
+치글러가 온다.
+[StringTable.FailSubtitle2]
+전우들, 저 이탈리아 놈들이 임무에 실패했어!
+[StringTable.FailSubtitle3]
+진정해, 치글러! 이탈리아 전차와 독일 전차의 차이를 아나?
+[StringTable.FailSubtitle4a]
+아니, 모르는데.
+[StringTable.FailSubtitle4]
+우리 전차는 전진 기어가 3개에 후진 기어가 1개고, 이탈리아 전차는 그 반대야!
+[StringTable.FailSubtitle5]
+디트리히, 같이 웃고 싶지만 지금 우리 상황은 딱 두 마디로 표현할 수 있어.
+[StringTable.FailSubtitle6]
+전부 박살났다!
+[StringTable.WinSubtitle6a]
+신께 감사를, 우리는 운이 좋았어!
+[StringTable.WinSubtitle6b]
+이봐, 주세페, 입 다물고 깃발이나 잘 챙겨!
+[StringTable.EnemyIsHere]
+롬멜의 무전: 이탈리아군 지휘관에게. 공중 정찰에 따르면 적이 역 바로 인근에 있다. 어떤 대가를 치르더라도 사수하라! 아군이 적 방어선을 돌파하여 귀관을 지원하러 진격 중이다!

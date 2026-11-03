@@ -1,0 +1,188 @@
+﻿[Battle Group 6.Name]
+X Corps
+
+[Battle Group 2.Name]
+21e rég. de marines ind.
+
+[USA.Epilogue]
+Les forces de l’ONU et de la Corée du Sud s’unirent autour d’un objectif commun – la destruction des forces nord-coréennes et la rectification des frontières. Elles étaient déterminées à repousser les Nord-Coréens au-delà des frontières septentrionales de la République populaire démocratique de Corée, et elles y parvinrent. Ce fut un retournement stupéfiant, qui ne put être accompli que grâce à la coopération totale des forces terrestres, aériennes et navales, lesquelles portèrent des coups coordonnés et simultanés sur le front, les flancs et les arrières de l’ennemi, avec le soutien de nombreuses unités aériennes et d’artillerie. Leur supériorité en hommes et en matériel militaire leur fut très utile, car l’ennemi manquait de défense antiaérienne, d’artillerie et de chars.
+
+[Battle Group 1.Name]
+
+
+[USA.FailureEpilogue]
+L’offensive conjointe des troupes américaines et sud-coréennes en Corée mit en évidence un certain nombre de lacunes dans leurs formations et leurs unités. Les forces du Commandement de l’ONU se révélèrent incapables de mener une offensive suffisamment rapide, et le combat fit apparaître l’état de préparation insuffisant des renforts. Ceux-ci n’avaient pas été entraînés à combattre de nuit ni à exploiter à leur avantage le relief montagneux de la Corée. Ils employaient des formations adaptées surtout aux plaines, attaquaient sur toute la largeur du front et limitaient leurs opérations de combat aux heures de jour. Ils ne tentaient ni de déborder les flancs ennemis ni d’utiliser les montagnes à leur avantage. Leur infanterie ne pouvait se battre que si elle était soutenue par l’artillerie, les chars et l’aviation. Le recours excessif aux routes, des flancs et des arrières mal défendus, ainsi qu’une crainte générale de l’encerclement : toutes ces lacunes pesèrent sur les troupes du Commandement de l’ONU.
+
+[Battle Group 2.FullName]
+21e régiment de marines indépendant
+
+[Battle Group 6.FullName]
+Unités du X Corps
+
+[Battle Group 15.Name]
+15e bat. d’inf. ind.
+
+[Battle Group 15.FullName]
+15e bataillon d’infanterie indépendant
+
+[Battle Group 16.Name]
+10e div. inf.
+
+[Battle Group 16.FullName]
+Unités de la 10e division d’infanterie
+
+[Battle Group 17.Name]
+I Corps
+
+[Battle Group 17.FullName]
+Unités du I Corps
+
+[Battle Group 22.Name]
+II Corps
+
+[Battle Group 19.Name]
+1re brig. blindée
+
+[Battle Group 21.Name]
+18e brig. inf.
+
+[Battle Group 20.Name]
+70e rég. inf. ind.
+
+[Battle Group 22.FullName]
+Unités du II Corps
+
+[Battle Group 20.FullName]
+70e régiment d’infanterie indépendant
+
+[Battle Group 21.FullName]
+18e brigade d’infanterie
+
+[Battle Group 19.FullName]
+1re brigade blindée
+
+[Battle Group 23.Name]
+17e div. méc.
+
+[Battle Group 23.FullName]
+17e division mécanisée
+
+[USA.FullName]
+Contre-offensive
+
+[USA.Description]
+Grâce à la supériorité de l’appui aérien et d’artillerie du Commandement de l’ONU, les troupes nord-coréennes ne parvinrent pas à percer le périmètre de Pusan ni à rejeter ses défenseurs à la mer. Au contraire, la puissante contre-attaque lancée par l’armée américaine et sud-coréenne força la Corée du Nord à abandonner plusieurs de ses positions clés. À la mi-septembre 1950, les Nord-Coréens étaient entièrement sur la défensive.
+Après avoir sécurisé la région de Pusan, les forces sud-coréennes commencèrent à planifier leur contre-offensive. Elles allaient détruire les troupes nord-coréennes et occuper toute la Corée.
+Le plan prévoyait deux coups : le premier par les troupes terrestres, partant de la région de Pusan, et le second par des troupes amphibies, à Inchon. Ensemble, ils devaient encercler et détruire les troupes nord-coréennes en Corée du Sud.
+Sur l’axe d’avance principal, le Commandement de l’ONU déploya six divisions d’infanterie, une brigade d’infanterie, trois divisions d’artillerie indépendantes et trois bataillons blindés indépendants. L’appui aérien devait être assuré par pas moins de 1 100 avions d’attaque.
+Le débarquement d’Inchon devait être assuré par le X Corps américain, composé de la 1re division de marines (États-Unis), de la 7e division d’infanterie (États-Unis), du 41 Commando (Grande-Bretagne) et du 17e régiment d’infanterie (République de Corée). Son appui devait être fourni par 250 navires et quelque 500 avions.
+La contre-offensive fut lancée le 15 septembre 1950.
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeongbuk-do
+
+[HAMGEN_PUKTO.Description]
+Le Hamgyeongbuk-do est la province la plus septentrionale de la Corée du Nord. Sa frontière nord est commune avec la Chine, et sa longue côte orientale est baignée par la mer du Japon. La province abrite le principal nœud ferroviaire de la Corée du Nord, par lequel transitent les expéditions en provenance de Chine comme d’Union soviétique. Le terrain est surtout plat, mais une grande chaîne montagneuse s’élève à l’ouest.
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+La province du Ryanggang-do est limitrophe de la Chine au nord. Occupée en majeure partie par des montagnes sillonnées d’étroits cols, elle est à peine praticable. Le Ryanggang-do n’en reste pas moins une zone stratégique très importante, car il abrite la principale voie ferrée venant de l’Union soviétique, qui approvisionne les troupes nord-coréennes en matériel militaire et en armements.
+
+[HAMGEN_NAMDO.FullName]
+Hwanghaenam-do
+
+[HAMGEN_NAMDO.Description]
+Montagneux à l’ouest, le Hwanghaenam-do s’aplanit en terres agricoles de premier ordre à mesure qu’il s’étend vers l’est, jusqu’à sa côte sur la mer du Japon. Ces terres riches produisent du riz, du blé et du colza, ce qui fait de la province le principal centre agricole de la Corée du Nord. La prise du Hwanghaenam-do offrirait un excellent point d’appui pour pousser le combat plus au nord.
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+Bordant la Chine au nord, le Chagang-do est l’une des provinces industrielles les plus développées de la Corée du Nord. Son principal nœud ferroviaire traite tout le fret venant de Chine et d’Union soviétique, et la province abrite les principales bases d’approvisionnement des troupes nord-coréennes. Le Chagang-do n’a pas d’accès à la mer.
+
+[PHENAN_PUKTO.FullName]
+Pyeonganbuk-do
+
+[PHENAN_PUKTO.Description]
+La province septentrionale du Pyeonganbuk-do partage une frontière avec la Chine. Sa capitale, Sineuiju, est un important carrefour de transport, et le port de Yongampo est l’un des principaux centres de l’industrie de la pêche en mer Jaune. Le terrain est surtout montagneux, avec des vallées qui dominent la zone côtière.
+
+[PHENAN_NAMDO.FullName]
+Pyeongannam-do
+
+[PHENAN_NAMDO.Description]
+La province nord-coréenne du Pyeongannam-do, dont la capitale est Pyeongseong, borde au nord le Pyeonganbuk-do et le Chagang-do, à l’est et au sud-est le Hwanghaenam-do et le Gangwon-do, et au sud le Hwanghaebuk-do et Pyeongyang. À l’ouest, elle donne sur la mer Jaune. La province présente un intérêt stratégique comme base de redéploiement des troupes et du ravitaillement par voie maritime.
+
+[PHENYAN.FullName]
+Pyeongyang
+
+[PHENYAN.Description]
+Pyeongyang – nom à la fois de la capitale et de la province environnante – est un grand centre économique de la Corée du Nord, ainsi qu’un bastion industriel majeur. La ville de Pyeongyang s’élève sur une plaine entourée de montagnes. En 1946, elle s’est détachée du Pyeongannam-do pour devenir une province indépendante. La ville et ses environs sont fortement fortifiés et solidement défendus.
+
+[KANWONDO_PUKTO.FullName]
+Gangwondo-pukto
+
+[KANWONDO_PUKTO.Description]
+La province nord-coréenne du Gangwondo-pukto se trouve le long de la région frontalière. Elle est surtout composée de hautes terres, mais le terrain le long du littoral se prête au transport de véhicules.
+
+[HVANHE_PUKTO.FullName]
+Hwanghae-pukto
+
+[HVANHE_PUKTO.Description]
+La frontière sud de la province de Hwanghaebuk-do suit le 38e parallèle. Les forces ennemies sont concentrées au sud. La province est d’une importance stratégique cruciale pour la défense de Pyeongyang, la capitale de la Corée du Nord.
+
+[KANWONDO_NAMDO.FullName]
+Gangwondo-Namdo
+
+[KANWONDO_NAMDO.Description]
+La frontière nord de la province de Gangwonnam-do suit le 38e parallèle, qui divise la péninsule coréenne entre Corée du Nord et Corée du Sud. Province montagneuse, elle ne comporte aucune fortification lourde, et les cols de montagne sont traîtres : même une petite force défensive peut contenir une force d’attaque supérieure. Les petits villages et monastères ont été transformés en citadelles défensives très difficiles à prendre. Seuls les sentiers rocailleux impraticables pour les véhicules demeurent inoccupés.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Abritant Séoul, la capitale de la Corée du Sud, Gyeonggi-do est une province d’une importance stratégique cruciale. Bien qu’elle soit surtout composée de plaines, la province est parsemée de localités habitées, dont beaucoup ont été fortifiées. Séoul elle-même est naturellement protégée par les troupes les plus expérimentées de Corée du Sud et entourée de fortifications lourdes. La frontière nord de la province suit le 38e parallèle, qui divise la Corée entre Nord et Sud.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsangbuk-do
+
+[KENSAN_PUKTO.Description]
+Gyeongsangbuk-do donne accès à la côte est de la péninsule coréenne. Celui qui tient cette province peut recevoir des approvisionnements par mer, un avantage stratégique considérable. Gyeongsangbuk-do compte de nombreuses vallées de montagne, mais plus près de la côte est, les montagnes s’abaissent et les vallées s’élargissent et s’aplanissent. La zone est donc très commode pour attaquer, mais difficile à défendre.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheongbuk-do
+
+[CHUNCHON_PUKTO.Description]
+Chungcheongbuk-do est le principal couloir de transport vers Séoul, la capitale de la Corée du Sud. De nombreuses bases militaires et fortifications sont concentrées dans cette province. Prendre le contrôle de Chungcheongbuk-do procurerait un avantage considérable.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheongnam-do
+
+[CHUNCHON_NAMDO.Description]
+Une grande partie du Chungcheongnam-do est occupée par des montagnes presque infranchissables, mais certaines zones restent vulnérables à une attaque, bien qu’elles soient naturellement très défendues et fortifiées. Tous les centres de population ont été transformés en points d’appui, mais certains sentiers rocailleux sont impraticables aux véhicules. Cela les rend parfaits pour de petites escouades d’infanterie, qui peuvent manœuvrer discrètement et surprendre l’ennemi.
+
+[PUSAN.FullName]
+Pusan
+
+[PUSAN.Description]
+Le périmètre de Pusan est la dernière position des troupes sud-coréennes. Cette zone stratégique essentielle sert de tête de pont aux forces américaines et compte de nombreux points d’appui bien défendus. S’emparer du périmètre de Pusan, ainsi que des ports de Pusan, d’Ulsan et de Pohang, empêcherait les forces du Commandement des Nations unies de faire venir des renforts et des approvisionnements.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsangnam-do
+
+[KENSAN_NAMDO.Description]
+La province du Gyeongsangnam-do jouxte les provinces du Jeollabuk-do et du Gyeongsangbuk-do. Elle est en grande partie occupée par des montagnes et abrite trois parcs nationaux : Gayasan, Deogyusan et Jirisan. Le plus haut sommet est le mont Deogyusan (1 614 mètres). Comme le reste de la péninsule coréenne, la province a un climat de mousson : étés chauds et humides, hivers relativement froids et secs. La température moyenne annuelle est de 10,6 degrés Celsius et les précipitations annuelles atteignent 1 395,2 mm (en 1993). La plupart des précipitations (850 mm) tombent pendant la saison des pluies, qui dure trois mois d’été.
+
+[CHOPLA_PUKTO.FullName]
+Jeollabuk-do
+
+[CHOPLA_PUKTO.Description]
+Le Jeollabuk-do se situe sur la côte ouest. Son port est essentiel aux mouvements de personnel et de ravitaillement. Toutefois, à l’exception des zones côtières, la province est occupée par des montagnes périlleuses, si bien qu’il n’y a pas de fortifications lourdes.
+
+[CHOPLA_NAMDO.FullName]
+Jeollanam-do
+
+[CHOPLA_NAMDO.Description]
+Le Jeollanam-do est la province la plus méridionale de la Corée du Sud. Les montagnes dominent sa région nord. Cependant, vers le sud et les régions côtières, les montagnes s’aplanissent en larges vallées. Sur le plan stratégique, la partie sud de la province est importante pour l’acheminement du ravitaillement par mer, grâce à ses nombreux grands ports. Le commandement militaire américain en tire parti.
+

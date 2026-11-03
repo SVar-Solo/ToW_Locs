@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Ocupe y defienda la aldea
+[Submission_1.Description]
+Capture el poblado y organice su defensa.
+[Submission_01.Success]
+Misión cumplida.
+[Submission_01.Failed]
+Misión fallida.
+[Mission.Objectives]
+Destruya al enemigo
+[Mission.Description]
+Debe mantener el terreno frente a las unidades enemigas que avanzan, rechazar sus ataques y contraatacar. Para impedir que las fuerzas enemigas se reagrupen, despeje el campo de batalla de las unidades enemigas que fueron derrotadas pero no completamente destruidas.
+[NewSubmission.Success]
+Misión cumplida.
+[NewSubmission.Failed]
+Misión fallida.
+[Submission_2.Objectives]
+Limpie la zona
+[Submission_2.Description]
+Destruya o disperse a las unidades enemigas atacantes y despeje el campo de batalla de sus restos.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+Misión fallida.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+Misión fallida.

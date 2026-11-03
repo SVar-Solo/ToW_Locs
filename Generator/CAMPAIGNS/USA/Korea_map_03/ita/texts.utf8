@@ -1,0 +1,201 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Conquistare il centro abitato nella valle di montagna.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Conquistare il centro abitato nella valle di montagna.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Il vostro gruppo di combattimento deve infiltrarsi nel passo di montagna e conquistare un centro abitato nella valle di montagna che il nemico ha trasformato in un caposaldo.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Il vostro gruppo di combattimento deve infiltrarsi nel passo di montagna e conquistare il centro abitato. Si trova in una valle di montagna ed è stato trasformato dal nemico in un caposaldo. Secondo la ricognizione, il nemico difenderà attivamente la posizione e potrebbe anche lanciare un contrattacco.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Respingete l'attacco nemico. Non permettete al nemico di conquistare il centro abitato.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta. Nemici eliminati.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Una piccola squadra di fanteria difende un centro abitato nella valle di montagna da un possibile attacco nemico. Il grosso delle vostre truppe deve respingere l'attacco nemico e impedire al nemico di conquistare la posizione.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e impedite ai nemici di conquistare il centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e impedite ai nemici di conquistare il centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Il nemico ha conquistato il centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Il nemico ha conquistato il centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Il centro abitato sorge sul principale corridoio di trasporto che collega la parte orientale e quella occidentale della provincia. Il nemico ha radunato una forza imponente per conquistare il passo. Il vostro gruppo di combattimento deve mantenere la linea per il tempo stabilito.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Il centro abitato sorge sul principale corridoio di trasporto che collega la parte orientale e quella occidentale della provincia. Il nemico ha radunato una forza imponente per conquistare il passo. Il vostro gruppo di combattimento deve respingere l'attacco nemico a tutti i costi. Non permettete ai nemici di conquistare la posizione.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Artillery_inf_support]
+L'artiglieria di riserva è disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Il gruppo corazzato è a vostra disposizione.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Il gruppo corazzato di riserva è ai vostri ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Il gruppo corazzato di riserva è ai vostri ordini.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Il supporto di artiglieria è a vostra disposizione.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Il supporto di artiglieria è a vostra disposizione.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva è ai vostri ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è a vostra disposizione.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è a vostra disposizione.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortai disponibili.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortai disponibili.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Conquistare il centro abitato.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Il vostro gruppo di combattimento deve infiltrarsi nel passo di montagna e conquistare un centro abitato nella valle che il nemico ha fortificato.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Conquistare il centro abitato.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Il vostro distaccamento avanzato deve raggiungere a marcia forzata l'area segnata sulla mappa e conquistare il centro abitato prima dell'arrivo dell'avanguardia nemica. Eliminate rapidamente gli eventuali nemici e mettete in sicurezza il luogo. Poi preparatevi subito a respingere l'attacco del grosso delle forze nemiche.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Respingete tutti gli attacchi nemici e impedite ai nemici di conquistare il centro abitato.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Il centro abitato sorge sul principale corridoio di trasporto che collega la parte orientale e quella occidentale della provincia. Il nemico ha radunato una forza imponente per conquistare il passo. Il vostro gruppo di combattimento deve respingere l'attacco nemico a tutti i costi. Non permettete ai nemici di conquistare la posizione.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Respingete tutti gli attacchi nemici e impedite ai nemici di conquistare il centro abitato.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Il centro abitato sorge sul principale corridoio di trasporto che collega la parte orientale e quella occidentale della provincia. Il nemico ha radunato una forza imponente per conquistare il passo. Il vostro gruppo di combattimento deve respingere l'attacco nemico a tutti i costi. Non permettete ai nemici di conquistare la posizione.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Mantenete il centro abitato per il tempo stabilito.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Un distaccamento avanzato nemico intende lanciare un attacco in movimento contro un centro abitato tattico. Mantenete il centro abitato per il tempo stabilito, fino all'arrivo delle nostre forze principali.
+
+[Reinforcement.Group1[Reinforcement]]
+Mezzi corazzati e fanteria
+
+[Reinforcement.Group2[Reinforcement]]
+
+

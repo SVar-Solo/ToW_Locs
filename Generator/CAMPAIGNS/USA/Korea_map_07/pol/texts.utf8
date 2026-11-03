@@ -1,0 +1,177 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Zniszcz umocnienia wroga i zdobądź wzgórze.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Zniszcz umocnienia wroga i zdobądź wzgórze. Odpieraj wszystkie kontrataki wroga.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Wróg dysponuje w tym rejonie silnymi umocnieniami. Pierwszy odcinek linii natarcia jest stosunkowo płaski, więc dostępne będzie wsparcie czołgów. Drugi odcinek natarcia będzie jednak przeprowadzany wyłącznie przez piechotę. Twoim głównym celem jest zaznaczone na mapie wzgórze.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Wróg dysponuje w tym rejonie silnymi umocnieniami. Pierwszy odcinek linii natarcia jest stosunkowo płaski, więc dostępne będzie wsparcie czołgów. Drugi odcinek natarcia będzie jednak przeprowadzany wyłącznie przez piechotę. Twoim głównym celem jest zaznaczone na mapie wzgórze. Bądź gotów: według dowództwa wróg może przeprowadzić kontrataki.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Wzgórze zdobyte.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Wzgórze zdobyte.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Wojska zostały rozbite i wycofują się.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Wojska zostały rozbite i wycofują się.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Utrzymaj zaznaczone na mapie wzgórze. Zaminuj wszystkie podejścia.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Swoją piechotą utrzymaj wzgórze w trudno przejezdnym rejonie świątyni. Pamiętaj, że wróg również nie będzie mógł użyć ciężkich pojazdów pancernych. Wyznacz grupy do układania min i ochrony tyłów oraz zaminuj wszystkie podejścia.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Wzgórze utracone.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Utrzymaj zaznaczone na mapie wzgórze. Zaminuj wszystkie podejścia.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Utrzymaj zaznaczone na mapie wzgórze do odwołania.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Swoją piechotą utrzymaj wzgórze w trudno przejezdnym rejonie świątyni. Pamiętaj, że wróg również nie będzie mógł użyć ciężkich pojazdów pancernych. Wyznacz grupy do układania min i ochrony tyłów oraz zaminuj wszystkie podejścia.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Swoją piechotą utrzymaj wzgórze w trudno przejezdnym rejonie świątyni. Pamiętaj, że wróg również nie będzie mógł użyć ciężkich pojazdów pancernych. Wyznacz grupy do układania min i ochrony tyłów oraz zaminuj wszystkie podejścia.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Wzgórze utracone.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Wzgórze utracone.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Wsparcie lotnicze jest dostępne.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Piechota w rezerwie jest dostępna.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Piechota w rezerwie jest dostępna.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Wsparcie artylerii jest w pogotowiu.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Wsparcie artylerii jest w pogotowiu.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Siły śmigłowcowe
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Zniszcz umocnienia wroga i zdobądź wzgórze.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Zdobądź wzgórze i wyeliminuj wszystkich wrogów. Uważaj na swoje pojazdy pancerne i piechotę w trudnym górskim terenie. Do rozpoznania możesz używać śmigłowców.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Zdobądź wzgórze.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Rozpoznanie lotnicze wykryło prawdopodobnie wysunięty oddział wroga. Musisz zdobyć wzgórze przed Koreańczykami. Użyj śmigłowców, aby szybko przerzucić swoje wojska.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Utrzymaj wzgórze za wszelką cenę i odpieraj wszystkie ataki wroga. Teren jest trudny, więc stosuj miny i środki walki z czołgami w walce wręcz.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Utrzymaj wzgórze za wszelką cenę i odpieraj wszystkie ataki wroga. Teren jest trudny, więc stosuj miny i środki walki z czołgami w walce wręcz.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Użyj śmigłowców, aby zdobyć taktycznie ważne wzgórze, zanim dotrze do niego wróg. Następnie zorganizuj obronę i odpieraj wszystkie ataki wroga. Broń wzgórza przez wyznaczony czas, do przybycia głównych sił.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Zdobądź zaznaczone na mapie wzgórze.
+

@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Zerstören Sie die deutsche Artillerie auf der Anhöhe. Schlagen Sie alle feindlichen Angriffe zurück.
+[Mission.Description]
+Die Deutschen haben eine Artillerie Batterie auf der Anhöhe vor uns aufgestellt, um die Strassen in Richtung Warschau absichern zu können. Sie wollen verhindern, dass unsere Einheiten die Hauptstadt verstärken können. Das deutsche Oberkommando erwartete keinen Angriff gegen die vorrückende 8. Armee, als haben wir jetzt eine Chance ihnen einen empfindlichen Schlag beizubringen.    
+
+Ihre Befehle lauten: 
+-	 Zerstören Sie die deutsche Artillerie 
+-	 Schlagen Sie alle feindlichen Angriffe zurück 
+[Mission.Success]
+Mission erfüllt!
+[Mission.Failed]
+Sie sind gescheitert!
+[Submission_1.Objectives]
+Zerstören Sie die deutsche Artillerie Batterie.
+[Submission_1.Description]
+Eine deutsche Geschütz Batterie befindet sich auf der Anhöhe. Das Feuer von dieser Batterie verhindert, dass unsere Truppen weiter vorrücken können. 
+
+Befehle:	
+-	 Zerstören Sie die feindliche Geschütz Batterie und besetzen Sie die Anhöhe.
+[Submission_1.Success]
+Aufgabe erfüllt.
+[Submission_1.Failed]
+Sie haben Ihre Mission nicht erfüllt!
+[Submission_2.Objectives]
+Deutsche Panzer und Infanterie wurden entdeckt. Greifen Sie sie umgehend an!
+[Submission_2.Description]
+Unsere Späher haben deutsche Panzer unterstützt durch Infanterie entdeckt. Um unseren Vormarsch fortsetzen zu können ist es wichtig, sie zu eliminieren. 
+
+Befehle:
+-	 Stoppen Sie den neu erkannten Feind, gehen Sie in Stellung und eliminieren Sie den Feind.
+[Submission_2.Success]
+Der Angriff wurde gestoppt.
+[Submission_2.Failed]
+Sie haben Ihre Mission nicht erfüllt.
+[Submission_3.Objectives]
+Gehen Sie auf der Anhöhe in Stellung und schlagen Sie die deutschen Gegenangriffe zurück.
+[Submission_3.Description]
+Die deutsche Artillerie Batterie wurde neutralisiert, aber der Feind bereitet schon einen Gegenangriff vor, um die verlorene Stellung wieder zu erobern.
+
+Ihre Befehle:
+-	 Gehen Sie auf der Anhöhe in Stellung und schlagen Sie die deutschen Gegenangriffe zurück.
+[Submission_3.Success]
+Der feindliche Gegenangriff ist gescheitert. Gut gemacht!
+[Submission_3.Failed]
+Sie haben schwere Verluste erlitten. Wir sind geschlagen!
+[StringTable.reserv]
+Verstärkungen sind eingetroffen!

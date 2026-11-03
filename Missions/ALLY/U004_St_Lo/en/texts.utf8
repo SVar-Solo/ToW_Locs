@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Liberate the town northeast of the enemy main positions.
+[Mission.Description]
+Germans have created and reinforced defensive positions near Saint-Lo. According to our air recon data, the enemy concentrated the main forces of the 7th army in this area. The terrain is suitable for ambushes and minor defensive strongholds so we must advance cautiously.
+
+Your orders are: 
+- 	Conduct a probing action using tanks and infantry.
+- 	Liberate the town located to the northeast. 
+[Mission.Success]
+The mission has been accomplished! Operation Cobra continues.
+[Mission.Failed]
+The mission has failed. 
+[Submission_1.Objectives]
+Conduct a probing action into the two villages on the outskirts of Saint-Lo. 
+[Submission_1.Description]
+The enemy has concentrated his main defensive forces on the hills near the town. Two villages are located in the way of our forces’ offensive. We have no data on the enemy presence there. 
+
+Your orders:
+- 	Conduct probing actions into the two villages. 
+[Submission_1.Success]
+The probing actions have been conducted. The enemy is defeated. 
+[Submission_1.Failed]
+The mission has failed.
+[Submission_2.Objectives]
+Attack the main defensive fortifications on the hill. 
+[Submission_2.Description]
+The enemy has set up a line of defense along the approaches to the town, using the surrounding hills. 
+
+Your orders:
+-	Destroy the enemy defenses on the hill.
+[Submission_2.Success]
+The mission has been accomplished. 
+[Submission_2.Failed]
+The mission has failed.
+[Submission_3.Objectives]
+Capture the town of Saint-Lo. 
+[Submission_3.Description]
+The town of Saint-Lo has a great strategic importance. This is a key to any further advances into France. 
+ 
+Your orders:
+-	Liberate the town of Saint-Lo, by destroying the enemy garrison defending it.
+[Submission_3.Success]
+The ambush has been destroyed! 
+[Submission_3.Failed]
+The mission has failed.
+[Submission_4.Objectives]
+Destroy the enemy artillery battery.
+[Submission_4.Description]
+Germans have smartly positioned their artillery. All approaches to the town can be swept with fire from the hill where the enemy battery is located. 
+
+Your orders:
+- 	Destroy the enemy artillery battery on the hill. 
+[Submission_4.Success]
+The artillery battery has been destroyed. 
+[Submission_4.Failed]
+The mission has failed.
+[StringTable.Reserv]
+Reinforcements have arrived.

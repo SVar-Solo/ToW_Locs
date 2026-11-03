@@ -1,0 +1,17 @@
+﻿[Mission.Description]
+L'11 agosto 1944, alle 3.00, l'avanguardia della 95ª Divisione fucilieri della Guardia (95ª sd della Guardia), che occupava l'autostrada Chmel'nik-Szydlov nella zona di Skadla-Rachice, fu attaccata da un grosso gruppo di carri nemici e fanteria motorizzata. Nel corso della battaglia il distaccamento subì pesanti perdite e fu respinto in direzione sudorientale. Il nemico continua ad avanzare in direzione di Szydlov. È stato ricevuto un ordine: "Con le forze del 1076º IPTAP, portarsi nella direzione minacciata e respingere gli attacchi dei carri nemici."
+[StringTable.1]
+Ordine di combattimento: attestarsi in difesa sugli accessi alla città di Szydlov e respingere gli attacchi di carri armati e fanteria motorizzata.
+[StringTable.2]
+La 2ª batteria si è avvicinata al campo di battaglia.
+[StringTable.3]
+Le batterie hanno subito pesanti perdite. I combattenti superstiti devono ripiegare verso la zona di Szydlov.
+[StringTable.4]
+L'ordine è stato eseguito, gli attacchi dei carri nemici sono stati respinti.
+
+
+
+[Mission.Objectives]
+Tenere le posizioni
+[Mission.Success]
+[Mission.Failed]

@@ -1,0 +1,34 @@
+﻿ai_messages.Command_Incomplete	명령을 수행할 수 없음
+ai_messages.Soldier_Death	전사
+ai_messages.Soldier_Under_Attack	병사가 공격받는 중
+ai_messages.Soldier_No_Ammo	병사 탄약 소진
+ai_messages.Soldier_No_Weapon	무기 없음
+ai_messages.Soldier_No_Point_In_LOF	사선 없음
+ai_messages.Soldier_In_Panic	공황 상태
+ai_messages.Vehicle_Death	차량 파괴됨
+ai_messages.Vehicle_No_Crew	차량에 승무원 없음
+ai_messages.Artillery_Death	포 파괴됨
+ai_messages.Artillery_No_Ammo	포 탄약 소진
+ai_messages.Artillery_No_Weapon	포 파괴됨
+ai_messages.Artillery_No_Point_In_LOF	사선 없음
+ai_messages.Tankman_Under_Attack	차량이 공격받는 중
+ai_messages.Tankman_No_Ammo	차량 탄약 소진
+ai_messages.Tankman_No_Weapon	차량 무장 파괴됨
+ai_messages.Tankman_Damage_Engine	차량 기동 불능
+ai_messages.Tankman_Blocked	차량 진로 차단됨
+ai_messages.Tankman_In_Panic	공황 상태
+ai_messages.Tankman_No_Point_In_LOF	사선 없음
+ai_messages.Driver_Damage_Engine	차량 기동 불능
+ai_messages.Driver_Blocked	차량 진로 차단됨
+ai_messages.Shooter_Not_Skilled	미숙한 사수
+ai_messages.Driver_Not_Skilled	미숙한 운전수
+ai_messages.Tankman_Stucked	차량 수렁에 빠짐
+ai_messages.Artillery_Stucked	수렁에 빠짐
+ai_messages.Mine_Defuse	지뢰 해체됨
+ai_messages.Mine_Place	지뢰 매설됨
+ai_messages.Mine_Detected	지뢰 발견
+ai_messages.Repair_Started	수리 시작
+ai_messages.Repair_Finished	수리 완료
+ai_messages.Hold_Captive	포로로 잡힘
+ai_messages.Free_Captive	포로에서 풀려남
+ai_messages.Panic_Message	공황 상태

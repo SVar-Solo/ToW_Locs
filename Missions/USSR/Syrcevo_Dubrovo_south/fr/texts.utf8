@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Tenez les positions défensives sur la ligne Doubrova – Solonets. Empêchez les chars ennemis de percer jusqu’à Syrtsev.
+[Mission.Description]
+Avec une batterie d’artillerie antichar, une unité de fusils antichars et des chars, tenez la zone de défense. Une priorité particulière doit être accordée au maintien des positions dans le village. Utilisez les chars pour des embuscades.
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+Nos forces se replient sous les coups d’un ennemi supérieur en nombre.
+[Submission1.Objectives]
+Repoussez l’attaque ennemie à l’aide d’embuscades de chars.
+[Submission1.Success]
+Les chars ennemis ont été détruits.
+[Submission1.Failed]
+Nos chars ont été détruits, l’ennemi poursuit son avance.
+[Submission2.Objectives]
+Préparez-vous à repousser la prochaine attaque. Les chars se replient sur des positions de tir auxiliaires ! 
+[Submission2.Success]
+Mission accomplie. Toutes les attaques ennemies ont été repoussées.
+[Submission2.Failed]
+Nos chars ont été détruits, l’ennemi poursuit son avance.
+[Submission3.Objectives]
+Contre-attaquez l’ennemi. Rétablissez la ligne de front ! Empêchez les chars et l’infanterie motorisée ennemis de percer jusqu’à nos arrières.
+[Submission3.Success]
+Mission accomplie, la ligne de front a été rétablie.
+[Submission3.Failed]
+Contre-attaque repoussée, l’ennemi poursuit son avance.
+[StringTable.Tanks!]
+Des chars ! Tirez à la plus courte distance possible sur leurs flancs et leur arrière !
+[StringTable.Air!]
+Frappe aérienne ! À couvert !
+
+[StringTable.Tank]
+Chars de la 3e brigade motorisée
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Durchbrechen Sie die Verteidigungslinie Syrtsev - Dubrowo und zerstören Sie den Kommandoposten in Syrtsev.
+[Mission.Description]
+Der Gefechtsverband bewegt sich auf Dubrowo - Syrtsev zu und geht östlich an Syrtsev vorbei. Erobern Sie die feindlichen Stellungen und stoßen Sie zum östlichen Ufer der Pena nördlich von Syrtsev vor. Der sowjetische Kommandoposten muss um jeden Preis zerstört werden.
+[Submission_1.Objectives]
+Brechen Sie durch die Verteidigungslinie Syrtsev - Dubrowo. Sichern Sie das Ziel mithilfe der Infanterie.
+[Submission_2.Objectives]
+Es gibt einen feindlichen Kommandoposten im Dorf Syrtsev. Sie müssen den Vorstoß weiter vorantreiben und den Kommandoposten zerstören.
+[Submission_1.Success]
+Feindliche Verteidigungslinie wurde eingenommen.
+[Submission_1.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[Submission_2.Success]
+Feindlicher Kommandoposten wurde zerstört. Syrtsev wurde von unseren Truppen besetzt.
+[Submission_2.Failed]
+Der Angriff wurde aufgehalten, sofortige Unterstützung wird benötigt.
+[Mission.Success]
+Die feindliche Verteidigungslinie Syrtsev - Dubrowo wurde durchbrochen. Der feindliche Kommandoposten in Syrtsev wurde zerstört.
+[Mission.Failed]
+Wir waren nicht in der Lage, unsere Befehle auszuführen. Der Feind ist zu stark! 
+[StringTable.Ger_infantry]
+Reserve-Infanterieeinheit steht jetzt unter Ihrem Kommando.
+[StringTable.Ger_support]
+Panzer, Selbstfahrlafetten und Infanterieeinheiten sind in der Reserve. Sie erhalten das Kommando über sie, wenn der Angriff erfolgreich begonnen wurde.
+
+[StringTable.Inf]
+Infanterie
+[StringTable.Tanks]
+Panzer
+[StringTable.SPG]
+Selbstfahrlafetten
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

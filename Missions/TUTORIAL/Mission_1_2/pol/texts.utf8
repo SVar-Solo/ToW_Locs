@@ -1,0 +1,110 @@
+﻿[Submission_1.Objectives]
+Określanie widoczności bezpośredniej i pośredniej.
+
+[Submission_1.Description]
+Masz do dyspozycji dwóch żołnierzy, ustawionych w pewnej odległości od siebie. Po stronie wroga z miejscowości wyjeżdża czołg Pz.IV F2. W trakcie ruchu różne przeszkody (domy, drzewa i inne obiekty) zasłaniają ten czołg Twoim jednostkom.
+
+[Submission_1.Success]
+Zadanie wykonane!
+
+[Submission_1.Failed]
+Zadanie nieudane!
+
+[StringTable.Direct_undirect_vis]
+Jeden z żołnierzy widzi wrogi czołg w bezpośredniej linii widzenia; po zaznaczeniu tego żołnierza ikona czołgu staje się jaskrawoczerwona. Drugi żołnierz nie widzi czołgu bezpośrednio, mimo że odległość pozwalałaby go dostrzec. Jest to możliwe, ponieważ na mapie znajdują się obiekty zasłaniające widok. W tym przypadku ikona czołgu u tego żołnierza staje się półprzezroczysta. Oznacza to, że żołnierz, który ma czołg w bezpośredniej linii widzenia, „wskazuje” go temu, który nie widzi go bezpośrednio. Gdy zaznaczenie zostanie zdjęte z obu żołnierzy albo zaznaczonych jest naraz kilka jednostek, ikona czołgu staje się jaskrawoczerwona. W takiej sytuacji obie Twoje jednostki mogą strzelać do celu, jeśli istnieje linia ognia.
+
+[StringTable.unvis]
+Czołg jest niewidoczny dla wszystkich Twoich jednostek. W takiej sytuacji żadna z nich nie może strzelać bezpośrednio do wrogiego celu. Przez pewien czas Twoje jednostki będą „pamiętać” położenie wroga; wtedy ikona nad wrogiem zmieni wygląd.
+Trawa, krzaki i drzewa, także powalone, również stanowią przeszkody dla widoczności. Można to wykorzystać taktycznie, ale zwróć uwagę na rozmiar koron i wysokość trawy, aby ocenić, czy Twoja jednostka będzie za nimi ukryta. Jeśli otworzysz ogień, maskowanie na pewien czas przestaje działać.
+Oprócz widoczności bezpośredniej, z pewnej odległości piechota może określić przybliżone położenie wroga po dźwięku, jeśli wróg strzela, porusza się lub obraca wieżę.
+
+[StringTable.Direct_vis]
+Dla wszystkich Twoich jednostek czołg znajduje się w bezpośredniej linii widzenia. Spróbuj zaznaczać kolejno wszystkie swoje jednostki. Ikona czołgu jest zawsze jaskrawoczerwona. W takiej sytuacji, jeśli istnieje linia ognia, każda z Twoich jednostek może strzelać do celu.
+Gdy w ustawieniach włączona jest „linia widzenia”, możesz sprawdzić linię ognia za pomocą jednego z poleceń – „atak” {hkey:attack}, „szturm” {hkey:storm} lub „ostrzał obszarowy” {hkey:groundattack}. Po włączeniu polecenia i przed wydaniem rozkazu od Twojej jednostki do kursora myszy pokaże się strzałka. Czerwony kolor strzałki oznacza odcinek, na którym nie ma przeszkód na linii ognia; czarny – odcinek za przeszkodą. W przypadku sprzętu obok kursora myszy pojawi się podpowiedź wyjaśniająca, dlaczego nie ma linii ognia. Jeśli przesuniesz kursor poza sektory widzenia jednostki, część strzałki będzie niebieska.
+
+[StringTable.ENTER]
+Gra pozwala przypiąć kamerę do Twojej jednostki. Kamera może się swobodnie obracać. Możesz też zaznaczyć dowolną inną jednostkę (grupę jednostek) i sterować nią. Po naciśnięciu {hkey:bindcamera} kamera przemieszcza się i przypina do jednostki; po naciśnięciu {hkey:linkcamera} kamera przypina się do jednostki, zachowując bieżącą odległość. Ta funkcja działa dla wszystkich jednostek w obrębie strefy gry. Poza strefą gry nie można przypiąć kamery do jednostki.
+
+[Mission.Objectives]
+Osobliwości wizualizacji widoczności w grze.
+
+[Mission.Description]
+Na przykładzie dwóch Twoich żołnierzy i poruszającego się wrogiego czołgu symulowane są różne warianty wyświetlania wrogiej jednostki w różnych warunkach widoczności. W szczególności:
+- obie jednostki gracza widzą wrogi czołg bezpośrednio;
+- jedna z jednostek gracza widzi wrogi czołg w bezpośredniej linii widzenia, a druga nie widzi wroga „bezpośrednio”;
+- obaj żołnierze nie widzą wrogiego czołgu.
+
+							   
+									  
+										  
+[Mission.Success]
+Zadanie wykonane!
+
+[Mission.Failed]
+Zadanie nieudane!
+
+[Submission_2.Objectives]
+Przypinanie kamery bezpośrednio do jednostki.
+
+[Submission_2.Description]
+Na mapie znajdują się dwie jednostki sojusznicze i dwie wrogie. Jedna z wrogich jednostek jest poza strefą gry. Gra pozwala przypiąć kamerę do dowolnej jednostki, także wrogiej, znajdującej się wewnątrz strefy gry. Nie można przypiąć kamery do jednostek poza strefą gry.
+
+[Submission_2.Success]
+Zadanie wykonane!
+
+[Submission_2.Failed]
+Zadanie nieudane!
+
+[StringTable.Line_of_Fire]
+Oddano Ci do dyspozycji działo. W większości przypadków, jeśli wroga jednostka znajduje się w bezpośredniej linii widzenia działa, istnieje linia ognia. Zdarzają się jednak sytuacje, gdy jest widoczność bezpośrednia, ale brak linii ognia – powodem jest przeszkoda na linii ognia działa (fałd terenu, płot itp.) albo to, że działa nie da się wycelować w cel z powodu niewystarczającego kąta nachylenia lub podniesienia lufy. Jeśli działo nie widzi wrogiej jednostki bezpośrednio, ale widzi ją bezpośrednio jednostka Twojej armii, linia ognia z reguły nie istnieje, lecz zdarzają się sytuacje, gdy działo nie widzi wroga bezpośrednio, a mimo to ma linię ognia. Najczęściej dzieje się tak, gdy wroga jednostka znajduje się w odległości większej niż zasięg widzenia albo gdy wróg jest ukryty za roślinnością. W takim przypadku działo może strzelać.
+
+[Submission_3.Objectives]
+Zniszcz wrogi czołg.
+
+[Submission_3.Description]
+Masz do dyspozycji działo. Zniszcz wrogi czołg.
+
+[Submission_3.Success]
+Zadanie wykonane!
+
+[Submission_3.Failed]
+Zadanie nieudane!
+
+[StringTable.Howitzer_1]
+Przejmij dowodzenie baterią artylerii. Może ona prowadzić ogień pośredni z pozycji zakrytej, jeśli pozwala na to trajektoria pocisku. Stromość trajektorii zależy od prędkości początkowej pocisku. Im niższa prędkość, tym łatwiej przerzucić pocisk ponad fałdami terenu na krótkim dystansie. Czasem trzeba będzie starannie dobrać odpowiednie stanowisko dla działa, aby mogło ostrzeliwać wymagany rejon.
+
+[StringTable.Howitzer_2]
+Jeśli zaznaczona jest tylko jedna jednostka, po najechaniu kursorem na wroga obliczona zostanie trajektoria, a typ ikony przy kursorze pokaże, czy ostrzał jest możliwy. Obliczenie trajektorii uwzględnia prędkość początkową aktualnego pocisku, dlatego wymuś wybór pocisków odłamkowo-burzących (HE), klikając prawym przyciskiem ikonę pocisku na panelu uzbrojenia, ponieważ mają one niższą prędkość początkową. Spróbuj unieszkodliwić lekki sprzęt wroga poleceniem „Ostrzał obszarowy” {hkey:groundattack}. Jeśli zaznaczona jest tylko jedna jednostka, po włączeniu polecenia pojawi się linia ze strzałką pokazująca, czy istnieje bezpośrednia widoczność do kursora, a typ ikony przy kursorze wskazuje, czy do tego punktu istnieje trajektoria pośrednia. Możesz wskazać pojedynczy punkt albo wyznaczyć obszar ostrzału, przytrzymując prawy przycisk myszy.
+
+[Submission_4.Objectives]
+Unieszkodliwij grupę lekkiego sprzętu wroga.
+
+[Submission_4.Description]
+Masz do dyspozycji baterię artylerii. Unieszkodliwij grupę wrogich pojazdów.
+
+[Submission_4.Success]
+Zadanie wykonane!
+
+[Submission_4.Failed]
+Zadanie nieudane!
+
+[StringTable.Tank_Vis_Line_1]
+Przejmij dowodzenie czołgiem M3 „Lee”.
+Każde stanowisko załogi w pojeździe może być wyposażone w przyrządy optyczne lub szczeliny obserwacyjne, przez które członek załogi patrzy na zmianę. Przyrządy optyczne mogą zostać uszkodzone; informacje o ich stanie znajdziesz w podpowiedzi po najechaniu kursorem na miejsce członka załogi na dolnym panelu informacyjnym interfejsu. Przyrządy obserwacyjne mają ograniczony sektor widzenia w pionie i w poziomie oraz mogą dawać powiększenie optyczne, brak powiększenia lub ograniczoną widoczność. Odsłonięci członkowie załogi obserwują bez przyrządów optycznych, jak zwykła piechota.
+
+[StringTable.Tank_Vis_Line_2]
+Zmień pozycję swojego czołgu i unieszkodliwij wrogiego Pz IV.
+Celowniczy w wieży nie może strzelać z 37-mm działa, ponieważ nie ma pocisków, ale obserwuje przez swoje przyrządy optyczne i dostrzegł czołg z przodu, częściowo ukryty za fałdem terenu. Działo w sponsonie może strzelać, lecz nie ma linii ognia.
+Aby sprawdzić linię ognia konkretnego działa w czołgu, zaznacz je, klikając lewym przyciskiem ikonę działa na panelu uzbrojenia, a następnie użyj jednego z poleceń (na przykład „atak” {hkey:attack}, „szturm” {hkey:storm} lub „ostrzał obszarowy” {hkey:groundattack}), by sprawdzić linię ognia.
+
+[Submission_5.Objectives]
+Unieszkodliwij wrogi czołg.
+
+[Submission_5.Description]
+Masz do dyspozycji czołg M3 „Lee”. Unieszkodliwij wrogi czołg.
+
+[Submission_5.Success]
+Zadanie wykonane!
+
+[Submission_5.Failed]
+Zadanie nieudane!

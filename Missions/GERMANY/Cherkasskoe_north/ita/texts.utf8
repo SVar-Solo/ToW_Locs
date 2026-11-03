@@ -1,0 +1,47 @@
+﻿[StringTable.Hoerlein]
+Iniziate l'attacco dopo che i bombardieri in picchiata avranno finito di bombardare le posizioni russe nel villaggio.
+[StringTable.Nebelwerfer_support]
+Un gruppo di lanciarazzi è pronto a sostenere la nostra avanzata.
+[Mission.Objectives]
+Occupare la parte settentrionale di Cerkasskoe. Distruggere le forze nemiche nella zona.
+[Mission.Description]
+Il gruppo di combattimento occuperà Cerkasskoe con un attacco congiunto di carri armati, semoventi d'assalto e fanteria. Occupata la prima posizione, essere pronti a respingere i contrattacchi di carri e semoventi nemici dai fianchi.
+[Mission.Success]
+Cerkasskoe è stata occupata, le forze nemiche sono state distrutte.
+[Mission.Failed]
+Non siamo riusciti a eseguire gli ordini. Il nemico è troppo forte!
+[Submission_2_1.Objectives]
+Respingere i contrattacchi nemici, distruggere carri armati e semoventi d'assalto.
+[Submission_2_1.Success]
+I carri armati russi sono stati distrutti!
+[Submission_2_1.Failed]
+Le nostre forze ripiegano sotto la pressione del nemico.
+[Submission_2_2.Objectives]
+Respingere i contrattacchi nemici, distruggere carri armati e semoventi d'assalto.
+[Submission_2_2.Success]
+I carri armati russi sono stati distrutti!
+[Submission_2_2.Failed]
+Le nostre forze ripiegano sotto la pressione del nemico.
+[Submission_3.Objectives]
+Il fuoco dei mortai russi ostacola la nostra avanzata. La ricognizione aerea indica che le loro postazioni di tiro si trovano nel boschetto a nordovest di Cerkasskoe. È necessario occupare quelle posizioni o neutralizzare i mortai con il fuoco di controbatteria. 
+[Submission_3.Success]
+La batteria di mortai nemica è stata distrutta.
+[Submission_3.Failed]
+Non siamo riusciti a distruggere i mortai nemici.
+[Submission_4.Objectives]
+Distruggere i cannoni anticarro russi a nordest di Cerkasskoe.
+[Submission_4.Success]
+Il caposaldo anticarro russo è stato distrutto.
+[Submission_4.Failed]
+L'attacco si è arenato, è necessario un supporto immediato.
+[StringTable.Hoerlein]
+Iniziate l'attacco dopo che i bombardieri in picchiata avranno colpito le posizioni russe nel villaggio.
+[StringTable.Tanks]
+Carri armati e fanteria
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

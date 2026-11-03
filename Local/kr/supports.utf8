@@ -1,0 +1,273 @@
+﻿Support.Art_120mm_mod_1941_HE_6units	박격포 120mm
+Support.Art_82mm_mod_1941_HE	박격포 82mm
+Support.Art_82mm_mod_1941_Smoke	박격포 82mm (연막탄)
+Support.Art_Mortar_Fr_81mm_Mortar	박격포 81mm
+Support.Art_Mortar_Ger_120mm_GrW_42	박격포 120mm GrW 42
+Support.Art_Mortar_Ger_81mm_GrW_34	박격포 81mm GrW 34
+Support.Art_Mortar_Ger_81mm_Smoke	박격포 81mm 연막탄
+Support.Art_Mortar_Pol_81mm_Mortar_mod_1931	박격포 81mm 1931년형
+Support.Art_Mortar_Rus_120mm_mod_1938	박격포 120mm 1938년형
+Support.Art_Mortar_Rus_82mm_mod_1941	박격포 82mm 1941년형
+Support.Art_Mortar_UK_107mm_4_2_inch_HE	박격포 107mm 4 2인치 HE
+Support.Art_Mortar_UK_107mm_4_2_inch_Smoke	박격포 107mm 4 2인치 연막탄
+Support.Art_Mortar_UK_76_2mm_3inch	박격포 76 2mm 3인치
+Support.Art_Mortar_UK_81mm_3_inch_Mortar_HE	박격포 3 인치
+Support.Art_Mortar_UK_81mm_3_inch_Smoke	박격포 81mm 3인치 연막탄
+Support.Art_Mortar_USA_107mm_4_2_inch_HE	박격포 107mm M30
+Support.Art_Mortar_Usa_81mm_M1_smoke	박격포 81mm M1 (연막탄)
+Support.Art_Mortar_Usa_81mm_Mortar_M1	박격포	81mm M1
+Support.Art_Support_132mm_BM_13	132mm BM-13 "카추샤" 로켓포 포대
+Support.Art_Support_15cm_Nebelwerfer_41	150mm Nb.41 로켓포 포대
+Support.Art_Support_15cm_Nebelwerfer_41.short	150mm Nb.41 포대
+Support.Art_Support_Fr_105mm_K_17_HE_8units_5calls	포병 105mm K HE
+Support.Art_Support_Ger_105mm_leFH18M_L28_HE_16units_5calls	포대 105mm leFH18M (16문)
+Support.Art_Support_Ger_105mm_leFH18M_L28_HE_8units_5calls	포병 105MM HE
+Support.Art_Support_Ger_105mm_Smoke_8units_5calls	포병 105mm 연막탄
+Support.Art_Support_Ger_150mm_sFH18_1_L30_HE_16units_5calls	포대 150mm sFH18 (16문)
+Support.Art_Support_Ger_150mm_sFH18_1_L30_HE_32units_5calls	포병 연대 150mm sFH18 (32문)
+Support.Art_Support_Ger_150mm_sFH18_1_L30_HE_8units_5calls	포병 150mm HE
+Support.Art_Support_Ita_105mm_Cannone_da_105_28_HE_18units_5calls	포병 18 문 105mm HE
+Support.Art_Support_Ita_105mm_Cannone_da_105_28_HE_8units_5calls	포병 8 문 105mm HE
+Support.Art_Support_Pol_105mm_K_17_HE_8units_5calls	포병 105mm K HE
+Support.Art_Support_Rus_122mm_M_30_HE_12units_5calls	포대 122mm M-30 (12문)
+Support.Art_Support_Rus_122mm_M_30_HE_16units_5calls	포대 122mm M-30 (16문)
+Support.Art_Support_Rus_122mm_M_30_HE_16units_5calls.short	16x122mm M-30
+Support.Art_Support_Rus_122mm_M_30_HE_8units_5calls	포대 122mm M-30 (8문)
+Support.Art_Support_Rus_122mm_M_30_HE_8units_5calls.short	8x122mm M-30
+Support.Art_Support_Rus_152mm_M_10_HE_8units_5calls	포병 152mm HE
+Support.Art_Support_Rus_152mm_ML_20_HE_16units_5calls	포대 152mm ML-20 (16문)
+Support.Art_Support_Rus_152mm_ML_20_HE_16units_5calls.short	16x152mm ML-20
+Support.Art_Support_Rus_152mm_ML_20_HE_32units_5calls	4 대대 152mm ML-20 (32문)
+Support.Art_Support_Rus_152mm_ML_20_HE_8units_5calls	포대 152mm ML-20 (8문)
+Support.Art_Support_Rus_152mm_ML_20_HE_8units_5calls.short	8x152mm ML-20
+Support.Art_Support_UK_105mm_Howitzer_M2A1_HE_8units_5calls	포병 105mm M2A1 HE
+Support.Art_Support_UK_105mm_Smoke_8units_5calls	포병 105mm 연막탄
+Support.Art_Support_UK_87mm_25pdr_gun_howitzer_16units_5calls	포대 87mm 25pdr (16문)
+Support.Art_Support_UK_87mm_25pdr_gun_howitzer_8units_5calls	포대 87mm 25pdr (8문)
+Support.Art_Support_UK_87mm_25pdr_gun_howitzer_Smoke_8units_5calls	포대 87mm 25pdr (8문, 연막탄)
+Support.Art_Support_UK_BL_5_5_Inch_Mk_II_16units_5calls	포대 140mm BL 55 (16문)
+Support.Art_Support_UK_BL_5_5_Inch_Mk_II_32units_5calls	포대 140mm BL 55 (32문)
+Support.Art_Support_UK_BL_5_5_Inch_Mk_II_8units_5calls	포대 140mm BL 55 (8문)
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_16units_5calls	포대 105mm M2A1 (16문)
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_16units_5calls.short	16x105mm M2A1
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_8units_5calls	포대 105mm M2A1 (8문)
+Support.Art_Support_USA_105mm_Howitzer_M2A1_HE_8units_5calls.short	8x105mm M2A1
+Support.Art_Support_USA_105mm_Smoke_8units_5calls	포병 105mm 연막탄
+Support.Art_Support_USA_155mm_Howitzer_M1A2_16units_5calls	포대 155mm M1A2 (16문)
+Support.Art_Support_USA_155mm_Howitzer_M1A2_16units_5calls.short	16x155mm M1A2
+Support.Art_Support_USA_155mm_Howitzer_M1A2_HE_8units_5calls	포대 155mm M1A2 (8문)
+Support.Art_Support_USA_155mm_Howitzer_M1A2_HE_8units_5calls.short	8x155mm M1A2
+
+Support.BattlePlane_A_26_Invader_BattlePlane_Bombs_HVAR	A-26 공격기, 폭탄, 5" 미사일 (4기)
+Support.BattlePlane_A_26_Invader_BattlePlane_Bombs_HVAR.short	4 A-26 (HVAR)
+Support.BattlePlane_A_26_Invader_Bomber	A-26 폭격기 (4기)
+Support.BattlePlane_A_26_Invader_Bomber.short	4 A-26
+Support.BattlePlane_Fr_Hawk_75A_4_2units_5calls	항공기 Hawk 75A
+Support.BattlePlane_Ger_Bf_110C_4B_2units_5calls	항공기 Bf 110C (2기)
+Support.BattlePlane_Ger_Bf_110C_4B_4units_5calls	항공기 Bf 110C (4기)
+Support.BattlePlane_Ger_Fw_190	항공기 FW 190
+Support.BattlePlane_Ger_Fw_190_2units	항공기 FW 190 (2기)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_1xSC_250_Kursk1943_2units	공격기 Fw-190A 1xSD-250 (2기)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_1xSC_250_Kursk1943_4units	공격기 Fw-190A 1xSD-250 (4기)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_28xSD_10_Kursk1943_2units	공격기 Fw-190A 28xSD-10 (2기)
+Support.BattlePlane_Ger_Fw_190A_5_2xMG_151_28xSD_10_Kursk1943_4units	공격기 Fw-190A 28xSD-10 (4기)
+Support.BattlePlane_Ger_Hs_129B_2_BK_37_3units	항공기 Hs 129B BK-3,7 (3기)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_Kursk1943_2units	공격기 Hs-129B2 Mk-103 (2기)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_Kursk1943_4units	공격기 Hs-129B2 Mk-103 (4기)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_afrika_2units	공격기 Hs-129B2 Mk-103 아프리카 (2기)
+Support.BattlePlane_Ger_Hs_129B_2_Mk_103_afrika_4units	공격기 Hs-129B2 Mk-103 아프리카 (4기)
+Support.BattlePlane_Ger_Ju-87D-3_1x500_3units_afrika	공격기 Ju-87D3 1xSC-500 아프리카 (3기)
+Support.BattlePlane_Ger_Ju-87D-3_3x250_3units_afrika	공격기 Ju-87D3 3xSD-250 아프리카 (3기)
+Support.BattlePlane_Ger_Ju-87D-3_4x50_1x250_3units_afrika	공격기 Ju-87D3 4xSC-50 + 1xSD-250 아프리카 (3기)
+Support.BattlePlane_Ger_Ju_87D_3_1x500_Kursk1943_3units	공격기 Ju-87D3 1xSC-500 (3기)
+Support.BattlePlane_Ger_Ju_87D_3_3x250_Kursk1943_3units	공격기 Ju-87D3 3xSD-250 (3기)
+Support.BattlePlane_Ger_Ju_87D_3_4x50_1x250_Kursk1943_3units	공격기 Ju-87D3 4xSC-50 + 3xSD-250 (3기)
+Support.BattlePlane_Ger_Ju_87D_3_56xSD_10_1xSD_250_Kursk1943_3units	공격기 Ju-87D3 56xSD-10 + 1xSD-250 (3기)
+Support.BattlePlane_Il_2_M_38_23mm_Vya_4xRBS_132_Kursk1943_2units	공격기 IL-2 M38 23mm VYa + 4xRBS-132 (2기)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR	P-51 전투폭격기, 500lb 폭탄, 5인치 로켓 (4기)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR.short	4 P-51 (500lb, HVAR)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_2units	P-51 전투폭격기, 500lb 폭탄, 5인치 로켓 (2기)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_2units.short	2 P-51 (500lb, HVAR)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_8units	P-51 전투폭격기, 500lb 폭탄, 5인치 로켓 (8기)
+Support.BattlePlane_P_51_Battleplane_Bombs_HVAR_8units.short	8 P-51 (500lb, HVAR)
+Support.BattlePlane_Pol_P_11c_Battleplane_2units_5calls	항공기 P 11C (2기)
+Support.BattlePlane_prk_IL_10_RBS132_PTAB_Gun	IL-10 지상공격기, 4xRBS-132, 대장갑 폭탄 (4기)
+Support.BattlePlane_prk_IL_10_RBS132_PTAB_Gun.short	4 IL-10 (RBS, 대전차 폭탄)
+Support.BattlePlane_prk_IL_10_RS132_AO25_Gun	IL-10 지상공격기, 4xRS-132, 25kg 파편 폭탄 (4기)
+Support.BattlePlane_prk_IL_10_RS132_AO25_Gun.short	4 IL-10 (RS, FAB-25)
+Support.BattlePlane_prk_IL_10_RS132_AO2_5_Gun	IL-10 지상공격기, 4xRS-132, 파편 폭탄 (4기)
+Support.BattlePlane_prk_IL_10_RS132_AO2_5_Gun.short	4 IL-10 (RS, HE 폭탄)
+Support.BattlePlane_prk_IL_10_RS132_FAB250_Gun	IL-10 지상공격기, 4xRS-132, 250kg 고폭 폭탄 (4기)
+Support.BattlePlane_prk_IL_10_RS132_FAB250_Gun.short	4 IL-10 (RS, FAB-250)
+Support.BattlePlane_prk_IL_10_RS132_FAB50_Gun	IL-10 지상공격기, 4xRS-132, 50kg 고폭 폭탄 (4기)
+Support.BattlePlane_prk_IL_10_RS132_FAB50_Gun.short	4 IL-10 (RS, FAB-50)
+Support.BattlePlane_Rus_IL_10_RBS132_PTAB_Gun	IL-10 지상공격기, 4xRBS-132, 대장갑 폭탄 (4기)
+Support.BattlePlane_Rus_IL_10_RBS132_PTAB_Gun.short	4 IL-10 (RBS, 대전차 폭탄)
+Support.BattlePlane_Rus_IL_10_RS132_AO25_Gun	IL-10 지상공격기, 4xRS-132, 25kg 파편 폭탄 (4기)
+Support.BattlePlane_Rus_IL_10_RS132_AO25_Gun.short	4 IL-10 (RS, FAB-25)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun	IL-10 지상공격기, 4xRS-132, 파편 폭탄 (4기)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun.short	4 IL-10 (RS, HE 폭탄)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun_8units	IL-10 지상공격기, 4xRS-132, 파편 폭탄 (8기)
+Support.BattlePlane_Rus_IL_10_RS132_AO2_5_Gun_8units.short	8 IL-10 (RS, HE 폭탄)
+Support.BattlePlane_Rus_IL_10_RS132_FAB250_Gun	IL-10 지상공격기, 4xRS-132, 250kg 고폭 폭탄 (4기)
+Support.BattlePlane_Rus_IL_10_RS132_FAB250_Gun.short	4 IL-10 (RS, FAB-250)
+Support.BattlePlane_Rus_IL_10_RS132_FAB50_Gun	IL-10 지상공격기, 4xRS-132, 50kg 고폭 폭탄 (4기)
+Support.BattlePlane_Rus_IL_10_RS132_FAB50_Gun.short	4 IL-10 (RS, FAB-50)
+
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_132_40xAO_10_2units	공격기 IL-2 1941 후기형 4xRS-132 + 10xAO-10 (2기)
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_132_40xAO_10_4units	공격기 IL-2 1941 후기형 4xRS-132 + 10xAO-10 (4기)
+Support.BattlePlane_Rus_Il_2_1941_late_8xROFS_132_4xFAB_50_2units	공격기 IL-2 1941 후기형 8xROFS-132 + 4xFAB-50 (2기)
+Support.BattlePlane_Rus_Il_2_1941_late_8xROFS_132_4xFAB_50_4units	공격기 IL-2 1941 후기형 8xROFS-132 + 4xFAB-50 (4기)
+Support.BattlePlane_Rus_Il_2_1941_late_20xAO_25_2units	공격기 IL-2 1941 후기형 20xAO-25 (2기)
+Support.BattlePlane_Rus_Il_2_1941_late_20xAO_25_4units	공격기 IL-2 1941 후기형 20xAO-25 (4기)
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_82_160xAO_2_5_2units	공격기 IL-2 1941 후기형 8xRS-82 + 160xAO-2.5 (2기)
+Support.BattlePlane_Rus_Il_2_1941_late_8xRS_82_160xAO_2_5_4units	공격기 IL-2 1941 후기형 8xRS-82 + 160xAO-2.5 (4기)
+
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_192xPTAB_2_5_2units	공격기 IL-2 1943 4xRS-132 + 192xPTAB-2.5 (2기)
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_192xPTAB_2_5_4units	공격기 IL-2 1943 4xRS-132 + 192xPTAB-2.5 (4기)
+Support.BattlePlane_Rus_Il_2_1943_6xFAB_100_2units	공격기 IL-2 1943 6xFAB-100 (2기)
+Support.BattlePlane_Rus_Il_2_1943_6xFAB_100_4units	공격기 IL-2 1943 6xFAB-100 (4기)
+Support.BattlePlane_Rus_Il_2_1943_4xRBS_132_6xFAB_50_2units	공격기 IL-2 1943 4xRBS-132 + 6xFAB-50 (2기)
+Support.BattlePlane_Rus_Il_2_1943_4xRBS_132_6xFAB_50_4units	공격기 IL-2 1943 4xRBS-132 + 6xFAB-50 (4기)
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_160xAO_2_5_2units	공격기 IL-2 1943 4xRS-132 + 160xAO-2.5 (2기)
+Support.BattlePlane_Rus_Il_2_1943_4xRS_132_160xAO_2_5_4units	공격기 IL-2 1943 4xRS-132 + 160xAO-2.5 (4기)
+Support.BattlePlane_Rus_Il_2_1943_20xAO_25_2units	공격기 IL-2 1943 20xAO-25 (2기)
+Support.BattlePlane_Rus_Il_2_1943_20xAO_25_4units	공격기 IL-2 1943 20xAO-25 (4기)
+
+Support.BattlePlane_Rus_Il_2_NS_37_4xFAB_50_2units	공격기 IL-2 NS-37 + 4xFAB-50 (2기)
+Support.BattlePlane_Rus_Il_2_NS_37_4xFAB_50_4units	공격기 IL-2 NS-37 + 4xFAB-50 (4기)	
+
+Support.BattlePlane_UK_A-20C_2x500lbs+2x250lbs_4units_afrika	공격기 A-20C 2x500pdr + 2x250pdr 아프리카 (4기)
+Support.BattlePlane_UK_A-20C_2x500lbs_4units_afrika	공격기 A-20C 2x500pdr 아프리카 (4기)
+Support.BattlePlane_UK_A-20C_4x250lbs_4units_afrika	공격기 A-20C 4x250pdr 아프리카 (4기)
+Support.BattlePlane_UK_Hurricane_MkIIc_2units_5calls	항공기 Hurricane (2기)
+Support.BattlePlane_UK_P-40E_1x250lbs_2units_afrika	공격기 P-40E 1x250pdr 아프리카 (2기)
+Support.BattlePlane_UK_P-40E_1x250lbs_4units_afrika	공격기 P-40E 1x250pdr 아프리카 (4기)
+Support.BattlePlane_UK_P-40E_1x500lbs_2units_afrika	공격기 P-40E 1x500pdr 아프리카 (2기)
+Support.BattlePlane_UK_P-40E_1x500lbs_4units_afrika	공격기 P-40E 1x500pdr 아프리카 (4기)
+Support.BattlePlane_UK_Spitfire_MkVb_2units_afrika	공격기 Spitfire MkVb 2 아프리카 (2기)
+Support.BattlePlane_UK_Spitfire_MkVb_4units_afrika	공격기 Spitfire MkVb 4 아프리카 (2기)
+Support.BattlePlane_UK_Typhoon_MkIb_2units_5calls	항공기 Typhoon Mk.IB (2기)
+Support.BattlePlane_UK_Typhoon_MkIb_RP-3_2units	항공기 Typhoon Mk.IB (2기, RP-3 로켓)
+Support.BattlePlane_USA_A-20C_2x500lbs+2x250lbs_4units_afrika	공격기 A-20C 2x500pdr + 2x250pdr 아프리카 (4기)
+Support.BattlePlane_USA_A-20C_2x500lbs_4units_afrika	공격기 A-20C 2x500pdr 아프리카 (4기)
+Support.BattlePlane_USA_A-20C_4x250lbs_4units_afrika	공격기 A-20C 4x250pdr 아프리카 (4기)
+Support.BattlePlane_USA_P-40E_1x250lbs_2units_afrika	공격기 P-40E 1x250pdr 아프리카 (2기)
+Support.BattlePlane_USA_P-40E_1x250lbs_4units_afrika	공격기 P-40E 1x250pdr 아프리카 (4기)
+Support.BattlePlane_USA_P-40E_1x500lbs_2units_afrika	공격기 P-40E 1x500pdr 아프리카 (2기)
+Support.BattlePlane_USA_P-40E_1x500lbs_4units_afrika	공격기 P-40E 1x500pdr 아프리카 (4기)
+Support.BattlePlane_USA_P_38L_Battleplane2	공격기 P-38L (2기)
+Support.BattlePlane_USA_P_38L_Battleplane4	공격기 P-38L (4기)
+Support.BattlePlane_USA_p_38l_HVAR_2units 근접항공지원 항공기 P-38 로켓 탑재 (2기)
+Support.BattlePlane_USA_P_47D_22_2units_5calls	항공기 P 47D (2기)
+Support.BattlePlane_USA_P_47D_22_HVAR_2units 근접항공지원 항공기 P-47D 로켓 탑재 (2기)
+Support.BattlePlane_USA_P_51B_2units	항공기 P 51B (2기)
+
+Support.Bomber_Fr_Blenheim_MkIV_3units_5calls	폭격기 Blenheim MkIV (3기)
+Support.Bomber_Ger_Bf_110C_2units 폭격기 Bf-110 (2기)
+Support.Bomber_Ger_Bf_110C_4units 폭격기 Bf-110 (4기)
+Support.Bomber_Ger_Fw_190_ab_2units 폭격기 FW-190 AB (2기)
+Support.Bomber_Ger_Fw_190_ab_4units 폭격기 FW-190 AB (4기)
+Support.Bomber_Ger_Fw_190_bomb_2units 폭격기 FW-190 (2기)
+Support.Bomber_Ger_Fw_190_bomb_4units 폭격기 FW-190 (4기)
+Support.Bomber_Ger_He_111H_2_3units_5calls	폭격기 He 111 H-2
+Support.Bomber_gorizont_Ger_Ju-87D-3_1x500_3units_afrika	폭격기 Ju-87D3 1xSC-500 아프리카 (3기)
+Support.Bomber_gorizont_Ger_Ju-87D-3_3x250_3units_afrika	폭격기 Ju-87D3 3xSD-250 아프리카 (3기)
+Support.Bomber_gorizont_Ger_Ju-87D-3_4x50_1x250_3units_afrika	폭격기 Ju-87D3 4xSC-50 + 1xSD-250 아프리카 (3기)
+Support.Bomber_pike_Ger_Ju-87D-3_1x500_3units_afrika	급강하 폭격기 Ju-87D3 1xSC-500 아프리카 (3기)
+Support.Bomber_pike_Ger_Ju-87D-3_3x250_3units_afrika	급강하 폭격기 Ju-87D3 3xSD-250 아프리카 (3기)
+Support.Bomber_pike_Ger_Ju-87D-3_4x50_1x250_3units_afrika	급강하 폭격기 Ju-87D3 4xSC-50 + 1xSD-250 아프리카 (3기)
+Support.Bomber_pike_Ger_Ju_87D_3_1x500_Kursk1943_3units	급강하 폭격기 Ju-87D3 1xSC-500 (3기)
+Support.Bomber_pike_Ger_Ju_87D_3_3x250_Kursk1943_3units	급강하 폭격기 Ju-87D3 3xSD-250 (3기)
+Support.Bomber_pike_Ger_Ju_87D_3_4x50_1x250_Kursk1943_3units	급강하 폭격기 Ju-87D3 4xSC-50 + 1xSD-250 (3기)
+Support.Bomber_Pol_P_11c_Bomber_3units_5calls	폭격기 P 11c (3기)
+Support.Bomber_Rus_Il_2_ao_2units	폭격기 Il-2 AO (2기)
+Support.Bomber_Rus_Il_2_ao_4units	폭격기 Il-2 AO (4기)
+Support.Bomber_Rus_Il_2_bomb_2units	폭격기 Il-2 (2기)
+Support.Bomber_Rus_Il_2_bomb_4units	폭격기 Il-2 (4기)
+Support.Bomber_Rus_Il_2_ptab_4units	폭격기 Il-2 PTAB
+Support.Bomber_Rus_Pe_2_4xFAB_250_4units	폭격기 Pe-2 2xFAB-250 + 2xFAB-100 (4기)
+Support.Bomber_Rus_Pe_2_10xFAB_100_4units	폭격기 Pe-2 6xFAB-100 (4기)
+Support.Bomber_Rus_Pe_2series359_3units_5calls	폭격기 Pe-2 359 계열 (3기)
+Support.Bomber_UK_A-20C_4x250lbs_4units_afrika	폭격기 A-20C 4x250pdr 아프리카 (4기)
+Support.Bomber_UK_A-20C_4x500lbs_4units_afrika	폭격기 A-20C 4x500pdr 아프리카 (4기)
+Support.Bomber_UK_Typhoon_MkIb_Bomb_2units 폭격기 Typhoon Mk.IB (2기)
+Support.Bomber_UK_USA_Blenheim_MkI_3units_5calls	폭격기 Blenheim Mk. I (3기)
+Support.Bomber_USA_A-20C_4x250lbs_4units_afrika	폭격기 A-20C 4x250pdr 아프리카 (4기)
+Support.Bomber_USA_A-20C_4x500lbs_4units_afrika	폭격기 A-20C 4x500pdr 아프리카 (4기)
+Support.Bomber_USA_B_17D_3units_5calls	폭격기 B-17D (3기)
+Support.Bomber_USA_P_47D_2units 폭격기 P-47D (2기)
+Support.Bomber_USA_P_47D_4units 폭격기 P-47D (4기)
+
+Support.DiveBomber_Rus_Pe_2_4xFAB_250_4units	급강하 폭격기 Pe-2 2xFAB-250 + 2xFAB-100 (4기)
+Support.DiveBomber_Rus_Pe_2_10xFAB_100_4units	급강하 폭격기 Pe-2 6xFAB-100 (4기)
+Support.DiveBomber_Rus_Pe_2_6xFAB_100_4units	급강하 폭격기 Pe-2 8xFAB-50 (4기)
+
+Support.Fighter_Fr_MS_406_1units_5calls	전투기 MS 406
+Support.Fighter_Ger_Bf-109G-2_2units_afrika	전투기 Bf-109G-2 아프리카 (2기)
+Support.Fighter_Ger_Bf-109G-2_4units_afrika	전투기 Bf-109G-2 아프리카 (4기)
+Support.Fighter_Ger_Bf_109F_4_1units_5calls	전투기 Bf 109F 4
+Support.Fighter_Ger_Bf_109F_4_4units_5calls	전투기 Bf 109 (4기)
+Support.Fighter_Ger_Bf_109G_2_Kursk1943_2units	전투기 Bf-109G-2 (2기)
+Support.Fighter_Ger_Bf_109G_2_Kursk1943_4units	전투기 Bf-109G-2 (4기)
+Support.Fighter_Ger_Fw_190A_8_1units_5calls	전투기 Fw 190A 8
+Support.Fighter_Pol_P_11c_Fighter_1units_5calls	전투기 P 11c
+Support.Fighter_Prk_La_9_2units	La-9 전투기 (two)
+Support.Fighter_Prk_La_9_2units.short	2 La-9 전투기
+Support.Fighter_Prk_La_9_4units	La-9 전투기 (4)
+Support.Fighter_Prk_La_9_4units.short	4 La-9 전투기
+Support.Fighter_Rus_La_5_Kursk1943_2units	전투기 La-5 (2기)
+Support.Fighter_Rus_La_5_Kursk1943_4units	전투기 La-5 (4기)
+Support.Fighter_Rus_La_7_1units_5calls	전투기 La 7
+Support.Fighter_Rus_La_9_2units	La-9 전투기 (two)
+Support.Fighter_Rus_La_9_2units.short	2 La-9 전투기
+Support.Fighter_Rus_La_9_4units	La-9 전투기 (4)
+Support.Fighter_Rus_La_9_4units.short	4 La-9 전투기
+Support.Fighter_Rus_Yak_1B_1units_5calls	전투기 Yak 1B
+Support.Fighter_Rus_Yak_1B_Kursk1943_2units	전투기 YaK-1B (2기)
+Support.Fighter_Rus_Yak_1B_Kursk1943_4units	전투기 YaK-1B (4기)
+Support.Fighter_Rus_Yak_7B_Kursk1943_2units	전투기 YaK-7B (2기)
+Support.Fighter_Rus_Yak_7B_Kursk1943_4units	전투기 YaK-7B (4기)
+Support.Fighter_UK_Spitfire_MkVb_1units_5calls	전투기 Spitfire MkVb
+Support.Fighter_UK_Spitfire_MkVb_2units_afrika	전투기 Spitfire 아프리카 (2기)
+Support.Fighter_UK_Spitfire_MkVb_4units_afrika	전투기 Spitfire 아프리카 (4기)
+Support.Fighter_USA_P-40E_2units_afrika	전투기 P-40E 아프리카 (2기)
+Support.Fighter_USA_P-40E_4units_afrika	전투기 P-40E 아프리카 (4기)
+Support.Fighter_USA_P_38L_Fighter2	전투기 P-38L (2기)
+Support.Fighter_USA_P_38L_Fighter4	전투기 P-38L (4기)
+Support.Fighter_USA_P_51_Fighter_2units	P-51 전투기 (two)
+Support.Fighter_USA_P_51_Fighter_2units.short	2 P-51 전투기
+Support.Fighter_USA_P_51_Fighter_4units	P-51 전투기 (4)
+Support.Fighter_USA_P_51_Fighter_4units.short	4 P-51 전투기
+Support.Fighter_USA_P_51B_1units_5calls	전투기 P 51B
+
+Support.Recon_Fr_Buffalo_MkI_1unit_5calls	정찰기 Buffalo MkI
+Support.Recon_Ger_Fi_156_1unit_5calls	정찰기 Fi 156
+Support.Recon_Pol_P_11c_Recon_1unit_5calls	정찰기 P 11c
+Support.Recon_Rus_Il_2	정찰기 Il 2
+Support.Recon_Rus_Pe_2	정찰기 Pe 2
+Support.Recon_Rus_U_2VS_1unit_5calls	정찰기 U 2VS
+Support.Recon_UK_Gladiator_MkII_1unit_5calls	정찰기 Gladiator MkII
+Support.Recon_UK_Spitfire_MkVb	정찰기 Spitfire MkVb
+Support.Recon_USA_P_38L_1unit_5calls	정찰기 P 38L
+
+Support.ArmoredCar	장갑차
+Support.Artillery	포병
+Support.Artillery_AT	대전차 포병
+Support.Car	차량
+Support.Flak	대공포
+Support.Helicopter	헬리콥터
+Support.Howitzer	곡사포
+Support.INF	보병
+Support.Infantry	보병
+Support.Infantry_AT	대전차 보병
+Support.Recon	정찰
+Support.Saper	공병
+Support.Sniper	저격수
+Support.MachineGun	중기관총
+Support.MixedGroup	혼합 부대
+Support.Mortar	박격포
+Support.SPG	자주포
+Support.TANKS	전차
+Support.TANKS_LIGHT	경전차
+Support.TANKS_HEAVY	중전차

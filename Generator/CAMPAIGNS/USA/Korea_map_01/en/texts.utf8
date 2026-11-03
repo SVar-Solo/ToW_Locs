@@ -1,0 +1,291 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capture the bridge, and press deeper into enemy territory, attacking the military base marked on the map.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+You must cross the river to continue the attack. Destroy the enemy's heavy defenses near the bridge and the nearby inhabited locality, and capture the bridge. Then advance deeper into enemy territory and overrun the enemy military base, where you can consolidate your forces.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+The enemy captured the bridge.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+The bridge is a critical part of the transport corridor, and the key tactical point in the area. You must fend off the enemy attack. Do not let them capture the bridge.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Fend off the enemy attack. Do not let the bridge fall into the hands of the enemy.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repel all enemy attacks. Hold the bridge and not let it fall into enemy hands.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+The enemy is doing their best to capture the bridge and cross the river. You must hold the bridge at all costs and not let it fall into enemy hands.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repel all enemy attacks. Hold the bridge and not let it fall into enemy hands.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+The enemy is doing their best to capture the bridge and cross the river. You must hold the bridge at all costs and not let it fall into enemy hands.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capture the bridge, and press deeper into enemy territory, attacking the military base marked on the map.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+You must cross the river to continue the attack. Destroy the enemy's heavy defenses near the bridge and the nearby inhabited locality, and capture the bridge. Then advance deeper into enemy territory and overrun the enemy military base, where you can consolidate your forces.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission failed.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Infantry_support]
+Infantry team is at your command.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Reserve armor team is at your disposal.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Air support is at your disposal.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your disposal.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Infantry-armor team is at your disposal.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve infantry-armor team is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve infantry-armor team is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Infantry-armor team is at your disposal.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capture the bridge and the bridgehead. Repel all enemy counterattacks.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+You must cross the river to continue the attack. Destroy the enemy's heavy defenses near the bridge and the nearby inhabited locality, and capture the bridge. Then advance deeper into enemy territory and overrun the enemy military base, where you can consolidate your forces. Be ready to repel any enemy counterattacks.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture the bridge and the bridgehead. Repel all enemy counterattacks.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+You must cross the river to continue the attack. Destroy the enemy's heavy defenses near the bridge and the nearby inhabited locality, and capture the bridge. Then advance deeper into enemy territory and overrun the enemy military base, where you can consolidate your forces. Be ready to repel any enemy counterattacks.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Fend off the enemy attack. Do not let the bridge fall into the hands of the enemy.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+The bridge is a critical part of the transport corridor, and the key tactical point in the area. You must fend off the enemy attack. Do not let them capture the bridge.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Fend off the enemy attack. Do not let the bridge fall into the hands of the enemy.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+The bridge is a critical part of the transport corridor, and the key tactical point in the area. You must fend off the enemy attack. Do not let them capture the bridge.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Repel all enemy attacks. Hold the bridge and not let it fall into enemy hands.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+The enemy is doing their best to capture the bridge and cross the river. You must hold the bridge at all costs and not let it fall into enemy hands.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Repel all enemy attacks. Hold the bridge and not let it fall into enemy hands.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+The enemy is doing their best to capture the bridge and cross the river. You must hold the bridge at all costs and not let it fall into enemy hands.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Repel all enemy attacks. Hold the bridge and not let it fall into enemy hands.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Repel all enemy attacks. Hold the bridge and not let it fall into enemy hands.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+The enemy is doing their best to capture the bridge and cross the river. You must hold the bridge at all costs and not let it fall into enemy hands.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+The enemy is doing their best to capture the bridge and cross the river. You must hold the bridge at all costs and not let it fall into enemy hands.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Mission failed.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk2.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk2.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk1.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk2.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk1.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk1.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk2.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk1.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk2.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk1.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk2.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk2.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk1.MORTAR_SUPPORT]
+Mortar battery is ready for combat.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk2.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk1.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk2.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk1.ART_SUPPORT]
+Artillery support is available.
+
+[Reinforcement.Group1[Reinforcement]]
+Tanks and infantry
+

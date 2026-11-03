@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+Ataque, capture e mantenha a ponte.
+[Submission_1.Description]
+O tempo é essencial, comandante. Você deve atacar, capturar e manter as pontes. Os alemães não deixarão esses pontos críticos caírem sem uma luta dura.
+
+Suas ordens:
+-	Atacar e capturar todas as pontes assinaladas no seu mapa
+-	Defender-se dos contra-ataques alemães para retomar as pontes
+[Submission_1.Failed]
+Missão fracassada. Você não conseguiu capturar as pontes designadas.
+[Submission_1.Success]
+Você capturou as pontes designadas!
+[Mission.Objectives]
+Mantenha o controle sobre as pontes e comece a expandir sua presença na cidade, expulsando os defensores inimigos.
+[Mission.Description]
+Capturar rapidamente pontes na retaguarda inimiga é uma tarefa perfeitamente adequada às tropas aeroterrestres, leves e rápidas, que podem saltar quase sem ser detectadas. Manter essas pontes contra esforços inimigos concentrados, especialmente de unidades blindadas pesadas, é algo que até as unidades mais de elite terão dificuldade em conseguir, embora isso fosse frequentemente exigido.
+[Mission.Success]
+Vitória! Você manteve as pontes e se defendeu das ações inimigas para retomá-las.
+[Mission.Failed]
+Derrota. Embora seus homens tenham lutado bravamente, não conseguiram cumprir suas tarefas.
+[Submission_2.Objectives]
+Ataque o vilarejo ao norte.
+[Submission_2.Description]
+Combatentes da resistência local nos informaram que, ao norte das pontes, há um pequeno vilarejo ocupado pelo inimigo que abriga um posto de comando e o estado-maior alemães. Não devemos deixar escapar esta oportunidade de desorganizar seu comando e controle.
+
+Suas ordens:
+-	Atacar o vilarejo
+-	Capturar ou matar o estado-maior inimigo
+[Submission_2.Success]
+Excelente trabalho, a cidade caiu!
+[Submission_2.Failed]
+Você não conseguiu capturar a cidade e o estado-maior inimigo escapou.
+[StringTable.tank_reserv]
+Vários tanques romperam as linhas inimigas e agora estão sob o seu comando.
+[StringTable.inf_reserv]
+Um destacamento adicional de paraquedistas chegou para ajudá-lo.

@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Percer les défenses allemandes.
+[Mission.Description]
+Les premières phases de l’opération Overlord ont été un succès, mais il est maintenant temps de frapper plus profondément en Normandie occupée. La progression vers l’intérieur des terres se fait toutefois à un prix élevé, car les Allemands retranchent chaque village et chaque position stratégique qu’ils peuvent. La topographie joue elle aussi contre les Alliés, le terrain particulier de ce secteur limitant la manœuvre.
+[Mission.Success]
+La défense de l’ennemi a été détruite !
+[Mission.Failed]
+Vous avez subi de lourdes pertes et essuyé une défaite.
+[Submission_1.Objectives]
+Détruire la défense ennemie dans ce secteur du front.
+[Submission_1.Description]
+Par le feu et la manœuvre, tentez de contourner les positions défensives ennemies et de les prendre à revers. Nous essayons de détourner des moyens aériens à votre profit et vous devriez disposer d’un appui d’artillerie en attente.
+[Submission_1.Success]
+Tâche accomplie.
+[Submission_1.Failed]
+Vous avez perdu !
+[StringTable.Tanks_reserv]
+Les chars de la réserve sont arrivés.
+[StringTable.reserv]
+Les renforts d’infanterie sont arrivés.

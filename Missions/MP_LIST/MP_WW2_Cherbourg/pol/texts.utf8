@@ -1,0 +1,46 @@
+﻿[StringTable.]
+[StringTable.ArmyB_WIN]
+Zwycięża Sojusz 2!
+[StringTable.ArmyA_WIN]
+Zwycięża Sojusz 1!
+[StringTable.ArmyA_king_Hill_A]
+Sojusz 1 zdobywa flagę А!
+[StringTable.ArmyA_king_Hill_B]
+Sojusz 1 zdobywa flagę B!
+[StringTable.ArmyA_king_Hill_C]
+Sojusz 1 zdobywa flagę C!
+[StringTable.ArmyA_king_Hill_D]
+Sojusz 1 zdobywa flagę D!
+[StringTable.ArmyA_king_Hill_E]
+Sojusz 1 zdobywa flagę E!
+[StringTable.ArmyB_king_Hill_A]
+Sojusz 2 zdobywa flagę A!
+[StringTable.ArmyB_king_Hill_B]
+Sojusz 2 zdobywa flagę B!
+[StringTable.ArmyB_king_Hill_C]
+Sojusz 2 zdobywa flagę C!
+[StringTable.ArmyB_king_Hill_D]
+Sojusz 2 zdobywa flagę D!
+[StringTable.ArmyB_king_Hill_E]
+Sojusz 2 zdobywa flagę E!
+[StringTable.Hill_A_Lost]
+Nikt nie kontroluje flagi A!
+[StringTable.Hill_B_Lost]
+Nikt nie kontroluje flagi B!
+[StringTable.Hill_C_Lost]
+Nikt nie kontroluje flagi C!
+[StringTable.Hill_D_Lost]
+Nikt nie kontroluje flagi D!
+[StringTable.Hill_E_Lost]
+Nikt nie kontroluje flagi E!
+[StringTable.ArmyA_capture_ALL_flags]
+Sojusz 1 kontroluje wszystkie flagi! Sojusz 2 musi zdobyć co najmniej jedną flagę w ciągu dwóch minut, albo przegra grę.
+[StringTable.ArmyB_capture_ALL_flags]
+Sojusz 2 kontroluje wszystkie flagi! Sojusz 1 musi zdobyć co najmniej jedną flagę w ciągu dwóch minut, albo przegra grę.
+[StringTable.One_or_more_flags_lost]
+Utracono jedną lub więcej flag.
+
+[StringTable.rus]
+Posiłki
+[StringTable.ger]
+Posiłki

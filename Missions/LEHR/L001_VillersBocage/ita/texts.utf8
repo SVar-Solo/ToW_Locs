@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Difendi l'area indicata.
+[Mission.Description]
+Le tue truppe, che fanno parte della Divisione di elite Panzer Lehr, si trovano a nord est di Villers-Bocage. Il mattino del 13 luglio 1944, la 7ma Divisione Corazzata Britannica ha lanciato un attacco per impadronirsi di Villers-Bocage e fiancheggiare le tue forze. Gli inglesi speravano che una serie di attacchi esplorativi sul tuo fianco sinistro avrebbero impegnato le riserve della Divisione e assicurato la vittoria. Devi fermare gli inglesi e impedire che penetrino nelle tue difese, dato che questo potrebbe portare all’accerchiamento e alla distruzione della tua Divisione.
+ 
+I tuoi ordini sono:
+- Impedisci al nemico di avanzare in profondità nella zona che stai difendendo.
+[Mission.Success]
+Ben fatto, comandante!
+[Mission.Failed]
+Missione fallita! Le tue truppe sono state distrutte!
+[Submission_1.Objectives]
+Respingi gli attacchi del nemico.
+[Submission_1.Description]
+Il nemico domina i cieli e può colpire da molte direzioni differenti. Le tue forze sono sparse e devono difendere una vasta area.
+ 
+I tuoi ordini sono:
+- Stabilisci delle difese sufficenti a coprire le vie di attacco.
+- Minimizza il più possibile le perdite.
+- Respingi gli attacchi del nemico
+[Submission_1.Success]
+Ben fatto, comandante! The enemy attacks have been repulsed.
+[Submission_1.Failed]
+Missione fallita! Le tue truppe sono state sconfitte!
+[Submission_2.Objectives]
+Contrattacca il nemico in ritirata.
+[Submission_2.Description]
+Il nemico ha subito forti perdite e si sta ritirando. Usa le tue riserve per inseguirlo e distruggerlo!
+ 
+I tuoi ordini sono:
+-	Contrattacca il nemico in ritirata.
+[Submission_2.Success]
+Ben fatto, comandante! Le forze del nemico sono state sconfitte.
+[Submission_2.Failed]
+Missione fallita! Le tue truppe sono state sconfitte!
+[StringTable.tanks_reserv]
+Hai ricevuto unità corazzate addizionali dalle riserve di Divisione.

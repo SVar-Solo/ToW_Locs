@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+Mantenga la posición hasta que lleguen los refuerzos. Destruya todas las unidades enemigas que pueda.
+[Submission_1.Description]
+
+Sus órdenes son:
+- 	Mantenga la posición hasta que lleguen los refuerzos.
+- 	Destruya todas las unidades enemigas que pueda.
+[Submission_1.Success]
+¡Han llegado refuerzos!
+[Submission_1.Failed]
+Derrota. No ha podido resistir lo suficiente.
+[Submission_2.Objectives]
+Mantenga la posición.
+[Submission_2.Description]
+La terminal de Poniri es un punto estratégico en nuestra defensa en la cara norte del saliente de Kursk. Consciente de ello, el mando alemán ha desplegado en esta zona algunas de sus unidades de artillería propulsada y blindadas más pesadas.
+
+Sus órdenes:
+- 	Mantenga sus posiciones en la terminal de Poniri.
+[Submission_2.Success]
+Buen trabajo, comandante. Ha salido victorioso pese a tenerlo todo en su contra.
+[Submission_2.Failed]
+¡Le ha fallado a la Madre Patria! Han destruido sus tropas.
+[Mission.Objectives]
+Detenga el avance alemán.
+[Mission.Description]
+Las unidades alemanas han estado luchando duro cerca de la terminal de Poniri, por toda la cara norte del saliente de Kursk.
+
+Sus órdenes:
+- 	Evite que atraviesen nuestras líneas del frente cerca de la terminal.
+[Mission.Success]
+Ha llevado a cabo las órdenes. Los alemanes no han podido atravesar la línea del frente.
+[Mission.Failed]
+No ha conseguido evitar que los alemanes abriesen brecha. Ahora avanzan directamente hacia Kursk.
+[StringTable.T34_Income]
+Han llegado refuerzos.
+[StringTable.SPG_reserv]
+Han llegado refuerzos.
+[StringTable.Inf_reserv]
+La infantería de la reserva ya está a su disposición.

@@ -1,0 +1,29 @@
+﻿[Mission.Objectives]
+Znaleźć i zlikwidować wrogą baterię przeciwlotniczą.
+[Mission.Description]
+Dowódca dywizji rozkazał wysłanie grup sabotażowo-zwiadowczych z zadaniem zniszczenia punktów dowodzenia wrogiej obrony przeciwlotniczej i wyeliminowania jak największej ilości dział plot. Unteroffizier Steiner zbierze i poprowadzi na tę misję grupę dobrze wyszkolonych żołnierzy.
+[Submission_1.Objectives]
+Grupa Steinera ma za zadanie infiltrować wrogie pozycje baterii plot. i zniszczyć je. W jednym z domów w wiosce znajduje się przekaźnik. Użyj go, żeby wezwać wsparcie lotnicze.
+[StringTable.radio_avia]
+Namierzono wrogi zestaw radiowy. Wsparcie lotnicze jest teraz do twojej dyspozycji.
+[StringTable.radio_mortar]
+Namierzono wrogi zestaw radiowy. Masz teraz do dyspozycji ostrzał moździerzowy.
+[Submission_1.Success]
+Grupa Steinera melduje, że bateria plot. została zniszczona. 
+[Submission_1.Failed]
+Grupa Steinera została rozbita. Rozkazy dowódcy dywizji nie zostały wypełnione.
+[Mission.Success]
+Grupa sabotażowo-zwiadowcza ukończyła swoje zadanie. Oczekiwanie na wsparcie samolotów szturmowych.
+[Mission.Failed]
+Grupa sabotażowo-zwiadowcza została rozbita. Silna obrona przeciwlotnicza wroga nie pozwala nam na użycie samolotów.
+[StringTable.Radio_avia_dis]
+Straciliśmy kontakt z bazą. Nie możemy wezwać wsparcia lotniczego.
+[StringTable.Radio_mortar_dis]
+Straciliśmy łączność. Nie możemy otworzyć ognia bez dokładnych namiarów.
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

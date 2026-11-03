@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+Os reforços chegaram.
+[Submission1.Objectives]
+Capture a aldeia e destrua as forças inimigas.
+[Submission1.Description]
+Forças alemãs ocuparam a aldeia próxima e parecem aguardar reforços. Você deve atacar esse povoado antes que cheguem mais unidades inimigas.
+
+Suas ordens são:
+-	Capture o povoado.
+-	Derrote todas as tropas inimigas.
+[Submission1.Success]
+Tarefa cumprida com sucesso. As forças inimigas foram expulsas da aldeia.
+[Submission1.Failed]
+Tarefa fracassada.
+[Mission1.Objectives]
+Derrote todas as forças inimigas.
+[Mission1.Description]
+Forças alemãs começaram a avançar em direção a Mortain. O inimigo capturou vários pequenos povoados nesta área. Segundo todas as informações disponíveis, o inimigo se prepara para lançar uma ofensiva nessa direção. Você deve detê-lo!
+
+Sua ordem é:
+	Expulse o inimigo dos povoados ocupados.
+[Mission1.Success]
+Tarefa cumprida com sucesso.
+[Mission1.Failed]
+Tarefa fracassada.
+[Submission2.Objectives]
+Derrote as forças inimigas e capture a aldeia.
+[Submission2.Description]
+Um destacamento de tropas inimigas estabeleceu posição no pequeno povoado. Elas se preparam para lançar uma contraofensiva em direção a Mortain.
+
+Sua ordem é:
+	Expulse o inimigo de suas posições e tome o povoado.
+[Submission2.Success]
+Tarefa cumprida com sucesso. Os povoados estão sob nosso controle.
+[Submission2.Failed]
+Tarefa fracassada. Suas forças sofreram pesadas baixas.
+[Submission3.Objectives]
+Derrote o grupo blindado inimigo.
+[Submission3.Description]
+O inimigo recebeu o reforço de uma pequena força blindada.
+
+Sua ordem é:
+-	Ataque e destrua todas as unidades blindadas inimigas.
+[Submission3.Success]
+Tarefa cumprida com sucesso.
+[Submission3.Failed]
+Tarefa fracassada. Suas forças sofreram pesadas baixas.

@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Cattura e tieni il villaggio di Otto.
+[Mission.Description]
+Secondo i nostri esploratori, gli inglesi occupano il villaggio che ci sta davanti con poche forze. Anche se le loro posizioni saranno probabilmente fortificate, questa è una rara possibilità di scacciarli. Al tuo comando hai forze del 902 Panzergrenadier Regiment e un certo supporto di corazzati.
+ 
+I tuoi ordini sono:
+- Attacca le forze britanniche che occupano il villaggio di Otto e allontanale.
+[Mission.Success]
+Ben fatto, comandante! Le difese del nemico sono state abbattute.
+[Mission.Failed]
+Missione fallita!
+[Submission_1.Objectives]
+Attacca le posizioni nemiche nel villaggio di Otto.
+[Submission_1.Description]
+Il villaggio di Otto si trova a sud-est delle tue posizioni. In apparenza le nostre informazioni iniziali non erano esatte e il villaggio è protetto più di quanto pensavamo. Coordina bene i tuoi attacchi, comandante e prendi la città.
+ 
+I tuoi ordini sono:
+- Prendi Otto.
+[Submission_1.Success]
+Ben fatto, comandante! Il villaggio è preso.
+[Submission_1.Failed]
+Missione fallita!
+[Submission_2.Objectives]
+Organizza le tue truppe per stabilire una difesa adeguata contro il contrattacco nemico.
+[Submission_2.Description]
+Dopo aver perso il villaggio, il nemico cercherà sicuramente un contrattacco per riprenderlo.
+ 
+I tuoi ordini sono:
+-	Respingi tutti gli attacchi.
+[Submission_2.Success]
+Ben fatto, comandante! The enemy attacks  have been repulsed.
+[Submission_2.Failed]
+Missione fallita! Le tue forze sono state respinte

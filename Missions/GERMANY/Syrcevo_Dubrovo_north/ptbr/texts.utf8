@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Rompa a linha de defesa Syrtsev - Dubrovo e destrua o posto de comando em Syrtsev.
+[Mission.Description]
+O grupo de combate, com apoio de tanques e canhões de assalto, avançará em direção a Dubrovo - Syrtsev, passando por Syrtsev pelo leste. Derrote os pontos fortes inimigos e depois alcance a margem leste do Pena, ao norte de Syrtsev. Destrua a todo custo o posto de comando soviético em Syrtsev.
+[Submission_1.Objectives]
+Rompa a linha de defesa Syrtsev - Dubrovo. Assegure o objetivo com a infantaria.
+[Submission_2.Objectives]
+Há um posto de comando inimigo na aldeia de Syrtsev. É necessário continuar o avanço e destruir o posto de comando.
+[Submission_1_1.Objectives]
+Nosso grupo de reconhecimento de sabotagem em Dubrova destruiu as posições de canhões antiaéreos russos e se consolidou na aldeia. É necessário abrir caminho urgentemente até Dubrova e salvar o grupo de Steiner.
+[Submission_1_1.Success]
+O grupo de Steiner está agora sob seu comando.
+[Submission_1_1.Failed]
+O grupo de Steiner foi aniquilado.
+[Submission_1.Success]
+A linha de defesa inimiga foi capturada.
+[Submission_1.Failed]
+O ataque foi detido, é necessário apoio imediato.
+[Submission_2.Success]
+O posto de comando inimigo foi destruído. Syrtsev foi ocupada por nossas forças.
+[Submission_2.Failed]
+O ataque foi detido, é necessário apoio imediato.
+[Mission.Success]
+A linha de defesa inimiga Syrtsev - Dubrova foi rompida. O posto de comando inimigo em Syrtsev foi destruído.
+[Mission.Failed]
+Fracassamos em cumprir nossas ordens. O inimigo é forte demais! 
+[StringTable.Ger_infantry]
+Uma unidade de infantaria da reserva está agora sob seu controle.
+[StringTable.Ger_support]
+Há tanques, canhões autopropulsados e unidades de infantaria na reserva. Você receberá o comando sobre eles se o ataque começar com sucesso.
+
+[StringTable.Inf]
+Infantaria
+[StringTable.Tanks]
+Tanques
+[StringTable.SPG]
+Canhões autopropulsados
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

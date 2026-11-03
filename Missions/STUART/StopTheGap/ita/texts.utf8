@@ -1,0 +1,60 @@
+﻿[MainTask.Objectives]
+Fermate lo sfondamento
+[MainTask.Description]
+Raggiungete l’abitato occupato dalle nostre forze. Usate il loro aiuto per tendere un’imboscata al convoglio nemico. Non devono arrivare al passo, nemmeno uno: un solo tedesco metterà in rotta il bestiame che era il nostro esercito. Quindi buona fortuna e che Dio vi aiuti. Ricordate: non lasciate che un solo tedesco raggiunga vivo la fine del passo! 
+[MainTask.Success]
+Il gruppo mobile nemico è sconfitto, i suoi resti sono fuggiti. Continuate così!
+[MainTask.Failed]
+Dal rapporto del tenente colonnello Waters: ...il nemico ha sfondato fino all’uscita del passo, ha travolto le nostre forze che si ritiravano alla rinfusa e le ha distrutte... 
+[StringTable.Incoming]
+Gli osservatori d’artiglieria riferiscono che il convoglio nemico sta raggiungendo il passo e presto si avvicinerà alle nostre posizioni!
+[StringTable.IntroSubtitle1]
+Alan Mitchell: Accidenti, che succede?
+[StringTable.IntroSubtitle2]
+Soldati in fuga: Scappate, salvatevi! Scappate, salvatevi!!!
+[StringTable.IntroSubtitle3]
+Alan Mitchell: E chi non può scappare? (alla radio) Signore, la situazione si mette male, scappano come conigli...
+[StringTable.IntroSubtitle3a]
+(all’equipaggio) Fermiamoci e facciamo due chiacchiere. Pistole pronte!
+[StringTable.IntroSubtitle3b]
+- Ma non siamo mica la polizia militare! - Non gli spareremo, li riporteremo solo alla ragione!
+[StringTable.IntroSubtitle4]
+Alan Mitchell: Fermi! Dove andate così di fretta, si può sapere?
+[StringTable.IntroSubtitle5]
+Soldato in fuga: Fanculo, eroe! Io non voglio morire, ci sono un sacco di tedeschi! …
+[StringTable.IntroSubtitle6]
+... e sei un cretino se non vuoi vivere, come quelli che sono rimasti nel villaggio!
+[StringTable.IntroSubtitle7]
+Alan Mitchell: Ecco, ora ragioniamo. Quindi non tutti se la sono fatta sotto! ... 
+[StringTable.IntroSubtitle8]
+... E voi, ricordate che i tedeschi vi prenderanno anche nel cesso di New York!
+[StringTable.WinSubtitle1]
+Aiutante: Signore, stanno tornando!
+[StringTable.WinSubtitle2]
+Tenente colonnello Waters: Tutto reggeva per un filo...
+[StringTable.WinSubtitle3]
+...ma hanno fatto solo ciò che dovevano.
+[StringTable.WinSubtitle4]
+Alan Mitchell: Signore! L’equipaggio...
+[StringTable.WinSubtitle5]
+Tenente colonnello Waters: Dobbiamo sbrigarci entrambi, il suo rapporto lo avrò più tardi, Mitchell...
+[StringTable.WinSubtitle6]
+... su un altro campo di battaglia la situazione si fa dura, devo essere lì.
+[StringTable.WinSubtitle7]
+Altre informazioni le riceverà via radio; intanto, tenga, una lettera di Nelly!
+[StringTable.FailSubtitle1]
+Capitano della Wehrmacht: Allora, yankee, ne avete abbastanza della guerra? ...
+[StringTable.FailSubtitle2]
+Kameraden, non c’è bisogno di dimostrare il fatto...
+[StringTable.FailSubtitle3]
+che gli americani in guerra sono delle pecore!
+[StringTable.FailSubtitle4]
+Quel loro carro leggero ha combattuto dannatamente bene, ma alla fine l’abbiamo bruciato!
+[StringTable.StuartDestroyed]
+Il carro di Alan Mitchell è distrutto!
+[StringTable.MitchellIsKilled]
+Alan Mitchell è stato ucciso!
+[StringTable.EnemySuccessful]
+Il nemico ha sfondato fino all’uscita del passo! La missione è fallita!
+[StringTable.ReturnInTank]
+Fate risalire sul carro i carristi sbarcati per completare la missione.

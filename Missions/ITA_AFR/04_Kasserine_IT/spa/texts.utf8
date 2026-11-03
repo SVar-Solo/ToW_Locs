@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Desaloje al enemigo
+[Submission_1.Description]
+El paso está controlado por el enemigo, que ha construido fortificaciones alrededor de una pequeña aldea de montaña. Desaloje al enemigo de sus posiciones.
+[Submission_01.Success]
+Misión cumplida.
+[Submission_01.Failed]
+Misión fallida.
+[Mission.Objectives]
+Despeje la carretera de montaña
+[Mission.Description]
+Su unidad tiene la tarea de despejar la carretera de montaña y las zonas adyacentes.
+[NewSubmission.Success]
+Misión cumplida.
+[NewSubmission.Failed]
+Misión fallida.
+[Submission_2.Objectives]
+Despeje el poblado
+[Submission_2.Description]
+Nuestro avance se ve obstaculizado por las fortificaciones de flanco de los estadounidenses, desplegados en el cruce de caminos. Despeje el poblado de enemigos para desbloquear la carretera.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+Misión fallida.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Failed]
+Misión fallida.

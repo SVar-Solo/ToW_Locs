@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+我が軍は包囲され、現在、脱出を試みている。
+[Mission.Description]
+主目標は敵の包囲を突破することだ。河まで戦い抜いたら、後続部隊が妨げられずに進めるよう、ロシア軍が対戦車防御陣地を構築するのを阻止せよ。
+[Mission.Success]
+包囲を突破することに成功した。
+[Mission.Failed]
+君の部隊は脱出できなかった。
+[Submission_1.Objectives]
+包囲を突破し、河畔の町へ前進せよ。進撃路を広げるため、遭遇したすべての敵部隊と交戦し、撃破せよ。 
+[Submission_1.Description]
+命令：
+	- 河畔の町へ前進せよ
+	- 途中のすべての敵部隊を撃破せよ
+[Submission_1.Success]
+勝利！君の部隊は包囲を突破し、河沿いに拠点を確立した。
+[Submission_1.Failed]
+失敗した。我が軍は脱出に成功しなかった。
+[StringTable.ger_reserv]
+司令部は君の指揮下に若干の機甲部隊を配属した。うまく使え、指揮官！

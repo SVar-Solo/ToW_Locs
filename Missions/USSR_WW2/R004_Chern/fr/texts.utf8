@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Faire face à l’attaque allemande venant de l’ouest.
+[Mission1.Description]
+La 3. Panzer-Division approche de Chern par l’ouest pour détruire nos troupes dans ce secteur et avancer vers Tula. L’ennemi dispose de la supériorité numérique.
+
+Vos ordres : 
+-	Arrêter la 3e division blindée ennemie
+[Mission1.Success]
+L’attaque ennemie a été repoussée ! Les Allemands n’ont pas réussi à percer.
+[Mission1.Failed]
+L’ennemi a réussi à percer nos défenses et atteindre la gare. Nous reculons encore vers Moscou...
+[Mission1_1.Objectives]
+Arrêter l’attaque allemande venant du sud.
+[Mission1_1.Description]
+Les troupes allemandes ont percé nos lignes au sud de Chern et avancent maintenant à vive allure dans notre direction. Leur intention est de nous encercler et de rejoindre la 3e division blindée qui avance sur Tula.
+
+Vos ordres :
+- 	Arrêter l’attaque allemande venant du sud.
+[Mission1_1.Success]
+L’ennemi a été repoussé avec succès !
+[Mission1_1.Failed]
+L’ennemi est parvenu à percer jusqu’à la gare ! Vous avez échoué.
+[Submission1.Objectives] 
+Tenir et défendre la gare de Chern.
+[Submission1.Description]
+Des troupes allemandes attaquent nos positions autour de la gare de Chern. Nous tenons la dernière ligne de défense avant Tula et il faut les arrêter.
+
+Vos ordres sont : 
+- 	Tenir et défendre la gare de Chern
+- 	Empêcher l’ennemi de percer vers Tula.
+[Submission1.Success]
+L’ennemi a été détruit ! Les ordres du commandement ont été exécutés !
+[Submission1.Failed]
+L’ennemi a percé nos défenses et la route de Tula est ouverte !
+[StringTable.Reserv]
+Des renforts sont arrivés.

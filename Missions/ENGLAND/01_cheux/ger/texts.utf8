@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Stoßen Sie zum Dorf Cheux vor und erobern Sie es.
+[Mission.Description]
+Der Feind wird uns nicht erwarten und die Garnison in Cheux ist klein.
+[Submission_1.Objectives]
+Wehren Sie den Gegenangriff ab.
+[Submission_1.Description]
+Der Feind versucht Reserven einzusetzen, um die Verteidigung zu unterstützen.
+[NewSubmission.Success]
+Der Gegenangriff wurde abgewehrt.
+[NewSubmission.Failed]
+Der Feind ist durchgebrochen.
+[Submission_01.Success]
+Cheux wurde erobert.
+[Submission_01.Failed]
+Eroberung von Cheux ist fehlgeschlagen.
+[Mission.Success]
+Dorf wurde erobert. Gebiet gesichert.
+[Mission.Failed]
+Feindliche Verteidigung war stärker als erwartet.
+[Submission_1.Success]
+Der Angriff wurde abgewehrt.
+[Submission_1.Failed]
+Aufgabe wurde nicht erfüllt.
+[StringTable.Tanks]
+Reservekräfte sind verfügbar.

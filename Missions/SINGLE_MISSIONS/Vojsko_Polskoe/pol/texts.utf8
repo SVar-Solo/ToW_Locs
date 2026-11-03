@@ -1,0 +1,53 @@
+﻿[mission.Objectives]
+Zbierz wszystkie sojusznicze jednostki pod swoje dowództwo i spróbuj odeprzeć nieprzyjacielski atak. Jeśli będziesz musiał się wycofać, wycofaj się za Wisłę. 
+[mission.Description]
+Rankiem 1 września wojska niemieckie przekroczyły granicę Polski. Jednostki znajdujące się blisko granicy zostały szybko pokonane i rozbite. Polskie dowództwo przestało działać, organizację obrony przejęli niezależni polscy dowódcy, niekierowani przez swoich zwierzchników. 
+Twoje rozkazy: 
+-	Zbierz pod swoje dowództwo wszystkie sojusznicze jednostki.
+-	Broń się przed nacierającymi jednostkami nieprzyjaciela. 
+-	Uratuj pułkownika Czesława Mrożka.
+Uwaga twórców: Musisz koniecznie utrzymać pułkownika przy życiu, w przeciwnym razie nie będziesz mógł kontrolować nowych polskich jednostek!
+[mission.Success]
+Zwycięstwo! Dobra robota, pułkowniku, udało wam się odzyskać nieco kontroli!
+[mission.Failed]
+Porażka! Sztab poszedł w rozsypkę, nie udało ci się zorganizować dobrej obrony. 
+[Submission_1.Objectives]
+W pobliskiej wsi znajduje się jednostka piechoty, która potrzebuje dowódcy. Wykorzystaj ją do wzmocnienia obrony. 
+[Submission_1.Description]
+Twoje rozkazy:
+-	Obejmij dowództwo nad garnizonem w pobliskiej wsi.
+[Submission_1.Success]
+Sukces! Te oddziały przeszły pod twoją komendę.
+[Submission_1.Failed]
+Nie udało ci się objąć dowództwa nad garnizonem.
+[StringTable.Garnizon_1]
+Personel garnizonu jest teraz pod twoim dowództwem.
+[Submission_2.Objectives]
+Udać się do następnego osiedla. 
+[Submission_2.Success]
+Sukces! Pod twoją komendą znalazły się istotne dla naszego zwycięstwa zasoby.
+[Submission_2.Description]
+Garnizon wzmocnił liczebność twoich sił, ale to za mało, by powstrzymać całą siłę niemieckiego natarcia. Według dowódcy drużyny, kilka czołgów i dział przeciwpancernych znajduje się w sąsiedniej wsi. 
+Twoje rozkazy:
+-	Udaj się do następnej wsi i zdobądź znajdujący się tam sprzęt.
+[Submission_2.Failed]
+Porażka. Nie udało ci się zdobyć sprzętu.
+[Submission_3.Objectives]
+Odeprzeć wszystkie nieprzyjacielskie ataki.
+[Submission_3.Description]
+Udało ci się zdobyć dodatkowych ludzi i sprzęt. Wróg naciera na szerokim froncie, więc przygotuj się do obrony przed licznymi falami, nadchodzącymi z różnych kierunków. Nie dopuść, by przeprawiły się przez Wisłę. 
+Twoje rozkazy:
+-	Odeprzeć wszystkie nieprzyjacielskie ataki.
+-	Uniemożliwić Niemcom przeprawę przez Wisłę.
+[Submission_3.Success]
+Atak został odparty. Twoje wyczyny przejdą do historii!
+[Submission_3.Failed]
+Nieprzyjacielski atak był zbyt silny i nie udało ci się go odeprzeć.
+[Submission_4.Objectives]
+Główny atak nieprzyjaciela został odparty, ale czas się wycofać.
+[Submission_4.Description]
+Pułkownik Mrożek musi się przedostać na drugi brzeg Wisły.
+[Submission_4.Success]
+Sukces. Pułkownik przeżył i będzie walczył dalej. Jeśli wszyscy twoi dowódcy będą walczyć tak jak on, może Polakom uda się odeprzeć Niemców za granicę!
+[Submission_4.Failed]
+Pułkownik zginął. Walczył dzielnie, mimo to zginął. Podobnie jak Polska.

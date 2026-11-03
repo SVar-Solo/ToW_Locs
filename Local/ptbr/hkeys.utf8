@@ -1,0 +1,107 @@
+﻿hkey.lowspeed	Manter velocidade da infantaria
+hkey.mining	Minar
+hkey.mineclearing	Limpar minas
+hkey.attack	Atacar
+hkey.defend	Defender \ Girar
+hkey.groundattack	Fogo em área
+hkey.move	Mover para posição
+hkey.nextunit	Próxima unidade
+hkey.pause	Pausar
+hkey.prevunit	Unidade anterior
+hkey.retreat	Ré \ Recuar
+hkey.stop	Cancelar comando
+hkey.storm	Assalto \ Mover
+hkey.ambush	Emboscada
+hkey.sneak	Esgueirar-se
+hkey.smokecloudfast	Cortina de fumaça (disparo imediato)
+hkey.smokecloud	Cortina de fumaça
+hkey.attachdetach	Engatar \ Desengatar
+hkey.evacuate	Desembarcar
+hkey.autopickup	Coleta automática
+hkey.addtogroup0	Adicionar ao grupo 10
+hkey.addtogroup1	Adicionar ao grupo 1
+hkey.addtogroup2	Adicionar ao grupo 2
+hkey.addtogroup3	Adicionar ao grupo 3
+hkey.addtogroup4	Adicionar ao grupo 4
+hkey.addtogroup5	Adicionar ao grupo 5
+hkey.addtogroup6	Adicionar ao grupo 6
+hkey.addtogroup7	Adicionar ao grupo 7
+hkey.addtogroup8	Adicionar ao grupo 8
+hkey.addtogroup9	Adicionar ao grupo 9
+hkey.group0	Selecionar grupo 10
+hkey.group1	Selecionar grupo 1
+hkey.group2	Selecionar grupo 2
+hkey.group3	Selecionar grupo 3
+hkey.group4	Selecionar grupo 4
+hkey.group5	Selecionar grupo 5
+hkey.group6	Selecionar grupo 6
+hkey.group7	Selecionar grupo 7
+hkey.group8	Selecionar grupo 8
+hkey.group9	Selecionar grupo 9
+hkey.remembergroup0	Criar grupo 10
+hkey.remembergroup1	Criar grupo 1
+hkey.remembergroup2	Criar grupo 2
+hkey.remembergroup3	Criar grupo 3
+hkey.remembergroup4	Criar grupo 4
+hkey.remembergroup5	Criar grupo 5
+hkey.remembergroup6	Criar grupo 6
+hkey.remembergroup7	Criar grupo 7
+hkey.remembergroup8	Criar grupo 8
+hkey.remembergroup9	Criar grupo 9
+hkey.inventory	Inventário
+hkey.vehicleCharacteristics	Características do veículo
+hkey.exit	Sair
+hkey.load	Carga rápida
+hkey.save	Salvamento rápido
+hkey.unitinfoicon	Ativar/desativar ícones
+hkey.messagelog	Registro de mensagens
+hkey.view_sectors	Ativar/desativar setores de ataque
+hkey.viewtargetarrow	Ativar/desativar ícones de alvo
+hkey.grab_screen	Capturar tela
+hkey.multiplayerchattalk	Enviar mensagem aos aliados
+hkey.multiplayerchatyell	Enviar mensagem a todos
+hkey.cameratopdownview	Mapa tático
+hkey.hide_panels	Mostrar / ocultar interface
+hkey.nextmusictrack	Próxima faixa de música
+hkey.camerafreelock	Visão livre
+hkey.binocularview	Visão de binóculo
+hkey.cameramoveforward	Câmera para frente
+hkey.cameramovebackward	Câmera para trás
+hkey.cameramoveleft	Câmera para a esquerda
+hkey.cameramoveright	Câmera para a direita
+hkey.cameramoveup	Câmera para cima
+hkey.cameramovedown	Câmera para baixo
+hkey.camerarotateup	Girar câmera para cima
+hkey.camerarotatedown	Girar câmera para baixo
+hkey.camerarotateleft	Girar câmera para a esquerda
+hkey.camerarotateright	Girar câmera para a direita
+hkey.cameramovetomsg	Mover câmera para a origem do sinal
+hkey.camerasetdefault	Redefinir visão da câmera
+hkey.bindcamera	Visão em primeira pessoa
+hkey.linkcamera	Fixar câmera na unidade
+hkey.time2xspeed	Ajustar velocidade do jogo
+hkey.actionmode	Modo de ação
+hkey.setbodymodelay	Rastejar
+hkey.setbodymodeknee	Corrida curta
+hkey.setbodymodestay	Corrida
+hkey.firemode	Modo de tiro
+hkey.attackup	Mirar no topo
+hkey.attackmedium	Mirar no centro
+hkey.attackdown	Mirar na base
+hkey.attackbarrage	Fogo defensivo em área
+hkey.formation	Formação
+hkey.SwitchDamageMessagesMode	Alternar modo de info. de dano
+hkey.MultiplayerExchangePoints	Transferir pontos
+hkey.selectweaponandammoreset	Limpar seleção de arma
+hkey.selectweaponandammo1	Selecionar arma principal
+hkey.selectweaponandammo2	Selecionar granadas de fragmentação
+hkey.selectweaponandammo3	Selecionar granadas antitanque
+hkey.selectweaponandammo4	Selecionar canhão principal
+hkey.selectweaponandammo5	Selecionar munição AP
+hkey.selectweaponandammo6	Selecionar munição HE
+hkey.selectweaponandammo7	Selecionar metralhadora
+hkey.selectweaponandammo8	Selecionar arma 8
+hkey.selectweaponandammo9	Selecionar arma 9
+hkey.repair	Reparar
+hkey.cameratypeswitch	Alternar modo da câmera (livre/centralizada)
+hkey.guiactivate	Escape

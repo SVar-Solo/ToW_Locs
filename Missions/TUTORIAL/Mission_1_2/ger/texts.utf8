@@ -1,0 +1,110 @@
+﻿[Submission_1.Objectives]
+Direkte und indirekte Sicht bestimmen.
+
+[Submission_1.Description]
+Ihnen stehen zwei Soldaten zur Verfügung, die in einiger Entfernung voneinander stehen. Auf der feindlichen Seite fährt ein Pz.IV F2 aus der Siedlung heraus. Während der Fahrt verdecken verschiedene Hindernisse (Häuser, Bäume und andere Objekte) Ihren Einheiten die Sicht auf diesen Panzer.
+
+[Submission_1.Success]
+Auftrag erfüllt!
+
+[Submission_1.Failed]
+Auftrag gescheitert!
+
+[StringTable.Direct_undirect_vis]
+Einer der Soldaten sieht den feindlichen Panzer in direkter Sichtlinie; wird dieser Soldat ausgewählt, wird das Panzersymbol hellrot. Der zweite Soldat sieht den Panzer nicht direkt, obwohl die Entfernung es erlauben würde. Das ist möglich, weil es auf der Karte Objekte gibt, die die Sicht versperren. In diesem Fall wird das Panzersymbol für diesen Soldaten halbtransparent. Das bedeutet, dass der Soldat, der den Panzer in direkter Sichtlinie hat, ihn für den Soldaten, der ihn nicht direkt sieht, „aufklärt“. Wenn die Auswahl bei beiden Soldaten aufgehoben wird oder mehrere Einheiten gleichzeitig ausgewählt sind, wird das Panzersymbol hellrot. In dieser Situation können beide Ihrer Einheiten auf das Ziel feuern, sofern eine Schusslinie besteht.
+
+[StringTable.unvis]
+Der Panzer ist für alle Ihre Einheiten unsichtbar. In dieser Situation kann keine Ihrer Einheiten direkt auf das feindliche Ziel feuern. Eine Zeit lang „merken“ sich Ihre Einheiten den Standort des Feindes; in diesem Fall ändert das Symbol über dem Feind sein Aussehen.
+Gras, Büsche und Bäume, auch umgestürzte, sind ebenfalls Sichthindernisse. Das lässt sich taktisch nutzen, achten Sie aber auf die Größe der Kronen und die Höhe des Grases, um zu beurteilen, ob sich Ihre Einheit dahinter verbergen kann. Wenn Sie das Feuer eröffnen, geht die Tarnung für einige Zeit verloren.
+Zusätzlich zur direkten Sicht kann Infanterie ab einer gewissen Entfernung den ungefähren Standort des Feindes am Geräusch erkennen, wenn dieser feuert, sich bewegt oder den Turm dreht.
+
+[StringTable.Direct_vis]
+Für alle Ihre Einheiten befindet sich der Panzer in direkter Sichtlinie. Versuchen Sie, nacheinander alle Ihre Einheiten auszuwählen. Das Panzersymbol ist immer hellrot. In dieser Situation kann jede Ihrer Einheiten auf das Ziel feuern, sofern eine Schusslinie besteht.
+Ist „Sichtlinie“ in den Einstellungen aktiviert, können Sie die Schusslinie mit einem der Befehle prüfen – „Angriff“ {hkey:attack}, „Sturm“ {hkey:storm} oder „Flächenfeuer“ {hkey:groundattack}. Nach der Aktivierung des Befehls und vor der Befehlserteilung wird ein Pfeil von Ihrer Einheit zum Mauszeiger angezeigt. Die rote Farbe des Pfeils zeigt einen Abschnitt ohne Hindernisse auf der Schusslinie; schwarz bedeutet, dass dahinter ein Hindernis liegt. Bei Fahrzeugen erscheint neben dem Mauszeiger ein Tooltip, der erklärt, warum keine Schusslinie besteht. Bewegen Sie den Mauszeiger außerhalb der Sichtsektoren der Einheit, wird ein Teil des Pfeils blau eingefärbt.
+
+[StringTable.ENTER]
+Das Spiel erlaubt es, die Kamera an Ihre Einheit zu heften. Die Kamera kann sich frei drehen. Sie können auch jede andere Einheit (Einheitengruppe) auswählen und steuern. Drücken Sie {hkey:bindcamera}, bewegt sich die Kamera und heftet sich an die Einheit; drücken Sie {hkey:linkcamera}, heftet sich die Kamera an die Einheit und behält dabei den aktuellen Abstand bei. Diese Funktion gilt für alle Einheiten innerhalb der spielbaren Zone. Außerhalb der Spielzone kann die Kamera nicht an eine Einheit geheftet werden.
+
+[Mission.Objectives]
+Besonderheiten der Sichtbarkeitsdarstellung im Spiel.
+
+[Mission.Description]
+Mit Ihren zwei Soldaten und einem fahrenden feindlichen Panzer werden verschiedene Varianten der Darstellung einer feindlichen Einheit unter unterschiedlichen Sichtbedingungen simuliert. Insbesondere:
+- beide Einheiten des Spielers sehen den feindlichen Panzer direkt;
+- eine der Einheiten des Spielers sieht den feindlichen Panzer in direkter Sichtlinie, während die andere den Feind nicht „direkt“ sieht;
+- beide Soldaten sehen den feindlichen Panzer nicht.
+
+							   
+									  
+										  
+[Mission.Success]
+Auftrag erfüllt!
+
+[Mission.Failed]
+Auftrag gescheitert!
+
+[Submission_2.Objectives]
+Die Kamera direkt an eine Einheit heften.
+
+[Submission_2.Description]
+Auf der Karte befinden sich zwei eigene und zwei feindliche Einheiten. Eine der feindlichen Einheiten liegt außerhalb der Spielzone. Das Spiel erlaubt es, die Kamera an jede Einheit innerhalb der Spielzone zu heften, auch an eine feindliche. An Einheiten außerhalb der Spielzone kann die Kamera nicht geheftet werden.
+
+[Submission_2.Success]
+Auftrag erfüllt!
+
+[Submission_2.Failed]
+Auftrag gescheitert!
+
+[StringTable.Line_of_Fire]
+Ihnen wurde ein Geschütz zur Verfügung gestellt. In den meisten Fällen besteht eine Schusslinie, wenn sich eine feindliche Einheit in direkter Sichtlinie des Geschützes befindet. Es gibt aber Fälle, in denen direkte Sicht, aber keine Schusslinie besteht – das wird durch ein Hindernis auf der Schusslinie des Geschützes verursacht (Geländefalte, Zaun usw.) oder dadurch, dass das Geschütz wegen eines unzureichenden Senkungs-/Erhöhungswinkels des Rohrs nicht auf das Ziel gerichtet werden kann. Sieht das Geschütz die feindliche Einheit nicht direkt, sieht sie aber eine Einheit Ihrer Armee direkt, so fehlt die Schusslinie meistens; es gibt jedoch Situationen, in denen das Geschütz den Feind nicht direkt sieht, aber eine Schusslinie hat. Am häufigsten tritt das auf, wenn die feindliche Einheit weiter entfernt ist als die Sichtweite oder wenn der Feind durch Vegetation verdeckt ist. In diesem Fall kann das Geschütz feuern.
+
+[Submission_3.Objectives]
+Den feindlichen Panzer vernichten.
+
+[Submission_3.Description]
+Ihnen steht ein Geschütz zur Verfügung. Vernichten Sie den feindlichen Panzer.
+
+[Submission_3.Success]
+Auftrag erfüllt!
+
+[Submission_3.Failed]
+Auftrag gescheitert!
+
+[StringTable.Howitzer_1]
+Übernehmen Sie das Kommando über eine Artilleriebatterie. Sie kann aus verdeckter Stellung indirektes Feuer führen, sofern die Flugbahn des Geschosses es zulässt. Die Steilheit der Flugbahn hängt von der Anfangsgeschwindigkeit des Geschosses ab. Je niedriger die Geschwindigkeit, desto leichter lässt sich das Geschoss bei kurzer Entfernung über Geländefalten werfen. Manchmal müssen Sie die Stellung des Geschützes sorgfältig wählen, damit es auf das gewünschte Gebiet feuern kann.
+
+[StringTable.Howitzer_2]
+Ist nur eine Einheit ausgewählt, wird beim Überfahren des Feindes mit dem Mauszeiger die Flugbahn berechnet, und die Art des Symbols am Cursor zeigt, ob ein Schuss möglich ist. Die Berechnung der Flugbahn berücksichtigt die Anfangsgeschwindigkeit des aktuellen Geschosses; wählen Sie daher Sprenggranaten gezielt per Rechtsklick auf das Granatensymbol in der Waffenleiste aus, da sie eine niedrigere Anfangsgeschwindigkeit haben. Versuchen Sie, die leichte Ausrüstung des Feindes mit dem Befehl „Flächenfeuer“ {hkey:groundattack} auszuschalten. Ist nur eine Einheit ausgewählt, erscheint nach der Aktivierung des Befehls eine Linie mit Pfeil, die zeigt, ob direkte Sicht zum Cursor besteht, und die Art des Symbols am Cursor zeigt, ob eine indirekte Flugbahn zu diesem Punkt existiert. Sie können einen einzelnen Punkt angeben oder ein Feuerfeld festlegen, indem Sie die rechte Maustaste gedrückt halten.
+
+[Submission_4.Objectives]
+Die Gruppe leichter feindlicher Ausrüstung ausschalten.
+
+[Submission_4.Description]
+Ihnen steht eine Artilleriebatterie zur Verfügung. Schalten Sie die Gruppe feindlicher Fahrzeuge aus.
+
+[Submission_4.Success]
+Auftrag erfüllt!
+
+[Submission_4.Failed]
+Auftrag gescheitert!
+
+[StringTable.Tank_Vis_Line_1]
+Übernehmen Sie das Kommando über einen Panzer M3 „Lee“.
+Jede Besatzungsposition in einem Fahrzeug kann mit optischen Geräten oder Sehschlitzen ausgestattet sein, durch die das Besatzungsmitglied abwechselnd blickt. Optische Geräte können ausfallen; Informationen über ihren Zustand erhalten Sie in einem Tooltip, wenn Sie den Mauszeiger über die Position eines Besatzungsmitglieds in der unteren Infoleiste des Interface bewegen. Beobachtungsgeräte haben einen vertikal und horizontal begrenzten Sichtsektor und können optische Vergrößerung, keine Vergrößerung oder eingeschränkte Sicht bieten. Offen sitzende Besatzungsmitglieder beobachten ohne optische Geräte, wie gewöhnliche Infanterie.
+
+[StringTable.Tank_Vis_Line_2]
+Die Position Ihres Panzers ändern und den feindlichen Pz IV ausschalten.
+Der Richtschütze im Turm kann die 37-mm-Kanone nicht abfeuern, da er keine Granaten hat, beobachtet aber durch seine optischen Geräte und hat voraus einen Panzer entdeckt, der teilweise durch eine Geländefalte verdeckt ist. Das Geschütz im Sponson ist schussbereit, hat aber keine Schusslinie.
+Um die Schusslinie eines bestimmten Geschützes im Panzer zu prüfen, wählen Sie das Geschütz per Linksklick auf das Geschützsymbol in der Waffenleiste aus und verwenden Sie dann einen der Befehle (zum Beispiel „Angriff“ {hkey:attack}, „Sturm“ {hkey:storm} oder „Flächenfeuer“ {hkey:groundattack}), um die Schusslinie zu prüfen.
+
+[Submission_5.Objectives]
+Den feindlichen Panzer ausschalten.
+
+[Submission_5.Description]
+Ihnen steht ein Panzer M3 „Lee“ zur Verfügung. Schalten Sie den feindlichen Panzer aus.
+
+[Submission_5.Success]
+Auftrag erfüllt!
+
+[Submission_5.Failed]
+Auftrag gescheitert!

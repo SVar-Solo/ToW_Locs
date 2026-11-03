@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Захватить высоту 112
+[Mission.Description]
+Захватить и удерживать позиции на высоте 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Захватить позиции на юго-западном склоне высоты.
+[Submission_1.Description]
+Выбить противника с позиций на юго-западном склоне.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Захватить позиции на восточном склоне высоты
+[Submission_2.Description]
+Выбить противника с восточного склона.
+[Submission_3.Objectives]
+Занять ферму на севере деревни.
+[Submission_3.Description]
+Противник занявший позиции в районе фермы может вести фланговый огонь по нашим войскам, наступающим вдоль склона высоты 112.
+[Submission_4.Objectives]
+Освободить деревню на юго-западном склоне.
+[Submission_4.Description]
+Противник с позиций в деревне может эффективно поддерживать огнем войска на юго-западном склоне.
+[Submission_5.Objectives]
+Уничтожить контратакующие танки противника.
+[Submission_5.Description]
+Встречной атакой тяжелых танков противник пытается уничтожить наши атакующие войска.
+[Mission.Success]
+Противник выбит из района высоты 112
+[Mission.Failed]
+Задача не выполнена.
+[Submission_1.Success]
+Юго-западный склон высоты очищен от немцев.
+[Submission_1.Failed]
+Задача не выполнена.
+[Submission_2.Success]
+Противник потерял позиции на восточном склоне.
+[Submission_2.Failed]
+Задача не выполнена.
+[Submission_3.Success]
+Ферма под контролем.
+[Submission_3.Failed]
+Задание не выполнено.
+[Submission_4.Success]
+Деревня освобождена от противника.
+[Submission_4.Failed]
+Задача не выполнена.
+[Submission_5.Success]
+Контратака отбита.
+[Submission_5.Failed]
+Задача не выполнена.
+[StringTable.Tanks]
+Группа резерва на связи.

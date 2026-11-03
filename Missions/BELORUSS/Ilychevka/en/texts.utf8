@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Liberate Ilyichevka, Gorovatka, Shapechino. Eliminate enemy forces in the area.
+[Mission.Description]
+Liberate Ilyichevka, Gorovatka, Shapechino. Eliminate enemy forces in the area.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission1.Objectives]
+Liberate Ilyichevka.
+[Submission1.Description]
+Liberate Ilyichevka.
+[Submission1.Success]
+Task accomplished.
+[Submission1.Failed]
+Task failed.
+[Submission2.Objectives]
+Liberate Gorovatka.
+[Submission2.Description]
+Liberate Gorovatka. Eliminate mobile combat team coming to aid the enemy.
+[Submission2.Success]
+Task accomplished.
+[Submission2.Failed]
+Task failed.
+[Submission3.Objectives]
+Liberate Shapechino.
+[Submission3.Description]
+Liberate Shapechino.
+[Submission3.Success]
+Task accomplished.
+[Submission3.Failed]
+Task failed.

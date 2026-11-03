@@ -1,0 +1,47 @@
+﻿[Submission_2.Objectives]
+E' stata individuata una posizione difensiva. Il tuo compito è di far allontanare il nemico.
+[Submission_2.Description]
+Il servizio informativo ti ha permesso di individuare una posizione difensiva tedesca in un insediamento urbano. Per permettere l'ulteriore avanzata della terza armata americana, devi neutralizzare il nemico.
+ 
+I tuoi ordini sono:
+-	Elimina le truppe nemiche.
+[Submission_2.Success]
+L'insediamento è nelle nostre mani!
+[Submission_2.Failed]
+La feroce resistenza tedesca si è rivelata più seria di quanto ci si immaginava! Sei stato sconfitto.
+[Submission_1.Objectives]
+Vai in ricognizione nell'insediamento usando i mezzi a tua disposizione.
+[Submission_1.Description]
+Le truppe tedesche stanno fuggendo, ma si sono lasciate indietro delle forze di retroguardia che ora devi affrontare.
+
+I tuoi ordini sono:
+-	Vai in ricognizione nel prossimo insediamento.
+[Submission_1.Success]
+E' stata completata la ricognizione dell'insediamento.
+[Submission_1.Failed]
+L'unità di esplorazione è stata eliminata
+[Submission_3.Objectives]
+Continua lungo la strada. Distruggi l'ultima posizione difensiva tedesca che si trova prima del ponte lungo il canale.
+[Submission_3.Description]
+
+I tuoi ordini sono:
+-	Continua la tua avanzata fino al prossimo insediamento.
+-	Attacca i nemici che incontri.
+[Submission_3.Success]
+L'ultimo ostacolo sulla strada per Brussels è stato eliminato!
+[Submission_3.Failed]
+Hai perso. L'avanzata della terza armata ritarderà a causa tua.
+[Mission.Objectives]
+Elimina le posizione difensive tedesche.
+[Mission.Description]
+Dopo lo sbarco alleato in Normandia, le truppe tedesche si stanno rapidamente ritirando, anche se alcune delle loro truppe stanno opponendo una fiera resistenza. I tedeschi hanno stabilito delle posizioni difensive in ogni villaggio, trasformandoli in fortezze quasi inespugnabili. Anche se Rommel non è riuscito a stabilire una linea fortificata per la mancanza di tempo e di risorse, i soldati tedeschi continuano a combattere.
+I tempi dell'operazione pianificati da Eisenhower e da Montgomery sono stati più volte ritardati.
+ 
+I tuoi ordini sono:
+-	Distruggi le difese tedesche.
+[Mission.Success]
+Hai vinto! Sei riuscito ad allontanare i tedeschi dalle loro posizioni!
+[Mission.Failed]
+Hai perso! I tedeschi occupano ancora delle posizioni chiave in quest'area. 
+[StringTable.reserv]
+I rinforzi sono arrivati in tuo aiuto.

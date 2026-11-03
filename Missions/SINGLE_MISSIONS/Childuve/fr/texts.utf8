@@ -1,0 +1,17 @@
+﻿[Mission.Description]
+Le 11 août 1944, à 3 h 00, l’avant-garde de la 95e division de fusiliers de la Garde (95e sd de la Garde), qui occupait la route Khmelnik–Szydlów dans le secteur de Skadla-Rachice, a été attaquée par un important groupe de chars et d’infanterie motorisée ennemis. Au cours du combat, le détachement a subi de lourdes pertes et a été repoussé en direction du sud-est. L’ennemi continue d’avancer en direction de Szydlów. Un ordre a été reçu : « Avec les forces du 1076e IPTAP, se porter sur l’axe menacé et repousser les attaques des chars ennemis. »
+[StringTable.1]
+Ordre de combat : prendre position en défense sur les approches de la ville de Szydlów, repousser les attaques des chars et de l’infanterie motorisée.
+[StringTable.2]
+La 2e batterie s’est approchée du champ de bataille.
+[StringTable.3]
+Les batteries ont subi de lourdes pertes. Les combattants survivants doivent se replier vers le secteur de Szydlów.
+[StringTable.4]
+L’ordre a été exécuté, les attaques des chars ennemis ont été repoussées.
+
+
+
+[Mission.Objectives]
+Tenir les positions
+[Mission.Success]
+[Mission.Failed]

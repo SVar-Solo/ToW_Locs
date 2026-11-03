@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+Su unidad mecanizada debe ayudar a nuestros aliados en la defensa e impedir que el enemigo cruce el paso de Kasserine. Actuando según convenga, debe asestar golpes sorpresa a los alemanes atacantes. El enemigo es superior tanto en número como en adiestramiento, por lo que las emboscadas serían una táctica razonable. Nuestras tropas han minado los dos pasos principales. Está autorizado a emplear fuerzas aéreas.
+[Submission_1.Description]
+Ayude a nuestros aliados
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+Misión fallida.
+[StringTable.Change_army]
+Las tropas aliadas han sido puestas bajo su mando.
+[Submission_2.Objectives]
+Elimine la fuerza de tanques enemiga. No les permita cruzar el paso.
+[Submission_2.Description]
+Elimine la fuerza de tanques enemiga
+[Submission_2.Success]
+Los tanques enemigos han sido destruidos.
+[Submission_2.Failed]
+Los tanques enemigos han roto nuestras líneas.
+[Submission_3.Objectives]
+El enemigo ha empleado tanques adicionales de su reserva. Debe destruirlos e impedir que crucen el paso.
+[Submission_3.Description]
+Elimine la reserva enemiga
+[Submission_3.Success]
+Los tanques enemigos han sido destruidos.
+[Submission_3.Failed]
+Misión fallida.
+[Submission_4.Objectives]
+Rechazamos los ataques enemigos, pero han logrado instalar emplazamientos de obuses justo delante del paso. Al disparar contra nuestras posiciones, ya han causado graves daños. Tome todas las fuerzas disponibles y destruya la artillería enemiga.
+[Submission_4.Description]
+Destruya la artillería enemiga
+[Submission_4.Success]
+Los emplazamientos enemigos han sido destruidos.
+[Submission_4.Failed]
+Misión fallida.

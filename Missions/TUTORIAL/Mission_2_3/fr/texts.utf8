@@ -1,0 +1,278 @@
+﻿[StringTable.1]
+Pour ouvrir la fenêtre des ordres de commandement en cours, appuyez sur le bouton BRIEFING dans le coin supérieur droit de l’écran (l’icône « enveloppe »).
+
+[StringTable.2]
+En mode de déplacement libre et avec un faible niveau de danger, votre infanterie essaiera de trouver un abri à proximité. Si un ennemi est repéré, les soldats peuvent changer de posture ou légèrement modifier leur position tout en restant à couvert, pour tirer plus commodément.
+
+[StringTable.3]
+Certains soldats ont des grenades fumigènes ; il est parfois nécessaire de poser un écran de fumée pour atteindre l’abri suivant et traverser une zone dégagée.
+Utilisez la commande « Écran de fumée » {hkey:smokecloud} et indiquez par un clic droit un point de lancer de la grenade à portée de jet. Vous pouvez aussi sélectionner de force la grenade voulue dans l’inventaire et la lancer avec la commande « Tir de zone » {hkey:groundattack}.
+
+[StringTable.4]
+Quand les soldats s’approchent de l’ennemi à courte distance, ils peuvent engager un combat au corps à corps. L’issue du corps-à-corps dépend du niveau de compétence « Reconnaissance » des soldats.
+Si l’ennemi est nettement plus nombreux et que le moral des soldats est bas, ils peuvent paniquer (perte temporaire de contrôle) ou se rendre (perte totale de contrôle).
+Une infobulle détaillée sur l’état du moral d’un soldat s’affiche en survolant avec la souris la ligne « moral » du panneau d’informations de l’unité.
+
+[StringTable.5]
+Si des ennemis sont retranchés dans un bâtiment, vous pouvez essayer de les « enfumer » en lançant une grenade par une fenêtre ou une porte en mode « Tir de zone » {hkey:groundattack}. Même si la grenade n’atterrit pas où elle devrait, il y a une chance que les soldats ennemis sortent en courant du bâtiment sous le feu de vos soldats.
+
+[StringTable.6]
+Capturer l’automitrailleuse. Sélectionnez au moins deux soldats pour servir le véhicule capturé – l’un doit avoir une compétence de conducteur élevée, l’autre une compétence de tireur élevée.
+
+[StringTable.7]
+Un appui aérien est disponible. Au lieu d’attaquer les canons ennemis de front, il est recommandé de repérer leur emplacement avec un tireur d’élite, puis d’appeler des avions d’attaque dans cette zone. Il leur faudra un certain temps pour gagner la zone indiquée, puis ils chercheront des cibles à proximité. S’il n’y a pas de cibles près du point indiqué, les avions d’attaque s’en prendront à d’autres cibles prioritaires qu’ils peuvent détecter avec les armes de bord correspondantes.
+
+[Submission1.Objectives]
+Déplacer l’escouade jusqu’aux points de passage indiqués.
+[Submission1.Description]
+Vos ordres :
+- Déplacer l’escouade en formation en colonne jusqu’au point de passage 1.
+
+Pour cela :
+- Sélectionnez l’escouade d’infanterie en traçant un cadre de sélection autour d’elle tout en maintenant le bouton gauche de la souris –ou– en double-cliquant sur l’icône du chef.
+- Sélectionnez la formation – COLONNE 
+- Sélectionnez le mode de déplacement – COURSE
+- Pointez le curseur sur l’emplacement cible et cliquez avec le bouton droit de la souris.
+- Choisissez l’orientation de la formation en maintenant le bouton droit de la souris et en déplaçant la souris.
+
+Remarque :
+- Formations disponibles : LIBRE, LIGNE, COLONNE, TENAILLE
+- La formation utilisée par défaut par les troupes est LIGNE
+- Le changement de formation n’est possible que lorsque vous donnez un ordre de déplacement
+- Modes de déplacement disponibles : LIBRE, BOND COURT, FURTIF
+- Le mode utilisé par défaut par les troupes est LIBRE
+- Les troupes peuvent changer de mode de déplacement à leur discrétion
+- L’ordre de déplacement par défaut est ASSAUT
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+Il s’ensuit que si l’on plie bagage et qu’on se met en route à toute allure, sans s’arrêter ni de jour ni de nuit, en marchant à marche forcée sur cent li, les trois généraux seront capturés. Car les troupes vigoureuses arriveront les premières et les faibles traîneront derrière, de sorte que, par cette méthode, un dixième seulement de l’armée arrivera.
+
+[Submission1.Success]
+Mission accomplie !
+[Submission1.Failed]
+Mission échouée !
+[Submission2.Objectives]
+Éliminer les unités ennemies qui défendent.
+[Submission3.Objectives]
+Nettoyer la zone et utiliser le véhicule blindé et la mitrailleuse ennemis pour établir une position défensive.
+[Submission3.Description]
+Vos ordres :
+- Nettoyer la zone.
+- Utiliser la mitrailleuse et le véhicule blindé ennemis pour établir une défense de l’escouade dans le village.
+
+Pour cela :
+- Sélectionner les soldats ayant les meilleures compétences de conducteur et de tireur.
+- Les embarquer dans le véhicule blindé abandonné.
+- Placer deux soldats sur la mitrailleuse pour l’utiliser.
+- Placer un soldat avec une compétence de tir élevée sur la mitrailleuse.
+- Ramasser les armes et munitions abandonnées.
+
+Remarque :
+- Chaque escouade est dirigée par un chef. Votre capacité à contrôler vos troupes dépend en grande partie de sa présence sur le champ de bataille. Si le chef est tué, l’escouade peut perdre sa cohésion et même fuir le champ de bataille : protégez donc votre chef
+
+- Cliquez sur un char, un canon ou un véhicule vide... utilisez le bouton droit de la souris pour ordonner à votre soldat d’embarquer dans l’objet sélectionné
+- Utilisez comme conducteur le soldat ayant la meilleure note de CONDUCTEUR
+- Utilisez comme tireur le soldat ayant la meilleure note de TIREUR 
+- Vous pouvez changer les positions des soldats à l’intérieur d’un char, d’un canon ou d’un véhicule
+- Sélectionnez un membre d’équipage et, en maintenant le bouton gauche de la souris, faites-le glisser vers une autre position. Notez que l’échange des positions prend un certain temps
+- Il faut au moins un équipage de deux hommes pour déplacer une mitrailleuse. Un seul membre d’équipage suffit pour la faire pivoter
+- Pour obtenir la meilleure puissance de feu d’une mitrailleuse, placez un soldat ayant une bonne compétence de tir au poste de tireur
+- Pour ramasser une arme ou des munitions abandonnées, placez un soldat chargé de cette action près de l’objet abandonné et activez le bouton INVENTAIRE (un bouton avec une icône de pistolet sur le panneau inférieur). Un panneau des objets posés au sol près du soldat s’affichera et vous pourrez faire glisser manuellement les objets vers le panneau des armes et le sac à dos. Vous pouvez aussi ordonner au soldat de ramasser automatiquement tous les objets au sol ou seulement les meilleurs en cliquant sur les boutons correspondants du panneau d’inventaire. Par défaut, les soldats ramassent automatiquement les meilleures armes. Vous pouvez désactiver ce mode pour les soldats sélectionnés en cliquant sur le bouton RAMASSAGE AUTO sur la barre de commandes.
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+Aussi, discerne les plans de l’ennemi et tu sauras quelle stratégie réussira et laquelle échouera ;
+Agite-le et découvre le schéma de ses mouvements.
+Détermine son dispositif et tu connaîtras ainsi le champ de bataille.
+Sonde-le et apprends où sa force est abondante et où elle fait défaut.
+
+[Submission3.Success]
+Mission accomplie !
+[Submission3.Failed]
+Mission échouée !
+[Mission1.Objectives]
+BRIEFING GÉNÉRAL 
+[Mission1.Description]
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+1. Sois donc d’abord timide comme une jeune fille. Quand l’ennemi te laisse une ouverture, sois rapide comme un lièvre et il ne pourra te résister.
+
+2. Si je parviens à discerner le dispositif de l’ennemi tout en dissimulant le mien, je peux me concentrer alors qu’il doit se diviser. Et si je me concentre tandis qu’il se divise, je puis employer toute ma force contre une fraction de la sienne. Là, je serai supérieur en nombre. Alors, si je peux frapper avec beaucoup d’hommes contre peu au point choisi, ceux que j’affronte seront en fâcheuse posture.
+
+3. En général, au combat, utilise les forces ordinaires pour engager ; utilise les forces extraordinaires pour vaincre.
+
+4. On se défend quand sa force est insuffisante ; on attaque quand elle est abondante.
+ 
+5. Veille à nourrir les troupes ; ne les fatigue pas inutilement. Unis-les en esprit ; ménage leurs forces. Forme des plans insondables pour les mouvements de l’armée. 
+
+6. Et de même que l’eau règle son cours selon le terrain, l’armée assure sa victoire selon la situation de l’ennemi.
+Et de même que l’eau n’a pas de forme constante, il n’y a pas à la guerre de conditions constantes.
+Ainsi, celui qui sait remporter la victoire en modifiant sa tactique selon la situation de l’ennemi peut être dit divin.
+
+[Mission1.Success]
+Vous avez rempli vos objectifs ! Vous avez été promu au grade d’officier de l’Armée rouge !
+[Mission1.Failed]
+Mission échouée !
+[Submission2.Description]
+Vos ordres :
+- Détruire l’escouade allemande dans le village de Malinki, point de passage 2
+
+Pour cela :
+- Garder le contrôle de chaque soldat en donnant des ordres individuels en temps voulu
+- Utiliser des grenades à main pour attaquer les soldats ennemis cachés derrière un abri (cliquez gauche sur le bouton de grenade à main pour l’activer comme arme)
+- Utiliser des tireurs d’élite pour éliminer les officiers ennemis et les servants de mitrailleuses (si votre tireur d’élite est tué, un autre soldat – de préférence avec une compétence de tir élevée – peut ramasser le fusil à lunette)
+- Neutraliser la résistance ennemie par le feu de mitrailleuse
+- Utiliser les pauses tactiques pour donner des ordres et garder une bonne appréciation de la situation
+
+Remarque :
+- Quand vos soldats voient des soldats ennemis, ils ouvrent le feu d’eux-mêmes, sauf si l’ordre « Cessez le feu » a été donné
+- En sélectionnant un soldat, vous pouvez choisir l’arme qu’il utilisera au combat en cliquant avec le bouton gauche de la souris dans le panneau des armes. Vous pouvez interdire l’emploi de certaines armes, grenades ou munitions précieuses par un clic droit.
+- Choisissez des grenades pour anéantir les ennemis cachés derrière des obstacles. Il existe des grenades offensives (faible rayon d’explosion ; utilisées parce que l’attaquant n’a généralement pas d’abri) et des grenades défensives (grand rayon d’explosion ; utilisées parce que le défenseur est généralement à couvert)
+- Vous pouvez assigner des cibles à chaque soldat indépendamment
+- En sélectionnant la commande ATTAQUE et en cliquant avec le bouton droit de la souris sur une unité cible, vous ordonnez à votre soldat d’attaquer la cible avec l’arme sélectionnée. Le soldat se rapprochera de l’ennemi s’il est hors de la portée efficace de son arme
+- En sélectionnant la commande ASSAUT et en cliquant avec le bouton droit de la souris sur un emplacement cible, vous ordonnez au soldat de foncer sur la cible. Le soldat se rapprochera de l’ennemi en tirant en mouvement et tentera de le détruire avec des grenades.
+- En sélectionnant la commande ATTAQUER LE SOL et en cliquant avec le bouton droit de la souris sur le champ de bataille, vous ordonnez à votre soldat d’attaquer cet emplacement (tir de zone) avec l’arme sélectionnée. Le soldat tentera de tirer sur l’emplacement cible depuis sa position actuelle. Utilisez ce mode avec la grenade sélectionnée pour la lancer sur des ennemis hors de vue de votre combattant.
+- Vous avez un tireur d’élite dans votre escouade ; un soldat avec de hautes notes de « reconnaissance » et de « tir ». Servez-vous de lui pour éliminer l’officier ennemi et les servants du canon, afin de semer la panique chez l’ennemi. 
+- Pour clouer l’ennemi au sol, utilisez votre mitrailleuse. N’oubliez pas de couvrir le mitrailleur, car il sera la cible principale des soldats ennemis. 
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+L’ennemi ne doit pas savoir où j’ai l’intention de livrer bataille. Car s’il l’ignore, il doit se préparer en de très nombreux endroits. Et quand il se prépare en de très nombreux endroits, ceux que j’aurai à combattre en un lieu donné seront peu nombreux.
+Car s’il se prépare à l’avant, son arrière sera faible, et s’il se prépare à l’arrière, son avant sera fragile. S’il se prépare à gauche, sa droite sera vulnérable, et s’il se prépare à droite, il y aura peu d’hommes à sa gauche. Et quand il se prépare partout, il est faible partout.
+
+[Submission2.Success]
+Vous avez accompli votre mission !
+[Submission2.Failed]
+Mission échouée !
+[Submission4.Objectives]
+Capturer le véhicule blindé
+[Submission4.Description]
+Capturer le véhicule blindé
+
+Remarque :
+Sélectionnez un ou deux soldats, placez le curseur sur un véhicule blindé (le curseur se change en icône d’« embarquement ») et faites un clic droit. Vos soldats courront pour monter dans le véhicule blindé.
+[Submission4.Success]
+Tâche accomplie !
+[Submission4.Failed]
+Tâche échouée !
+[Submission5.Objectives]
+Repousser l’attaque ennemie.
+[Submission5.Description]
+Vos ordres :
+- Éliminer l’ennemi attaquant au point de passage 3
+
+Pour cela :
+- Exploiter la mobilité et le blindage du véhicule blindé
+- Utiliser les armes et équipements capturés
+- Prendre l’initiative et éliminer l’ennemi par une contre-attaque décisive
+
+Remarque :
+- Pour choisir les obus à tirer dans un véhicule blindé, un char ou un canon, cliquez gauche sur le canon (une liste des obus disponibles pour ce canon s’ouvre) puis cliquez gauche sur l’obus de votre choix. Le canon sera rechargé avec un obus du type de munition choisi
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+C’est un principe de guerre de ne pas supposer que l’ennemi ne viendra pas, mais de compter sur sa propre préparation à le recevoir ; de ne pas présumer qu’il n’attaquera pas, mais de se rendre soi-même invincible.
+
+[Submission5.Success]
+Mission accomplie !
+[Submission5.Failed]
+Mission échouée !
+[Submission6.Objectives]
+Détruire les canons ennemis
+[Submission6.Description]
+Vos ordres :
+- Détruire les canons ennemis au point de passage 4
+- Appeler un appui aérien pour détruire les canons ennemis
+
+Pour cela :
+- Sélectionner l’appui aérien disponible
+- Les types d’appui aérien suivants sont disponibles dans le jeu : AVIONS D’ATTAQUE AU SOL, CHASSEURS, BOMBARDIERS et ÉCLAIREURS 
+
+Remarque :
+- Les AVIONS D’ATTAQUE AU SOL servent à détruire les véhicules légèrement blindés et les canons ennemis
+- Les CHASSEURS servent à contrer et détruire les avions ennemis
+- Les BOMBARDIERS servent à lancer des frappes aériennes sur les positions ennemies fortifiées
+- Les ÉCLAIREURS servent à recueillir des renseignements au-dessus du champ de bataille
+- N’envoyez pas le véhicule blindé en avant, car il peut être facilement détruit par les canons ennemis
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+Si l’on demande : « Peut-on rendre les troupes capables d’une coordination aussi instantanée ? », je réponds : « Oui. » Car, bien que les hommes de Wou et de Yue se haïssent mutuellement, s’ils se trouvaient ensemble dans une barque ballottée par le vent, ils coopéreraient comme la main droite avec la gauche.
+Il ne suffit donc pas de placer sa confiance dans des chevaux entravés ou des roues de chars enterrées.
+Cultiver un niveau uniforme de valeur est l’objet de l’administration militaire. Et c’est par le bon usage du terrain que les forces de choc et les forces souples sont employées au mieux.
+[Submission6.Success]
+Mission accomplie !
+[Submission6.Failed]
+Mission échouée !
+[Submission7.Objectives]
+Appeler un appui aérien.
+[Submission7.Description]
+Appeler un appui aérien.
+Remarque :
+Une icône d’appui aérien apparaîtra au-dessus du panneau inférieur.
+Cliquez sur l’icône d’appui aérien et faites un clic droit sur l’emplacement cible. 
+Il existe 4 types d’avions : éclaireurs, chasseurs, bombardiers et avions d’attaque au sol. 
+[Submission7.Success]
+Tâche accomplie !
+[Submission7.Failed]
+Tâche échouée !
+[Submission8.Objectives]
+Capturer les canons ennemis 
+[Submission8.Description]
+Vos ordres :
+- Capturer les canons ennemis 
+- Établir une position défensive devant le village de Malinki 
+- Placer deux soldats sur le canon pour l’utiliser 
+- Placer le soldat ayant la meilleure note de tireur au poste de tireur
+
+Remarque :
+- Pour sélectionner des obus dans une automitrailleuse, un char, un canon, etc., faites un clic droit sur l’icône de flèche à droite du canon dans le panneau des armes ; une liste des munitions disponibles pour ce canon s’ouvre ; choisissez alors le type de projectile voulu en cliquant avec le bouton gauche de la souris. Le bouton droit de la souris sert à interdire l’emploi du type de projectile sélectionné. Après la sélection d’un projectile, les icônes du canon et du projectile sont surlignées en jaune, ce qui signifie que l’unité n’utilisera que ce canon et ce projectile. Si un autre projectile est déjà chargé dans le tube, le rechargement avec la munition choisie n’aura lieu qu’après le tir du projectile déjà chargé.
+- Les servants peuvent faire pivoter et déplacer le canon ; il faut au moins deux personnes pour le tourner ou le déplacer.
+- Pour obtenir la meilleure cadence et la meilleure précision de tir avec les canons, placez le soldat ayant la meilleure note de tireur au poste de tireur.
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+Autrefois, les guerriers habiles commençaient par se rendre invincibles, puis attendaient que l’ennemi devienne vulnérable.
+L’invincibilité dépend de soi ; la vulnérabilité de l’ennemi dépend de lui.
+Il s’ensuit que ceux qui s’y entendent à la guerre peuvent se rendre invincibles, mais ne peuvent pas rendre l’ennemi à coup sûr vulnérable.
+C’est pourquoi l’on dit qu’on peut savoir comment vaincre sans pouvoir nécessairement le faire.
+L’invincibilité réside dans la défense ; la possibilité de la victoire, dans l’attaque.
+(…) Aussi le chef habile prend-il une position où il ne peut être battu et ne manque aucune occasion de maîtriser son ennemi.
+
+[Submission8.Success]
+Mission accomplie !
+[Submission8.Failed]
+Mission échouée !
+[Submission9.Objectives]
+Détruisez les chars ennemis
+[Submission9.Description]
+
+Vos ordres :
+- Détruire les chars ennemis avec les canons capturés et votre char au point de passage 5
+
+Pour cela :
+- Vous pouvez préciser le point de visée en attaquant une cible – les options possibles sont : VISER PLUS HAUT, VISER LIBREMENT et VISER PLUS BAS
+
+
+Remarque :
+- N’oubliez pas que chaque type d’obus est conçu pour un usage précis
+- Les obus explosifs (HE) sont conçus pour détruire l’infanterie ennemie, les véhicules légèrement blindés et les canons à découvert.
+- L’obus perforant (AP) est plein, sujet aux ricochets et sans charge explosive.
+- L’obus perforant coiffé (APC) est plein, moins sujet aux ricochets et sans charge explosive.
+- L’obus perforant explosif (APHE) est sujet aux ricochets et possède une charge explosive
+- L’obus perforant coiffé à coiffe balistique composite (APCBC) est plein, moins sujet aux ricochets et sans charge explosive.
+- L’obus sous-calibré (APCR, APDS) a un fort pouvoir de pénétration, mais le perd plus vite avec la distance. Il n’a pas de charge dans la chambre, cause moins de dégâts et est moins précis.
+- L’obus antichar à charge creuse (HEAT) perce un obstacle par un jet cumulatif ; sa pénétration ne dépend pas de la distance. Il a aussi un effet de fragmentation explosive limité.
+- Projectile fumigène – conçu pour poser des écrans de fumée.
+
+
+« L’ART DE LA GUERRE » DE SUN TZU
+Sun Tzu a dit :
+Des troupes lancées contre l’ennemi comme une meule contre des œufs sont l’exemple d’un plein agissant sur un vide.
+
+[Submission9.Success]
+Mission accomplie !
+[Submission9.Failed]
+Mission échouée !

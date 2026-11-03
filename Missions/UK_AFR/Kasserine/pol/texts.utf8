@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+Twój oddział zmechanizowany ma pomóc naszym sojusznikom w obronie i nie dopuścić wroga do przejścia przez przełęcz Kasserine. Działaj stosownie do sytuacji i zadawaj nagłe ciosy atakującym Niemcom. Wróg góruje nad nami liczebnością i wyszkoleniem, dlatego rozsądną taktyką będą zasadzki. Nasze wojska zaminowały dwa główne przejścia przez przełęcz. Masz zgodę na użycie lotnictwa.
+[Submission_1.Description]
+Pomóż naszym sojusznikom
+[Submission_1.Success]
+Misja wykonana.
+[Submission_1.Failed]
+Misja nieudana.
+[StringTable.Change_army]
+Wojska sojusznicze zostały oddane pod twoje dowództwo.
+[Submission_2.Objectives]
+Wyeliminuj wrogie siły pancerne. Nie pozwól im przejść przez przełęcz.
+[Submission_2.Description]
+Wyeliminuj wrogie siły pancerne
+[Submission_2.Success]
+Wrogie czołgi zostały zniszczone.
+[Submission_2.Failed]
+Wrogie czołgi się przebiły.
+[Submission_3.Objectives]
+Wróg użył dodatkowych czołgów z rezerwy. Masz je zniszczyć, nie dopuszczając do przejścia przez przełęcz.
+[Submission_3.Description]
+Wyeliminuj wrogą rezerwę
+[Submission_3.Success]
+Wrogie czołgi zostały zniszczone.
+[Submission_3.Failed]
+Misja nieudana.
+[Submission_4.Objectives]
+Odparliśmy ataki wroga, ale zdołał on urządzić stanowiska haubic tuż przed przełęczą. Ostrzeliwując nasze pozycje, zdążył już wyrządzić poważne szkody. Weź wszystkie dostępne siły i zniszcz wrogą artylerię.
+[Submission_4.Description]
+Zniszcz wrogą artylerię
+[Submission_4.Success]
+Wrogie stanowiska zostały zniszczone.
+[Submission_4.Failed]
+Misja nieudana.

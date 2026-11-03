@@ -1,0 +1,26 @@
+﻿[Submission1.Objectives]
+Respingi l’attacco nemico.
+[Submission1.Description]
+Le principali direttrici di attacco del nemico verso Volokolamsk puntano su Solnechnogorsk e sulla città di Istra. I tedeschi sono già arrivati vicino all’area situata tra il bacino dell’Istra e il fiume Istra. In alcuni punti le truppe tedesche sono riuscite anche a passare sulla riva orientale.
+
+Devi contenere l’attacco del nemico e impedire che si avvicini alla città che stai controllando. 
+
+I tuoi ordini sono:
+- Respingi l’attacco nemico.
+[Submission1.Success]
+Gli ordini dell’Alto Comando sono stati eseguiti! Hai fermato l’avanzata degli invasori tedeschi.
+[Submission1.Failed]
+I tedeschi sono riusciti a sfondare le difese e ad occupare la città! Non sei riuscito a eseguire gli ordini dell’Alto Comando!
+[Submission2.Objectives]
+Respingi gli attacchi nemici sui fianchi.
+[Submission2.Description]
+Truppe nemiche avanzano da nord e da sud verso il villaggio per poterci attaccare sui fianchi. Devi impedire queste azioni!
+
+I tuoi ordini sono:
+- Respingi gli attacchi nemici sui fianchi.
+[Submission2.Success]
+Gli ordini dell’Alto Comando sono stati eseguiti! Hai respinto gli attacchi nemici.
+[Submission2.Failed]
+Non sei riuscito a eseguire gli ordini! Le tue truppe sono state sconfitte.
+[StringTable.Retreat]
+La squadra che copriva il tuo fianco sinistro sta fuggendo dal campo di battaglia!

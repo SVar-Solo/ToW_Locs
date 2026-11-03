@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+威力偵察で周辺地域を調べ、遭遇した敵部隊を撃破せよ。
+[Mission.Description]
+連合軍の主力はダンケルクで海路撤退し、残るは散り散りになりながらも抵抗を続けるフランス軍部隊のみである。ドイツ軍が自軍の態勢を立て直そうとしたため、フランス西部の最終的な占領は遅れている。この遅れによりわずかな好機が生じ、フランス軍の反撃が準備された。
+[Mission.Success]
+勝利！敵に大打撃を与えた。
+[Mission.Failed]
+敗北。今日の失敗ですべてが失われたかもしれない！
+[Submission_1.Objectives]
+付近の村に敵部隊がいないか偵察せよ。
+[Submission_1.Description]
+ドイツ軍が前方の町を占領したとの報告がある。前方を偵察し、抵抗に遭遇した場合は町から敵を駆逐せよ。手元の予備兵力は君に配属する。
+
+命令：
+-	町を偵察し、敵と遭遇した場合は交戦せよ。増援が君の指揮下に向かっている。 
+[Submission_1.Success]
+偵察完了。
+[Submission_1.Failed]
+町の偵察に失敗した。
+[StringTable.Add_reserv]
+予備の戦車を受け取った。
+[StringTable.Add_Artillery]
+状況を評価した結果、司令部は追加の砲兵戦力を君に提供した。
+[Submission_2.Objectives]
+町にいる敵を攻撃せよ。
+[Submission_2.Description]
+偵察の結果、ドイツ軍がかなりの部隊を展開したことが判明した。しかし、主力はまだダンケルクから行軍中である。この好機を逃さず、敵の不意を突け。
+
+命令：
+	-  敵が町の陣地を固めている最中に、攻撃を開始せよ。
+[Submission_2.Success]
+敵を排除した。見事だ、指揮官！
+[Submission_2.Failed]
+貴官は失敗した！
+[Submission_3.Objectives]
+敵戦車の攻撃を撃退せよ。
+[Submission_3.Description]
+敵戦力は予想よりはるかに強力であることが判明した。敵は戦闘に相当数の戦車部隊を投入している。
+
+命令：
+	-  敵戦車の攻撃に抵抗せよ。
+[Submission_3.Success]
+敵の攻撃は阻止された！
+[Submission_3.Failed]
+敗北。敵戦車は手強すぎた。

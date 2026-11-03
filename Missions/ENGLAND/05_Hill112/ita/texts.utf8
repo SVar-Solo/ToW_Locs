@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Conquistare la Quota 112.
+[Mission.Description]
+Conquistare e tenere la Quota 112.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Assicurare il versante sud-occidentale.
+[Submission_1.Description]
+Scacciare il nemico dal versante sud-occidentale.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Assicurare il versante orientale.
+[Submission_2.Description]
+Scacciare il nemico dal versante orientale.
+[Submission_3.Objectives]
+Assicurare la fattoria nella parte settentrionale del villaggio.
+[Submission_3.Description]
+Il nemico che occupa la fattoria può battere sul fianco le nostre truppe che avanzano lungo la Quota 112.
+[Submission_4.Objectives]
+Liberare il villaggio sul versante sud-occidentale.
+[Submission_4.Description]
+Il nemico nel villaggio può sostenere efficacemente le proprie truppe schierate sul versante sud-occidentale.
+[Submission_5.Objectives]
+Eliminare i carri armati nemici che contrattaccano.
+[Submission_5.Description]
+Il nemico cerca di scacciarci con un forte contrattacco di carri armati.
+[Mission.Success]
+Quota 112 liberata.
+[Mission.Failed]
+Compito non portato a termine.
+[Submission_1.Success]
+Il versante sud-occidentale è stato ripulito.
+[Submission_1.Failed]
+Compito non portato a termine.
+[Submission_2.Success]
+Nemico scacciato dal versante orientale.
+[Submission_2.Failed]
+Compito non portato a termine.
+[Submission_3.Success]
+Fattoria assicurata.
+[Submission_3.Failed]
+Compito non portato a termine.
+[Submission_4.Success]
+Villaggio liberato.
+[Submission_4.Failed]
+Compito non portato a termine.
+[Submission_5.Success]
+Contrattacco respinto.
+[Submission_5.Failed]
+Compito non portato a termine.
+[StringTable.Tanks]
+Forza di riserva disponibile.

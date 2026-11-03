@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Liberate Rudaki, Osipovo. Secure the road to Vitebsk.
+[Mission.Description]
+Liberate Rudaki, Osipovo. Secure the road to Vitebsk.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission1.Objectives]
+Liberate Rudaki.
+[Submission1.Description]
+Liberate Rudaki.
+[Submission1.Success]
+Task accomplished.
+[Submission1.Failed]
+Task failed.
+[Submission2.Objectives]
+Liberate Osipovo.
+[Submission2.Description]
+Liberate Osipovo.
+[Submission2.Success]
+Task accomplished.
+[Submission2.Failed]
+Task failed.
+[Submission3.Objectives]
+Establish defensive position in Osipovo, repel enemy counter-attacks.
+[Submission3.Description]
+Establish defensive position in Osipovo; get ready to repel enemy attacks.
+[Submission3.Success]
+Task accomplished.
+[Submission3.Failed]
+Task failed.
+[Submission4.Objectives]
+Immediately intercept and destroy enemy HQ detachment retreating along the road to the north! If the HQ convoy breaks out of encirclement, your mission will fail.
+[Submission4.Description]
+Immediately intercept and destroy the enemy HQ detachment retreating along the road to the north!
+[Submission4.Success]
+Task accomplished.
+[Submission4.Failed]
+Task accomplished.
+[Submission5.Objectives]
+The enemy is trying to break out to Rudaki. Intercept and destroy the armoured group.
+[Submission5.Description]
+The enemy is trying to break out to Rudaki. Intercept and destroy the armoured group.
+[Submission5.Success]
+Task accomplished.
+[Submission5.Failed]
+Task failed.

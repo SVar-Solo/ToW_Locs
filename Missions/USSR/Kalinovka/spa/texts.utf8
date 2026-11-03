@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Impida que el enemigo ocupe la Colina 232.8 y rompa hacia Kalínovka.
+[Mission.Description]
+Ocupe y asegure la zona defensiva en las laderas sudorientales de la Colina 232.8. Impida que el enemigo irrumpa hacia Kalínovka. Concentre sus esfuerzos en mantener las posiciones frente a la cresta de la colina. Garantice a toda costa el despliegue en combate del 10.º Cuerpo de Tanques en las inmediaciones de la colina.
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+Nuestras fuerzas se retiran ante el asalto de un enemigo superior.
+[Submission1.Objectives]
+Mantenga sus posiciones hasta que lleguen las unidades del 10.º Cuerpo de Tanques.
+[Submission1.Success]
+Misión cumplida: el avance enemigo ha sido detenido.
+[Submission1.Failed]
+El enemigo ha penetrado el frente y presiona el avance.
+[Submission2.Objectives]
+Contraataque al enemigo junto con las unidades del 10.º Cuerpo de Tanques.
+[Submission2.Success]
+El contraataque avanza según lo previsto; el enemigo se retira.
+[Submission2.Failed]
+El contraataque ha fracasado; nuestras tropas han sido detenidas por fuerzas superiores.
+[StringTable.Support]
+Grupos de tanques e infantería han sido puestos bajo su mando.
+
+[StringTable.Avia_Support]
+Ataque aéreo de Il-2 disponible.
+[StringTable.Art_Support]
+Una batería de artillería de cohetes Katiusha abrirá fuego cuando usted lo indique.
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Destruya las defensas enemigas.
+[Mission1.Description]
+Las tropas enemigas han levantado una línea de defensa en las inmediaciones del pueblo de Kriukovo. Es de vital importancia para nuestras tropas recuperar el control de este pueblo. ¡Destruya toda tropa enemiga que encuentre en los alrededores y recupere la ciudad!
+
+Sus órdenes son:
+- Destruya las defensas enemigas.
+[Mission1.Success]
+¡Las defensas enemigas han sido destruidas! Ha conseguido cumplir sus órdenes.
+[Mission1.Failed]
+¡Han derrotado a sus tropas! Ha fracasado en el cumplimiento de sus órdenes.
+[Mission2.Objectives]
+Rechace el contraataque enemigo.
+[Mission2.Description]
+Las tropas alemanas han lanzado un contraataque. Debe proteger las posiciones que acaba de tomar.
+
+Sus órdenes son:
+- Rechace el contraataque enemigo.
+- Proteja las posiciones que acaba de tomar.
+
+[Mission2.Success]
+¡Ha cumplido las órdenes del Estado Mayor! El contraataque enemigo ha sido rechazado.
+[Mission2.Failed]
+Han derrotado a sus tropas. ¡Ha fracasado!

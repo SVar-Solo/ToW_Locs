@@ -1,0 +1,47 @@
+﻿[StringTable.Hoerlein]
+Inicie o ataque depois que os bombardeiros de mergulho terminarem de bombardear as posições russas na aldeia.
+[StringTable.Nebelwerfer_support]
+Um esquadrão de morteiros de foguetes está pronto para apoiar nosso avanço.
+[Mission.Objectives]
+Ocupe a parte norte de Cherkasskoe. Destrua as forças inimigas na área.
+[Mission.Description]
+O grupo de combate ocupará Cherkasskoe num ataque conjunto de tanques, canhões de assalto e infantaria. Após ocupar a primeira posição, esteja pronto para enfrentar os contra-ataques de tanques e canhões autopropulsados inimigos vindos dos flancos.
+[Mission.Success]
+Cherkasskoe foi ocupada, as forças inimigas foram destruídas.
+[Mission.Failed]
+Fracassamos em cumprir nossas ordens. O inimigo é forte demais!
+[Submission_2_1.Objectives]
+Repila os contra-ataques inimigos, destrua tanques e canhões de assalto.
+[Submission_2_1.Success]
+Os tanques russos foram destruídos!
+[Submission_2_1.Failed]
+Nossas forças recuam sob a pressão inimiga.
+[Submission_2_2.Objectives]
+Repila os contra-ataques inimigos, destrua tanques e canhões de assalto.
+[Submission_2_2.Success]
+Os tanques russos foram destruídos!
+[Submission_2_2.Failed]
+Nossas forças recuam sob a pressão inimiga.
+[Submission_3.Objectives]
+O fogo de morteiros russos dificulta nosso avanço. O reconhecimento aéreo mostra que suas posições de tiro ficam no bosque a noroeste de Cherkasskoe. É necessário ocupar essas posições ou suprimir os morteiros com fogo de contrabateria. 
+[Submission_3.Success]
+A bateria de morteiros inimiga foi destruída.
+[Submission_3.Failed]
+Fracassamos em destruir os morteiros inimigos.
+[Submission_4.Objectives]
+Destrua os canhões antitanque russos a nordeste de Cherkasskoe.
+[Submission_4.Success]
+O ponto forte antitanque russo foi destruído.
+[Submission_4.Failed]
+O ataque foi detido, é necessário apoio imediato.
+[StringTable.Hoerlein]
+Inicie o ataque depois que os bombardeiros de mergulho atacarem as posições russas na aldeia.
+[StringTable.Tanks]
+Tanques e infantaria
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+La primera línea de fortificaciones frente a los altos de Seelow ha sido destruida. Las tropas alemanas que quedan se repliegan a su segunda línea de fortificaciones. Su misión consiste en perseguirlas y atravesar esa segunda línea de defensa.
+[Submission_1.Description]
+Nuestros exploradores informan de que en nuestro frente hay un largo canal, cruzado por un puente de carretera intacto. A lo largo del canal hay una ciudad pequeña y algunas posiciones defensivas básicas están situadas en lo alto de las montañas. Asalte las posiciones defensivas en esta zona del canal y asegure el puente.
+
+Sus órdenes:
+-	 Tome las posiciones defensivas alemanas que hay frente al canal.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+Misión fallida.
+[Submission_2.Objectives]
+Tome los altos.
+[Submission_2.Description]
+El enemigo se ha retirado a los altos que dominan la ciudad. Los exploradores nos informan de que hay muchas unidades y posiciones defensivas que ya están en sus puestos. Los alemanes saben que son lo único que queda entre nosotros y Berlín y parece que intenten luchar hasta el final. Destrúyalos, comandante. La victoria final está a nuestro alcance.
+
+Sus órdenes:
+-	 Aplaste la resistencia enemiga y tome los altos de Seelow.
+[Submission_2.Success]
+Los altos de Seelow han sido tomados. Berlín y el final de la guerra están cerca.
+[Submission_2.Failed]
+Misión fallida. Los defensores alemanes han podido resistir su ataque.
+[Mission.Objectives]
+Aplaste la resistencia enemiga y tome los altos de Seelow.
+[Mission.Description]
+A mediados de abril, el ejército alemán, aunque muy mermado, todavía conserva restos de su poder de combate. Pese a tener la moral baja, muchas unidades alemanas siguen al pie del cañón. El estado mayor alemán ha reunido todas las unidades que ha podido en Berlín y sus alrededores mientras el Ejército Rojo prepara la ofensiva final. Antes de atacar Berlín, se han de despejar los altos de Seelow, una zona rodeada con posiciones defensivas, búnkeres, trincheras y unidades decididas a luchar a muerte.
+Hasta la fecha, las tropas rusas han asaltado las montañas pero de momento se han visto obligadas a replegarse. Ahora le toca a usted, comandante. ¡La victoria aguarda!
+
+Sus órdenes:
+-	 Tome los altos de Seelow, cueste lo que cueste.
+[Mission.Success]
+¡Los altos de Seelow han sido capturados! Berlín y el final de la guerra están cerca.
+[Mission.Failed]
+Ha fallado en su cometido Todavía no ha tomado los altos de Seelow.
+[StringTable.reserv]
+Han llegado refuerzos.

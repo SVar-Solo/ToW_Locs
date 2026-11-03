@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Cubra o recuo do 1075º Regimento, 316ª Divisão de Fuzileiros, ocupando posições defensivas perto da parada ferroviária de Dubosekovo.
+[Mission.Description]
+16 de novembro. A 4ª Companhia do 1075º Regimento, 316ª Divisão de Fuzileiros, está ocupando posições defensivas numa colina perto da parada ferroviária de Dubosekovo, 7 quilômetros a sudeste de Volokolamsk. Sua missão principal é deter qualquer ataque das tropas alemãs (a 11ª Divisão Panzer) e dar ao regimento a chance de recuar para realinhar melhor as linhas de frente. Os pesados combates de outubro privaram a divisão de quase 50% de seu efetivo e de quase todo o seu equipamento. Para ajudar a cumprir a missão, a companhia comandada pelo Capitão Gundilovich e pelo Politruk Klochkov recebeu dois canhões antitanque de 45 mm.
+
+Suas ordens:
+- Cubra o recuo do 1075º Regimento, 316ª Divisão de Fuzileiros, ocupando posições defensivas perto da parada ferroviária de Dubosekovo.
+[Mission.Success]
+A ordem foi cumprida!
+[Mission.Failed]
+Você não cumpriu a sua ordem!
+[Submission_1.Objectives]
+Repila o ataque do primeiro escalão inimigo.
+[Submission_1.Description]
+Os batedores relatam que os alemães pretendem atacar do sudoeste, ao longo da rodovia que leva à parada ferroviária de Dubosekovo. Suas forças avançadas são limitadas: apenas um pelotão de infantaria incompleto, dois tanques e alguns veículos blindados.
+
+Suas ordens:
+- Repila o ataque inimigo.
+[Submission_1.Success]
+Ordem cumprida! O ataque inimigo foi repelido.
+[Submission_1.Failed]
+Você não cumpriu a sua ordem! Suas tropas foram destruídas.
+[Submission_2.Objectives]
+Repila o ataque de tanques inimigo.
+[Submission_2.Description]
+As forças alemãs iniciais não conseguiram tomar o controle da parada ferroviária e tiveram de recuar. Agora devemos esperar uma onda de ataque mais poderosa, com mais panzers e infantaria. O inimigo não deve romper até a nossa retaguarda.
+
+Suas ordens:
+- Detenha os panzers inimigos.
+[Submission_2.Success]
+A ordem foi cumprida! O ataque de tanques inimigo foi repelido.
+[Submission_2.Failed]
+Você não cumpriu a sua ordem! Suas tropas foram derrotadas.
+[Submission_3.Objectives]
+Mantenha suas posições.
+[Submission_3.Description]
+Nem um passo atrás! Embora a Rússia seja grande, já não há para onde recuar, pois Moscou está logo atrás.
+
+Suas ordens:
+- Mantenha suas posições.
+[Submission_3.Success]
+A sua ordem foi cumprida!
+[Submission_3.Failed]
+Você não cumpriu a sua ordem!

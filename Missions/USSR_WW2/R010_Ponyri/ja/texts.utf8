@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+増援が到着するまで持ちこたえよ。できるだけ多くの敵部隊を撃滅せよ。
+[Submission_1.Description]
+
+命令：
+- 	増援が到着するまで持ちこたえよ。 
+- 	できるだけ多くの敵部隊を撃滅せよ。 
+[Submission_1.Success]
+増援が到着した！
+[Submission_1.Failed]
+敗北。貴官は十分な時間を持ちこたえられなかった。
+[Submission_2.Objectives]
+陣地を保持せよ。
+[Submission_2.Description]
+ポヌィリの鉄道駅は、クルスク突出部北面における我が防御の要である。それを悟ったドイツ軍司令部は、最も重い部類の装甲部隊と自走砲部隊をこの地区に配置した。 
+
+命令：
+- 	ポヌィリの駅の陣地を保持せよ。 
+[Submission_2.Success]
+よくやった、指揮官。貴官は圧倒的な劣勢の中で持ちこたえた。
+[Submission_2.Failed]
+貴官は祖国の期待を裏切った！ 貴官の部隊は壊滅した。
+[Mission.Objectives]
+ドイツ軍の進撃を阻止せよ。 
+[Mission.Description]
+クルスク突出部の北側全域で、ドイツ軍部隊はポヌィリの駅付近で激しく戦っている。 
+
+命令： 
+- 	駅付近で我が前線を突破させるな。 
+[Mission.Success]
+貴官の命令は成功した。ドイツ軍は前線を突破できなかった。 
+[Mission.Failed]
+貴官はドイツ軍の突破を阻止できなかった。彼らは今やクルスクへ直進している。
+[StringTable.T34_Income]
+増援が到着した。
+[StringTable.SPG_reserv]
+増援が到着した。 
+[StringTable.Inf_reserv]
+予備の歩兵があなたの指揮下に入った。

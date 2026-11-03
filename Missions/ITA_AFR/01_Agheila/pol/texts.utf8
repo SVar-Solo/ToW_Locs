@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Zniszcz konwój
+[Submission_1.Description]
+Zniszcz wrogi konwój zbliżający się do El Agheila.
+[Submission_01.Success]
+Misja wykonana.
+[Submission_01.Failed]
+Misja nieudana.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Utrzymaj punkt umocniony
+[Mission.Description]
+Zorganizuj obronę, utrzymaj punkt umocniony i całkowicie zablokuj drogę do El Agheila.
+[NewSubmission.Success]
+Misja wykonana.
+[NewSubmission.Failed]
+Misja nieudana.
+[Mission.Success]
+Misja zakończona.
+[Mission.Failed]
+Misja nieudana.
+[Submission_1.Success]
+Konwój zniszczony.
+[Submission_1.Failed]
+Wrogi konwój przedarł się do El Agheila!
+[NewSubmission.Objectives]
+[NewSubmission.Description]

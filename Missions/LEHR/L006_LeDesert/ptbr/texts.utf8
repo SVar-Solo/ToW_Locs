@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Destrua as defesas inimigas na área especificada.
+[Mission.Description]
+À frente de nossas posições, os americanos estabeleceram uma posição fortificada centrada numa pequena cidade. Segundo nossos batedores, há aproximadamente uma companhia de infantaria em posição, apoiada por canhões antitanque de 57 mm e obuseiros de 105 mm.
+ 
+Suas ordens:
+- Com as forças sob seu comando, ataque as posições inimigas e expulse-as.
+[Mission.Success]
+Bom trabalho, Comandante! A defesa inimiga foi rompida.
+[Mission.Failed]
+Missão fracassada! Seu comando foi derrotado.
+[Submission_1.Objectives]
+Capture a aldeia.
+[Submission_1.Description]
+Flanqueie a principal posição defensiva inimiga para assegurar a cidade.
+ 
+Suas ordens:
+- Capture a aldeia. 
+[Submission_1.Success]
+Bom trabalho, Comandante! A aldeia foi capturada.
+[Submission_1.Failed]
+Missão fracassada! Suas tropas foram eliminadas.

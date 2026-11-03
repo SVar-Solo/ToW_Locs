@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Sfondare le difese nemiche nei dintorni di Verchopen'e.
+[Mission.Description]
+La Grossdeutschland prosegue l'assalto a Syrcevo e, una volta occupata, sfonda verso nord in direzione di Verchopen'e e ripulisce dal nemico entrambe le rive della Pena. Il gruppo di combattimento, rinforzato con i carri della brigata di Strachwitz, avanzerà verso Syrcevo, Verchopen'e lungo la riva orientale della Pena e poi raggiungerà la riva occidentale. 
+[Submission_1.Objectives]
+Il nemico ha abbandonato in preda al panico la prima linea di difesa sotto la pressione della nostra artiglieria e della nostra aviazione. L'avanguardia deve occupare rapidamente le posizioni lasciate libere e tenerle fino all'arrivo del grosso delle forze. 
+[Submission_1.Success]
+Missione compiuta.
+[Submission_1.Failed]
+L'avanguardia è stata respinta dal nemico.
+[Mission.Success]
+Missione compiuta. Il posto di comando nemico è stato distrutto.
+[Mission.Failed]
+Non siamo riusciti a eseguire gli ordini. Il nemico è troppo forte!
+[Submission_2.Objectives]
+Respingere i contrattacchi nemici e occupare la seconda linea di difesa dei russi.
+[Submission_2.Success]
+Missione compiuta.
+[Submission_2.Failed]
+L'attacco è stato soffocato, è necessario un supporto immediato.
+[Submission_3.Objectives]
+Attraversare il fiume Pena e distruggere il posto di comando nemico.
+[Submission_3.Success]
+Missione compiuta.
+[Submission_3.Failed]
+L'attacco si è arenato, è necessario un supporto immediato.
+[StringTable.first_support]
+Un gruppo composto da fanteria, carri armati e artiglieria è ora ai vostri ordini.
+[StringTable.second_support]
+Carri armati e semoventi d'assalto sono stati posti ai vostri ordini.
+[StringTable.Inf]
+Fanteria
+[StringTable.Tanks]
+Carri armati
+[StringTable.SPG_close]
+Semoventi d'assalto Stug 40G
+[StringTable.SPG_open]
+Artiglieria semovente
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

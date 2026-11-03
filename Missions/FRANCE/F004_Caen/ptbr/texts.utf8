@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+Mantenha as posições defensivas na área indicada.
+[Mission1.Description]
+A situação é gravíssima; quase não há esperança de salvação. Muitos de nossos irmãos de armas tombaram em combate e, sem dúvida, muitos mais estão destinados a morrer derramando seu sangue nas terras da Normandia. Segundo a inteligência, as tropas alemãs avançam rapidamente em direção à aldeia para eliminar qualquer resistência em seu caminho para Caen. Do oeste e do leste, nossos flancos estão protegidos apenas de forma leve, portanto a probabilidade de as tropas alemãs romperem nessas direções é alta.   
+
+Suas ordens:
+-	Mantenha a defesa da aldeia
+[Mission1.Success]
+Ordem cumprida! Seus soldados mantiveram as posições e salvaram Caen dos alemães, ao menos por enquanto.
+[Mission1.Failed]
+Ordem não cumprida! As tropas alemãs romperam suas posições e irromperam em Caen.  
+[Submission1.Objectives]
+Repila o ataque inimigo vindo do noroeste.
+[Submission1.Description]
+As tropas alemãs avançam em direção à aldeia com o objetivo de eliminar toda a resistência restante. É de importância vital repelirmos esse ataque, impedindo assim o acesso dos alemães a Caen.
+
+Suas ordens:
+-	Repila o ataque inimigo vindo do noroeste.
+[Submission1.Success]
+Você repeliu com sucesso o ataque alemão!
+[Submission1.Failed]
+O inimigo rompeu as defesas!
+[Submission2.Objectives]
+Repila o ataque inimigo vindo do norte.
+[Submission2.Description]
+As tropas alemãs avançam em direção à aldeia com o objetivo de eliminar toda a resistência restante. É de importância vital repelirmos esse ataque, impedindo assim o acesso dos alemães a Caen.
+
+Suas ordens:
+-	Repila o ataque inimigo vindo do norte.
+[Submission2.Success]
+O ataque inimigo foi repelido!
+[Submission2.Failed]
+O inimigo esmagou suas defesas!
+[Submission3_1.Objectives]
+Ataque o grupo de forças inimigo.
+[Submission3_1.Description]
+As forças amigas em nosso flanco oeste cederam e os alemães avançam novamente sobre a aldeia dessa direção. Continue a resistir aos avanços inimigos e detenha este novo ataque!
+
+Suas ordens:
+-	Ataque as forças inimigas que avançam pelo oeste.
+[Submission3_1.Success]
+A ordem foi cumprida e o inimigo está fugindo. Você salvou a situação!
+[Submission3_1.Failed]
+Ordem não cumprida, suas tropas sofreram uma derrota.
+[Submission4.Objectives]
+Ataque o grupo inimigo que avança pelo leste.
+[Submission4.Description]
+As tropas amigas em nosso flanco leste foram dominadas e as tropas alemãs agora se dirigem a Caen. Você deve detê-las!
+
+Suas ordens:
+-	Ataque as tropas inimigas que avançam pelo leste.
+[Submission4.Success]
+Ordem cumprida!
+[Submission4.Failed]
+Ordem não cumprida!
+[Submission5.Objectives]
+Repila a ofensiva das tropas inimigas.
+[Submission5.Description]
+Segundo o reconhecimento aéreo, mais um grupo-tarefa inimigo avança em direção a Caen. É de importância vital que você reúna todas as forças disponíveis e repila o avanço inimigo. Você é a última esperança de deter os alemães!
+
+Suas ordens são:
+- Repila o avanço alemão em direção a Caen.
+[Submission5.Success]
+Ordem cumprida! O ataque inimigo foi repelido!
+[Submission5.Failed]
+O inimigo rompeu! Suas tropas foram eliminadas!
+[StringTable.Reserv]
+Reforços chegaram para apoiá-lo.
+[Submission4_1.Objectives]
+Ataque as tropas inimigas.
+[Submission4_1.Description]
+As tropas amigas em nosso flanco leste foram dominadas e as tropas alemãs agora se dirigem a Caen. Você deve detê-las!
+
+Suas ordens:
+-	Ataque as tropas inimigas que avançam pelo leste.
+[Submission4_1.Success]
+O ataque inimigo foi repelido e o inimigo está fugindo!
+[Submission4_1.Failed]
+Você não conseguiu deter o ataque inimigo e suas tropas foram eliminadas!
+[Submission3.Objectives]
+Ataque o grupo de forças inimigo.
+[Submission3.Description]
+Nossas posições mais a oeste caíram e os alemães avançam rapidamente de novo em direção à aldeia. Você deve atacá-los imediatamente, antes que rompam e tomem Caen.
+
+Sua ordem é:
+- 	Ataque as tropas inimigas que avançam pelo oeste.
+[Submission3.Success]
+A ordem foi cumprida e o inimigo foi derrotado!
+[Submission3.Failed]
+A ordem não foi cumprida e suas tropas foram derrotadas.

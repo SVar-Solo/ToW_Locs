@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+적의 돌파를 허용하지 마라
+[Submission_1.Description]
+적이 방어 시설을 돌파하지 못하게 하라.
+[Submission_01.Success]
+임무 완수.
+[Submission_01.Failed]
+임무 실패.
+[Mission.Objectives]
+적의 공격을 격퇴하라
+[Mission.Description]
+적이 방어선을 돌파하여 전략적 산길을 점령하려 하고 있다. 미군이 방어 거점을 파괴하고 그 도로를 이용해 후방 지역으로 치고 들어오지 못하게 하라.
+[NewSubmission.Success]
+임무 완수.
+[NewSubmission.Failed]
+임무 실패.
+[Submission_2.Objectives]
+우회 기동을 저지하라
+[Submission_2.Description]
+적이 도로를 따라 방어 진지를 우회하지 못하게 하라.
+[Submission_3.Objectives]
+전선을 사수하라
+[Submission_3.Description]
+적이 당장이라도 공격할 것 같다. 방어를 준비하라.
+[Submission_4.Objectives]
+어떤 대가를 치르더라도 적을 저지하라
+[Submission_4.Description]
+귀관은 이제 이 구역의 방어선 전체를 책임진다. 어떤 대가를 치르더라도 적을 저지하라. 첸타우로 기동집단이 도착할 것이며, 공격 격퇴를 도울 것이다.
+[Submission_4.Success]
+임무 완수.
+[Submission_4.Failed]
+임무 실패.
+[Submission_3.Success]
+임무 완수.
+[Submission_3.Failed]
+임무 실패.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+임무 실패.
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+임무 실패.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.

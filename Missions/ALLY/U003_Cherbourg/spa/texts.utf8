@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+Tome las posiciones enemigas en la colina.
+[Submission_1.Description]
+Desde un punto de vista estratégico, la colina es un lugar importante en este sector del frente. Ofrece una gran ventaja a cualquier bando que la ocupe.
+
+Sus órdenes:
+- 	Eche al enemigo de sus posiciones de la colina y organice una línea de defensa allí.
+[Submission_1.Success]
+¡Ha capturado la colina!
+[Submission_1.Failed]
+¡Hemos perdido! No ha podido tomar la colina.
+[Submission_2.Objectives]
+Expanda la cabeza de puente destruyendo las plazas fuertes defensivas del enemigo en los pueblos vecinos.
+[Submission_2.Description]
+Una vez ocupada la colina, atravesará la línea de defensa enemiga. El enemigo todavía está en los flancos. En estos momentos necesitamos expandir la cabeza de puente.
+
+Sus órdenes:
+- 	Destruya todas las posiciones del flanco enemigo.
+[Submission_2.Success]
+Ha cumplido la misión.
+[Submission_2.Failed]
+Ha fallado.
+[Submission_3.Objectives]
+Conserve la colina a toda costa.
+[Submission_3.Description]
+Parece ser que los alemanes se preparan para contraatacar las posiciones donde está usted. Debe resistir su avance.
+
+Sus órdenes:
+- 	Mantenga las posiciones en la colina y destruya toda fuerza enemiga que se le acerque.
+[Submission_3.Success]
+El enemigo ha sido derrotado. La carretera a Cherburgo está despejada.
+[Submission_3.Failed]
+Le han derrotado. La carretera a Cherburgo sigue copada.
+[Mission.Objectives]
+Destruya todo reducto de resistencia alemana cerca del puerto de Cherburgo.
+[Mission.Description]
+La guarnición de Cherburgo ha perdido contacto con el resto de las fuerzas alemanas, razón por la cual no tiene reservas suficientes. Pero, a pesar de la superioridad de los aliados en soldados y armamento, la guarnición ha rechazado la oferta de rendición del general Collins.
+
+Sus órdenes:
+- 	Destruya todo reducto de resistencia alemana cerca del puerto de Cherburgo.
+[Mission.Success]
+Ha logrado una victoria.
+[Mission.Failed]
+Ha fallado. Quedan demasiadas unidades alemanas en esta zona que nos impedirán avanzar en el futuro.
+[StringTable.reserv]
+Han llegado refuerzos.

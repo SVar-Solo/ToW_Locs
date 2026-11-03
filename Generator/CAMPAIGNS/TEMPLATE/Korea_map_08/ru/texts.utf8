@@ -1,0 +1,317 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Атаковать и уничтожить оборону противника, в указанной на карте точке.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Выдвинуться в указанную точку на карте, занять там позиции и отбить все контратаки противника.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Враг уничтожен.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Враг уничтожен.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Задача не выполнена.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Задача не выполнена.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Вашей боевой группе поставлена задача уничтожить оборонительную группировку противника в данном участке фронта.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Вашей боевой группе поставлена задача уничтожить оборонительную группировку противника в данном участке фронта. Данные разведки говорят о том, что враг намерен обороняться активно с применением контратак.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Захватить и удержать перекресток в центре области.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+В центральной часи области расположен перекресток, который пока не принадлежит ни одной из сторон. Наша передовая группа разведчиков уже выдвинулась туда и заняла позиции. Вероятнее всего противник иакже предпримет попытку захвата перекрестка. Вашей группе ставится задача поддержать разведчиков, выдвинувшись основынми силами в район перекрестка.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта. Продержаться некоторое время до особого распоряжения.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Вашей боевое группе приказано удерживать узкий проход южнее перекрестка. По данным разведки противник сосредоточил крупную группировку на этом участке. Вероятно враг намерен прорвать фронт на этом участке. Задача вашей боевой группы не дать противнику возможности осуществить свои планы.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Вашей боевое группе приказано удерживать узкий проход южнее перекрестка. По данным разведки противник сосредоточил крупную группировку на этом участке. Вероятно враг намерен прорвать фронт на этом участке. Задача вашей боевой группы не дать противнику возможности осуществить свои планы.
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Авиационная поддержка доступна
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Группа в составе танков и пехоты в вашем распоряжении
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Группа в составе танков и пехоты в вашем распоряжении
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Аритллерия доступна
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Аритллерия доступна
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Пехота в вашем распоряжении
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Пехота в вашем распоряжении
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиация ждет вашего приказа
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиация ждет вашего приказа
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Атаковать и уничтожить оборону противника, в указанной на карте точке.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Выдвинуться в указанную точку на карте, занять там позиции и отбить все контратаки противника.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Враг уничтожен.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Враг уничтожен.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Задача не выполнена.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Задача не выполнена.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Вашей боевой группе поставлена задача уничтожить оборонительную группировку противника в данном участке фронта.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Вашей боевой группе поставлена задача уничтожить оборонительную группировку противника в данном участке фронта. Данные разведки говорят о том, что враг намерен обороняться активно с применением контратак.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Захватить и удержать перекресток в центре области.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+В центральной часи области расположен перекресток, который пока не принадлежит ни одной из сторон. Наша передовая группа разведчиков уже выдвинулась туда и заняла позиции. Вероятнее всего противник иакже предпримет попытку захвата перекрестка. Вашей группе ставится задача поддержать разведчиков, выдвинувшись основынми силами в район перекрестка.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта. Продержаться некоторое время до особого распоряжения.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Вашей боевое группе приказано удерживать узкий проход южнее перекрестка. По данным разведки противник сосредоточил крупную группировку на этом участке. Вероятно враг намерен прорвать фронт на этом участке. Задача вашей боевой группы не дать противнику возможности осуществить свои планы.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Вашей боевое группе приказано удерживать узкий проход южнее перекрестка. По данным разведки противник сосредоточил крупную группировку на этом участке. Вероятно враг намерен прорвать фронт на этом участке. Задача вашей боевой группы не дать противнику возможности осуществить свои планы.
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Авиационная поддержка доступна
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Группа в составе танков и пехоты в вашем распоряжении
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Группа в составе танков и пехоты в вашем распоряжении
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Аритллерия доступна
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Аритллерия доступна
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Пехота в вашем распоряжении
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Пехота в вашем распоряжении
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиация ждет вашего приказа
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиация ждет вашего приказа
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка доступна
+[Reinforcement.Group_tanks_infantry]
+Танки и пехота из резерва штаба
+[Reinforcement.Group_infantry]
+Пехота
+
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Задача не выполнена
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Задача не выполнена
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Задача не выполнена
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Задание провалено
+[Reinforcement.Group3[Reinforcement]]
+Бронетехника  и пехота
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта.
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Вашей боевой группе поставлена задача уничтожить оборонительную группировку противника в данном участке фронта.
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Атаковать и уничтожить оборону противника, в указанной на карте точке.
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+В центральной часи области расположен перекресток, который пока не принадлежит ни одной из сторон. Наша передовая группа разведчиков уже выдвинулась туда и заняла позиции. Вероятнее всего противник иакже предпримет попытку захвата перекрестка. Вашей группе ставится задача поддержать разведчиков, выдвинувшись основынми силами в район перекрестка.
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Захватить и удержать перекресток в центре области.
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта.
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Захватить и удержать перекресток в центре области.
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+В центральной часи области расположен перекресток, который пока не принадлежит ни одной из сторон. Наша передовая группа разведчиков уже выдвинулась туда и заняла позиции. Вероятнее всего противник иакже предпримет попытку захвата перекрестка. Вашей группе ставится задача поддержать разведчиков, выдвинувшись основынми силами в район перекрестка.
+[Reinforcement.Group2[Reinforcement]]
+555
+[Reinforcement.Group1[Reinforcement]]
+Пехота и бронетехника
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Задача не выполнена
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Задача не выполнена
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Задача не выполнена
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Задание провалено
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта.
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Вашей боевой группе поставлена задача уничтожить оборонительную группировку противника в данном участке фронта.
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Атаковать и уничтожить оборону противника, в указанной на карте точке.
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+В центральной часи области расположен перекресток, который пока не принадлежит ни одной из сторон. Наша передовая группа разведчиков уже выдвинулась туда и заняла позиции. Вероятнее всего противник иакже предпримет попытку захвата перекрестка. Вашей группе ставится задача поддержать разведчиков, выдвинувшись основынми силами в район перекрестка.
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Захватить и удержать перекресток в центре области.
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Не дать войскам противника прорваться на вашем участке фронта.
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Наша передовая группа в составе пехоты и САУ перерезала главную транспортную артерию противника. Ваша задача удержать занятые позиции, не дать противнику восстановать линии снабжения.
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Захватить и удержать перекресток в центре области.
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+В центральной часи области расположен перекресток, который пока не принадлежит ни одной из сторон. Наша передовая группа разведчиков уже выдвинулась туда и заняла позиции. Вероятнее всего противник иакже предпримет попытку захвата перекрестка. Вашей группе ставится задача поддержать разведчиков, выдвинувшись основынми силами в район перекрестка.
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Артиллерийская поддержка доступна
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Авиационная группа ждет приказа
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Минометная поддержка доступна
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Артиллерийская поддержка ждет приказа
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Артиллерийская поддержка ждет приказа
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Авиагруппа ждет приказа
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Авиагруппа ждет приказа
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Артиллерийская поддержка доступна
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Авиационная группа ждет приказа
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Минометная поддержка доступна
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Артиллерийская поддержка ждет приказа
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Артиллерийская поддержка ждет приказа
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Авиация доступна
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Авиагруппа ждет приказа
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Авиагруппа ждет приказа
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении

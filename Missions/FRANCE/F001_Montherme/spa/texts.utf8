@@ -1,0 +1,94 @@
+﻿[Mission.Objectives]
+Reestablezca la línea de defensa.
+[Mission.Description]
+El 14 de mayo, las tropas alemanas han irrumpido cerca de Sedán. Las fuerzas francesas han sido incapaces de resistir las acciones combinadas de los tanques y de los bombarderos en esta nueva guerra relámpago. Las tropas belgas se están retirando a Amberes y estableciendo posiciones de defensa. Los cuerpos 1o. y 2o. ingleses defienden la posición desde Wavre hasta Lovaina, donde nuestra 3a. división al mando del general Montgomery libra una dura batalla. El 7o. ejército francés se retira hacia el flanco marítimo. En casi todos los enfrentamientos, la fuerza y la rabia de la ofensiva alemana han sido imparables. En la zona de Monthermé, los alemanes, con dos divisiones acorazadas que avanzan, han acortado camino por el Mosa y han capturado nuestras posiciones fortificadas. Ha de reestablecer la línea de defensa en esta zona.
+
+Sus órdenes son:
+-	Elimine al enemigo que haya en las proximidades y reestablezca la línea de defensa.
+-	Defienda el puente ferroviario.
+[Mission.Success]
+¡Órdenes cumplidas!
+
+El enemigo ha fracasado en su intento de romper nuestras defensas en este sector. Se lo debemos en gran parte a sus esfuerzos, comandante. ¡Felicidades! Sin embargo, las tropas alemanas con una hueste de tanques ligeros y pesados han dispersado y derrotado totalmente a nuestras tropas en las líneas del frente y parece que ya nada podrá retrasar un nuevo ataque alemán. Todavía le queda mucho por hacer.
+[Mission.Failed]
+¡No ha cumplido las órdenes!
+
+Las fuerzas alemanas, usando tanques ligeros y pesados, han dispersado y derrotado totalmente a nuestras tropas en el frente. Los alemanes avanzan a una velocidad inaudita, hasta ahora desconocida en la historia de la guerra. Ha sido imposible detenerlos en casi todos los combates.
+[SubMission_01_01.Objectives]
+Erradique y destruya las tropas de asalto enemigas que hay cerca del puente.
+[SubMission_01_01.Description]
+Las tropas de asalto alemanas han llegado a nuestra zona. Han tomado un puente ferroviario sobre el Mosa. Es posible que el enemigo intente utilizar este puente para rodear a nuestras tropas y tomarlas desde la retaguardia. ¡Hay que recuperar el puente!
+
+Sus órdenes:
+-	Localice y destruya las tropas de asalto alemanas.
+-	Retome el puente.
+[SubMission_01_01.Success]
+¡Órdenes cumplidas!
+[SubMission_01_01.Failed]
+¡Órdenes incumplidas!
+[Submission_01_02.Objectives]
+Localice y destruya las tropas de asalto enemigas que hay cerca del puente ferroviario.
+[Submission_01_02.Description]
+Las tropas de asalto alemanas han llegado a nuestra zona. Han tomado un puente ferroviario sobre el Mosa. Según el servicio de inteligencia, otro grupo reducido de fuerzas enemigas se dirige hacia el puente y hay que detenerlos.
+
+Órdenes:
+-	Destruya las tropas de asalto enemigas.
+-	Reestablezca o mantenga la defensa del puente.
+[Submission_01_02.Success]
+¡Órdenes cumplidas!
+[Submission_01_02.Failed]
+¡No ha cumplido las órdenes!
+[Submission_02_01.Objectives]
+Acabe con el avance del enemigo.
+[Submission_02_01.Description]
+Nuestras tropas no han podido resistir la intervención combinada de los tanques y de los bombarderos en picado alemanes y han sufrido graves pérdidas. No solo hemos fracasado en el restablecimiento de las líneas defensivas, sino que el pelotón asaltante alemán llegado a esta zona ha conseguido hacerse con el estratégico puente ferroviario. Esto ha permitido al enemigo rodear nuestra retaguardia y exponerla a más ataques.
+
+Sus órdenes son:
+-	Refuerce las posiciones defensivas.
+-	Encuentre y destruya a cualquier unidad enemiga que haya en su zona de operaciones.
+[Submission_02_01.Success]
+¡Órdenes cumplidas! ¡Bien hecho, comandante!
+[Submission_02_01.Failed]
+¡Órdenes incumplidas!
+[Submission_02_02.Objectives]
+Encuentre y destruya a cualquier unidad enemiga que vea.
+[Submission_02_02.Description]
+Nuestras tropas han logrado restablecer una línea de defensa y han aniquilado al grupo de asalto alemán. Según el grupo del servicio de inteligencia, el enemigo quiere romper nuestra línea de defensa por dos puntos al mismo tiempo. Espere ataques tanto desde Monthermé como desde las proximidades del puente ferroviario que atraviesa el Mosa.
+
+Sus órdenes son:
+-	Mantenga y proteja todas las posiciones defensivas.
+-	Elimine a todas las unidades de ataque enemigas.
+[Submission_02_02.Success]
+¡Órdenes cumplidas!
+[Submission_02_02.Failed]
+¡No ha cumplido las órdenes!
+[Submission_02_03.Objectives]
+Acabe con el avance del enemigo.
+[Submission_02_03.Description]
+Nuestras tropas han conseguido restablecer la línea de defensa, pero un grupo de asalto alemán ha tomado tierra en la zona del puente ferroviario y se ha apoderado de él. Esta situación ha permitido al enemigo rodearnos por la retaguardia y ha puesto a nuestras tropas en una situación de máximo peligro. Según el servicio de inteligencia, el enemigo intenta romper nuestra línea de defensa por dos puntos al mismo tiempo. Seguramente atacarán desde Monthermé y desde el puente ferroviario que cruza el río Mosa. El enemigo no para de usar ataques coordinados de tanques y bombarderos en picado.
+
+Sus órdenes son:
+-	Establezca posiciones defensivas.
+-	Elimine al enemigo en todas direcciones.
+[Submission_02_03.Success]
+¡Órdenes cumplidas!
+[Submission_02_03.Failed]
+¡Órdenes incumplidas!
+[Submission_02_04.Objectives]
+Acabe con el avance del enemigo.
+[Submission_02_04.Description]
+Nuestras tropas son incapaces de resistir los ataques combinados de tanques y bombarderos en picado y han sufrido cuantiosas pérdidas en todas las posiciones. Sin embargo, hemos podido destruir al grupo de asalto alemán que había desembarcado en la zona del puente ferroviario. Según el servicio de inteligencia, el enemigo intenta romper nuestra línea de defensa por dos puntos a la vez. Seguramente atacarán desde Monthermé y desde el puente ferroviario que cruza el Mosa.
+
+Sus órdenes:
+-	Establezca defensas en las posiciones.
+-	Elimine a las fuerzas enemigas que le atacarán desde varias direcciones.
+[Submission_02_04.Success]
+¡Órdenes cumplidas!
+[Submission_02_04.Failed]
+Órdenes incumplidas.
+[StringTable.Fr_Support]
+¡Han llegado refuerzos!
+[StringTable.Support]
+¡Han llegado refuerzos!
+[StringTable.Subtitle_01]
+Francia, 1940

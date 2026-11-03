@@ -1,0 +1,107 @@
+﻿[StringTable.Strongpoint1lost]
+O Ponto Forte 1 foi perdido!
+[StringTable.Strongpoint2lost]
+O Ponto Forte 2 foi perdido!
+[StringTable.Strongpoint3lost]
+O Ponto Forte 3 foi perdido!
+[StringTable.Strongpoint4lost]
+O Ponto Forte 4 foi perdido!
+[StringTable.Strongpoint5lost]
+O Ponto Forte 5 foi perdido!
+[StringTable.Strongpoint6lost]
+O Ponto Forte 6 foi perdido!
+[StringTable.StrongpointsLost]
+Cinco pontos fortes foram perdidos!
+[StringTable.StuartTankLost]
+O Stuart de Alan Mitchell está danificado e não conseguirá repelir os ataques inimigos!
+[StringTable.StuartCrewLost]
+A guarnição do Stuart está morta, os pontos fortes não resistirão sem o apoio dela!
+[StringTable.IntroSubtitle1]
+Capitão Whistler: Muito bem, todas as aldeias foram tomadas, agora é só esperar os Jerries.
+[StringTable.IntroSubtitle2]
+Tenente Parker: Senhor, e se eles nos pegarem um por um?
+[StringTable.IntroSubtitle3]
+Whistler: Besteira, Parker. Para isso eles precisam de tanques, e só têm uns poucos e...
+[StringTable.IntroSubtitle4]
+esses não estão aqui. O que é isso? Ouço o ranger de esteiras! Droga!
+[StringTable.IntroSubtitle4a]
+Granadas em ação! Vamos mostrar a eles!
+[StringTable.IntroSubtitle5]
+Parker: Não consigo ver nada com essa poeira! É um Stuart! E se os alemães estiverem nos enganando?
+[StringTable.IntroSubtitle6]
+Whistler: Parker, seu covarde! Chame a atenção da guarnição desse tanque!
+[StringTable.IntroSubtitle6a]
+Parker (para si mesmo): Senhor, Deus certamente lhe deu coragem...
+[StringTable.IntroSubtitle6b]
+na mesma medida em que o privou de qualquer noção básica do ofício da guerra!
+[StringTable.IntroSubtitle7]
+Whistler: Viu, Parker, estes não são os alemães. Rapazes, com o tanque de vocês...
+[StringTable.IntroSubtitle8]
+podemos chutar a bunda dos Jerries. Sozinhos...
+[StringTable.IntroSubtitle9]
+de qualquer forma, vocês não chegarão às nossas tropas. Tomem posição!
+[StringTable.IntroSubtitle10]
+Parker, Mitchell e soldados: Sim, senhor!
+[StringTable.WinSubtitle1]
+Tenente Parker: Valeu, camarada!
+[StringTable.WinSubtitle2]
+Vamos passar no Flying Bottle, em Frisco, depois da guerra, que tal?
+[StringTable.WinSubtitle3]
+Alan Mitchell: O senhor é da Califórnia? Fica bem longe da minha casa, mas com certeza passaremos lá...
+[StringTable.WinSubtitle4]
+Alan Mitchell: Cadê o Whistler?
+[StringTable.WinSubtitle5]
+Parker: Foi morto, correu para o pátio quando os alemães apareceram...
+[StringTable.WinSubtitle6]
+e levou uma rajada à queima-roupa. Era muito corajoso, mas...
+[StringTable.WinSubtitle7]
+mais cedo ou mais tarde ia acabar assim.
+[StringTable.WinSubtitle8]
+Voz do operador de rádio no tanque: Nossas tropas estão a caminho!
+[StringTable.FailSubtitle1]
+Oberleutnant Daniel Nowitzki: Pois bem, heróis!...
+[StringTable.FailSubtitle2]
+Para falar a verdade, eu escolheria lutar, se estivesse no lugar de vocês...
+[StringTable.FailSubtitle3]
+mas é preciso ter uma habilidade muito especial...
+[StringTable.FailSubtitle4]
+para organizar as coisas de um jeito tão estúpido. Quando encontrarmos o seu comandante,.. [StringTable.FailSubtitle5]
+vou pagar uma bebida a ele, se estiver vivo, ou levar flores ao seu túmulo,
+[StringTable.FailSubtitle6]
+se estiver morto. E tudo isso com uma inscrição dedicatória:
+[StringTable.FailSubtitle7]
+"Por coragem e estupidez incomparáveis!"
+[MainTask.Objectives]
+Mantenha pelo menos dois dos pontos fortificados
+[MainTask.Success]
+Radiograma do Tenente-Coronel Waters: Graças à sua habilidosa organização defensiva e ao combate às reservas inimigas, conseguimos derrotar a força de vanguarda deles e enviar-lhes reforços. Bom trabalho, rapazes!
+[MainTask.Failed]
+Do relatório do Tenente-Coronel Waters ao comando: o inimigo tomou os pontos fortificados e suas reservas reforçaram a força de vanguarda. A tarefa designada não foi cumprida...
+[MainTask.Description]
+Radiograma do Tenente-Coronel Waters: Use a rede de pontos fortificados e o tanque leve Stuart para engajar e destruir as reservas inimigas que chegam. Mantenha pelo menos dois quaisquer dos pontos fortificados. Lembre-se de que seu tanque atrairá forças inimigas muito mais numerosas do que o capitão Whistler espera. Se o tanque for danificado, os alemães certamente derrotarão nossos grupos isolados.
+[StringTable.EnemyIsDefeated]
+Senhor, os Jerries estão recuando! Parece que somos duros demais para eles!
+[StringTable.SecondWaveDefeated]
+Senhor! A segunda onda de ataques dos Jerries foi repelida!
+[StringTable.FirstWaveDefeated]
+Ah, filhos da mãe, não esperavam o nosso tanque, hein? Estão fugindo, senhor!
+[StringTable.SecondWaveIncoming]
+Senhor! Estão avançando de novo! Desta vez nos atacam por duas direções!
+[StringTable.SecondWave1Defeated]
+Senhor! O ataque sudoeste foi repelido! Depois que perderam os tanques e a infantaria deles viu nosso Stuart chegando, saíram correndo!
+[StringTable.SecondWave2Defeated]
+Senhor! O inimigo na direção sudeste está recuando depois de algumas rajadas do nosso tanque!
+[StringTable.ThirdWave1Defeated]
+Senhor! Depois que o tanque foi destruído, a unidade de infantaria inimiga fugiu!
+[StringTable.ThirdWave2Defeated]
+Senhor! Tendo perdido o tanque, a unidade de infantaria inimiga recuou ao ver o nosso Stuart!
+[StringTable.ThirdWave3Defeated]
+Senhor! O grupo de transportes blindados e infantaria inimigos cessou o ataque!
+[StringTable.ThirdWaveIncoming]
+Senhor! O inimigo empregou forças muito mais pesadas, estamos sendo atacados por três direções!
+[StringTable.FirstStrongpointLost]
+Radiograma do Tenente-Coronel Waters: Não podemos retomar o ponto fortificado que perdemos, mas seu Stuart pode desalojar a infantaria inimiga que o invadiu! Aja conforme a situação e expulse o inimigo dos pontos fortificados capturados!
+[StringTable.MitchellIsKilled]
+Alan Mitchell foi morto!
+[StringTable.ReturnInTank]
+Mande os tripulantes desembarcados de volta ao tanque para completar a missão.

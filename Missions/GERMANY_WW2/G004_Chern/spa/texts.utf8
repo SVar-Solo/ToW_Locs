@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+Capture la estación de ferrocarril de Chern’.
+[Mission1.Description]
+Con la ayuda de efectivos de la 3a. División Acorazada iniciará una ofensiva sobre Chern’. En este sector del frente los rusos han establecido posiciones defensivas muy sólidas. La estación de Chern’ es una zona especialmente buena para una acción defensiva. Así pues, tiene que proceder con habilidad y rapidez para hacerse con la victoria.
+
+Sus órdenes:
+- 	Elimine a las tropas enemigas y tome la estación de tren de Chern’.
+[Mission1.Success]
+¡Misión cumplida! ¡La estación está en nuestras manos! Pero los rusos han ofrecido mucha resistencia: parece que el avance hacia Moscú será más difícil de lo que esperábamos.
+[Mission1.Failed]
+Los rusos han sido tan tercos en la defensa que han conseguido derrotar a sus tropas. La responsabilidad de este desastre solo recae en usted.
+[Submission_01.Objectives]
+Cañonee las posiciones enemigas.
+[Submission_01.Description]
+Antes de lanzar su ofensiva, cañonee las posiciones enemigas.
+[Submission_01.Success]
+¡Misión cumplida! ¡La cortina ha sido un éxito!
+[Submission_01.Failed]
+Su barrera de artillería no ha logrado desalojar las posiciones enemigas.
+[Submission2_1.Objectives]
+Ataque a las tropas enemigas desde el flanco derecho.
+[Submission2_1.Description]
+¡Hemos penetrado el flanco derecho de la defensa rusa! Intentan detener nuestra ofensiva enviando sus reservas a la estación del tren. Deben de estar preparando un contraataque, o sea que prepárese.
+
+Sus órdenes:
+- 	Ataque a las tropas enemigas desde el flanco derecho.
+[Submission2_1.Success]
+¡Misión cumplida! ¡La cortina ha sido un éxito!
+[Submission2_1.Failed]
+Misión fallida. Los rusos han rechazado su ataque.
+[Submission1_1.Objectives]
+Ataque a las tropas enemigas de la estación de Chern’.
+[Submission1_1.Description]
+¡Hemos roto la defensa rusa! Intentan detener nuestra ofensiva enviando sus reservas a la estación del tren. Deben de estar preparando un contraataque, o sea que prepárese.
+
+Sus órdenes:
+-	 Ataque al enemigo en la estación de Chern’.
+[Submission1_1.Success]
+¡Misión cumplida! ¡La estación está en nuestro poder!
+[Submission1_1.Failed]
+¡Misión incumplida! No ha conseguido tomar la estación.
+[StringTable.Reserv]
+Han llegado refuerzos para ayudarle.
+[StringTable.Reserv1]
+Las reservas están en camino.

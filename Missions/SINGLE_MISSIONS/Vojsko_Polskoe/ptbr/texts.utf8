@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Consolide todas as unidades amigas nas proximidades e tente resistir ao avanço alemão. Se precisar recuar, faça-o de volta através do rio Vístula.
+[Mission.Description]
+As tropas alemãs entraram na Polônia no início de 1º de setembro. As unidades polonesas estacionadas perto da fronteira foram rapidamente atropeladas e dispersadas. O comando e controle poloneses na frente são quase inexistentes e, por ora, os únicos esforços defensivos coordenados vêm de comandantes de unidades independentes, sem orientação de seus superiores.
+
+Suas ordens: 
+-  Consolidar todas as unidades amigas sob o seu comando 
+-  Defender-se das unidades alemãs que avançam 
+-  Manter o Coronel Czeslaw Mrozek vivo.
+
+
+Nota do desenvolvedor: é imperativo manter o seu Coronel vivo, caso contrário você não poderá controlar novas unidades polonesas!
+[Mission.Success]
+Vitória! Muito bem, Coronel, você conseguiu recuperar alguma aparência de controle em meio a este caos.
+[Mission.Failed]
+Fracasso! O comando e controle entraram em colapso e você não conseguiu organizar uma defesa adequada.
+[Submission_1.Objectives]
+No vilarejo próximo há uma unidade de infantaria amiga carente de liderança. Use-a para ajudar na defesa.
+[Submission_1.Description]
+Suas ordens:
+- 	Assumir o comando da guarnição no vilarejo à frente.
+[Submission_1.Success]
+Sucesso. Essas tropas foram acrescentadas ao seu comando.
+[Submission_1.Failed]
+Você não conseguiu acrescentar as tropas da guarnição ao seu comando.
+[StringTable.Garnizon_1]
+A guarnição está agora sob o seu comando direto.
+[Submission_2.Objectives]
+Siga para o próximo local. 
+[Submission_2.Success]
+Sucesso, os meios vitais para a sua vitória estão agora sob o seu comando direto.
+[Submission_2.Description]
+A guarnição do vilarejo aumentou seus efetivos, mas essas tropas sozinhas não bastam para deter todo o avanço alemão. Segundo um chefe de esquadra, alguns tanques e três canhões antitanque estão em um vilarejo vizinho. 
+
+Suas ordens:
+- 	Seguir para o próximo vilarejo e obter o equipamento ali localizado.
+[Submission_2.Failed]
+Fracasso. Você não conseguiu obter o equipamento.
+[Submission_3.Objectives]
+Repila todos os ataques inimigos.
+[Submission_3.Description]
+Você conseguiu ampliar o seu comando com homens e equipamento. Espere que seja suficiente para deter o ataque alemão. O inimigo avança em uma frente ampla, portanto esteja preparado para se defender de várias ondas e de diferentes direções. Você não deve deixá-los cruzar o Vístula.
+
+Suas ordens:
+- 	Repelir todos os ataques inimigos.
+- 	Impedir que qualquer alemão cruze o Vístula.
+[Submission_3.Success]
+O ataque inimigo foi repelido. Suas ações hoje não serão esquecidas!
+[Submission_3.Failed]
+O ataque inimigo foi forte demais para ser superado e você não conseguiu detê-lo.
+[Submission_4.Objectives]
+O ataque principal do inimigo foi contido, mas agora é hora de recuar.
+[Submission_4.Description]
+O Coronel Mzorek deve cruzar o rio vivo.
+[Submission_4.Success]
+Sucesso! O Coronel sobreviveu e viverá para lutar outro dia. Se todos os nossos comandantes lutarem com tanta bravura, a Polônia poderá empurrar os alemães de volta para além da fronteira!
+[Submission_4.Failed]
+O Coronel não sobreviveu. Embora tenha lutado bravamente, seu destino, e talvez o de toda a Polônia, estava selado.

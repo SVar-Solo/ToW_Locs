@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Capture and hold village of Otto.
+[Mission.Description]
+According to what reconnaissance we have on hand, the British are only occupying the village ahead with a small force. Although their positions are likely to be well fortified, this is a rare opportunity to drive them out. At your command you have forces from the 902nd Panzergrenadier Regiment and some armor support.
+ 
+Your orders:
+- Attack the British forces occupying the village of Otto and drive them out.
+[Mission.Success]
+Well done Commander! The enemy defenses have been broken.
+[Mission.Failed]
+Mission failed! 
+[Submission_1.Objectives]
+Attack the enemy positions in the village of Otto.
+[Submission_1.Description]
+The village of Otto is situated to the South-East of your starting positions. Apparently our earlier recon assessment was somewhat flawed and the village is better occupied and more fortified than anticipated. Coordinate your attacks wisely Commander and take that town!
+ 
+Your orders are to:
+- Capture Otto.
+[Submission_1.Success]
+Well done commander! The village is captured.
+[Submission_1.Failed]
+Mission failed!
+[Submission_2.Objectives]
+Organize your troops to establish an adequate defense against any enemy counter-attack. 
+[Submission_2.Description]
+Having lost the village, the enemy will certainly counter-attack to retrieve this prize.
+ 
+Your orders:
+- Repulse all attacks.
+[Submission_2.Success]
+Well done Commander! The enemy attacks  have been repulsed.
+[Submission_2.Failed]
+Mission failed! Your forces have been routed.

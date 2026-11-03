@@ -1,0 +1,188 @@
+﻿[Battle Group 6.Name]
+X Corps
+
+[Battle Group 2.Name]
+21. Unabh. Marinereg.
+
+[USA.Epilogue]
+Die Streitkräfte der UN und Südkoreas verfolgten gemeinsam ein Ziel: die nordkoreanischen Truppen zu besiegen und den Grenzverlauf wiederherzustellen. Sie hatten sich vorgenommen, die Nordkoreanische Volksarmee hinter die Grenzen der Republik Korea zurückzudrängen, und das gelang ihnen auch. Dabei handelte es sich um einen erstaunlichen Gegenschlag, der nur durch die uneingeschränkte Zusammenarbeit von Boden-, Luft- und Seetruppen erreicht werden konnte. Diese griffen mit der massiven Unterstützung von Luft- und Artillerieschlägen den Gegner von vorne, von den Flanken aus und von hinten an. Ihre Überlegenheit bei Personal und Kriegsgerät tat ihr Übriges, denn den Nordkoreanern mangelte es an Luftabwehr, Artillerie und Panzern.
+
+[Battle Group 1.Name]
+
+
+[USA.FailureEpilogue]
+Die gemeinsame Offensive der amerikanischen und südkoreanischen Truppen in Korea offenbarte zahlreiche Schwächen in ihren Formationen und Truppenzusammenstellungen. Den UN-Streitkräften gelang es nicht, einen Angriff mit der notwendigen Geschwindigkeit durchzuführen, und der Kampfverlauf brachte die mangelnde Bereitschaft der Verstärkungstruppen zutage. Sie waren nicht genügend ausgebildet, um nachts zu kämpfen oder das bergige Terrain Koreas zu ihrem Vorteil zu nutzen. Ihre Formationen waren vornehmlich auf flaches Gelände zugeschnitten, sie griffen an der gesamten Front an und ihre Kampfoperationen fanden nur bei Tag statt. Sie ließen die gegnerischen Flanken unbehelligt und nutzten die Berge nicht aus. Ihre Infanterie konnte nur dann kämpfen, wenn sie durch Artillerie, Panzer oder Lufteinheiten unterstützt wurde. Übermäßige Nutzung von Straßen, schlecht verteidigte Flanken und Rückseiten sowie die allgemeine Angst vor einer Einkesselung - all diese Schwächen wurden den UN-Truppen zum Verhängnis.
+
+[Battle Group 2.FullName]
+21. Unabhängiges Marineregiment
+
+[Battle Group 6.FullName]
+Einheiten des X Corps
+
+[Battle Group 15.Name]
+15. Unabh. Inf.Bat.
+
+[Battle Group 15.FullName]
+15. Unabhängiges Infanteriebataillon
+
+[Battle Group 16.Name]
+10. Inf.Div.
+
+[Battle Group 16.FullName]
+Einheiten der 10. Infanteriedivision
+
+[Battle Group 17.Name]
+I Corps
+
+[Battle Group 17.FullName]
+Einheiten des I Corps
+
+[Battle Group 22.Name]
+II Corps
+
+[Battle Group 19.Name]
+1. Panzerbrig.
+
+[Battle Group 21.Name]
+18. Inf.Brig.
+
+[Battle Group 20.Name]
+70. Unabh. Inf.Reg.
+
+[Battle Group 22.FullName]
+Einheiten des II Corps
+
+[Battle Group 20.FullName]
+70. Unabhängiges Infanterieregiment
+
+[Battle Group 21.FullName]
+18. Infanteriebrigade
+
+[Battle Group 19.FullName]
+1. Panzerbrigade
+
+[Battle Group 23.Name]
+17. Mech. Div.
+
+[Battle Group 23.FullName]
+17. Mechanisierte Division
+
+[USA.FullName]
+Gegenoffensive
+
+[USA.Description]
+Dank der überlegenen Luft- und Artillerieunterstützung der UN-Truppen gelang es den nordkoreanischen Streitkräften nicht, durch das Busan-Gebiet vorzustoßen und die Verteidiger an die Küste zurückzudrängen. Ganz im Gegenteil: Ein großangelegter Gegenangriff der amerikanischen und südkoreanischen Armee zwang die Nordkoreanische Volksarmee dazu, eine Reihe von wichtigen Stellungen aufzugeben. Im September 1950 befand sich Nordkorea bereits vollständig in der Defensive.
+Nachdem die südkoreanischen Truppen das Busan-Gebiet gesichert hatten, begannen die Pläne für die Gegenoffensive. Man wollte die nordkoreanischen Streitkräfte ausschalten und ganz Korea unter Kontrolle bringen.
+Der Plan sah zwei Angriffe vor: Der erste sollte durch Bodentruppen aus dem Busan-Gebiet erfolgen, während der zweite Angriff von Seelandungstruppen bei Incheon durchgeführt werden sollte. Mit vereinten Kräften sollten die nordkoreanischen Truppen in Südkorea eingekreist und vernichtet werden.
+Das UN-Oberkommando hatte für die Hauptachse des Vorstoßes sechs Infanteriedivisionen, eine Infanteriebrigade, drei unabhängige Artilleriedivisionen und drei unabhängige Panzerbataillone eingeplant. Luftunterstützung sollte durch 1.100 Flugzeuge erfolgen.
+Die Landung bei Incheon sollte durch das amerikanische X Corps gesichert werden, das aus der 1. Marinedivision (USA), der 7. Infanteriedivision (USA), dem 41. Commando-Trupp (Großbritannien) und dem 17. Infanterieregiment (Südkorea) bestand. 250 Schiffe und ungefähr 500 Flugzeuge waren als Unterstützung eingeteilt.
+Die Gegenoffensive begann am 15. September 1950.
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeongbuk-do
+
+[HAMGEN_PUKTO.Description]
+Hamgyeongbuk-do ist die nördlichste Provinz Nordkoreas. Im Norden grenzt sie an China und im Osten verläuft eine lange Küste am Japanischen Meer. In dieser Provinz befindet sich der wichtigste Eisenbahnknotenpunkt Nordkoreas, an dem Lieferungen aus China und der Sowjetunion verarbeitet werden. Das Gelände ist größtenteils flach, aber der Westen der Provinz wird von einem relativ hohen Berg dominiert.
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+Die Provinz Ryanggang-do grenzt im Norden an China. Die Landschaft besteht größtenteils aus Bergen mit engen Bergpässen, sodass die Provinz nur sehr schwer zugänglich ist. Trotzdem stellt Ryanggang-do eine strategisch sehr wichtige Region dar, denn hier verläuft die Haupteisenbahnverbindung zur Sowjetunion, über die die nordkoreanischen Truppen mit Ausrüstung und Waffen versorgt werden.
+
+[HAMGEN_NAMDO.FullName]
+Hwanghaenam-do
+
+[HAMGEN_NAMDO.Description]
+Hwanghaenam-do ist im Westen zwar relativ bergig, flacht nach Osten hin in Richtung der Küste am Japanischen Meer jedoch zusehends in fruchtbares Ackerland ab. Hier werden Reis, Getreide und Raps angebaut, was die Provinz zum landwirtschaftlichen Zentrum Nordkoreas macht. Wenn wir Hwanghaenam-do einnehmen könnten, hätten wir beste Voraussetzungen, weiter nach Norden vorzustoßen.
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+Die im Norden an China grenzende Provinz Chagang-do gehört zu den am weitesten entwickelten Industrieregionen Nordkoreas. Hier befindet sich ein sehr wichtiger Eisenbahnknotenpunkt, an dem alle Lieferungen aus China und der Sowjetunion verarbeitet werden. Zudem liegen in dieser Provinz die wichtigsten Versorgungsstützpunkte der nordkoreanischen Truppen. Chagang-do hat keinen Zugang zum Meer.
+
+[PHENAN_PUKTO.FullName]
+Pyeonganbuk-do
+
+[PHENAN_PUKTO.Description]
+Die nördliche Provinz Pyeonganbuk-do grenzt an China. Die Hauptstadt Sinuiju ist ein wichtiger Verkehrsknotenpunkt, während der Hafen von Yongampo eines der Zentren der Fischereiindustrie im Gelben Meer darstellt. Das Gelände ist größtenteils bergig, die Küstengebiete werden hingegen von Tälern dominiert.
+
+[PHENAN_NAMDO.FullName]
+Pyeongannam-do
+
+[PHENAN_NAMDO.Description]
+Die nordkoreanische Provinz Pyeongannam-do, deren Hauptstadt Pyeongseong ist, grenzt im Norden an Pyeonganbuk-do und Chagang-do, im Osten bzw. Südosten an Hwanghaenam-do und Gangwon-do sowie im Süden an Hwanghaebuk-do und Pyeongyang. Im Westen der Provinz liegt das Gelbe Meer. Der strategische Wert der Region liegt darin begründet, dass sie Versorgungs- und Verstärkungsmöglichkeiten auf dem Seewege bietet.
+
+[PHENYAN.FullName]
+Pyeongyang
+
+[PHENYAN.Description]
+Pyeongyang - so heißt sowohl die Hauptstadt des Landes als auch die Provinz, in der sie liegt - ist ein wichtiges Wirtschaftszentrum von Nordkorea und gleichzeitig eine Industriehochburg. Die Stadt Pyeongyang befindet sich auf flachem Gelände und ist von Bergen umgeben. 1946 erfolgte die Abspaltung von Pyeongannam-do, um eine unabhängige Provinz zu werden. Die Stadt und das umliegende Gebiet sind stark befestigt und werden äußerst gut verteidigt.
+
+[KANWONDO_PUKTO.FullName]
+Gangwon-do
+
+[KANWONDO_PUKTO.Description]
+Die nordkoreanische Provinz Gangwon-do liegt im Grenzgebiet. Es handelt sich zwar größtenteils um Bergland, aber an der Küste entlang ist Fahrzeugtransport möglich.
+
+[HVANHE_PUKTO.FullName]
+Hwanghaebuk-do
+
+[HVANHE_PUKTO.Description]
+Die Südgrenze der Provinz Hwanghaebuk-do liegt auf dem 38. Breitengrad. Feindliche Truppen konzentrieren sich im Süden. Die Provinz ist für die Verteidigung der nordkoreanischen Hauptstadt Pyeongyang von größter strategischer Bedeutung.
+
+[KANWONDO_NAMDO.FullName]
+Gangwonnam-do
+
+[KANWONDO_NAMDO.Description]
+Die Nordgrenze der Provinz Gangwonnam-do liegt auf dem 38. Breitengrad, der die koreanische Halbinsel in Nord- und Südkorea teilt. Da es sich um bergiges Terrain handelt, gibt es in dieser Provinz keine schweren Befestigungen. Zudem sind die Bergpässe gefährlich: Selbst kleine Verteidigungstruppen können gegen zahlenmäßig überlegene Angreifer bestehen. Die kleinen Dörfer und Klöster wurden allesamt in Defensivstellungen umfunktioniert, wodurch sie sehr schwierig zu erobern sind. Lediglich felsige Wege, auf denen Fahrzeuge nicht fahren können, sind noch frei und nicht vom Feind gesichert.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Die Provinz Gyeonggi-do ist von größter strategischer Bedeutung, da sich hier Seoul, die Hauptstadt Südkoreas, befindet. Sie ist größtenteils eben und weist relativ zahlreiche besiedelte Gebiete auf, von denen wiederum viele befestigt wurden. Natürlich steht Seoul selbst unter dem Schutz von Südkoreas erfahrensten Truppen und ist zudem von schweren Befestigungen umgeben. Die nördliche Grenze der Provinz verläuft entlang des 38. Breitengrads, der Nord- und Südkorea voneinander trennt.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsangbuk-do
+
+[KENSAN_PUKTO.Description]
+Über Gyeongsangbuk-do hat man Zugang zur Ostküste der koreanischen Halbinsel. Wer diese Provinz kontrolliert, kann Nachschub über das Meer bekommen, was ein großer strategischer Vorteil ist. In Gyeongsangbuk-do gibt es zahlreiche Bergtäler, aber je näher man der Ostküste kommt, desto niedriger werden die Berge und desto breiter und flacher die Täler. Dadurch ist das Gebiet für Angriffe sehr geeignet, aber dafür recht schwierig zu verteidigen.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheongbuk-do
+
+[CHUNCHON_PUKTO.Description]
+Chungcheongbuk-do stellt den Haupttransportkorridor in die südkoreanische Hauptstadt Seoul dar. Zahlreiche Militärbasen und Festungen sind in dieser Provinz vorhanden. Chungcheongbuk-do einzunehmen, würde einen großen strategischen Vorteil bedeuten.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheongnam-do
+
+[CHUNCHON_NAMDO.Description]
+Große Teile von Chungcheongnam-do sind aufgrund von Bergen nahezu unpassierbar, aber es gibt bestimmte Gebiete, die sich für einen Angriff anbieten. Diese sind jedoch stark bewacht und befestigt. Alle Siedlungszentren wurden in Defensivstellungen verwandelt, aber einige der felsigen Wege sind für Fahrzeuge unzugänglich. Dadurch sind sie wie geschaffen für kleine Infanterietrupps, die so unentdeckt vorstoßen und den Feind überraschen können.
+
+[PUSAN.FullName]
+Busan
+
+[PUSAN.Description]
+Die Busan-Region ist die letzte Stellung der südkoreanischen Truppen. Dieses enorm wichtige strategische Gebiet dient den US-Truppen als Landepunkt und weist zudem zahlreiche stark bewachte Festungen auf. Eine Eroberung dieser Region sowie der Häfen von Busan, Ulsan und Pohang würde den Nachschub und die Versorgung der UN-Truppen unmöglich machen.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsangnam-do
+
+[KENSAN_NAMDO.Description]
+Die Provinz Gyeongsangnam-do verbindet die Provinzen Jeollabuk-do und Gyeongsangbuk-do. Sie wartet größtenteils mit bergigem Terrain auf und verfügt über drei Nationalparks: Gayasan, Deogyusan und Jirisan. Der höchste Berg ist Deogyusan (1.614 Meter). Wie auch auf der restlichen koreanischen Halbinsel herrscht auch in dieser Provinz Monsunklima: heiße und feuchte Sommer sowie relativ kalte und trockene Winter. Die durchschnittliche Jahrestemperatur beträgt 10,6 Grad Celsius, während pro Jahr durchschnittlich 1.395,22 mm Niederschlag gemessen werden (Stand 1993). Der größte Teil des Niederschlags (850 mm) findet dabei während der Regenzeit im Sommer statt, die drei Monate dauert.
+
+[CHOPLA_PUKTO.FullName]
+Jeollabuk-do
+
+[CHOPLA_PUKTO.Description]
+Jeollabuk-do liegt an der Westküste. Der Hafen dieser Provinz ist sehr wichtig für den Transport von Personal und Nachschub. Allerdings ist das Terrain abgesehen von den Küstengebieten extrem bergig, weswegen es auch keine schweren Befestigungen gibt.
+
+[CHOPLA_NAMDO.FullName]
+Jeollanam-do
+
+[CHOPLA_NAMDO.Description]
+Jeollanam-do ist die südlichste Provinz Südkoreas. Im Norden ist sie von Bergen geprägt. Je weiter man sich allerdings nach Süden und in die Küstenregionen begibt, desto flacher werden die Berge und desto mehr gehen sie in breite Täler über. Vom strategischen Standpunkt aus ist der südliche Teil der Provinz aufgrund der zahlreichen Häfen wichtig für Nachschublieferungen auf dem Wasserwege. Die USA nutzen diesen Umstand zu ihrem Vorteil.
+

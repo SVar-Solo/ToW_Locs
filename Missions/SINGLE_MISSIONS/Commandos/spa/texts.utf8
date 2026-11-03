@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Realice una operación de sabotaje en la retaguardia enemiga, cerca de la ciudad de Sandomierz. Encuentre los depósitos de combustible y de armamento y destrúyalos. Si encuentra alguna posición de artillería antiaérea, solicite artillería de largo alcance y ataques aéreos para encargarse de ella.
+[Mission.Description]
+El ejército soviético se está acercando a las mismísimas fronteras del Tercer Reich. Ambos bandos se han estado preparando para un eventual combate en torno a la pequeña ciudad de Sandomierz. La plana mayor soviética ha estado enviando pelotones especiales de sabotaje para que se infiltren tras las líneas enemigas. Tienen la tarea de explorar las posiciones enemigas y destruir los recursos logísticos y las defensas aéreas. Su pelotón de élite debe sabotear los depósitos de combustible y de armamento y localizar y destruir cualquier posición de artillería antiaérea. Su pelotón está compuesto de nuestros mejores exploradores y francotiradores. ¡Úselos con prudencia!
+[Mission.Success]
+¡Ha cumplido todas las misiones!
+[Mission.Failed]
+¡Misión fallida!
+[Submission_1.Objectives]
+Entre en el enclave. Haga un reconocimiento de la situación. Acabe con los centinelas de los depósitos de combustible y de armamento. Encuentre y capture cualquier unidad de Panzershreck, pues puede que necesite más tarde su potencia antiblindaje.
+[Submission_1.Description]
+Tras haber atravesado las líneas del frente enemigo sin haber sido detectado, su pelotón se encuentra ya en la retaguardia. Tenga cuidado con los puestos de bloqueo enemigos situados en las carreteras y en los cruces y lugares estratégicos. Las patrullas motorizadas son habituales y, si les detectan, solicitarán refuerzos de inmediato. Su principal tarea es destruir los depósitos de combustible y de armamento.
+[Submission_1.Success]
+Zona especial destruida.
+[Submission_1.Failed]
+Misión fallida.
+[Submission_2.Objectives]
+Haga un reconocimiento de la localización de cualquier posición antiaérea. Solicite fuego de artillería y apoyo aéreo para destruir las posiciones. Capture el transporte enemigo para facilitar el paso por el puente.
+[Submission_2.Description]
+Nuestros efectivos aéreos han estado lanzando ataques constantes contra lugares estratégicos alemanes, pero las pérdidas son elevadas. El enemigo es hábil camuflando sus posiciones de piezas antiaéreas, y detectarlas desde el aire ha resultado difícil y costoso en hombres y maquinaria. Su pelotón está situado en una posición ideal para ayudar en este cometido. Busque en las proximidades cualquier pieza de artillería antiaérea y, una vez localizada, solicite fuego de artillería y ataques aeroterrestres para destruir tales emplazamientos.
+[Submission_2.Success]
+Las posiciones antiaéreas han sido localizadas y destruidas.
+[Submission_2.Failed]
+Misión fallida.
+[Submission_3.Objectives]
+Abra una brecha y diríjase a los puentes que cruzan el río Vístula. Acabe con los centinelas en ambas orillas del río.
+[Submission_3.Description]
+Ha cumplido su tarea principal. Ahora su destacamento tiene que regresar a casa. El único camino de vuelta está cruzando el puente sobre el Vístula...
+[Submission_3.Success]
+Misión cumplida.
+[Submission_3.Failed]
+Misión fallida.
+[Submission_4.Objectives]
+Nuestros aviones de reconocimiento han localizado una columna de tanques desplazándose por la carretera hacia los puentes del Vístula.
+Sus órdenes:
+- Destruya la columna de tanques con todos los medios necesarios.
+[Submission_4.Description]
+Nuestros aviones de reconocimiento han detectado una columna de tanques desplazándose por la carretera hacia los puentes que cruzan el Vístula. Su tarea consiste en esperar a que se acerque la columna y, entonces, destruir el tanque que va en cabeza para bloquear el puente. Quizá sea aconsejable el uso de algunos de los Panzershreks alemanes capturados...
+[Submission_4.Success]
+¡Buen trabajo!
+[Submission_4.Failed]
+Tarea fallida.
+[Submission_5.Objectives]
+Se ha detectado un puesto de bloqueo enemigo. Si les descubren, eliminen a los centinelas.
+[Submission_5.Description]
+Se ha detectado un puesto de bloqueo enemigo. Si les descubren, eliminen a los centinelas.
+[Submission_5.Success]
+Misión cumplida.
+[Submission_5.Failed]
+Misión fallida.
+[StringTable.Zonder]
+El enemigo ha solicitado refuerzos.
+[StringTable.EnemyVisible]
+El enemigo ha detectado a sus tropas; debe ser eliminado. El tiempo es escaso, pues solo dispone de 4 ó 5 minutos antes de que lleguen más unidades enemigas.
+[StringTable.Ahtung]
+El enemigo ha descubierto a su pelotón.
+[StringTable.CallSupport]
+Se han avistado los cañones antiaéreos alemanes. No puede destruir la posición solamente con su pelotón de sabotaje. Solicite apoyo de artillería y aéreo para eliminar al enemigo.
+[Submission_6.Objectives]
+Se ha detectado un puesto de bloqueo enemigo. Si les descubren, eliminen a los centinelas.
+[Submission_6.Description]
+El puesto de bloqueo se encuentra en una carretera de importancia estratégica. Las guerrillas polacas han informado de que una patrulla motorizada está vigilando la carretera constantemente.
+[Submission_6.Success]
+El puesto de bloqueo enemigo ha sido eliminado.
+[Submission_6.Failed]
+¡Ha perdido, y sus tropas de élite han sido eliminadas!

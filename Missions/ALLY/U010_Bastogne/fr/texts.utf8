@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Libérer la ville de Houffalize et repousser l’ennemi des hauteurs.
+[Mission.Description]
+Le ciel est enfin dégagé après des semaines de neige et de mauvais temps, et l’aviation est en mesure de fournir un appui tactique aérien sur les Ardennes. Les chars de Patton ont percé jusqu’à Bastogne pour relever les troupes qui ont résisté là avec obstination. Maintenant que Bastogne est sauvée, il faut repousser les Allemands et clore la bataille des Ardennes.
+
+Vos ordres sont :
+-	Attaquer l’ennemi dans Houffalize pour les en déloger.
+-	Continuer l’avance vers les hauteurs et écraser la défense adverse.
+[Mission.Success]
+Vous avez gagné et les Allemands sont repoussés.
+[Mission.Failed]
+Vous avez perdu la bataille et vous avez permis à l’ennemi de remporter une victoire importante !
+[Submission_1.Objectives]
+Capturer la ville de Houffalize.
+[Submission_1.Description]
+Après l’attaque surprise allemande du début de la bataille des Ardennes, les forces américaines se sont retranchées dans et autour de la ville de Bastogne, qui se trouve au croisement de sept routes différentes. Des éléments de la 101st Airborne et de la 10th Armored Divisions ont résisté avec obstination à des attaques incessantes de forces supérieure en nombre et à une météo particulièrement difficile. Le ciel s’étant finalement dégagé, les colonnes blindées de Patton ont pu atteindre la ville et des contre-attaques ont été montées contre les unités allemandes encore à proximité.
+
+Vos ordres :
+-	Libérer la ville de Houffalize.
+[Submission_1.Success]
+La ville est à nous !
+[Submission_1.Failed]
+Vous avez perdu. Vous n’avez pas été capable de libérer la ville.
+[Submission_2.Objectives]
+Exploiter votre victoire et capturer les hauteurs à l’est de Houffalize.
+[Submission_2.Description]
+A l’est de la ville se trouvent plusieurs collines et lignes de crête stratégiques. Les Allemands ont capturé ces collines il y a quatre jours en même temps que la ville d’Houffalize et ils utilisent maintenant nos propres fortifications pour les défendre
+
+Vos ordres :
+-	Détruire les défenses ennemies sur les hauteurs.
+[Submission_2.Success]
+Nous avons recapturé les collines !
+[Submission_2.Failed]
+Vous avez perdu. Vous n’avez pas été capable de reprendre les collines importantes autour de Houffalize.
+[StringTable.reserv]
+Des renforts sont arrivés en appui !

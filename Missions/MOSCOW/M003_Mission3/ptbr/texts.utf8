@@ -1,0 +1,28 @@
+﻿[Mission.Objectives]
+Impeça o inimigo de romper até as nossas áreas de retaguarda.
+[Mission.Description]
+Você foi reforçado com tanques da reserva do Quartel-General do Exército. No setor da frente perto da aldeia de Yadromino, uma companhia de uma Divisão de Fuzileiros está engajada em ações defensivas. Essa companhia isolada dispõe de alguns meios antitanque, e você também terá à disposição pelo menos um canhão antitanque de 45 mm
+
+Suas ordens:
+- Impeça o inimigo de romper até as áreas de retaguarda.
+[Mission.Success]
+A sua ordem foi cumprida!
+[Mission.Failed]
+Você não cumpriu a sua ordem!
+[Submission_1.Objectives]
+Detenha quaisquer tanques inimigos.
+[Submission_1.Description]
+Posicione seus meios para contra-atacar rapidamente e explorar quaisquer fraquezas do inimigo. Lembre-se de auxiliar qualquer assalto da infantaria com fogo de apoio adequado.
+
+Suas ordens:
+- Destrua os tanques inimigos que avançam.
+[Submission_1.Success]
+A ordem do Alto Comando foi cumprida! Os tanques inimigos foram destruídos.
+[Submission_1.Failed]
+Você não cumpriu as ordens do Alto Comando! Suas tropas foram derrotadas.
+[StringTable.Change_Infantry]
+O comandante da companhia de fuzileiros foi morto. Assuma o comando de sua companhia.
+[StringTable.Change_Artillery]
+O comandante da bateria de artilharia foi mortalmente ferido. Esses meios estão agora sob o seu comando direto.
+[StringTable.Change_ALL]
+A situação atual exige uma coordenação muito melhor e mais direta. Para auxiliar nessa tarefa, você foi nomeado comandante de toda a formação. Agora você tem sob seu controle uma Companhia de Fuzileiros completa e uma Bateria de Artilharia.

@@ -1,0 +1,36 @@
+﻿[Submission_1.Objectives]
+Die erste Befestigungslinie vor den Seelow Hohen wurde durchbrochen! Die verbleibenden deutschen Truppen fallen nun auf die zweite Verteidigungslinie zurück. Ihre Aufgabe ist es, sie zu verfolgen und durch den Verteidigungsgürtel zu brechen.
+[Submission_1.Description]
+Unsere Späher berichten, dass vor uns ein langer Kanal liegt, der von einer intakten Strassenbrücke überspannt wird. Entlang des Kanals liegt eine kleine Stadt, und sehr gute Verteidigungsstellungen liegen auf den Anhöhen darüber. Greifen Sie die Verteidigungsstellungen auf dieser Seite des Kanals an und sichern Sie die Brücke.
+
+Ihre Befehle: 
+-	 Erobern Sie die deutschen Verteidigungsstellungen vor dem Kanal.
+[Submission_1.Success]
+Mission erfüllt.
+[Submission_1.Failed]
+Misson gescheitert.
+[Submission_2.Objectives]
+Nehmen Sie die Höhen ein.
+[Submission_2.Description]
+Der Feind hat sich auf die Anhöhen über der Stadt zurückgezogen. Unsere Späher berichten von starken Verteidigungsstellungen und eingegrabenen Truppen. Die Deutschen wissen, dass sie das einzige sind, was noch zwischen uns und Berlin steht und sind wohl entschlossen bis zum letzten Mann zu kämpfen. Vernichten Sie sie, Kommendant, und der endgültige Sieg rückt in Reichweite. 
+
+Ihre Befehle:
+-	 Vernichten Sie den feindlichen Widerstand und erbeuten Sie die Seelow Höhen.
+[Submission_2.Success]
+Die Seelow Höhen wurden eingenommen. Berlin und das Ende des Krieges liegen vor uns.
+[Submission_2.Failed]
+Misson gescheitert. Die deutschen Verteidiger konnten Ihren Angriff abwehren.
+[Mission.Objectives]
+Vernichten Sie den letzten feindlichen Widerstand und erbeuten Sie die Seelow Höhen.
+[Mission.Description]
+Bis Mitte April behielt die deutsche Armee, obwohl geschwächt, noch einiges an ihrer Kampfkraft. Obwohl die Moral sehr niedrig war kämpften viele deutsche Einheiten weiter. Das deutsche Oberkommando versammelte die noch verbleibenden Einheiten in und um Berlin, während sich die Rote Armee auf den letzten Schlag vorbereitete. Vor dem Angriff auf Berlin mussten jedoch zunächst die Seelow Höhen gesäubert werden, eine Gegend voll mit Widerstandsnestern, Bunkern, Gräben und Einheiten, die bis zum Tod kämpfen würden.
+Mitte April griffen russische Einheiten die Höhen an, wurden aber zunächst zurückgeschlagen. Jetzt sind Sie an der Reihe, Kommendant. Der Sieg ist in Reichweite! 
+
+Ihre Befehle:
+-	 Nehmen Sie die Seelow Höhen um jeden Preis ein.
+[Mission.Success]
+Die Seelow Höhen wurden eingenommen! Berlin und das Ende des Krieges liegen vor uns.
+[Mission.Failed]
+Ihre Mission ist gescheitert. Sie konnten die Seelow Höhen noch nicht einnehmen.
+[StringTable.reserv]
+Verstärkungen sind eingetroffen.

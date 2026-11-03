@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+消灭指定区域内的敌军。
+[Mission1.Description]
+我军位于谢利格尔湖附近。司令部命令我们深入俄军防线，扰乱其即将发动的攻势。情报还显示，俄军再次使用了他们新型而致命的T-34坦克。
+
+命令：
+- 	在这一段战线上发起攻势。
+-	消灭在附近村庄中采取防御态势的敌军。
+[Mission1.Success]
+干得好，指挥官！敌军已被彻底击败。现在，我们可以把俄军第3和第4集团军从他们舒适的防御阵地上彻底赶走了！
+[Mission1.Failed]
+敌军击退了你的所有进攻。对帝国军官而言，这是何等的耻辱！
+[Submission1.Objectives]
+炮击敌军阵地。
+[Submission1.Description]
+在发起全面攻势之前，先炮击俄军防御阵地。
+
+命令：
+- 	炮击敌军防御阵地。
+[Submission1.Success]
+炮击大获成功。俄军被大大削弱了！
+[Submission1.Failed]
+你的炮火急袭毫无成效。
+[Submission2.Objectives]
+攻击俄军雪地摩托营。
+[Submission2.Description]
+据空中侦察，敌军雪地摩托正从侧翼接近我军。立即对这些机动部队发起攻击，否则我们有被包围的危险。
+
+命令：
+-	 在敌军包围我军之前攻击敌军部队。
+[Submission2.Success]
+雪地摩托部队已被消灭！
+[Submission2.Failed]
+你的部队已被彻底击败。
+[Submission3.Objectives]
+攻击推进中的敌军。
+[Submission3.Description]
+俄军已发起大规模攻势，打击北方集团军群与中央集团军群之间的结合部。
+
+命令：
+-	 攻击推进中的俄军。
+[Submission3.Success]
+推进中的敌军已被彻底击败。你一定会得到奖赏！
+[Submission3.Failed]
+你的部队已被消灭！你没有完成命令！
+[StringTable.Reserv]
+增援部队已抵达支援你。

@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+- Befreien Sie das Dorf von den faschistischen Aggressoren.
+[Mission.Description]
+Die feindlichen Truppen fliehen! In nur wenigen Tagen hat unsere Gegenoffensive Volokolamsk erreicht. Der Generalstab hat Sie mit der sofortigen Verfolgung und Vernichtung der verbleibenden Feindeinheiten sowie Widerstandsnester in Ihrem Frontabschnitt beauftragt.
+
+Ihre Befehle lauten:
+- Befreien Sie das Dorf von den faschistischen Aggressoren.
+[Mission.Success]
+Sie haben das Dorf befreit. Der Befehl wurde ausgeführt!
+[Mission.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt!
+[Submission_1.Objectives]
+Befreien Sie die Siedlung.
+[Submission_1.Description]
+Im Nordwesten befindet sich eine Siedlung, die die Deutschen zu einer Schlüsselstellung in ihrer Verteidigung von Volokolamsk gemacht haben. Dies ist ein strategisch wichtiger Punkt und muss eingenommen werden. 
+
+Ihre Befehle lauten:
+- Zerstören Sie die feindlichen Verteidigungslinien mit allen zur Verfügung stehenden Mitteln.
+- Befreien Sie die Siedlung.
+[Submission_1.Success]
+Die Befehle des Oberkommandos wurden erfüllt!
+[Submission_1.Failed]
+Sie haben die Befehle des Oberkommandos nicht erfüllt. Ihre Truppen wurden geschlagen.
+[Submission_2.Objectives]
+Zerstören Sie den Feind.
+[Submission_2.Description]
+Die Deutschen sind zu einer aktiven Verteidigung übergegangen und haben damit begonnen, kleine Kundschaftertrupps auszuschicken. Unsere Späher haben den vorrückenden Feind gesichtet.
+
+Ihre Befehle lauten:
+- Vernichten Sie den vorrückenden Feind.
+[Submission_2.Success]
+Die feindlichen Truppen wurden geschlagen. Der Befehl wurde ausgeführt!
+[Submission_2.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt! Ihre Truppen wurden geschlagen.
+[Submission_3.Objectives]
+Schlagen Sie den feindlichen Gegenangriff zurück.
+[Submission_3.Description]
+Die Siedlung wurde von unseren Truppen eingenommen, aber die Deutschen wollen uns jetzt noch nicht ruhen lassen. Sie bereiten einen Gegenschlag aus dem Norden vor.
+
+Ihre Befehle lauten:
+- Schlagen Sie den feindlichen Gegenangriff zurück.
+[Submission_3.Success]
+Der feindliche Gegenangriff wurde abgewehrt. Der Befehl wurde ausgeführt!
+[Submission_3.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt! Sie haben es nicht geschafft die Position, um die sie vorhin so hart gekämpft hatten, zu halten.

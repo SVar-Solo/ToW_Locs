@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Délogez l’ennemi des ses positions.
+[Submission1.Description]
+L’envahisseur nazi consolide ses positions le long d’une ligne entre le réservoir Istra et la ville d’Istra. Il est peu probable qu’il concède cette position sans se défendre avec acharnement. Il est cependant vital de l’en déloger.
+
+Vos ordres sont:
+- Délogez l’ennemi des ses positions..
+[Submission1.Success]
+Mission accomplie! 
+[Submission1.Failed]
+La mission est un échec!
+[Submission2.Objectives]
+Détruisez les forces ennemies!
+[Submission2.Description]
+Les unités nazies ont lancé une vicieuse contre-attaque dans notre secteur. Vous devez engager et détruire l’ennemi qui approche. 
+
+Vos ordres sont:
+- Engagez et détruisez les unités allemandes.
+[Submission2.Success]
+Mission accomplie! Les troupes ennemies ont été détruites!
+[Submission2.Failed]
+Vous avez échoué! Vos troupes ont été détruites!

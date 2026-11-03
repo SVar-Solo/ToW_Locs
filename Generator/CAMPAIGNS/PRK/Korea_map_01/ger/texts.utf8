@@ -1,0 +1,258 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Brücke einnehmen und tiefer in feindliches Gebiet vorstoßen, um den auf der Karte markierten Militärstützpunkt anzugreifen.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Sie müssen den Fluss überqueren, um den Angriff fortzusetzen. Vernichten Sie die starken Verteidigungsanlagen des Feindes an der Brücke und in der nahen Ortschaft und nehmen Sie die Brücke ein. Stoßen Sie dann tiefer in feindliches Gebiet vor und überrennen Sie den feindlichen Militärstützpunkt, wo Sie Ihre Kräfte neu ordnen können.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Die Brücke ist ein wichtiger Teil des Transportkorridors und der taktische Schlüsselpunkt der Gegend. Sie müssen den feindlichen Angriff abwehren. Lassen Sie nicht zu, dass der Feind die Brücke einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Den Feindangriff abwehren. Die Brücke nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Alle Feindangriffe abwehren. Die Brücke halten und nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Der Feind setzt alles daran, die Brücke einzunehmen und den Fluss zu überqueren. Sie müssen die Brücke um jeden Preis halten und dürfen sie nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Alle Feindangriffe abwehren. Die Brücke halten und nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Der Feind setzt alles daran, die Brücke einzunehmen und den Fluss zu überqueren. Sie müssen die Brücke um jeden Preis halten und dürfen sie nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Brücke einnehmen und tiefer in feindliches Gebiet vorstoßen, um den auf der Karte markierten Militärstützpunkt anzugreifen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Sie müssen den Fluss überqueren, um den Angriff fortzusetzen. Vernichten Sie die starken Verteidigungsanlagen des Feindes an der Brücke und in der nahen Ortschaft und nehmen Sie die Brücke ein. Stoßen Sie dann tiefer in feindliches Gebiet vor und überrennen Sie den feindlichen Militärstützpunkt, wo Sie Ihre Kräfte neu ordnen können.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Reserve-Panzertrupp steht zu Ihrer Verfügung.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung steht zu Ihrer Verfügung.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht zu Ihrer Verfügung.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp steht zu Ihrer Verfügung.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp steht zu Ihrer Verfügung.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Brücke einnehmen und tiefer in feindliches Gebiet vorstoßen, um den auf der Karte markierten Militärstützpunkt anzugreifen.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Sie müssen den Fluss überqueren, um den Angriff fortzusetzen. Vernichten Sie die starken Verteidigungsanlagen des Feindes an der Brücke und in der nahen Ortschaft und nehmen Sie die Brücke ein. Stoßen Sie dann tiefer in feindliches Gebiet vor und überrennen Sie den feindlichen Militärstützpunkt, wo Sie Ihre Kräfte neu ordnen können.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Der Feind hat die Brücke eingenommen.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Die Brücke ist ein wichtiger Teil des Transportkorridors und der taktische Schlüsselpunkt der Gegend. Sie müssen den feindlichen Angriff abwehren. Lassen Sie nicht zu, dass der Feind die Brücke einnimmt.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Den Feindangriff abwehren. Die Brücke nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Alle Feindangriffe abwehren. Die Brücke halten und nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Der Feind setzt alles daran, die Brücke einzunehmen und den Fluss zu überqueren. Sie müssen die Brücke um jeden Preis halten und dürfen sie nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Alle Feindangriffe abwehren. Die Brücke halten und nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Der Feind setzt alles daran, die Brücke einzunehmen und den Fluss zu überqueren. Sie müssen die Brücke um jeden Preis halten und dürfen sie nicht in Feindeshand fallen lassen.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Brücke einnehmen und tiefer in feindliches Gebiet vorstoßen, um den auf der Karte markierten Militärstützpunkt anzugreifen.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Sie müssen den Fluss überqueren, um den Angriff fortzusetzen. Vernichten Sie die starken Verteidigungsanlagen des Feindes an der Brücke und in der nahen Ortschaft und nehmen Sie die Brücke ein. Stoßen Sie dann tiefer in feindliches Gebiet vor und überrennen Sie den feindlichen Militärstützpunkt, wo Sie Ihre Kräfte neu ordnen können.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Infantry_support]
+Infanterietrupp untersteht Ihrem Befehl.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+Reserve-Panzertrupp steht zu Ihrer Verfügung.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Luftunterstützung steht zu Ihrer Verfügung.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung steht zu Ihrer Verfügung.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp steht zu Ihrer Verfügung.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Reserve-Infanterie-Panzer-Trupp ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+Infanterie-Panzer-Trupp steht zu Ihrer Verfügung.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[Reinforcement.Group_reinforcement_tanks]
+Panzer
+
+[Reinforcement.Group_reinforcement_inf]
+Infanterie
+
+[Reinforcement.Group1[Reinforcement]]
+Reserve-Artillerie und Infanterie
+
+[Reinforcement.Group2[Reinforcement]]
+Wache des Militärstützpunkts
+
+[Reinforcement.Group3[Reinforcement]]
+Flankenschutzgruppe
+

@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Disputez l’avance ennemie en direction de Doubrova – Syrtsev.
+[Mission.Description]
+Avec la batterie d’artillerie antichar et la section de fusils antichars, tenez fermement la zone de défense. Une priorité particulière doit être accordée au maintien des positions sur le flanc droit et à Syrtsev. 
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+L’ennemi a rompu la ligne défensive, nos troupes battent en retraite.
+[Submission_1.Objectives]
+Empêchez l’ennemi de détruire les positions de la batterie antiaérienne installée dans le village. 
+[Submission_1.Success]
+La tentative de percer le flanc droit de la défense a été réprimée.
+[Submission_1.Failed]
+La batterie antiaérienne a été détruite, l’ennemi avance sur le flanc droit.
+[Submission_2.Objectives]
+Tenez à tout prix les positions aux abords de Syrtsev.
+[Submission_2.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Submission_2.Failed]
+Nos forces se replient sous les coups d’un ennemi supérieur en nombre.
+[Submission_3.Objectives]
+Repliez les troupes sur les positions de Syrtsev. Empêchez l’ennemi de s’emparer du village.
+[Submission_3.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Submission_3.Failed]
+Syrtsev a été occupé par l’ennemi, nos troupes se replient.
+[StringTable.SPG_InCome]
+Les canons d’assaut du 1440e régiment d’artillerie automotrice sont désormais sous votre commandement.
+[StringTable.Infantry_InCome]
+Une unité d’infanterie du 272e régiment de la Garde est désormais sous votre contrôle. 
+[StringTable.Tanks_InCome]
+Un groupe de chars de la 1re brigade mécanisée est désormais sous votre contrôle. 
+[StringTable.ChangeArmy]
+L’unité voisine a été placée sous votre commandement.
+
+[StringTable.SPG]
+Canons d’assaut du 1440e régiment d’artillerie automotrice
+[StringTable.TANKS]
+Chars de la 1re brigade mécanisée
+[StringTable.INFANTRY]
+Infanterie du 272e régiment d’infanterie de la Garde
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

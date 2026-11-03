@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+Impedisci che il nemico proveniente da ovest superi le nostre difese.
+[Submission1.Description]
+Dopo lunghi ritardi, gli americani hanno iniziato ad avvicinarsi alla zona di Arras. La situazione in questa parte del fronte è molto delicata. L'esercito nemico sta avanzando da ovest e ci supera di numero.
+
+I tuoi ordini sono:
+- 	Impedisci che il nemico proveniente da ovest superi le nostre difese.
+[Submission1.Success]
+Gli ordini sono stati eseguiti! Il nemico sta arretrando.
+[Submission1.Failed]
+Il nemico ha superato le nostre difese: dobbiamo ritirarci!
+[Mission1.Objectives]
+Ferma l'avanzata americana.
+[Mission1.Description]
+La terza armata americana sta per raggiungere le nostre linee difensive. Gli americani stanno preparando una offensiva su larga scala su tutta la linea del fronte e da differenti direzioni. Dovremo coprire la ritirata delle nostre truppe fermando quest'ultima loro avanzata.
+
+I tuoi ordini sono:
+-	Tieni le posizioni nell'area indicata.
+- 	Ferma le truppe nemiche in questa parte del fronte.
+[Mission1.Success]
+Gli ordini sono stati eseguiti! L'attacco americano è stato respinto! Questo dimostra ancora una volta la superiorità schiacciante delle armi tedesche.
+[Mission1.Failed]
+Le tue difese sono state superate! La Germania non dimenticherà mai i soldati caduti del Reich, ma non ricorderà certo un comandante inetto!
+[Submission2.Objectives]
+Non permettere che la tua linea di difesa meridionale venga superata.
+[Submission2.Description]
+Un gruppo di truppe americane si muove da sud con il supporto dell'aviazione e dell'artiglieria.
+
+I tuoi ordini sono:
+- 	Resisti al nuovo attacco da sud.
+[Submission2.Success]
+Gli ordini sono stati eseguiti! Il nemico è stato fermato!
+[Submission2.Failed]
+Il nemico ha superato le nostre difese!
+[Submission3.Objectives]
+Un nuovo attacco nemico sta arrivando da sud-ovest.
+[Submission3.Description]
+Le vedette in ricognizione dicono che il nemico sta avanzando da sud-ovest.
+
+I tuoi ordini sono:
+- 	Respingi l'attacco nemico da sud-ovest.
+[Submission3.Success]
+Sei riuscito a sconfiggere il nemico!
+[Submission3.Failed]
+Il nemico ha superato le tue difese; devi ritirarti!
+[Submission4.Objectives]
+Resisti al nuovo attacco proveniente da nord-ovest.
+[Submission4.Description]
+Un gruppo di truppe americane si muove da nord-ovest.
+
+I tuoi ordini sono:
+ -	 Resisti al nuovo attacco nemico proveniente da nord-ovest.
+[Submission4.Success]
+Gli ordini sono stati eseguiti!
+[Submission4.Failed]
+Le tue difese sono state superate!
+[StringTable.Reserv]
+Sono arrivati dei rinforzi.

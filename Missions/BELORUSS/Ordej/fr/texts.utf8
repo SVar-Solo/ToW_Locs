@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Libérez Ordej, Sosnovaïa Naspa et repoussez les contre-attaques ennemies.
+[Mission.Description]
+Libérez Ordej, Sosnovaïa Naspa. Tenez-les en cas d’attaques ennemies. Nettoyez la zone sécurisée, les routes et les environs des troupes ennemies.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission1.Objectives]
+Libérez Ordej.
+[Submission1.Description]
+Libérez Ordej.
+[Submission1.Success]
+Mission accomplie.
+[Submission1.Failed]
+Mission échouée.
+[Submission2.Objectives]
+Libérez Sosnovaïa Naspa.
+[Submission2.Description]
+Libérez Sosnovaïa Naspa.
+[Submission2.Success]
+Mission accomplie.
+[Submission2.Failed]
+Mission échouée.
+[Submission3.Objectives]
+Tenez Ordej.
+[Submission3.Description]
+Tenez Ordej.
+[Submission3.Success]
+Mission accomplie.
+[Submission3.Failed]
+Mission échouée.

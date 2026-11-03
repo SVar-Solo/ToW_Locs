@@ -1,0 +1,24 @@
+﻿[mission.Objectives]
+Force your way to the bridge in the North and cross it with all available troops.
+[mission.Description]
+Fierce battles are raging all over France. German troops are approaching Paris. After the battle of Arras, our group has been surrounded. The situation is hopeless, there is no chance to survive but we will keep on fighting till the end.
+[mission.Success]
+Mission accomplished, our troops have reached the bridge.
+[mission.Failed]
+Your squad has been destroyed.
+[Submission_1.Objectives]
+Carry out reconnaissance of enemy forces.
+[Submission_1.Description]
+Carry out reconnaissance of enemy forces.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[Submission_2.Objectives]
+You must reach the bridge as soon as possible, avoiding large enemy groups.
+[Submission_2.Description]
+The enemy surrounding us is spread thin, and there is still a chance to reach our troops before the enemy infantry pushes in. You must force your way to the bridge as quickly as possible, avoiding large enemy groups.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.

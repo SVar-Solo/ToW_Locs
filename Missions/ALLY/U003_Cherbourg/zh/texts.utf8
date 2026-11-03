@@ -1,0 +1,46 @@
+﻿[Submission_1.Objectives]
+夺取山上的敌军阵地。
+[Submission_1.Description]
+从战略角度看，这座山丘是这段战线上非常重要的位置。谁占据它，谁就拥有很大的优势。 
+
+命令： 
+- 	将敌人逐出山上的阵地，并在那里构筑防线。 
+[Submission_1.Success]
+山丘已被夺取！
+[Submission_1.Failed]
+失败！你未能拿下山丘。
+[Submission_2.Objectives]
+摧毁邻近村庄中的敌军防御据点，扩大桥头堡。 
+[Submission_2.Description]
+夺取山丘后，你突破了敌军防线。敌人仍然盘踞在两翼。现在必须扩大桥头堡。 
+
+命令： 
+- 	摧毁敌军所有侧翼阵地。 
+[Submission_2.Success]
+任务已完成。
+[Submission_2.Failed]
+你未能完成任务。
+[Submission_3.Objectives]
+不惜一切代价守住山丘。
+[Submission_3.Description]
+德军似乎正准备对你的阵地发起反击；你必须抵挡住他们的推进。 
+
+命令： 
+- 	坚守山上的阵地，消灭一切推进中的敌军。
+[Submission_3.Success]
+敌人已被击败。通往瑟堡的道路已经打开。
+[Submission_3.Failed]
+你已被击败。通往瑟堡的道路仍然被封锁。
+[Mission.Objectives]
+消灭瑟堡港附近所有德军抵抗据点。
+[Mission.Description]
+瑟堡守军已与其他德军隔断，因此预备队不足。然而，尽管盟军在人力和装备上占有优势，守军仍然拒绝了柯林斯将军提出的投降条件。 
+
+命令：
+- 	消灭瑟堡港附近所有德军抵抗据点。
+[Mission.Success]
+你取得了胜利。
+[Mission.Failed]
+你失败了。仍有太多德军部队留在该地区，将妨碍我们今后的推进。
+[StringTable.reserv]
+增援已到达。

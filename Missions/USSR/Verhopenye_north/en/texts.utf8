@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Hold the line on the eastern shore of the Pena. Prevent the enemy from creating a beachhead on the western shore.
+[Mission.Description]
+In conjunction with tanks of the 200th Tank Brigade secure the strong point in the western part of the Verkhopenye village. Units, withdrawing to the defense area, will be gathered, loaded up and deployed in corresponding sectors. Destroy advancing enemy groups in counterattacks while protecting the occupied positions.
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+The enemy has crossed the river Pena, our troops are withdrawing.
+[Submission1.Objectives]
+Repel all the enemy attacks. Prevent the enemy from breaking through to the bridges on the Pena.
+[Submission1.Success]
+Mission complete, enemy attacks have been repelled.
+[Submission1.Failed]
+The superior enemy forces continue the advance.
+[Submission2.Objectives]
+The enemy broke through to the positions near the crossing; there is a threat of establishing a bridgehead on the western shore. Immediately counterattack the enemy and push him back from the river.
+[Submission2.Success]
+The counterattack develops nicely, the enemy withdraws.
+[Submission2.Failed]
+The counterattack is defeated; there is a threat of the enemy creating a bridgehead.
+[StringTable.Platzdarm]
+Destroy advancing enemy groups before they receive reinforcements.
+[StringTable.Air!]
+Air strike! Everyone take cover!
+
+[StringTable.Tanks]
+Tanks from the 203rd Independent Heavy Tank Regiment
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

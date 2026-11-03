@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+坚守村庄中的防御阵地。
+[Submission1.Description]
+势不可挡的敌军正向第901装甲掷弹兵团第1营的阵地推进。在党卫军第12“希特勒青年团”师一支分遣队的协助下，守住这片区域！
+
+命令：
+- 与党卫军第12师的坦克协同，坚守村庄周围的防线。
+[Submission1.Success]
+干得好，指挥官！敌军没能击垮你们的战斗意志！
+[Submission1.Failed]
+任务失败！你的部队已被击败。
+[Submission2.Objectives]
+击退敌军进攻。
+[Submission2.Description]
+我们刚刚收到报告，敌军改变了进攻方向，正从北面逼近。指挥官，让你的部队准备迎接这一轮新的猛攻。
+ 
+命令：
+- 击退这一轮新的敌军进攻。
+[Submission2.Success]
+干得好，指挥官！敌军未能突破你的防线。
+[Submission2.Failed]
+任务失败！
+[StringTable.Change]
+你从师预备队获得了额外的装甲部队。

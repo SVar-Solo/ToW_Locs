@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Elimina le truppe nemiche nell'area indicata.
+[Mission1.Description]
+Le nostre unità si trovano nell'area di Lake Seliger. Il Quartier Generale ci ha ordinato di penetrare nelle linee russe in modo da impedire sul nascere i loro piani di offensiva. Secondo il nostro servizio informazioni, il nemico utilizzerà ancora il loro nuovo ed efficace modello di carro armato, il T-34.
+
+I tuoi ordini sono:
+-	Lancia un'offensiva in questo settore del fronte.
+-	Elimina le truppe nemiche che si stanno difendendo nel villaggio vicino.
+[Mission1.Success]
+Ottimo lavoro, comandante! Il nemico è stato completamente annientato. Adesso possiamo finalmente far arretrare la Terza e la Quarta Armata russa dalle loro posizioni!  
+[Mission1.Failed]
+Il nemico ha respinto tutti i tuoi attacchi. Sei una disgrazia per il Reich!
+[Submission1.Objectives]
+Bombarda le posizioni nemiche.
+[Submission1.Description]
+Prima di lanciare un'offensiva, bombarda pesantemente le posizioni russe.
+
+I tuoi ordini sono:
+-	Bombarda le posizioni nemiche.
+[Submission1.Success]
+Il bombardamento ha avuto successo. Le truppe russe sono state significativamente indebolite!
+[Submission1.Failed]
+Il tuo bombardamento è stato inefficace!
+ [Submission2.Objectives]
+Attacca il battaglione russo sulle motoslitte.
+[Submission2.Description]
+Secondo le informazioni raccolte dalla nostra aviazione, motoslitte nemiche si stanno avvicinando alle nostre truppe dal fianco. Devi immediatamente attaccare il battaglione russo prima che il nemico riesca a circondare le nostre unità.
+
+I tuoi ordini sono:
+-	Attacca il nemico che sta cercando di circondare le nostre unità.
+[Submission2.Success]
+Le unità sulle motoslitte sono state eliminate!
+[Submission2.Failed]
+Le tue truppe sono state eliminate completamente!
+[Submission3.Objectives]
+Attacca le truppe nemiche che stanno avanzando.
+[Submission3.Description]
+Le truppe russe hanno iniziato un'offensiva su larga scala, che mira a colpire il punto di unione tra la nostra Armata Nord e quella Centrale.
+
+I tuoi ordini sono:
+-	Attacca le truppe russe che stanno avanzando.
+[Submission3.Success]
+Le truppe nemiche sono state completamente annientate. Sarai sicuramente ricompensato!
+[Submission3.Failed]
+Le tue truppe sono state eliminate! Gli ordini del comando non sono stati eseguiti.
+[StringTable.Reserv]
+I rinforzi sono arrivati in tuo aiuto.

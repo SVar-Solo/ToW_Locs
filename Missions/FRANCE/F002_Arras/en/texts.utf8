@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Root out the enemy troops in the area specified.
+[Mission1.Description]
+May 21, 1940. Four armored brigades of the German 16th Army approached Arras. To close the breach and prevent the city from possible capture, the British allocated the 5th Tank Brigade. The French command, upset with the state of things in this sector, has also deployed tank groups belonging to the French 6th Army.
+
+Your orders:
+-	Find and destroy any German troops in your area. The English 5th Tank Brigade will support you. 
+-	Prevent the enemy troops from breaking through to Arras.
+[Mission1.Success]
+Well done, the enemy troops have been rooted out and destroyed. You have bought much needed time to better prepare the defense of Arras.
+[Mission1.Failed]
+Your troops have been defeated! Now the Germans will be able to enter Arras without any trouble!
+[Submission1.Objectives]
+Provide support to the English tank brigade.
+[Submission1.Description]
+The English 5th Tank Brigade is advancing towards the village in order to root out German armored brigades moving towards Arras. 
+The enemy outnumbers us in armored vehicles and is determined to advance towards the ultimate goal, Arras.
+
+Your order is to:
+- 	Provide active support to the English 5th Tank Brigade for as long as possible.
+[Submission1.Success]
+Order succeeded, the English Tank Brigade survived the battle with low casualties.
+[Submission1.Failed]
+Order failed, Germans have defeated the English tank brigade!
+[StringTable.Reserv]
+Reinforcements have arrived to support you.

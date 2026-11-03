@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Zatrzymaj przełamanie
+[Mission.Success]
+Wróg nie zdołał przebić się przez przełęcz!
+[Mission.Failed]
+Odwrót! Wróg przebił się przez przełęcz!
+[Mission.Description]
+Zatrzymaj przełamanie niemieckich grup przez przełęcz Kasserine
+[Submission1.Objectives]
+Powstrzymaj ataki wroga na możliwych kierunkach przełamania.
+[Submission1.Description]
+Podpułkowniku Waters! Musisz nie dopuścić do przełamania przez wojska niemieckie przełęczy Kasserine.
+[Submission1.Success]
+Rozkaz został wykonany! Wróg się wycofuje!
+[Submission1.Failed]
+Nasze wojska poniosły porażkę! Wróg nadal posuwa się naprzód!
+[Submission2.Success]
+Brytyjskie czołgi przybyły!
+[Submission2.Description]
+Utrzymaj pozycję do przybycia brytyjskich czołgów
+[Submission2.Objectives]
+Trzymać się
+[Submission2.Failed]
+Nie udało nam się! Posiłki nie zdążyły przybyć!
+[Submission3.Objectives]
+Znajdź i zniszcz wrogich korektorów ognia
+[Submission3.Description]
+Bateria moździerzy ostrzeliwuje pozycje 1. Dywizji Piechoty. Zlokalizuj i wyeliminuj wrogich artyleryjskich korektorów ognia.
+[Submission3.Success]
+Wrodzy korektorzy ognia zostali wyeliminowani!
+[Submission3.Failed]
+Wrodzy korektorzy ognia nie zostali wyeliminowani!

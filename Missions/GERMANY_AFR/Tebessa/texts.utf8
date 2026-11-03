@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Уничтожить оборону американских войск на перевале!
+
+[Mission.Description]
+
+[Mission.Success]
+Задача выполнена.
+
+[Mission.Failed]
+Задание провалено
+[Submission_1.Objectives]
+Занять плацдарм, обозначенный на карте, уничтожив пушки и живую силу противника, находящиеся там.
+
+[Submission_1.Success]
+Плацдарм захвачен
+
+[Submission_1.Failed]
+Задача провалена.
+
+[StringTable.Haubitze]
+В ваше распоряжение прибыли лёгкие пехотные гаубицы. Используйте их для поддержки наступления.
+
+[Submission_2.Objectives]
+Уничтожить первый эшелон обороны противника и занять новые позиции.
+
+[Submission_2.Description]
+
+[Submission_2.Success]
+Первый эшелон обороны противника уничтожен.
+
+[Submission_2.Failed]
+Задание провалено.
+
+[Submission_3.Objectives]
+Уничтожить второй эшелон обороны противника у выхода с перевала.
+
+[Submission_3.Description]
+
+[Submission_3.Success]
+Оборона противника сломлена полностью!
+
+[Submission_3.Failed]
+Задание провалено.
+
+[StringTable.Add_tanks]
+Я выделил танки из резерва штаба под ваше командование.

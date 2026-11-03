@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+摧毁敌军防御。
+[Mission.Description]
+德军又占据了一道防线。他们在奇斯缅纳附近集中了大量反坦克兵力。
+
+你的命令：
+- 摧毁奇斯缅纳地区的敌军防御。
+[Mission.Success]
+敌军的防御已被摧毁。你的任务圆满成功！
+[Mission.Failed]
+你未能完成命令！
+[Submission_1.Objectives]
+夺取高地。
+[Submission_1.Description]
+敌军兵力集中在居民点北面的高地上。守敌包括反坦克炮和自行火炮。 
+
+你的命令：
+- 将敌军逐出高地。
+[Submission_1.Success]
+你的任务已完成！你把敌军逐出了高地。
+[Submission_1.Failed]
+敌军击退了你的进攻。你未能完成命令！

@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Break through the Syrtsev - Dubrovo defense line and destroy the command post in Syrtsev.
+[Mission.Description]
+The combat team with tank and assault gun support will advance towards Dubrovo - Syrtsev, passing Syrtsev to the east. Defeat the enemy strong points, then reach the eastern shore of the Pena to the north of Syrtsev. Destroy the Soviet command post in Syrtsev at any cost.
+[Submission_1.Objectives]
+Break through the Syrtsev - Dubrovo defense line. Secure the objective with infantry.
+[Submission_2.Objectives]
+There is an enemy command post in Syrtsev village. It is necessary to continue the advance and destroy the command post.
+[Submission_1_1.Objectives]
+Our sabotage reconnaissance group in Dubrova destroyed Russian AA guns positions and consolidated on the village. It is necessary to urgently break through to Dubrova and save Steiner's group.
+[Submission_1_1.Success]
+Steiner's group is now under your command.
+[Submission_1_1.Failed]
+Steiner's group has died.
+[Submission_1.Success]
+The enemy defense line has been captured.
+[Submission_1.Failed]
+The attack has been stalled, immediate support is required.
+[Submission_2.Success]
+Enemy command post has been destroyed. Syrtsev has been occupied by our forces.
+[Submission_2.Failed]
+The attack has been stalled, immediate support is required.
+[Mission.Success]
+Enemy defense line Syrtsev - Dubrova has been penetrated. The enemy command post in Syrtsev has been destroyed.
+[Mission.Failed]
+We have failed to carry out our orders. The enemy is too strong! 
+[StringTable.Ger_infantry]
+A reserve infantry unit is now under your control.
+[StringTable.Ger_support]
+There are tanks, self-propelled guns and infantry units in reserve. You will be granted command over them if the attack begins successfully.
+
+[StringTable.Inf]
+Infantry
+[StringTable.Tanks]
+Tanks
+[StringTable.SPG]
+Self-propelled guns
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

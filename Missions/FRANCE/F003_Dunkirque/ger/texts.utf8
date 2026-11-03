@@ -1,0 +1,18 @@
+﻿[Mission.Objectives]
+Die Hauptmission ist es zu verhindern, dass die deutschen Truppen bis zum Evakuierungssektor durchbrechen können.
+[Mission.Description]
+Nach vielen Tagen harten Kampfes hat die französische Armee schwere Verluste erlitten, noch verschlimmert durch die ständigen Bombardements durch die deutsche Luftwaffe. Doch trotz dieser Verluste versuchen unsere Einheiten weiterhin, die Linien zu halten um anderen Alliierten Truppen zu ermöglichen, sich über den englischen Kanal per Schiff zurückzuziehen. Heute ist es die wichtigste Aufgabe zu verhindern, dass deutsche Truppen bis zum Evakuierungssektor an der Küste durchbrechen können.      
+[Mission.Success]
+Mission erfolgreich erfüllt.
+[Mission.Failed]
+Mission gescheitert
+[Submission_1.Objectives]
+Schlagen Sie alle deutschen Angriffe zurück
+[Submission_1.Description]
+Die Verteidigungslinien der französischen Armee sind durch Mangel an Personal stark überdehnt. Wir haben nur noch wenige Panzer und die deutsche Luftwaffe hat unsere eigenen Luftstreitkräfte zerschlagen. Die verbleibende alliierte Luftunterstützung ist für die Deckung der Evakuierungssektoren reserviert. Trotz der düsteren Aussichten müssen wir alle deutschen Angriffe zurückschlagen, damit die Evakuierungen weitergehen können.
+[Submission_1.Success]
+Die Angriffe wurden gestoppt. Die Evakuierung ist erfolgreich abgeschlossen worden.
+[Submission_1.Failed]
+Sie haben verloren! Deutsche Einheiten sind durchgebrochen und haben die übrigen Truppen, die auf ihre Evakuierung warteten, zerschlagen.
+[StringTable.reserv]
+Verstärkungen sind eingetroffen!

@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Contieni la pressione dell'esercito tedesco. Copri l'evacuazione delle truppe alleate al porto di Cherbourg.
+[Mission.Description]
+Giugno 1941, nella periferia della città portuale di Chernbourg staziona uno degli ultimi battaglioni dell'esercito francese ancora armati e organizzati. La Francia è occupata dai tedeschi. La macchina della propagando tedesca, diretta da Goebbels, sta lavorando a tempo pieno per cercare di infrangere le ultime speranze della resistenza francese. Le rimanenti truppe degli Alleati hanno bisogno di più tempo per potersi imbarcare sui trasporti per fuggire verso le Isole Britanniche. Tocca a te, comandante, svolgere questo compito a tutti i costi.
+
+I tuoi ordini sono:
+-	Contieni gli attacchi delle truppe tedesche usando tutti i mezzi e i modi possibili. Devi mantenere la linea del fronte e impedire che il nemico arrivi nelle zone di evacuazione.
+[Mission.Success]
+Hai terminato la missione con successo!
+[Mission.Failed]
+Hai fallito la missione!
+[Submission_1.Objectives]
+Respingi gli attacchi del nemico
+[Submission_1.Description]
+Le tue difese sono situate su di un'altura strategica. I tedeschi stanno forzando la strada verso il porto di Cherbourg, cambiando la direzione dei loro attacchi. Il fattore principale della tua difesa è una disposizione strategica corretta delle truppe che hai a disposizione.
+
+I tuoi ordini sono:
+-	Respingi tutti gli attacchi del nemico.
+[Submission_1.Success]
+Gli attacchi sono stati respinti!
+[Submission_1.Failed]
+Hai perso!
+[Submission_2.Objectives]
+Attacca l'insediamento a ovest dell'altura.
+[Submission_2.Description]
+Ad ovest delle tue posizioni c'è un insediamento occupato dalle truppe tedesche. Data la situazione attuale, il nemico non si aspetta un attacco dal tuo lato e sta ridisponendo senza fretta le sue forze per la prossima offensiva.
+
+I tuoi ordini sono:
+-	Organizza un contrattacco verso l'insediamento e elimina completamente le truppe tedesche.
+
+[Submission_2.Success]
+Il villaggio è nelle nostre mani! Ben fatto, comandante!
+[Submission_2.Failed]
+Non hai portato a termine la missione!
+[Submission_3.Objectives]
+Respingi il contrattacco nemico.
+[Submission_3.Description]
+Il fattore sorpresa ha funzionato! Il nemico ha sostenuto pesanti perdite in uomini e mezzi. Il piano tedesco di attaccarci simultaneamente da due lati è stato vanificato. Ma questa non si potrà definire una vittoria fino a quando il nemico si sforzerà di avere successo.
+
+I tuoi ordini sono:
+-	Respingi il contrattacco delle truppe tedesche.
+[Submission_3.Success]
+Hai vinto! Il contrattacco nemico è stato fermato!
+[Submission_3.Failed]
+Hai perso! Non sei riuscito a fermare il contrattacco nemico.
+[StringTable.reserv]
+I rinforzi sono arrivati

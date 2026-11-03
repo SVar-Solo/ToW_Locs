@@ -1,0 +1,49 @@
+﻿[Mission.Objectives]
+Tenere la linea
+[Mission.Description]
+Tenere la linea presso la stazione ferroviaria di Sidi N’Sir con le forze del 5º battaglione del Royal Hampshire Regiment, sostenuto dalla 155ª batteria del 172º reggimento di artiglieria da campagna.
+Al mattino il nemico ha lanciato un nuovo attacco: dobbiamo ritardarlo il più a lungo possibile, infliggendogli più danni che possiamo.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Missione fallita.
+[Submission1.Objectives]
+Stabilire il contatto con la batteria.
+[Submission1.Description]
+Siamo sostenuti dalla batteria di artiglieria da campagna. Qualche tempo fa si è perso il contatto con quella postazione di tiro. Dobbiamo inviare il nostro osservatore d’artiglieria al loro posto di osservazione.
+[Submission1.Success]
+Missione compiuta. La batteria aprirà il fuoco sui bersagli individuati.
+[Submission1.Failed]
+Il posto di osservazione è stato distrutto!
+[Submission2.Objectives]
+Tenere la posizione fino all’arrivo dei rinforzi.
+[Submission2.Description]
+Gli attacchi nemici si fanno più feroci. Dobbiamo tenere la linea a ogni costo fino all’arrivo dei rinforzi e infliggere al nemico più danni possibile. Distruggere i carri armati nemici è vitale: senza il loro sostegno, la fanteria nemica sarà più facile da contenere. 
+[Submission2.Failed]
+Missione fallita.
+[Submission2.Success]
+Missione compiuta.
+[Submission3.Objectives]
+Ripiegare nelle retrovie.
+[Submission3.Description]
+Nonostante le perdite, il nemico continua a gettare nella mischia nuove forze e ad attaccare le nostre posizioni. Anche noi abbiamo subito perdite tangibili, soprattutto di artiglieria, e non possiamo trattenere ancora a lungo i tedeschi. Per fortuna abbiamo tenuto la linea abbastanza a lungo: la batteria si è avvicinata e si è schierata. Ora possiamo ripiegare nelle retrovie, protetti dal suo fuoco. Dobbiamo sbrigarci, perché la nostra aviazione ridurrà presto la stazione in macerie.
+[Submission3.Success]
+Missione compiuta.
+[Submission3.Failed]
+Avendo perso il controllo delle truppe per il panico, non siete riusciti a ripiegare ordinatamente su una nuova linea difensiva. La vostra unità è stata colpita dalla nostra stessa aviazione. Missione fallita.
+[Submission4.Objectives]
+Tenere la posizione fino all’arrivo dei rinforzi
+[Submission4.Description]
+Il comando sta inviando un’altra batteria anticarro nel nostro settore. Dobbiamo tenere la linea fino al suo arrivo.
+[Submission4.Success]
+Missione compiuta. L’artiglieria è arrivata e si è schierata.
+[Submission4.Failed]
+Missione fallita.
+[StringTable.mess1]
+I tedeschi sono stati fermati sul posto e hanno iniziato a ritirarsi. Il loro attacco improvviso è fallito, il prossimo sarà molto più feroce.
+[StringTable.mess2]
+Allarme! Aerei d’assalto tedeschi! Contraerea, in azione!
+[StringTable.mess3]
+Non siamo riusciti a tenere la stazione. L’alto comando ha deciso di distruggerla per evitare che cada in mano tedesca. I bombardieri si avvicinano: ritirate al più presto le forze rimaste per non essere colpiti dalle bombe amiche.
+[StringTable.mess4]
+La batteria è stata distrutta.

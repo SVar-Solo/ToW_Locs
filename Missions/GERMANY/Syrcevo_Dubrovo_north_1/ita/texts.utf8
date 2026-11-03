@@ -1,0 +1,38 @@
+﻿[Mission.Objectives]
+Sfondare la linea difensiva Syrcev - Dubrovo e distruggere il posto di comando a Syrcev.
+[Mission.Description]
+Il gruppo di combattimento, con il supporto di carri armati e semoventi d'assalto, avanzerà verso Dubrovo - Syrcev, superando Syrcev da est. Sconfiggere i capisaldi nemici, quindi raggiungere la riva orientale della Pena a nord di Syrcev. Distruggere a ogni costo il posto di comando sovietico a Syrcev.
+[Submission_1.Objectives]
+Sfondare la linea difensiva Syrcev - Dubrovo. Assicurare l'obiettivo con la fanteria.
+[Submission_2.Objectives]
+Nel villaggio di Syrcev c'è un posto di comando nemico. È necessario proseguire l'avanzata e distruggere il posto di comando.
+[Submission_1.Success]
+La linea difensiva nemica è stata conquistata.
+[Submission_1.Failed]
+L'attacco è stato fiaccato, è necessario un supporto immediato.
+[Submission_2.Success]
+Il posto di comando nemico è stato distrutto. Syrcev è stata occupata dalle nostre forze.
+[Submission_2.Failed]
+L'attacco si è arenato, è necessario un supporto immediato.
+[Mission.Success]
+La linea difensiva nemica Syrcev - Dubrova è stata sfondata. Il posto di comando nemico a Syrcev è stato distrutto.
+[Mission.Failed]
+Non siamo riusciti a eseguire gli ordini. Il nemico è troppo forte! 
+[StringTable.Ger_infantry]
+Un'unità di fanteria di riserva è ora sotto il vostro controllo.
+[StringTable.Ger_support]
+In riserva ci sono carri armati, semoventi e unità di fanteria. Ne assumerete il comando se l'attacco inizierà con successo.
+
+[StringTable.Inf]
+Fanteria
+[StringTable.Tanks]
+Carri armati
+[StringTable.SPG]
+Semoventi
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

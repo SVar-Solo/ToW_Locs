@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Arrêtez l’attaque sur Sbeitla
+[Mission.Description]
+Lieutenant-colonel Waters ! Les Allemands avancent sur Sbeitla. Vous devez briser leur attaque et tenir l’objectif, une possible zone de rassemblement pour une attaque sur le village.
+[Mission.Success]
+L’ordre a été exécuté ! L’ennemi n’a pas pu s’emparer d’une zone de rassemblement pour son attaque sur Sbeitla.
+[Mission.Failed]
+Nos troupes ont été vaincues et les Allemands préparent une offensive sur Sbeitla.
+[Submission1.Objectives]
+Tenez la ligne
+[Submission1.Description]
+Tenez la ligne ! L’ennemi ne doit pas s’emparer de cette zone de rassemblement !
+[Submission1.Success]
+L’ennemi a été vaincu et prend la fuite !
+[Submission1.Failed]
+L’ennemi a écrasé les défenses et prépare une offensive sur Sbeitla !
+[StringTable.Reinf]
+Colonel Waters ! Des renforts sont en route. Tenez bon !
+[StringTable.Woters]
+Les renforts sont arrivés.
+[Submission2.Objectives]
+Sécurisez le point
+[Submission2.Description]
+Les Allemands tentent de s’emparer du poste radio. Vous devez attaquer l’ennemi et sécuriser le point.
+[Submission2.Success]
+L’ennemi a échoué !
+[Submission2.Failed]
+L’ennemi s’est emparé du poste radio !
+[Submission3.Objectives]
+Rétablissez le contact radio
+[Submission3.Description]
+Éliminez l’ennemi qui tient la hauteur et rétablissez le contact radio !
+[Submission3.Success]
+L’ennemi a été éliminé ! Le contact radio est rétabli !
+[Submission3.Failed]
+L’ennemi a repoussé notre attaque !
+[StringTable.Enemy]
+Soldats ! À l’action !
+[StringTable.Enemy2]
+Ennemi sur le flanc gauche !
+[StringTable.Enemy1_1]
+Ennemi sur le flanc droit !
+[StringTable.Enemy1_2]
+L’ennemi tente de passer sur nos arrières !
+[StringTable.tank]
+Chars
+[StringTable.human]
+Infanterie
+[StringTable.tank_human]
+Chars et infanterie

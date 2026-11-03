@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+Your mechanized unit is to help our Allies with the defence and prevent the enemy from crossing Kasserine pass. Acting as appropriate, you must deliver sudden strikes against the attacking Germans. The enemy is superior in both numbers and training, so ambushes would be a  reasonable tactic. Two main pass crossings have been mined by our troops. You are authorized to use air forces.
+[Submission_1.Description]
+Help our Allies
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[StringTable.Change_army]
+Allied troops have been put under your command.
+[Submission_2.Objectives]
+Eliminate the enemy tank force. Do not let them cross the pass.
+[Submission_2.Description]
+Eliminate the enemy tank force
+[Submission_2.Success]
+The enemy tanks have been destroyed.
+[Submission_2.Failed]
+The enemy tanks have broken through.
+[Submission_3.Objectives]
+The enemy has employed additional tanks from its reserve. You are to destroy them, preventing them from crossing the pass.
+[Submission_3.Description]
+Eliminate the enemy reserve
+[Submission_3.Success]
+The enemy tanks have been destroyed.
+[Submission_3.Failed]
+Mission failed.
+[Submission_4.Objectives]
+We repelled the enemy attacks, but they have managed to establish howitzer emplacements right in front of the pass. Firing at our positions, they have already caused heavy damage. Take all available forces and destroy enemy artillery.
+[Submission_4.Description]
+Destroy enemy artillery
+[Submission_4.Success]
+The enemy emplacements have been destroyed.
+[Submission_4.Failed]
+Mission failed.

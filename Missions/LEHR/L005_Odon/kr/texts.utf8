@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+마을의 방어 진지를 사수하라.
+[Submission1.Description]
+압도적인 적 병력이 제901기갑척탄병연대 제1대대의 진지를 향해 진격하고 있다. 제12친위 히틀러유겐트사단 분견대의 지원을 받아 이 지역을 사수하라!
+
+명령:
+- 제12친위 전차들과 협력하여 마을 주변의 방어선을 사수하라.
+[Submission1.Success]
+잘했다, 지휘관! 적은 귀관의 투지를 꺾지 못했다!
+[Submission1.Failed]
+임무 실패! 귀관의 병력이 패배했다.
+[Submission2.Objectives]
+적의 공격을 격퇴하라.
+[Submission2.Description]
+방금 적이 공격 방향을 바꿔 이제 북쪽에서 접근하고 있다는 보고를 받았다. 지휘관, 이 새로운 맹공에 대비해 부대를 준비시켜라.
+ 
+명령:
+- 적의 새로운 공격을 격퇴하라.
+[Submission2.Success]
+잘했다, 지휘관! 적은 귀관의 방어선을 돌파하지 못했다.
+[Submission2.Failed]
+임무 실패!
+[StringTable.Change]
+사단 예비대에서 추가 기갑 부대를 받았다.

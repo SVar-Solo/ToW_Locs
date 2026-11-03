@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Liberte Cuverville e garanta as estradas para preparar nosso avanço.
+[Mission.Description]
+A aldeia estratégica de Cuverville tem estradas que levam ao sul e ao sudeste. Garantir as estradas é vital para o nosso avanço.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Garanta a fazenda nos arredores de Cuverville.
+[Submission_1.Description]
+A fazenda ocupada pelo inimigo.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Liberte a aldeia de Cuverville.
+[Submission_2.Description]
+O inimigo se consolidou e assumiu posição defensiva em Cuverville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Garanta a estrada que leva ao sul.
+[Submission_3.Description]
+Garanta a estrada e elimine todos os hostis na área.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Garanta a estrada ao sudeste de Cuverville.
+[Submission_4.Description]
+Limpe a estrada e a área ao redor de inimigos.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+Missão cumprida.
+[Submission_4.Failed]
+Falha em cumprir a tarefa.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+Falha em cumprir a tarefa.
+[Submission_2.Success]
+Cuverville capturada. Missão cumprida.
+[Submission_2.Failed]
+Falha em cumprir a tarefa.
+[Submission_3.Success]
+Missão cumprida.
+[Submission_3.Failed]
+Missão fracassada.
+[StringTable.Tanks]
+Força de reserva disponível.

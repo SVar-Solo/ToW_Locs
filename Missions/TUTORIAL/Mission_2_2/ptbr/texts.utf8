@@ -1,0 +1,35 @@
+﻿[StringTable.1]
+Repila o ataque inimigo.
+Táticas do inimigo:
+Tanques pesados flanqueiam e chegam à retaguarda para destruir sua artilharia. A infantaria ataca as trincheiras. Tanques leves cobrem o avanço da infantaria.
+Suas táticas: seus soldados devem manter a posição. Use canhões e soldados com fuzis antitanque PTRD para imobilizar e depois destruir os tanques pesados do inimigo, e então destruir os tanques leves do inimigo. Use a infantaria para destruir a infantaria inimiga que avança sobre as posições.
+
+[StringTable.2]
+Repila o ataque inimigo.
+Táticas do inimigo:
+A infantaria ataca as trincheiras e depois os tanques entram no ataque, cobrindo a infantaria com fogo.
+Suas táticas:
+Selecione o tipo de projétil HE para os canhões e, junto com a infantaria, destrua a infantaria inimiga que avança. Assim que os tanques inimigos partirem para o ataque, destrua-os com fogo mirado dos canhões.
+
+[Submission1.Objectives]
+Mantenha a defesa e repila os ataques inimigos.
+
+[Submission1.Description]
+As tropas alemãs estão avançando neste setor da frente com o objetivo de destruir as posições defensivas do nosso exército. O Stavka considera necessário deter o avanço das tropas inimigas nesta área.
+
+Ordem recebida:
+- manter a defesa na área especificada;
+- repelir os ataques alemães.
+
+[Submission1.Success]
+Ordens do comando cumpridas! O avanço inimigo neste setor da frente foi detido! Você é digno da patente de oficial russo!
+
+[Submission1.Failed]
+Ordens não cumpridas! O inimigo rompeu a defesa neste setor da frente!
+
+[StringTable.Win]
+Tarefa concluída!
+
+[StringTable.Disp]
+Modo de posicionamento:
+Na área destacada, você pode mover suas tropas (infantaria, artilharia, tanques, metralhadoras etc.) — tanto individualmente quanto em grupos. Para girar na direção desejada sem alterar a posição, selecione as tropas e clique com o botão direito na direção desejada. Após posicionar as tropas, verifique visualmente as linhas de tiro aproximando a câmera do solo.

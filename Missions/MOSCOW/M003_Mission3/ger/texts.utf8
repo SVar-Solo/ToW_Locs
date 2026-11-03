@@ -1,0 +1,28 @@
+﻿[Mission.Objectives]
+Verhindern Sie, dass die feindlichen Truppen durchbrechen können.
+[Mission.Description]
+Einheiten aus der Reserve des Armee Hauptquartiers sind geschickt worden, um Sie zu verstärken. Eine Kompanie der Schützendivision steht in der Nähe des Dorfes Yadromino auf der Frontlinie in einem entscheidenden Gefecht. Diese einsame Kompanie verfügt über einige Panzerabwehrwaffen, und Ihnen wird mindestens auch eine 45mm Panzerabwehrkanone zur Verfügung gestellt
+
+Ihre Befehle lauten:
+- Verhindern Sie, dass die feindlichen Truppen durchbrechen können.
+[Mission.Success]
+Der Befehl wurde ausgeführt!
+[Mission.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt!
+[Submission_1.Objectives]
+Halten Sie alle feindlichen Panzer auf.
+[Submission_1.Description]
+Stellen Sie Ihre Einheiten schnell für die Verteidigung auf, damit Sie feindliche Schwächen direkt ausnutzen können. Denken Sie daran jegliche Infanterieangriffe mit ausreichendem Deckungsfeuer zu unterstützen.
+
+Ihre Befehle lauten:
+- Zerstören Sie die vorrückenden feindlichen Panzer.
+[Submission_1.Success]
+Die Befehle des Oberkommandos wurden erfüllt! Die feindlichen Panzer wurden vernichtet.
+[Submission_1.Failed]
+Sie haben die Befehle des Oberkommandos nicht erfollt! Ihre Truppen wurden geschlagen.
+[StringTable.Change_Infantry]
+Der Kommandeur der Schützenkompanie wurde getötet. Übernehmen Sie seine Kompanie. 
+[StringTable.Change_Artillery]
+Der Kommandeur der Artillerie Batterie wurde tödlich verwundet. Seine Geschütze sind jetzt unter Ihrem direkten Befehl.
+[StringTable.Change_ALL]
+Die aktuelle Situation erfordert bessere direkte Koordination. Um das zu erreichen wurden Sie zum Befehlshaber für die gesamte Formation bestellt. Ihnen stehen nun eine volle Schützenkompanie und eine Artillerie Batterie zur Verfügung.

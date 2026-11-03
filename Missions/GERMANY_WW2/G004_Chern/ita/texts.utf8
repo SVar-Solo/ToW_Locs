@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+Cattura la stazione ferroviaria di Chern.
+[Mission1.Description]
+Con le forze della Terza Divisione Corazzata devi iniziare l'offensiva in direzione di Chern. In questo settore del fronte i russi hanno costruito delle solide posizioni di difesa. La stazione di Chern è una ottima base difensiva e quindi dovrai agire con abilità e velocità per assicurarti la vittoria.
+
+I tuoi ordini sono:
+-	Elimina le truppe nemiche e prendi la stazione di Chern.
+[Mission1.Success]
+Gli ordini sono stati eseguiti e la stazione è nelle nostre mani! I russi hanno però opposto una caparbia resistenza e quindi sembra che la nostra avanzata verso Mosca sarà più difficile di quanto pensavamo.
+[Mission1.Failed]
+I russi sono stati così decisi nel difendere le loro posizioni, che sono riusciti ad eliminare le tue truppe! La responsabilità di questo disastro è solo tua!
+[Submission_01.Objectives]
+Bombarda le posizioni nemiche.
+[Submission_01.Description]
+Prima di lanciare un'offensiva, bombarda pesantemente le posizioni nemiche.
+[Submission_01.Success]
+Gli ordini sono stati eseguiti; il bombardamento ha avuto successo!
+[Submission_01.Failed]
+Il tuo bombardamento di artiglieria non è riuscito a danneggiare molto le posizioni nemiche!
+[Submission2_1.Objectives]
+Attacca le truppe nemiche dal fianco destro.
+[Submission2_1.Description]
+Siamo passati attraverso il fianco destro delle difese russe! Il nemico sta cercando di fermare l'offensiva delle nostre truppe, concentrando le riserve alla stazione. I russi potrebbero lanciare un contrattacco, quindi stai attento.
+
+I tuoi ordini sono:
+-	Attacca le truppe nemiche dal fianco destro.
+[Submission2_1.Success]
+Gli ordini sono stati eseguiti e l'attacco ha avuto successo!
+[Submission2_1.Failed]
+Gli ordini non sono stati eseguiti: i russi hanno respinto il tuo attacco!
+[Submission1_1.Objectives]
+Attacca il nemico alla stazione di Chern. 
+[Submission1_1.Description]
+Le difese russe sono state travolte! Il nemico sta cercando di fermare la nostra offensiva concentrando le proprie riserve alla stazione ferroviaria. Potrebbero lanciare un contrattacco, quindi stai attento.
+
+I tuoi ordini sono:
+-	Attacca il nemico alla stazione di Chern. 
+[Submission1_1.Success]
+Ordini eseguiti; la stazione è in mano nostra!
+[Submission1_1.Failed]
+Gli ordini non sono stati eseguiti e non sei riuscito a prendere la stazione!
+[StringTable.Reserv]
+I rinforzi sono arrivati in tuo aiuto.
+[StringTable.Reserv1]
+Le riserve stanno arrivando.

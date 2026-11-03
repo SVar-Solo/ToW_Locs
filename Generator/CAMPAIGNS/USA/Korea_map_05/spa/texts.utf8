@@ -1,0 +1,249 @@
+﻿[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Lance un ataque preventivo contra el enemigo atacante. No permita que los hostiles capturen el puente.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+El puente tiene una importancia estratégica, pero por ahora solo lo defiende un pequeño equipo de infantería. Según el reconocimiento, el enemigo se prepara para atacar la posición. Debe avanzar con rapidez y lanzar un ataque preventivo contra el enemigo atacante.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+¡Misión fallida! El enemigo capturó el puente.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida! El enemigo capturó el puente.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+¡Misión fallida! El enemigo capturó el puente.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+El puente tiene una importancia estratégica. Debe avanzar y lanzar un ataque preventivo contra el enemigo atacante. Preste atención al flanco izquierdo, que es vulnerable y podría ser rebasado por equipos de infantería. Debe mantener el puente a toda costa.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+El puente tiene una importancia estratégica. Debe avanzar y lanzar un ataque preventivo contra el enemigo atacante. Preste atención al flanco izquierdo, que es vulnerable y podría ser rebasado por equipos de infantería. Debe mantener el puente a toda costa.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Lance un ataque preventivo contra el enemigo atacante. No permita que los hostiles capturen el puente.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Lance un ataque preventivo contra el enemigo atacante. No permita que los hostiles capturen el puente.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Hay apoyo de morteros disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+El apoyo de artillería espera órdenes.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+El apoyo de artillería espera órdenes.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Un equipo de reserva de infantería y blindados está a sus órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Un equipo de reserva de infantería y blindados está a sus órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Elimine a los hostiles defensores y capture la localidad marcada en el mapa.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Elimine a los hostiles de la localidad marcada en el mapa. Capture la localidad y esté preparado para rechazar todos los contraataques enemigos.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture la localidad en el valle.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Avance a marcha forzada hacia la zona marcada en el mapa y lance de inmediato un ataque en marcha contra la vanguardia enemiga, antes de que tenga oportunidad de organizar sus defensas. Capture la localidad y esté preparado para rechazar todos los contraataques.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los contraataques enemigos contra la localidad.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+La localidad del valle es un punto defensivo estratégico de la zona y se encuentra en el principal corredor de transporte. Si perdemos esta posición, nuestras comunicaciones en la zona quedarán cortadas. No debe permitir que el enemigo capture esta posición.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los contraataques enemigos contra la localidad.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+La localidad del valle es un punto defensivo estratégico de la zona y se encuentra en el principal corredor de transporte. Si perdemos esta posición, nuestras comunicaciones en la zona quedarán cortadas. No debe permitir que el enemigo capture esta posición.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Capture el cruce de caminos en el valle.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Avance a marcha forzada hacia la zona marcada en el mapa. Luego organice sus defensas y asegure el cruce de caminos. Esté preparado para rechazar todos los contraataques enemigos.
+
+[Reinforcement.Group1[Reinforcement]]
+Vehículos blindados e infantería
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Rechace todos los ataques enemigos contra la localidad.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Rechace todos los ataques enemigos en los alrededores.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Rechace todos los ataques enemigos en los alrededores.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Rechace todos los ataques enemigos en los alrededores.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Rechace todos los ataques enemigos en los alrededores.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+No permita que el enemigo capture la localidad situada en el cruce de caminos. Utilice las fortificaciones ligeras de la zona.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Capture y mantenga la aldea
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Avance a marcha forzada hacia la aldea marcada en el mapa. Organice allí sus defensas y manténgala durante el tiempo designado, hasta que llegue el grueso de nuestras fuerzas.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Avance a marcha forzada hacia la aldea marcada en el mapa. Organice allí sus defensas y manténgala durante el tiempo designado, hasta que llegue el grueso de nuestras fuerzas.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Avance a marcha forzada hacia la aldea marcada en el mapa. Organice allí sus defensas y manténgala durante el tiempo designado, hasta que llegue el grueso de nuestras fuerzas.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Capture y mantenga la aldea
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Capture y mantenga la aldea
+
+[Reinforcement.Group2[Reinforcement]]
+
+

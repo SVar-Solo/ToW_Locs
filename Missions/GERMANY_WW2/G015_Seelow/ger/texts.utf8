@@ -1,0 +1,38 @@
+﻿[Submission_1.Objectives]
+Verhindern Sie, dass die Russen den Kanal überqueren können. 
+[Submission_1.Description]
+Ost Deutschland... die Russen kämpfen sich in Richtung Berlin vor. Die letzte Chance den Feind aufzuhalten ist an den Seelow Höhen. Flache Hügel durchziehen das Gelände und tiefe Einschnitte mit Kanälen. Sie müssen die angreifenden Feindeinheiten aufhalten bis Verstärkungen eintreffen können. Gute Verteidigungspositionen befinden sich auf beiden Seiten des Kanals. Um uns genügend Zeit zu verschaffen, dass ausreichend Verstärkungen eintreffen und in Stellung gehen können, müssen Sie verhindern, dass die Russen den Kanal überqueren können. 
+
+Ihre Befehle lauten: 
+-	 Halten Sie aus bis Verstärkungen eintreffen. 
+-	 Verhindern Sie, dass die Russen den Kanal überqueren.
+[Submission_1.Success]
+Gut gemacht! Der Heldentum Ihrer Soldaten ist ohne Vergleich!
+[Submission_1.Failed]
+Sie haben verloren, Deutschland ist dem Untergang geweiht.
+[Submission_2.Objectives]
+Stellen Sie Ihre Verteidigung auf den Anhöhen auf. Wehren Sie die russischen Angriffe ab. 
+[Submission_2.Description]
+Das Hauptquartier hat Ihnen Einheiten aus der Divisionsreserve zur Verfügung gestellt.  Gehen Sie auf der Anhöhe in Stellung und schlagen Sie die russischen  Angriffe zurück.
+
+Ihre Befehle:
+-	 Kämpfen Sie bis zum bitteren Ende!
+[Submission_2.Success]
+Sie haben gewonnen. Der Krieg ist vielleicht verloren, aber wir haben überlebt und können an einem anderen Tag weiterkämpfen.
+[Submission_2.Failed]
+Sie haben verloren. Unser Schicksal liegt nun in den Händen unserer Feinde.
+[Mission.Objectives]
+Halten Sie die Seelow Höhen.
+[Mission.Description]
+Die Streitkräfte der Roten Armee kämpfen sich nach Berlin vor. Sie sind mit Soldaten und Material in der Überzahl. In dieser kritischen Situation ist es wichtig, auszuhalten, die Angriffe einzudämmen und aus den Mauern der Stadt Berlin hinaus einen vernichtenden Gegenschlag gegen den Feind auszuführen. Das deutsche Volk schaut zu seinen Soldaten voller Hoffnung auf! Der Feind, unter Befehl von Marschall Zhukov, ist übereifrig und drängt ungeordnet nach vorne. Machen Sie sich seine Fehler zu nutze!
+
+Ihre Befehle:
+-	 Nachdem Sie sich auf den Seelow Höhen eingeigelt haben, verhindern Sie, dass die feindlichen Truppen durch Ihre Verteidigungslinien brechen können. 
+[Mission.Success]
+Sie haben ausgehalten! Deutschland überlebt einen weiteren Tag im Angesicht seiner Feinde.
+[Mission.Failed]
+Sie haben eine Niederlage erlitten! Der Krieg ist verloren!
+[StringTable.reserv]
+Verstärkungen sind eingetroffen.
+[StringTable.Last_reserv]
+Einheiten aus der Reserve des Armee Hauptquartiers sind geschickt worden, um Sie zu verstärken. Halten Sie die Anhöhen um jeden Preis!

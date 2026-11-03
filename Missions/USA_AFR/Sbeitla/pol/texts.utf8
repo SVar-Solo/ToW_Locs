@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Powstrzymaj atak na Sbeitla
+[Mission.Description]
+Podpułkowniku Waters! Niemcy zbliżają się do Sbeitla. Musisz powstrzymać ich atak i utrzymać cel, będący możliwym rejonem wyjściowym do ataku na miejscowość.
+[Mission.Success]
+Rozkaz został wykonany! Wróg nie zdobył rejonu wyjściowego do ataku na Sbeitla.
+[Mission.Failed]
+Nasze wojska zostały pokonane, a Niemcy szykują ofensywę na Sbeitla.
+[Submission1.Objectives]
+Utrzymaj linię
+[Submission1.Description]
+Utrzymać linię! Wróg nie może zdobyć tego rejonu wyjściowego!
+[Submission1.Success]
+Wróg został pokonany i ucieka!
+[Submission1.Failed]
+Wróg zmiażdżył obronę i szykuje ofensywę na Sbeitla!
+[StringTable.Reinf]
+Pułkowniku Waters! Posiłki są w drodze. Trzymać się!
+[StringTable.Woters]
+Posiłki przybyły.
+[Submission2.Objectives]
+Zabezpiecz punkt
+[Submission2.Description]
+Niemcy próbują zdobyć punkt łączności radiowej. Musisz zaatakować wroga i zabezpieczyć punkt.
+[Submission2.Success]
+Wróg poniósł porażkę!
+[Submission2.Failed]
+Wróg zdobył punkt łączności radiowej!
+[Submission3.Objectives]
+Przywróć łączność radiową
+[Submission3.Description]
+Wyeliminuj wroga zajmującego wzniesienie i przywróć łączność radiową!
+[Submission3.Success]
+Wróg został wyeliminowany! Łączność radiowa przywrócona!
+[Submission3.Failed]
+Wróg odparł nasz atak!
+[StringTable.Enemy]
+Żołnierze! Do akcji!
+[StringTable.Enemy2]
+Wróg na lewej flance!
+[StringTable.Enemy1_1]
+Wróg na prawej flance!
+[StringTable.Enemy1_2]
+Wróg próbuje dostać się na tyły!
+[StringTable.tank]
+Czołgi
+[StringTable.human]
+Piechota
+[StringTable.tank_human]
+Czołgi i piechota

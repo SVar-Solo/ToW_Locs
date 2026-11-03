@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Dirija la defensa
+[Submission_1.Description]
+Apoye a las unidades que protegen la estación de ferrocarril y el poblado; después, dirija la defensa.
+[Submission_01.Success]
+Todas las tropas están ahora bajo su mando.
+[Submission_01.Failed]
+Misión fallida.
+[Mission.Objectives]
+Detenga al enemigo
+[Mission.Description]
+Mantenga el control del poblado y de la estación. Si la estación es capturada, contraataque al enemigo y recupérela. Perder el poblado significa que el enemigo ha roto el frente y la misión habrá fracasado.
+[NewSubmission.Success]
+¡La estación vuelve a ser nuestra!
+[NewSubmission.Failed]
+Misión fallida.
+[Mission.Success]
+Misión cumplida, todos los ataques han sido rechazados.
+[Mission.Failed]
+Misión fallida.
+[Submission_1.Success]
+Todas las unidades están ahora bajo su mando.
+[Submission_1.Failed]
+¡Su negativa a asumir el mando de la defensa le saldrá muy cara!
+[Submission_2.Objectives]
+Contraataque
+[Submission_2.Description]
+¡El enemigo ha capturado la estación! Contraataque y recupérela.
+[Submission_2.Success]
+Misión cumplida, la estación vuelve a ser nuestra.
+[Submission_2.Failed]
+Misión fallida.

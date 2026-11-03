@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Expulse al enemigo de las localidades de Ifs, Bras y Hubert-Folie.
+[Mission.Description]
+Despeje de enemigos las localidades indicadas.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Libere Ifs.
+[Submission_1.Description]
+Despeje de fuerzas enemigas la localidad indicada.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Elimine al enemigo que guarnece Bras.
+[Submission_2.Description]
+Destruya el punto fuerte enemigo.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Asegure Hubert-Folie.
+[Submission_3.Description]
+Despeje de enemigos Hubert-Folie.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+La carretera del sur.
+[Submission_4.Description]
+Asegure la carretera.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_1.Success]
+Tarea cumplida.
+[Submission_1.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_2.Success]
+Tarea cumplida.
+[Submission_2.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_3.Success]
+Tarea cumplida.
+[Submission_3.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_4.Success]
+Misión cumplida.
+[Submission_4.Failed]
+No se ha logrado cumplir la tarea.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+No se ha logrado cumplir la tarea.
+[StringTable.Tanks]
+Fuerza de reserva disponible.

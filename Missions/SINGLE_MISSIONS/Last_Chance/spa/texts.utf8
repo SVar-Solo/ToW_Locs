@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Lleve una fuerza de reconocimiento por los alrededores y destruya cuantas unidades enemigas encuentre.
+[Mission.Description]
+La mayor parte de las fuerzas aliadas han sido evacuadas por mar a Dunkerque, y todo lo que queda son unidades rebeldes francesas dispersas. La ocupación final de Francia occidental ha sido atrasada porque los alemanes tratan de reorganizarse. Gracias a esta demora, se abre una pequeña posibilidad y los franceses han dispuesto un contraataque.
+[Mission.Success]
+¡Victoria! ¡Ha asestado un duro golpe al enemigo!
+[Mission.Failed]
+Derrota. ¡Puede que todo esté perdido por culpa de sus errores!
+[Submission_1.Objectives]
+Inspeccione el pueblo vecino en busca de tropas enemigas.
+[Submission_1.Description]
+Nos han informado de que los alemanes han ocupado la población que tiene por delante. Haga un reconocimiento y, si encuentra resistencia, expulse al enemigo de la ciudad. Se le han asignado todas las reservas que nos quedan.
+
+Sus órdenes son:
+-	Haga un reconocimiento de la ciudad y ataque al enemigo que encuentre. Los refuerzos que se le han asignado están en camino.
+[Submission_1.Success]
+Reconocimiento completo.
+[Submission_1.Failed]
+No ha batido correctamente la ciudad.
+[StringTable.Add_reserv]
+Ha recibido algunos tanques de la reserva.
+[StringTable.Add_Artillery]
+Tras estudiar su situación, el estado mayor ha decidido proveerle con más efectivos de artillería.
+[Submission_2.Objectives]
+Ataque al enemigo que se encuentre en la población.
+[Submission_2.Description]
+Los resultados de su reconocimiento muestran que los alemanes han conseguido desplegar un importante número de tropas pese a que el grueso de estas aún esta saliendo de Dunkerque. Debemos aprovechar la oportunidad y atacar al enemigo cuando menos se lo espera.
+
+Sus órdenes:
+	- Mientras el enemigo consolida sus posiciones en la población, lance un ataque contra él.
+[Submission_2.Success]
+Enemigo eliminado. ¡Buen trabajo, comandante!
+[Submission_2.Failed]
+¡Ha fracasado!
+[Submission_3.Objectives]
+Rechace los ataques de los tanques enemigos.
+[Submission_3.Description]
+Las fuerzas enemigas están demostrando ser más fuertes de lo esperado. Han desplegado en combate un gran número de unidades de tanques.
+
+Sus órdenes son:
+	- Resista los ataques de los tanques enemigos.
+[Submission_3.Success]
+¡El ataque enemigo se ha detenido!
+[Submission_3.Failed]
+Derrota. Los tanques enemigos han resultado ser demasiado fuertes.

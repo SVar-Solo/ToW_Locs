@@ -1,0 +1,26 @@
+﻿[Submission1.Objectives]
+Repoussez l’attaque ennemie.
+[Submission1.Description]
+L’effort principal des forces ennemies basées à Volokolamsk est dirigé vers Solnechnogorsk et Istra. Les Allemands sont déjà entre le réservoir Istra et la rivière du même nom. Dans certains secteurs, les troupes allemandes ont même réussi à traverser sur la rive est de la rivière.
+
+Il vous faut contenir l’attaque ennemie et maintenir ouvert les accès à la ville sous votre contrôle.  
+
+Vos ordres sont:
+-repoussez l’attaque ennemie.
+[Submission1.Success]
+Mission accomplie! L’attaque allemande a été repoussée.
+[Submission1.Failed]
+Les Allemands sont parvenus à percer nos lignes et à occuper la ville! Vous avez échoué!
+[Submission2.Objectives]
+Repousser les attaques ennemies sur nos flancs.
+[Submission2.Description]
+Les troupes ennemies tentent une attaque sur nos flancs et progresse à partir du nord et du sud. Résistez à ces actions de débordement!
+
+Vos ordres sont:
+- Repoussez les attaques ennemies sur nos flancs!
+[Submission2.Success]
+Mission accomplie! Vous avez protégé nos flancs.
+[Submission2.Failed]
+La mission est un échec!
+[StringTable.Retreat]
+La section chargée de couvrir le flanc gauche quitte le champ de bataille!

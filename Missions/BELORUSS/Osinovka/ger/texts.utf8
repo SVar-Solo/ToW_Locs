@@ -1,0 +1,39 @@
+﻿[Mission_01.Objectives]
+Befreien Sie Osinovka, Gryada, Zarechye.
+[Mission.Description]
+Befreien Sie Osinovka, Gryada, Zarechye.
+Vernichten Sie feindliche Kräfte im Gebiet.
+[Mission_01.Success]
+Mission erfüllt.
+[Mission_01.Failed]
+Mission fehlgeschlagen.
+[Mission.Objectives]
+Befreien Sie Osinovka, Gryada, Zarechye. Vernichten Sie feindliche Kräfte im Gebiet.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Mission fehlgeschlagen.
+[Submission1.Objectives]
+Säubern Sie Osinovka von feindlichen Truppen.
+[Submission1.Description]
+Säubern Sie Osinovka von feindlichen Truppen.
+[Submission1.Success]
+Aufgabe erfüllt.
+[Submission1.Failed]
+Aufgabe fehlgeschlagen.
+[Submission2.Objectives]
+Befreien Sie Gryada.
+[Submission2.Description]
+Befreien Sie Gryada.
+[Submission2.Success]
+Aufgabe erfüllt.
+[Submission2.Failed]
+Aufgabe fehlgeschlagen.
+[Submission3.Objectives]
+Befreien Sie Zarechye.
+[Submission3.Description]
+Befreien Sie Zarechye.
+[Submission3.Success]
+Aufgabe erfüllt.
+[Submission3.Failed]
+Aufgabe fehlgeschlagen.

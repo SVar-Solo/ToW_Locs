@@ -1,0 +1,106 @@
+﻿hkey.lowspeed	Движение техники со скоростью пехоты
+hkey.mining	Минирование
+hkey.mineclearing	Разминирование
+hkey.attack	Атака
+hkey.defend	Защита \ Разворот
+hkey.groundattack	Огонь по позиции
+hkey.move	Движение
+hkey.nextunit	Следующий юнит
+hkey.pause	Пауза
+hkey.prevunit	Предыдущий юнит
+hkey.retreat	Отступление
+hkey.stop	Отмена команды
+hkey.storm	Штурм \ Движение
+hkey.ambush	Засада
+hkey.sneak	Разведка
+hkey.smokecloudfast	Дымовая завеса (быстрый выстрел)												
+hkey.smokecloud	Дымовая завеса
+hkey.attachdetach	Прицепить \ Отцепить
+hkey.evacuate	Высадка пассажиров \ экипажа
+hkey.autopickup	Автоматическое поднятие оружия
+hkey.addtogroup0	Добавить в группу 10
+hkey.addtogroup1	Добавить в группу 1
+hkey.addtogroup2	Добавить в группу 2
+hkey.addtogroup3	Добавить в группу 3
+hkey.addtogroup4	Добавить в группу 4
+hkey.addtogroup5	Добавить в группу 5
+hkey.addtogroup6	Добавить в группу 6
+hkey.addtogroup7	Добавить в группу 7
+hkey.addtogroup8	Добавить в группу 8
+hkey.addtogroup9	Добавить в группу 9
+hkey.group0	Выбрать группу 10
+hkey.group1	Выбрать группу 1
+hkey.group2	Выбрать группу 2
+hkey.group3	Выбрать группу 3
+hkey.group4	Выбрать группу 4
+hkey.group5	Выбрать группу 5
+hkey.group6	Выбрать группу 6
+hkey.group7	Выбрать группу 7
+hkey.group8	Выбрать группу 8
+hkey.group9	Выбрать группу 9
+hkey.remembergroup0	Создать группу 10
+hkey.remembergroup1	Создать группу 1
+hkey.remembergroup2	Создать группу 2
+hkey.remembergroup3	Создать группу 3
+hkey.remembergroup4	Создать группу 4
+hkey.remembergroup5	Создать группу 5
+hkey.remembergroup6	Создать группу 6
+hkey.remembergroup7	Создать группу 7
+hkey.remembergroup8	Создать группу 8
+hkey.remembergroup9	Создать группу 9
+hkey.inventory	Инвентарь
+hkey.vehicleCharacteristics	Тактико-технические характеристики
+hkey.exit	Выход
+hkey.load	Быстрая загрузка
+hkey.save	Быстрое сохранение
+hkey.unitinfoicon	Показывать иконки пехоты и техники
+hkey.messagelog	Панель сообщений
+hkey.view_sectors	Показывать сектор атаки
+hkey.viewtargetarrow	Показывать указатель цели
+hkey.grab_screen	Моментальный снимок экрана
+hkey.multiplayerchattalk	Отправить сообщение союзникам
+hkey.multiplayerchatyell	Отправить сообщение всем
+hkey.cameratopdownview	Тактическая карта
+hkey.hide_panels	Скрыть / показать интерфейс
+hkey.nextmusictrack	Следующее музыкальное произведение
+hkey.camerafreelock	Обзор мышью
+hkey.binocularview	Бинокль
+hkey.cameramoveforward	Движение камеры вперед
+hkey.cameramovebackward	Движение камеры назад
+hkey.cameramoveleft	Движение камеры влево
+hkey.cameramoveright	Движение камеры вправо
+hkey.cameramoveup	Движение камеры вверх
+hkey.cameramovedown	Движение камеры вниз
+hkey.camerarotateup	Поворот камеры вверх
+hkey.camerarotatedown	Поворот камеры вниз
+hkey.camerarotateleft	Поворот камеры влево
+hkey.camerarotateright	Поворот камеры вправо
+hkey.cameramovetomsg	Перемещение камеры к источнику сообщения
+hkey.camerasetdefault	Возврат камеры в начальное положение
+hkey.bindcamera	Вид от первого лица
+hkey.linkcamera	Прикрепить камеру к объекту
+hkey.time2xspeed	Изменение скорости игры
+hkey.actionmode	Выбор режима перемещения
+hkey.setbodymodelay	Скрытное перемещение
+hkey.setbodymodeknee	Передвижение короткими перебежками
+hkey.setbodymodestay	Передвижение бегом
+hkey.firemode	Выбор режима ведения огня
+hkey.attackup	Атаковать в верхнюю часть
+hkey.attackmedium	Атаковать в среднюю часть
+hkey.attackdown	Аттаковать в нижнюю часть
+hkey.attackbarrage	Защитный огонь по позициям
+hkey.formation	Выбор формации
+hkey.SwitchDamageMessagesMode	Отображение информации о повреждениях
+hkey.MultiplayerExchangePoints	Передача очков
+hkey.selectweaponandammoreset Сброс принудительного выбора оружия
+hkey.selectweaponandammo1 Выбрать основное оружие юнита
+hkey.selectweaponandammo2 Выбрать осколочные гранаты
+hkey.selectweaponandammo3 Выбрать противотанковые гранаты
+hkey.selectweaponandammo4 Выбрать пушку
+hkey.selectweaponandammo5 Выбрать бронебойные снаряды
+hkey.selectweaponandammo6 Выбрать осколочные снаряды
+hkey.selectweaponandammo7 Выбрать пулемет
+hkey.selectweaponandammo8 Выбрать оружее 8
+hkey.selectweaponandammo9 Выбрать оружее 9
+hkey.repair	Ремонт
+hkey.cameratypeswitch	Переключить режим камеры (свободная/центрированная)

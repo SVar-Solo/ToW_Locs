@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Détruisez les défenses
+[Mission.Description]
+Détruisez les défenses américaines sur le col de Tébessa.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Objectives]
+Prenez pied
+[Submission_1.Description]
+Sécurisez l'objectif indiqué sur la carte en éliminant les canons et les troupes ennemis qui s'y trouvent.
+[Submission_1.Success]
+La base de départ est sécurisée.
+[Submission_1.Failed]
+Mission échouée.
+[StringTable.Haubitze]
+Vous avez maintenant le commandement des obusiers. Utilisez-les pour appuyer l'offensive.
+[Submission_2.Objectives]
+Éliminez le premier échelon
+[Submission_2.Description]
+Éliminez la première ligne des défenses ennemies.
+[Submission_2.Success]
+La première ligne des défenses ennemies a été éliminée.
+[Submission_2.Failed]
+Mission échouée.
+[Submission_3.Objectives]
+Éliminez le second échelon
+[Submission_3.Description]
+Éliminez la seconde ligne des défenses ennemies à la sortie du col.
+[Submission_3.Success]
+Les défenses ennemies ont été complètement éliminées.
+[Submission_3.Failed]
+Mission échouée.
+[StringTable.Add_tanks]
+Je vous ai fourni des chars de la réserve de l'état-major de l'armée.

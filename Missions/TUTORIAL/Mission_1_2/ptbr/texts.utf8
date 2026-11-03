@@ -1,0 +1,110 @@
+﻿[Submission_1.Objectives]
+Determinação de visibilidade direta e indireta.
+
+[Submission_1.Description]
+Você tem dois soldados à sua disposição, posicionados a certa distância um do outro. Do lado inimigo, um tanque Pz.IV F2 está saindo do povoado. Durante o movimento, vários obstáculos (casas, árvores e outros objetos) bloqueiam a visibilidade desse tanque para as suas unidades.
+
+[Submission_1.Success]
+Tarefa concluída!
+
+[Submission_1.Failed]
+Tarefa fracassada!
+
+[StringTable.Direct_undirect_vis]
+Um dos soldados vê o tanque inimigo em linha de visada direta; quando esse soldado é selecionado, o ícone do tanque fica vermelho vivo. O segundo soldado não vê o tanque diretamente, embora a distância permita vê-lo. Isso é possível porque há objetos no mapa que obstruem a visão. Nesse caso, o ícone do tanque para esse soldado fica semitransparente. Isso significa que o soldado que tem o tanque em linha de visada direta está "observando-o" para o soldado que não o vê diretamente. Quando a seleção é removida de ambos os soldados, ou quando várias unidades são selecionadas ao mesmo tempo, o ícone do tanque fica vermelho vivo. Nessa situação, ambas as suas unidades podem atirar no alvo, se houver linha de tiro.
+
+[StringTable.unvis]
+O tanque é invisível para todas as suas unidades. Nessa situação, nenhuma das suas unidades pode atirar diretamente no alvo inimigo. Por algum tempo, suas unidades "lembrarão" a localização do inimigo; nesse caso, o ícone acima do inimigo mudará de aparência.
+Grama, arbustos e árvores, inclusive caídas, também são obstáculos à visibilidade. Isso pode ser usado taticamente, mas preste atenção ao tamanho das copas e à altura da grama para determinar se a sua unidade ficará escondida atrás deles. Se você começar a atirar, o camuflamento será removido por algum tempo.
+Além da visibilidade direta, a certa distância a infantaria pode determinar a localização aproximada do inimigo pelo som, se o inimigo estiver atirando, movendo-se ou girando a torre.
+
+[StringTable.Direct_vis]
+Para todas as suas unidades, o tanque está em linha de visada direta. Tente selecionar todas as suas unidades, uma a uma. O ícone do tanque está sempre vermelho vivo. Nessa situação, se houver linha de tiro, qualquer uma das suas unidades pode atirar no alvo.
+Com a "linha de visada" ativada nas configurações, você pode verificar a linha de tiro usando um dos comandos — "atacar" {hkey:attack}, "assaltar" {hkey:storm} ou "fogo em área" {hkey:groundattack}. Depois de ativar o comando e antes de dar a ordem, uma seta será exibida da sua unidade até o ponteiro do mouse. A cor vermelha da seta mostra um trecho onde não há obstáculos na linha de tiro; a cor preta, depois de um obstáculo. Para equipamentos, uma dica aparecerá perto do ponteiro do mouse explicando por que não há linha de tiro. Se você mover o cursor do mouse para fora dos setores de visão da unidade, parte da seta ficará azul.
+
+[StringTable.ENTER]
+O jogo permite prender a câmera à sua unidade. A câmera pode girar livremente. Você também pode selecionar qualquer outra unidade (grupo de unidades) e controlá-la. Ao pressionar {hkey:bindcamera}, a câmera se move e se prende à unidade; ao pressionar {hkey:linkcamera}, a câmera se prende à unidade mantendo a distância atual. Essa funcionalidade funciona para todas as unidades dentro da zona de jogo jogável. Fora da zona de jogo, não é possível prender a câmera a uma unidade.
+
+[Mission.Objectives]
+Recursos da visualização de visibilidade no jogo.
+
+[Mission.Description]
+Usando seus dois soldados e um tanque inimigo em movimento, são simuladas diferentes variantes de exibição de uma unidade inimiga sob várias condições de visibilidade. Em particular:
+- as duas unidades do jogador veem diretamente o tanque inimigo;
+- uma das unidades do jogador vê o tanque inimigo em linha de visada direta, enquanto a outra não vê o inimigo "diretamente";
+- nenhum dos dois soldados vê o tanque inimigo.
+
+							   
+									  
+										  
+[Mission.Success]
+Tarefa concluída!
+
+[Mission.Failed]
+Tarefa fracassada!
+
+[Submission_2.Objectives]
+Prender a câmera diretamente a uma unidade.
+
+[Submission_2.Description]
+Há duas unidades amigas e duas unidades inimigas no mapa. Uma das unidades inimigas está fora da zona de jogo. O jogo permite prender a câmera a qualquer unidade, inclusive uma unidade inimiga, localizada dentro da zona de jogo. Não é possível prender a câmera a unidades fora da zona de jogo.
+
+[Submission_2.Success]
+Tarefa concluída!
+
+[Submission_2.Failed]
+Tarefa fracassada!
+
+[StringTable.Line_of_Fire]
+Um canhão foi colocado à sua disposição. Na maioria dos casos, se uma unidade inimiga está em linha de visada direta do canhão, ele tem linha de tiro. Mas há casos em que há visibilidade direta, mas não há linha de tiro — isso é causado por um obstáculo na linha de tiro do canhão (dobra do terreno, cerca etc.) ou pelo fato de o canhão não conseguir ser apontado para o alvo devido a um ângulo de depressão/elevação insuficiente do cano. Se o canhão não vê diretamente a unidade inimiga, mas há uma unidade do seu exército que a vê diretamente, nesse caso a linha de tiro geralmente não existe, mas há situações em que o canhão não vê diretamente o inimigo e mesmo assim tem linha de tiro. Mais frequentemente, essa situação ocorre quando a unidade inimiga está a uma distância superior ao alcance de visibilidade ou quando o inimigo está oculto pela vegetação. Nesse caso, o canhão pode atirar.
+
+[Submission_3.Objectives]
+Destrua o tanque inimigo.
+
+[Submission_3.Description]
+Você tem um canhão à sua disposição. Destrua o tanque inimigo.
+
+[Submission_3.Success]
+Tarefa concluída!
+
+[Submission_3.Failed]
+Tarefa fracassada!
+
+[StringTable.Howitzer_1]
+Assuma o comando de uma bateria de artilharia. Ela pode realizar fogo indireto a partir de posição defilada, se a trajetória do projétil permitir. A inclinação da trajetória depende da velocidade inicial do projétil. Quanto menor a velocidade, mais fácil é lançar o projétil por cima de dobras do terreno se a distância for curta. Às vezes você terá de escolher com cuidado a posição certa para o canhão, de modo que ele possa atirar na área necessária.
+
+[StringTable.Howitzer_2]
+Se apenas uma unidade estiver selecionada, ao passar o cursor do mouse sobre o inimigo a trajetória será calculada e o tipo de ícone no cursor mostrará se o tiro é possível. O cálculo da trajetória leva em conta a velocidade inicial do projétil atual, portanto selecione à força os projéteis HE clicando com o botão direito no ícone do projétil no painel de armas, já que eles têm velocidade inicial menor. Tente neutralizar o equipamento leve do inimigo usando o comando "Fogo em área" {hkey:groundattack}. Se apenas uma unidade estiver selecionada, após ativar o comando aparecerá uma linha com uma seta mostrando se há visibilidade direta até o cursor, e o tipo de ícone no cursor mostra se há trajetória indireta até aquele ponto. Você pode indicar um único ponto ou especificar uma área de tiro mantendo o botão direito do mouse pressionado.
+
+[Submission_4.Objectives]
+Neutralize o grupo de equipamentos leves inimigos.
+
+[Submission_4.Description]
+Você tem uma bateria de artilharia à sua disposição. Neutralize o grupo de veículos inimigos.
+
+[Submission_4.Success]
+Tarefa concluída!
+
+[Submission_4.Failed]
+Tarefa fracassada!
+
+[StringTable.Tank_Vis_Line_1]
+Assuma o comando de um tanque M3 "Lee".
+Cada posição de tripulante em um veículo pode ser equipada com dispositivos ópticos ou fendas de observação pelas quais o tripulante olha alternadamente. Os dispositivos ópticos podem ser desativados; informações sobre seu estado podem ser obtidas em uma dica se você passar o cursor do mouse sobre a posição de um tripulante no painel de informações inferior da interface. Os dispositivos de observação têm um setor de visão limitado na vertical e na horizontal e podem ter ampliação óptica, nenhuma ampliação ou visibilidade reduzida. Tripulantes expostos observam sem dispositivos ópticos, como a infantaria comum.
+
+[StringTable.Tank_Vis_Line_2]
+Mude a posição do seu tanque e neutralize o Pz IV inimigo.
+O artilheiro na torre não pode disparar o canhão de 37 mm porque não tem projéteis, mas observa por seus dispositivos ópticos e avistou um tanque à frente, parcialmente oculto por uma dobra do terreno. O canhão no sponson é capaz de atirar, mas não tem linha de tiro.
+Para verificar a linha de tiro de um canhão específico do tanque, selecione o canhão clicando com o botão esquerdo no ícone do canhão no painel de armas e depois use um dos comandos (por exemplo, "atacar" {hkey:attack}, "assaltar" {hkey:storm} ou "fogo em área" {hkey:groundattack}) para verificar a linha de tiro.
+
+[Submission_5.Objectives]
+Neutralize o tanque inimigo.
+
+[Submission_5.Description]
+Você tem um tanque M3 "Lee" à sua disposição. Neutralize o tanque inimigo.
+
+[Submission_5.Success]
+Tarefa concluída!
+
+[Submission_5.Failed]
+Tarefa fracassada!

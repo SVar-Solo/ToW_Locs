@@ -1,0 +1,51 @@
+﻿[Mission.Objectives]
+Amerykanie nadciągają od strony punktu 2, zaatakuj ich, zanim do nas dotrą! Przypominam jeszcze raz – uczyń teren swoim potężnym sojusznikiem! Powodzenia!
+[Mission.Success]
+Ewakuacja zakończona pomyślnie!
+[Mission.Failed]
+Wszystkie „Tigery” zostały wyeliminowane lub zniszczone, wróg przebił się do wsi przed końcem ewakuacji. Misja nieudana!
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+Pierwszy atak wroga załamał się, ale wprowadza on rezerwy z punktu 3. Trzymać się!
+[StringTable.IntroSubtitle1]
+Major Gerhard w swoim „Kübelwagenie” do dowódców „Tigerów”:
+[StringTable.IntroSubtitle2]
+Wróg jest bardzo silny, ale...
+[StringTable.IntroSubtitle3]
+przypominam jeszcze raz, że ...
+[StringTable.IntroSubtitle4]
+Tiger jest niemal niewrażliwy na ostrzał z dużej odległości.
+[StringTable.IntroSubtitle5]
+Teren pozwala nam strzelać z dużej odległości, ...
+[StringTable.IntroSubtitle6]
+to powinien być nasz atut.
+[StringTable.InfoSubtitle7]
+Powodzenia, Herren Offiziere! Naprzód! Gott mit uns!
+[StringTable.InfoSubtitle8]
+Dowódcy „Tigerów”: Zu Befehl!
+[StringTable.IntroSubtitle7]
+[StringTable.SubtitleWin1]
+Major Gerhard: Udało się! Choć niczego innego się nie spodziewałem.
+[StringTable.SubtitleWin2]
+Herren Offiziere, gratuluję zwycięstwa!
+[StringTable.SubtitleWin3]
+Nie mogę jednak pozwolić Wam cieszyć się zasłużonym odpoczynkiem.
+[StringTable.SubtitleWin4]
+Podczas gdy nasza uwaga była skupiona...
+[StringTable.SubtitleWin5]
+na Amerykanach, Brytyjczycy obeszli nas z flanki.
+[StringTable.SubtitleWin6]
+Musicie natychmiast ich skontrować.
+[StringTable.SubtitleWin7]
+Los Rzeszy znów leży w naszych rękach!
+[StringTable.SubtitleWin8]
+Załogi „Tigerów”: Zu Befehl!
+[StringTable.SubtitleFail1]
+Radia sojuszniczych czołgów: Nie brać jeńców! Zabić wszystkich!
+[StringTable.SubtitleFail2]
+Wykończyliście mojego kumpla Jimmy'ego! Zdychajcie, pieprzone dranie!
+[StringTable.SubtitleFail3]
+Żadnej litości dla drani! Zmiażdżyć ich!
+[StringTable.SubtitleFail4]
+Patrzcie, jak płoną!

@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+防守指定区域。
+[Mission.Description]
+你的部队隶属于精锐的装甲教导师，部署在维莱博卡日东北方。1944年7月13日上午，英军第7装甲师发动攻势，企图夺取维莱博卡日并迂回包抄你的部队。英军希望通过对你左翼的一系列试探性进攻牵制师预备队，从而确保胜利。你必须阻止英军深入你的防线，否则全师可能遭到彻底合围并最终被歼灭。
+ 
+命令：
+- 阻止敌军深入你的防御控制区。
+[Mission.Success]
+干得好，指挥官！
+[Mission.Failed]
+任务失败！你的部队已被消灭！
+[Submission_1.Objectives]
+击退敌军进攻。
+[Submission_1.Description]
+敌军掌握着制空权，能够从多个不同方向发起打击。你的兵力十分分散，必须防守一大片区域。
+ 
+命令：
+- 构筑足够的防御，封锁所有进攻路线。
+- 尽可能减少损失。
+- 击退敌军进攻。
+[Submission_1.Success]
+干得好，指挥官！敌军的进攻已被击退。
+[Submission_1.Failed]
+任务失败！你的部队已被击败。
+[Submission_2.Objectives]
+反击撤退中的敌军。
+[Submission_2.Description]
+敌军损失惨重，正在撤退。动用你的预备队追击并消灭他们！
+ 
+命令：
+- 反击撤退中的敌军部队。
+[Submission_2.Success]
+干得好，指挥官！敌军部队已被击败。
+[Submission_2.Failed]
+任务失败！你已被击败。
+[StringTable.tanks_reserv]
+你从师预备队获得了额外的装甲部队。

@@ -1,0 +1,38 @@
+﻿[Submission_1.Objectives]
+Prevent the Russians from crossing the canal. 
+[Submission_1.Description]
+East Germany… The Russians are fighting their way towards Berlin. The last chance to hold the enemy is at the Seelow Heights. Low mountains cover the terrain, and valleys are pitted with canals. Your mission is to contain the advancing enemy units friendly reinforcements arrive. Good defensives positions are located on both sides of the canal. In order buy enough time for adequate reinforcements to arrive and deploy, you must keep the Russians from crossing the canal. 
+
+Your orders are: 
+- 	Hold out until reinforcements arrive. 
+- 	Prevent the Russians from crossing the canal.
+[Submission_1.Success]
+Well done! The heroism of your soldiers is unrivalled!
+[Submission_1.Failed]
+You have lost, Germany is doomed.
+[Submission_2.Objectives]
+Arrange your defenses on the heights. Repel the Russian attacks. 
+[Submission_2.Description]
+Head Quarters has assigned forces to your from the Division reserve.  Establish defensive positions on the heights and repel the Russian assault.
+
+Your orders:
+- 	Fight to the end!
+[Submission_2.Success]
+You have won. While the war may be lost, we have held out for yet another day.
+[Submission_2.Failed]
+You have lost. Our fate is now in the hands of our enemies.
+[Mission.Objectives]
+Hold the Seelow Heights.
+[Mission.Description]
+Red Army forces are fighting their way towards Berlin. They have advantages in manpower and equipment. In this critical situation, it is necessary to hold out, contain the assault, and springing from the walls of Berlin, inflict a crushing blow on the enemy. The German people look to their soldiers with hope! The enemy, under command of Marshal Zhukov, is over zealous and rushes ahead with little order. Capitalize on their mistakes!
+
+Your orders:
+- 	Having entrenched on the Seelow Heights, prevent the Russian troops from breaking through your defenses. 
+[Mission.Success]
+You have held out! Germany survives another day in the face of her enemies.
+[Mission.Failed]
+You have suffered a defeat! The war is lost!
+[StringTable.reserv]
+Reinforcements have arrived.
+[StringTable.Last_reserv]
+Troops from the Army Headquarters reserve have been sent to reinforce you. Hold the heights at any cost!

@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Destrua as defesas inimigas.
+[Mission1.Description]
+As tropas inimigas ergueram uma linha defensiva nos acessos à aldeia de Kryukovo. É de vital importância que nossas tropas retomem o controle dessa aldeia. Destrua quaisquer tropas inimigas nas proximidades e retome a cidade!
+
+Suas ordens:
+- Destrua as defesas inimigas.
+[Mission1.Success]
+As defesas inimigas foram destruídas! Você cumpriu com sucesso as suas ordens!
+[Mission1.Failed]
+Suas tropas foram derrotadas! Você não cumpriu as suas ordens!
+[Mission2.Objectives]
+Repila o contra-ataque inimigo.
+[Mission2.Description]
+As tropas alemãs lançaram um contra-ataque. Você deve manter as posições recém-capturadas.
+
+Suas ordens:
+- Repila o contra-ataque inimigo.
+- Mantenha as posições recém-capturadas.
+
+[Mission2.Success]
+As ordens do QG foram cumpridas! O contra-ataque inimigo foi repelido.
+[Mission2.Failed]
+Suas tropas foram derrotadas. Você fracassou!

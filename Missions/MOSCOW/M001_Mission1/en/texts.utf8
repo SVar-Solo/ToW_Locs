@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Cover the retreat of the 1075th Regiment, 316th Rifle Division by taking up defensive positions near the railway halt Dubosekovo.
+[Mission.Description]
+November 16. The 4th Company of the 1075th Regiment, 316th Rifle Division is taking up defensive positions on a hill near the railway stop at Dubosekovo, 7 kilometers southeast of Volokolamsk. Its main mission is to stop any attack by German troops (the 11th Panzer Division) and give the regiment a chance to retreat in order to better align the front lines. Heavy fighting in October has deprived the division of almost 50% of its manpower and nearly all its equipment. To help fulfill their mission, the company commanded by Captain Gundilovich and Politruk Klochkov received two 45mm antitank guns.     
+
+Your order is to:
+- Cover the retreat of the 1075th Regiment, 316th Rifle Division by taking up defensive positions near the railway stop at Dubosekovo.
+[Mission.Success]
+The order has been carried out!
+[Mission.Failed]
+You have failed to fulfill your order!
+[Submission_1.Objectives]
+Repel the enemy’s first echelon attack.
+[Submission_1.Description]
+Scouts report that the Germans intend to attack from the south-west along the highway leading to the railway stop at Dubosekovo. Their forward forces are limited: just an incomplete infantry platoon, two tanks and some armored vehicles.  
+
+Your order is to:
+- Repel the enemy attack. 
+[Submission_1.Success]
+Order fulfilled! The enemy attack has been repelled. 
+[Submission_1.Failed]
+You failed to fulfill your order! Your troops were destroyed. 
+[Submission_2.Objectives]
+Repel the enemy tank attack.
+[Submission_2.Description]
+Initial German forces failed to take the railway stop under their control and had to retreat. Now we should expect a more powerful wave attack with more panzers and infantry involved. The enemy must not break through into our rear area.
+
+Your order is to:
+- Stop the enemy panzers. 
+[Submission_2.Success]
+The order has been fulfilled! The enemy tank attack was repelled.
+[Submission_2.Failed]
+You have failed to fulfill your order! Your troops were defeated.
+[Submission_3.Objectives]
+Hold your positions.
+[Submission_3.Description]
+Not a single step back! Although Russia is large, there is nowhere to retreat anymore as Moscow lies behind.
+
+Your order is to:
+- Hold your positions.
+[Submission_3.Success]
+Your order has been fulfilled!
+[Submission_3.Failed]
+You have failed to fulfill your order!

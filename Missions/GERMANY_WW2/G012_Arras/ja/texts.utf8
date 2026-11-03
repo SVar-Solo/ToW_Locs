@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+西から攻撃する敵に防御を突破されるのを防げ。
+[Submission1.Description]
+長い遅れの後、アメリカ軍はアラス周辺に接近し始めた。戦線のこの方面の状況は極めて深刻である。敵軍は西から前進しており、数的に優勢である。
+
+命令：
+- 	西からの敵の攻撃に防御を突破されるのを防げ。
+[Submission1.Success]
+任務達成！ 敵は後退している。
+[Submission1.Failed]
+敵に防御を突破された。撤退せねばならない！
+[Mission1.Objectives]
+アメリカ軍の前進を阻止せよ。
+[Mission1.Description]
+アメリカ第3軍が我が防衛線に接近した。アメリカ軍は前線全域にわたり、さまざまな方向から大規模な前進を準備している。この最新の進撃を食い止めて、我が軍の撤退を掩護せねばならない。
+
+命令： 
+-	指定地域の防御を保持せよ。
+- 	戦線のこの方面で敵部隊を阻止せよ。
+[Mission1.Success]
+任務達成！ アメリカ軍の攻撃は粉砕された！ ドイツ兵器の圧倒的優位が改めて示された。
+[Mission1.Failed]
+貴官の防御は突破された！ ドイツは帝国の戦死者を忘れないが、無能な指揮官のことは到底記憶しないだろう！
+[Submission2.Objectives]
+南の防御が突破されるのを防げ。
+[Submission2.Description]
+米軍の大部隊が南から迫っている。航空機と砲兵が前進を支援している。
+
+命令： 
+- 	南からのこの新たな攻撃に抵抗せよ。
+[Submission2.Success]
+任務達成。敵を阻止した！
+[Submission2.Failed]
+敵に防御を突破された！
+[Submission3.Objectives]
+南西から新たな攻撃波が接近している
+[Submission3.Description]
+偵察によれば、敵部隊が南西から前進している。
+
+命令： 
+- 	南西から来る敵の攻撃を撃退せよ。
+[Submission3.Success]
+敵の攻撃を撃退することに成功した！
+[Submission3.Failed]
+敵に防御を突破された。後退せねばならない！
+[Submission4.Objectives]
+北西から発する新たな攻撃に抵抗せよ。
+[Submission4.Description]
+米軍部隊が北西から移動している。
+
+命令： 
+ -	 北西から攻撃する敵部隊に持ちこたえよ。
+[Submission4.Success]
+任務完了！
+[Submission4.Failed]
+貴官の部隊の防御は突破された！
+[StringTable.Reserv]
+増援を得た。

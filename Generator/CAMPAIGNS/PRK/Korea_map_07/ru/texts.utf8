@@ -1,0 +1,130 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Уничтожить оборону противника и захватить господствующую высоту.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Уничтожить оборону противника и захватить господствующую высоту. Отбить контратаки неприятеля.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Противник построил мощные оборонительные укрепления. Часть пути наступления танкодоступна, это даст возможность поддержать атаку танками на первом этапе. На втором этапе атаки придется действовать только пехотным подразделениям. Главная цель - господствующая высота, она отмечена на карте точкой.
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Противник построил мощные оборонительные укрепления. Часть пути наступления танкодоступна, это даст возможность поддержать атаку танками на первом этапе. На втором этапе атаки придется действовать только пехотным подразделениям. Главная цель - господствующая высота, она отмечена на карте точкой. Штаб армии полагает, что возможно проведение противником контратак.
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Высота захвачена
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Высота захвачена
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Войска разбиты и отступают
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Войска разбиты и отступают
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Удержать позиции на высоте, отмеченной на карте. Заминировать область перед позициями.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+В условиях плохой проходимости для техники, пехотной группой удержать позиции на высоте, в районе храма. противник также не может использовать тяжелую технику в условиях ограниченной проходимости. Выделить из состава пехоты группу для минирования и группу прикрытия. Заминировать подходы к позициям.
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Высота потеряна
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Удержать позиции на высоте, отмеченной на карте. Заминировать область перед позициями.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Удержать позиции на высоте, отмеченной на карте. Продержаться определенное время до особого приказа.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+В условиях плохой проходимости для техники, пехотной группой удержать позиции на высоте, в районе храма. противник также не может использовать тяжелую технику в условиях ограниченной проходимости. Выделить из состава пехоты группу для минирования и группу прикрытия. Заминировать подходы к позициям.
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+В условиях плохой проходимости для техники, пехотной группой удержать позиции на высоте, в районе храма. противник также не может использовать тяжелую технику в условиях ограниченной проходимости. Выделить из состава пехоты группу для минирования и группу прикрытия. Заминировать подходы к позициям.
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Высота потеряна
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Высота потеряна
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка доступна
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Авиационная поддержка доступна
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Артиллерийская поддержка доступна
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Авиационная поддержка доступна
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.STORM.attack_prk.assault_usa.MLR_SUPPORT]
+Реактивная артиллерия поддержка в вашем распоряжении
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиационная группа ждет приказа
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Авиационная группа ждет приказа
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Уничтожить оборону противника и захватить господствующую высоту.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Уничтожить оборону противника и захватить господствующую высоту. Отбить контратаки неприятеля.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Противник построил мощные оборонительные укрепления. Часть пути наступления танкодоступна, это даст возможность поддержать атаку танками на первом этапе. На втором этапе атаки придется действовать только пехотным подразделениям. Главная цель - господствующая высота, она отмечена на карте точкой.
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Противник построил мощные оборонительные укрепления. Часть пути наступления танкодоступна, это даст возможность поддержать атаку танками на первом этапе. На втором этапе атаки придется действовать только пехотным подразделениям. Главная цель - господствующая высота, она отмечена на карте точкой. Штаб армии полагает, что возможно проведение противником контратак.
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Высота захвачена
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Высота захвачена
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Войска разбиты и отступают
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Войска разбиты и отступают
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Удержать позиции на высоте, отмеченной на карте. Заминировать область перед позициями.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+В условиях плохой проходимости для техники, пехотной группой удержать позиции на высоте, в районе храма. противник также не может использовать тяжелую технику в условиях ограниченной проходимости. Выделить из состава пехоты группу для минирования и группу прикрытия. Заминировать подходы к позициям.
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Высота потеряна
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Удержать позиции на высоте, отмеченной на карте. Заминировать область перед позициями.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Удержать позиции на высоте, отмеченной на карте. Продержаться определенное время до особого приказа.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+В условиях плохой проходимости для техники, пехотной группой удержать позиции на высоте, в районе храма. противник также не может использовать тяжелую технику в условиях ограниченной проходимости. Выделить из состава пехоты группу для минирования и группу прикрытия. Заминировать подходы к позициям.
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+В условиях плохой проходимости для техники, пехотной группой удержать позиции на высоте, в районе храма. противник также не может использовать тяжелую технику в условиях ограниченной проходимости. Выделить из состава пехоты группу для минирования и группу прикрытия. Заминировать подходы к позициям.
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Задача выполнена
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Высота потеряна
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Высота потеряна
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Артиллерийская поддержка доступна
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Авиационная поддержка доступна
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Артиллерия доступна
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиационная группа ждет приказа
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Авиационная группа ждет приказа
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Минометная поддержка в вашем распоряжении
+[Reinforcement.Group_inf]
+Пехота
+[Reinforcement.Group_infantry]
+Пехота

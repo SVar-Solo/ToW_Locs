@@ -1,0 +1,42 @@
+﻿[Submission_1.Objectives]
+必须不惜一切代价阻止俄军坦克突破到你的后方地区。
+[Submission_1.Description]
+俄军又发动了一次反攻。他们再次试图突破我军防线，在我们后方地区制造混乱。若他们得逞，就可能与其他友军会合，包围我军。我们必须获胜，挫败这次进攻。
+
+命令：
+-	摧毁所有推进中的敌军部队。
+[Submission_1.Success]
+你获胜了，挫败了俄军最新的这次攻势。
+[Submission_1.Failed]
+你输了！俄军部队已从你的防线渗透过去，正扑向我们脆弱的后方地区。
+[Submission_2.Objectives]
+粉碎俄军在普罗霍罗夫卡车站的抵抗。
+[Submission_2.Description]
+俄军已失去冲劲。抓住这个机会，进攻普罗霍罗夫卡车站。
+
+命令：
+-	继续向普罗霍罗夫卡车站推进，消灭沿途遇到的所有守军。
+[Submission_2.Success]
+你赢了！干得好，指挥官。你今天的行动将为我们赢得急需的时间，以重新夺回主动权。
+[Submission_2.Failed]
+你输了！向俄军发起致命一击的大好机会被白白浪费了。
+[Mission.Objectives]
+夺取普罗霍罗夫卡车站
+[Mission.Description]
+“堡垒行动”已经开始，党卫军第2装甲军受命突破敌军沿卡尔塔绍夫卡—别列戈沃耶—普罗霍罗夫卡—斯托罗热沃耶一线构筑的防御。
+
+命令：
+-	突破普罗霍罗夫卡车站周围的俄军防御。
+
+[Mission.Success]
+祝贺你！你已突破了俄军的防御！
+[Mission.Failed]
+你未能夺取普罗霍罗夫卡车站。
+[StringTable.Tanks_Reserv]
+师预备队的坦克已交由你调遣。
+[StringTable.SPG_Reserv]
+自行火炮部队已交由你调遣。
+[StringTable.Infantry_Reserv]
+预备队的步兵部队已交由你调遣。
+[StringTable.Inf_reserv]
+预备队的步兵部队已交由你调遣。

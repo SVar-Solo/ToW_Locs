@@ -1,0 +1,18 @@
+﻿[SKILLS_DESC.Scout]
+정찰 능력은 병사의 위장 효과와 저격총 사용 시 정확도에 영향을 줍니다.
+
+[SKILLS_DESC.Gunlayer]
+포술 능력은 대구경 포 사용 시 병사의 정확도에 영향을 줍니다.
+
+[SKILLS_DESC.intelligence]
+지능은 병사가 경험치를 얻는 속도에 영향을 줍니다.
+
+[SKILLS_DESC.leadership]
+통솔력은 병사의 사기에 영향을 줍니다.
+
+[SKILLS_DESC.driver]
+운전 능력은 병사의 운전 실력에 영향을 줍니다.
+
+[SKILLS_DESC.accuracy]
+사격술은 소화기와 기관총 사용 시 병사의 정확도에 영향을 줍니다.
+

@@ -1,0 +1,96 @@
+﻿[Mission.Objectives]
+Wyzwól osadę. Utrzymaj ją do przybycia posiłków.
+
+[Mission.Description]
+Za pomocą przydzielonej Ci grupy dywersyjno-rozpoznawczej wyzwól osadę spod niemieckich wojsk i utrzymaj ją do przybycia posiłków.
+
+[Mission.Success]
+Pomyślnie wykonałeś zadanie. Dowództwo dziękuje za służbę.
+
+[Mission.Failed]
+
+[SubMission_01.Objectives]
+Udziel naszym czołgistom wszelkiej możliwej pomocy. Zaznacz całą grupę spadochroniarzy i wyślij ją do punktu przy czerwonym dymie sygnałowym.
+
+[SubMission_01.Description]
+Na naszych oczach zniszczono czołg brygady pancernej; wygląda na to, że czołgiści zdołali opuścić płonący wóz. Sprawdź ruiny przy czołgu; może ktoś z czołgistów jeszcze żyje. Udziel pomocy rannym czołgistom.
+
+[SubMission_01.Success]
+Zadanie wykonane. Czołgiści dołączyli do naszej grupy.
+
+[SubMission_01.Failed]
+
+[SubMission_02.Objectives]
+Przejmij czołg. Przemieszczając się do miejsca, w którym stoi czołg, oznaczonego czerwonym dymem sygnałowym, używaj poleceń ataku. Skup ogień oddziału na wrogich żołnierzach.
+
+[SubMission_02.Description]
+Według danych wywiadowczych Niemcy ukrywają w tym rejonie nasz czołg. Nie wiadomo, jak się u nich znalazł. Przejmij czołg z pomocą czołgistów, którzy dołączyli do grupy.
+
+[SubMission_02.Success]
+Zadanie wykonane. Czołg znów jest w naszych rękach.
+
+[SubMission_02.Failed]
+
+[SubMission_03.Objectives]
+Stłum ogień wrogiej artylerii. Użyj granatów przeciwpiechotnych lub pocisków HE; zniszczą one tylko obsługi dział.
+
+[SubMission_03.Description]
+Stłum ogień wrogiej artylerii. Spróbuj przejąć wrogie działa; będą nam potrzebne do zorganizowania obrony osady; w tym celu wskazane jest użycie pocisków HE lub granatów przeciwpiechotnych.
+
+[SubMission_03.Success]
+Zadanie wykonane. Wroga artyleria przestała istnieć.
+
+[SubMission_03.Failed]
+
+[SubMission_04.Objectives]
+Odeprzyj ataki wroga. Skoncentruj ogień wszystkich dział na lewej flance. Po prawej wykryto pola minowe, które pomogą nam zniszczyć wroga na prawej flance. Nie pozwól czołgowi wjechać na zaminowane pola.
+
+[SubMission_04.Description]
+Wróg próbuje odbić osadę. Skieruj wszystkie działa w jego stronę i wytrwaj do przybycia naszych wojsk.
+
+[SubMission_04.Success]
+Udało się! Hurra!
+
+[SubMission_04.Failed]
+
+[StringTable.avia_report]
+Dostępne jest wsparcie lotnicze. Wskaż punkt na terenie, w który ma zostać skierowane wsparcie lotnicze. Bombowce nurkujące, podobnie jak samoloty szturmowe, atakują wroga samodzielnie, ale robią to ze stromego lotu nurkowego.
+
+[StringTable.msg_01_01]
+Dowodzisz oddziałem rozpoznawczym. To dobrze wyszkolony oddział; jego żołnierze mają kamuflaż zwiększający ich skrytość, nawet przy zerowym parametrze „Zwiad”. Są uzbrojeni w pistolety maszynowe, niezwykle skuteczne na krótkich dystansach, rzędu 100 metrów.
+
+[StringTable.msg_01_02]
+Czołgiści nie mają kamuflażu, ale potrafią obsługiwać pojazdy. Chroń osoby z wysokimi umiejętnościami „Prowadzenie pojazdu” lub „Celowniczy”, a także te o wysokich stopniach – podnoszą one morale pobliskich żołnierzy.
+
+[StringTable.msg_01_03]
+Ten teren porasta wysoka trawa, która z pewnej odległości może całkowicie ukryć Twoje oddziały. Wysokość trawy bezpośrednio wpływa na odcięcie linii widzenia. Wybierz tryb ruchu leżąc {hkey:setbodymodelay}, aby zagwarantować ukrycie żołnierzy w trawie.
+
+[StringTable.msg_02_01]
+Atakuje Cię wroga piechota. W większości sytuacji wystarczy po prostu pozwolić żołnierzom strzelać samodzielnie. Pilnuj sektorów ostrzału swoich żołnierzy, aby sobie nie przeszkadzali, a wróg znajdował się w ich polu widzenia.
+
+[StringTable.msg_02_02]
+Aby skuteczniej się posuwać, zostaw część żołnierzy na miejscu, by osłaniali tych, którzy zmieniają pozycję. Warto przemieszczać się między krzakami i osłonami krótkimi skokami {hkey:setbodymodeknee}, nie przebywając zbyt długo na otwartym terenie.
+
+[StringTable.msg_02_03]
+Pod Twoim silnym naciskiem wroga piechota może się poddać; wtedy ikona nad takimi wrogami będzie szara.
+
+[StringTable.msg_02_04]
+Jeśli ikona nad pojazdem jest szara, można ten obiekt przejąć. Pamiętaj, że obsługa czołgu lub działa wymaga odpowiednich umiejętności. Aby obsługiwać przejęty sprzęt, umiejętności muszą przekraczać określony próg. Czy sprzęt jest uważany za zdobyczny, dowiesz się z flagi na tle jego ikony w podpowiedzi. Jeśli przejmiesz taki sprzęt i przeniesiesz go do następnej misji kampanii, nie będzie już uważany za zdobyczny.
+
+[StringTable.msg_02_05]
+Aby przejąć czołg, zaznacz czołgistów i kliknij go prawym przyciskiem myszy.
+
+[StringTable.msg_03_01]
+Użyj dla czołgu polecenia ostrzału obszarowego {hkey:groundattack}, klikając prawym przyciskiem myszy teren w pobliżu wroga lub bezpośrednio wroga.
+
+[StringTable.msg_03_02]
+Zbliż się do artylerii od tyłu, gdzie jest najbardziej bezbronna. Użyj granatów HE.
+
+[StringTable.msg_04_01]
+Aby obrócić działo, jego obsługa musi liczyć co najmniej 2 żołnierzy. Zaznacz działo i kliknij prawym przyciskiem myszy punkt w kierunku, w którym chcesz je obrócić; przytrzymaj przycisk myszy, aż kursor się zmieni.
+
+[StringTable.msg_04_02]
+Zestaw amunicji czołgu T-34 zawiera 2 rodzaje pocisków przeciwpancernych:
+APHEBC – pocisk z czepcem, wybucha po pokonaniu przeszkody pancernej. Ma niewielki ładunek wybuchowy, wystarczający do rażenia członków załogi w pobliżu punktu detonacji.
+APBC – pocisk pełny, nie ma ładunku wybuchowego, ale ma większą szansę trafienia w moduły wewnętrzne.
+Ponadto oba rodzaje pocisków mogą powodować powstawanie odłamków wtórnych, raniących załogę i elementy wewnętrzne.

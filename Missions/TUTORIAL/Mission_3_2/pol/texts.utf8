@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+Zdobądź osadę
+
+[Mission.Description]
+Wejdź do osady, zwalcz wrogą piechotę, odnajdź i przejmij czołg. Zniszcz wrogi czołg. Wycofaj się do wskazanego punktu.
+
+[Mission.Success]
+Pomyślnie wykonałeś wszystkie zadania!
+
+[Mission.Failed]
+Zadanie nieudane.
+
+[Submission_1.Objectives]
+Zdobądź osadę i przejmij czołg
+
+[Submission_1.Description]
+Zdobądź osadę kontrolowaną przez wroga, odnajdź czołg i przejmij go.
+
+[Submission_1.Success]
+Czołg odnaleziony i przejęty
+
+[Submission_1.Failed]
+Zadanie nieudane.
+
+[Submission_2.Objectives]
+Zniszcz wrogą artylerię
+
+[Submission_2.Description]
+Zniszcz wrogą artylerię. Aby wykonać zadanie skuteczniej, użyj pocisków dymnych jako osłony.
+
+[Submission_2.Success]
+Wroga artyleria zniszczona
+
+[Submission_2.Failed]
+Zadanie nieudane.
+
+[Submission_3.Objectives]
+Zniszcz wrogi czołg
+
+[Submission_3.Description]
+Zniszcz wrogi czołg nadjeżdżający z kierunku południowo-zachodniego. Możesz użyć zasłony dymnej.
+
+[Submission_3.Success]
+Wrogi czołg zniszczony
+
+[Submission_3.Failed]
+Zadanie nieudane.
+
+[Submission_4.Objectives]
+Ewakuacja
+
+[Submission_4.Description]
+Ewakuuj swoje wojska do punktu ewakuacji. Użyj zasłony dymnej, aby osłonić odwrót.
+
+[Submission_4.Success]
+Twoje wojska zostały ewakuowane
+
+[Submission_4.Failed]
+Zadanie nieudane
+
+[StringTable.Storm]
+Aby jak najskuteczniej szturmować budynki, najpierw ustal, gdzie jest wróg, by nie znaleźć się w krzyżowym ogniu. Rozmieść kilku żołnierzy tak, by pewnie kontrolowali wyjście z dystansu; pozostałymi żołnierzami skradaj się do budynku na odległość rzutu granatem. Najlepiej rzucać granaty przez drzwi, używając polecenia „Ostrzał obszarowy” {hkey:groundattack}. Do zniszczenia budynku możesz też użyć granatów przeciwpancernych.
+
+[StringTable.Ambush]
+Użyj trybu ruchu czołgania {hkey:setbodymodelay}, aby Twoi ludzie byli mniej widoczni dla wroga. Pamiętaj, że w trybie swobodnego ruchu Twoja piechota, znajdując się blisko osłon lub budynków, będzie próbowała się tam schować i może wystawić się na ogień, dlatego zakaż jej swobodnego ruchu {hkey:actionmode}.
+
+[StringTable.House]
+Wykorzystuj domy jako osłonę: Twoja piechota będzie mniej narażona.
+
+[StringTable.Variation]
+W większości sytuacji bojowych możesz działać na wiele sposobów. Tutaj działa można zniszczyć albo piechotą, używając granatów dymnych jako osłony, albo czołgiem.
+
+[StringTable.Smoke]
+Czołg jest wyposażony w miotacz dymu przeznaczony do stawiania zasłon dymnych. Jeśli w czołgu jest dowódca, a urządzenie jest załadowane, możesz użyć polecenia „Zasłona dymna (natychmiastowy strzał)” {hkey:smokecloudfast}. Zasłona dymna zostanie wtedy postawiona od razu obok czołgu, bez wskazywania punktu ostrzału.
+
+[StringTable.Evac]
+Ewakuuj swoje wojska do punktu ewakuacji. Widać go na minimapie albo możesz przełączyć się na tryb mapy taktycznej {hkey:cameratopdownview}. Użyj zasłony dymnej, aby osłonić odwrót. Cofaj czołg {hkey:retreat}, dopóki nie wyjedziesz z linii ognia wroga.

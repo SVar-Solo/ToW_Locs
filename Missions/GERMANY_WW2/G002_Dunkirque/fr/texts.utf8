@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Détruire l’artillerie ennemie.
+[Submission1.Description]
+De l’artillerie ennemie menace nos forces principales, qui préparent une offensive majeure. Utilisez vos unités blindées et attaquez les positions d’artillerie ennemie.
+
+Vos ordres :
+- 	Détruire l’artillerie ennemie.
+[Submission1.Success]
+L’artillerie a été détruite !
+[Submission1.Failed]
+A cause de votre échec, l’artillerie ennemie menace toujours nos forces.
+[Mission1.Objectives]
+Ecraser les défenses ennemies.
+[Mission1.Description]
+Les divisions alliées en retraite sont coincées dans le secteur de Gravelin, Arras et Bruges. Le groupe d’armées A et B les ont attaqué de l’est et du sud-est. Les troupes britanniques ont commencé leur évacuation à Dunkerque vers l’Angleterre. Des unités françaises couvrent le retrait anglais et ont pris position en lisière de la ville. Il ne faut pas laisser les unités ennemies s’enfuir et traverser la mer. Détruisez-les au plus vite !
+
+Vos ordres : 
+- 	En utilisant les moyens à disposition, balayer les défenses adverses en lisière de la ville.
+[Mission1.Success]
+Félicitations ! Vous avez remporté la victoire sur les Français ! Grâce à vous, nous pouvons espérer rattraper les unités anglaises avant qu’elles ne soient évacuées.
+[Mission1.Failed]
+Malheureusement, vous avez perdu ! Les Français sont parvenus à tenir leur ligne et les Britanniques ont eu une journée d’évacuation en plus. 
+[StringTable.Reserv]
+Des renforts sont arrivés en appui !

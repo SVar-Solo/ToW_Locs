@@ -1,0 +1,50 @@
+﻿[Submission1.Objectives]
+Repila o ataque inimigo vindo do Noroeste.
+[Submission1.Description]
+Segundo os relatórios de reconhecimento, um grupo de tropas inimigas está se movendo em direção a Dubosekovo. Ali fica outra estação ferroviária-chave e você deve defendê-la a qualquer custo. O General Panfilov ordenou pessoalmente que você resista até o fim.
+
+Suas ordens:
+- 	Repila o ataque inimigo vindo do Noroeste.
+[Submission1.Success]
+O ataque inimigo foi detido!
+[Submission1.Failed]
+As tropas inimigas romperam as defesas e capturaram a estação.
+[Submission2.Objectives]
+Repila o ataque inimigo vindo do Sudoeste.
+[Submission2.Description]
+A primeira tentativa dos alemães de romper sua defesa fracassou. Agora eles se preparam para outro assalto: já se ouve o rugido dos motores de seus tanques no Sudoeste. Reagrupe-se e não os deixe flanqueá-lo por essa direção. Nenhum recuo, Moscou está atrás de nós!
+
+Suas ordens:
+- 	Repila o ataque inimigo vindo do Sudoeste.
+
+[Submission2.Success]
+Ordem cumprida! O ataque inimigo foi repelido e eles estão recuando!
+[Submission2.Failed]
+Ordens não cumpridas e suas defesas foram rompidas!
+[Submission0.Objectives]
+Mantenha e defenda a estação ferroviária.
+[Submission0.Description]
+As tropas inimigas avançam rapidamente sobre o entroncamento ferroviário de Dubosekovo. O Alto Comando determinou que a estação ferroviária é crítica e ordenou que você a defenda a todo custo.
+
+Suas ordens:
+- 	Mantenha e defenda a área indicada.
+- 	As tropas alemãs não devem capturar a estação.
+[Submission0.Success]
+Ordens cumpridas! O assalto alemão foi repelido!
+[Submission0.Failed]
+Ordens não cumpridas! As tropas alemãs capturaram a estação de Dubosekovo.
+[Submission3.Objectives]
+Repila o ataque inimigo à estação.
+[Submission3.Description]
+Os alemães continuam sua investida contra a estação. A situação em outras partes da frente não é melhor: estamos em desvantagem numérica e a situação é desesperadora. Devemos impedir que o inimigo tome a capital de nossa Pátria.
+
+Suas ordens:
+ - 	Repila o ataque alemão à estação.
+[Submission3.Success]
+Ordem cumprida! Ataque inimigo repelido!
+[Submission3.Failed]
+O inimigo rompeu sua defesa e capturou a estação!
+[StringTable.Reserv]
+Os reforços chegaram.
+[StringTable.Subtitle_01]
+Estação de Dubosekovo. 1941

@@ -1,0 +1,39 @@
+﻿[Mission_01.Objectives]
+Libérez Ossinovka, Griada, Zarétchié.
+[Mission.Description]
+Libérez Ossinovka, Griada, Zarétchié.
+Éliminez les forces ennemies dans la zone.
+[Mission_01.Success]
+Mission accomplie.
+[Mission_01.Failed]
+Mission échouée.
+[Mission.Objectives]
+Libérez Ossinovka, Griada, Zarétchié. Éliminez les forces ennemies dans la zone.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission1.Objectives]
+Nettoyez Ossinovka des troupes ennemies.
+[Submission1.Description]
+Nettoyez Ossinovka des troupes ennemies.
+[Submission1.Success]
+Mission accomplie.
+[Submission1.Failed]
+Mission échouée.
+[Submission2.Objectives]
+Libérez Griada.
+[Submission2.Description]
+Libérez Griada.
+[Submission2.Success]
+Mission accomplie.
+[Submission2.Failed]
+Mission échouée.
+[Submission3.Objectives]
+Libérez Zarétchié.
+[Submission3.Description]
+Libérez Zarétchié.
+[Submission3.Success]
+Mission accomplie.
+[Submission3.Failed]
+Mission échouée.

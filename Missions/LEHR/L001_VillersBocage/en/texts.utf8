@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Defend the area specified.
+[Mission.Description]
+Your troops, part of the elite Panzer Lehr Panzer Division, are located to the North-East of Villers-Bocage. During the morning of July 13, 1944  the British 7th Armoured Division launched an assault in order to capture Villers-Bocage and outflank your troops. The British hoped that a series of probing attacks against your left flank would commit the Division reserves and ensure their victory. You must stop the British from driving too deep into your defenses as this could jeopardize a total encirclement and eventual destruction of your Division.
+ 
+Your orders:
+- Prevent the enemy from advancing deep into your defensive zone of control.
+[Mission.Success]
+Well done Commander!
+[Mission.Failed]
+Mission failed! Your troops have been destroyed!
+[Submission_1.Objectives]
+Repulse the enemy attacks.
+[Submission_1.Description]
+The enemy dominates the skies above and is able to strike from several different directions. Your own forces are spread thin and must defend a wide area.
+ 
+Your orders:
+- Establish sufficient defenses to cover all avenues of attack.
+- Minimize your losses as best you can.
+- Repulse the enemy attacks. 
+[Submission_1.Success]
+Well done Commander! The enemy attacks have been repulsed.
+[Submission_1.Failed]
+Mission failed! Your troops have been defeated.
+[Submission_2.Objectives]
+Counter-attack the retreating enemy.
+[Submission_2.Description]
+The enemy has suffered significant losses and is retreating. Use your reserves to pursue and destroy them!
+ 
+Your orders:
+- Counter-attack the retreating enemy forces.
+[Submission_2.Success]
+Well done Commander! The enemy forces have been defeated.
+[Submission_2.Failed]
+Mission failed! You have been defeated.
+[StringTable.tanks_reserv]
+You’ve received additional armored units from the Division reserve.

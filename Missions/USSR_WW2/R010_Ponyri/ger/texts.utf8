@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+Halten Sie aus bis Verstärkungen eintreffen. Zerstören Sie so viele Feindeinheiten wie möglich.
+[Submission_1.Description]
+
+Ihre Befehle lauten:
+-	 Halten Sie aus bis Verstärkungen eintreffen. 
+-	 Zerstören Sie so viele Feindeinheiten wie möglich. 
+[Submission_1.Success]
+Verstärkungen sind eingetroffen!
+[Submission_1.Failed]
+Niederlage. Sie konnten nicht lange genug aushalten.
+[Submission_2.Objectives]
+Halten Sie Ihre Stellung.
+[Submission_2.Description]
+Der Ponyri Bahnhof ist ein wichtiger Dreh- und Angelpunkt unser Verteidigung auf der Nordseite des Kursk Bogens. Das weiss das deutsche Oberkommando und hat einige der schwersten Panzer und Sturmgeschütze in diesem Abschnitt verlegt. 
+
+Ihre Befehle:
+-	 Halten Sie Ihre Stellung am Ponyri Bahnhof. 
+[Submission_2.Success]
+Gute Arbeit Kommendant. Sie haben gegen einen übermächtigen Feind ausgehalten.
+[Submission_2.Failed]
+Sie haben das Vaterland enttäuscht! Ihre Truppen wurden eliminiert.
+[Mission.Objectives]
+Halten Sie den deutschen Vormarsch auf. 
+[Mission.Description]
+Entlang der gesamten Nordseite des Kursk Bogens haben die deutschen Einheiten in der Nähe des Ponyri Bahnhofs hart gekämpft. 
+
+Ihre Befehle: 
+-	 Verhindern Sie einen feindlichen Durchbruch durch unsere Linien in der Nähe des Bahnhofs. 
+[Mission.Success]
+Sie haben Ihre Befehle erfolgreich ausgeführt. Die Deutschen konnten nicht durch Ihre Linien brechen. 
+[Mission.Failed]
+Sie haben nicht verhindern können, dass die Deutschen durchbrechen. Sie rücken nun direkt auf Kursk vor.
+[StringTable.T34_Income]
+Verstärkungen sind eingetroffen.
+[StringTable.SPG_reserv]
+Verstärkungen sind eingetroffen. 
+[StringTable.Inf_reserv]
+Infanterie aus unserer Reserve wurde Ihnen unterstellt.

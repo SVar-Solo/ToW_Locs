@@ -1,0 +1,134 @@
+﻿[Mission.Objectives]
+Take command and repel the enemy attack
+
+[Mission.Description]
+Take two groups of British soldiers under your command. Using a heavy machine gun, destroy an enemy infantry squad. Find and use a bazooka to destroy the enemy tank.
+
+[Mission.Success]
+My congratulations, all tasks successfully accomplished.
+
+[Mission.Failed]
+Task failed
+
+[Submission_1.Objectives]
+Take command of the first group
+
+[Submission_1.Description]
+Bring the vehicle closer to the group of three British soldiers, and they will come under your command.
+
+[Submission_1.Success]
+The group of British soldiers has come under your command.
+
+[Submission_1.Failed]
+Task failed
+
+[Submission_2.Objectives]
+Take command of the second group
+
+[Submission_2.Description]
+Bring your vehicle and the soldiers who have joined you closer to the combat outpost group on the outskirts of the village, and they will come under your command.
+
+[Submission_2.Success]
+The combat outpost has come under your command.
+
+[Submission_2.Failed]
+Task failed
+
+[Submission_3.Objectives]
+Man the machine gun
+
+[Submission_3.Description]
+Select two infantrymen from the personnel and man the machine gun.
+
+[Submission_3.Success]
+The heavy machine gun is at your disposal.
+
+[Submission_3.Failed]
+Task failed
+
+[Submission_4.Objectives]
+Repel the enemy attack
+
+[Submission_4.Description]
+Take up defense in the buildings near the machine gun and repel the enemy infantry attack.
+
+[Submission_4.Success]
+The enemy attack has been repelled.
+
+[Submission_4.Failed]
+Task failed
+
+[StringTable.Submission_4]
+While inside a building in free movement mode, infantrymen can slightly change their position if it is more convenient to fire at a detected target from there. Keep in mind that visibility may be limited by walls. This can be useful for an ambush, but hinders getting a full picture of the battle.
+
+[Submission_5.Objectives]
+Destroy the enemy tank
+
+[Submission_5.Description]
+A German tank is moving towards your positions. Guided by the smoke, find the container with the anti-tank grenade launcher and destroy the enemy tank.
+
+[Submission_5.Success]
+The enemy tank has been destroyed.
+
+[Submission_5.Failed]
+Task failed
+
+[StringTable.Submission_5.1]
+A German tank is moving towards your positions. Guided by the smoke, find the container with the anti-tank grenade launcher and destroy the enemy tank. The container is located next to the burnt truck behind and to the right of your positions; the point is marked with red smoke. Bring a soldier with a free weapon slot to it, open the inventory {hkey:inventory} - a panel with items near the soldier will be displayed. You can pick up items by double-clicking LMB, by dragging, or by using one of the pickup buttons. The soldier will need some time to pick up the items. To specify the number of items, hold CTRL (one piece), SHIFT (full stack), CTRL+SHIFT (half stack) when transferring.
+
+[StringTable.Submission_5.2]
+If the tank is too far away, try to hide or lie down so that the tank cannot detect your soldiers. Attack the tank when it comes closer. Use stealth movement modes {hkey:setbodymodelay} and prohibit free movement {hkey:actionmode}, or enable "Ambush" mode {hkey:ambush}.
+
+[StringTable.Submission_5.3]
+To ensure maximum effectiveness of the "Bazooka" hit, open fire at approximately 2/3 or 1/2 of the maximum firing range indicated by the dashed sector. To do this, prohibit the soldier with the "Bazooka" from firing {hkey:firemode}, let the tank come to the required distance, and then allow firing again {hkey:firemode}. Then, if there is a line of fire, the soldier will fire on his own. If you give a direct order to attack the tank, then, in the absence of a line of fire, the soldier may start closing in on the target, which is sometimes undesirable.
+
+[Submission_6.Objectives]
+Evacuate
+
+[Submission_6.Description]
+Capture a vehicle for transporting infantry. Load all personnel into the truck, then move it to the evacuation point.
+
+[Submission_6.Success]
+Personnel evacuated.
+
+[Submission_6.Failed]
+Task failed
+
+[Submission_7.Objectives]
+Evacuate
+
+[Submission_7.Description]
+Evacuate all personnel from the village to the evacuation point.
+
+[Submission_7.Success]
+Personnel has reached the evacuation point
+
+[Submission_7.Failed]
+Task failed
+
+[Submission_8.Objectives]
+Evacuate
+
+[Submission_8.Description]
+You need to evacuate the personnel to the specified point. To do this, you can use a vehicle, which you can call with the reinforcement button.
+
+[Submission_8.Success]
+Personnel evacuated
+
+[Submission_8.Failed]
+Task failed
+
+[Submission_9.Objectives]
+Destroy the tanks with aviation
+
+[Submission_9.Description]
+You need to call attack aircraft and destroy the tanks moving from the south-west direction. For successful guidance of the attack aircraft to the target, the tanks must be in direct line of sight of the infantry.
+
+[Submission_9.Success]
+Tanks destroyed!
+
+[Submission_9.Failed]
+Task failed
+
+[StringTable.Submission_9]
+You need to call attack aircraft and destroy the tanks moving from the south-west direction. For successful guidance of the attack aircraft to the target, the tanks must be in direct line of sight of the infantry. The aircraft will need some time to reach the target. After attacking one target, the aircraft will make a second pass and attack the next.

@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+적 주력 진지 북동쪽의 마을을 해방하라.
+[Mission.Description]
+독일군은 생로 부근에 방어 진지를 구축하고 강화했다. 아군 항공 정찰 자료에 따르면 적은 이 지역에 제7군의 주력을 집중시켰다. 지형은 매복과 소규모 방어 거점에 적합하므로 신중하게 진격해야 한다.
+
+명령: 
+- 	전차와 보병으로 위력 수색을 실시하라.
+- 	북동쪽에 있는 마을을 해방하라. 
+[Mission.Success]
+임무를 완수했다! 코브라 작전은 계속된다.
+[Mission.Failed]
+임무에 실패했다. 
+[Submission_1.Objectives]
+생로 외곽의 두 마을에 위력 수색을 실시하라. 
+[Submission_1.Description]
+적은 주력 방어 병력을 마을 부근 언덕에 집중시켰다. 아군 공세의 진로에 마을 두 곳이 있다. 그곳에 적이 있는지는 아는 바가 없다. 
+
+명령:
+- 	두 마을에 위력 수색을 실시하라. 
+[Submission_1.Success]
+위력 수색을 마쳤다. 적을 격파했다. 
+[Submission_1.Failed]
+임무에 실패했다.
+[Submission_2.Objectives]
+언덕의 적 주력 방어 시설을 공격하라. 
+[Submission_2.Description]
+적은 마을로 접근하는 길목을 따라 주변 언덕을 이용해 방어선을 구축했다. 
+
+명령:
+-	언덕의 적 방어 시설을 파괴하라.
+[Submission_2.Success]
+임무를 완수했다. 
+[Submission_2.Failed]
+임무에 실패했다.
+[Submission_3.Objectives]
+생로 마을을 점령하라. 
+[Submission_3.Description]
+생로는 전략적으로 매우 중요한 곳이다. 이곳은 프랑스 내륙으로 진격하기 위한 열쇠이다. 
+ 
+명령:
+-	마을을 방어하는 적 수비대를 격멸하여 생로를 해방하라.
+[Submission_3.Success]
+매복 부대를 격멸했다! 
+[Submission_3.Failed]
+임무에 실패했다.
+[Submission_4.Objectives]
+적 포병 중대를 파괴하라.
+[Submission_4.Description]
+독일군은 포병을 영리하게 배치했다. 적 포대가 있는 언덕에서 쏘는 사격으로 마을로 가는 모든 접근로를 제압할 수 있다. 
+
+명령:
+- 	언덕의 적 포병 중대를 파괴하라. 
+[Submission_4.Success]
+적 포병 중대를 파괴했다. 
+[Submission_4.Failed]
+임무에 실패했다.
+[StringTable.Reserv]
+증원 부대가 도착했다.

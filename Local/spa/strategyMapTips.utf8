@@ -1,0 +1,42 @@
+﻿[STRATEGY_MAP_TIP.1]
+Las batallas de campaña comienzan en el modo estratégico, con los grupos de combate disponibles determinados por la campaña. En el modo estratégico, el jugador puede maniobrar sus grupos de combate, usarlos para atacar al enemigo o defender sus propias posiciones, e incluso solicitar apoyo aéreo y de artillería. El mapa estratégico se compone de varias áreas interconectadas, por las que pueden maniobrar los grupos de combate enemigos y aliados. En el mapa estratégico, el jugador puede seleccionar refuerzos y apoyo, y asignar esos recursos a sus grupos de combate. Más tarde, cuando el jugador capture ubicaciones clave, podrá recibir más refuerzos y apoyo. El jugador puede asignar estos recursos en cualquier momento de su turno, pero solo a los grupos de combate que no estén enfrascados en combate.
+El mapa estratégico de la zona determina ciertas condiciones de movimiento en combate. Los grupos de combate no pueden entrar en áreas cerradas.
+
+\t Descripción de los modos de juego:
+1. El modo estratégico es por turnos.
+2. Un turno incluye el movimiento del jugador, el movimiento del enemigo y los combates que resulten de las maniobras de las unidades de los jugadores.
+3. El número de turnos permitidos lo determina la campaña.
+4. El turno del jugador termina cuando todos sus grupos de combate han agotado sus puntos de acción. El turno puede terminarse antes si el jugador lo desea, por ejemplo, si quiere que un grupo de combate permanezca donde está para defender un área del enemigo.
+5. El turno del enemigo termina de la misma manera, cuando todos los grupos de combate enemigos han agotado sus puntos de acción, o antes si el jugador enemigo así lo decide.
+7. Se produce un combate cuando los grupos de combate del jugador y del enemigo están presentes en la misma ubicación.
+8. Para ganar una campaña, el jugador debe obtener más puntos que su enemigo o eliminar a todos los grupos de combate enemigos.
+9. Los puntos se otorgan una vez que han terminado todos los combates del mapa.
+
+[STRATEGY_MAP_TIP.2]
+\t Despliegue de tropas en el mapa estratégico
+1. De forma predeterminada, todas las tropas del jugador comienzan en la zona de amortiguación (o retaguardia). Desde allí pueden desplegarse en cualquier área inicial del mapa táctico.
+2. Un área solo puede contener un grupo de combate, ya sea del jugador o del enemigo.
+3. Un área puede ofrecer una bonificación a la fuerza que la haya conquistado, como apoyo aéreo o de artillería adicional, tropas, combustible o refuerzos.
+4. Si un grupo de combate queda aislado de todas las áreas amigas, no puede reponer su munición, acceder a las reservas ni, si además no le quedan puntos de acción, abandonar el área. La moral de las tropas aisladas también se reduce.
+
+[STRATEGY_MAP_TIP.3]
+Un grupo de combate es un conjunto de tropas más una reserva. Las tropas pueden moverse por el mapa táctico y reabastecerse con sus reservas. Una reserva pertenece únicamente a su grupo de combate y solo puede usarse para reponer las tropas de ese grupo, salvo que dicha fuerza aliada haya sido rodeada.
+
+\t Parámetros del grupo de combate:
+1. Nivel de experiencia.
+2. Combustible. (El combustible se gasta al moverse, no puede reponerse cuando el grupo está rodeado y, en los demás casos, se repone una vez por turno.)
+3. Munición. (La munición se gasta en combate y no puede reponerse cuando el grupo está rodeado.)
+4. Apoyo.
+5. Velocidad de movimiento. (Depende de la presencia de vehículos, infantería y artillería, y baja a 1 cuando un área adyacente está ocupada por el enemigo.)
+
+\t Movimiento del grupo de combate:
+1. Los movimientos se planifican y ejecutan de forma consecutiva, un grupo de combate a la vez. Un grupo de combate solo puede moverse una vez por turno. Los grupos de combate recién desplegados no pueden recibir órdenes en el mismo turno; no pueden desplegarse y moverse en el mismo turno.
+2. El grupo de combate actual debe dejar de moverse antes de que pueda moverse el siguiente.
+3. Todos los movimientos deben realizarse antes de que comience el combate.
+4. Un grupo de combate puede moverse de un área a otra.
+5. Dos grupos de combate no pueden ocupar la misma área. Un grupo de combate no puede atravesar un área ocupada por el enemigo.
+6. Un grupo de combate no puede dividirse en unidades separadas. Todas las unidades de un grupo de combate se mueven juntas.
+7. Los grupos de combate que han sufrido pérdidas no pueden fusionarse con otros grupos de combate.
+8. Ciertas características del terreno pueden impedir que un grupo de combate se mueva o participe en combate.
+9. La retirada es muy similar al movimiento normal. Sin embargo, si un grupo de combate no tiene adónde retirarse, es destruido.
+

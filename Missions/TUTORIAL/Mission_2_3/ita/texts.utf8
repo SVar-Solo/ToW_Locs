@@ -1,0 +1,278 @@
+﻿[StringTable.1]
+Per aprire la finestra degli ordini di comando attuali, premete il pulsante BRIEFING nell'angolo in alto a destra dello schermo (l'icona della "busta").
+
+[StringTable.2]
+In modalità di movimento libero e con un basso livello di pericolo, la vostra fanteria cercherà di trovare una copertura nelle vicinanze. Se viene individuato un nemico, i soldati possono cambiare postura o spostarsi leggermente restando al riparo, per sparare con maggiore comodità.
+
+[StringTable.3]
+Alcuni soldati hanno granate fumogene; a volte è necessario creare una cortina fumogena per raggiungere la copertura successiva e attraversare un'area aperta.
+Usate il comando "Cortina fumogena" {hkey:smokecloud} e indicate con il tasto destro un punto di lancio entro la gittata. Potete anche selezionare forzatamente la granata necessaria nell'inventario e lanciarla con il comando "Fuoco d'area" {hkey:groundattack}.
+
+[StringTable.4]
+Quando i soldati si avvicinano al nemico a breve distanza, possono ingaggiare un corpo a corpo. L'esito del combattimento corpo a corpo è determinato dal livello di abilità "Esplorazione" dei soldati.
+Se il nemico è in netta superiorità numerica e il morale dei soldati è basso, essi possono andare nel panico (perdita temporanea di controllo) o arrendersi (perdita completa di controllo).
+Un suggerimento dettagliato sullo stato del morale di un soldato si può vedere passando il mouse sulla riga "morale" nel pannello informativo dell'unità.
+
+[StringTable.5]
+Se i nemici si sono asserragliati in un edificio, potete provare a "stanarli" lanciando una granata attraverso una finestra o una porta in modalità "Fuoco d'area" {hkey:groundattack}. Anche se la granata non cade dove dovrebbe, c'è la possibilità che i soldati nemici escano di corsa dall'edificio sotto il fuoco dei vostri soldati.
+
+[StringTable.6]
+Catturate l'autoblindo. Selezionate almeno due soldati per manovrare il veicolo catturato: uno dovrebbe avere una buona abilità di pilota, l'altro una buona abilità di cannoniere.
+
+[StringTable.7]
+Avete a disposizione il supporto aereo. Invece di attaccare frontalmente i pezzi nemici, è consigliabile individuarne la posizione con un cecchino e poi chiamare gli aerei d'attacco su quell'area. Ci vorrà un po' di tempo perché raggiungano l'area indicata, poi inizieranno a cercare bersagli nelle vicinanze. Se non ci sono bersagli vicino al punto indicato, gli aerei d'attacco colpiranno altri bersagli prioritari che riescono a rilevare con le armi di bordo.
+
+[Submission1.Objectives]
+Portate la squadra ai punti di passaggio indicati.
+[Submission1.Description]
+Ordini:
+- Portate la squadra in formazione a colonna al Punto di passaggio 1.
+
+Per farlo:
+- Selezionate la squadra di fanteria trascinando un riquadro di selezione attorno ad essa con il tasto sinistro del mouse premuto –oppure– facendo doppio clic sull'icona del comandante.
+- Selezionate la formazione - COLONNA
+- Selezionate la modalità di movimento – SCATTO
+- Puntate il cursore sul luogo di destinazione e fate clic con il tasto destro del mouse.
+- Scegliete l'orientamento della formazione tenendo premuto il tasto destro del mouse e muovendo il mouse.
+
+Notate:
+- Le formazioni disponibili sono: LIBERA, LINEA, COLONNA, TENAGLIA
+- La formazione predefinita delle truppe è LINEA
+- Le formazioni si possono cambiare solo quando si impartisce un ordine di movimento
+- Le modalità di movimento disponibili sono: LIBERO, SCATTO BREVE, FURTIVO
+- La modalità predefinita delle truppe è LIBERO
+- Le truppe possono cambiare modalità di movimento di propria iniziativa
+- L'ordine di movimento predefinito è ASSALTO
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+Ne consegue che, se si arrotola l'armatura e ci si mette in marcia in fretta, senza fermarsi né di giorno né di notte e marciando a passo doppio per cento li, i tre comandanti verranno catturati. Poiché le truppe vigorose arriveranno per prime e le deboli resteranno indietro, così che, con questo metodo, giungerà solo un decimo dell'esercito.
+
+[Submission1.Success]
+Missione compiuta!
+[Submission1.Failed]
+Missione fallita!
+[Submission2.Objectives]
+Eliminate le unità nemiche in difesa.
+[Submission3.Objectives]
+Ripulite l'area e usate il mezzo corazzato e la mitragliatrice nemici per allestire una posizione difensiva.
+[Submission3.Description]
+Ordini:
+- Ripulite l'area.
+- Usate la mitragliatrice e il mezzo corazzato nemici per organizzare la difesa della squadra nel villaggio.
+
+Per farlo:
+- Selezionate i soldati con le migliori abilità di pilota e di cannoniere.
+- Fateli salire sul mezzo corazzato abbandonato.
+- Mettete due soldati alla mitragliatrice per utilizzarla.
+- Mettete alla mitragliatrice un soldato con una buona abilità di tiro.
+- Raccogliete armi e munizioni abbandonate.
+
+Notate:
+- Ogni squadra è guidata da un comandante. Quanto riuscite a controllare le vostre truppe dipende in larga misura dalla sua presenza sul campo di battaglia. Se il comandante viene ucciso, la squadra può perdere coesione e perfino fuggire dal campo di battaglia, quindi proteggete il vostro comandante
+
+- Fate clic su un carro armato, un pezzo o un veicolo vuoto... usate il tasto destro del mouse per ordinare al vostro soldato di salire sull'oggetto selezionato
+- Usate come pilota il soldato con la valutazione PILOTA più alta
+- Usate come cannoniere il soldato con la valutazione CANNONIERE più alta
+- Potete cambiare le posizioni dei soldati all'interno di un carro armato, di un pezzo o di un veicolo
+- Selezionate un membro dell'equipaggio e, tenendo premuto il tasto sinistro del mouse, trascinatelo su un'altra posizione. Notate che serve un po' di tempo prima che le posizioni vengano scambiate
+- Servono almeno due serventi per spostare una mitragliatrice. Per ruotarla basta un solo servente
+- Per ottenere la massima potenza di fuoco da una mitragliatrice, mettete un soldato con una buona abilità di tiro nella posizione di mitragliere
+- Per raccogliere un'arma o delle munizioni abbandonate, dovete mettere vicino all'oggetto abbandonato un soldato che compia questa azione e attivare il pulsante INVENTARIO (il pulsante con l'icona di una pistola sul pannello inferiore). Dopodiché verrà mostrato un pannello con gli oggetti presenti a terra vicino al soldato e potrete trascinarli manualmente nel pannello delle armi e nello zaino. Potete anche ordinare al soldato di raccogliere automaticamente da terra tutti gli oggetti o solo i migliori, facendo clic sui pulsanti corrispondenti del pannello dell'inventario. Per impostazione predefinita i soldati raccolgono automaticamente le armi migliori. Potete disattivare questa modalità per i soldati selezionati facendo clic sul pulsante RACCOLTA AUTOMATICA sulla barra dei comandi.
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+Perciò, conosci i piani del nemico e saprai quale strategia avrà successo e quale no;
+agitalo e accertati dello schema dei suoi movimenti.
+Determina le sue disposizioni e così accerta il campo di battaglia.
+Sondalo e scopri dove la sua forza è abbondante e dove è carente.
+
+[Submission3.Success]
+Missione compiuta!
+[Submission3.Failed]
+Missione fallita!
+[Mission1.Objectives]
+BRIEFING GENERALE
+[Mission1.Description]
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+1. Perciò all'inizio sii timido come una fanciulla. Quando il nemico ti offre un'apertura, sii rapido come una lepre ed egli non potrà resisterti.
+
+2. Se riesco a determinare le disposizioni del nemico nascondendo al tempo stesso le mie, posso concentrarmi mentre egli deve dividersi. E se io mi concentro mentre egli si divide, posso usare tutta la mia forza per attaccare una frazione della sua. Là sarò superiore di numero. Allora, se riesco a usare i molti per colpire i pochi nel punto prescelto, coloro con cui avrò a che fare saranno in grave difficoltà.
+
+3. In generale, in battaglia, usa le forze normali per ingaggiare; usa lo straordinario per vincere.
+
+4. Ci si difende quando la propria forza è inadeguata; si attacca quando è abbondante.
+ 
+5. Abbi cura di nutrire le truppe; non affaticarle inutilmente. Uniscile nello spirito; conserva le loro forze. Elabora piani imperscrutabili per i movimenti dell'esercito.
+
+6. E come l'acqua modella il proprio corso secondo il terreno, così un esercito conduce la propria vittoria secondo la situazione del nemico.
+E come l'acqua non ha forma costante, così nella guerra non vi sono condizioni costanti.
+Perciò colui che sa conquistare la vittoria modificando la propria tattica secondo la situazione del nemico può dirsi divino.
+
+[Mission1.Success]
+Avete raggiunto i vostri obiettivi! Siete stati promossi al grado di ufficiale dell'Armata Rossa!
+[Mission1.Failed]
+Missione fallita!
+[Submission2.Description]
+Ordini:
+- Distruggete la squadra tedesca nel villaggio di Malinki, Punto di passaggio 2
+
+Per farlo:
+- Mantenete il controllo di ogni soldato impartendo tempestivamente ordini individuali
+- Usate le granate a mano contro i soldati nemici nascosti dietro una copertura (fate clic con il tasto sinistro sul pulsante della granata a mano per attivarla come arma)
+- Usate i cecchini per eliminare gli ufficiali nemici e i serventi delle mitragliatrici (se il vostro cecchino viene ucciso, potete far raccogliere il fucile con ottica a un altro soldato, preferibilmente con una buona abilità di tiro)
+- Sopprimete la resistenza nemica con il fuoco della mitragliatrice
+- Usate le pause tattiche per impartire ordini e mantenere la consapevolezza della situazione
+
+Notate:
+- Quando i vostri soldati vedono i soldati nemici, aprono il fuoco di propria iniziativa, a meno che non sia stato impartito l'ordine "Cessate il fuoco"
+- Selezionando un soldato, potete scegliere quale arma userà in combattimento facendo clic con il tasto sinistro del mouse nel pannello delle armi. Potete vietare l'uso di singole armi, granate o di alcune munizioni pregiate facendo clic con il tasto destro.
+- Selezionate le granate per eliminare i nemici nascosti dietro gli ostacoli. Esistono granate offensive (raggio d'esplosione ridotto; si usano perché chi attacca di solito non dispone di coperture) e difensive (raggio d'esplosione ampio; si usano perché chi difende di solito è dietro una buona copertura)
+- Potete assegnare i bersagli a ogni singolo soldato in modo indipendente
+- Selezionando il comando ATTACCA e facendo clic con il tasto destro del mouse su un'unità bersaglio, ordini al vostro soldato di attaccare il bersaglio con l'arma selezionata. Il soldato si avvicinerà al nemico se si trova fuori dalla gittata efficace dell'arma
+- Selezionando il comando ASSALTO e facendo clic con il tasto destro del mouse su una posizione bersaglio, ordini al soldato di lanciarsi all'assalto verso il bersaglio. Il soldato si avvicinerà al nemico sparando in movimento e cercherà di distruggerlo con le granate.
+- Selezionando il comando FUOCO D'AREA e facendo clic con il tasto destro del mouse sul campo di battaglia, ordini al soldato di attaccare quella posizione (fuoco d'area) con l'arma selezionata. Il soldato cercherà di sparare sul punto assegnato dalla posizione in cui si trova. Usate questa modalità con la granata selezionata per lanciarla contro nemici fuori dalla vista del vostro combattente.
+- Nella vostra squadra c'è un cecchino: un soldato con valutazioni elevate in “esplorazione” e “tiro”. Usatelo per eliminare l'ufficiale nemico e i serventi del pezzo, seminando il panico tra i nemici.
+- Per tenere il nemico inchiodato, usate la vostra mitragliatrice. Non dimenticate di coprire il mitragliere, poiché sarà il bersaglio principale dei soldati nemici.
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+Il nemico non deve sapere dove intendo dare battaglia. Poiché, se non sa dove intendo dare battaglia, deve prepararsi in moltissimi luoghi. E quando si prepara in moltissimi luoghi, coloro che dovrò combattere in un solo luogo saranno pochi.
+Infatti, se si prepara di fronte, le sue retrovie saranno deboli, e se si prepara dietro, il suo fronte sarà fragile. Se si prepara a sinistra, la sua destra sarà vulnerabile, e se a destra, a sinistra ve ne saranno pochi. E quando si prepara ovunque, sarà debole ovunque.
+
+[Submission2.Success]
+Avete portato a termine la missione!
+[Submission2.Failed]
+Missione fallita!
+[Submission4.Objectives]
+Catturate il mezzo corazzato
+[Submission4.Description]
+Catturate il mezzo corazzato
+
+Notate:
+Selezionate uno o due soldati, poi posizionate il cursore su un mezzo corazzato (il cursore diventa un'icona di “imbarco”) e fate clic con il tasto destro. I vostri soldati correranno a salire sul mezzo corazzato.
+[Submission4.Success]
+Compito completato!
+[Submission4.Failed]
+Compito fallito!
+[Submission5.Objectives]
+Respingete l'attacco nemico.
+[Submission5.Description]
+Ordini:
+- Eliminate il nemico all'attacco al Punto di passaggio 3
+
+Per farlo:
+- Sfruttate la mobilità e la corazza del mezzo corazzato
+- Usate le armi e l'equipaggiamento catturati
+- Prendete l'iniziativa ed eliminate il nemico con un contrattacco deciso
+
+Notate:
+- Per scegliere quali proiettili sparare con un mezzo corazzato, un carro armato o un pezzo, fate clic con il tasto sinistro sul pezzo (si apre l'elenco dei proiettili disponibili per quel pezzo) e poi con il tasto sinistro sul proiettile scelto. Il pezzo verrà ricaricato con un colpo del tipo di munizioni selezionato
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+È dottrina di guerra non presumere che il nemico non verrà, ma contare sulla propria prontezza ad affrontarlo; non presumere che non attaccherà, ma rendere sé stessi invincibili.
+
+[Submission5.Success]
+Missione compiuta!
+[Submission5.Failed]
+Missione fallita!
+[Submission6.Objectives]
+Distruggete i pezzi nemici
+[Submission6.Description]
+Ordini:
+- Distruggete i pezzi nemici al Punto di passaggio 4
+- Richiedete il supporto aereo per distruggere i pezzi nemici
+
+Per farlo:
+- Selezionate il supporto aereo disponibile
+- Nel gioco sono disponibili i seguenti tipi di supporto aereo: AEREI D'ATTACCO AL SUOLO,  CACCIA, BOMBARDIERI e RICOGNITORI
+
+Notate:
+- Gli AEREI D'ATTACCO AL SUOLO servono a distruggere i mezzi leggermente corazzati e i pezzi nemici
+- I CACCIA sono utili per contrastare e distruggere gli aerei nemici
+- I BOMBARDIERI servono a condurre attacchi aerei contro posizioni nemiche fortificate
+- I RICOGNITORI servono a raccogliere informazioni dall'alto sul campo di battaglia
+- Non mandate avanti il mezzo corazzato, perché può essere facilmente distrutto dai pezzi nemici
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+Se qualcuno chiede: “Si possono rendere le truppe capaci di una coordinazione così istantanea?”, rispondo: “Si può.” Infatti, benché gli uomini di Wu e di Yueh si odino a vicenda, se si trovassero insieme su una barca sballottata dal vento coopererebbero come la mano destra con la sinistra.
+Non basta dunque fare affidamento su cavalli impastoiati o su ruote di carri interrate.
+Coltivare un uniforme livello di valore è lo scopo dell'amministrazione militare. Ed è con il giusto uso del terreno che sia le forze d'urto sia quelle flessibili vengono impiegate nel modo più vantaggioso.
+[Submission6.Success]
+Missione compiuta!
+[Submission6.Failed]
+Missione fallita!
+[Submission7.Objectives]
+Richiedete supporto aereo.
+[Submission7.Description]
+Richiedete supporto aereo.
+Notate:
+Sopra il pannello inferiore comparirà un'icona del supporto aereo.
+Fate clic sull'icona del supporto aereo e poi con il tasto destro sulla posizione bersaglio.
+Esistono 4 tipi di aerei: ricognitori, caccia, bombardieri e aerei d'attacco al suolo.
+[Submission7.Success]
+Compito completato!
+[Submission7.Failed]
+Compito fallito!
+[Submission8.Objectives]
+Catturate i pezzi nemici
+[Submission8.Description]
+Ordini:
+- Catturate i pezzi nemici
+- Allestite una posizione difensiva davanti al villaggio di Malinki
+- Mettete due soldati al pezzo per utilizzarlo
+- Mettete il soldato con la valutazione di cannoniere più alta nella posizione di puntatore
+
+Notate:
+- Per selezionare i proiettili in un'autoblindo, un carro armato, un cannone ecc., fate clic con il tasto destro sull'icona a freccia a destra del pezzo nel pannello delle armi: si aprirà l'elenco delle munizioni disponibili per quel pezzo; poi selezionate il tipo di proiettile desiderato con il tasto sinistro del mouse. Il tasto destro del mouse serve a vietare l'uso del tipo di proiettile selezionato. Dopo aver selezionato un proiettile, le icone del pezzo e del proiettile saranno evidenziate in giallo, il che significa che l'unità userà solo quel pezzo e quel proiettile. Se in canna è già stato caricato un altro proiettile, il ricaricamento con le munizioni selezionate avverrà solo dopo aver sparato il proiettile già caricato.
+- I serventi possono ruotare e spostare il pezzo; per girarlo o spostarlo servono almeno due persone.
+- Per ottenere la migliore potenza di fuoco e precisione con i pezzi, mettete il soldato con la valutazione di cannoniere più alta nella posizione di puntatore.
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+Anticamente gli abili guerrieri si rendevano prima invincibili e poi attendevano il momento di vulnerabilità del nemico.
+L'invincibilità dipende da sé stessi; la vulnerabilità del nemico dipende da lui.
+Ne consegue che gli esperti di guerra possono rendersi invincibili, ma non possono fare in modo che il nemico sia certamente vulnerabile.
+Perciò si dice che si può sapere come vincere, ma non necessariamente riuscirci.
+L'invincibilità sta nella difesa; la possibilità di vittoria nell'attacco.
+(…)Perciò l'abile comandante prende una posizione in cui non può essere sconfitto e non perde alcuna occasione per avere la meglio sul nemico.
+
+[Submission8.Success]
+Missione compiuta!
+[Submission8.Failed]
+Missione fallita!
+[Submission9.Objectives]
+Distruggere i carri armati nemici
+[Submission9.Description]
+
+Ordini:
+- Distruggete i carri armati nemici usando i pezzi catturati e il vostro carro armato al Punto di passaggio 5
+
+Per farlo:
+- Quando attacchi un bersaglio potete indicare il punto di mira. Le opzioni sono: MIRA IN ALTO, MIRA AL CENTRO e MIRA IN BASSO
+
+
+Notate:
+- Tenete presente che ogni tipo di proiettile è progettato per uno scopo specifico
+- I proiettili ad alto esplosivo (HE) servono a distruggere fanteria nemica, mezzi leggermente corazzati e pezzi scoperti.
+- Il proiettile perforante (AP) è pieno, soggetto a rimbalzi, privo di carica esplosiva.
+- Il proiettile perforante con cappuccio (APC) è pieno, meno soggetto a rimbalzi, privo di carica esplosiva.
+- Il proiettile perforante ad alto esplosivo (APHE) è soggetto a rimbalzi e ha una carica esplosiva
+- Il proiettile perforante con cappuccio balistico composito (APCBC) è pieno, meno soggetto a rimbalzi, privo di carica esplosiva.
+- Il proiettile subcalibro (APCR, APDS) ha un'alta capacità di penetrazione, ma la perde più rapidamente all'aumentare della distanza. Non ha carica interna, causa meno danni e ha minore precisione.
+- Il proiettile anticarro ad alto esplosivo (HEAT) perfora l'ostacolo con un getto cumulativo; la penetrazione non dipende dalla distanza. Ha anche un limitato effetto di frammentazione esplosiva.
+- Proiettile fumogeno: progettato per creare cortine fumogene.
+
+
+SUN TZU, “L'ARTE DELLA GUERRA”
+Sun Tzu disse:
+Truppe lanciate contro il nemico come una macina contro le uova sono un esempio di ciò che è solido che agisce su ciò che è vuoto.
+
+[Submission9.Success]
+Missione compiuta!
+[Submission9.Failed]
+Missione fallita!

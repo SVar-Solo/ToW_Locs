@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Repelir os ataques inimigos ao sul de Cherkasskoe.
+[Mission.Description]
+Até um batalhão de infantaria com tanques da Divisão Grossdeutschland avança do sul para assaltar Cherkasskoe. Concentre os esforços em manter a primeira trincheira. Se o inimigo romper, recue para as posições alternativas nos arredores sudoeste da aldeia.
+[Mission.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Mission.Failed]
+Nossas forças recuam sob o assalto de um inimigo superior.
+[Submission_1.Objectives]
+Impeça o inimigo de penetrar na parte sul de Cherkasskoe até a chegada dos reforços.
+[Submission_1.Success]
+O avanço inimigo foi detido.
+[Submission_1.Failed]
+O inimigo rompeu até a aldeia, nossas tropas estão recuando.
+[Submission_2.Objectives]
+Recue para a parte central de Cherkasskoe. Cubra o recuo da força principal para a nova linha com fogo de artilharia e de tanques.
+[Submission_2.Success]
+Missão cumprida, nossas forças ocuparam a nova linha de defesa.
+[Submission_2.Failed]
+O controle das tropas foi perdido; as unidades recuam em desordem, em grupos isolados.
+[StringTable.Reinforcement_tanks]
+Um grupo de tanques enviado das reservas da divisão está agora sob o seu comando.
+[StringTable.Reinforcement_spg]
+Uma bateria de canhões autopropulsados está agora sob o seu controle.
+
+[StringTable.ChangeArmy]
+Os grupos de combate dos flancos esquerdo e direito estão agora sob o seu comando.
+[StringTable.tanks]
+Tanques do 245º Regimento Independente de Tanques
+[StringTable.SPG]
+Canhões de assalto do 1440º Regimento de Artilharia Autopropulsada
+[StringTable.Infantry]
+Infantaria
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

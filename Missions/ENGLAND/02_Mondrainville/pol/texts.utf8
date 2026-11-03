@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Wyzwól Mondrainville, napieraj na południe, zabezpiecz drogę na Caen i wyeliminuj wszystkie punkty oporu wroga.
+[Mission.Description]
+Naciskaj do przodu, zablokuj drogę na Caen i oczyść z wroga rejon wokół Mondrainville.
+[Submission_01.Success]
+Mondrainville zdobyte.
+[Submission_01.Failed]
+Nie udało się zdobyć Mondrainville.
+[Submission_1.Objectives]
+Wyprzyj wroga z gospodarstwa.
+[Submission_1.Description]
+Według rozpoznania lotniczego w gospodarstwie znajduje się wroga bateria artylerii. Wyeliminuj ją.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Odeprzyj wrogi atak na Mondrainville.
+[Submission_3.Description]
+Próbując utrzymać Mondrainville, wróg ściąga posiłki.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Zabezpiecz drogę na Caen.
+[Submission_2.Description]
+Wyprzyj wroga z grupy budynków przy drodze na Caen.
+[Submission_3.Success]
+Atak odparty.
+[Submission_3.Failed]
+Misja nieudana.
+[Submission_1.Success]
+Bateria artylerii wyeliminowana. Gospodarstwo zabezpieczone.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[Submission_2.Success]
+Droga zabezpieczona.
+[Submission_2.Failed]
+Nie udało się wykonać zadania.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

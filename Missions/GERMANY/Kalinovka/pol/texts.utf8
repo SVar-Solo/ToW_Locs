@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Zajmij i utrzymaj wzgórze 232.8.
+[Mission.Description]
+Grupa bojowa z czołgami, piechotą zmotoryzowaną i artylerią będzie zmierzać ku wzgórzu 232.8. Pokonaj wroga na południowo-wschodnich stokach wzgórza, a potem zmierzaj na jego północno-zachodnią stronę. Utrzymaj wzgórze i nie dopuść do oflankowania głównych sił dywizji przez wrogie czołgi i piechotę.
+[Submission1.Objectives]
+Przejmij pozycje wroga na wzgórzu 232.8.
+[Submission2.Objectives]
+Pokonaj czołgi wroga.
+[Mission.Success]
+Zadanie wykonane.
+[Mission.Failed]
+Nie udało nam się wykonać rozkazów. Nieprzyjaciel jest zbyt silny!
+[Submission1.Success]
+Misja ukończona, wzgórze 232.8 zostało zajęte.
+[Submission1.Failed]
+Atak został zatrzymany, potrzebne natychmiastowe wsparcie.
+[Submission2.Success]
+Nieprzyjacielskie kontrataki zostały skutecznie odparte.
+[Submission2.Failed]
+Nasze wojska wycofują się pod naporem sił wroga.
+
+[StringTable.avia_report]
+Jest dostępne wsparcie powietrzne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do otwarcia ognia.

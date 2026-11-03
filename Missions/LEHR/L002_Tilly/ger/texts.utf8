@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Halten und verteidigen Sie die markierten Bereich.
+[Submission1.Description]
+Das 30. Britische Korps hat mit seiner 50. Division eine neue Offensive gegen die Stellungen des 901. motorisierten Infanterie Regiments gestartet, das bei Tilly in Verteidigungsstellung ist.
+
+Ihre Befehle lauten:
+- halten Sie die Verteidigungsanlagen der Stadt
+[Submission1.Success]
+Gute Arbeit!
+[Submission1.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!
+[Submission2.Objectives]
+Halten Sie den Feind auf.
+[Submission2.Description]
+Die Britien haben eine Offensive gestartet, um die Einheiten der Panzer Lehr Division zurückzutreiben, und in der Gegend genügend Druck zu erzeugen, so dass die 7. Panzer Division ihren Angriff fortsetzen kann. 
+
+Ihre Befehle lauten:
+- Halten Sie den feindlichen Angriff auf.
+[Submission2.Success]
+Gute Arbeit! Die feindlichen Truppen sind ausgeschaltet.
+[Submission2.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.

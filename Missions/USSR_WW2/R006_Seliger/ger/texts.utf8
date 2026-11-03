@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+Greifen Sie den feindlichen Panzerkonvoi an.
+[Submission1.Description]
+Unsere Truppen haben kaum die Verteidigungsanlagen um das Dorf einrichten können, als auch schon eine deutsche gepanzerte Kolumne auf der Landstrasse gesichtet wurde, und sich in Ihre Richtung bewegte. Sie müssen diese Gefahr eliminieren!
+
+Ihre Befehle: 
+-	 Konsolidieren Sie die Verteidigung der Siedlung und greifen Sie den feindlichen Konvoi an.
+[Submission1.Success]
+Der Befehl wurde ausgeführt!
+[Submission1.Failed]
+Sie sind gescheitert! Der deutsche Konvoi wurde nicht zerstört.
+[Submission2.Objectives]
+Greifen Sie die deutschen Einheiten an, die sich an der Flanke nähern.
+[Submission2.Description]
+Laut Aufklärungsberichten hat der Feind seine Truppen nicht weit der Siedlung in Stellung gebracht und rückt in Ihre Richtung vor. Die Deutschen wollen sicherlich angreifen, also müssen wir ihre Pläne vereiteln.
+
+Ihre Befehle lauten: 
+-	 Greifen Sie die feindliche Gruppe an und verhindern Sie, dass sie Ihre Truppen einkreisen kann.
+[Submission2.Success]
+Der Befehl wurde ausgeführt! Die Deutschen haben es nicht geschafft, Ihre Truppen zu umzingeln!
+[Submission2.Failed]
+Die Aufgabe wurde nicht erfüllt! Ihre Truppen wurden eingekesselt.
+[Mission1.Objectives]
+- Halten Sie die Verteidigungsstellungen rund um die Siedlung.
+[Mission1.Description]
+Das HQ erhielt Berichte, nach denen ganz klar ist, dass der Feind einen neuen Angriff in Ihrem Abschnitt plant.
+
+Ihre Befehle:
+-	 Halten Sie die Verteidigungsstellungen rund um die Siedlung.
+[Mission1.Success]
+Der Befehl wurde ausgeführt! Durch Ihr entschlossenes Handeln haben es die Deutschen nicht geschafft, unsere Verteidigungsstellung in diesem Frontabschnitt zu durchbrechen!
+[Mission1.Failed]
+Sie sind gescheitert. Die Deutschen sind durch unsere Verteidigungsstellungen in diesem Frontabschnitt durchgebrochen!
+[Submission3.Objectives]
+Schlagen Sie den deutschen Angriff zurück.
+[Submission3.Description]
+Nachdem der deutsche Konvoi angegriffen wurde hat der Feind Verstärkungen angefordert um die Stadt einzunehmen. Bereiten Sie sich auf einen weiteren Angriff vor.
+
+Ihre Befehle: 
+-	 Halten Sie den Ansturm der faschistischen Truppen auf.
+[Submission3.Success]
+Sie haben Ihre Befehle gut ausgeführt und haben die Siedlung verteidigt!
+[Submission3.Failed]
+Ihre Mission ist gescheitert - der Feind besetzt die Siedlung.
+[Submission4.Objectives]
+Greifen Sie die feindlichen Einheiten in unserem Rücken an.
+[Submission4.Description]
+Ein feindlicher Panzerkonvoi ist in Ihrem Rücken gesichtet worden; er muss neutralisiert werden, bevor Sie eingekesselt sind.
+
+Ihre Befehle: 
+-	 Greifen Sie die feindlichen Einheiten in unserem Rücken an.
+[Submission4.Success]
+Die Aufgabe wurde erfüllt und der Feind flieht!
+[Submission4.Failed]
+Sie haben Ihre Mission nicht erfüllt und die Deutschen haben einen weiteren Sieg errungen.
+[StringTable.Reserv]
+Sie erhielten Verstärkungen.

@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Les forces américaines ont fortifié une localité de la vallée de montagne et y ont concentré leurs forces. Ce lieu est le seul couloir de transport reliant les parties sud et nord de la crête. Vous devez détruire les défenses ennemies par une attaque concentrée et capturer la localité.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+L'ennemi tente de franchir le col et de prendre pied sur le versant sud. Une petite force défend la localité. Utilisez-la pour contre-attaquer et affaiblir l'assaut ennemi.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies sur la localité.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies et contre-attaquez si possible. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repoussez toutes les attaques ennemies et contre-attaquez si possible. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Localité perdue.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Localité perdue.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Selon la reconnaissance, l'ennemi concentre ses forces en vue d'une attaque. Il tentera très probablement de percer les positions défendues par votre équipe de combat. Vous ne devez pas le permettre.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Selon la reconnaissance, l'ennemi concentre ses forces en vue d'une attaque. Il tentera très probablement de percer les positions défendues par votre équipe de combat. Vous ne devez pas le permettre.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est sous vos ordres.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Spg_support]
+Des canons automoteurs de réserve sont sous vos ordres.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Une équipe blindée est à votre disposition.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Une équipe d'infanterie est sous vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Une équipe d'infanterie est sous vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Une équipe blindée est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Une équipe blindée est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est à votre disposition.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Une équipe d'infanterie de réserve est à votre disposition.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Une équipe blindée de réserve est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Une équipe blindée de réserve est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[Reinforcement.Group1[Reinforcement]]
+Blindés et infanterie
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Les forces américaines ont fortifié une localité de la vallée de montagne et y ont concentré leurs forces. Ce lieu est le seul couloir de transport reliant les parties sud et nord de la crête. Vous devez détruire les défenses ennemies par une attaque concentrée et capturer la localité.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies et contre-attaquez si possible. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Selon la reconnaissance, l'ennemi concentre ses forces en vue d'une attaque. Il tentera très probablement de percer les positions défendues par votre équipe de combat. Vous ne devez pas le permettre.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Selon la reconnaissance, l'ennemi concentre ses forces en vue d'une attaque. Il tentera très probablement de percer les positions défendues par votre équipe de combat. Vous ne devez pas le permettre.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies et contre-attaquez si possible. Ne laissez pas l'ennemi capturer la localité.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capturez la localité.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Selon la reconnaissance aérienne, une force ennemie se dirige vers la localité indiquée sur la carte. Ce lieu se trouve à un carrefour routier stratégique et est essentiel à notre offensive. Ne laissez pas l'ennemi capturer la localité. Attaquez et, si possible, éliminez les hostiles en marche. Si l'ennemi arrive avant vous, lancez immédiatement l'assaut, avant qu'il n'ait le temps d'établir ses défenses.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Capturez la hauteur indiquée sur la carte.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+La hauteur indiquée sur la carte est la clé stratégique du contrôle de deux carrefours routiers : la capturer à temps est donc crucial. Capturez la hauteur et tenez-la pendant la durée indiquée, jusqu'à l'arrivée de nos forces principales. Soyez prêt à repousser toute contre-attaque ennemie.
+
+[Reinforcement.Group2[Reinforcement]]
+
+

@@ -1,0 +1,72 @@
+﻿[Submission1.Objectives]
+Die feindliche Verteidigung vernichten.
+
+[Submission1.Description]
+Der Frontbefehlshaber hält es für notwendig, die feindliche Verteidigung in diesem Raum zu vernichten.
+
+Befehl erhalten:
+- die erste Grabenlinie einnehmen;
+- die zweite Grabenlinie einnehmen;
+- die dritte Grabenlinie einnehmen.
+
+[Submission1.Success]
+Befehle ausgeführt! Ihnen wurde der Dienstgrad eines Offiziers der Roten Armee verliehen!
+
+[Submission1.Failed]
+Sie haben die Operation nicht bestanden! Ihre Truppen wurden vernichtet!
+
+[StringTable.1]
+Die erste Grabenlinie einnehmen.
+Die Panzer vorrücken lassen, um feindliche Stellungen zu beschießen und den Vormarsch der Infanterie zu decken. Mit der Infanterie die feindlichen Gräben angreifen.
+
+[StringTable.2]
+Die zweite Grabenlinie einnehmen. Mit zwei Panzern den Feind umgehen und in den Rücken gelangen, um die feindliche Artillerie zu vernichten. Mit der Infanterie die feindlichen Gräben angreifen und ihren Vormarsch mit einem Panzer decken.
+
+Ist das feindliche Geschütz schwer zu treffen, versuchen Sie, einem einzelnen Panzer mit dem Befehl „Flächenfeuer“ {hkey:groundattack} einen Feuerpunkt so nah wie möglich am Geschütz oder leicht dahinter zuzuweisen. Stellen Sie sicher, dass zu diesem Punkt eine Schusslinie besteht (möglicherweise müssen Sie für Ihren Panzer eine günstigere Position wählen). Der Panzer wählt für das Flächenfeuer automatisch Sprenggranaten.
+
+Sie können Panzer auch einsetzen, um Geschütze und Infanterie außerhalb der Gräben zu überrollen.
+
+[StringTable.3]
+Die dritte Grabenlinie einnehmen.
+Diese Gräben sind „aktiv“: Erstens decken sie sich gegenseitig mit Feuer; zweitens greifen die Soldaten im anderen Graben Ihre Truppen an, sobald ein Graben eingenommen ist, und versuchen, sie aus den besetzten Stellungen zu vertreiben.
+Außerdem wird die feindliche Artillerie von Panzern gedeckt.
+Mit zwei schweren Panzern den Feind umgehen und in den Rücken gelangen, um die feindliche Artillerie zu vernichten. Mit der Infanterie die feindlichen Gräben entweder an der rechten oder an der linken Flanke angreifen und den Vormarsch mit einem leichten Panzer decken.
+
+[StringTable.Win]
+Auftrag erfüllt!
+
+[StringTable.Form]
+Ihre Truppen können sich in verschiedenen Formationen bewegen. Es gibt insgesamt 4 Formationen:
+
+„Kolonne“ – die Truppen bilden bei der Bewegung eine Kolonne;
+„Staffel“ – die Truppen bilden bei der Bewegung einen Keil;
+„Frei“ – die Truppen bilden bei der Bewegung eine freie Form;
+„Linie“ – die Truppen bilden bei der Bewegung eine Linie.
+
+Standardmäßig ist die Formation „Linie“ gewählt. Mit der Taste {hkey:formation} können Sie schnell durch die Formationen schalten. Die Abstände zwischen den Einheiten sowie die Formationsrichtung werden durch Mausbewegung bei gedrückter rechter Taste festgelegt; die Truppen entfalten sich am Endpunkt in der angegebenen Richtung.
+
+Wenn Sie Truppen in eine gewünschte Richtung ausrichten wollen, ohne ihre aktuelle Position zu ändern, erteilen Sie den Befehl „Drehen“ {hkey:defend}. Fahrzeuge, die sich nicht auf der Stelle drehen können, versuchen dies in mehreren Manövern. Bei einem Bewegungsbefehl für eine einzelne Einheit können Sie die endgültige Ausrichtung festlegen, indem Sie die rechte Maustaste eine Weile gedrückt halten und die Pfeilrichtung per Mausbewegung einstellen.
+
+Für Fahrzeuge steht der Bewegungsmodus mit Infanteriegeschwindigkeit {hkey:lowspeed} zur Verfügung.
+
+[StringTable.Action]
+Ihre Truppen können sich in jedem der Bewegungsmodi bewegen. Es gibt 4 Bewegungsmodi:
+„ANGRIFF“ {hkey:attack} – sobald die Truppen den Feind sehen, halten sie an und feuern, bis der Feind vernichtet ist oder aus dem Blickfeld verschwindet. Danach setzen sie den Angriff fort.
+„STURM“ {hkey:storm} – die Truppen feuern beim Vorrücken aus kurzen Halten auf den Feind.
+„BEWEGEN“ {hkey:move} – die Truppen bewegen sich hauptsächlich auf Straßen und ignorieren Feinde. Fahrzeuge mit Turm drehen ihn während der Bewegung. Dieser Befehl kann auch per Doppelklick mit der rechten Maustaste erteilt werden.
+„RÜCKWÄRTS/RÜCKZUG“ {hkey:retreat} – die Truppen (außer Infanterie) fahren rückwärts.
+
+Denken Sie immer daran, dass Sie Ihre Truppen anhalten und die ihnen erteilten Befehle aufheben können, indem Sie den Befehl „Befehl abbrechen“ {hkey:stop} erteilen. Danach wechseln sie in den Modus „Verteidigung“.
+
+Wählen Sie beim Angriff auf Gräben „Angriff“ oder „Sturm“ und geben Sie den Zielpunkt der Bewegung per Rechtsklick an.
+
+[StringTable.WeaponsAndAmmos]
+Ein Geschütz kann mit einer der Munitionsarten aus der Munitionsausstattung der Einheit geladen werden. Ein geladenes Geschütz wird durch Feuern entladen. Das halbtransparente Munitionssymbol in der Waffenleiste zeigt an, dass diese Munition als Nächstes geladen wird (zum Beispiel, wenn Sie sie gezielt gewählt haben), und stimmt nicht immer mit der aktuell geladenen Granate überein. Die aktuell geladene Granate sehen Sie im Tooltip, wenn Sie den Mauszeiger über das Geschützsymbol bewegen.
+
+Ihre Einheiten versuchen, für jede Zielart automatisch eine passende Granate zu wählen. Sie können die gewünschte Munition gezielt festlegen, indem Sie mit der rechten Maustaste auf den Munitionsbereich rechts neben dem Geschützsymbol in der Waffenleiste klicken. Wählen Sie dann die gewünschte Granate per Linksklick aus – Geschütz und Munition werden gelb hervorgehoben. Nun verwendet die Einheit nur noch diese Waffe mit der gewählten Munitionsart, und der Befehl „Drehen“ für den Panzer {hkey:defend} bezieht sich jetzt auf den Turm mit diesem Geschütz und nicht auf die gesamte Einheit. Sie können die Verwendung bestimmter Munitions- oder Waffenarten auch verbieten, indem Sie mit der rechten Maustaste auf das entsprechende Symbol klicken.
+
+[StringTable.EnemyTanks]
+Feindliche Panzer sind gegen Sie vorgerückt.
+Die Panzerung eines Panzers zu durchschlagen reicht oft nicht aus, um ihn zu vernichten. Ein feindlicher Panzer lässt sich auf verschiedene Weise völlig zerstören – durch Zerstörung der Wanne, durch einen Motor- oder Kraftstofftankbrand oder durch einen Treffer ins Munitionslager mit anschließender Detonation. Sie können einen Panzer teilweise außer Gefecht setzen, indem Sie die Ketten abschießen, den Turm oder die Hauptkanone zerstören oder einzelne wichtige Besatzungsmitglieder treffen. All das erfordert einen Treffer auf ein bestimmtes Modul im Inneren des Panzers. Berücksichtigen Sie auch, ob ein bestimmtes Geschütz die Panzerung des feindlichen Panzers im gegebenen Auftreffwinkel durchschlagen kann und welchen Schaden die Granate nach dem Durchschlag anrichtet.
+
+Um Durchschlagsvektoren und Informationen über Schäden im Inneren zu sehen, schalten Sie den „Schadensinfo-Modus“ {hkey:SwitchDamageMessagesMode} ein.

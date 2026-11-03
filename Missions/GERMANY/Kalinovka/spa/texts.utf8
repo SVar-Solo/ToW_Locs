@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Capture y mantenga la Colina 232.8.
+[Mission.Description]
+El grupo de combate, con tanques, infantería motorizada y artillería, avanzará en dirección a la Colina 232.8. Derrote al enemigo en las laderas sudorientales de la colina y avance hasta sus laderas noroccidentales. Mantenga la colina e impida que los tanques y la infantería enemigos flanqueen a las fuerzas principales de la división.
+[Submission1.Objectives]
+Capture las posiciones enemigas en la Colina 232.8.
+[Submission2.Objectives]
+Rechace a los tanques enemigos.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+No hemos podido cumplir nuestras órdenes. ¡El enemigo es demasiado fuerte!
+[Submission1.Success]
+Misión cumplida; la Colina 232.8 ha sido capturada.
+[Submission1.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato.
+[Submission2.Success]
+Los contraataques enemigos han sido rechazados con éxito.
+[Submission2.Failed]
+¡Nuestras fuerzas se retiran bajo la presión enemiga!
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

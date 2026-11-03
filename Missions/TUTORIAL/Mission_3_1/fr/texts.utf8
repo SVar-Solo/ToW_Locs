@@ -1,0 +1,134 @@
+﻿[Mission.Objectives]
+Prendre le commandement et repousser l’attaque ennemie
+
+[Mission.Description]
+Prenez sous votre commandement deux groupes de soldats britanniques. À l’aide d’une mitrailleuse lourde, détruisez une escouade d’infanterie ennemie. Trouvez et utilisez un bazooka pour détruire le char ennemi.
+
+[Mission.Success]
+Mes félicitations, toutes les tâches ont été accomplies avec succès.
+
+[Mission.Failed]
+Tâche échouée
+
+[Submission_1.Objectives]
+Prendre le commandement du premier groupe
+
+[Submission_1.Description]
+Rapprochez le véhicule du groupe de trois soldats britanniques et ils passeront sous votre commandement.
+
+[Submission_1.Success]
+Le groupe de soldats britanniques est passé sous votre commandement.
+
+[Submission_1.Failed]
+Tâche échouée
+
+[Submission_2.Objectives]
+Prendre le commandement du deuxième groupe
+
+[Submission_2.Description]
+Rapprochez votre véhicule et les soldats qui vous ont rejoint du groupe du poste avancé de combat, à la lisière du village, et ils passeront sous votre commandement.
+
+[Submission_2.Success]
+Le poste avancé de combat est passé sous votre commandement.
+
+[Submission_2.Failed]
+Tâche échouée
+
+[Submission_3.Objectives]
+Armer la mitrailleuse
+
+[Submission_3.Description]
+Sélectionnez deux fantassins parmi les effectifs et armez la mitrailleuse.
+
+[Submission_3.Success]
+La mitrailleuse lourde est à votre disposition.
+
+[Submission_3.Failed]
+Tâche échouée
+
+[Submission_4.Objectives]
+Repousser l’attaque ennemie
+
+[Submission_4.Description]
+Prenez position en défense dans les bâtiments près de la mitrailleuse et repoussez l’attaque de l’infanterie ennemie.
+
+[Submission_4.Success]
+L’attaque ennemie a été repoussée.
+
+[Submission_4.Failed]
+Tâche échouée
+
+[StringTable.Submission_4]
+À l’intérieur d’un bâtiment en mode de déplacement libre, les fantassins peuvent légèrement changer de position si le tir sur une cible détectée y est plus commode. N’oubliez pas que la visibilité peut être limitée par les murs. Cela peut être utile pour une embuscade, mais empêche d’avoir une vue d’ensemble du combat.
+
+[Submission_5.Objectives]
+Détruire le char ennemi
+
+[Submission_5.Description]
+Un char allemand se dirige vers vos positions. Guidé par la fumée, trouvez le conteneur contenant le lance-grenades antichar et détruisez le char ennemi.
+
+[Submission_5.Success]
+Le char ennemi a été détruit.
+
+[Submission_5.Failed]
+Tâche échouée
+
+[StringTable.Submission_5.1]
+Un char allemand se dirige vers vos positions. Guidé par la fumée, trouvez le conteneur contenant le lance-grenades antichar et détruisez le char ennemi. Le conteneur se trouve à côté du camion calciné, derrière et à droite de vos positions ; l’emplacement est marqué par une fumée rouge. Amenez-y un soldat ayant un emplacement d’arme libre, ouvrez l’inventaire {hkey:inventory} – un panneau des objets proches du soldat s’affichera. Vous pouvez ramasser les objets par un double clic gauche, en les faisant glisser ou avec l’un des boutons de ramassage. Le soldat aura besoin d’un certain temps pour ramasser les objets. Pour préciser le nombre d’objets, maintenez CTRL (une pièce), MAJ (pile complète), CTRL+MAJ (demi-pile) lors du transfert.
+
+[StringTable.Submission_5.2]
+Si le char est trop loin, essayez de vous cacher ou de vous coucher pour qu’il ne puisse pas détecter vos soldats. Attaquez le char quand il se rapproche. Utilisez les modes de déplacement furtifs {hkey:setbodymodelay} et interdisez le déplacement libre {hkey:actionmode}, ou activez le mode « Embuscade » {hkey:ambush}.
+
+[StringTable.Submission_5.3]
+Pour garantir l’efficacité maximale du tir du « Bazooka », ouvrez le feu à environ 2/3 ou 1/2 de la portée de tir maximale indiquée par le secteur en pointillés. Pour cela, interdisez le tir au soldat équipé du « Bazooka » {hkey:firemode}, laissez le char venir à la distance voulue, puis autorisez de nouveau le tir {hkey:firemode}. Ensuite, s’il existe une ligne de tir, le soldat tirera de lui-même. Si vous donnez un ordre direct d’attaquer le char, en l’absence de ligne de tir, le soldat peut commencer à se rapprocher de la cible, ce qui est parfois indésirable.
+
+[Submission_6.Objectives]
+Évacuer
+
+[Submission_6.Description]
+Capturer un véhicule de transport d’infanterie. Charger tout le personnel dans le camion, puis le conduire au point d’évacuation.
+
+[Submission_6.Success]
+Personnel évacué.
+
+[Submission_6.Failed]
+Tâche échouée
+
+[Submission_7.Objectives]
+Évacuer
+
+[Submission_7.Description]
+Évacuer tout le personnel du village jusqu’au point d’évacuation.
+
+[Submission_7.Success]
+Le personnel a atteint le point d’évacuation
+
+[Submission_7.Failed]
+Tâche échouée
+
+[Submission_8.Objectives]
+Évacuer
+
+[Submission_8.Description]
+Vous devez évacuer le personnel jusqu’au point indiqué. Pour cela, vous pouvez utiliser un véhicule, que vous pouvez appeler avec le bouton de renforts.
+
+[Submission_8.Success]
+Personnel évacué
+
+[Submission_8.Failed]
+Tâche échouée
+
+[Submission_9.Objectives]
+Détruire les chars avec l’aviation
+
+[Submission_9.Description]
+Vous devez appeler des avions d’attaque et détruire les chars qui arrivent du sud-ouest. Pour guider efficacement les avions d’attaque vers la cible, les chars doivent être en ligne de vue directe de l’infanterie.
+
+[Submission_9.Success]
+Chars détruits !
+
+[Submission_9.Failed]
+Tâche échouée
+
+[StringTable.Submission_9]
+Vous devez appeler des avions d’attaque et détruire les chars qui arrivent du sud-ouest. Pour guider efficacement les avions d’attaque vers la cible, les chars doivent être en ligne de vue directe de l’infanterie. Les avions mettront un certain temps à atteindre la cible. Après avoir attaqué une cible, l’avion fera un second passage et attaquera la suivante.

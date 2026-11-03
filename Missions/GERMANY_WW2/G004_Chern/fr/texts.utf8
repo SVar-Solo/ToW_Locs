@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+Capturer la gare de Chern.
+[Mission1.Description]
+Avec des éléments de la 3e division blindée, vous allez lancer une offensive vers Chern. A cet endroit du front, les Russes ont mis en place des positions défensives fortifiées. Le secteur de la gare de Chern se prête particulièrement bien à la défense, il faudra donc faire preuve d’habilité et de vitesse pour emporte la victoire.
+
+Vos ordres : 
+- 	Eliminer les unités ennemies et capturer la gare de Chern.
+[Mission1.Success]
+Mission bien remplie, la gare est entre nos mains ! Les Russes ont livré une résistance farouche, la progression vers Moscou risque d’être plus difficile que prévue.
+[Mission1.Failed]
+Les Russes ont défendu leur position avec une telle obstination que vos unités ont été mises en déroute ! La responsabilité de ce désastre vous incombe totalement. 
+[Submission_01.Objectives]
+Bombarder les positions ennemies.
+[Submission_01.Description]
+Avant de lancer votre offensive, bombardez les positions ennemies. 
+[Submission_01.Success]
+Mission accomplie, le barrage d’artillerie a été un succès !
+[Submission_01.Failed]
+Votre barrage d’artillerie n’est pas parvenu à endommager les positions ennemies.
+[Submission2_1.Objectives]
+Attaquer l’ennemi par le flanc droit.
+[Submission2_1.Description]
+Nous avons percé la défense ennemie par la droite ! Les Russes tentent de contenir notre offensive en engageant des réserves près la gare. Ils préparent peut-être une contre-attaque, soyez vigilant. 
+
+Vos ordres :
+- 	Attaquer l’ennemi par le flanc droit.
+[Submission2_1.Success]
+La mission a été accomplie et l’attaque est un succès !
+[Submission2_1.Failed]
+La mission a échoué. Les Russes ont repoussé votre attaque !
+[Submission1_1.Objectives]
+Attaquer les troupes ennemies à la gare de Chern. 
+[Submission1_1.Description]
+Les défenses russes ont été brisées ! ! Les Russes tentent de contenir notre offensive en engageant leurs réserves près la gare. Ils préparent peut-être une contre-attaque, soyez vigilant.
+
+Vos ordres : 
+-	 Attaquer les troupes ennemies à la gare de Chern.
+[Submission1_1.Success]
+Mission accomplie, la gare est entre nos mains !
+[Submission1_1.Failed]
+La mission a échoué, vous n’êtes pas parvenu à capturer la gare !
+[StringTable.Reserv]
+Des renforts sont arrivés en appui !
+[StringTable.Reserv1]
+Des renforts sont en chemin.

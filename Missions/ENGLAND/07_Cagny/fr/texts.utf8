@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Libérez Cagny et Frénouville.
+[Mission.Description]
+Nos prochains objectifs sont Cagny et Frénouville.
+[StringTable.SPGs_Tanks]
+Force principale
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Prenez Cagny.
+[Submission_1.Description]
+Chassez l’ennemi de Cagny.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Chassez l’ennemi de la ferme.
+[Submission_2.Description]
+Les Allemands ont transformé la ferme en point d’appui. Éliminez-les.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Libérez Frénouville.
+[Submission_3.Description]
+Une nouvelle localité sur la route de notre avance. 
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_3.Success]
+Mission accomplie.
+[Submission_3.Failed]
+Mission non accomplie.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission non accomplie.
+[Submission_4.Objectives]
+Canons antiaériens près du carrefour.
+[Submission_4.Description]
+Une batterie de canons antiaériens de 88 mm barre l’approche des positions ennemies. Toute approche avec des forces blindées, quelles qu’elles soient, entraînera de lourdes pertes. La batterie doit être neutralisée avant l’engagement du gros de nos forces.
+[NewSubmission3.Success]
+Canons antiaériens détruits.
+[NewSubmission3.Failed]
+Les canons antiaériens n’ont pas été neutralisés.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission non accomplie.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission non accomplie.
+[Submission_4.Success]
+Batterie neutralisée. Mission accomplie.
+[Submission_4.Failed]
+Mission non accomplie.
+[StringTable.Tanks]
+Force de réserve disponible.

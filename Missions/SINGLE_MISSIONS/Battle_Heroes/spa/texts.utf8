@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+Rechazar todos los ataques alemanes y después lanzar un contraataque.
+[Mission.Description]
+Las unidades alemanas están a la vista del Kremlin. ¡Moscú no debe caer en manos de los fascistas!
+
+Sus órdenes:
+	- Frenar el ataque enemigo y detener su avance sobre Moscú
+	- Lanzar un contraataque
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Ha fracasado en el cumplimiento de sus órdenes.
+[Submission_1.Objectives]
+Frenar el ataque enemigo
+[Submission_1.Description]
+Detener el ataque enemigo
+[Submission_1.Success]
+Misión cumplida. 
+[Submission_2.Failed]
+Misión fallida.
+[Submission_2.Success]
+Misión cumplida.
+[Submission_2.Description]
+Ha resistido. El enemigo huye. Dada la situación actual, se asignarán tanques de la reserva para ayudarle. ¡Debe continuar la persecución del enemigo!
+
+Sus órdenes:
+	- Contraatacar a las tropas enemigas
+[Submission_2.Objectives]
+Contraatacar al enemigo
+[StringTable.Reserv_inf]
+La infantería de la reserva ha pasado a su control
+[StringTable.Reserv_Tanks]
+Los tanques de la reserva han pasado a su control.
+[Submission_1.Failed]
+Misión fallida.

@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Zniszcz nieprzyjacielską obronę i zdobądź wieś.
+[Mission.Description]
+Wieś przed nami to dla wroga miejsce strategiczne. Nasz sztab domaga się jej zdobycia. Na tym terenie znajduje się wzgórze z widokiem na miasto. Oddziały zwiadowcze meldują, że wróg jest dobrze ufortyfikowany i wspierany przez artylerię samobieżną oraz działa przeciwpancerne. 
+ 
+Rozkazy:
+- Zniszcz nieprzyjacielską obronę.
+- Zdobądź wioskę.
+[Mission.Success]
+Dobra robota!
+[Mission.Failed]
+Porażka! Twoje wojska zostały pokonane.
+[Submission_1.Objectives]
+Zdobyć nieprzyjacielskie pozycje.
+[Submission_1.Description]
+Pofałdowany teren wymusza starcia na dystansach mniejszych niż 500 metrów, ale znajdująca się przed nami wieś musi być zdobyta.
+ 
+Rozkazy:
+- Wykorzystując wszelkie środki, wyprzyj nieprzyjaciela i zajmij jego pozycje!
+[Submission_1.Success]
+Dobra robota! Twoje wojska zwyciężyły.
+[Submission_1.Failed]
+Porażka! Zawiodłeś.

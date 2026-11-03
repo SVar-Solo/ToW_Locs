@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+적 거점을 점령하여 후속 부대의 전투 투입을 보장하라.
+[Mission.Objectives]
+전투단은 두브로보 방향으로 진격한다. 거점의 적을 격파한 뒤 마을 동쪽 외곽에 도달한다. 돌파 구역의 적 방어 시설을 파괴한다. 증원 부대의 전개 지대를 확보하라.
+[Mission.Success]
+임무 완료.
+[Mission.Failed]
+명령을 수행하지 못했다. 적이 너무 강하다! 
+[StringTable.Smoke]
+좌측면은 연막 사격으로 엄호한다. 두 번째 연막 사격을 위한 사격 구역을 지정하라.
+[Submission1.Objectives]
+적 거점 중 하나를 점령하여 적의 화력 체계를 무너뜨려라.
+[Submission2.Objectives]
+적의 반격을 격퇴하라. 후속 부대의 전투 투입을 보장하라.
+[Submission1.Success]
+임무 완료.
+[Submission1.Failed]
+공격이 저지되었다. 즉각적인 지원이 필요하다.
+[Submission2.Success]
+임무 완료. 증원 부대가 적 방어 지대로 진입했다.
+[Submission2.Failed]
+아군은 적의 압박에 밀려 후퇴한다.
+[StringTable.SM11]
+거점 1을 점령했다.
+[StringTable.SM12]
+거점 2를 점령했다.
+[StringTable.SM13]
+거점 3을 점령했다.
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

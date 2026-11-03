@@ -1,0 +1,43 @@
+﻿[Mission.Objectives]
+Zniszczyć baterię niemieckiej artylerii na wzgórzach. Odeprzeć wszystkie nieprzyjacielskie ataki.
+[Mission.Description]
+Niemcy rozmieścili baterię artylerii na wzgórzach, aby ostrzeliwać drogi prowadzące do Warszawy. Chcą uniemożliwić naszym wojskom wzmocnienie stolicy. Niemieckie dowództwo nie spodziewało się uderzenia na skrzydło nacierającej 8. Armii, dlatego mamy szansę zadać silny cios. 
+Twoje rozkazy: 
+-	Zniszczyć niemiecką baterię artylerii. 
+-	Powstrzymać ataki nieprzyjaciela. 
+[Mission.Success]
+Misja wykonana!
+[Mission.Failed]
+Nie udało ci się!
+[Submission_1.Objectives]
+Zniszczyć niemiecką baterię artylerii.
+[Submission_1.Description]
+Na wzgórzach znajduje się bateria niemieckiej artylerii. Jej ogień uniemożliwia naszym wojskom dalsze posuwanie się. 
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielską baterię artylerii i zająć wzgórza.
+[Submission_1.Success]
+Zadanie wykonane.
+[Submission_1.Failed]
+Nie udało ci się!
+[Submission_2.Objectives]
+Dostrzeżono niemieckie czołgi i piechotę. Natychmiast ich zaatakuj!
+[Submission_2.Description]
+Nasi zwiadowcy wykryli niemieckie czołgi i piechotę. Aby móc kontynuować natarcie, musimy ich koniecznie wyeliminować. 
+Twoje rozkazy:
+-	Zatrzymać nieprzyjacielskie natarcie, zająć pozycje obronne i zniszczyć wroga.
+[Submission_2.Success]
+Atak został odparty.
+[Submission_2.Failed]
+Nie udało ci się.
+[Submission_3.Objectives]
+Zająć pozycje obronne na wzgórzach i odeprzeć niemieckie kontrataki.
+[Submission_3.Description]
+Bateria niemieckiej artylerii została zlikwidowana. Ale wróg już szykuje kontratak w celu odzyskania straconych pozycji.
+Twoje rozkazy:
+-	Zająć pozycje obronne na wzgórzach i odeprzeć wszystkie nieprzyjacielskie kontrataki.
+[Submission_3.Success]
+Nieprzyjacielski kontratak nie powiódł się. Dobra robota!
+[Submission_3.Failed]
+Ponieśliśmy ciężkie straty. Przegraliśmy!
+[StringTable.reserv]
+Do walki weszły posiłki!

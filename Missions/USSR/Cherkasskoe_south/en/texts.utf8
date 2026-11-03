@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Repel enemy attacks to the south of Cherkasskoe. 
+[Mission.Description]
+Up to an infantry battalion with tanks of the Grossdeutschland Division advances from the south to assault Cherkasskoe. Concentrate efforts on holding the first trench. If the enemy breaks through, withdraw to alternative positions on the southwestern outskirts of the village.
+[Mission.Success]
+Mission complete, enemy attacks have been repelled.
+[Mission.Failed]
+Our forces withdraw under assault from a superior enemy.
+[Submission_1.Objectives]
+Prevent the enemy from penetrating to the southern part of Cherkasskoe until reinforcements arrive.
+[Submission_1.Success]
+The enemy advance has been stopped.
+[Submission_1.Failed]
+The enemy has broken through to the village, our troops are withdrawing.
+[Submission_2.Objectives]
+Withdraw to the central part of Cherkasskoe. Cover the withdrawal of the main force to the new line with artillery and tank fire.
+[Submission_2.Success]
+Mission complete, our forces occupied the new line of defense.
+[Submission_2.Failed]
+Control of troops is lost; units withdraw in disorder in isolated groups.
+[StringTable.Reinforcement_tanks]
+A group of tanks dispatched from division reserves is now under your command.
+[StringTable.Reinforcement_spg]
+A battery of self-propelled guns is now under your control.
+
+[StringTable.ChangeArmy]
+Left and right flank battle groups are under your command now. 
+[StringTable.tanks]
+Tanks from 245th Independent Tank Regiment
+[StringTable.SPG]
+Assault guns from 1440th Self-propelled Artillery Regiment
+[StringTable.Infantry]
+Infantry
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

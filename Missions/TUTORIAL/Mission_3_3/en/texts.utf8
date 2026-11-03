@@ -1,0 +1,96 @@
+﻿[Mission.Objectives]
+Liberate the settlement. Hold it until reinforcements arrive.
+
+[Mission.Description]
+Using the sabotage-reconnaissance group assigned to you, liberate the settlement from German troops and hold it until reinforcements arrive.
+
+[Mission.Success]
+You have successfully completed the task. The command thanks you for your service.
+
+[Mission.Failed]
+
+[SubMission_01.Objectives]
+Provide all possible assistance to our tankers. Select the entire paratrooper group and send them to the point near the red signal smoke.
+
+[SubMission_01.Description]
+A tank of the tank brigade was destroyed before our eyes; it seems the tankers managed to leave the burning vehicle. Inspect the ruins near the tank; perhaps some of the tankers are still alive. Provide assistance to the injured tankers.
+
+[SubMission_01.Success]
+Task completed. The tankers have joined our group.
+
+[SubMission_01.Failed]
+
+[SubMission_02.Objectives]
+Capture the tank. Use attacking commands when moving to the tank location, highlighted by red signal smoke. Focus the squad's fire on enemy soldiers.
+
+[SubMission_02.Description]
+According to reconnaissance data, the Germans are hiding our tank in this area. How it got to them is unknown. With the help of the tankers who have joined the group, capture the tank.
+
+[SubMission_02.Success]
+Task completed. The tank is in our hands again.
+
+[SubMission_02.Failed]
+
+[SubMission_03.Objectives]
+Suppress the fire of the enemy artillery. Use anti-personnel grenades or HE shells; they will destroy only the gun crews.
+
+[SubMission_03.Description]
+Suppress the fire of the enemy artillery. Try to capture the enemy guns; we will need them to organize the defense of the settlement; for this it is advisable to use HE shells or anti-personnel grenades.
+
+[SubMission_03.Success]
+Task completed. The enemy artillery has ceased to exist.
+
+[SubMission_03.Failed]
+
+[SubMission_04.Objectives]
+Repel the enemy attacks. Concentrate the fire of all guns on the left flank. On the right, minefields have been detected, which will help us destroy the enemy on the right flank. Do not allow the tank to move onto the mined fields.
+
+[SubMission_04.Description]
+The enemy is attempting to retake the settlement. Deploy all guns in his direction and hold out until our troops arrive.
+
+[SubMission_04.Success]
+We did it! Hurrah!
+
+[SubMission_04.Failed]
+
+[StringTable.avia_report]
+Air support is available. Specify a point on the terrain where air support should be directed. Dive bombers, like attack aircraft, attack the enemy independently, but do so from a steep dive.
+
+[StringTable.msg_01_01]
+You command a reconnaissance squad. This is a well-trained detachment; its soldiers have camouflage that increases their stealth, even with a zero "Scouting" parameter. They are armed with submachine guns, which are extremely effective at short distances of around 100 meters.
+
+[StringTable.msg_01_02]
+Tankers do not have camouflage, but they are capable of operating vehicles. Protect people with high "Driving" or "Gunner" skills, as well as those with high ranks — they increase the morale of soldiers nearby.
+
+[StringTable.msg_01_03]
+This terrain is covered with tall grass, which can completely hide your squads at a certain distance. The height of the grass directly affects the cutting off of the line of sight. Choose the lying movement mode {hkey:setbodymodelay} to guarantee hiding soldiers in the grass.
+
+[StringTable.msg_02_01]
+You are being attacked by enemy infantry. In most situations, it is enough to simply allow your soldiers to fire independently. Watch the firing sectors of your soldiers so that they do not interfere with each other, and the enemy is in their field of view.
+
+[StringTable.msg_02_02]
+For more effective advancement, leave some soldiers in place to cover those changing position. It is advisable to move between bushes and cover in short dashes {hkey:setbodymodeknee}, not staying in open terrain too long.
+
+[StringTable.msg_02_03]
+With your strong pressure, the enemy infantry may surrender; then the icon above such enemies will be grey.
+
+[StringTable.msg_02_04]
+If the icon above a vehicle is grey, then this object can be captured. Keep in mind that operating a tank or gun requires the appropriate skills. To operate captured equipment, the skills must be above a certain threshold. You can find out whether the equipment is considered captured by the flag on the background of its icon in the tooltip. If you capture such equipment and move with it to the next campaign mission, it will no longer be considered captured.
+
+[StringTable.msg_02_05]
+To capture a tank, select the tankers and right-click on it.
+
+[StringTable.msg_03_01]
+Use the command for the tank - area fire {hkey:groundattack}, by right-clicking on the terrain, near the enemy or directly on the enemy.
+
+[StringTable.msg_03_02]
+Approach the artillery from the rear, where it is most vulnerable. Use HE grenades.
+
+[StringTable.msg_04_01]
+To rotate the gun, it is necessary that its crew has at least 2 soldiers. Select the gun and right-click on the point in the direction in which you want to rotate the gun; hold the mouse button until the cursor changes.
+
+[StringTable.msg_04_02]
+The T-34 tank's ammo loadout contains 2 types of armor-piercing shells:
+APHEBC - a capped shell, explodes after overcoming an armor obstacle. Has a small explosive charge, sufficient to hit crew members near the detonation point.
+APBC - a solid shell, has no HE charge, but has a greater chance of hitting internal modules.
+Also, both types of shells can cause the formation of secondary fragments, hitting the crew and internal components.

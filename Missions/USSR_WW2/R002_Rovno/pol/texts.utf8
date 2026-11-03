@@ -1,0 +1,40 @@
+﻿[Mission1.Objectives]
+Zniszczyć nieprzyjacielskie dywizje pancerne, nacierające z zachodu.
+[Mission1.Description]
+Faszyści zajęli Łuck. Kolejne uderzenie ma na celu przełamanie frontu w okolicach Równego. Według meldunków zwiadu, kolumny niemieckich czołgów zbliżają się do Równego z zachodu.
+Nasz korpus zmechanizowany został wysłany we wskazany rejon, aby załatać dziurę utworzoną przez wojska nieprzyjaciela.
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielskie bataliony pancerne.
+[Mission1.Success]
+Rozkaz dowódcy został wykonany! Nieprzyjacielskie bataliony pancerne zbliżające się od zachodu zostały całkowicie zniszczone. Niemcom nie udało się złamać morale radzieckich żołnierzy!
+[Mission1.Failed]
+Twoje siły zostały zniszczone! Niemcy przełamali naszą obronę na tym odcinku frontu!
+[Mission1_1.Objectives]
+Zniszczyć nieprzyjacielskie bataliony pancerne zbliżające się od południowego zachodu.
+[Mission1_1.Description]
+Niemcy zajęli Łuck. 13. i 14. batalion pancerny zmierzają do Równego, by przełamać front i zbliżyć się do Kijowa. 
+Wywiad melduje, że bataliony pancerne zbliżają się od południowego zachodu.
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielskie bataliony pancerne.
+[Mission1_1.Success]
+Rozkaz dowódcy został wykonany! Nieprzyjacielskie bataliony pancerne zbliżające się z zachodu zostały zniszczone. Niemcom nie udało się złamać morale radzieckich żołnierzy!
+[Mission1_1.Failed]
+Mimo bohaterskiej postawy żołnierzy, twoje wojska zostały zniszczone! Niemcy przebili się na tym odcinku frontu!
+[Submission1.Objectives]
+Zatrzymać natarcie nieprzyjacielskich batalionów pancernych w tym rejonie.
+[Submission1.Description]
+W pierwszych dniach wojny nasza armia poniosła olbrzymie straty. Wczoraj faszystowscy najeźdźcy zajęli Łuck. Na froncie panuje zamieszanie i panika. Zwiad informuje, że niemieckie kolumny pancerne zmierzają w naszą stronę. Następne uderzenie będzie miało na celu przełamanie frontu w Równem. 19. korpus zmechanizowany już toczy ciężkie boje na skrzydle. Masz za wszelką cenę zatrzymać natarcie nieprzyjacielskich czołgów w tym rejonie. Da nam to czas na przegrupowanie się i być może przejście do kontrataku. 
+Twoje rozkazy:
+-	Zatrzymać natarcie 13. i 14. batalionu pancernego we wskazanym rejonie, wykorzystując siły 20., 35., 40. i 43. batalionu pancernego z 9. i 19. korpusu zmechanizowanego.
+[Submission1.Success]
+Rozkaz dowódcy został wykonany! Natarcie niemieckich batalionów pancernych zostało zatrzymane!
+[Submission1.Failed]
+Mimo bohaterskiej postawy żołnierzy, twoje wojska zostały zniszczone! Niemcy przebili się na tym odcinku frontu!
+[StringTable.Reserv]
+Przybyły posiłki.
+[StringTable.Subtitle_01]
+Rosja. Czerwiec 1941.
+[StringTable.Ger]
+Niemiecka armia rozpoczęła Operację Barbarossa i przekroczyła granicę ZSRR.
+[StringTable.Rus]
+Armia Czerwona rozpoczęła kontrofensywę, chcąc zatrzymać lub spowolnić niemieckie natarcie.

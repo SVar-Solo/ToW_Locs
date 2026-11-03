@@ -1,0 +1,13 @@
+﻿[Submission1.Objectives]
+Stoppez l’avance des troupes allemandes.
+[Submission1.Description]
+Des forces ennemies supérieures en nombre progressent en direction de la ville d’Istra. Le flanc droit de la 16e armée est train de se replier sous l’intense pression. Il vous faut aider à enrayer l’offensive allemande. 
+ Superior enemy forces are advancing through to Istra City. The right flank of the 16th Army is falling back, under nearly overwhelming pressure. You must help stop the German offensive. 
+
+Vos ordres sont :
+- Stoppez toute avance des troupes allemandes. 
+- Empêchez l’ennemi de percer nos lignes.
+[Submission1.Success]
+Les ordres du haut commandement ont été menés à bien! Vous avez mis un terme à l’avance allemande.
+[Submission1.Failed]
+Vous avez échoué! L’ennemi a réussi à percer nos lignes et se dirige vers la ville d’Istra.

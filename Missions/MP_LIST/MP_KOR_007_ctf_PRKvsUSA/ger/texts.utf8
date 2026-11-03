@@ -1,0 +1,69 @@
+﻿[StringTable.]
+
+
+[StringTable.ArmyB_WIN]
+Allianz 2 gewinnt!
+
+[StringTable.ArmyA_WIN]
+Allianz 1 gewinnt!
+
+[StringTable.ArmyA_king_Hill_A]
+Allianz 1 hat Flagge A erobert!
+
+[StringTable.ArmyA_king_Hill_B]
+Allianz 1 hat Flagge B erobert!
+
+[StringTable.ArmyA_king_Hill_C]
+Allianz 1 hat Flagge C erobert!
+
+[StringTable.ArmyA_king_Hill_D]
+Allianz 1 hat Flagge D erobert!
+
+[StringTable.ArmyA_king_Hill_E]
+Allianz 1 hat Flagge E erobert!
+
+[StringTable.ArmyB_king_Hill_A]
+Allianz 2 hat Flagge A erobert!
+
+[StringTable.ArmyB_king_Hill_B]
+Allianz 2 hat Flagge B erobert!
+
+[StringTable.ArmyB_king_Hill_C]
+Allianz 2 hat Flagge C erobert!
+
+[StringTable.ArmyB_king_Hill_D]
+Allianz 2 hat Flagge D erobert!
+
+[StringTable.ArmyB_king_Hill_E]
+Allianz 2 hat Flagge E erobert!
+
+[StringTable.Hill_A_Lost]
+Flagge A wurde verloren!
+
+[StringTable.Hill_B_Lost]
+Flagge B wurde verloren!
+
+[StringTable.Hill_C_Lost]
+Flagge C wurde verloren!
+
+[StringTable.Hill_D_Lost]
+Flagge D wurde verloren!
+
+[StringTable.Hill_E_Lost]
+Flagge E wurde verloren!
+
+[StringTable.ArmyA_capture_ALL_flags]
+Allianz 1 hat alle Flaggen erobert! Allianz 2 hat 2 Minuten, um mindestens 1 Flagge zurückzuerobern, sonst ist die Mission verloren.
+
+[StringTable.ArmyB_capture_ALL_flags]
+Allianz 2 hat alle Flaggen erobert! Allianz 1 hat 2 Minuten, um mindestens 1 Flagge zurückzuerobern, sonst ist die Mission verloren.
+
+[StringTable.One_or_more_flags_lost]
+Eine oder mehrere Flaggen gingen verloren!
+
+[StringTable.rus]
+Verstärkung
+
+[StringTable.ger]
+Verstärkung
+

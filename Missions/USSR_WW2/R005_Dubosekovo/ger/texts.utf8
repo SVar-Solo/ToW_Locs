@@ -1,0 +1,50 @@
+﻿[Submission1.Objectives]
+Schlagen Sie den feindlichen Angriff aus dem Nordwesten zurück.
+[Submission1.Description]
+Laut Aufklärungsberichten befindet sich eine Gruppe feindlicher Einheiten auf dem Vormarsch in Richtung Dubosekovo. Dort befindet sich eine weitere wichtige Bahnstation, die Sie um jeden Preis verteidigen müssen. General Panfilov hat Ihnen persönlich befohlen, bis zu bitteren Ende auszuharren. 
+
+Ihre Befehle:
+-	 Schlagen Sie den feindlichen Angriff aus dem Nordwesten zurück.
+[Submission1.Success]
+Der feindliche Angriff wurde gestoppt!
+[Submission1.Failed]
+Feindliche Truppen sind durch die Verteidigungslinien gebrochen und haben die Station erobert.
+[Submission2.Objectives]
+Schlagen Sie den feindlichen Angriff aus dem Südwesten zurück.
+[Submission2.Description]
+Der erste Versuch der Deutschen durch Ihre Verteidigungslinie zu brechen ist gescheitert. Jetzt bereiten Sie sich auf einen weiteren Angriff vor - Sie können schon die Motoren iher Panzer im Südwesten hören. Gruppieren Sie sich neu und lassen Sie nicht zu, dass die Feinde Ihnen aus dieser Richtung in die Flanke fallen. Es gibt keinen Rückzug, wir haben Moskau im Rücken!
+
+Ihre Befehle:
+-	 Schlagen Sie den feindlichen Angriff aus dem Südwesten zurück.
+
+[Submission2.Success]
+Befehl wurde ausgeführt! Der feindliche Angriff wurde zurückgeschlagen und der Feind weicht zurück!
+[Submission2.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt und Ihre Verteidigungslinien wurden durchschlagen!
+[Submission0.Objectives]
+Halten und verteidigen Sie die Bahnstation.
+[Submission0.Description]
+Feindliche Truppen marschieren schnell in Richtung der Schienenkreuzung bei Dubosekovo. Das Oberkommando sieht den Bahnhof als äusserst wichtig an und hat Ihnen befohlen, ihn um jeden Preis zu verteidigen.
+
+Ihre Befehle lauten:
+-	 Halten und verteidigen Sie die markierten Bereiche.
+-	 Die deutschen Truppen dürfen den Bahnhof nicht erobern.
+[Submission0.Success]
+Befehl wurde ausgeführt! Der deutsche Angriff wurde abgewehrt!
+[Submission0.Failed]
+Sie sind gescheitert! Die deutschen Truppen haben die Dubosekovo Station erobert.
+[Submission3.Objectives]
+Wehren Sie den feindlichen Angriff auf die Station ab.
+[Submission3.Description]
+Die Deutschen setzen Ihren Angriff auf die Station fort. Die Situation an anderen Teilen der Front ist nicht besser - wir sind in der Unterzahl und die Situation ist verzweifelt. Wir müssen verhindern, dass der Feind die Hauptstadt des Vaterlandes einnehmen kann.
+
+Ihre Befehle:
+ -	 Wehren Sie den feindlichen Angriff auf die Station ab.
+[Submission3.Success]
+Befehl wurde ausgeführt! Der feindliche Angriff wurde abgewehrt!
+[Submission3.Failed]
+Der Feind ist durch Ihre Verteidigungslinie gestossen und hat die Station erobert!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.
+[StringTable.Subtitle_01]
+Station Dubosekovo. 1941

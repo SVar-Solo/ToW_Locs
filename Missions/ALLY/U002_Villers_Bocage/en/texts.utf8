@@ -1,0 +1,23 @@
+﻿[Mission1.Objectives]
+Accompany the armored column to the area specified.
+[Mission1.Description]
+Allied troops are continuing to expand outward from their Normandy beachheads. Right now, securing Caen is of the utmost importance as once it is in our hands, our advance can continue.
+
+A column of English armored units (the famous Desert Rats) is heading along a major road towards the city of Caen. High Command wishes to close the pincers on the German positions in this area using the forces of the English 7th Armored Division. 
+[Mission1.Success]
+Your orders were fulfilled and we will surely take Caen shortly. The Germans won’t manage to throw us into the sea!
+[Mission1.Failed]
+Order not fulfilled, the Germans managed to defeat you. Taking into account all the forces you had at your disposal, it is really incredible that you were defeated!     
+[Mission2.Objectives]
+Destroy the enemy tanks.
+[Mission2.Description]
+On its way towards Caen, the English regiment’s tank column suffered an attack from the 2nd Company of the (heavy) SS-Panzer Abteilung 101 under the command of Michael Wittmann. Some of the tanks in the column have been damaged. The Germans are preparing to strike a blow towards Villers-Bocage.  
+
+Your orders: 
+- 	Destroy the enemy tanks.
+[Mission2.Success]
+Order fulfilled! The enemy tanks have been destroyed and the road to Caen is clear!
+[Mission2.Failed]
+Your troops were defeated! You have lost the battle!
+[StringTable.Reserv]
+Reinforcements have arrived to support you.

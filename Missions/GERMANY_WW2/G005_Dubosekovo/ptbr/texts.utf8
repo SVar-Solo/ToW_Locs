@@ -1,0 +1,48 @@
+﻿[Mission1.Objectives]
+Capture a estação ferroviária em Dubosekovo.
+[Mission1.Description]
+Segundo nosso reconhecimento aéreo, os russos fizeram um bom trabalho fortificando suas posições na área da estação ferroviária de Dubosekovo. Até agora, os russos defenderam muito melhor do que o esperado e nossas baixas foram maiores do que o previsto. Mesmo assim, o Alto Comando alemão precisa que você capture este local estrategicamente importante.
+
+Suas ordens: 
+- 	Lance uma ofensiva em direção à estação de Dubosekovo 
+- 	Elimine as tropas russas que ocuparam posições defensivas na área especificada. 
+[Mission1.Success]
+A estação ferroviária foi capturada. Depois que repararmos os trilhos, poderemos entregar provisões e munição da retaguarda! 
+[Mission1.Failed]
+Seu ataque fracassou! Você não conseguiu capturar a estação ferroviária!
+[Mission2.Objectives]
+Mantenha a estação de Dubosekovo contra o contra-ataque russo.
+[Mission2.Description]
+Um grupo de assalto russo se aproxima de nossas posições recém-conquistadas. Não devemos perder esta estação ferroviária; portanto, mantenha-a a todo custo.
+
+Suas ordens: 
+-	 Repila todos os ataques das tropas russas. 
+-	 Impeça que as tropas russas capturem a estação.
+[Mission2.Success]
+O ataque inimigo foi repelido. Bom trabalho! 
+[Mission2.Failed]
+Você fracassou e os russos recapturaram a estação ferroviária.
+[Submission1.Objectives]
+Bombardeie as posições inimigas.
+[Submission1.Description]
+Antes de iniciar sua ofensiva contra a estação ferroviária inimiga, bombardeie as posições defensivas inimigas.
+
+Suas ordens:
+- 	Bombardeie as posições inimigas.
+[Submission1.Success]
+O bombardeio foi um sucesso. Não temos dúvida de que os russos fugirão assim que virem nossos primeiros tanques!
+[Submission1.Failed]
+Sua artilharia foi ineficaz!
+[Submission2.Objectives]
+Solicite apoio aéreo aproximado.
+[Submission2.Description]
+Para ajudar a destruir a artilharia e as unidades de infantaria inimigas, você deve solicitar apoio aéreo aproximado.
+
+Suas ordens:
+- 	Solicite o apoio aéreo disponível.
+[Submission2.Success]
+Nossos aviões atacaram as posições inimigas.
+[Submission2.Failed]
+Nossas unidades aéreas não conseguiram fornecer apoio adequado.
+[StringTable.Reserv]
+Chegaram reforços para apoiá-lo.

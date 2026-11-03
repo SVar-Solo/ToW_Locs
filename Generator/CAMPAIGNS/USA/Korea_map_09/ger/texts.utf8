@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Die auf der Karte markierten feindlichen Stellungen angreifen und sichern.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Die feindlichen Stellungen in diesem Tal sichern den Haupttransportkorridor, der ihre östlichen und westlichen Kräfte verbindet. Sie müssen die auf der Karte markierten feindlichen Stellungen einnehmen.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Ihre Verluste sind zu hoch. Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Die auf der Karte markierten feindlichen Stellungen angreifen. Ihre Verteidigungsstellungen vernichten und alle feindlichen Gegenangriffe abwehren.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Ihre Verluste sind zu hoch. Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Die feindlichen Stellungen in diesem Tal sichern den Haupttransportkorridor, der ihre östlichen und westlichen Kräfte verbindet. Sie müssen die auf der Karte markierten feindlichen Stellungen einnehmen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Alle Feindangriffe abwehren und die verteidigenden Truppen durch einen Gegenangriff unterstützen.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Alle Feindangriffe innerhalb der vom Oberkommando vorgegebenen Zeit abwehren.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission gescheitert.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar und wartet auf Befehle.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Luftunterstützung ist verfügbar.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Reserve-Panzerverband ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Reserve-Panzerverband ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillerieunterstützung ist verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Luftstreitkräfte sind verfügbar.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Reserve-Infanterietrupp wartet auf Befehle.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Reserve-Infanterietrupp wartet auf Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillerie ist verfügbar.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Luftstreitkräfte warten auf Befehle.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Granatwerferunterstützung ist verfügbar.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Success]
+Mission erfüllt.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Failed]
+Mission gescheitert.
+
+[Reinforcement.Group1[Reinforcement]]
+Panzerfahrzeuge und Infanterie
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Die auf der Karte markierten feindlichen Stellungen angreifen und sichern.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Die feindlichen Stellungen in diesem Tal sichern den Haupttransportkorridor, der ihre östlichen und westlichen Kräfte verbindet. Sie müssen die auf der Karte markierten feindlichen Stellungen einnehmen.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Die auf der Karte markierten feindlichen Stellungen angreifen. Ihre Verteidigungsstellungen vernichten und alle feindlichen Gegenangriffe abwehren.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Laut Aufklärung hat eine feindliche Vorausabteilung das auf der Karte markierte Dorf eingenommen. Holen Sie es zurück, bevor der Feind seine Kräfte auffüllen und seine Verteidigung aufbauen kann. Halten Sie beim Angriff die Aufklärung aufrecht und achten Sie auf anrückende feindliche Reserven.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Unsere Vorausabteilung aus Infanterie und Selbstfahrartillerie hat den Haupttransportkorridor des Feindes unterbrochen. Halten Sie die eroberten Stellungen und lassen Sie nicht zu, dass der Feind seine Nachschublinien wiederherstellt.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Alle Feindangriffe abwehren.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Objectives]
+Das Dorf einnehmen und halten
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Description]
+Im Eilmarsch zum auf der Karte markierten Dorf vorrücken. Dort Verteidigung aufbauen und das Dorf für die vorgegebene Zeit halten, bis die Hauptmacht unserer Kräfte eintrifft.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Description]
+Im Eilmarsch zum auf der Karte markierten Dorf vorrücken. Dort Verteidigung aufbauen und das Dorf für die vorgegebene Zeit halten, bis die Hauptmacht unserer Kräfte eintrifft.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Objectives]
+Das Dorf einnehmen und halten
+

@@ -1,0 +1,42 @@
+﻿[Submission_1.Objectives]
+Para impedir que os tanques russos rompam até sua área de retaguarda, você deve detê-los a todo custo.
+[Submission_1.Description]
+Os russos lançaram mais uma contraofensiva. Mais uma vez tentam romper nossas linhas e semear o caos em nossa retaguarda. Se conseguirem, poderão se unir a outras unidades amigas para cercar nossas forças. Devemos prevalecer e deter este ataque.
+
+Suas ordens:
+-	Destrua todas as unidades inimigas que avançam.
+[Submission_1.Success]
+Você venceu e deteve esta última ofensiva russa.
+[Submission_1.Failed]
+Você perdeu! Unidades russas escaparam por suas linhas e agora seguem para nossa vulnerável retaguarda.
+[Submission_2.Objectives]
+Esmague a resistência russa na estação de Prokhorovka.
+[Submission_2.Description]
+Os russos perderam o ímpeto. Aproveite essa oportunidade atacando a estação de Prokhorovka.
+
+Suas ordens:
+-	Continue seu avanço em direção à estação de Prokhorovka e destrua todas as unidades defensoras que encontrar.
+[Submission_2.Success]
+Você venceu! Bom trabalho, Comandante. Suas ações hoje nos darão um tempo muito necessário para retomar a iniciativa.
+[Submission_2.Failed]
+Você perdeu! Uma oportunidade de ouro para desferir um golpe violento contra os russos foi desperdiçada.
+[Mission.Objectives]
+Capture a estação de Prokhorovka
+[Mission.Description]
+A Operação Cidadela começou e o 2º Corpo Panzer SS recebeu a tarefa de romper as defesas inimigas construídas ao longo das frentes Kartashovka - Beregovoye - Prokhorovka - Storozhevoye.
+
+Suas ordens:
+-	Rompa as defesas russas em torno da estação de Prokhorovka. 
+
+[Mission.Success]
+Parabéns! Você rompeu a defesa russa!
+[Mission.Failed]
+Você fracassou em capturar a estação de Prokhorovka.
+[StringTable.Tanks_Reserv]
+Tanques da reserva da divisão foram colocados à sua disposição.
+[StringTable.SPG_Reserv]
+Unidades de artilharia autopropulsada foram colocadas à sua disposição.
+[StringTable.Infantry_Reserv]
+Unidades de infantaria da reserva foram colocadas à sua disposição.
+[StringTable.Inf_reserv]
+Unidades de infantaria da reserva foram colocadas à sua disposição.

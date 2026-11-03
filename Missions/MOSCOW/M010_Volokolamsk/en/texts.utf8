@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+Liberate the village from the Nazi-German invaders.
+[Mission.Description]
+The enemy troops are fleeing! In just a few days our counter offensive has reached Volokolamsk. General Headquarters has tasked you to pursue and eliminate any remaining enemy units or strong points in your sector of the front.
+
+Your order is to:
+- Liberate the village from the Nazi-German invaders.
+[Mission.Success]
+You have liberated the village. GHQ’s order has been fulfilled!
+[Mission.Failed]
+You failed to fulfill GHQ’s order!
+[Submission_1.Objectives]
+Liberate the settlement.
+[Submission_1.Description]
+To the northwest there is a settlement, which the Germans have made a key stronghold along the approach to Volokolamsk. This is a strategically important artery and most be secured. 
+
+Your orders are to:
+- Destroy the enemy defenses using all forces available.
+- Liberate the settlement from the invaders.
+[Submission_1.Success]
+GHQ’s orders have been fulfilled!
+[Submission_1.Failed]
+You failed to fulfill orders from GHQ. Your troops were defeated.
+[Submission_2.Objectives]
+Destroy the enemy forces.
+[Submission_2.Description]
+The Germans have switched to an active defense and have begun to send out small probing groups. Our scouts have noticed the advancing enemy.
+
+Your order is to:
+-Destroy the advancing enemy troops.
+[Submission_2.Success]
+The enemy troops were defeated. Your task has been fulfilled!
+[Submission_2.Failed]
+You failed to fulfill your orders! Your troops were defeated.
+[Submission_3.Objectives]
+Repel the enemy counter-attack.
+[Submission_3.Description]
+The settlement has been occupied by our troops but the Germans don’t intend to let us rest just yet. Even now they are preparing to launch a counter-attack from the north.
+
+Your order is to:
+- Repel the enemy counterattack.
+[Submission_3.Success]
+The enemy counter-attack was repelled. Your order has been fulfilled!
+[Submission_3.Failed]
+You failed to fulfill GHQ’s order! You failed to hold on to the positions you had earlier fought so hard to occupy.

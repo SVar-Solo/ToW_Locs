@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+적이 232.8고지를 점령하고 칼리노프카로 돌파하지 못하게 막아라.
+[Mission.Description]
+232.8고지 남동쪽 사면의 방어 구역을 점령하고 확보하라. 적이 칼리노프카로 돌파하지 못하게 막아라. 고지 능선 앞의 진지를 사수하는 데 역량을 집중하라. 제10전차군단 부대가 고지 일대에서 전투에 투입될 수 있도록 반드시 보장하라.
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+아군은 우세한 적의 공격에 밀려 후퇴한다.
+[Submission1.Objectives]
+제10전차군단 부대가 도착할 때까지 진지를 사수하라.
+[Submission1.Success]
+임무 완료, 적의 진격을 저지했다.
+[Submission1.Failed]
+적이 전선을 돌파하여 진격을 밀어붙이고 있다.
+[Submission2.Objectives]
+제10전차군단 부대와 협력하여 적을 반격하라.
+[Submission2.Success]
+반격이 계획대로 진행되고 있으며 적이 후퇴하고 있다.
+[Submission2.Failed]
+반격이 실패했다. 아군이 우세한 적에게 저지되었다.
+[StringTable.Support]
+전차 및 보병 집단이 지휘관의 지휘하에 배속되었다.
+
+[StringTable.Avia_Support]
+Il-2 공습을 사용할 수 있다.
+[StringTable.Art_Support]
+카튜샤 로켓포 포대가 지휘관의 표시에 따라 사격을 개시한다.
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

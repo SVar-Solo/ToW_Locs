@@ -1,0 +1,53 @@
+﻿
+[Submission1.Objectives]
+Zaatakować nieprzyjacielską kolumnę pancerną.
+[Submission1.Description]
+Zaraz po tym, jak nasze wojska przygotowały pozycje obronne wokół wsi, na drodze dostrzeżono niemiecką kolumnę pancerną, zmierzającą w waszym kierunku. Musisz ją odeprzeć. 
+Twoje rozkazy: 
+-	Przegrupować się w pobliżu wsi i zaatakować nieprzyjacielską kolumnę.
+[Submission1.Success]
+Zadanie wykonane!
+[Submission1.Failed]
+Zadanie nie zostało wykonane! Niemiecka kolumna nie została zniszczona!
+[Submission2.Objectives]
+Zaatakować nieprzyjaciół zbliżających się ze skrzydeł.
+[Submission2.Description]
+Zwiad lotniczy informuje, że nieprzyjacielskie wojska znalazły się w pobliżu wsi i zmierzają w twoją stronę. Niemcy są na pewno przygotowani na atak, musimy pokrzyżować ich plany.
+Twoje rozkazy: 
+-	Zaatakować siły nieprzyjaciela, by uniemożliwić okrążenie twoich sił.
+[Submission2.Success]
+Zadanie wykonane! Niemcom nie udało się otoczyć twoich oddziałów!
+[Submission2.Failed]
+Zadanie niewykonane! Twoje siły zostały otoczone.
+[Mission1.Objectives]
+Utrzymać pozycje obronne wokół wsi.
+[Mission1.Description]
+Sztab otrzymuje meldunki, z których wynika, iż nieprzyjaciel planuje nowe natarcie w naszym sektorze.
+Twoje rozkazy:
+-	Utrzymać pozycje obronne wokół wsi.
+[Mission1.Success]
+Zadanie wykonane! Dzięki twoim zdecydowanym działaniom Niemcom nie udało się przełamać naszej obrony na tym odcinku frontu!
+[Mission1.Failed]
+Nie udało ci się. Niemcy zdołali przełamać naszą obronę na tym odcinku frontu!
+[Submission3.Objectives]
+Odeprzeć atak sił niemieckich.
+[Submission3.Description]
+Po ataku na niemiecką kolumnę pancerną do zdobycia miasta wysłano większe siły. Przygotujcie się do odparcia kolejnego ataku.
+Twoje rozkazy: 
+-	Powstrzymać atak faszystów.
+[Submission3.Success]
+Wykonałeś rozkaz dowódcy i obroniłeś wieś!
+[Submission3.Failed]
+Nie wykonałeś zadania - wróg zajął wieś.
+[Submission4.Objectives]
+Zaatakuj nieprzyjacielskie zgrupowanie na naszych tyłach.
+[Submission4.Description]
+Nieprzyjacielska kolumna pancerna znalazła się na tyłach naszych sił, trzeba ją zneutralizować zanim zamknie okrążenie naszych sił. 
+Twoje rozkazy: 
+-	Zaatakuj siły niemieckie na naszych tyłach.
+[Submission4.Success]
+Zadanie wykonane. Niemcy zostali rozbici!
+[Submission4.Failed]
+Nie udało ci się wykonać rozkazów, Niemcy po raz kolejny zwyciężyli.
+[StringTable.Reserv]
+Przybyły posiłki.

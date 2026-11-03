@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Contenha todos os ataques alemães, sem exceção. Cubra a evacuação das tropas aliadas no porto de Cherbourg.
+[Mission.Description]
+Junho de 1941, nos arredores da cidade portuária de Cherbourg, encontra-se um dos últimos batalhões de tropas francesas armadas e devidamente organizadas. Os alemães agora ocupam a França. A máquina de propaganda do Dr. Goebbels trabalha em tempo extra na tentativa de quebrar o espírito da resistência francesa. As últimas forças aliadas precisam de mais tempo para embarcar nos transportes e fugir para as Ilhas Britânicas. Cabe a você, comandante, ganhar esse tempo para eles com o seu próprio sangue, se for preciso.
+
+Suas ordens são:
+-	Contenha e resista a todos os ataques alemães usando quaisquer forças e meios disponíveis. Você deve manter a linha e impedir que os alemães cheguem às áreas de evacuação.
+[Mission.Success]
+Sua missão foi um sucesso!
+[Mission.Failed]
+Você fracassou em sua missão!
+[Submission_1.Objectives]
+Repila os ataques inimigos
+[Submission_1.Description]
+Suas defesas estão situadas em uma colina estratégica. Os alemães forçam passagem rumo ao porto de Cherbourg por vários eixos de avanço diferentes. A chave do seu sucesso hoje estará na correta disposição e no correto arranjo de suas posições defensivas.
+
+Ordem: 
+-	Repila todos os ataques do inimigo. 
+[Submission_1.Success]
+Você repeliu os ataques inimigos!
+[Submission_1.Failed]
+Você perdeu!
+[Submission_2.Objectives]
+Ataque o povoado a oeste da colina.
+[Submission_2.Description]
+A oeste de suas posições há um povoado ocupado pelos alemães. Dada a situação atual, o inimigo não espera nenhuma atividade agressiva de sua parte e redistribui calmamente suas forças, preparando o próximo golpe.  
+
+Ordem: 
+-	Organize um contra-ataque na direção do povoado e elimine completamente todas as unidades alemãs ali localizadas. 
+
+[Submission_2.Success]
+A aldeia está em nossas mãos! Bom trabalho, comandante!
+[Submission_2.Failed]
+Você fracassou em sua missão!
+[Submission_3.Objectives]
+Repila o contra-ataque inimigo.
+[Submission_3.Description]
+O ataque-surpresa funcionou! O inimigo sofreu pesadas perdas em efetivos e equipamento. Além disso, um plano alemão de ataque simultâneo contra suas posições defensivas por dois lados foi arruinado. Mas ainda não é uma vitória total, pois o inimigo prepara, neste exato momento, um contra-ataque.
+
+Ordens:
+-	Repila o contra-ataque alemão
+[Submission_3.Success]
+Você venceu! O contra-ataque inimigo foi detido!
+[Submission_3.Failed]
+Você perdeu! Não conseguiu deter o contra-ataque inimigo.
+[StringTable.reserv]
+Os reforços chegaram

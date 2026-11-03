@@ -1,0 +1,561 @@
+﻿[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Zadaj wrogowi uderzenie wyprzedzające. Nie pozwól przeciwnikowi zdobyć mostu.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Most ma strategiczne znaczenie, ale obecnie broni go tylko niewielki oddział piechoty. Według rozpoznania wróg przygotowuje atak na tę pozycję. Musisz szybko natrzeć i zadać wrogowi uderzenie wyprzedzające.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Misja nieudana! Wróg zdobył most.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Misja nieudana! Wróg zdobył most.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Misja nieudana! Wróg zdobył most.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Most ma strategiczne znaczenie. Musisz natrzeć i zadać wrogowi uderzenie wyprzedzające. Zwróć uwagę na lewą flankę, która jest podatna na przełamanie i może zostać zagrożona przez oddziały piechoty. Musisz utrzymać most za wszelką cenę.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Most ma strategiczne znaczenie. Musisz natrzeć i zadać wrogowi uderzenie wyprzedzające. Zwróć uwagę na lewą flankę, która jest podatna na przełamanie i może zostać zagrożona przez oddziały piechoty. Musisz utrzymać most za wszelką cenę.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Zadaj wrogowi uderzenie wyprzedzające. Nie pozwól przeciwnikowi zdobyć mostu.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Zadaj wrogowi uderzenie wyprzedzające. Nie pozwól przeciwnikowi zdobyć mostu.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Wsparcie artylerii oczekuje rozkazów.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Wsparcie artylerii oczekuje rozkazów.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Rezerwowy oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Rezerwowy oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Wyeliminuj broniących się wrogów i zdobądź zaznaczoną na mapie miejscowość.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Twój oddział bojowy ma za zadanie osłaniać przeprawę naszych sił przez rzekę. Zdobądź most i zniszcz umocnienia wroga w miejscowości, które uniemożliwiają natarcie naszym wojskom.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Twój oddział bojowy ma za zadanie osłaniać przeprawę naszych sił przez rzekę. Zdobądź most i zniszcz umocnienia wroga w miejscowości, które uniemożliwiają natarcie naszym wojskom. Według rozpoznania wróg będzie aktywnie przeprowadzał kontrataki z użyciem mobilnej siły ognia.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Wyeliminuj broniących się wrogów i zdobądź zaznaczoną na mapie miejscowość.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Zadaj wrogowi uderzenie wyprzedzające. Nie pozwól przeciwnikowi zdobyć mostu.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Most ma strategiczne znaczenie, ale obecnie broni go tylko niewielki oddział piechoty. Według rozpoznania wróg przygotowuje atak na tę pozycję. Musisz szybko natrzeć i zadać wrogowi uderzenie wyprzedzające.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Misja nieudana! Wróg zdobył most.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Misja nieudana! Wróg zdobył most.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Misja nieudana! Wróg zdobył most.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Most ma strategiczne znaczenie. Musisz natrzeć i zadać wrogowi uderzenie wyprzedzające. Zwróć uwagę na lewą flankę, która jest podatna na przełamanie i może zostać zagrożona przez oddziały piechoty. Musisz utrzymać most za wszelką cenę.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Most ma strategiczne znaczenie. Musisz natrzeć i zadać wrogowi uderzenie wyprzedzające. Zwróć uwagę na lewą flankę, która jest podatna na przełamanie i może zostać zagrożona przez oddziały piechoty. Musisz utrzymać most za wszelką cenę.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Zadaj wrogowi uderzenie wyprzedzające. Nie pozwól przeciwnikowi zdobyć mostu.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Zadaj wrogowi uderzenie wyprzedzające. Nie pozwól przeciwnikowi zdobyć mostu.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Wsparcie artylerii oczekuje rozkazów.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Wsparcie artylerii oczekuje rozkazów.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Rezerwowy oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Rezerwowy oddział piechoty i pojazdów pancernych jest na Twoje rozkazy.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Wsparcie moździerzy jest na Twoje rozkazy.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Wyeliminuj broniących się wrogów i zdobądź zaznaczoną na mapie miejscowość.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Twój oddział bojowy ma za zadanie osłaniać przeprawę naszych sił przez rzekę. Zdobądź most i zniszcz umocnienia wroga w miejscowości, które uniemożliwiają natarcie naszym wojskom.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Twój oddział bojowy ma za zadanie osłaniać przeprawę naszych sił przez rzekę. Zdobądź most i zniszcz umocnienia wroga w miejscowości, które uniemożliwiają natarcie naszym wojskom. Według rozpoznania wróg będzie aktywnie przeprowadzał kontrataki z użyciem mobilnej siły ognia.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Wyeliminuj broniących się wrogów i zdobądź zaznaczoną na mapie miejscowość.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Wojska własne rozbite.
+
+[Reinforcement.Group_tanks_infantry]
+Rezerwowy oddział piechoty i pojazdów pancernych
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Wyeliminuj broniących się wrogów i zdobądź zaznaczoną na mapie miejscowość.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Wyeliminuj wrogów w zaznaczonej na mapie miejscowości. Zdobądź ją i bądź gotów odeprzeć wszystkie kontrataki wroga.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Zdobądź miejscowość w dolinie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonego na mapie rejonu i natychmiast uderz z marszu na przednią straż wroga, zanim zdąży zorganizować obronę. Zdobądź miejscowość i bądź gotów odeprzeć wszystkie kontrataki.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Zdobądź i utrzymaj miejscowość.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonej na mapie wsi. Zorganizuj tam obronę i utrzymaj ją przez wyznaczony czas, do przybycia głównych sił.
+
+[Reinforcement.Group1[Reinforcement]]
+Piechota i pojazdy pancerne
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonej na mapie wsi. Zorganizuj tam obronę i utrzymaj ją przez wyznaczony czas, do przybycia głównych sił.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonej na mapie wsi. Zorganizuj tam obronę i utrzymaj ją przez wyznaczony czas, do przybycia głównych sił.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Zdobądź i utrzymaj miejscowość.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Zdobądź i utrzymaj miejscowość.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Wyeliminuj broniących się wrogów i zdobądź zaznaczoną na mapie miejscowość.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Wyeliminuj wrogów w zaznaczonej na mapie miejscowości. Zdobądź ją i bądź gotów odeprzeć wszystkie kontrataki wroga.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Zdobądź miejscowość w dolinie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonego na mapie rejonu i natychmiast uderz z marszu na przednią straż wroga, zanim zdąży zorganizować obronę. Zdobądź miejscowość i bądź gotów odeprzeć wszystkie kontrataki.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Zdobądź i utrzymaj miejscowość.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonej na mapie wsi. Zorganizuj tam obronę i utrzymaj ją przez wyznaczony czas, do przybycia głównych sił.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Success]
+Misja wykonana.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Failed]
+Misja nieudana!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Objectives]
+Odpieraj wszystkie ataki wroga.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Description]
+Nie pozwól wrogowi zdobyć miejscowości położonej na skrzyżowaniu dróg. Wykorzystaj lekkie umocnienia w tym rejonie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonej na mapie wsi. Zorganizuj tam obronę i utrzymaj ją przez wyznaczony czas, do przybycia głównych sił.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Description]
+Szybkim marszem dotrzyj do zaznaczonej na mapie wsi. Zorganizuj tam obronę i utrzymaj ją przez wyznaczony czas, do przybycia głównych sił.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Objectives]
+Zdobądź i utrzymaj miejscowość.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Objectives]
+Zdobądź i utrzymaj miejscowość.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Wsparcie artylerii jest dostępne.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Lotnictwo oczekuje rozkazów.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Artyleria jest dostępna.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Lotnictwo jest dostępne.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Wsparcie moździerzy jest dostępne.
+

@@ -1,0 +1,57 @@
+﻿[Submission1.Objectives]
+Attack the enemy armored column.
+[Submission1.Description]
+Hardly had our units set up the defenses around the village when a German armored column was seen moving in your direction along a country road. You must repulse this threat!
+
+Your orders: 
+- 	Consolidate around the settlement and attack the enemy column.
+[Submission1.Success]
+Your order has been carried out!
+[Submission1.Failed]
+Orders failed! The Germans column was not destroyed.
+[Submission2.Objectives]
+Attack the Germans advancing on the flanks.
+[Submission2.Description]
+According to our air recon reports, the enemy has deployed troops not far from the settlement and they are moving in your direction. The Germans are surely poised for an assault so we’ve got to thwart their plans.
+
+The order is: 
+- 	Attack the enemy assault group and prevent it from encircling your troops.
+[Submission2.Success]
+The order has been carried out! The Germans have failed to surround our troops!
+[Submission2.Failed]
+The order has not been executed! Your troops have been encircled.
+[Mission1.Objectives]
+Hold the defenses around the settlement.
+[Mission1.Description]
+HQ has been receiving reports that clearly indicate that the enemy is planning a new advance in our sector.
+
+Your orders:
+- 	Hold the defenses around the settlement.
+[Mission1.Success]
+The order has been carried out! Thanks to your decisive actions the Germans have failed to breach our defenses in the part of the frontline!
+[Mission1.Failed]
+You’ve failed the task. The Germans have managed to break through the defenses in this part of the line!
+[Submission3.Objectives]
+Resist the German attack.
+[Submission3.Description]
+After the German armored column was attacked, they have committed additional forces into taking the town. Prepare for another attack commander.
+
+Your orders: 
+- 	Stop the assault of the fascist troops.
+[Submission3.Success]
+You’ve executed the commander’s order quite well and have defended the settlement!
+[Submission3.Failed]
+The task has been failed - the enemy has occupied the settlement.
+[Submission4.Objectives]
+Attack the enemy group to our rear.
+[Submission4.Description]
+An enemy armored column has arrived in our rear; they must be neutralized before they encircle our position.
+
+Your orders: 
+- 	Attack the enemy unit to our rear..
+[Submission4.Success]
+The order has been executed and the Germans routed!
+[Submission4.Failed]
+You have failed your orders and the Germans have gained another victory.
+[StringTable.Reserv]
+You have been assigned reinforcements

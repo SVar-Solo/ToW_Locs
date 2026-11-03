@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Distruggi la batteria di artiglieria tedesca sull'altura. Respingi tutti gli attacchi del nemico.
+[Mission.Description]
+I tedeschi hanno posizionato una batteria di artiglieria sull'altura in modo da poter proteggere le strade che conducono a Varsavia e impedire che le truppe polacche raggiungano la capitale. Il comando tedesco non si aspetta un attacco sul fianco dell'ottava armata e quindi abbiamo la possibilità di colpirli duramente.
+
+I tuoi ordini sono:
+-	Distruggi la batteria di artiglieria tedesca.
+-	Respingi tutti gli attacchi del nemico.
+[Mission.Success]
+Missione completata!
+[Mission.Failed]
+Hai fallito!
+[Submission_1.Objectives]
+Distruggi la batteria di artiglieria tedesca.
+[Submission_1.Description]
+Una batteria tedesca si trova sull'altura. I colpi di artiglieria impediscono alle nostre truppe di avanzare.
+
+I tuoi ordini sono:
+-	Distruggi la batteria nemica e occupa l'altura.
+[Submission_1.Success]
+Missione completata!
+[Submission_1.Failed]
+Missione fallita!
+[Submission_2.Objectives]
+Sono stati avvistati i carri e la fanteria tedesca. Attacca il nemico!
+[Submission_2.Description]
+Le vedette hanno avvistato i carri armati e la fanteria nemica. Per proseguire l'avanzata è necessario respingere l'attacco tedesco ed eliminare le loro unità.
+
+I tuoi ordini sono:
+-	Ferma questa nuova avanzata nemica, assumi delle postazioni difensive ed elimina il nemico.
+[Submission_2.Success]
+L'attacco è stato respinto.
+[Submission_2.Failed]
+Missione fallita!
+[Submission_3.Objectives]
+Assumi delle posizioni difensive sull'altura e respingi il contrattacco tedesco.
+[Submission_3.Description]
+La batteria di artiglieria tedesca è stata neutralizzata. Ma il nemico non accetta la sconfitta e si sta sicuramente preparando al contrattacco per poter riconquistare le posizioni perdute.
+
+I tuoi ordini sono:
+-	Assumi delle posizioni difensive sull'altura e respingi il contrattacco del nemico.
+[Submission_3.Success]
+Il contrattacco nemico è fallito. Ben fatto!
+[Submission_3.Failed]
+Abbiamo subito ingenti perdite e siamo stati sconfitti.
+[StringTable.reserv]
+Sono arrivati dei rinforzi.

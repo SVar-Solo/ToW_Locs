@@ -1,0 +1,495 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+산악 계곡의 거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+산악 계곡의 거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+귀관의 전투단은 산악 고개에 침투하여 거주지를 점령해야 한다. 이곳은 산악 계곡에 있으며 적이 거점으로 바꿔 놓았다.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+귀관의 전투단은 산악 고개에 침투하여 거주지를 점령해야 한다. 이곳은 산악 계곡에 있으며 적이 거점으로 바꿔 놓았다. 정찰에 따르면 적은 이 진지를 적극적으로 방어할 것이며 반격을 가할 가능성도 있다.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+적의 공격을 막아내라. 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+임무 완수. 적을 제거했다.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+소규모 보병 팀이 산악 계곡의 거주지를 적의 공격 가능성으로부터 방어하고 있다. 귀관의 주력 부대는 적의 공격을 막아내고 적이 진지를 점령하지 못하게 해야 한다.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+적이 거주지를 점령했다.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+적이 거주지를 점령했다.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+거주지는 주 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 점령하기 위해 대규모 병력을 모았다. 귀관의 전투단은 지정된 시간 동안 방어선을 사수해야 한다.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+거주지는 주 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 점령하기 위해 대규모 병력을 모았다. 귀관의 전투단은 어떤 대가를 치르더라도 적의 공격을 막아내야 한다. 적이 진지를 점령하지 못하게 하라.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Artillery_inf_support]
+예비 포병을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+기갑 팀이 귀관 처분에 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+예비 기갑 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+예비 기갑 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+포병 지원이 귀관 처분에 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+포병 지원이 귀관 처분에 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+예비 기갑 팀이 귀관 처분에 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+예비 기갑 팀이 귀관 처분에 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+항공 지원을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+항공 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+박격포를 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+박격포를 사용할 수 있다.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+산악 계곡의 거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+산악 계곡의 거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+귀관의 전투단은 산악 고개에 침투하여 거주지를 점령해야 한다. 이곳은 산악 계곡에 있으며 적이 거점으로 바꿔 놓았다.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+귀관의 전투단은 산악 고개에 침투하여 거주지를 점령해야 한다. 이곳은 산악 계곡에 있으며 적이 거점으로 바꿔 놓았다. 정찰에 따르면 적은 이 진지를 적극적으로 방어할 것이며 반격을 가할 가능성도 있다.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+적의 공격을 막아내라. 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+임무 완수. 적을 제거했다.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+소규모 보병 팀이 산악 계곡의 거주지를 적의 공격 가능성으로부터 방어하고 있다. 귀관의 주력 부대는 적의 공격을 막아내고 적이 진지를 점령하지 못하게 해야 한다.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+적이 거주지를 점령했다.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+적이 거주지를 점령했다.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+거주지는 주 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 점령하기 위해 대규모 병력을 모았다. 귀관의 전투단은 지정된 시간 동안 방어선을 사수해야 한다.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+거주지는 주 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 점령하기 위해 대규모 병력을 모았다. 귀관의 전투단은 어떤 대가를 치르더라도 적의 공격을 막아내야 한다. 적이 진지를 점령하지 못하게 하라.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Artillery_inf_support]
+예비 포병을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+기갑 팀이 귀관 처분에 있다.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_support]
+예비 기갑 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_support]
+예비 기갑 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+포병 지원이 귀관 처분에 있다.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+포병 지원이 귀관 처분에 있다.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+예비 보병 팀이 귀관의 지휘 하에 있다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_support]
+예비 기갑 팀이 귀관 처분에 있다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_support]
+예비 기갑 팀이 귀관 처분에 있다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+포병 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+항공 지원을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+항공 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+박격포를 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+박격포를 사용할 수 있다.
+
+[Reinforcement.Group_Artillery]
+예비 보병-포병 팀
+
+[Reinforcement.Group_tanks]
+전차
+
+[Reinforcement.Group_infantry]
+보병
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+귀관의 전투단은 산악 고개에 침투하여 적이 견고한 방어 거점으로 바꿔 놓은 산악 계곡의 거주지를 점령해야 한다.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+거주지를 점령하라.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+귀관의 선발대는 지도에 표시된 구역으로 급속 행군하여 적 선봉이 도착하기 전에 거주지를 점령해야 한다. 가능한 적을 신속히 제거하고 위치를 확보하라. 그런 다음 적 주력의 공격을 격퇴할 준비를 신속히 갖춰라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+거주지는 주 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 점령하기 위해 대규모 병력을 모았다. 귀관의 전투단은 어떤 대가를 치르더라도 적의 공격을 막아내야 한다. 적이 진지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+거주지는 주 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 점령하기 위해 대규모 병력을 모았다. 귀관의 전투단은 어떤 대가를 치르더라도 적의 공격을 막아내야 한다. 적이 진지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+지정된 시간 동안 거주지를 사수하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+적 선발대는 전술 거주지에 행군 중 즉각 공격을 가할 계획이다. 아군 주력이 도착할 때까지 지정된 시간 동안 거주지를 사수하라.
+
+[Reinforcement.Group1[Reinforcement]]
+장갑차량 및 보병
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+임무 완수.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+임무 실패.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+거주지를 점령하라.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+귀관의 전투단은 산악 고개에 침투하여 적이 견고한 방어 거점으로 바꿔 놓은 산악 계곡의 거주지를 점령해야 한다.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+거주지를 점령하라.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+귀관의 선발대는 지도에 표시된 구역으로 급속 행군하여 적 선봉이 도착하기 전에 거주지를 점령해야 한다. 가능한 적을 신속히 제거하고 위치를 확보하라. 그런 다음 적 주력의 공격을 격퇴할 준비를 신속히 갖춰라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+거주지는 주의 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 장악하기 위해 상당한 병력을 집중시켰다. 귀관의 임무는 어떤 수단을 쓰더라도 적군의 공세를 막아내고 거주지를 점령당하지 않게 하는 것이다.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+적의 모든 공격을 격퇴하고 적이 거주지를 점령하지 못하게 하라.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+거주지는 주의 동쪽과 서쪽을 잇는 주요 수송로 위에 있다. 적은 고개를 장악하기 위해 상당한 병력을 집중시켰다. 귀관의 임무는 어떤 수단을 쓰더라도 적군의 공세를 막아내고 거주지를 점령당하지 않게 하는 것이다.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+지정된 시간 동안 거주지를 사수하라.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+적 선발대는 전술 거주지에 행군 중 즉각 공격을 가할 계획이다. 아군 주력이 도착할 때까지 지정된 시간 동안 거주지를 사수하라.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+포병을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+공군을 사용할 수 있다.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+박격포 지원을 사용할 수 있다.
+

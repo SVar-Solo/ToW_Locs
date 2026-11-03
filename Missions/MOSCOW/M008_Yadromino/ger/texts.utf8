@@ -1,0 +1,22 @@
+﻿[Submission_1.Objectives]
+Zerstören Sie die feindlichen Verteidigungslinien.
+[Submission_1.Description]
+Die Deutschen haben beim Rückzug eine neue Verteidigungslinie in der Gegend um Yadromino aufgestellt. Sie müssen diese Verteidigungslinien zerschlagen um Ihren Vormarsch auf Volokolamsk fortsetzen zu können.
+
+Ihre Befehle lauten:
+- Zerstören Sie die feindlichen Verteidigungslinien.
+[Submission_1.Success]
+Der Befehl wurde ausgeführt! Sie haben die Verteidigungsstellungen des Feindes zerschlagen.
+[Submission_1.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt! Ihre Truppen wurden geschlagen.
+[Submission_2.Objectives]
+Schlagen Sie den feindlichen Angriff zurück.
+[Submission_2.Description]
+Die deutschen Truppen haben eine weitere Gegenoffensive begonnen, um unsere Truppen in dieser Gegend zu vernichten. Es ist äussest wichtig, dass Sie nicht zurückweichen und diesen neuesten Angriff eindämmen.
+
+Ihre Befehle lauten:
+- Schlagen Sie den feindlichen Angriff zurück.
+[Submission_2.Success]
+Aufgabe erfüllt! Sie haben den feindlichen Angriff zurückgeschlagen.
+[Submission_2.Failed]
+Aufgabe gescheitert! Ihre Truppen wurden geschlagen.

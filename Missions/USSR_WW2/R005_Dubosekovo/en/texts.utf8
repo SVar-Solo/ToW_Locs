@@ -1,0 +1,50 @@
+﻿[Submission1.Objectives]
+Beat off the enemy attack from the Northwest.
+[Submission1.Description]
+According to recon reports a group of enemy troops is moving towards Dubosekovo. Located there is another key rail station and you must defend it at any cost. General Panfilov has personally ordered you to endure to the end. 
+
+Your orders:
+- 	Beat off the enemy attack from the Northwest.
+[Submission1.Success]
+The enemy attack has been stopped!
+[Submission1.Failed]
+Enemy troops have broken through the defenses and captured the station.
+[Submission2.Objectives]
+Beat off the enemy attack from the Southwest.
+[Submission2.Description]
+The first attempt from the Germans to break through your defense has failed. Now they are getting ready for another assault – you can already hear the engines of their tanks roaring in the Southwest. Regroup and do not let them outflank you from this direction. No retreat, Moscow is behind us!
+
+Your orders:
+- 	Beat off the enemy attack from the Southwest.
+
+[Submission2.Success]
+Order carried out! The enemy attack has been beaten off and they are retreating!
+[Submission2.Failed]
+Orders failed and your defenses have been breached!
+[Submission0.Objectives]
+Hold and defend the rail station.
+[Submission0.Description]
+Enemy troops are rapidly advancing on the rail junction of Dubosekovo. High Command has determined that the rail station is critical and has ordered you to defend it at all costs.
+
+Your orders are:
+- 	Hold and defend the area indicated.
+- 	German troops must not capture the station.
+[Submission0.Success]
+Orders carried out! The German assault has been repulsed!
+[Submission0.Failed]
+Orders failed! The German troops captured the Dubosekovo station.
+[Submission3.Objectives]
+Beat off enemy attack on the station.
+[Submission3.Description]
+The Germans are continuing their push to the station. The situation in other parts of the front is no better – we are outnumbered and the situation is desperate. We must keep the enemy from taking the capital of our Motherland.
+
+Your orders:
+ - 	Beat off the German attack on the station.
+[Submission3.Success]
+Order carried out! Enemy attack beaten off!
+[Submission3.Failed]
+The enemy has broken through your defense and captured the station!
+[StringTable.Reserv]
+Reinforcements have arrived.
+[StringTable.Subtitle_01]
+Station Dubosekovo. 1941

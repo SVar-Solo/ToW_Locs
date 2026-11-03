@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+페나강 동안의 방어선을 사수하라. 적이 서안에 교두보를 만들지 못하게 막아라.
+[Mission.Description]
+제200전차여단의 전차와 협력하여 베르호페니예 마을 서부의 거점을 확보하라. 방어 구역으로 철수하는 부대를 모아 보충하고 해당 구역에 배치한다. 점령한 진지를 지키면서 반격으로 진격하는 적 집단을 격파하라.
+[Mission.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Mission.Failed]
+적이 페나강을 건넜고 아군이 후퇴한다.
+[Submission1.Objectives]
+적의 모든 공격을 격퇴하라. 적이 페나강의 다리로 돌파하지 못하게 막아라.
+[Submission1.Success]
+임무 완료, 적의 공격을 격퇴했다.
+[Submission1.Failed]
+우세한 적 병력이 계속 진격하고 있다.
+[Submission2.Objectives]
+적이 도하 지점 인근 진지로 돌파했다. 서안에 교두보를 구축할 위험이 있다. 즉시 적을 반격하여 강에서 몰아내라.
+[Submission2.Success]
+반격이 순조롭게 진행되고 있으며 적이 물러나고 있다.
+[Submission2.Failed]
+반격이 저지되었다. 적이 교두보를 구축할 위험이 있다.
+[StringTable.Platzdarm]
+증원을 받기 전에 진격하는 적 집단을 격파하라.
+[StringTable.Air!]
+공습이다! 모두 엄폐하라!
+
+[StringTable.Tanks]
+제203독립중전차연대의 전차
+
+[StringTable.avia_report]
+항공 지원을 사용할 수 있다.
+[StringTable.art_report]
+포병 지원 대기 중.
+[StringTable.jetmortar_report]
+로켓포 포대 사격 준비 완료.

@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+지휘관, 섬의 마을을 점령하고 적 방어선을 파괴하라. 적 방어가 견고하므로 단계적으로 진행해 주공 방향을 노출하지 마라.
+[Mission.Description]
+지휘관, 귀관의 주요 목표는 섬에 위치한 마을을 점령하고 그곳에 구축된 적 방어선을 파괴하는 것이다. 적 방어가 견고하므로 가용 병력을 한꺼번에 투입하지 않고 단계적으로 진행할 계획이다. 그러지 않으면 주공 방향이 적에게 틀림없이 노출될 것이다.
+[Mission.Success]
+축하한다, 지휘관! 목표를 달성했다!
+[Mission.Failed]
+지휘관, 살아남은 병력을 지금 즉시 후퇴시켜라. 적 방어선을 돌파할 수 없다! 그리고 윈스턴 경과 여왕 폐하께 보고할 변명거리를 잘 궁리해 두는 게 좋을 것이다!
+[Submission_1.Objectives]
+북쪽 거주지의 적을 소탕하라. 이곳은 섬 마을로 가는 통로를 막고 있다. 장갑차 중대만 있으며 발렌타인 전차는 아직 행군 중이다. 보병, 야포, 대전차포가 배속된다.
+[Submission_1.Description]
+지휘관, 첫 번째 목표는 섬 마을로 가는 통로를 가로막고 있는 북쪽 거주지의 적을 소탕하는 것이다. 유감스럽게도 느린 발렌타인 전차들은 아직 행군 중이며, 귀관에게는 장갑차 중대뿐이다. 그러나 정보 보고에 따르면 목표를 달성하기에는 충분할 것이다. 만일의 경우를 대비해 보병 분대와 야포, 대전차포가 배속되어 있다.
+[Submission_1.Success]
+1단계 완료! 뒤처졌던 발렌타인 전차들이 보병의 지원을 받으며 귀관의 부대에 합류한다.
+[Submission_1.Failed]
+임무 실패!
+[Submission_2.Objectives]
+남동쪽(3번 지점)의 적 야포 및 대공포 진지를 제압해 아군 박격포와 항공기의 사격을 확보하라. 이후 증원을 받는다.
+[Submission_2.Description]
+조종사들이 적 야포 및 대공포 진지를 보고했다. 야포 진지는 전장 남동쪽(3번 지점)에 있어 아군 박격포의 사격을 막고 있다. 대공포 때문에 아군 항공기도 공격할 수 없다. 이들을 제압하면 증원을 받을 것이다.
+[Submission_2.Success]
+적 포대를 제압했다. 이제 아군 박격포가 사격할 수 있다!
+[Submission_2.Failed]
+임무 실패!
+[Submission_3.Objectives]
+남쪽 거주지를 점령하라. 방어가 더 강력하지만 도착하는 발렌타인 전차가 도움이 될 것이다. 필요하면 도하 지점에 연막을 쳐라.
+[Submission_3.Description]
+다음 계획은 남쪽 거주지를 점령하는 것이다. 그곳의 방어는 북쪽보다 훨씬 강력하지만, 곧 도착할 발렌타인 전차의 지원이 있으면 점령할 수 있을 것이다. 지휘관, 도하 지점이 적 사격에 노출될 수 있으니 도하 지점에 연막을 치는 것이 도움이 될 수도 있다. 다만 판단은 귀관에게 달렸다.
+[Submission_3.Success]
+남쪽 거주지를 점령했다! 서쪽 통로는 모두 아군 손에 들어왔으며, 귀관에게 증원 병력이 주어진다.
+[Submission_3.Failed]
+임무 실패!
+[Submission_4.Objectives]
+적 후방(5번 지점)으로 신속히 돌파해 보병 최소 3명을 투입하라. 적을 포위하거나 기만하고, 증원 부대에 대한 공습 좌표를 지정하라. 시간이 없다!
+[Submission_4.Description]
+지휘관, 이제 서둘러야 한다! 적 후방 지역(5번 지점)으로 신속히 돌파하면 두 가지 목적을 동시에 달성할 수 있다. 적을 포위하거나 최소한 포위당했다고 믿게 만드는 것, 그리고 행군 중인 적 증원 부대에 대한 공습 좌표를 지정하는 것이다. 이를 위해 이 지역에 보병이 최소 3명은 있어야 한다. 시간이 없다!
+[Submission_4.Success]
+지휘관, 아군 항공기가 귀관이 제공한 좌표를 이용해 방어군을 증원하러 오던 적 호송대를 성공적으로 폭격했다. 적은 포위당했다고 믿고 전방위 방어에 들어갔다. 이제 남은 일은 적을 격멸하는 것뿐이다!
+[Submission_4.Failed]
+적 호송대가 수비대에 도달하는 데 성공했다. 지휘관, 부대를 재편성하고 반격을 격퇴한 뒤 수비대를 완전히 섬멸하라!
+[StringTable.LateValentine]
+길을 잃었던 발렌타인 전차 1대가 구원하러 질주해 오고 있다. 무전으로 아군의 어려운 상황을 들은 것이다!
+[StringTable.FlakCrippled]
+적 대공 방어가 무력화되었다. 이제 아군 항공기가 투입될 수 있다!
+[StringTable.NorthernVillageCleared]
+지휘관, 축하한다! 북쪽 거주지에서 적을 소탕했다. 계속 밀어붙여라!
+[StringTable.SouthernVillageCleared]
+지휘관, 순조롭게 진격하고 있다. 독일놈들이 남쪽 거주지에서 쫓겨났다. 더 몰아붙여라!
+[StringTable.LastReserve]
+지휘관, 아군 전차 부대가 심각한 손실을 입었다. 마지막 남은 예비대를 보내겠다. 무모한 결정은 내리지 마라!
+[StringTable.SubtitleIntro1]
+지프 무전기에서 윈스턴 스펜서 처칠 총리의 목소리가 흘러나온다.
+[StringTable.SubtitleIntro2]
+...폐하와 전 연합왕국은 우리의...
+[StringTable.SubtitleIntro3]
+튀니지의 병사들이 의무를 다하리라 기대하고 있다!
+[StringTable.SubtitleIntro4]
+장교(낮은 목소리로): 모두 한 몸이 되어, 처음부터 끝까지...
+[StringTable.SubtitleIntro5]
+장교(부하들에게 큰 소리로): 제군들, 내가 덧붙일 말은 이것뿐이다.
+[StringTable.SubtitleIntro6]
+목표의 중요성 때문에 몽고메리 장군께서 직접 지휘를 맡으신다!
+[StringTable.SubtitleIntro7]
+이제 전투 위치로!
+[StringTable.SubtitleIntro8]
+병사들: 예, 알겠습니다!
+[StringTable.SubtitleWin1]
+병사들끼리: ...그러니까 너, 나, 젠킨스, 파커,
+[StringTable.SubtitleWin2]
+그리고 부상당한 나이틀리, 우리 소대에서 남은 건 그게 다야...
+[StringTable.SubtitleWin3]
+생존자는 그뿐이지. 아, 그리고 2소대의 프리먼과 그의 발렌타인도 있군. 운 좋은 녀석...
+[StringTable.SubtitleWin4]
+전차병 프리먼: 이봐들, 조니가... (어떤 병사) 전사했어!
+[StringTable.SubtitleWin5]
+아, 불쌍한 모드! 그 친구, 틈만 나면 그녀에게 편지를 쓰곤 했는데...
+[StringTable.SubtitleWin6]
+그러니 프리먼, 자네가 그녀에게 그가 무엇을 위해 죽었는지 써 보내야겠군!
+[StringTable.SubtitleWin7]
+프리먼: 그들의 어린 해리와 앤이 결코...
+[StringTable.SubtitleWin8]
+이 끔찍한 악몽들을 보지 않도록 하려고!
+[StringTable.SubtitleFail1]
+독일 병사들: 노련한 전문가라면 알 테지...
+[StringTable.SubtitleFail2]
+마틸다도, 발렌타인도 말이야. 마지막 놈은 내가 어떻게 머리를 맞혔더라, 응?
+[StringTable.SubtitleFail3]
+좋았어! 토미 놈들은 얼간이야, 다음엔 놈들을 몰아낼 거다...
+[StringTable.SubtitleFail4]
+꼬리를 말고 알제리까지 도망치게 해 주지!

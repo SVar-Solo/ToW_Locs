@@ -1,0 +1,43 @@
+﻿[Mission1.Objectives]
+Zniszczyć wojska nieprzyjaciela we wskazanym rejonie.
+[Mission1.Description]
+Nasze jednostki znajdują się w rejonie jeziora Seliger. Dowództwo planuje przełamanie radzieckiej obrony i wdarcie się w głąb frontu, by pokrzyżować plany radzieckiej ofensywy. Według raportów wywiadu, wróg używa w tym rejonie swoich nowych, zabójczych czołgów T-34.
+Twoje rozkazy:
+-	Rozpocząć natarcie na tym odcinku frontu.
+-	Wyeliminować nieprzyjacielskie oddziały, broniące się w pobliskiej wsi.
+[Mission1.Success]
+Dobra robota. Wróg został całkowicie rozbity. Jeśli nam się poszczęści, będziemy mogli raz na zawsze wyprzeć 3. i 4. armię rosyjską z pozycji obronnych! 
+[Mission1.Failed]
+Wróg odparł wszystkie ataki. Co za hańba dla oficera Rzeszy! Rozkazy dowództwa nie zostały wykonane.
+[Submission1.Objectives]
+Ostrzelać artylerią pozycje nieprzyjaciela.
+[Submission1.Description]
+Zanim rozpoczniesz natarcie, ostrzelaj artylerią nieprzyjacielskie pozycje obronne.
+Twoje rozkazy:
+-	Ostrzelać artylerią pozycje obronne nieprzyjaciela.
+[Submission1.Success]
+Ostrzał powiódł się. Siły radzieckie zostały poważnie osłabione!
+[Submission1.Failed]
+Ostrzał artyleryjski był nieskuteczny.
+[Submission2.Objectives]
+Zaatakuj batalion radzieckich pojazdów śnieżnych. 
+[Submission2.Description]
+Zwiad lotniczy informuje, że nieprzyjacielskie pojazdy śnieżne zbliżają się z flanki do naszych jednostek. Aby uniknąć okrążenia, musisz natychmiast zaatakować batalion radzieckich pojazdów śnieżnych.
+Twoje rozkazy: 
+-	Zaatakować nieprzyjaciela próbującego okrążyć jednostki naszej armii.
+[Submission2.Success]
+Jednostki pojazdów śnieżnych zostały zlikwidowane!
+[Submission2.Failed]
+Twoje siły zostały pokonane. Cóż za porażka!
+[Submission3.Objectives]
+Zaatakować nacierające siły nieprzyjaciela.
+[Submission3.Description]
+Oddziały radzieckie rozpoczęły ofensywę na dużą skalę, uderzając pomiędzy grupę Armii Północ i Środek.
+Twoje rozkazy: 
+-	Zaatakować nacierające siły nieprzyjaciela.
+[Submission3.Success]
+Nacierający nieprzyjaciel został pokonany. Z pewnością zostaniesz odznaczony!
+[Submission3.Failed]
+Twoje wojska zostały pokonane! Zadanie niewykonane!
+[StringTable.Reserv]
+Przybyły posiłki.

@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+체른 철도역을 점령하라.
+[Mission1.Description]
+제3전차사단의 일부 병력으로 체른 방면 공세를 개시한다. 이 전선 구역에서 러시아군은 상당히 강력한 방어 진지를 구축했다. 체른 역은 방어전에 특히 유리한 지점이므로 승리를 확보하려면 능숙하고 신속하게 진행해야 한다.
+
+명령: 
+- 	적 병력을 격멸하고 체른 철도역을 점령하라.
+[Mission1.Success]
+명령을 완수했고 역은 이제 우리 손에 들어왔다! 그러나 러시아군이 매우 격렬하게 저항했기에 모스크바를 향한 진격이 예상보다 어려울 것 같다.
+[Mission1.Failed]
+러시아군이 방어에서 너무나 완강하여 귀관의 부대가 완전히 궤멸했다! 이 참사의 책임은 오롯이 귀관에게 있다. 
+[Submission_01.Objectives]
+적 진지를 포격하라.
+[Submission_01.Description]
+공세를 개시하기 전에 적 진지를 포격하라. 
+[Submission_01.Success]
+명령을 완수했고 포격은 성공적이었다!
+[Submission_01.Failed]
+귀관의 포병 탄막은 적 진지를 무너뜨리지 못했다. 
+[Submission2_1.Objectives]
+적 병력을 우측면에서 공격하라.
+[Submission2_1.Description]
+러시아군 방어선의 우측면을 돌파했다! 적은 철도역에 예비대를 투입하여 아군의 공세를 저지하려 하고 있다. 반격을 준비 중일 수 있으니 대비하라.  
+
+명령:  
+- 	적 병력을 우측면에서 공격하라.
+[Submission2_1.Success]
+명령을 완수했고 공격은 성공적이었다! 
+[Submission2_1.Failed]
+명령 실패. 러시아군이 귀관의 공격을 격퇴했다! 
+[Submission1_1.Objectives]
+체른 역의 적 병력을 공격하라. 
+[Submission1_1.Description]
+러시아군 방어선이 무너졌다! 적은 철도역에 예비대를 투입하여 아군의 공세를 저지하려 하고 있다. 반격을 준비 중일 수 있으니 대비하라.  
+
+명령: 
+-	 체른 역의 적을 공격하라.
+[Submission1_1.Success]
+명령을 완수했다. 역은 우리 손에 들어왔다!
+[Submission1_1.Failed]
+명령 실패, 역을 점령하지 못했다!
+[StringTable.Reserv]
+지원을 위한 증원 부대가 도착했다.
+[StringTable.Reserv1]
+예비대가 이동 중이다.

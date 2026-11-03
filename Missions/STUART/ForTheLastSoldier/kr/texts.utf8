@@ -1,0 +1,107 @@
+﻿[StringTable.Strongpoint1lost]
+거점 1을 잃었다!
+[StringTable.Strongpoint2lost]
+거점 2를 잃었다!
+[StringTable.Strongpoint3lost]
+거점 3을 잃었다!
+[StringTable.Strongpoint4lost]
+거점 4를 잃었다!
+[StringTable.Strongpoint5lost]
+거점 5를 잃었다!
+[StringTable.Strongpoint6lost]
+거점 6을 잃었다!
+[StringTable.StrongpointsLost]
+거점 5곳을 잃었다!
+[StringTable.StuartTankLost]
+앨런 미첼의 스튜어트가 손상되어 적의 공격을 격퇴할 수 없다!
+[StringTable.StuartCrewLost]
+스튜어트 승무원이 전사했다. 그들의 지원 없이는 거점들이 버티지 못한다!
+[StringTable.IntroSubtitle1]
+휘슬러 대위: 좋아, 마을은 전부 확보했다. 이제 독일 놈들을 기다리면 된다.
+[StringTable.IntroSubtitle2]
+파커 중위: 대위님, 놈들이 우리를 하나씩 각개격파하면 어쩝니까?
+[StringTable.IntroSubtitle3]
+휘슬러: 헛소리, 파커. 그러려면 전차가 필요한데 놈들한텐 몇 대 없고...
+[StringTable.IntroSubtitle4]
+...그나마 여기엔 없다. 저건 뭐지? 궤도 소리가 들리는데! 젠장!
+[StringTable.IntroSubtitle4a]
+수류탄 준비! 본때를 보여 주자!
+[StringTable.IntroSubtitle5]
+파커: 먼지 때문에 안 보입니다! 스튜어트입니다! 독일군이 우리를 속이는 거면 어쩝니까?
+[StringTable.IntroSubtitle6]
+휘슬러: 파커, 이 겁쟁이 같으니! 저 전차 승무원의 주의를 끌어!
+[StringTable.IntroSubtitle6a]
+파커(혼잣말): 대위님, 신께서 분명 용기는 넘치게 주셨지만...
+[StringTable.IntroSubtitle6b]
+...전쟁이라는 일의 기본적인 이해는 그만큼 빼앗아 가셨군요!
+[StringTable.IntroSubtitle7]
+휘슬러: 봐라, 파커, 독일군이 아니잖아. 이봐들, 자네들 전차가 있으면...
+[StringTable.IntroSubtitle8]
+우리끼리도 독일 놈들 엉덩이를 걷어찰 수 있어. 우리끼리서도...
+[StringTable.IntroSubtitle9]
+...놈들은 어차피 아군에게 닿지도 못한다. 위치로!
+[StringTable.IntroSubtitle10]
+파커, 미첼과 병사들: 알겠습니다!
+[StringTable.WinSubtitle1]
+파커 중위: 고마워, 친구!
+[StringTable.WinSubtitle2]
+전쟁 끝나면 프리스코의 플라잉 보틀에 한잔하러 가자고, 어때?
+[StringTable.WinSubtitle3]
+앨런 미첼: 캘리포니아 출신이십니까? 제 고향에서는 꽤 멀지만 꼭 들르겠습니다...
+[StringTable.WinSubtitle4]
+앨런 미첼: 휘슬러 대위님은 어디 계십니까?
+[StringTable.WinSubtitle5]
+파커: 전사했어. 독일군이 돌아 들어올 때 안뜰로 뛰쳐나갔다가...
+[StringTable.WinSubtitle6]
+...지근거리에서 연사를 맞았지. 아주 용감한 사람이었지만...
+[StringTable.WinSubtitle7]
+...언젠가는 그렇게 끝날 사람이었어.
+[StringTable.WinSubtitle8]
+전차 무전병의 목소리: 아군이 오고 있다!
+[StringTable.FailSubtitle1]
+다니엘 노비츠키 중위: 자, 영웅들!...
+[StringTable.FailSubtitle2]
+솔직히 말해서 내가 너희 입장이라면 싸우는 쪽을 택했을 거다...
+[StringTable.FailSubtitle3]
+하지만 특별한 재주가 있어야지...
+[StringTable.FailSubtitle4]
+이렇게 멍청하게 일을 꾸미려면 말이다. 너희 지휘관을 찾으면,.. [StringTable.FailSubtitle5]
+살아 있으면 술을 한잔 사 주고, 죽었으면 무덤에 꽃을 가져다 놓겠다.
+[StringTable.FailSubtitle6]
+그리고 모든 것에 헌정 문구를 새겨 주지.
+[StringTable.FailSubtitle7]
+"비길 데 없는 용기와 어리석음에 바침!"
+[MainTask.Objectives]
+요새화된 거점을 최소 두 곳 사수하라
+[MainTask.Success]
+워터스 중령의 무전: 귀관들의 능숙한 방어 조직과 적 예비대 요격 덕분에 적 선봉 부대를 격파하고 증원 부대를 보낼 수 있었다. 잘했다, 제군들!
+[MainTask.Failed]
+워터스 중령의 사령부 보고에서: 적이 요새화된 거점을 장악했고 적 예비대가 선봉 부대를 증원했다. 부여된 임무는 완수되지 못했다...
+[MainTask.Description]
+워터스 중령의 무전: 요새화된 거점망과 스튜어트 경전차를 활용해 도착하는 적 예비대를 요격하고 파괴하라. 요새화된 거점 중 최소 두 곳을 사수하라. 귀관의 전차가 휘슬러 대위의 예상보다 훨씬 많은 적군을 끌어들일 것임을 명심하라. 전차가 손상되면 독일군은 고립된 아군 집단을 틀림없이 격파할 것이다.
+[StringTable.EnemyIsDefeated]
+중령님, 독일 놈들이 후퇴하고 있습니다! 우리가 너무 강해서 못 당하나 봅니다!
+[StringTable.SecondWaveDefeated]
+중령님! 독일 놈들의 2차 공격을 격퇴했습니다!
+[StringTable.FirstWaveDefeated]
+이런 개새끼들, 우리 전차가 있을 줄은 몰랐지? 중령님, 놈들이 튀고 있습니다!
+[StringTable.SecondWaveIncoming]
+중령님! 놈들이 다시 진격하고 있습니다! 이번에는 두 방향에서 공격해 옵니다!
+[StringTable.SecondWave1Defeated]
+중령님! 남서쪽 공격을 격퇴했습니다! 전차를 잃고 보병도 우리 스튜어트가 오는 걸 보자 달아났습니다!
+[StringTable.SecondWave2Defeated]
+중령님! 남동쪽의 적이 아군 전차의 몇 차례 연사를 받고 후퇴하고 있습니다!
+[StringTable.ThirdWave1Defeated]
+중령님! 전차가 파괴되자 적 보병 부대가 달아났습니다!
+[StringTable.ThirdWave2Defeated]
+중령님! 전차를 잃은 적 보병 부대가 우리 스튜어트가 보이자 후퇴했습니다!
+[StringTable.ThirdWave3Defeated]
+중령님! 적 장갑차와 보병 집단이 공격을 중단했습니다!
+[StringTable.ThirdWaveIncoming]
+중령님! 적이 훨씬 강력한 병력을 투입했습니다. 세 방향에서 공격을 받고 있습니다!
+[StringTable.FirstStrongpointLost]
+워터스 중령의 무전: 우리가 잃은 요새화된 거점은 지금 되찾을 수 없으나, 귀관의 스튜어트라면 그곳에 침투한 적 보병을 몰아낼 수 있다! 상황에 맞게 행동하여 점령당한 요새화된 거점에서 적을 몰아내라!
+[StringTable.MitchellIsKilled]
+앨런 미첼이 전사했다!
+[StringTable.ReturnInTank]
+임무를 완수하려면 하차한 전차 승무원들을 다시 전차에 태워라.

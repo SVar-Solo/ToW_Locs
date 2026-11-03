@@ -1,0 +1,12 @@
+﻿[Submission1.Objectives]
+Detenga el avance de las tropas alemanas.
+[Submission1.Description]
+Una fuerza enemiga superior en número está avanzando por la ciudad de Istra. El flanco derecho del 16º. ejército se está replegando bajo una presión casi aplastante. Debe ayudar a detener la ofensiva alemana. 
+
+Sus órdenes son:
+- Detenga cualquier avance de las tropas alemanas.
+- Impida que las tropas alemanas atraviesen nuestras defensas.
+[Submission1.Success]
+¡Se han cumplido las órdenes del Estado Mayor! Ha detenido el avance de las tropas alemanas.
+[Submission1.Failed]
+¡Ha incumplido sus órdenes! El enemigo ha abierto una brecha en nuestras defensas y se dirige a la ciudad de Istra.

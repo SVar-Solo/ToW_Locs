@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+守住指定地区内的防御阵地。
+[Mission1.Description]
+形势非常严峻，几乎没有获救的希望。我们的许多战友已在战斗中倒下，毫无疑问还会有更多人注定要把鲜血洒在诺曼底的土地上。根据情报，德军正快速向村庄推进，以扫清通往卡昂的沿途抵抗。我们的东西两翼仅有轻微防护，因此德军从这两个方向突破的可能性很高。   
+
+命令：
+-	坚守村庄防御
+[Mission1.Success]
+命令已完成！你的士兵守住了阵地，至少暂时将卡昂从德军手中保住了。
+[Mission1.Failed]
+命令未完成！德军突破了你的阵地，冲进了卡昂。  
+[Submission1.Objectives]
+击退来自西北方向的敌军进攻。
+[Submission1.Description]
+德军正向村庄推进，意图扫清所有残余抵抗。击退这次进攻，阻止德军进入卡昂，至关重要。
+
+命令：
+-	击退来自西北方向的敌军进攻。
+[Submission1.Success]
+你成功击退了德军的进攻！
+[Submission1.Failed]
+敌人突破了防御！
+[Submission2.Objectives]
+击退来自北方的敌军进攻。
+[Submission2.Description]
+德军正向村庄推进，意图扫清所有残余抵抗。击退这次进攻，阻止德军进入卡昂，至关重要。
+
+命令：
+-	击退来自北方的敌军进攻。
+[Submission2.Success]
+敌人的进攻已被击退！
+[Submission2.Failed]
+敌人粉碎了你的防御！
+[Submission3_1.Objectives]
+进攻敌军部队群。
+[Submission3_1.Description]
+我们西翼的友军已经崩溃，德军现正再次从该方向向村庄推进。继续抵抗敌军的推进，挫败这次新的进攻！
+
+命令：
+-	进攻从西面推进的敌军。
+[Submission3_1.Success]
+命令已完成，敌人正在溃逃。你扭转了局势！
+[Submission3_1.Failed]
+命令未完成，你的部队遭到了失败。
+[Submission4.Objectives]
+进攻从东面推进的敌军部队。
+[Submission4.Description]
+我们东翼的友军现已被击溃，德军正向卡昂进发。你必须阻止他们！
+
+命令：
+-	进攻从东面推进的敌军。
+[Submission4.Success]
+命令已完成！
+[Submission4.Failed]
+命令未完成！
+[Submission5.Objectives]
+击退敌军的攻势。
+[Submission5.Description]
+根据空中侦察，又有一支敌军特遣队正向卡昂推进。集结所有可用兵力击退敌军的推进至关重要。你是阻止德军的最后希望！
+
+你的命令是：
+- 击退德军向卡昂的推进。
+[Submission5.Success]
+命令已完成！敌人的进攻已被击退！
+[Submission5.Failed]
+敌人突破了！你的部队被消灭了！
+[StringTable.Reserv]
+增援已到达，将支援你作战。
+[Submission4_1.Objectives]
+进攻敌军。
+[Submission4_1.Description]
+我们东翼的友军已被击溃，德军正向卡昂进发。你必须阻止他们！
+
+命令：
+-	进攻从东面推进的敌军。
+[Submission4_1.Success]
+敌人的进攻已被击退，敌人正在溃逃！
+[Submission4_1.Failed]
+你未能阻止敌人的进攻，你的部队已被消灭！
+[Submission3.Objectives]
+进攻敌军部队群。
+[Submission3.Description]
+我们最西面的阵地已经失守，德军现正再次向村庄快速推进。你必须在他们突破并夺取卡昂之前立即发起进攻。
+
+你的命令是：
+- 	进攻从西面推进的敌军。
+[Submission3.Success]
+命令已完成，敌人已被击败！
+[Submission3.Failed]
+命令未完成，你的部队被击败了。

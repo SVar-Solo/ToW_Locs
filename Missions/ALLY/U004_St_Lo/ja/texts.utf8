@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+敵主陣地の北東にある町を解放せよ。
+[Mission.Description]
+ドイツ軍はサン＝ロー付近に防御陣地を構築し、強化した。航空偵察のデータによれば、敵は第7軍の主力をこの地域に集中させている。地形は待ち伏せや小規模な防御拠点の構築に適しているため、慎重に前進しなければならない。
+
+命令： 
+- 	戦車と歩兵による威力偵察を実施せよ。
+- 	北東に位置する町を解放せよ。 
+[Mission.Success]
+任務は達成された！コブラ作戦は続行する。
+[Mission.Failed]
+任務は失敗した。 
+[Submission_1.Objectives]
+サン＝ロー郊外の2つの村へ威力偵察を実施せよ。 
+[Submission_1.Description]
+敵は主防御兵力を町近くの丘に集中させている。我が軍の攻勢進路上には2つの村がある。そこでの敵の存在については情報がない。 
+
+命令：
+- 	2つの村に対して威力偵察を実施せよ。 
+[Submission_1.Success]
+威力偵察は完了した。敵は撃破された。 
+[Submission_1.Failed]
+任務は失敗した。
+[Submission_2.Objectives]
+丘の主要防御陣地を攻撃せよ。 
+[Submission_2.Description]
+敵は周囲の丘を利用して、町への接近路に沿って防衛線を構築している。 
+
+命令：
+-	丘の敵防御陣地を破壊せよ。
+[Submission_2.Success]
+任務は達成された。 
+[Submission_2.Failed]
+任務は失敗した。
+[Submission_3.Objectives]
+サン＝ローの町を占領せよ。 
+[Submission_3.Description]
+サン＝ローは戦略的に極めて重要な町である。フランス内陸への今後の進撃の鍵となる。 
+ 
+命令：
+-	町を守る敵守備隊を撃滅し、サン＝ローを解放せよ。
+[Submission_3.Success]
+待ち伏せ部隊は撃破された！ 
+[Submission_3.Failed]
+任務は失敗した。
+[Submission_4.Objectives]
+敵砲兵中隊を破壊せよ。
+[Submission_4.Description]
+ドイツ軍は砲兵を巧みに配置している。敵砲兵中隊のいる丘から、町へのあらゆる接近路を射撃で掃射できる。 
+
+命令：
+- 	丘の敵砲兵中隊を破壊せよ。 
+[Submission_4.Success]
+砲兵中隊は破壊された。 
+[Submission_4.Failed]
+任務は失敗した。
+[StringTable.Reserv]
+増援が到着した。

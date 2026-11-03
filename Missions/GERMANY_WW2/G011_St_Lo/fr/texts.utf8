@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Organiser la défense à la périphérie de Saint-Lô. Vous devriez pouvoir monter une embuscade alors que l’ennemi s’approche de la ville.
+[Submission_1.Description]
+Organiser la défense à la périphérie de Saint-Lô. Vous disposez d’un groupe de Fallschirmjaegers d’élite à disposition. Utilisez-les avec habilité.
+
+Vos ordres : 
+- 	Tendre une embuscade aux unités américaines en approche.
+[Submission_1.Success]
+L’unité de reconnaissance américaine a été détruite.
+[Submission_1.Failed]
+L’embuscade a échoué !
+[Submission_2.Objectives]
+Repousser l’attaque ennemie avec toutes les forces disponibles.
+[Submission_2.Description]
+Les forces américaines tentent de prendre pied en Normandie et Saint-Lô est une ville stratégique. Il est vital de les empêcher de prendre cette ville.
+
+Vos ordres : 
+-	Repousser l’attaque ennemie par tous les moyens.
+[Submission_2.Success]
+C’est un succès ! Vous avez contrecarré l’attaque ennemie !
+[Submission_2.Failed]
+Vous avez perdu, commandant. Les Américains poursuivent leur avance et nos plans pour les rejeter à la mer… sont tombés à l’eau !
+[Submission_3.Objectives]
+Tenir cette position à tout prix.
+[Submission_3.Description]
+Les Américains sont endurants et entêtés, mais il faut absolument les empêcher de prendre Saint-Lô. Vous êtes le seul à pouvoir les arrêter !
+
+Vos ordres : 
+- 	Tenir votre position et stopper l’avance américaine.
+[Submission_3.Success]
+Vous avez tenu. Nous devons continuer à bloquer les Américains à la moindre occasion.
+[Submission_3.Failed]
+Vous avez perdu. Nous ne pouvons pas nous permettre ce genre de défaite, commandant.
+[Mission.Objectives]
+Tenir les positions sur les collines dominant Saint-Lô. 
+[Mission.Description]
+La ville de Saint-Lô présente une importance stratégique aussi bien pour les Allemands que pour les Américains. Perdre cette ville voudrait dire d’abandonner tout espoir de rejeter les Américains à la mer. Deux collines se trouvent à la lisière de la ville, elles devraient fournir une position défensive exceptionnelle pour faire face aux Américains qui approchent. Il faut défendre la ville commandant, le sort de l’Allemagne en dépend.
+
+Vos ordres :
+- 	Déployer des hommes sur la colline et autour de la ferme et stopper les Américains à tout prix !
+[Mission.Success]
+Le peuple allemand n’oubliera pas votre glorieuse victoire ici.
+[Mission.Failed]
+A cause de votre échec, les forces américaines peuvent foncer pour occuper Saint-Lô, nos chances de victoire en sont grandement diminuées.
+[StringTable.tank_reserv]
+Des chars et de l’artillerie ont été placés sous votre commandement. 
+[StringTable.reserv]
+Des chars et de l’infanterie supplémentaires ont été placés sous votre commandement.

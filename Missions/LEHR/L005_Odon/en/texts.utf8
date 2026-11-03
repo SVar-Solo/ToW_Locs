@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Hold your defensive positions in the village.
+[Submission1.Description]
+Overwhelming enemy forces are advancing upon the positions of the 1st Battalion, 901st Panzergrenadier. With the aid of a detachment from the 12th SS Hitlerjugend Division, hold this area!
+
+Your orders:
+- In cooperation with the tanks from the 12th SS, hold your defenses around the village.
+[Submission1.Success]
+Well done Commander! The enemy hasn’t broken your fighting spirit!
+[Submission1.Failed]
+Mission failed! Your forces are defeated.
+[Submission2.Objectives]
+Repulse the enemy attacks.
+[Submission2.Description]
+We have just received reports that the enemy has redirected their attack and are now approaching from the North. Prepare your troops for this new onslaught commander.
+ 
+Your orders:
+- Repulse this new enemy attack.
+[Submission2.Success]
+Well done Commander! The enemy couldn’t break your defenses.
+[Submission2.Failed]
+Mission failed!
+[StringTable.Change]
+You have received additional armored units from the Division reserves.

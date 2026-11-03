@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Hold down the enemy assault.
+[Mission.Description]
+Units of the 50th Northumbrian Division are advancing against the defenses of the 2nd Battalion, 901st Panzergrenadier Regiment. Although outnumbered once more, you have at your disposal a mixed group of infantry, armor and self-propelled artillery units which should prevail against the ensuing attack.
+ 
+Your orders:
+- Hold your positions around the village.
+[Mission.Success]
+Well done Commander! 
+[Mission.Failed]
+Mission failed! Your forces are retreating.
+[Submission_1.Objectives]
+Repulse all enemy attacks.
+[Submission_1.Description]
+The British have overall superiority in men and machines but due to terrain are forced to attack from only your front or left flank. Use this strategic knowledge to position your troops accordingly and establish a proper defense.
+ 
+ 
+Your orders are:
+- Repulse all enemy attacks. 
+[Submission_1.Success]
+Well done Commander! The enemy forces are eliminated.
+[Submission_1.Failed]
+Mission failed! Your army is defeated.

@@ -1,0 +1,52 @@
+﻿[Mission1.Objectives]
+Zniszczyć nieprzyjacielskie jednostki pancerne.
+[Mission1.Description]
+Nasi zwiadowcy wykryli kolumnę niemieckich Tygrysów. Zniszczenie tych ciężkich czołgów, zanim dotrą do celu, to teraz twój priorytet.
+Twoje rozkazy: 
+-	Przenieść czołgi we wskazany rejon i zniszczyć kolumnę Tygrysów Królewskich.
+[Mission1.Success]
+Niemieckie czołgi uległy przeważającej sile naszych.
+[Mission1.Failed]
+Mimo całego otrzymanego wsparcia nie udało ci się zatrzymać nieprzyjacielskiej kolumny.
+[Mission2.Objectives]
+Zniszczyć nieprzyjaciela we wsi.
+[Mission2.Description]
+Po sforsowaniu Wisły jednostki radzieckie przekonały się, że Niemcy zorganizowali silną obronę na zachodnim brzegu. Wieś przed tobą jest okupowana przez faszystów. Raporty zwiadu informują, że znajdują się tam jednostki piechoty i czołgi. 
+Twoje rozkazy:
+-	Zniszczyć grupę wojsk nieprzyjaciela w pobliżu wsi.
+[Mission2.Success]
+Wróg został zniszczony, a wieś wyzwolona! Twoje jednostki mogą się tam zreorganizować, by wzmocnić przyczółek sandomierski.
+[Mission2.Failed]
+Twoje wojska zostały całkowicie zniszczone. Dzięki temu zwycięstwu wróg złapał wiatr w żagle i teraz może odeprzeć nasze siły za Wisłę!
+[Submission1.Objectives]
+Zdobyć Królewskie Tygrysy.
+[Submission1.Description]
+We wsi zauważono kilka Królewskich Tygrysów. Nie widać członków ich załóg. To świetne trofeum -nasi inżynierowie chętnie je obejrzą. 
+Twoje rozkazy: 
+-	Zdobyć Królewskie Tygrysy.
+[Submission1.Success]
+Czołgi zostały zdobyte -świetna robota!
+[Submission1.Failed]
+Mimo wysiłków nie udało ci się zdobyć czołgów!
+[Mission3.Objectives]
+Odeprzeć atak sił niemieckich.
+[Mission3.Description]
+Niemcy rozpoczęli duży kontratak, mający na celu odzyskanie Sandomierza i zniszczenie naszego przyczółka. 
+Twoje rozkazy: 
+-	Za wszelką cenę odeprzeć nieprzyjacielski.
+[Mission3.Success]
+Atak nieprzyjaciela został odparty. Utrzymaliśmy przyczółek!
+[Mission3.Failed]
+Mimo zaciętego oporu twoich żołnierzy, wróg zwyciężył w tej bitwie!
+[Submission2_1.Objectives]
+Zniszczyć siły nieprzyjaciela.
+[Submission2_1.Description]
+Leżąca na twoim odcinku frontu wieś zajęły wojska niemieckie. Niedawne raporty zwiadu wskazują, że znajduje się tam wiele jednostek piechoty oraz kilka czołgów. Według jednego z meldunków, we wsi pojawiły się Tygrysy. Wróg okopał się pod miastem.
+Twoje rozkazy: 
+-	Zniszczyć wojska nieprzyjaciela we wsi.
+[Submission2_1.Success]
+Nieprzyjacielskie wojska zostały całkowicie zniszczone!
+[Submission2_1.Failed]
+Twoje wojska zostały zniszczone -wróg wciąż jest we wsi!
+[StringTable.Reserv]
+Przybyły posiłki.

@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+ウファリーズ周辺の敵部隊をすべて撃破せよ。
+[Mission.Description]
+「ラインの守り」作戦が始まった。我が先遣部隊は敵の急所に深く食い込んだが、バストーニュの町の付近で頑強な抵抗に遭っている。
+
+命令： 
+- 	前方の町を奪取せよ
+- 	高地に塹壕を構える敵を撃破せよ 
+[Mission.Success]
+町を奪取した！
+[Mission.Failed]
+貴官は敗北した！ 攻撃はすべて撃退された。
+[Submission_1.Objectives]
+町近くの高地に橋頭堡を築け。敵部隊と砲兵をすべて撃破せよ。 
+[Submission_1.Description]
+町近くの高地の橋頭堡は、米軍防御の要衝である。歩兵、砲兵、対戦車砲がこの橋頭堡を守っている。
+
+命令： 
+- 	遭遇する敵部隊をすべて撃破し、橋頭堡を占領せよ。
+[Submission_1.Success]
+橋頭堡は我が手にある！
+[Submission_1.Failed]
+勝利は失われた。米軍に敗れた！
+[Submission_2.Objectives]
+敵の反撃を撃退し、町を占領せよ。
+[Submission_2.Description]
+橋頭堡を最初に失った後、アメリカ軍は予備を投入し、反撃している。 
+
+命令：
+- 	橋頭堡を保持し、敵に反撃して町を占領せよ。 
+[Submission_2.Success]
+貴官は持ちこたえた！
+[Submission_2.Failed]
+貴官はこの戦いに敗れた！
+
+[StringTable.reserv]
+増援が到着した。

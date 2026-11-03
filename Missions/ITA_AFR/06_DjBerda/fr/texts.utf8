@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Ne laissez pas l’ennemi percer
+[Submission_1.Description]
+Empêchez l’ennemi de percer vos fortifications défensives.
+[Submission_01.Success]
+Mission accomplie.
+[Submission_01.Failed]
+Mission échouée.
+[Mission.Objectives]
+Repoussez les attaques ennemies
+[Mission.Description]
+L’ennemi tente de percer vos défenses et de s’emparer d’une route de montagne stratégique. Empêchez les Américains de détruire vos points fortifiés défensifs et d’utiliser la route pour se frayer un chemin vers vos arrières.
+[NewSubmission.Success]
+Mission accomplie.
+[NewSubmission.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Empêchez la manœuvre
+[Submission_2.Description]
+Ne laissez pas l’ennemi contourner vos positions défensives le long de la route.
+[Submission_3.Objectives]
+Tenez la ligne
+[Submission_3.Description]
+Il semble que l’ennemi va attaquer d’une minute à l’autre. Préparez-vous à vous défendre.
+[Submission_4.Objectives]
+Contenez l’ennemi coûte que coûte
+[Submission_4.Description]
+Vous avez désormais la charge de toute la ligne de défense de ce secteur. Contenez l’ennemi coûte que coûte. Attendez l’arrivée du groupe mobile Centauro, qui vous aidera à repousser l’attaque.
+[Submission_4.Success]
+Mission accomplie.
+[Submission_4.Failed]
+Mission échouée.
+[Submission_3.Success]
+Mission accomplie.
+[Submission_3.Failed]
+Mission échouée.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.

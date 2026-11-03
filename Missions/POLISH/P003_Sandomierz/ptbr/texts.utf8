@@ -1,0 +1,35 @@
+﻿[StringTable.Reserv]
+Reforços chegaram para apoiá-lo.
+[Mission1.Objectives]
+Mantenha suas posições defensivas na área indicada.
+[Mission1.Description]
+O 3º Exército alemão faz uma rápida investida pelo leste da Polônia. Seu objetivo é ultrapassar e flanquear nossas forças no norte. O Alto Comando polonês decidiu concentrar o maior número possível de forças nas regiões sudeste do país. As forças alemãs devem ser impedidas de romper nossas linhas de frente. 
+
+Suas ordens são as seguintes:
+-	Mantenha e defenda suas posições na área indicada.
+[Mission1.Success]
+Ordem cumprida! O avanço das tropas inimigas foi detido!
+[Mission1.Failed]
+Suas tropas foram derrotadas! O inimigo destruiu nossas defesas e retomou o avanço!
+[Submission1.Objectives]
+Ataque as novas forças inimigas que avançam pelo sul.
+[Submission1.Description]
+Batedores informam que um pequeno grupo de tropas alemãs se desloca do sul em direção a Sandomierz. O inimigo provavelmente tentará forçar uma ruptura neste setor e depois tentará cruzar o rio e avançar sobre Sandomierz.
+
+Suas ordens:
+-	Ataque as forças inimigas que avançam pelo sul.
+[Submission1.Success]
+Ordem concluída! As tropas inimigas foram atacadas e repelidas!
+[Submission1.Failed]
+Você fracassou em suas ordens! As tropas inimigas causaram sérios danos às nossas tropas.
+[Submission2.Objectives]
+Ataque as tropas inimigas que agora avançam pelo oeste.
+[Submission2.Description]
+As tropas alemãs estão trazendo forças para um golpe neste setor. Batedores informaram que uma grande força inimiga se aproxima pelo oeste, rumo a Sandomierz.
+
+Sua ordem é:
+-	Ataque as forças inimigas que avançam pelo oeste.
+[Submission2.Success]
+Ordem cumprida! O ataque alemão vindo do oeste foi repelido
+[Submission2.Failed]
+Ordem fracassada! As tropas alemãs aproveitaram a situação e causaram sérios danos ao nosso exército.

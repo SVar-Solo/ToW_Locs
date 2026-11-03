@@ -1,0 +1,113 @@
+﻿[Mission.Objectives]
+Commander, seize the village on the island and smash its defences. We’ll proceed step by step, committing forces gradually so as not to reveal our main blow.
+[Mission.Description]
+Right then, Commander. Your primary objective is to seize that village on the island and smash the enemy defences they’ve built up there. Given the strength of their position, we intend to do this step by step — not committing all our forces at once, or we’d tip our hand and show Jerry exactly where the main blow is coming. Understood?
+[Mission.Success]
+Splendid work, Commander! The objective is accomplished. Jolly good show!
+[Mission.Failed]
+Commander, pull your surviving troops back at once — we can’t breach the enemy defences! And you’d better think of a proper excuse for your failure that you’ll deliver to Sir Winston and Her Majesty!
+[Submission_1.Objectives]
+Commander, clear the enemy from the northern settlement covering the passage to the island village. Use the armoured car squadron, with infantry, field and anti-tank guns attached; the Valentines are still on the march.
+[Submission_1.Description]
+Commander, your first task is to clear the enemy out of the northern settlement that covers the passage to the village on the island. Unfortunately, the slow Valentines are still on the march, I’m afraid, and all you’ve got is that armoured car squadron. However, according to the intelligence chaps, that should be enough to do the job. You’ll have an infantry squad attached, plus field and anti-tank guns, just in case things get sticky.
+[Submission_1.Success]
+The first stage is completed! The straggling Valentines with infantry support are joining your forces. Carry on!
+[Submission_1.Failed]
+The mission has failed! Damn poor show.
+[Submission_2.Objectives]
+Commander, neutralise the enemy field and anti-aircraft batteries in the south-east (point 3) so our mortars and aircraft can come into play. Reinforcements will follow.
+[Submission_2.Description]
+Commander, the pilots report enemy field and anti-aircraft batteries. The field batteries are located in the south-eastern part of the battlefield (point 3) and will not let our mortars open fire. Our aircraft can’t attack because of the anti-aircraft guns. Neutralise them and you’ll have your reinforcements. Righto?
+[Submission_2.Success]
+The enemy battery has been neutralised. Now our mortars can open fire! Good work.
+[Submission_2.Failed]
+The mission has failed! That’s a bad business.
+[Submission_3.Objectives]
+Commander, capture the southern settlement. Its defences are stronger than in the north, but the coming Valentines should help; consider a smoke screen on the ford, though the call is yours.
+[Submission_3.Description]
+Our next plan is to capture the southern settlement. The defences there are far stronger than in the north, but with the help of the coming Valentines you should be able to take it. Commander, the fording sites may be exposed to enemy fire, so a smoke screen on the ford might prove helpful. However, it’s up to you — your call entirely.
+[Submission_3.Success]
+The southern settlement has been captured! All western passages are ours, and you have some reinforcements at your disposal. Splendid.
+[Submission_3.Failed]
+The mission has failed! Not good enough, I’m afraid.
+[Submission_4.Objectives]
+Commander, push a rapid breakthrough to the enemy rear (point 5) with at least three infantrymen. Surround or deceive the enemy and set coordinates for an air strike on their marching reinforcements. Time is against us.
+[Submission_4.Description]
+Commander, now we’ve got to hustle! Performing a rapid breakthrough to the enemy rear area (point 5), we can achieve two goals at once: surround the enemy — or at least make him believe so — and set coordinates for an air strike on the marching enemy reinforcements. We must have at least three of our infantrymen in this area to achieve this objective. Time is against us! Get a move on!
+[Submission_4.Success]
+Commander, our aviation has used the coordinates you provided and has successfully bombed the enemy convoy arriving to reinforce the defending forces. The enemy is adopting an all-round defence, believing he is surrounded. All we have to do now is destroy them! Jolly good.
+[Submission_4.Failed]
+The enemy convoy managed to reach the garrison. Commander, regroup your forces, repel the counterattack and destroy the garrison completely! No time to lose.
+[StringTable.LateValentine]
+A single Valentine that got lost on its way is racing to the rescue — they heard about our tough situation on the radio! Damned good luck, what?
+
+[StringTable.FlakCrippled]
+The enemy anti-air defence is crippled — our aviation may come into play now! About time.
+
+[StringTable.NorthernVillageCleared]
+Commander, my congratulations! The northern settlement has been cleared of the enemy. Keep pushing on!
+
+[StringTable.SouthernVillageCleared]
+Commander, you are advancing steadily. The Jerries have been dislodged from the southern settlement. Drive them further!
+
+[StringTable.LastReserve]
+Commander, our tank forces have suffered severe losses. I’m sending our last operational reserve. Don’t take any adventurous decisions — that’s an order!
+
+[StringTable.SubtitleIntro1]
+The voice of Prime Minister Winston Spencer Churchill is coming out of a jeep radio:
+
+[StringTable.SubtitleIntro2]
+... His Majesty and the whole United Kingdom are expecting our...
+
+[StringTable.SubtitleIntro3]
+soldiers in Tunisia to do their duty!
+
+[StringTable.SubtitleIntro4]
+Officer (in a low voice): All as one, from alpha to omega...
+
+[StringTable.SubtitleIntro5]
+Officer (loudly, to his subordinates): Men, all I can add is that
+
+[StringTable.SubtitleIntro6]
+due to the importance of the objective, Montgomery himself will take the command!
+
+[StringTable.SubtitleIntro7]
+And now to your battle stations!
+
+[StringTable.SubtitleIntro8]
+Soldiers: Yes, Sir!
+
+[StringTable.SubtitleWin1]
+Soldiers among themselves: ...right then, it’s you, me, Jenkins and Parker
+
+[StringTable.SubtitleWin2]
+who are alive. Knightly is wounded — that’s all that’s left of our platoon...
+
+[StringTable.SubtitleWin3]
+the only survivors. Yeah, and Freeman with his Val from the second. Lucky bloke...
+
+[StringTable.SubtitleWin4]
+Tank crewman Freeman: Lads, Johny... (some soldier) Dead!
+
+[StringTable.SubtitleWin5]
+Oh, his poor Maude! He used to write her letters every time he got a chance...
+
+[StringTable.SubtitleWin6]
+So, Freeman, you’re going to write to her about what he died for!
+
+[StringTable.SubtitleWin7]
+Freeman: For their little Harry and Ann never to...
+
+[StringTable.SubtitleWin8]
+see all these horrible nightmares!
+
+[StringTable.SubtitleFail1]
+German soldiers: Du kennst als Fachmann mit Routine ...
+[StringTable.SubtitleFail2]
+Matilda noch und Valentine. How did I get the last one in the head, huh?
+
+[StringTable.SubtitleFail3]
+Guter Kerl! Tommies are suckers, next time we are going to drive them back...
+
+[StringTable.SubtitleFail4]
+with their tails between their legs up till the very Algeria!

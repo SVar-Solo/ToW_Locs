@@ -1,0 +1,24 @@
+﻿[mission.Objectives]
+북쪽의 다리까지 돌파하여 가용 병력 전원으로 다리를 건너라.
+[mission.Description]
+프랑스 전역에서 격전이 벌어지고 있다. 독일군이 파리에 접근하고 있다. 아라스 전투 이후 아군 집단은 포위되었다. 상황은 절망적이고 살아남을 가망이 없지만, 우리는 끝까지 싸울 것이다.
+[mission.Success]
+임무 완수, 아군이 다리에 도달했다.
+[mission.Failed]
+귀관의 분대가 괴멸되었다.
+[Submission_1.Objectives]
+적 병력을 정찰하라.
+[Submission_1.Description]
+적 병력을 정찰하라.
+[Submission_1.Success]
+임무 완수.
+[Submission_1.Failed]
+임무 실패.
+[Submission_2.Objectives]
+적의 대규모 집단을 피하며 최대한 빨리 다리에 도달해야 한다.
+[Submission_2.Description]
+아군을 포위한 적은 얇게 퍼져 있어, 적 보병이 압박해 오기 전에 아군에 도달할 기회가 아직 있다. 적의 대규모 집단을 피하며 가능한 한 신속히 다리까지 돌파해야 한다.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Failed]
+임무 실패.

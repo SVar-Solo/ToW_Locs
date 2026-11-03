@@ -1,0 +1,561 @@
+﻿[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Lancez une frappe préventive contre l'ennemi qui attaque. Ne laissez pas les hostiles capturer le pont.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Le pont est d'une importance stratégique, mais il n'est pour l'instant défendu que par une petite équipe d'infanterie. Selon la reconnaissance, l'ennemi prépare une attaque sur la position. Vous devez avancer rapidement et lancer une frappe préventive contre l'ennemi qui attaque.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission échouée. L'ennemi a capturé le pont.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Mission échouée. L'ennemi a capturé le pont.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Mission échouée. L'ennemi a capturé le pont.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Le pont est d'une importance stratégique. Vous devez avancer et lancer une frappe préventive contre l'ennemi qui attaque. Surveillez le flanc gauche, vulnérable et susceptible d'être percé par des équipes d'infanterie. Vous devez tenir le pont coûte que coûte.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Le pont est d'une importance stratégique. Vous devez avancer et lancer une frappe préventive contre l'ennemi qui attaque. Surveillez le flanc gauche, vulnérable et susceptible d'être percé par des équipes d'infanterie. Vous devez tenir le pont coûte que coûte.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Lancez une frappe préventive contre l'ennemi qui attaque. Ne laissez pas les hostiles capturer le pont.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Lancez une frappe préventive contre l'ennemi qui attaque. Ne laissez pas les hostiles capturer le pont.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+L'appui d'artillerie attend vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+L'appui d'artillerie attend vos ordres.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Éliminez les hostiles qui défendent et capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Votre équipe de combat doit escorter nos forces à travers la rivière. Capturez le pont et détruisez les défenses ennemies dans la localité, qui empêchent nos troupes d'avancer.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Votre équipe de combat doit escorter nos forces à travers la rivière. Capturez le pont et détruisez les défenses ennemies dans la localité, qui empêchent nos troupes d'avancer. Selon la reconnaissance, l'ennemi contre-attaquera activement avec une puissance de feu mobile.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Éliminez les hostiles qui défendent et capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Troupes amies vaincues.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Lancez une frappe préventive contre l'ennemi qui attaque. Ne laissez pas les hostiles capturer le pont.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Le pont est d'une importance stratégique, mais il n'est pour l'instant défendu que par une petite équipe d'infanterie. Selon la reconnaissance, l'ennemi prépare une attaque sur la position. Vous devez avancer rapidement et lancer une frappe préventive contre l'ennemi qui attaque.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission échouée. L'ennemi a capturé le pont.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission échouée. L'ennemi a capturé le pont.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission échouée. L'ennemi a capturé le pont.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Le pont est d'une importance stratégique. Vous devez avancer et lancer une frappe préventive contre l'ennemi qui attaque. Surveillez le flanc gauche, vulnérable et susceptible d'être percé par des équipes d'infanterie. Vous devez tenir le pont coûte que coûte.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Le pont est d'une importance stratégique. Vous devez avancer et lancer une frappe préventive contre l'ennemi qui attaque. Surveillez le flanc gauche, vulnérable et susceptible d'être percé par des équipes d'infanterie. Vous devez tenir le pont coûte que coûte.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Lancez une frappe préventive contre l'ennemi qui attaque. Ne laissez pas les hostiles capturer le pont.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Lancez une frappe préventive contre l'ennemi qui attaque. Ne laissez pas les hostiles capturer le pont.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+L'appui d'artillerie attend vos ordres.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+L'appui d'artillerie attend vos ordres.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+Une équipe de réserve d'infanterie et de blindés est sous vos ordres.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Un appui de mortiers est sous vos ordres.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Éliminez les hostiles qui défendent et capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Votre équipe de combat doit escorter nos forces à travers la rivière. Capturez le pont et détruisez les défenses ennemies dans la localité, qui empêchent nos troupes d'avancer.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Votre équipe de combat doit escorter nos forces à travers la rivière. Capturez le pont et détruisez les défenses ennemies dans la localité, qui empêchent nos troupes d'avancer. Selon la reconnaissance, l'ennemi contre-attaquera activement avec une puissance de feu mobile.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Éliminez les hostiles qui défendent et capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Troupes amies vaincues.
+
+[Reinforcement.Group_tanks_infantry]
+Équipe de réserve d'infanterie et de blindés
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Éliminez les hostiles qui défendent et capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Éliminez les hostiles dans la localité indiquée sur la carte. Capturez la localité et soyez prêt à repousser toutes les contre-attaques ennemies.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capturez la localité de la vallée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Marchez à vive allure jusqu'à la zone indiquée sur la carte et lancez immédiatement une attaque dans la foulée contre l'avant-garde ennemie, avant qu'elle n'ait le temps d'établir ses défenses. Capturez la localité et soyez prêt à repousser toutes les contre-attaques.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Capturez et tenez la localité.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Marchez à vive allure jusqu'au village indiqué sur la carte. Établissez-y vos défenses et tenez-le pendant la durée fixée, jusqu'à l'arrivée du gros de nos forces.
+
+[Reinforcement.Group1[Reinforcement]]
+Infanterie et blindés
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Marchez à vive allure jusqu'au village indiqué sur la carte. Établissez-y vos défenses et tenez-le pendant la durée fixée, jusqu'à l'arrivée du gros de nos forces.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Marchez à vive allure jusqu'au village indiqué sur la carte. Établissez-y vos défenses et tenez-le pendant la durée fixée, jusqu'à l'arrivée du gros de nos forces.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Capturez et tenez la localité.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Capturez et tenez la localité.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Éliminez les hostiles qui défendent et capturez la localité indiquée sur la carte.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Éliminez les hostiles dans la localité indiquée sur la carte. Capturez la localité et soyez prêt à repousser toutes les contre-attaques ennemies.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Capturez la localité de la vallée.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Marchez à vive allure jusqu'à la zone indiquée sur la carte et lancez immédiatement une attaque dans la foulée contre l'avant-garde ennemie, avant qu'elle n'ait le temps d'établir ses défenses. Capturez la localité et soyez prêt à repousser toutes les contre-attaques.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Capturez et tenez la localité.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Marchez à vive allure jusqu'au village indiqué sur la carte. Établissez-y vos défenses et tenez-le pendant la durée fixée, jusqu'à l'arrivée du gros de nos forces.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Success]
+Mission accomplie.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Failed]
+Mission échouée.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Objectives]
+Repoussez toutes les attaques ennemies.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus2.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus3.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus2.Mission.Description]
+Ne laissez pas l'ennemi capturer la localité située au carrefour routier. Utilisez les fortifications légères de la zone.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Description]
+Marchez à vive allure jusqu'au village indiqué sur la carte. Établissez-y vos défenses et tenez-le pendant la durée fixée, jusqu'à l'arrivée du gros de nos forces.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Description]
+Marchez à vive allure jusqu'au village indiqué sur la carte. Établissez-y vos défenses et tenez-le pendant la durée fixée, jusqu'à l'arrivée du gros de nos forces.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus2.Mission.Objectives]
+Capturez et tenez la localité.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus3.Mission.Objectives]
+Capturez et tenez la localité.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Un appui d'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+L'aviation attend vos ordres.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+L'artillerie est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+L'aviation est disponible.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+Un appui de mortiers est disponible.
+

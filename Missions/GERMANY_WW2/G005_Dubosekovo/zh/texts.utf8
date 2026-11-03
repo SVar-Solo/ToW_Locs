@@ -1,0 +1,48 @@
+﻿[Mission1.Objectives]
+夺取杜博谢科沃火车站。
+[Mission1.Description]
+据我们的空中侦察，俄军在杜博谢科沃火车站一带的阵地上构筑了良好的工事。迄今为止，俄军的防守远比预期出色，我军的伤亡也超出预期。即便如此，德军最高统帅部仍需要你夺取这个具有战略意义的地点。
+
+命令：
+- 	向杜博谢科沃车站发起攻势
+- 	消灭在指定区域内占据防御阵地的俄军。
+[Mission1.Success]
+火车站已被夺取。待我们修复铁轨后，就能从后方运送补给和弹药了！
+[Mission1.Failed]
+你的进攻失败了！你未能夺取火车站！
+[Mission2.Objectives]
+守住杜博谢科沃车站，抵御俄军的反击。
+[Mission2.Description]
+一支俄军突击群正在接近我们新占领的阵地。我们决不能丢掉这座火车站，务必不惜一切代价守住它。
+
+命令：
+-	 击退俄军的所有进攻。
+-	 阻止俄军夺取车站。
+[Mission2.Success]
+敌军的进攻已被击退。干得好！
+[Mission2.Failed]
+你失败了，俄军已重新夺回火车站。
+[Submission1.Objectives]
+炮击敌军阵地。
+[Submission1.Description]
+在对敌军火车站发起攻势之前，先炮击敌军防御阵地。
+
+命令：
+- 	炮击敌军阵地。
+[Submission1.Success]
+炮击大获成功。我们毫不怀疑，俄军一见到我们的第一批坦克就会逃跑！
+[Submission1.Failed]
+你的炮兵毫无成效！
+[Submission2.Objectives]
+呼叫近距空中支援。
+[Submission2.Description]
+为协助摧毁敌军炮兵和步兵部队，你应请求近距空中支援。
+
+命令：
+- 	呼叫可用的空中支援。
+[Submission2.Success]
+我军飞机已攻击了敌军阵地。
+[Submission2.Failed]
+我军空中力量未能提供有效支援。
+[StringTable.Reserv]
+增援部队已抵达支援你。

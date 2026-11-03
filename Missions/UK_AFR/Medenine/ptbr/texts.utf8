@@ -1,0 +1,64 @@
+﻿[Mission.Objectives]
+Repila todos os ataques inimigos.
+[Mission.Description]
+Repila todos os ataques inimigos e defenda as alturas.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission1.Objectives]
+Mantenha a Altura 1
+[Submission1.Description]
+A Altura 1 é tática e muito importante. Ela oferece ampla visão de grande parte da linha de frente, bem como de toda a nossa retaguarda. Se o inimigo ocupar a Altura 1, poderá ajustar o fogo de artilharia e bombardear com precisão nossas posições na retaguarda. Mantenha-a a todo custo.
+[Submission1.Success]
+Os ataques inimigos foram repelidos, com pesadas baixas infligidas!
+[Submission1.Failed]
+O inimigo capturou a Altura 1!
+[Submission2.Objectives]
+Retome a Altura 1 do inimigo.
+[Submission2.Description]
+A infantaria inimiga capturou a Altura 1. A ordem é desalojar o inimigo da Altura 1 com a ajuda das reservas.
+[Submission2.Success]
+A Altura 1 foi retomada.
+[Submission2.Failed]
+O ataque fracassou. Agora o inimigo pode bombardear nossas posições com precisão!
+[Submission3.Objectives]
+Ataque os sapadores alemães.
+[Submission3.Description]
+Protegidos por tanques inimigos, sapadores inimigos tentam abrir caminhos para tanques em nosso campo minado. Nossa infantaria deve atacar os sapadores alemães e impedir que terminem o trabalho. Nossa artilharia o cobrirá com uma cortina de fumaça.
+[Submission3.Success]
+O inimigo parou a remoção de minas e está se retirando. Missão cumprida.
+[Submission3.Failed]
+Missão fracassada! Os sapadores inimigos tiveram tempo de abrir alguns caminhos para seus tanques. Agora precisamos nos preparar para repelir um ataque de tanques!
+[Submission4.Objectives]
+Mantenha a linha de modo ativo, usando fogo de baterias e forças aéreas.
+[Submission4.Description]
+Mantenha a Altura 4 e as principais linhas de defesa. De posições de tiro cobertas, cause o máximo de dano possível ao inimigo antes que ele alcance nossas principais linhas de defesa.
+[Submission4.Success]
+O inimigo sofreu pesadas baixas e está recuando. Missão cumprida!
+[Submission4.Failed]
+Tanques inimigos romperam nossas defesas e alcançaram o posto de comando!  
+[StringTable.Message1]
+O inimigo está recuando. Provavelmente para se reagrupar e atacar de novo.
+[StringTable.Message2]
+O inimigo está bombardeando a altura, provavelmente preparando um novo ataque. A encosta posterior não é varrida pelo fogo e a infantaria pode esperar lá até que o bombardeio termine.
+[StringTable.Reinf1]
+Os reforços chegaram.
+[StringTable.mess1]
+Os alemães parecem ter ajustado o fogo e estão atirando para matar.
+[StringTable.mess2]
+O inimigo parece ter começado a ajustar o fogo sobre nossas posições. É vital retomar a Altura 1 o mais rápido possível!
+[StringTable.mess4]
+Os campos minados estão marcados no mapa. Infelizmente, há apenas minas antitanque, que não deterão a infantaria. Além disso, os campos minados precisam ser protegidos contra a remoção.
+[StringTable.mess5]
+A infantaria inimiga tomou a altura. Se tiver um observador de artilharia, logo teremos problemas.
+[StringTable.mess6]
+Os reforços chegaram.
+[StringTable.mess7]
+Atenção! Tanques inimigos no flanco esquerdo!
+[StringTable.mess8]
+Contato com a bateria estabelecido. A artilharia está pronta para atirar sob demanda!
+[StringTable.mess9]
+Aeronaves estão se aproximando do seu setor, prontas para agir sob sua demanda!
+[StringTable.mess3]
+Bombardeio encerrado. Voltem às suas posições.

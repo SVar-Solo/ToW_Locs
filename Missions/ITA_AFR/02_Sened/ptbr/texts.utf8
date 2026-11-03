@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Assuma a defesa
+[Submission_1.Description]
+Apoie as unidades que guardam a estação ferroviária e o povoado; depois assuma a defesa.
+[Submission_01.Success]
+Todas as tropas estão agora sob o seu comando.
+[Submission_01.Failed]
+Missão fracassada.
+[Mission.Objectives]
+Detenha o inimigo
+[Mission.Description]
+Mantenha o controle do povoado e da estação. Se a estação for capturada, contra-ataque o inimigo e a retome. Perder o povoado significa que o inimigo rompeu e a missão fracassou.
+[NewSubmission.Success]
+A estação é nossa mais uma vez!
+[NewSubmission.Failed]
+Missão fracassada.
+[Mission.Success]
+Missão concluída, todos os ataques foram repelidos.
+[Mission.Failed]
+Missão fracassada.
+[Submission_1.Success]
+Todas as unidades estão agora sob o seu comando.
+[Submission_1.Failed]
+Sua recusa em comandar a defesa lhe custará caro!
+[Submission_2.Objectives]
+Contra-ataque
+[Submission_2.Description]
+O inimigo capturou a estação! Contra-ataque e a retome.
+[Submission_2.Success]
+Missão cumprida, a estação é nossa mais uma vez.
+[Submission_2.Failed]
+Missão fracassada.

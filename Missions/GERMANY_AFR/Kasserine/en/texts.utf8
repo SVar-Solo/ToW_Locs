@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Break through the defenses
+[Mission.Description]
+Major Gerhard, your combat group is to advance to Le Kef via Thala. The road to Thala goes through the Kasserine pass, where according to our intelligence, U.S. forces are defending. Break through the enemy defences at the pass and continue the advance.
+[Mission.Success]
+Enemy defences have been destroyed.
+[Mission.Failed]
+Retreat. We have failed to breach the enemy defences at the pass.
+[Submission_1.Objectives]
+Eliminate the left flank
+[Submission_1.Description]
+Immediately attack the enemy and eliminate the left flank of their defences. Intelligence reports that the road through the pass is rather narrow and is zeroed in by enemy artillery. But there is a mountain path that we can take to reach and destroy the enemy anti-tank guns.
+[Submission_1.Success]
+The left flank of the enemy defences has been destroyed!
+[Submission_1.Failed]
+Mission failed.
+[Submission_1_1.Objectives]
+Repel the counter-attack
+[Submission_1_1.Description]
+The enemy is counter-attacking! Immediately mobilize your forces and repel the assault!
+[Submission_1_1.Success]
+The counter-attack has been successfully repelled.
+[Submission_1_1.Failed]
+Mission failed.
+[Submission_3.Objectives]
+Eliminate the enemy defences
+[Submission_3.Description]
+According to our intelligence, a small enemy combat group established defences beyond the pass. In order to advance to Thala, the enemy defences must be eliminated.
+[Submission_3.Success]
+Enemy defences have been eliminated.
+[Submission_3.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Eliminate the right flank
+[Submission_2.Description]
+Our recon found out that the enemy has mined all pass crossings except for one, protected by enemy artillery and infantry. We have no time to de-mine, as our air forces report a large enemy formation approaching the pass. In order to allow our troops to advance, we must crush the right flank of the enemy defences.
+[Submission_2.Success]
+The right flank of the enemy defences has been destroyed.
+[Submission_2.Failed]
+Mission failed.
+[Submission_2_1.Objectives]
+Crush the enemy
+[Submission_2_1.Description]
+The enemy combat group is counter-attacking! We must eliminate them with a crushing blow.
+[Submission_2_1.Success]
+The enemy combat group has been eliminated.
+[Submission_2_1.Failed]
+Mission failed.
+[StringTable.Reinforcement]
+Major Gerhard. You now have command of 10th Panzer Division tanks and infantry.

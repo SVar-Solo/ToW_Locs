@@ -1,0 +1,50 @@
+﻿[Submission_1.Objectives]
+Odeprzyj atak
+[Submission_1.Description]
+Zajmij pozycje obronne i przygotuj się do odparcia ataku.
+[Submission_01.Success]
+Misja zakończona.
+[Submission_01.Failed]
+Misja nieudana.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Utrzymaj zajęte pozycje
+[Mission.Description]
+Zajmij pozycje obronne naprzeciw nacierających wojsk wroga, odpieraj ich ataki i utrzymaj teren.
+[NewSubmission.Success]
+Misja wykonana.
+[NewSubmission.Failed]
+Misja nieudana.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana.
+[Submission_1.Success]
+Pierwszy atak został odparty.
+[Submission_1.Failed]
+Wróg przełamał twoją obronę.
+[Submission_2.Objectives]
+Przygotuj się do odparcia kolejnego ataku
+[Submission_2.Description]
+Wróg się przegrupowuje i wkrótce znów spróbuje przełamać twoją obronę. Przygotuj się do odparcia następnego ataku i rozmieść nadchodzące posiłki.
+[Submission_3.Objectives]
+Oczyść osadę
+[Submission_3.Description]
+Oczyść tę małą osadę z wroga, aby zapobiec okrążającemu uderzeniu na nasze pozycje obronne.
+[Submission_4.Objectives]
+Broń zajętych pozycji
+[Submission_4.Description]
+Amerykanie ponownie próbują odzyskać równowagę. Przygotuj się do obrony swoich pozycji w zdobytej wsi.
+[Submission_2.Success]
+Misja wykonana.
+[Submission_2.Failed]
+Misja nieudana.
+[Submission_3.Success]
+Misja wykonana.
+[Submission_3.Failed]
+Misja nieudana.
+[Submission_4.Success]
+Misja wykonana.
+[Submission_4.Failed]
+Misja nieudana.

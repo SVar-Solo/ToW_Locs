@@ -1,0 +1,177 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Eliminate the enemy's defenses and capture the high point.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Eliminate the enemy's defenses and capture the high point. Repel all enemy counterattacks.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+The enemy has strong fortifications in the area. The first part of the advance line is relatively flat, so tank support will be available. However, the second part of the advance will be infantry only. Your main target is the high point marked on the map.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+The enemy has strong fortifications in the area. The first part of the advance line is relatively flat, so tank support will be available. However, the second part of the advance will be infantry only. Your main target is the high point marked on the map. Be ready: according to the headquarters, the enemy may launch counterattacks.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+High point captured.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+High point captured.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Troops have been defeated, and are retreating.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Troops have been defeated, and are retreating.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Hold the high point marked on the map. Mine all approaches.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+With your infantry, hold the high point in the badly traversable temple area. Remember, the enemy will not be able to use their heavy armored vehicles either. Assign parties to lay mines and guard the rear, and lay down mines on all the approaches.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+High point lost.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Hold the high point marked on the map. Mine all approaches.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Hold the high point marked on the map until further notice.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+With your infantry, hold the high point in the badly traversable temple area. Remember, the enemy will not be able to use their heavy armored vehicles either. Assign parties to lay mines and guard the rear, and lay down mines on all the approaches.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+With your infantry, hold the high point in the badly traversable temple area. Remember, the enemy will not be able to use their heavy armored vehicles either. Assign parties to lay mines and guard the rear, and lay down mines on all the approaches.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+High point lost.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+High point lost.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Air support is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Reserve infantry is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Reserve infantry is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillery support is standing ready.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillery support is standing ready.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is awaiting orders.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Helicopter force
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Eliminate the enemy's defenses and capture the high point.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Capture the high point, and eliminate all hostiles. Watch out for your armored vehicles and infantry in the rough mountain terrain. You can use helicopters for reconnaissance purposes.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture the high point.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Air reconnaissance has detected what seems to be an enemy advance party. You must capture the high point before the Koreans. Use your helicopters to redeploy your troops quickly.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repel all enemy attacks.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Hold the high point at all costs, and repel all enemy attacks. The terrain is difficult, so use mines and close-quarter infantry anti-tank measures.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Hold the high point at all costs, and repel all enemy attacks. The terrain is difficult, so use mines and close-quarter infantry anti-tank measures.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Use helicopters to capture the tactical high point before the enemy reaches it. Then establish your defenses and repel all enemy attacks. Defend the high point for the specified time until the main forces arrive.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Capture the high point marked on the map.
+

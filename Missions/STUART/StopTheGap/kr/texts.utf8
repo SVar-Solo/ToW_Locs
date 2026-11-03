@@ -1,0 +1,60 @@
+﻿[MainTask.Objectives]
+돌파를 저지하라
+[MainTask.Description]
+아군이 점거한 거주지로 이동하라. 그들의 도움을 받아 적 호송대에 대한 매복을 마련하라. 한 놈도 고개에 도달하게 해서는 안 된다. 독일 놈 하나가 한때 우리 군대였던 가축 떼를 패주시킬 것이다. 행운을 빌며 신의 가호가 있기를. 명심하라. 독일 놈 단 한 명도 살아서 고개 끝에 이르게 해서는 안 된다! 
+[MainTask.Success]
+적 기동 집단을 격파했고, 잔존 병력은 달아났다. 계속 잘해 주길 바란다!
+[MainTask.Failed]
+워터스 중령의 보고에서: ...적이 고개 출구까지 돌파하여 뿔뿔이 후퇴하던 아군을 짓밟고 괴멸시켰다... 
+[StringTable.Incoming]
+포병 관측병의 보고: 적 호송대가 고개에 도달하고 있으며 곧 아군 진지에 접근한다!
+[StringTable.IntroSubtitle1]
+앨런 미첼: 젠장, 저게 뭐야?
+[StringTable.IntroSubtitle2]
+달리는 병사들: 살고 싶으면 뛰어! 살고 싶으면 뛰어!!!
+[StringTable.IntroSubtitle3]
+앨런 미첼: 뛸 수 없는 놈들은 어쩌고? (무전기에) 중령님, 상황이 좋지 않습니다. 토끼처럼 달아나고 있습니다...
+[StringTable.IntroSubtitle3a]
+(승무원들에게) 잠깐 세워서 얘기 좀 해 보자. 개인 화기 준비!
+[StringTable.IntroSubtitle3b]
+- 하지만 우린 헌병이 아니잖아! - 쏘려는 게 아니라 정신 차리게 해 주려는 거야!
+[StringTable.IntroSubtitle4]
+앨런 미첼: 서라! 대체 어딜 그렇게 서둘러 가는 거지?
+[StringTable.IntroSubtitle5]
+달아나던 보병: 엿이나 먹어, 영웅 납셨군! 난 죽기 싫어, 독일 놈들이 수도 없이 몰려온다고! …
+[StringTable.IntroSubtitle6]
+… 그리고 너, 살고 싶지 않다면 머저리야, 마을에 남은 놈들처럼!
+[StringTable.IntroSubtitle7]
+앨런 미첼: 이제야 말이 통하는군. 다 바지에 지린 건 아니었어! ... 
+[StringTable.IntroSubtitle8]
+... 그리고 너, 독일 놈들은 뉴욕의 변소까지도 쫓아와서 잡는다는 걸 명심해!
+[StringTable.WinSubtitle1]
+부관: 중령님, 돌아오고 있습니다!
+[StringTable.WinSubtitle2]
+워터스 중령: 모든 게 실낱같은 끈에 달려 있었지...
+[StringTable.WinSubtitle3]
+...그래도 저들은 해야 할 일을 해냈네.
+[StringTable.WinSubtitle4]
+앨런 미첼: 중령님! 승무원들이...
+[StringTable.WinSubtitle5]
+워터스 중령: 우리 둘 다 서둘러야 하네, 보고는 나중에 받겠네, 미첼...
+[StringTable.WinSubtitle6]
+... 다른 전장이 힘들어지고 있어서 내가 거기 가 봐야 하거든.
+[StringTable.WinSubtitle7]
+추가 정보는 무전으로 받게. 자, 여기, 넬리의 편지일세!
+[StringTable.FailSubtitle1]
+국방군 대위: 자, 양키들, 전쟁은 이제 지긋지긋한가? ...
+[StringTable.FailSubtitle2]
+동료들, 굳이 증명할 필요도 없는 사실이지...
+[StringTable.FailSubtitle3]
+미국 놈들은 전쟁터에선 양 떼라는 거 말이야!
+[StringTable.FailSubtitle4]
+그 경전차가 죽도록 잘 싸우긴 했지만, 결국엔 불태워 버렸다!
+[StringTable.StuartDestroyed]
+앨런 미첼의 전차가 파괴되었다!
+[StringTable.MitchellIsKilled]
+앨런 미첼이 전사했다!
+[StringTable.EnemySuccessful]
+적이 고개 출구까지 돌파했다! 임무 실패!
+[StringTable.ReturnInTank]
+임무를 완수하려면 하차한 전차 승무원들을 다시 전차에 태워라.

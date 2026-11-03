@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+Sua unidade mecanizada deve ajudar nossos Aliados na defesa e impedir que o inimigo atravesse o desfiladeiro de Kasserine. Agindo conforme apropriado, você deve desferir golpes repentinos contra os alemães atacantes. O inimigo é superior em número e em treinamento, portanto emboscadas seriam uma tática sensata. As duas principais travessias do desfiladeiro foram minadas por nossas tropas. Você está autorizado a usar forças aéreas.
+[Submission_1.Description]
+Ajude nossos Aliados
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+Missão fracassada.
+[StringTable.Change_army]
+Tropas aliadas foram colocadas sob o seu comando.
+[Submission_2.Objectives]
+Elimine a força de tanques inimiga. Não deixe que atravessem o desfiladeiro.
+[Submission_2.Description]
+Elimine a força de tanques inimiga
+[Submission_2.Success]
+Os tanques inimigos foram destruídos.
+[Submission_2.Failed]
+Os tanques inimigos romperam.
+[Submission_3.Objectives]
+O inimigo empregou tanques adicionais de sua reserva. Você deve destruí-los, impedindo-os de atravessar o desfiladeiro.
+[Submission_3.Description]
+Elimine a reserva inimiga
+[Submission_3.Success]
+Os tanques inimigos foram destruídos.
+[Submission_3.Failed]
+Missão fracassada.
+[Submission_4.Objectives]
+Repelimos os ataques inimigos, mas eles conseguiram montar posições de obuseiros bem diante do desfiladeiro. Disparando contra nossas posições, já causaram grandes danos. Reúna todas as forças disponíveis e destrua a artilharia inimiga.
+[Submission_4.Description]
+Destrua a artilharia inimiga
+[Submission_4.Success]
+As posições inimigas foram destruídas.
+[Submission_4.Failed]
+Missão fracassada.

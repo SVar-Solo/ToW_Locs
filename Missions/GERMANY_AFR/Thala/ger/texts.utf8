@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Die Verteidigungsanlagen zerstören
+[Mission.Description]
+Zerstören Sie die US-Verteidigungsanlagen am Tebessa-Pass.
+[Mission.Success]
+Mission erfüllt.
+[Mission.Failed]
+Mission fehlgeschlagen.
+[Submission_1.Objectives]
+Einen Brückenkopf sichern
+[Submission_1.Description]
+Sichern Sie das auf der Karte markierte Ziel, indem Sie die dort befindlichen feindlichen Geschütze und Truppen ausschalten.
+[Submission_1.Success]
+Brückenkopf wurde gesichert.
+[Submission_1.Failed]
+Mission fehlgeschlagen.
+[StringTable.Haubitze]
+Sie haben jetzt das Kommando über die Haubitzen. Setzen Sie sie zur Unterstützung der Offensive ein.
+[Submission_2.Objectives]
+Erste Staffel ausschalten
+[Submission_2.Description]
+Schalten Sie die erste Linie der feindlichen Verteidigung aus.
+[Submission_2.Success]
+Die erste Linie der feindlichen Verteidigung wurde ausgeschaltet.
+[Submission_2.Failed]
+Mission fehlgeschlagen.
+[Submission_3.Objectives]
+Zweite Staffel ausschalten
+[Submission_3.Description]
+Schalten Sie die zweite Linie der feindlichen Verteidigung am Passausgang aus.
+[Submission_3.Success]
+Die feindlichen Verteidigungsanlagen wurden vollständig ausgeschaltet.
+[Submission_3.Failed]
+Mission fehlgeschlagen.
+[StringTable.Add_tanks]
+Ich habe Ihnen Panzer aus der Reserve des Armee-Hauptquartiers zur Verfügung gestellt.

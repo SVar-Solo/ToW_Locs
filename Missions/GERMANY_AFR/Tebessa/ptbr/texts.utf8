@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Destrua as defesas
+[Mission.Description]
+Destrua as defesas dos EUA no desfiladeiro de Tebessa.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission_1.Objectives]
+Conquiste uma posição firme
+[Submission_1.Description]
+Assegure o objetivo marcado no mapa eliminando os canhões e as tropas inimigas ali localizados.
+[Submission_1.Success]
+A base de lançamento foi assegurada.
+[Submission_1.Failed]
+Missão fracassada.
+[StringTable.Haubitze]
+O senhor agora tem o comando dos obuseiros. Use-os para apoiar a ofensiva.
+[Submission_2.Objectives]
+Elimine o primeiro escalão
+[Submission_2.Description]
+Elimine a primeira camada das defesas inimigas.
+[Submission_2.Success]
+A primeira camada das defesas inimigas foi eliminada.
+[Submission_2.Failed]
+Missão fracassada.
+[Submission_3.Objectives]
+Elimine o segundo escalão
+[Submission_3.Description]
+Elimine a segunda camada das defesas inimigas na saída do desfiladeiro.
+[Submission_3.Success]
+As defesas inimigas foram completamente eliminadas.
+[Submission_3.Failed]
+Missão fracassada.
+[StringTable.Add_tanks]
+Providenciei tanques da reserva do QG do exército para o senhor.

@@ -1,0 +1,19 @@
+﻿[Mission.Objectives]
+L'obiettivo principale è di impedire alle truppe tedesche di sfondare nella zona di evacuazione.
+[Mission.Description]
+Dopo lunghi giorni di combattimento, l'esercito francese ha subito pesanti perdite aggravate dal costante bombardamento da parte della Luftwaffe. Malgrado le perdite, le nostre truppe continuano a mantenere le loro linee difensive e a permettere alle altre forze alleate di imbarcarsi e di ritirarsi attraverso il Canale della Manica. L'obiettivo di oggi è di impedire alle truppe di Hitler di sfondare nella zona di evacuazione vicino al mare.
+[Mission.Success]
+Missione completata con successo.
+[Mission.Failed]
+Missione fallita.
+[Submission_1.Objectives]
+Respingi tutti gli attacchi delle truppe tedesche.
+[Submission_1.Description]
+La linea difensiva dell'esercito francese è abbastanza debole. Mancano le truppe, non ci sono quasi più mezzi corazzati e il supporto dell'aviazione è limitato dato che gli aerei tedeschi dominano il cielo e che quelli alleati sono impegnati nel proteggere l'evacuazione.
+Ugualmente è necessario respingere tutti gli attacchi delle forze tedesche.
+[Submission_1.Success]
+Gli attacchi sono stati respinti. L'evacuazione è terminata con successo.
+[Submission_1.Failed]
+Hai perso! Le unità tedesche sono passate.
+[StringTable.reserv]
+I rinforzi sono arrivati!

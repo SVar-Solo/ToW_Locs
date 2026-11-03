@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+Verteidigen Sie sich gegen die neue deutsche Offensive
+[Mission.Description]
+Um eine Einkreisung zu verhindern hat das deutsche Oberkommando einen kleinen aber harten Gegenangriff unter dem Codenamen Operation Lüttich gestartet.
+
+Ihre Befehle:
+-	 Halten Sie die deutsche Offensive auf.
+[Mission.Success]
+Mission erfüllt. Die massive Offensive wurde gestoppt.
+[Mission.Failed]
+Der deutsche Gegenangriff war erfolgreich und wir haben schwere Verluste hinnehmen müssen.
+[Submission1.Objectives]
+Greifen Sie den Feind an.
+[Submission1.Description]
+Unsere Aufklärungseinheiten berichten, dass die erste Phase des deutschen Angriffs aus dem Nordosten auf uns zukommt. 
+
+Ihre Befehle lauten:
+-	 Greifen Sie die feindlichen Einheiten an, die aus dem Nordosten vorrücken.
+[Submission1.Success]
+Mission erfüllt. Die feindlichen Truppen ziehen sich zurück.
+[Submission1.Failed]
+Misson gescheitert. Ihre Truppen wurden geschlagen.
+[Submission2.Objectives]
+Greifen Sie die feindlichen Einheiten an.
+[Submission2.Description]
+Die deutsche Offensive geht weiter und es scheint, dass der Feind uns jetzt aus dem Osten angreifen wird.
+
+Ihre Befehle:
+-	 Greifen Sie die feindlichen Einheiten an, die aus dem Osten vorrücken.
+[Submission2.Success]
+Mission erfüllt. Der feindliche Angriff wurde gestoppt.
+[Submission2.Failed]
+Misson gescheitert. Ihre Truppen wurden aufgerieben.
+[Submission3.Objectives]
+Greifen Sie die Truppen an, die aus dem Norden vorrücken.
+[Submission3.Description]
+Es ist noch nicht vorbeit. Ein weiterer Feindangriff wird im Norden vorbereitet. Dieses Mal ist der Feind in der Überzahl, aber Sie müssen aushalten.
+
+Ihre Befehle:
+-	 Brechen Sie den deutschen Hauptangriff.
+[Submission3.Success]
+Mission erfüllt. Diese Phase des feindlichen Angriffs wurde aufgehalten.
+[Submission3.Failed]
+Misson gescheitert. Die feindliche Operation war ein Erfolg, und Ihre Truppen wurden aufgerieben,
+[StringTable.Reserve
+Verstärkungen sind eingetroffen.
+[Submission4.Objectives]
+Greifen Sie die deutschen Einheiten an.
+[Submission4.Description]
+Wir haben es bis jetzt ausgehalten, aber es scheint, dass die deutschen einen letzten Angriff starten wollen, diese Mal aus dem Osten.
+
+Ihre Befehle:
+-	 Greifen Sie die feindlichen Einheiten im Osten an und verhindern Sie, dass unsere Truppen eingekreist werden.
+[Submission4.Success]
+Mission erfüllt. Der Feind hat es nicht geschafft durchzubrechen und unsere Einheiten einzukreisen.
+[Submission4.Failed]
+Misson gescheitert. Ihre Truppen wurden aufgerieben.
+[StringTable.Subtitle_01]
+Frankreich. August 1944
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.

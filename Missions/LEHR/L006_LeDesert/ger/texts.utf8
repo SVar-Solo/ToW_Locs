@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Zerstören Sie die feindlichen Verteidigungslinien bei Le Dessert.
+[Mission.Description]
+Der Feind hat das Dorf in ein Widerstandsnest verwandelt. Laut Aufklärungsberichten verfügen die Amerikaner über eine Menge Panzerabwehrwaffen (57mm Panzerabwehrkanonen und auch 105mm Haubitzen), und bis zu 2 Infanteriezüge. 
+
+Ihre Befehle lauten:
+- zerschlagen Sie die feindliche Verteidigung und nehmen Sie das Dorf Le Dessert mit Ihren Truppen ein.
+[Mission.Success]
+Gute Arbeit! Die feindliche Stellung wurde zerbrochen.
+[Mission.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.
+[Submission_1.Objectives]
+Nehmen Sie das Dorf Le Dessert ein.
+[Submission_1.Description]
+Die Hauptkräfte des Feindes befinden sich in der Mitte der Verteidigungslinie. Den besten Erfolg verspricht daher ein Einsatz gegen die Flanke des Feindes. Das wird Ihre eigenen Verluste begrenzen helfen.
+
+Ihre Befehle lauten:
+- nehmen Sie das Dorf Le Dessert ein. 
+[Submission_1.Success]
+Gute Arbeit! Das Dorf ist in unserer Hand.
+[Submission_1.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!

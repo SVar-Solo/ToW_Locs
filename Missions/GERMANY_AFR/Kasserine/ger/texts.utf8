@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Die Verteidigung durchbrechen
+[Mission.Description]
+Major Gerhard, Ihre Kampfgruppe soll über Thala auf Le Kef vorrücken. Die Straße nach Thala führt durch den Kasserine-Pass, wo sich nach unseren Erkenntnissen US-Streitkräfte verteidigen. Durchbrechen Sie die feindlichen Verteidigungsanlagen am Pass und setzen Sie den Vormarsch fort.
+[Mission.Success]
+Feindliche Verteidigungsanlagen wurden zerstört.
+[Mission.Failed]
+Rückzug. Wir konnten die feindlichen Verteidigungsanlagen am Pass nicht durchbrechen.
+[Submission_1.Objectives]
+Linke Flanke ausschalten
+[Submission_1.Description]
+Greifen Sie den Feind sofort an und schalten Sie die linke Flanke seiner Verteidigung aus. Die Aufklärung meldet, dass die Straße durch den Pass recht eng ist und von feindlicher Artillerie unter Feuer genommen wird. Aber es gibt einen Bergpfad, den wir nehmen können, um die feindlichen Panzerabwehrkanonen zu erreichen und zu zerstören.
+[Submission_1.Success]
+Die linke Flanke der feindlichen Verteidigung wurde zerstört!
+[Submission_1.Failed]
+Mission fehlgeschlagen.
+[Submission_1_1.Objectives]
+Den Gegenangriff abwehren
+[Submission_1_1.Description]
+Der Feind greift an! Mobilisieren Sie sofort Ihre Kräfte und wehren Sie den Angriff ab!
+[Submission_1_1.Success]
+Der Gegenangriff wurde erfolgreich abgewehrt.
+[Submission_1_1.Failed]
+Mission fehlgeschlagen.
+[Submission_3.Objectives]
+Feindliche Verteidigungsanlagen ausschalten
+[Submission_3.Description]
+Nach unseren Erkenntnissen hat eine kleine feindliche Kampfgruppe jenseits des Passes Verteidigungsstellungen errichtet. Um nach Thala vorzurücken, müssen diese feindlichen Verteidigungsanlagen ausgeschaltet werden.
+[Submission_3.Success]
+Feindliche Verteidigungsanlagen wurden ausgeschaltet.
+[Submission_3.Failed]
+Mission fehlgeschlagen.
+[Submission_2.Objectives]
+Rechte Flanke ausschalten
+[Submission_2.Description]
+Unsere Aufklärung hat herausgefunden, dass der Feind alle Passübergänge vermint hat, bis auf einen, der durch feindliche Artillerie und Infanterie geschützt wird. Wir haben keine Zeit zum Entminen, da unsere Luftwaffe eine große feindliche Formation meldet, die sich dem Pass nähert. Um unseren Truppen den Vormarsch zu ermöglichen, müssen wir die rechte Flanke der feindlichen Verteidigung zerschlagen.
+[Submission_2.Success]
+Die rechte Flanke der feindlichen Verteidigung wurde zerstört.
+[Submission_2.Failed]
+Mission fehlgeschlagen.
+[Submission_2_1.Objectives]
+Den Feind zerschlagen
+[Submission_2_1.Description]
+Die feindliche Kampfgruppe greift an! Wir müssen sie mit einem vernichtenden Schlag ausschalten.
+[Submission_2_1.Success]
+Die feindliche Kampfgruppe wurde ausgeschaltet.
+[Submission_2_1.Failed]
+Mission fehlgeschlagen.
+[StringTable.Reinforcement]
+Major Gerhard. Sie haben jetzt das Kommando über Panzer und Infanterie der 10. Panzer-Division.

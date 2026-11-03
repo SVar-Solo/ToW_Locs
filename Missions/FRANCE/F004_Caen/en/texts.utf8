@@ -1,0 +1,90 @@
+﻿[Mission1.Objectives]
+Retain the defensive positions in the area specified.
+[Mission1.Description]
+The situation is very grave; there is almost no hope for salvation. Many of our brothers-in-arms have fallen in combats and without a doubt many more are destined to die spilling their blood over the lands of Normandy. According to intelligence, German troops are making rapid progress towards the village in order to knock out any resistance on their way to Caen. From the West and the East, our flanks are only lightly protected so the probability of German troops breaking through in those directions is high.   
+
+Your orders:
+-	Maintain the defense of the village
+[Mission1.Success]
+Order fulfilled! Your soldiers have held their positions and saved Caen, at least for now, from the Germans.
+[Mission1.Failed]
+Order not fulfilled! German troops have broken through your positions and burst into Caen.  
+[Submission1.Objectives]
+Repel the enemy attack from the Northwest.
+[Submission1.Description]
+German troops are advancing toward the village with the aim of knocking out all remaining resistance. It is vitally important for us to repulse this attack, thus preventing the Germans access to Caen.
+
+Your orders:
+-	Repel the enemy attack from the Northwest.
+[Submission1.Success]
+You have successfully repelled the German attack!
+[Submission1.Failed]
+The enemy has broken through the defenses!
+[Submission2.Objectives]
+Repel the enemy attack from the North.
+[Submission2.Description]
+German troops are advancing toward the village with the aim of knocking out all remaining resistance. It is vitally important for us to repulse this attack, thus preventing the Germans access to Caen.
+
+Your orders:
+-	Repel the enemy attack from the North.
+[Submission2.Success]
+The enemy attack has been repelled!
+[Submission2.Failed]
+The enemy has smashed your defenses!
+[Submission3_1.Objectives]
+Attack the enemy group of forces.
+[Submission3_1.Description]
+Friendly forces on our Western flank have folded and the Germans are now advancing once more on the village from that direction. Continue to resist the enemy advances and stop this new attack!
+
+Your orders:
+-	Attack the enemy forces advancing from the West.
+[Submission3_1.Success]
+The order has been fulfilled and the enemy is fleeing. You have saved the day!
+[Submission3_1.Failed]
+Order not fulfilled, your troops have suffered a defeat.
+[Submission4.Objectives]
+Attack the enemy group advancing from the East.
+[Submission4.Description]
+Friendly troops now on our Eastern flank have been overrun and the German troops are now heading towards Caen. You must stop them!
+
+Your orders:
+-	Attack the enemy troops advancing from the East.
+[Submission4.Success]
+Order fulfilled!
+[Submission4.Failed]
+Order not fulfilled!
+[Submission5.Objectives]
+Repel the offensive of the enemy troops.
+[Submission5.Description]
+According to air reconnaissance, one more enemy task group is advancing towards Caen. It is vitally important that you gather up all available forces and repulse the enemy advance. You are the last hope of stopping the Germans!
+
+Your orders are to:
+- Repel the German advance towards Caen.
+[Submission5.Success]
+Order fulfilled! The enemy attack has been repelled!
+[Submission5.Failed]
+The enemy has broken through! Your troops have been eliminated!
+[StringTable.Reserv]
+Reinforcements have arrived to support you.
+[Submission4_1.Objectives]
+Attack the enemy troops.
+[Submission4_1.Description]
+Friendly troops on our Eastern flank have been overrun and the German troops are now heading towards Caen. You must stop them!
+
+Your orders:
+-	Attack the enemy troops advancing from the East.
+[Submission4_1.Success]
+The enemy attack has been repelled and the enemy is fleeing!
+[Submission4_1.Failed]
+You have failed to stop the enemy attack and your troops have been eliminated!
+[Submission3.Objectives]
+Attack the enemy group of forces.
+[Submission3.Description]
+Our westernmost positions have fallen and the Germans are now rapidly advancing again towards the village. You must attack them at once before they breakthrough and take Caen.
+
+Your order is:
+- 	Attack the enemy troops advancing from the West.
+[Submission3.Success]
+The order has been fulfilled and the enemy has been defeated!
+[Submission3.Failed]
+The order has not been fulfilled and your troops are defeated.

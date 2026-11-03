@@ -1,0 +1,188 @@
+﻿[Battle Group 6.Name]
+X Corps
+
+[Battle Group 2.Name]
+21st Ind. Marine Reg.
+
+[USA.Epilogue]
+The UN and South Korean forces were unified under a common goal – the destruction of the North Korean forces, and the rectification of borders. They were determined to push the North Koreans back across the northern borders of the Democratic People's Republic of Korea, and they were successful. It was an astonishing reversal, and could only have been accomplished with the full cooperation of ground, air, and naval forces, who delivered coordinated, simultaneous strikes to the front, flanks and enemy rears, with the support of numerous air and artillery units. Their personnel and military hardware superiority served them well, for the enemy lacked air defenses, artillery, and tanks.
+
+[Battle Group 1.Name]
+
+
+[USA.FailureEpilogue]
+The unified offensive of the US and South Korean troops in Korea exposed a number of shortcomings in their formations and their units. UN Command forces proved unable to wage a sufficiently swift offensive, and combat exposed the inadequate readiness of the reinforcements. They had not been trained to fight at night or to use the mountainous terrain of Korea to their advantage. They used formations suitable mostly for plains, attacked across the entire battlefront, and limited their combat operations to the daylight hours. They did not attempt to sweep the enemy flanks, or use the mountains to their advantage. Their infantry could only fight when it was supported by artillery, tanks and air forces. Extensive use of roads and badly defended flanks and rears, as well as a general fear of encirclement – all of these shortcomings plagued the troops of UN Command.
+
+[Battle Group 2.FullName]
+21st Independent Marine Regiment
+
+[Battle Group 6.FullName]
+Units of X Corps
+
+[Battle Group 15.Name]
+15th Ind. Inf. Bat.
+
+[Battle Group 15.FullName]
+15th Ind. Infantry Battalion
+
+[Battle Group 16.Name]
+10th Inf Div
+
+[Battle Group 16.FullName]
+Units of the 10th Infantry Division
+
+[Battle Group 17.Name]
+I Corps
+
+[Battle Group 17.FullName]
+Units of I Corps
+
+[Battle Group 22.Name]
+II Corps
+
+[Battle Group 19.Name]
+1st Tank Brig
+
+[Battle Group 21.Name]
+18th Inf. Brig.
+
+[Battle Group 20.Name]
+70th Ind. Inf. Reg.
+
+[Battle Group 22.FullName]
+Units of II Corps
+
+[Battle Group 20.FullName]
+70th Independent Infantry Regiment
+
+[Battle Group 21.FullName]
+18th Infantry Brigade
+
+[Battle Group 19.FullName]
+1st Tank Brigade
+
+[Battle Group 23.Name]
+17th Mech. Div.
+
+[Battle Group 23.FullName]
+17th Mechanized Division
+
+[USA.FullName]
+Counteroffensive
+
+[USA.Description]
+Thanks to the superior air and artillery support of UN Command, North Korean troops failed to break through the Pusan Perimeter and drive its defenders into the sea. On the contrary, the powerful counterattack launched by the US and South Korean army forced North Korea to abandon a number of its key positions. By mid-September of 1950, the North Koreans were entirely on the defensive.
+Having secured the area of Pusan, South Korean forces began planning their counteroffensive. They would destroy the North Korean troops and occupy the whole of Korea.
+The plan called for two strikes: the first by ground troops delivered from the Pusan area, and the second by seaborne troops from Incheon. Together, they would encircle and destroy the North Korean troops in South Korea.
+On the main axis of advance, UN Command deployed six infantry divisions, one infantry brigade, three independent artillery divisions, and three independent armor battalions. Air support was to be provided by as many as 1100 attack aircraft.
+The Incheon landing was to be secured by the US X Corps, comprised of the 1st Marine Division (US), the 7th Infantry Division (US), the 41 Commando (Great Britain), and the 17th Infantry Regiment (Republic of Korea). Their support was to be provided by 250 ships and some 500 aircraft.
+The counteroffensive was launched on September 15, 1950.
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeongbuk-do
+
+[HAMGEN_PUKTO.Description]
+Hamgyeongbuk-do is the northernmost province of North Korea. It shares its northern border with China, and its long eastern coastline is washed by the Sea of Japan. The province is home to the main railway junction of North Korea, which handles shipments from both China and the Soviet Union. The terrain is mostly plains, but there is a large mountain ridge in the west.
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+The Ryanggang-do province borders China to the north. Mostly occupied by mountains criss-crossed with narrow mountain passes, the province is barely traversable. Nevertheless, Ryanggang-do is a very important strategic area, for it is home to the main railway coming from the Soviet Union, which supplies the North Korean troops with military hardware and armaments.
+
+[HAMGEN_NAMDO.FullName]
+Hwanghaenam-do
+
+[HAMGEN_NAMDO.Description]
+Though mountainous in the west, Hwanghaenam-do flattens out into prime farmland as it stretches east towards its coastline along the Sea of Japan. This rich land provides rice, wheat and rape, making the province North Korea’s principle agricultural center. The capture of Hwanghaenam-do would provide an excellent foothold for pressing the fight further north.
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+Bordering China in the north, Chagang-do is one of the most highly-developed of North Korea's industrial provinces. Its major railway junction handles all cargo coming from China and the Soviet Union, and the province is home to the principle supply bases of the North Korean troops. Chagang-do does not have access to sea.
+
+[PHENAN_PUKTO.FullName]
+Pyeonganbuk-do
+
+[PHENAN_PUKTO.Description]
+The northern province of Pyeonganbuk-do shares a border with China. Its capital, Sineuiju, is a major transport junction, and the port of Yongampo is one of the major centers of the fishing industry on the Yellow Sea. The terrain is mostly mountainous, with valleys dominating the coastal area.
+
+[PHENAN_NAMDO.FullName]
+Pyeongannam-do
+
+[PHENAN_NAMDO.Description]
+The North Korean province Pyeongannam-do, the capital of which is Pyeongseong, borders Pyeonganbuk-do and Chagang-do to the north, Hwanghaenam-do and Gangwon-do to the east and southeast, and Hwanghaebuk-do and Pyeongyang to the south. To the west it borders the Yellow Sea. The province has strategic merit as a staging ground for redeploying troops and supplies by sea.
+
+[PHENYAN.FullName]
+Pyeongyang
+
+[PHENYAN.Description]
+Pyeongyang - the name of both the capital city and the surrounding province - is a major economic center of North Korea, as well as a major industrial stronghold. The city of Pyeongyang stands on a plain surrounded by mountains. In 1946 it split from Pyeongannam-do to become an independent province. The city and surrounding area are heavily fortified and well-defended.
+
+[KANWONDO_PUKTO.FullName]
+Gangwondo-pukto
+
+[KANWONDO_PUKTO.Description]
+The North Korean province of Gangwondo-pukto is located along the border region. It is mostly highland, but the terrain along the coastline is suitable for vehicle transport.
+
+[HVANHE_PUKTO.FullName]
+Hwanghae-pukto
+
+[HVANHE_PUKTO.Description]
+The southern border of the Hwanghaebuk-do province follows the 38th parallel. Enemy forces are concentrated to the south. The province is strategically critical to the defense of Pyeongyang, the capital of North Korea.
+
+[KANWONDO_NAMDO.FullName]
+Gangwondo-Namdo
+
+[KANWONDO_NAMDO.Description]
+The northern border of the Gangwonnam-do province follows the 38th parallel, which divides the Korean Peninsula into North and South Korea. Being a mountainous land, the province does not have any heavy fortifications, and the mountain passes are treacherous: even a small defending force can contain a superior attacking force. The small villages and monasteries have been converted into defensive citadels which are very difficult to capture. Only the rocky paths unsuitable for vehicles remain unoccupied.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Being the location of Seoul, the capital of South Korea, Gyeonggi-do is a strategically critical province. While mostly plains, the province is dotted by inhabited localities, many of which have been fortified. Naturally, Seoul itself is protected by South Korea's most experienced troops, and is also surrounded by heavy fortifications. The northern border of the province follows the 38th parallel, which divides Korea into North and South.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsangbuk-do
+
+[KENSAN_PUKTO.Description]
+Gyeongsangbuk-do provides access to the east coast of the Korean Peninsula. Whoever holds this province can receive supplies by sea, a significant strategic advantage. Gyeongsangbuk-do has numerous mountain valleys, but closer to the east coast, mountains lower, and the valleys widen and flatten. This makes the area very convenient for attacking but difficult to defend.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheongbuk-do
+
+[CHUNCHON_PUKTO.Description]
+Chungcheongbuk-do is the main transport corridor to Seoul, the capital of South Korea. Numerous military bases and fortifications are concentrated in this province. Gaining control over Chungcheongbuk-do would provide a significant advantage.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheongnam-do
+
+[CHUNCHON_NAMDO.Description]
+A large part of Chungcheongnam-do is occupied by nearly impassable mountains, but there are certain areas which are susceptible to attack, though naturally these are heavily defended and fortified. All of the population centers have been converted into strong points, but some of the rocky paths are impassable to vehicles. This makes them perfect for small infantry squads, which can maneuver covertly and take the enemy by surprise.
+
+[PUSAN.FullName]
+Pusan
+
+[PUSAN.Description]
+The Pusan Perimeter is the final position of the South Korean troops. This most important strategic area serves as a beachhead for the US forces, and boasts numerous well-defended strong points. Capturing the Pusan Perimeter, as well as Pusan, Ulsan and Pohang ports, would prevent the United Nations Command forces from bringing in reinforcements and supplies.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsangnam-do
+
+[KENSAN_NAMDO.Description]
+The Gyeongsangnam-do province adjoins the Jeollabuk-do and Gyeongsangbuk-do provinces. It is mostly occupied by mountains, and is home to three national parks: Gayasan, Deogyusan and Jirisan. The highest peak is the Deogyusan mountain (1614 meters). Like the rest of the Korean Peninsula, the province has a monsoon climate: warm and damp summers, and relatively cold and dry winters. The average annual temperature is 10.6 degrees Celsius, and the annual precipitation is 1395.2 mm (as of 1993). Most of the precipitation (850mm) falls during the raining season, which lasts for three summer months.
+
+[CHOPLA_PUKTO.FullName]
+Jeollabuk-do
+
+[CHOPLA_PUKTO.Description]
+Jeollabuk-do is located on the west coast. Its port is critical to the movement of personnel and supplies. However, with the exception of the coastal areas, the province is occupied by treacherous mountains, so there are no heavy fortifications.
+
+[CHOPLA_NAMDO.FullName]
+Jeollanam-do
+
+[CHOPLA_NAMDO.Description]
+Jeollanam-do is the southernmost province of South Korea. Mountains dominate its northern region. However, towards the southern and coastal regions, the mountains level out to wide valleys. In terms of strategic significance, the southern part of the province is important to the delivery of supplies by sea, thanks to its numerous large ports. US military command uses this to its advantage.
+

@@ -1,0 +1,68 @@
+﻿[Mission.Objectives]
+Os britânicos tentam chegar a Caen e você deve detê-los.
+[Mission.Description]
+As tropas britânicas, sob o comando do general Montgomery, pretendem tomar Villers-Bocage e depois avançar para Caen. À sua disposição estão vários tanques do Schwere SS-Panzer-Abteilung 101, incluindo o ás dos tanques Michael Wittmann. Ataque rápido e com força contra a coluna blindada britânica que segue em sua direção. 
+
+Suas ordens:
+-	 Detenha a coluna blindada britânica. Destrua o maior número possível de tanques e equipamentos inimigos.  
+[Mission.Success]
+Missão cumprida! Suas ações hoje serão lembradas por muitos anos.
+[Mission.Failed]
+Missão fracassada! Perdeu-se a oportunidade de infligir graves danos às forças britânicas.
+[Submission_1.Objectives]
+Ataque a coluna blindada inimiga.
+[Submission_1.Description]
+Elementos da 7ª Divisão Blindada britânica estão em marcha, seguindo para a pequena cidade de Villers-Bocage, a caminho de Caen. 
+
+Suas ordens: 
+-	Use a surpresa, a velocidade e seus tanques superiores para infligir o máximo de danos às forças britânicas.	 
+[Submission_1.Success]
+Você dizimou as forças britânicas.
+[Submission_1.Failed]
+Seu ataque fracassou.
+[Submission_2.Objectives]
+Mantenha Michael Wittmann e sua tripulação de tanque vivos, se puder.
+[Submission_2.Description]
+O ás dos tanques Michael Wittmann e sua tripulação são extremamente valiosos como força de combate e como símbolo. Você deve mantê-los vivos a todo custo!
+[Submission_2.Success]
+Michael Wittmann sobreviveu à batalha e, sem dúvida, continuará a atormentar as forças aliadas nas batalhas futuras.
+[Submission_2.Failed]
+Michael Wittmann foi morto. 
+[Submission_3.Objectives]
+Continue seu ataque contra as forças britânicas remanescentes.
+[Submission_3.Description]
+Você semeou medo e destruição nas forças britânicas. Continue a engajar as forças britânicas remanescentes.
+
+Suas ordens: 
+-	 As forças britânicas parecem estar se reorganizando em torno de uma pequena fazenda nesta área; encontre-as e destrua-as.
+[Submission_3.Success]
+Seu ataque à fazenda foi bem-sucedido.
+[Submission_3.Failed]
+Seu ataque contra as forças britânicas em torno da fazenda fracassou.
+[Submission_4.Objectives]
+Capture um local estratégico fundamental perto de uma pequena fazenda.
+[Submission_4.Description]
+O inimigo foi detectado em torno de uma fazenda perto de Villers-Bocage. Essa fazenda fica perto de uma encruzilhada estratégica e deve ser tomada.
+
+Suas ordens: 
+-	 Destrua as unidades britânicas em torno da fazenda.
+-	 Mantenha a fazenda contra qualquer contra-ataque britânico.
+[Submission_4.Success]
+Você capturou a fazenda e pôs em fuga as unidades britânicas.
+[Submission_4.Failed]
+Seu ataque à fazenda fracassou.
+[Submission_5.Objectives]
+Resista a todas as tentativas dos britânicos de retomar a fazenda.
+[Submission_5.Description]
+Você surpreendeu as tropas britânicas e lhes causou danos substanciais, mas elas começam a se reorganizar e a se reagrupar e estão decididas a tomar a cidade de Villers-Bocage. Você deve rechaçar este contra-ataque.
+
+Suas ordens:
+-	 Rechace o contra-ataque inimigo.
+[Submission_5.Success]
+Você venceu! Suas ações hoje ficarão para sempre nos anais da guerra.
+[Submission_5.Failed]
+Você foi derrotado e o avanço britânico em direção a Caen continuará sem obstáculos.
+[StringTable.inf_reserv]
+Um esquadrão de infantaria foi colocado à sua disposição.
+[StringTable.tank_reserv]
+Você recebeu tanques adicionais de nossas reservas.

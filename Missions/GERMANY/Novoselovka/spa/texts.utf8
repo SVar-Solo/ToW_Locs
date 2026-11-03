@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Destruya las defensas enemigas en la zona de Novoselovka.
+[Mission.Description]
+Unidades rusas replegadas, junto con grupos de tanques y artillería antitanque, han pasado a la defensiva en el sector al sur de Novoselovka y en la propia aldea. Los flancos de la línea defensiva enemiga están cubiertos por campos de minas. Se ordena al grupo de combate asaltar Novoselovka, romper las defensas enemigas y capturar la aldea.
+[Mission.Success]
+Misión cumplida; Novoselovka ha sido ocupada.
+[Mission.Failed]
+No hemos podido cumplir nuestras órdenes. ¡El enemigo es demasiado fuerte! 
+[Submission_1.Objectives]
+Destruya las defensas enemigas en la aldea.
+[Submission_1.Success]
+Las defensas enemigas han sido destruidas. Las posiciones han sido ocupadas.
+[Submission_1.Failed]
+El ataque se ha estancado; ¡se requiere apoyo inmediato!
+[Submission_2.Objectives]
+Prosiga el avance hacia el norte. Ocupe la parte sur de la aldea de Novoselovka.
+[Submission_2.Success]
+La parte sur de la aldea ha sido ocupada.
+[Submission_2.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato.
+[Submission_3.Objectives]
+Capture las posiciones enemigas al noroeste de Novoselovka.
+[Submission_3.Success]
+Misión cumplida. Las fuerzas enemigas se han retirado hacia el noroeste.
+[Submission_3.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato.
+[Submission_4.Objectives]
+¡Rechace el contraataque de los tanques rusos!
+[Submission_4.Success]
+¡Los tanques enemigos han sido destruidos!
+[Submission_4.Failed]
+Nuestras fuerzas se retiran bajo la presión enemiga.
+[StringTable.First_support]
+Un grupo de tanques de la reserva de la división queda ahora bajo su mando.
+[StringTable.Second_support]
+Una unidad de infantería y cañones autopropulsados quedan ahora bajo su mando.
+
+[StringTable.Inf]
+Infantería
+[StringTable.Tanks]
+Tanques
+[StringTable.SPG]
+Cañones autopropulsados
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

@@ -1,0 +1,34 @@
+﻿[Submission_1.Objectives]
+Votre unité mécanisée doit aider nos alliés dans la défense et empêcher l’ennemi de franchir le col de Kasserine. Agissez selon les circonstances et portez des coups soudains aux Allemands qui attaquent. L’ennemi est supérieur en nombre comme en entraînement ; les embuscades seraient donc une tactique judicieuse. Les deux principaux passages du col ont été minés par nos troupes. Vous êtes autorisé à employer l’aviation.
+[Submission_1.Description]
+Aidez nos alliés
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.
+[StringTable.Change_army]
+Des troupes alliées ont été placées sous votre commandement.
+[Submission_2.Objectives]
+Éliminez la force de chars ennemie. Ne les laissez pas franchir le col.
+[Submission_2.Description]
+Éliminez la force de chars ennemie
+[Submission_2.Success]
+Les chars ennemis ont été détruits.
+[Submission_2.Failed]
+Les chars ennemis ont percé.
+[Submission_3.Objectives]
+L’ennemi a engagé des chars supplémentaires prélevés sur sa réserve. Vous devez les détruire et les empêcher de franchir le col.
+[Submission_3.Description]
+Éliminez la réserve ennemie
+[Submission_3.Success]
+Les chars ennemis ont été détruits.
+[Submission_3.Failed]
+Mission échouée.
+[Submission_4.Objectives]
+Nous avons repoussé les attaques ennemies, mais ils ont réussi à installer des positions d’obusiers juste devant le col. En tirant sur nos positions, ils ont déjà causé de lourds dégâts. Prenez toutes les forces disponibles et détruisez l’artillerie ennemie.
+[Submission_4.Description]
+Détruisez l’artillerie ennemie
+[Submission_4.Success]
+Les positions ennemies ont été détruites.
+[Submission_4.Failed]
+Mission échouée.

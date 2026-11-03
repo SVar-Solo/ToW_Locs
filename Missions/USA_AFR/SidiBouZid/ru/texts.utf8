@@ -1,0 +1,78 @@
+﻿[Mission.Objectives]
+Разбить противника
+[Mission.Description]
+Подполковник Уотерс! Вы должны провести наступательную операцию, целью которой является разгром противника в районе Сиди-бу-Зид.
+[Mission.Success]
+Наступательная операция прошла успешно! Враг в панике бежит с поля боя!
+[Mission.Failed]
+Мы отступаем! Наши войска потерпели поражение в этом бою!
+[Submission1.Objectives]
+Освободить деревню
+[Submission1.Description]
+Освободить деревню от вражеских войск.
+[Submission1.Success]
+Деревня освобождена от захватчиков.
+[Submission1.Failed]
+Нам не удалось выбить врага из деревни.
+[Submission2.Objectives]
+Восстановить связь с батареей
+[Submission2.Description]
+В месторасположение гаубичной артиллерии послать отделение пехоты для восстановления связи с ней.
+[Submission2.Success]
+Связь с артиллерией восстановлена.
+[Submission2.Failed]
+Восстановить связь с артиллерией не удалось!
+[Submission3.Objectives]
+Защитить батарею
+[Submission3.Description]
+Не допустить захвата артиллерии врагом.
+[Submission3.Success]
+Артиллерия не досталась врагу!
+[Submission3.Failed]
+Противник захватил артиллерию!
+[Submission4.Objectives]
+Вернуть батарею
+[Submission4.Description]
+Отбить артиллерийскую позицию назад!
+[Submission4.Success]
+Батарея снова в наших руках!
+[Submission4.Failed]
+Батарея осталась у противника!
+[Submission5.Objectives]
+Уничтожить засаду
+[Submission5.Description]
+Уничтожить засаду
+[Submission5.Success]
+Засада уничтожена!
+[Submission5.Failed]
+Засаду уничтожить не удалось!
+[Submission8.Objectives]
+Уничтожить врага
+[Submission8.Description]
+Враг предпринял контратаку с целью сорвать наступление наших войск на Сиди-Бу-Зид. Уничтожить врага!
+[Submission8.Success]
+Наступающие силы противника уничтожены!
+[Submission8.Failed]
+Наши войска были разгромлены!
+[StringTable.Zasada]
+Засада!
+[Submission6.Objectives]
+Уничтожить танки
+[Submission6.Description]
+Уничтожить наступающие танки противника.
+[Submission6.Success]
+Танки противника уничтожены!
+[Submission6.Failed]
+Вражеские танки не уничтожены!
+[Submission7.Objectives]
+Уничтожить танки врага
+[Submission7.Description]
+На южном направлении замечена группа вражеских танков. Немедленно уничтожить!
+[Submission7.Success]
+Группа вражеских танков разбита!
+[Submission7.Failed]
+Группа вражеских танков не была уничтожена!
+[StringTable.human]
+Пехота.
+[StringTable.spg]
+Самоходные орудия.

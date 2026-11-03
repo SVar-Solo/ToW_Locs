@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Nie pozwólcie nieprzyjacielowi przebić się przez linię frontu. 
+[Mission.Description]
+Wróg usiłuje przebić się przez siły dywizji. Zadaniem jest obrona Czerkaskoje. Utrzymanie pierwszego okopu i punktu obrony przeciwczołgowej to specjalny priorytet. Przypuszczajcie kontrataki na zbliżające się grupy wroga.
+[Submission1.Objectives]
+Zniszczcie nieprzyjacielskie czołgi.
+[Submission2.Objectives]
+Nie pozwólcie wrogowi oflankować naszych pozycji.
+[Submission3.Objectives]
+Wróg przedostał się przez linię frontu za pomocą czołgów oraz piechoty i nadal się przemieszcza.
+[Submission4.Objectives]
+Wrogie jednostki w sile kompanii, ze wsparciem ciężkich czołgów i dział szturmowych, rozpoczęły atak na wioskę. Odeprzyjcie atak wroga.
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Nasze wojska wycofują się pod naporem przeważających sił wroga.
+[Submission1.Success]
+Misja zakończona sukcesem, wrogie czołgi zostały zniszczone. 
+[Submission1.Failed]
+Misja nieudana, wrogie czołgi nie zostały powstrzymane.
+[Submission2.Success]
+Misja zakończona sukcesem, zapobieżono manewrowi flankującemu.
+[Submission2.Failed]
+Nieprzyjacielskie czołgi oflankowały nasze pozycje.
+[Submission_2_1.Success]
+Misja ukończona, grupa oskrzydlająca została zniszczona.
+[Submission_2_1.Failed]
+Kontratak nieudany, wróg kontynuuje natarcie.
+[Submission_2_2.Success]
+Przebijające się czołgi wroga zostały zniszczone, a równowaga przywrócona.
+[Submission_2_2.Failed]
+Kontratak zawiódł. Wrogie czołgi przedostały się na tyły dywizji!
+[Submission3.Success]
+Zadanie wykonane. 
+[Submission3.Failed]
+Wróg przebił się i zmierza w kierunku punktu dowodzenia dywizji!
+[Submission4.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Submission4.Failed]
+Nasze wojska wycofują się, atakowane przez przeważające siły wroga. 
+[StringTable.Tanks!]
+Czołgi! Przygotujcie się na odparcie ataku wroga.
+[StringTable.Stukas]
+Nalot! Kryć się!
+[StringTable.SM2]
+Załatwiliśmy te czołgi na cacy, a lotnicy podali pomocną dłoń.
+[StringTable.SM2_1]
+Zapewne teraz Niemcy ominą nasze pozycje. Uwaga na flanki!
+
+[StringTable.SPGs_Tanks]
+Czołgi i działa samobieżne z 245. NPP i 1440. PAS
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

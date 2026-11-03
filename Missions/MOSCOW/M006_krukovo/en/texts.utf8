@@ -1,0 +1,24 @@
+﻿[Mission1.Objectives]
+Destroy the enemy defenses.
+[Mission1.Description]
+Enemy troops have built up a defensive line on the approaches to the village Kryukovo. It is vitally important for our troops to regain control of this village. Destroy any enemy troops in vicinity and retake the town!
+
+Your order is to:
+- Destroy the enemy defenses.
+[Mission1.Success]
+The enemy defenses were destroyed! You have successfully fulfilled your orders!
+[Mission1.Failed]
+Your troops were defeated! You failed to complete your orders!
+[Mission2.Objectives]
+Repel the enemy counterattack.
+[Mission2.Description]
+German troops have launched a counterattack. You must hold your newly captured positions.
+
+Your orders are to:
+- Repel the enemy counterattack.
+- Hold the newly captured positions.
+
+[Mission2.Success]
+HQ’s orders have been fulfilled! The enemy counterattack was repelled.
+[Mission2.Failed]
+Your troops were defeated. You have failed!

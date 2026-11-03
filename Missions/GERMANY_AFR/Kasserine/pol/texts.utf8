@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Przełam obronę
+[Mission.Description]
+Majorze Gerhard, pańska grupa bojowa ma ruszyć na Le Kef przez Thala. Droga do Thala prowadzi przez przełęcz Kasserine, której według naszego wywiadu bronią wojska amerykańskie. Przełam obronę wroga na przełęczy i kontynuuj natarcie.
+[Mission.Success]
+Obrona wroga została zniszczona.
+[Mission.Failed]
+Odwrót. Nie udało się przełamać obrony wroga na przełęczy.
+[Submission_1.Objectives]
+Wyeliminuj lewą flankę
+[Submission_1.Description]
+Natychmiast zaatakuj wroga i wyeliminuj lewą flankę jego obrony. Wywiad donosi, że droga przez przełęcz jest dość wąska i jest przestrzelana przez wrogą artylerię. Ale jest górska ścieżka, którą możemy dotrzeć do wrogich armat przeciwpancernych i je zniszczyć.
+[Submission_1.Success]
+Lewa flanka obrony wroga została zniszczona!
+[Submission_1.Failed]
+Misja nieudana!
+[Submission_1_1.Objectives]
+Odeprzyj kontratak
+[Submission_1_1.Description]
+Wróg kontratakuje! Natychmiast zmobilizuj siły i odeprzyj szturm!
+[Submission_1_1.Success]
+Kontratak został skutecznie odparty.
+[Submission_1_1.Failed]
+Misja nieudana!
+[Submission_3.Objectives]
+Wyeliminuj obronę wroga
+[Submission_3.Description]
+Według naszego wywiadu mała grupa bojowa wroga zorganizowała obronę za przełęczą. Aby ruszyć na Thala, obrona wroga musi zostać wyeliminowana.
+[Submission_3.Success]
+Obrona wroga została wyeliminowana.
+[Submission_3.Failed]
+Misja nieudana!
+[Submission_2.Objectives]
+Wyeliminuj prawą flankę
+[Submission_2.Description]
+Nasze rozpoznanie ustaliło, że wróg zaminował wszystkie przejścia przez przełęcz z wyjątkiem jednego, chronionego przez wrogą artylerię i piechotę. Nie mamy czasu na rozminowywanie, ponieważ nasze lotnictwo melduje o zbliżaniu się do przełęczy dużego zgrupowania wroga. Aby nasze wojska mogły posuwać się naprzód, musimy zmiażdżyć prawą flankę obrony wroga.
+[Submission_2.Success]
+Prawa flanka obrony wroga została zniszczona.
+[Submission_2.Failed]
+Misja nieudana!
+[Submission_2_1.Objectives]
+Zmiażdż wroga
+[Submission_2_1.Description]
+Wroga grupa bojowa kontratakuje! Musimy ją wyeliminować druzgocącym ciosem.
+[Submission_2_1.Success]
+Wroga grupa bojowa została wyeliminowana.
+[Submission_2_1.Failed]
+Misja nieudana!
+[StringTable.Reinforcement]
+Majorze Gerhard. Masz teraz dowództwo nad czołgami i piechotą 10. Dywizji Pancernej.

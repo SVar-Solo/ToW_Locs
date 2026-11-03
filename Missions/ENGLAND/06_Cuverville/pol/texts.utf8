@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Wyzwól Cuverville i zabezpiecz drogi, aby przygotować dalsze natarcie.
+[Mission.Description]
+Strategiczna wieś Cuverville ma drogi prowadzące na południe i południowy wschód. Zabezpieczenie tych dróg ma kluczowe znaczenie dla naszego natarcia.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Zabezpiecz gospodarstwo na obrzeżach Cuverville.
+[Submission_1.Description]
+Gospodarstwo zajęte przez wroga.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Wyzwól wieś Cuverville.
+[Submission_2.Description]
+Wróg umocnił się i zajął pozycję obronną w Cuverville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Zabezpiecz drogę prowadzącą na południe.
+[Submission_3.Description]
+Zabezpiecz drogę i wyeliminuj wszystkie wrogie jednostki w rejonie.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Zabezpiecz drogę na południowy wschód od Cuverville.
+[Submission_4.Description]
+Oczyść z wroga drogę i okolicę.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+Misja wykonana.
+[Submission_4.Failed]
+Nie udało się wykonać zadania.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana.
+[Submission_1.Success]
+Misja wykonana.
+[Submission_1.Failed]
+Nie udało się wykonać zadania.
+[Submission_2.Success]
+Cuverville zdobyte. Misja wykonana.
+[Submission_2.Failed]
+Nie udało się wykonać zadania.
+[Submission_3.Success]
+Misja wykonana.
+[Submission_3.Failed]
+Misja nieudana.
+[StringTable.Tanks]
+Dostępne siły odwodowe.

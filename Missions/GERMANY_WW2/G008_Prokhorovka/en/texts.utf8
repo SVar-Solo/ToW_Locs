@@ -1,0 +1,42 @@
+﻿[Submission_1.Objectives]
+To prevent Russian tanks from breaking through to your rear area you must stop them at all costs.
+[Submission_1.Description]
+The Russians have launched yet another counter offensive. Once again they are trying to break through our lines and create havoc in our rear areas. If they accomplish this task, they may be able to link up with other friendly units to encircle our forces. We most prevail and stop this attack.
+
+Your orders:
+-	Destroy all advancing enemy units.
+[Submission_1.Success]
+You have won and stopped this latest Russian offensive.
+[Submission_1.Failed]
+You have lost! Russian units have slipped through your lines and are now heading into our vulnerable rear areas.
+[Submission_2.Objectives]
+Crush the Russian resistance at the Prokhorovka station.
+[Submission_2.Description]
+The Russians have lost their momentum. Capitalize on this opportunity by attacking the Prokhorovka station.
+
+Your orders:
+-	Continue your advance towards the Prokhorovka station and destroy all defending units you encounter.
+[Submission_2.Success]
+You have won! Well done commander. Your actions today will buy us some much-needed time to regain the initiative.
+[Submission_2.Failed]
+You have lost! A golden opportunity to strike a vicious blow against the Russians has been squandered.
+[Mission.Objectives]
+Capture the Prokhorovka station
+[Mission.Description]
+Operation Citadel  has commenced and the  2nd SS Panzer Corps  has received the task of breaking through the enemy defenses built along the Kartashovka-Beregovoye-Prokhorovka-Storozhevoye fronts.
+
+Your orders:
+-	Break the Russian defenses around the Prokhorovka station. 
+
+[Mission.Success]
+Congratulations! You have broken the Russian defense!
+[Mission.Failed]
+You have failed to capture the Prokhorovka station.
+[StringTable.Tanks_Reserv]
+Tanks from the division reserve have been put at your disposal.
+[StringTable.SPG_Reserv]
+Self-propelled artillery units have been put at your disposal.
+[StringTable.Infantry_Reserv]
+Infantry units from the reserve have been put at your disposal.
+[StringTable.Inf_reserv]
+Infantry units from the reserve have been put at your disposal.

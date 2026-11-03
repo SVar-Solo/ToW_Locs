@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Conquistare e tenere la quota 232.8.
+[Mission.Description]
+Il gruppo di combattimento con carri armati, fanteria motorizzata e artiglieria avanzerà in direzione della quota 232.8. Sconfiggere il nemico sui versanti sudorientali della collina e avanzare fino ai suoi versanti nordoccidentali. Tenere la collina e impedire a carri e fanteria nemici di aggirare il grosso delle forze della divisione.
+[Submission1.Objectives]
+Conquistare le posizioni nemiche sulla quota 232.8.
+[Submission2.Objectives]
+Respingere i carri armati nemici.
+[Mission.Success]
+Missione compiuta.
+[Mission.Failed]
+Non siamo riusciti a eseguire gli ordini. Il nemico è troppo forte!
+[Submission1.Success]
+Missione compiuta, la quota 232.8 è stata conquistata.
+[Submission1.Failed]
+L'attacco si è arenato, è necessario un supporto immediato.
+[Submission2.Success]
+I contrattacchi nemici sono stati respinti con successo.
+[Submission2.Failed]
+Le nostre forze ripiegano sotto la pressione del nemico!
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

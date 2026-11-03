@@ -1,0 +1,177 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Elimine las defensas enemigas y capture la altura.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Elimine las defensas enemigas y capture la altura. Rechace todos los contraataques enemigos.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+El enemigo tiene fuertes fortificaciones en la zona. La primera parte de la línea de avance es relativamente llana, por lo que contará con apoyo de tanques. Sin embargo, la segunda parte del avance será solo de infantería. Su objetivo principal es la altura marcada en el mapa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+El enemigo tiene fuertes fortificaciones en la zona. La primera parte de la línea de avance es relativamente llana, por lo que contará con apoyo de tanques. Sin embargo, la segunda parte del avance será solo de infantería. Su objetivo principal es la altura marcada en el mapa. Esté preparado: según el cuartel general, el enemigo podría lanzar contraataques.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Altura capturada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Altura capturada.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Las tropas han sido derrotadas y se retiran.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Las tropas han sido derrotadas y se retiran.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Mantenga la altura marcada en el mapa. Mine todos los accesos.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Con su infantería, mantenga la altura en la zona del templo, de difícil tránsito. Recuerde que el enemigo tampoco podrá utilizar sus vehículos blindados pesados. Asigne grupos para colocar minas y proteger la retaguardia, y mine todos los accesos.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Altura perdida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Mantenga la altura marcada en el mapa. Mine todos los accesos.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Mantenga la altura marcada en el mapa hasta nueva orden.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Con su infantería, mantenga la altura en la zona del templo, de difícil tránsito. Recuerde que el enemigo tampoco podrá utilizar sus vehículos blindados pesados. Asigne grupos para colocar minas y proteger la retaguardia, y mine todos los accesos.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Con su infantería, mantenga la altura en la zona del templo, de difícil tránsito. Recuerde que el enemigo tampoco podrá utilizar sus vehículos blindados pesados. Asigne grupos para colocar minas y proteger la retaguardia, y mine todos los accesos.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Altura perdida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Altura perdida.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Hay apoyo de artillería disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Hay apoyo aéreo disponible.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Hay infantería de reserva disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Hay infantería de reserva disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+El apoyo de artillería está listo.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+El apoyo de artillería está listo.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+La fuerza aérea está disponible.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Hay artillería disponible.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+La fuerza aérea espera órdenes.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+El apoyo de morteros está a sus órdenes.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Fuerza de helicópteros
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Elimine las defensas enemigas y capture la altura.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Capture la altura y elimine a todos los hostiles. Cuidado con sus vehículos blindados e infantería en el accidentado terreno montañoso. Puede utilizar helicópteros con fines de reconocimiento.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture la altura.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+El reconocimiento aéreo ha detectado lo que parece ser una partida avanzada enemiga. Debe capturar la altura antes que los coreanos. Utilice sus helicópteros para redesplegar rápidamente a sus tropas.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Rechace todos los ataques enemigos.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Mantenga la altura a toda costa y rechace todos los ataques enemigos. El terreno es difícil, así que utilice minas y medidas antitanque de infantería a corta distancia.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Mantenga la altura a toda costa y rechace todos los ataques enemigos. El terreno es difícil, así que utilice minas y medidas antitanque de infantería a corta distancia.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Utilice helicópteros para capturar la altura táctica antes de que el enemigo llegue a ella. Luego organice sus defensas y rechace todos los ataques enemigos. Defienda la altura durante el tiempo especificado hasta que lleguen las fuerzas principales.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Misión cumplida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+¡Misión fallida!
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Capture la altura marcada en el mapa.
+

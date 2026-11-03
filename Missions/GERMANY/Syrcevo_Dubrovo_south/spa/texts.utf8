@@ -1,0 +1,35 @@
+﻿[Mission.Description]
+Capture el punto fuerte enemigo y garantice la entrada en combate de las fuerzas siguientes.
+[Mission.Objectives]
+El grupo de combate avanzará hacia Dubrovo. Derrote al enemigo en el punto fuerte y alcance después las afueras orientales de la aldea. Destruya las defensas enemigas en el sector de ruptura. Asegure las zonas de despliegue para los refuerzos.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+No hemos podido cumplir nuestras órdenes. ¡El enemigo es demasiado fuerte! 
+[StringTable.Smoke]
+El flanco izquierdo será cubierto con una cortina de humo. Designe el arco de fuego para la segunda cortina de humo.
+[Submission1.Objectives]
+Capture uno de los puntos fuertes enemigos y rompa así su sistema de fuego.
+[Submission2.Objectives]
+Rechace los contraataques enemigos. Garantice la entrada en combate de las fuerzas siguientes.
+[Submission1.Success]
+Misión cumplida.
+[Submission1.Failed]
+El ataque se ha estancado; se requiere apoyo inmediato.
+[Submission2.Success]
+Misión cumplida; los refuerzos han avanzado dentro del perímetro defensivo enemigo.
+[Submission2.Failed]
+Nuestras fuerzas se retiran bajo la presión enemiga.
+[StringTable.SM11]
+El punto fuerte 1 ha sido capturado.
+[StringTable.SM12]
+El punto fuerte 2 ha sido capturado.
+[StringTable.SM13]
+El punto fuerte 3 ha sido capturado.
+
+[StringTable.avia_report]
+Hay apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

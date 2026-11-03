@@ -1,0 +1,70 @@
+﻿[Mission1.Objectives]
+Expulse os agressores fascistas da aldeia.
+[Mission1.Description]
+Unidades alemãs do Grupo de Exércitos Sul e do Grupo de Exércitos Centro mantêm posições defensivas nos arredores da cidade de Kovel. Elas devem ser eliminadas.
+
+Suas ordens:
+- 	Desaloje as unidades inimigas de suas posições defensivas em torno de Kovel.
+[Mission1.Success]
+O ataque foi bem-sucedido e a aldeia foi libertada. Os moradores locais falam das atrocidades inimagináveis cometidas pelos fascistas durante a ocupação. Esses relatos acenderam ainda mais o fogo no coração de seus soldados!
+[Mission1.Failed]
+A ordem não foi cumprida e seu ataque se extinguiu. Suas ações precipitadas comprometeram o sucesso de toda a operação!
+[Submission2.Objectives]
+Contenha o ataque inimigo.
+[Submission2.Description]
+Os relatórios de reconhecimento dizem que várias unidades inimigas estão se movendo em direção a um posto de combustível.
+
+Suas ordens:
+-	 Impeça o inimigo de retomar o posto de combustível.
+[Submission2.Success]
+O contra-ataque inimigo foi repelido. Agora podemos manter o avanço!
+[Submission2.Failed]
+O inimigo capturou o posto de combustível. Seus esforços fracassaram.
+[Submission1.Objectives]
+Expulse o inimigo do posto de combustível.
+[Submission1.Description]
+A complexa rede viária nesta área é totalmente inadequada para manter as unidades bem abastecidas, armadas e com combustível. Por isso, os postos de combustível são bens muito valiosos e não devem cair nas mãos do inimigo. Se você encontrar quaisquer depósitos inimigos, use todos os meios para capturá-los para nosso uso.
+
+Suas ordens:
+- 	Capture o depósito de combustível mantido pelo inimigo.
+- 	Estabeleça uma cabeça de ponte que nos permita trazer unidades de reserva para mais perto da frente.
+[Submission1.Success]
+O posto de combustível foi capturado e ganhamos um valioso ativo logístico.
+[Submission1.Failed]
+Você não conseguiu capturar este local vital.
+[Mission1_1.Objectives]
+Avance mais fundo em território inimigo.
+[Mission1_1.Description] 
+As defesas inimigas foram rompidas! Você deve continuar o avanço nesta direção e atacar as unidades alemãs na cidade à frente. Não devemos permitir que o inimigo recupere a iniciativa, portanto ataque rápido, comandante.
+
+Suas ordens:
+- 	Ataque as forças inimigas na aldeia.
+[Mission1_1.Success]
+Suas ordens foram bem executadas e as defesas inimigas estão desmoronando!
+[Mission1_1.Failed]
+Os alemães conseguiram manter suas posições na aldeia.
+[Submission2_1.Objectives]
+Ataque o grupo de tanques inimigo.
+[Submission2_1.Description]
+Os relatórios de reconhecimento pareciam indicar uma fraqueza no flanco alemão. Abrimos caminho por suas defesas leves, mas agora encontramos unidades blindadas pesadas.
+
+Suas ordens:
+-	 Ataque o grupo de tanques inimigo.
+[Submission2_1.Success]
+As unidades de tanques inimigas foram destruídas.
+[Submission2_1.Failed]
+As unidades inimigas eram resistentes demais. Você fracassou, comandante.
+Suas tropas foram destruídas!
+[Mission1_2.Objectives]
+Ataque as forças inimigas na aldeia.
+[Mission1_2.Description]
+As defesas inimigas foram quebradas! Para explorar esse sucesso, devemos continuar o avanço e atacar as tropas alemãs localizadas na aldeia. A inteligência informa que o inimigo posicionou consideráveis unidades de reserva, portanto esteja preparado, comandante.
+
+Suas ordens:
+- 	Ataque as tropas inimigas na aldeia.
+[Mission1_2.Success]
+Você conseguiu capturar a aldeia.
+[Mission1_2.Failed]
+A aldeia não foi assegurada e perdemos o ímpeto.
+[StringTable.Reserv]
+Você recebeu reforços adicionais.

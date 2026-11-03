@@ -1,0 +1,34 @@
+﻿ai_messages.Command_Incomplete	Impossibile eseguire il comando
+ai_messages.Soldier_Death	Caduto in azione
+ai_messages.Soldier_Under_Attack	Il soldato è sotto attacco
+ai_messages.Soldier_No_Ammo	Il soldato è senza munizioni
+ai_messages.Soldier_No_Weapon	Nessuna arma
+ai_messages.Soldier_No_Point_In_LOF	Nessuna linea di tiro
+ai_messages.Soldier_In_Panic	In preda al panico
+ai_messages.Vehicle_Death	Veicolo distrutto
+ai_messages.Vehicle_No_Crew	Veicolo vuoto
+ai_messages.Artillery_Death	Pezzo distrutto
+ai_messages.Artillery_No_Ammo	Il pezzo è senza munizioni
+ai_messages.Artillery_No_Weapon	Pezzo distrutto
+ai_messages.Artillery_No_Point_In_LOF	Nessuna linea di tiro
+ai_messages.Tankman_Under_Attack	Il veicolo è sotto attacco
+ai_messages.Tankman_No_Ammo	Il veicolo è senza munizioni
+ai_messages.Tankman_No_Weapon	Arma del veicolo distrutta
+ai_messages.Tankman_Damage_Engine	Veicolo immobilizzato
+ai_messages.Tankman_Blocked	Percorso del veicolo bloccato
+ai_messages.Tankman_In_Panic	In preda al panico
+ai_messages.Tankman_No_Point_In_LOF	Nessuna linea di tiro
+ai_messages.Driver_Damage_Engine	Veicolo immobilizzato
+ai_messages.Driver_Blocked	Percorso del veicolo bloccato
+ai_messages.Shooter_Not_Skilled	Puntatore inesperto
+ai_messages.Driver_Not_Skilled	Pilota inesperto
+ai_messages.Tankman_Stucked	Veicolo impantanato
+ai_messages.Artillery_Stucked	Impantanato
+ai_messages.Mine_Defuse	Mina disinnescata
+ai_messages.Mine_Place	Mina posata
+ai_messages.Mine_Detected	Mina individuata
+ai_messages.Repair_Started	Riparazione iniziata
+ai_messages.Repair_Finished	Riparazione completata
+ai_messages.Hold_Captive	Catturato
+ai_messages.Free_Captive	Liberato dalla prigionia
+ai_messages.Panic_Message	In preda al panico

@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Unsere Einheiten wurden eingekreist und versuchen nun auszubrechen.
+[Mission.Description]
+Ihre Hauptaufgabe ist es, durch die feindliche Umzingelung durchzubrechen. Nachdem Sie sich bis zum Fluss durchgekämpft haben, verhindern Sie, dass die Russen Panzerabwehrstellungen aufstellen können, so dass auch die nachfolgenden Einheiten unbehindert hindurch gelangen können.
+[Mission.Success]
+Sie haben den Durchbruch durch die Umzingelung geschafft.
+[Mission.Failed]
+Ihre Truppen konnten nicht ausbrechen.
+[Submission_1.Objectives]
+Brechen Sie durch die Umkreisung und rücken Sie bis zur Stadt an dem Fluss vor. Um unseren Durchbruchskorridor zu erweitern müssen Sie alle erkannten feindlichen Truppen angreifen und eliminieren. 
+[Submission_1.Description]
+Ihre Befehle:
+	- Rücken Sie bis zu der Stadt an dem Fluss vor.
+	- Zerstören Sie unterwegs alle feindlichen Einheiten.
+[Submission_1.Success]
+Sieg! Ihre Einheiten sind durchgebrochen und haben einen Brückenkopf am Fluss errichtet.
+[Submission_1.Failed]
+Sie wurden geschlagen. Unsere Truppen konnten keinen Durchbruch erzwingen.
+[StringTable.ger_reserv]
+Das Hauptquartier hat Ihnen einige gepanzerte Einheiten zugewisen. Benutzen Sie sie mit Bedacht!

@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Push the enemy out of the town.
+[Mission1.Description]
+There is a small group of Germans in the town ahead. The enemy is not aware of our presence so we must attack quickly and decisively in order to drive them out.
+
+Your orders:
+-	Liberate the town from the Germans.
+[Mission1.Success]
+Order carried out, the enemy is defeated and the town liberated! The Allied offensive can now continue.
+[Mission1.Failed]
+Mission failed! Your troops were eliminated! This defeat will make the rest of the operation a lot harder.
+[Submission2.Objectives]
+Repulse the German attack.
+[Submission2.Description]
+The situation is critical! The Germans have brought up their reserves in the operation area. German units have forced a break-through and are moving toward our positions in town in order to push us out.
+
+Your orders: 
+-	Consolidate your positions and repulse the advancing enemy forces.
+[Submission2.Success]
+Order carried out! The enemy attack has been repulsed. Good job!
+[Submission2.Failed]
+Mission failed! Your troops have been driven away from the town. Your failure threatens the very success of the entire operation!
+[StringTable.Reserv]
+Reinforcements have arrived.
+[StringTable.Subtitle_01]
+France. June 1944

@@ -1,0 +1,65 @@
+﻿[EncDescription_data/units/mortar/ger/81mm_sGrW34]
+Morteiro de 8cm schwere Granatwerfer 34 (morteiro de 8cm modelo 1934 s.Gr.W.34)
+
+O morteiro médio de batalhão s.Gr.W.34 (pesado pela classificação alemã) foi projetado pela Rheinmetall AG em 1932. Tecnicamente, baseava-se no morteiro Stokes-Brandt, adotando o que viria a ser o projeto clássico quase triangular (em que o cano e o bipé formavam dois lados do triângulo, com o solo servindo de terceiro lado).
+
+O morteiro pesava 57 kg e podia ser facilmente desmontado em três partes para transporte. Além do projeto principal, foi construído um morteiro leve para tropas aerotransportadas, que pesava apenas 26 kg. A munição do morteiro incluía dois tipos de granadas comuns de fragmentação, granadas de fragmentação saltitantes, além de granadas fumígenas e de marcação de alvos. Curiosamente, as granadas alemãs podiam ser disparadas dos morteiros soviéticos de 82mm, enquanto as granadas soviéticas não podiam ser disparadas dos morteiros alemães de 81mm.
+
+Os morteiros de 81mm eram empregados nas companhias de metralhadoras dos batalhões de infantaria, com 6 morteiros por batalhão e, às vezes, até mais. Esses morteiros s.Gr.W.34 foram amplamente usados durante toda a guerra e conquistaram a reputação de arma simples, confiável e eficaz. Ao todo, 71.630 morteiros desse tipo foram produzidos em série durante os anos de guerra (de 1939 a 1945).
+
+O s.Gr.W.34 era às vezes instalado em transportes blindados de pessoal especialmente modificados, o SdKfz 250 e o SdKfz 251 (o SdKfz 250/7 e o SdKfz 251/2, respectivamente), que eram usados nos regimentos de Panzergrenadier.
+
+[EncDescription_data/units/mortar/ger/SdKfz_251_2_Ausf_C_Kursk1943]
+SdKfz 251/2 Ausf.C (porta-morteiro s.Gr.W.34 de 80mm baseado no transporte de pessoal semilagarta médio SdKfz 251C)
+
+O sucesso do transporte de pessoal médio SdKfz 251 levou à sua adoção como base para a construção de uma ampla gama de veículos especializados, entre eles o porta-morteiro SdKfz 251/2. O projeto básico foi pouco alterado: um morteiro s.Gr.W.34 de 8cm foi montado no compartimento do veículo, que recebeu caixas de munição. A metralhadora frontal geralmente era removida para dar espaço. A guarnição de combate incluía o comandante do veículo, o motorista e a equipe do morteiro. O morteiro podia ser facilmente desmontado, se necessário, mas também era possível disparar de dentro do veículo.
+
+O SdKfz 251/2 entrou em serviço nas companhias pesadas dos batalhões mecanizados dos regimentos de Panzergrenadier, subordinados às divisões blindadas e de Panzergrenadier da Wehrmacht e das SS. O veículo combinava alta manobrabilidade com proteção balística razoável para a guarnição. É consenso geral que o veículo foi um projeto de grande sucesso. Até setembro de 1943, os porta-morteiros foram produzidos sobre a base do SdKfz 251 Ausf.C, que participou da Batalha de Kursk. Depois, a partir do outono de 1943, a modificação Ausf.D entrou em produção em série. Os porta-morteiros SdKfz 251/2 foram usados em todas as frentes até o fim da guerra.
+
+[EncDescription_data/units/mortar/usa/81mm_mortar_M1]
+Morteiro M1 de 81mm
+
+A Primeira Guerra Mundial rapidamente se tornou uma guerra de trincheiras e, naturalmente, era difícil tomar sistemas de trincheiras cobertos por arame farpado e apoiados por fogo de metralhadoras. Nessas condições, a arma decisiva passou a ser o morteiro, uma arma leve e barata de tiro curvo. Entre as numerosas variantes, a fornecida pelo engenheiro britânico Wilfred Stokes foi a mais bem-sucedida, e sua forma quase triangular domina o projeto de morteiros desde então.
+Ao entrar na Primeira Guerra Mundial, o Exército dos EUA adotou o morteiro Stokes de 3 polegadas e o usou ativamente a partir daquele momento.
+Após a guerra, o morteiro Stokes foi aprimorado pelo engenheiro francês Edgar Brandt, que inventou o projétil de morteiro em forma de gota. Assim, o projeto Stokes-Brandt tornou-se o morteiro clássico.
+Em 1931, o Exército dos EUA comprou quatro morteiros Stokes-Brandt, que haviam sido adotados pelas forças francesas como mle 1927/31. Após alguns testes e melhorias, o Exército o adotou como M1.
+Os morteiros M1 eram classificados como artilharia de batalhão e tiveram uso ativo na Segunda Guerra Mundial, na Coreia e no Vietnã, provando repetidamente sua eficiência e confiabilidade. O morteiro dispunha de uma ampla gama de munição, incluindo vários tipos de granadas HE, fumígenas e de iluminação, o que ampliava ainda mais sua aplicação. O morteiro M1 era bastante próximo de seu equivalente soviético, mas tinha um ângulo de elevação menor. Havia também uma variante autopropulsada baseada no semilagarta M3.
+A partir do final da década de 1950, o Exército dos EUA substituiu gradualmente o M1 pelo M29, mais leve e de maior alcance.
+
+[EncDescription_data/units/mortar/usa/m21_halftrack_mortar]
+M21 Mortar Motor Carriage (MMC): montagem de artilharia autopropulsada sobre chassi semilagarta.
+
+Foi produzido pela White Motor Company em 1944. Foram fabricados apenas 110 exemplares. Serviu principalmente na Frente Ocidental, na Normandia e no sul da França, e depois nas Ardenas, durante a Batalha do Bulge. Foi considerado superado em 1945, quando se constatou que o morteiro M1 de 81 mm não tinha potência suficiente para fornecer apoio de artilharia eficaz.
+
+O M4 foi desenvolvido para atender à necessidade de um porta-morteiro especializado baseado no M2 Half Track Car, que o M21 logo substituiu. O M4 inicial foi projetado para transportar um morteiro. Em emergências, o morteiro podia ser disparado de dentro do veículo. O M4A1 aprimorado tinha o piso reforçado para que o morteiro pudesse ser disparado do veículo, mas a montagem ficava voltada para trás e não tinha giro horizontal. Isso causava problemas quando os soldados que operavam o morteiro embarcavam no veículo, de modo que a 2ª Divisão Blindada dos EUA reposicionou os morteiros para que pudessem atirar para a frente.
+
+O Departamento de Artilharia e Armamento seguiu o exemplo e criou um novo MMC de 81 mm, o T19 MMC, baseado no semilagarta M3, maior. Os testes de desenvolvimento do T19 foram concluídos em julho de 1943, e o veículo foi posteriormente padronizado como M21 MMC.
+
+[EncDescription_data/units/mortar/rus/50mm_mortar_obr1941]
+Morteiro de companhia de 50mm modelo 1941
+
+O projeto do morteiro de companhia de 50mm começou no início de 1937, no bureau de projeto da Fábrica nº 7. Após os testes de vários protótipos, o morteiro de companhia de 50mm modelo 1938, baseado em um esquema de projeto quase triangular, foi aceito em serviço. Uma modernização posterior levou ao morteiro de companhia de 50mm modelo 1940, de fabricação mais simples.
+
+O morteiro de companhia de 50mm modelo 1941 usava um esquema selado, ou seja, todas as suas peças eram montadas sobre uma placa de base. O cano tinha apenas dois ângulos de tiro fixos, 45 e 75 graus, e, além disso, a granada tinha apenas uma carga. O alcance de tiro era ajustado com a ajuda de uma luva especial no cano, que servia de escape para parte dos gases, alterando a pressão no cano. A munição consistia em dois tipos de granadas, uma com seis aletas e outra com dez. Em combate e em movimento, o morteiro era carregado por um membro da guarnição, à mão ou em uma mochila especial. As granadas eram transportadas em suportes, com sete granadas em cada um. O projeto do morteiro era engenhoso e tão bom quanto os de outros países, como o morteiro alemão G.W.35 de 50mm.
+
+Em termos de organização, os morteiros de 50mm eram usados nas companhias de fuzileiros, cada uma com três morteiros. De dezembro de 1941 a julho de 1942, esses morteiros foram retirados das companhias e dos batalhões e reunidos em batalhões de morteiros regimentais. A partir de dezembro de 1944, os morteiros de 50mm foram retirados do armamento das divisões de fuzileiros.
+
+Os morteiros de 50mm foram amplamente usados durante toda a guerra, embora, no fim do conflito, seu número tenha diminuído significativamente devido ao término da produção. Quase 175.000 morteiros de companhia foram produzidos entre 1939 e 1943.
+
+[EncDescription_data/units/mortar/rus/82mm_mortar_obr1941]
+Morteiro de batalhão de 82mm M1941
+
+A URSS começou a trabalhar em morteiros em meados da década de 1920. A maioria desses projetos foi desenvolvida pela equipe conhecida como "Grupo D", sob a supervisão de N. Dorovlyov. No entanto, nenhum deles entrou em produção em massa até meados da década de 1930.
+Em 1929, nos conflitos armados na Ferrovia Oriental Chinesa, as tropas soviéticas capturaram alguns morteiros Stokes-Brandt de 81mm, que apresentavam o clássico projeto quase triangular. Até o final de 1931, o Grupo D havia desenvolvido um morteiro de 82mm baseado nesses troféus. Os testes de campo, que inicialmente utilizaram granadas chinesas capturadas, começaram em 1933, mas se mostraram demorados. Em 1936, o primeiro morteiro soviético, designado morteiro de batalhão de 82mm M1936, foi adotado e entrou em produção em massa. Pouco depois, foi lançada uma variante mais nova, o morteiro de batalhão de 82mm M1937, que substituiu a placa de base quadrada do modelo anterior por uma placa redonda.
+As melhorias continuaram, e a variante seguinte, o morteiro de batalhão de 82mm M1941, tinha rodas destacáveis e um bipé e uma placa de base diferentes. A terceira e última variante do período da guerra, o morteiro de batalhão de 82mm M1943, tinha bipé, rodas e suporte de mira diferentes. Cada uma era tão popular que as três variantes foram produzidas simultaneamente durante a guerra.
+O M1941 baseava-se no projeto quase triangular e, graças às rodas destacáveis, o morteiro montado podia ser rapidamente reposicionado a curtas distâncias por um único soldado. As rodas costumavam ser retiradas durante o tiro. O morteiro também podia ser desmontado em três partes e reposicionado pela guarnição. A munição incluía granadas de fragmentação e fumígenas de seis e dez aletas (com cargas diferentes). O morteiro também era capaz de disparar granadas alemãs capturadas e granadas americanas recebidas pelo Lend-Lease. No geral, o morteiro de batalhão de 82mm M1941 estabeleceu uma excelente reputação em combate e era muito fácil de fabricar.
+
+Os morteiros de 82mm eram classificados como artilharia de batalhão, mas o número de peças por batalhão variava. Antes de julho de 1941, cada batalhão tinha uma companhia de morteiros com seis morteiros de 82mm. Mas, em julho de 1941, isso foi alterado para um único pelotão de morteiros com dois morteiros. Por fim, em dezembro de 1941, os morteiros foram excluídos dos batalhões de fuzileiros e organizados em batalhões de morteiros regimentais. De julho de 1942 até o fim da guerra, cada batalhão tinha uma companhia com nove morteiros, e um batalhão de fuzileiros motorizados tinha seis morteiros de 82mm. Os morteiros de batalhão foram ativamente usados durante a guerra, e sua produção em massa em 1939-45 totalizou 168 mil peças. Por muito tempo, nos anos do pós-guerra, diversas variantes do morteiro de 82mm permaneceram em serviço no Exército Soviético. Muitos outros morteiros foram exportados, em particular para a Coreia do Norte, que os empregou ativamente na Guerra da Coreia.
+
+[EncDescription_data/units/mortar/UK/81mm_Ordnance_ML_3_inch_Mortar]
+Morteiro Ordnance ML de 3 polegadas Mk.I
+
+Durante a Primeira Guerra Mundial, os britânicos aprenderam rapidamente a valorizar o morteiro e usaram ativamente o morteiro Stokes, baseado no projeto quase triangular. Modificado por Brandt após a guerra, o morteiro agora conhecido como Stokes-Brandt ganhou reconhecimento mundial e continua amplamente usado até hoje.
+
+A modificação britânica do morteiro Stokes-Brandt, designada morteiro Ordnance ML de 3 polegadas Mk. I, foi adotada na segunda metade da década de 1920 e foi ativamente usada durante toda a Segunda Guerra Mundial. O morteiro britânico tinha alcance menor que o de seu equivalente alemão, problema que foi corrigido pela modificação Mk. II, que serviu ativamente até a década de 1960.
+

@@ -1,0 +1,61 @@
+﻿[Mission.Objectives]
+Defend against a new German offensive.
+[Mission.Description]
+To prevent being encircled, the German High Command has launched a small, but fierce counter attack called Operation Ludditch.
+
+Your order:
+- 	Stop the German offensive
+[Mission.Success]
+Mission accomplished. The massive offensive has been stopped.
+[Mission.Failed]
+The German attack has succeeded and we have sustained heavy casualties.
+[Submission1.Objectives]
+Attack the group of the enemy’s forces.
+[Submission1.Description]
+Recon reports that the first phase of the German attack seems to be coming at us from the Northeast. 
+
+Your order is:
+- 	Attack the enemy units advancing in from the Northeast.
+[Submission1.Success]
+Mission accomplished. The enemy forces are retreating.
+[Submission1.Failed]
+Mission failed. Your troops have been defeated.
+[Submission2.Objectives]
+Attack the enemy forces.
+[Submission2.Description]
+The German offensive continues and now it appears that he is going to attack us from the East.
+
+Your orders:
+- 	Attack the enemy units advancing from the East.
+[Submission2.Success]
+Mission accomplished. The enemy attack has been stopped.
+[Submission2.Failed]
+Mission failed. Your troops are destroyed.
+[Submission3.Objectives]
+Attack the troops approaching from the North.
+[Submission3.Description]
+The day is not won yet. Another enemy attack is being prepared from the North. This time they outnumber us but you must prevail.
+
+Your orders:
+- 	Destroy the main German assault.
+[Submission3.Success]
+Mission accomplished. This phase of the enemy plan has been stopped.
+[Submission3.Failed]
+Mission failed. The enemy offensive was a success, and your troops are destroyed.
+[StringTable.Reserve
+Reinforcements have arrived.
+[Submission4.Objectives]
+Attack the German forces.
+[Submission4.Description]
+We have held out so far, but it seems the Germans are about to prepare one last attack, this time originating from the East.
+
+Your orders:
+- 	Attack the enemy forces approaching from the East and prevent an encirclement of our forces.
+[Submission4.Success]
+Mission accomplished. The enemy failed to break through and encircle our forces.
+[Submission4.Failed]
+Mission failed. Your troops are destroyed.
+[StringTable.Subtitle_01]
+France. August 1944
+[StringTable.Reserv]
+Reinforcements have arrived.

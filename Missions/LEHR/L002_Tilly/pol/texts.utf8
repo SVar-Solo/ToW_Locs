@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Utrzymać wskazany rejon i bronić go.
+[Submission1.Description]
+Brytyjski XXX rozpoczął nową ofensywę przeciwko 901. Pułkowi Grenadierów Pancernych broniącemu miasta Tilly.
+ 
+Rozkazy:
+- Utrzymać miasto
+[Submission1.Success]
+Dobra robota!
+[Submission1.Failed]
+Porażka! Twoje wojska zostały zniszczone.
+[Submission2.Objectives]
+Zatrzymaj nieprzyjacielski atak.
+[Submission2.Description]
+Brytyjski XXX Korpus rozpoczął atak. Chodzi o osłabienie Twoich pozycji, aby umożliwić 7. Dywizji Pancernej ponowienie ofensywy.
+ 
+Rozkazy:
+- Zatrzymać nieprzyjacielski atak.
+[Submission2.Success]
+Dobra robota! Nieprzyjacielski atak został zatrzymany.
+[Submission2.Failed]
+Porażka! Twoje wojska zostały zniszczone.

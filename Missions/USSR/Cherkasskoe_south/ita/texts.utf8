@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Respingere gli attacchi nemici a sud di Cerkasskoe. 
+[Mission.Description]
+Fino a un battaglione di fanteria con carri armati della divisione Grossdeutschland avanza da sud per assaltare Cerkasskoe. Concentrare gli sforzi sul mantenimento della prima trincea. Se il nemico sfonda, ripiegare sulle posizioni alternative alla periferia sudoccidentale del villaggio.
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Le nostre forze si ritirano sotto l'assalto di un nemico superiore.
+[Submission_1.Objectives]
+Impedire al nemico di penetrare nella parte meridionale di Cerkasskoe fino all'arrivo dei rinforzi.
+[Submission_1.Success]
+L'avanzata nemica è stata fermata.
+[Submission_1.Failed]
+Il nemico è penetrato nel villaggio, le nostre truppe si ritirano.
+[Submission_2.Objectives]
+Ripiegare nella parte centrale di Cerkasskoe. Coprire con il fuoco di artiglieria e carri il ripiegamento del grosso delle forze sulla nuova linea.
+[Submission_2.Success]
+Missione compiuta, le nostre forze hanno occupato la nuova linea di difesa.
+[Submission_2.Failed]
+Il controllo delle truppe è perso; le unità si ritirano in disordine in gruppi isolati.
+[StringTable.Reinforcement_tanks]
+Un gruppo di carri armati inviato dalle riserve della divisione è ora ai vostri ordini.
+[StringTable.Reinforcement_spg]
+Una batteria di semoventi è ora sotto il vostro controllo.
+
+[StringTable.ChangeArmy]
+I gruppi tattici del fianco sinistro e del fianco destro sono ora ai vostri ordini. 
+[StringTable.tanks]
+Carri armati del 245o Reggimento carri indipendente
+[StringTable.SPG]
+Cannoni d'assalto del 1440o Reggimento di artiglieria semovente
+[StringTable.Infantry]
+Fanteria
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

@@ -1,0 +1,47 @@
+﻿[Mission1.Objectives]
+Repousser les troupes fascistes attaquant par l’est.
+[Mission1.Description]
+Les Allemands ont lancé une attaque dans ce secteur du front en direction de Vyazma. Leur objectif est de percer nos lignes et de poursuivre vers Moscou. Il est absolument vital de repousser cette attaque le temps pour nous d’amasser nos réserves.
+
+Vos ordres : 
+- 	Repousser les troupes fascistes attaquant par l’est.
+[Mission1.Success]
+L’attaque ennemie a été repoussée ! Grâce à vous, nous avons obtenu le temps nécessaire pour renforcer nos défenses. Des dizaines d’avions et de chars et des centaines de nouvelles recrues sont en route. Les fascistes ne prendront pas Moscou !
+[Mission1.Failed]
+L’ennemi a percé nos défenses et progresse vers Moscou. Le sacrifice de centaines de soldats n’a servi à rien. Vous n’êtes pas digne de votre commandement.
+[Mission2.Objectives]
+Repousser l’attaque allemande venant du nord.
+[Mission2.Description]
+Des forces ennemies considérables approchent par le nord. Nos défenses sont affaiblies par les attaques précédentes. Massez toutes les forces possibles et tenez bon contre l’avance des agresseurs fascistes en attendant l’arrivée des réserves. L’ennemi ne doit pas passer, Moscou ne doit pas tomber ! 
+
+Vos ordres : 
+-	Faire face à l’attaque allemande par le nord.
+[Mission2.Success]
+Vous avez manœuvré avec habilité et vous êtes parvenu à repousser l’attaque ennemie !
+[Mission2.Failed]
+L’adversaire a percé nos défenses !
+[Mission3.Objectives]
+Utiliser toutes les forces disponibles pour contre-attaquer.
+[Mission3.Description]
+Les troupes allemandes ne sont pas parvenues à percer nos défenses près du village. Grâce au temps gagné, des unités de réserve sont maintenant arrivées. Contre-attaquez avec ces nouvelles unités et infligez le maximum de pertes aux fascistes
+
+Vos ordres : 
+- 	Contre-attaquer et repousser l’ennemi de notre ligne de front.
+[Mission3.Success]
+Une contre-attaque réussie ! Les fascistes ont subi un sérieux revers.
+[Mission3.Failed]
+Vous avez échoué. Votre contre-attaque n’a servi qu’à aggraver le sacrifice de nos braves soldats.
+[Submission1.Objectives]
+Défendre la zone indiquée.
+[Submission1.Description]
+Les troupes allemandes avancent vers Moscou. La capitale est en danger et à ce moment précis, aucun endroit n’est plus important pour le salut de la Mère Patrie. Plusieurs de nos armées sont encerclées près de Vyazma et retiennent environ 28 divisions ennemies. Des forces ennemies considérables se regroupent vers Vyazma. Elles tentent d’encercler et contourner nos troupes pour marcher vers Moscou.
+
+Vos ordres :
+- 	Défendre la zone autour du village.
+- 	Empêcher les Allemands de percer vers Moscou.
+[Submission1.Success]
+Les ordres du commandement ont été exécutés ! La progression des troupes allemandes vers Moscou a été contrecarrée !
+[Submission1.Failed]
+Les ordres n’ont pas pu être exécutés ! Les troupes fascistes ont percé nos lignes et se dirigent vers Moscou !
+[StringTable.Reserv]
+Des renforts sont arrivés.

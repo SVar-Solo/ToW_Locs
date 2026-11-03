@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Détruire la batterie d’artillerie allemande située sur les hauteurs. Repousser toutes les attaques ennemies.
+[Mission.Description]
+Les Allemands ont positionné une batterie d’artillerie sur les hauteurs voisines afin de couvrir la route menant à Varsovie. Ils veulent nous empêcher de renforcer la capitale. Le commandement allemand n’avait pas prévu une attaque sur le flanc de leur 8e armée, voilà une bonne occasion de leur infliger un coup sévère.
+
+Vos ordres sont :
+-	Détruire la batterie d’artillerie allemande
+-	Se défendre contre les attaques ennemies
+[Mission.Success]
+Mission accomplie !
+[Mission.Failed]
+Vous avez échoué !
+[Submission_1.Objectives]
+Détruire la batterie d’artillerie allemande.
+[Submission_1.Description]
+Une batterie d’artillerie est positionnée sur les hauteurs. Les tirs de cette batterie bloquent la progression de nos troupes. 
+
+Les ordres :	
+-	Détruire la batterie d’artillerie et occuper les hauteurs.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Vous avez échoué dans votre mission !
+[Submission_2.Objectives]
+Des blindés allemands et de l’infanterie ont été repérés. Attaquez-les immédiatement !
+[Submission_2.Description]
+Nos unités de reconnaissance ont repéré des blindés allemands accompagnés par de l’infanterie. Il faut absolument les éliminer pour poursuivre notre avance. 
+
+Les ordres :
+-	Arrêter cette nouvelle tentative ennemie, se mettre en position défensive et éliminer l’ennemi.
+[Submission_2.Success]
+L’attaque a été repoussée.
+[Submission_2.Failed]
+Vous avez échoué dans votre mission.
+[Submission_3.Objectives]
+Prendre une position défensive sur les hauteurs et repousser la contre-attaque allemande.
+[Submission_3.Description]
+La batterie d’artillerie allemande a été neutralisée mais l’ennemi prépare déjà une contre-attaque pour reprendre les positions perdues.
+
+Vos ordres :
+-	Se mettre en position défensive sur les hauteurs et repousser toutes les contre-attaques ennemies.
+[Submission_3.Success]
+La contre-attaque ennemie a échoué. Bravo !
+[Submission_3.Failed]
+Nous avons subi de lourdes pertes. Nous sommes battus !
+[StringTable.reserv]
+Des renforts sont arrivés!

@@ -1,0 +1,195 @@
+﻿[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missão fracassada.
+
+[Reinforcement.Group3[Reinforcement]]
+Helicópteros e infantaria
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk1.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Seu grupo de combate deve eliminar os hostis que defendem este setor da frente.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Ataque e destrua todas as defesas inimigas na área assinalada no mapa.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Nosso destacamento de reconhecimento avançado invadiu um entroncamento no centro da região. O inimigo provavelmente tentará capturá-lo. Seu grupo de combate deve avançar até o entroncamento e apoiar o destacamento de reconhecimento.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Capture e mantenha o entroncamento no centro da região.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Objectives]
+Impeça que os hostis rompam o seu setor da frente.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk1.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk2.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk3.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk4.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk4.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk3.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk2.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Objectives]
+Capture e mantenha o entroncamento no centro da região.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk1.Mission.Description]
+Nosso destacamento de reconhecimento avançado invadiu um entroncamento no centro da região. O inimigo provavelmente tentará capturá-lo. Seu grupo de combate deve avançar até o entroncamento e apoiar o destacamento de reconhecimento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Objectives]
+Capture e mantenha o entroncamento no centro da região.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Objectives]
+Capture e mantenha o entroncamento no centro da região.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Objectives]
+Capture e mantenha o entroncamento no centro da região.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk2.Mission.Description]
+Nosso destacamento de reconhecimento avançado invadiu um entroncamento no centro da região. O inimigo provavelmente tentará capturá-lo. Seu grupo de combate deve avançar até o entroncamento e apoiar o destacamento de reconhecimento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk3.Mission.Description]
+Nosso destacamento de reconhecimento avançado invadiu um entroncamento no centro da região. O inimigo provavelmente tentará capturá-lo. Seu grupo de combate deve avançar até o entroncamento e apoiar o destacamento de reconhecimento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Description]
+Nosso destacamento de reconhecimento avançado invadiu um entroncamento no centro da região. O inimigo provavelmente tentará capturá-lo. Seu grupo de combate deve avançar até o entroncamento e apoiar o destacamento de reconhecimento.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk4.Mission.Failed]
+Missão fracassada.
+
+[Reinforcement.Group2[Reinforcement]]
+
+
+[Reinforcement.Group1[Reinforcement]]
+Veículos blindados e infantaria
+

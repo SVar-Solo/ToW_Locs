@@ -1,0 +1,1344 @@
+﻿
+ac_free	사용 가능 포인트:
+ac_total	총 포인트:
+Advanced_minimap_view_sector	미니맵 카메라 투영 범위 확장
+AIAmmoType.AP	AP
+AIAmmoType.APBC	APBC
+AIAmmoType.APC	APC
+AIAmmoType.APCBC	APCBC
+AIAmmoType.APCR	APCR
+AIAmmoType.APDS	APDS
+AIAmmoType.APHE	APHE
+AIAmmoType.APHEBC	APHEBC
+AIAmmoType.API	API
+AIAmmoType.HE	HE
+AIAmmoType.HEAC	HEAC
+AIAmmoType.HEAT	HEAT
+AIAmmoType.HEI	HEI
+AIAmmoType.INC	INC
+AIAmmoType.SMOKE	연막
+AIAmmoType.SMOKE_GRN	연막
+AITypes.Country.GER	독일
+AITypes.Country.ITA	이탈리아
+AITypes.Country.RUS	소련
+AITypes.Country.UK	영국
+AITypes.Country.USA	미국
+AITypes.Country.PRK	북한
+AITypes.Country.FR	프랑스
+AITypes.Country.POL	폴란드
+ArmyCompositionEx.AllTroops	전체 병력
+ArmyCompositionEx.Balance	균형
+ArmyCompositionEx.Buttons.Continue	계속
+ArmyCompositionEx.Buttons.Tooltip.ByDefault	기본값 복원
+ArmyCompositionEx.Buttons.Tooltip.Clear	모든 부대를 예비대 목록으로 이동
+ArmyCompositionEx.Buttons.Tooltip.ToDeployment	선택한 부대를 편성 목록으로 이동
+ArmyCompositionEx.Buttons.Tooltip.ToReserves	선택한 부대를 예비대 목록으로 이동
+ArmyCompositionEx.ByCost	비용
+ArmyCompositionEx.ByDefault	기본
+ArmyCompositionEx.ByName	이름
+ArmyCompositionEx.ByType	종류
+ArmyCompositionEx.Clear	비우기
+ArmyCompositionEx.Continue	계속
+ArmyCompositionEx.Deployment	배치
+ArmyCompositionEx.Load	불러오기
+ArmyCompositionEx.Reserves	예비대
+ArmyCompositionEx.Return	돌아가기
+ArmyCompositionEx.Save	저장
+ArmyCompositionEx.SortBy	정렬
+ArmyCompositionEx.Title	전투 편성
+ARTILLERY	포병
+ATTACK_PLANE	지상공격기
+AuthorsEx.Title.Authors	제작진
+BATTLE_EXPERIENCE	전투 경험치:
+BATTLE_POINTS_FOR_MISSION	야전 훈련:
+BOMBER_PLANE	폭격기
+BriefingIcons.Chistyakov	중장
+BriefingIcons.Eisenhower	장군
+BriefingIcons.GERCorporal	상등병
+BriefingIcons.Gerhard	소령
+BriefingIcons.GERMajor	소령
+BriefingIcons.Gernleyn	소장
+BriefingIcons.Heartman	베르너 하르트만
+BriefingIcons.Ivanov	대위
+BriefingIcons.Montgomery	장군
+BriefingIcons.NonCommissionedOfficer	하사
+BriefingIcons.Private	하사
+BriefingIcons.PRKOfficer	상위 김돈종
+BriefingIcons.PRKPrivate	전사 돈율마
+BriefingIcons.Rommel	장군 에르빈 오이겐 요하네스 롬멜
+BriefingIcons.UKMajor	소령
+BriefingIcons.UKSergeant	하사
+BriefingIcons.USALieutenantColonel	중령
+BriefingIcons.USAOfficer	중위
+BriefingIcons.USAPrivate	이등병
+BriefingIcons.USASergeant	하사
+BriefingsPanelEx.Briefing	브리핑
+BriefingsPanelEx.PrimaryTask	주 임무
+BriefingsPanelEx.SecondaryTasks	추가 임무
+Camera_Mode	카메라 모드
+Camera_Mode1	자유 카메라
+Camera_Mode2	중앙 고정
+Camera_Mode3	커서 고정
+CampaignGenerator.AvailableBattleGroups	사용 가능한 전투단
+CampaignGenerator.AvailableMaps	사용 가능한 지도
+CampaignGenerator.AvailableSupportsAndReinforcements	사용 가능한 지원 및 증원
+CampaignGenerator.CampaignTurns	캠페인 턴 수
+CampaignGenerator.EnemyCountry	적
+CampaignGenerator.Fuel	연료
+CampaignGenerator.NeutralCountry	중립
+CampaignGenerator.NoBonusObject	없음
+CampaignGenerator.PlayerCountry	플레이어
+CampaignGenerator.Title	캠페인 생성기
+CampaignGenerator.ZoneAffinity	통제 세력
+CampaignGenerator.ZoneBonus	보너스 대상
+CampaignGenerator.ZoneDescription	지역 설명
+CampaignGenerator.ZoneLandscape	지형
+CampaignGenerator.ZoneName	지역 이름
+CampaignGenerator.Zones	지역
+CampaignGenerator.ZoneType	지역 유형
+CANCEL_LOADING_MISSION	임무 불러오기를 취소하시겠습니까?
+COMPLETED_BATTLES	작전:
+CONNECTING_PTS	연결 중...
+Countries.GER	독일
+Countries.ITA	이탈리아
+Countries.PRK	북한
+Countries.RUS	소련
+Countries.UK	영국
+Countries.USA	미국
+Countries.FR	프랑스
+Countries.POL	폴란드
+CREATE_PROFILE	새 프로필 만들기
+DamageMessages.Additional.Destroyed	파괴됨
+DamageMessages.Additional.Detonation	탄약 유폭
+DamageMessages.Additional.Fire	화재
+DamageMessages.Additional.NoCriticalDamages	치명적 피해 없음
+DamageMessages.Additional.Ricochet	도탄
+DamageMessages.Additional.ShellHasCollapsed	포탄 파쇄
+DamageMessages.Additional.ShellNormalization	포탄 수직화
+DamageMessages.Hit.Cabin	전투실 피격
+DamageMessages.Hit.Cabin.Aft	전투실 후면 피격
+DamageMessages.Hit.Cabin.Crown	전투실 전면 피격
+DamageMessages.Hit.Cabin.LeftSide	전투실 좌측면 피격
+DamageMessages.Hit.Cabin.RightSide	전투실 우측면 피격
+DamageMessages.Hit.Cabin.Roof	전투실 상면 피격
+DamageMessages.Hit.Hull	차체 피격
+DamageMessages.Hit.Hull.Aft	차체 후면 피격
+DamageMessages.Hit.Hull.Crown	차체 전면 피격
+DamageMessages.Hit.Hull.LeftSide	차체 좌측면 피격
+DamageMessages.Hit.Hull.RightSide	차체 우측면 피격
+DamageMessages.Hit.Hull.Roof	차체 상면 피격
+DamageMessages.Hit.Tower	포탑 피격
+DamageMessages.Hit.Tower.Aft	포탑 후면 피격
+DamageMessages.Hit.Tower.Crown	포탑 전면 피격
+DamageMessages.Hit.Tower.LeftSide	포탑 좌측면 피격
+DamageMessages.Hit.Tower.RightSide	포탑 우측면 피격
+DamageMessages.Hit.Tower.Roof	포탑 상면 피격
+DamageMessages.Hit.Track	궤도 피격
+DamageMessages.Hit.Weapon	포 피격
+DamageMessages.Hit.WeaponMask	포방패 피격
+DamageMessages.Hit.Wheel	바퀴 피격
+DamageMessages.Mode.All	피해 정보 모드: 전체
+DamageMessages.Mode.Hits	피해 정보 모드: 피격
+DamageMessages.Mode.None	피해 정보 모드: 끔
+DamageMessages.Mode.Penetrations	피해 정보 모드: 관통
+DamageMessages.Mode.Ricochets	피해 정보 모드: 도탄
+DamageMessages.Mode.ShellCollapses	피해 정보 모드: 포탄 불발
+DamageMessages.Perforation.Cabin	전투실 관통
+DamageMessages.Perforation.Cabin.Aft	전투실 후면 관통
+DamageMessages.Perforation.Cabin.Crown	전투실 전면 관통
+DamageMessages.Perforation.Cabin.LeftSide	전투실 좌측면 관통
+DamageMessages.Perforation.Cabin.RightSide	전투실 우측면 관통
+DamageMessages.Perforation.Cabin.Roof	전투실 상면 관통
+DamageMessages.Perforation.Hull	차체 관통
+DamageMessages.Perforation.Hull.Aft	차체 후면 관통
+DamageMessages.Perforation.Hull.Crown	차체 전면 관통
+DamageMessages.Perforation.Hull.LeftSide	차체 좌측면 관통
+DamageMessages.Perforation.Hull.RightSide	차체 우측면 관통
+DamageMessages.Perforation.Hull.Roof	차체 상면 관통
+DamageMessages.Perforation.Optics	광학 장비 손상
+DamageMessages.Perforation.Tower	포탑 관통
+DamageMessages.Perforation.Tower.Aft	포탑 후면 관통
+DamageMessages.Perforation.Tower.Crown	포탑 전면 관통
+DamageMessages.Perforation.Tower.LeftSide	포탑 좌측면 관통
+DamageMessages.Perforation.Tower.RightSide	포탑 우측면 관통
+DamageMessages.Perforation.Tower.Roof	포탑 상면 관통
+DamageMessages.Perforation.Track	궤도 손상
+DamageMessages.Perforation.Weapon	주포 손상
+DamageMessages.Perforation.WeaponMask	포방패 관통
+DamageMessages.Perforation.Wheel	바퀴 손상
+DamageMessages.UserUnits.BrokenTransmission	변속기 고장
+DamageMessages.UserUnits.BrokenWeapon	주포 고장
+DamageMessages.UserUnits.CommanderWasKilled	지휘관 전사
+DamageMessages.UserUnits.CrewLosses	인명 피해
+DamageMessages.UserUnits.CrewtIsLost	승무원 전멸
+DamageMessages.UserUnits.DestroyedEngine	엔진 고장
+DamageMessages.UserUnits.DetachmentIsLost	승무원 전멸
+DamageMessages.UserUnits.DetachmentLosses	인명 피해
+DamageMessages.UserUnits.DriverWasKilled	운전수 전사
+DamageMessages.UserUnits.GunnerWasKilled	사수 전사
+DamageMessages.UserUnits.InnerArmorChipping	장갑 내부 파편 비산
+DamageMessages.UserUnits.LoaderWasKilled	장전수 전사
+DamageMessages.UserUnits.MachineGunnerWasKilled	기관총수 전사
+DamageMessages.UserUnits.Petrified	기동 불능
+DamageMessages.UserUnits.TowerWasJammed	포탑 고착
+PanicMessages.ReasonEmpty			공황 상태
+PanicMessages.ReasonHit				피격당함
+PanicMessages.ReasonFlinch			적의 사격
+PanicMessages.ReasonWounds			부상
+PanicMessages.ReasonAlliesDeath		아군 전사
+PanicMessages.ReasonAlliesInPanic	응집력 저하
+PanicMessages.ReasonEnemyAdvantage	적의 우세
+DELETE_PROFILE	프로필 삭제
+DELETE_THIS_RECORD	이 기록을 삭제하시겠습니까?
+Disable_all	소리 끄기
+DispositionMode.WaitingForClientsMessage	플레이어 대기 중
+DispositionPanel.DispositionPanelTitle	배치 모드
+DispositionPanel.FinishDispositionMoide	계속
+DLC.ActivationStatus.GeneralError	오류 - 일반 장애
+DLC.ActivationStatus.NoServerConnection	오류 - 인증 서버에 연결할 수 없음
+DLC.ActivationStatus.Pending	인증 대기 중
+DLC.ActivationStatus.Rejection	오류 - 현재 게임 일련번호로는 인증할 수 없음
+DLC.ActivationStatus.Success	인증 완료
+DLC.ActivationStatus.WrongSerialNumber	오류 - 잘못된 일련번호
+DLCActivationEx.ActivateDLCSerial	인증
+DLCActivationEx.ActivationStatus	인증 상태
+DLCActivationEx.EnterSerialNumber	DLC 일련번호:
+DropCountPanel.Cancel	취소
+DropCountPanel.OK	확인
+DropCountPanel.Title	수량
+EAX	EAX 사용
+EncyclopaediaEx.Title.Encyclopaedia	백과사전
+END_MISSION	전투를 종료하시겠습니까?
+EscapeMenuEx.Continue	계속
+EscapeMenuEx.ContinueTooltip	게임 계속하기
+EscapeMenuEx.Diary	일지
+EscapeMenuEx.DiaryTooltip	일지 열기
+EscapeMenuEx.EndMission	임무 종료
+EscapeMenuEx.EndMissionTooltip	임무 종료
+EscapeMenuEx.LoadGame	불러오기
+EscapeMenuEx.LoadGameTooltip	저장된 게임 불러오기
+EscapeMenuEx.Options	설정
+EscapeMenuEx.OptionsTooltip	설정
+EscapeMenuEx.Restart	다시 시작
+EscapeMenuEx.RestartTooltip	임무 다시 시작
+EscapeMenuEx.Retreat	후퇴
+EscapeMenuEx.SaveGame	저장하기
+EscapeMenuEx.SaveGameTooltip	게임 저장
+EscapeMenuEx.WinMission	임무 승리
+EscapeMenuEx.WinMissionTooltip	임무 승리 처리
+FIGHTER_PLANE	전투기
+FireHint.OutOfRange	사거리 밖
+FireHint.OutOfHorAngles 수평 조준 범위 밖
+FireHint.OutOfMaxAngleDown 수직 조준 범위 밖 (하향)
+FireHint.OutOfMaxAngleUp	수직 조준 범위 밖 (상향)
+FireHint.ObstacleOnTrajectory	사선상에 장애물 있음
+FireHint.NoAmmo	장전되지 않음
+FrontEnd.Buttons.Cancel	취소
+FrontEnd.Buttons.Continue	계속
+FrontEnd.Buttons.MainMenu	메인 메뉴
+FrontEndBase.Localization.Alliance	동맹
+FrontEndBase.Localization.Army	군
+FrontEndBase.Localization.AutoSave	- 자동 저장 -
+FrontEndBase.Localization.AutoSave.Map	- 자동 저장 (지도) -
+FrontEndBase.Localization.AutoSave.Skills	- 자동 저장 (능력) -
+FrontEndBase.Localization.Battle	전투
+FrontEndBase.Localization.Battles	전투
+FrontEndBase.Localization.Campaigns	캠페인
+FrontEndBase.Localization.CampaignsWWII		시어터 오브 워
+FrontEndBase.Localization.CampaignsAfrica	아프리카 1943. 켄타우로
+FrontEndBase.Localization.CampaignsKursk	쿠르스크 1943. 캉
+FrontEndBase.Localization.CampaignsKorea	한국 1950
+FrontEndBase.Localization.Country	국가
+FrontEndBase.Localization.CountryFilter.GER	독일군 부대 표시 / 숨기기
+FrontEndBase.Localization.CountryFilter.ITA	이탈리아군 부대 표시 / 숨기기
+FrontEndBase.Localization.CountryFilter.PRK	북한군 부대 표시 / 숨기기
+FrontEndBase.Localization.CountryFilter.RUS	소련군 부대 표시 / 숨기기
+FrontEndBase.Localization.CountryFilter.UK	영국군 부대 표시 / 숨기기
+FrontEndBase.Localization.CountryFilter.USA	미군 부대 표시 / 숨기기
+FrontEndBase.Localization.CountryFilter.POL	폴란드군 부대 표시 / 숨기기
+FrontEndBase.Localization.CountryFilter.FR	프랑스군 부대 표시 / 숨기기
+FrontEndBase.Localization.Create	만들기
+FrontEndBase.Localization.DateTime	날짜 \ 시간
+FrontEndBase.Localization.DateTime.Date	일
+FrontEndBase.Localization.DateTime.Month	월
+FrontEndBase.Localization.DateTime.Year	년
+FrontEndBase.Localization.Defeat	패배
+FrontEndBase.Localization.Epilogue	에필로그
+FrontEndBase.Localization.Experience	경험
+FrontEndBase.Localization.Groups	부대
+FrontEndBase.Localization.Load	불러오기
+FrontEndBase.Localization.NewSave 새 저장
+FrontEndBase.Localization.Months.Short.April	4월
+FrontEndBase.Localization.Months.Short.August	8월
+FrontEndBase.Localization.Months.Short.December	12월
+FrontEndBase.Localization.Months.Short.February	2월
+FrontEndBase.Localization.Months.Short.January	1월
+FrontEndBase.Localization.Months.Short.July	7월
+FrontEndBase.Localization.Months.Short.June	6월
+FrontEndBase.Localization.Months.Short.March	3월
+FrontEndBase.Localization.Months.Short.May	5월
+FrontEndBase.Localization.Months.Short.November	11월
+FrontEndBase.Localization.Months.Short.October	10월
+FrontEndBase.Localization.Months.Short.September	9월
+FrontEndBase.Localization.MyArmy	내 부대
+FrontEndBase.Localization.Name	이름
+FrontEndBase.Localization.Owner	그룹
+FrontEndBase.Localization.Player	플레이어
+FrontEndBase.Localization.Players	플레이어
+FrontEndBase.Localization.Points	포인트
+FrontEndBase.Localization.QuickSave	- 빠른 저장 -
+FrontEndBase.Localization.Rank	계급
+FrontEndBase.Localization.Reinforcements	증원
+FrontEndBase.Localization.Remove	제거
+FrontEndBase.Localization.RemoveAll	모두 제거
+FrontEndBase.Localization.Result	결과
+FrontEndBase.Localization.Retreat	후퇴
+FrontEndBase.Localization.Saves	저장 목록
+FrontEndBase.Localization.Staff	참모부
+FrontEndBase.Localization.StartBattle	전투 시작
+FrontEndBase.Localization.Status	상태
+FrontEndBase.Localization.Task	임무
+FrontEndBase.Localization.Title	제목
+FrontEndBase.Localization.Tutorial	튜토리얼
+FrontEndBase.Localization.Type	종류
+FrontEndBase.Localization.UserCampaigns	사용자 캠페인
+FrontEndBase.Localization.Victory	승리
+FrontEndBase.Localization.Reinforcement	증원
+GameSettings_CheckCameraWheelInvert	마우스 휠 반전
+GameSettings_MouseButtonsInvert	마우스 버튼 바꾸기 (좌 \ 우)
+GameSettings_ShowTooltip	툴팁 표시
+GameSettings_TooltipDelay	툴팁 지연 (ms)
+GlobalData.PressRightMouseButtonMessage	우클릭으로 선택을 변경하십시오
+Grenades	수류탄
+HISTORICAL_UNITS_CHANGE_NORIFICATION	이 옵션은 새 캠페인을\n시작한 후에만 적용됩니다
+HumanCharacteristics.APGrenades	대전차 수류탄
+HumanCharacteristics.Awards	훈장
+HumanCharacteristics.HEGrenades	파편 수류탄
+HumanCharacteristics.Job	직책
+HumanCharacteristics.Rank	계급
+HumanCharacteristics.SMGrenades	연막탄
+HumanCharacteristics.State	상태
+HumanCharacteristics.Weapon	무기
+HumanCharacteristics.Morale	사기
+HumanCharacteristics.Grenades 수류탄
+HumanCharacteristics.AP	대전차
+HumanCharacteristics.HE	파편
+HumanCharacteristics.SM	연막
+
+HumanCharacteristics.APGrenades.ToolTip 대전차 수류탄 및 지뢰 수량
+HumanCharacteristics.HEGrenades.ToolTip 대인 수류탄 및 지뢰 수량
+HumanCharacteristics.Job.ToolTip 직책
+HumanCharacteristics.Rank.ToolTip 계급
+HumanCharacteristics.SMGrenades.ToolTip 연막탄 수량
+HumanCharacteristics.State.ToolTip 현재 수행 중인 행동
+HumanCharacteristics.Weapon.ToolTip 손에 든 무기 종류
+
+HumanCharacteristics.Morale.ToolTip.Level 전의
+HumanCharacteristics.Morale.ToolTip.Hit 피격당함
+HumanCharacteristics.Morale.ToolTip.Flinch 적의 사격
+HumanCharacteristics.Morale.ToolTip.EnemiesDeath 적 격파
+HumanCharacteristics.Morale.ToolTip.AlliesDeath 아군 전사
+HumanCharacteristics.Morale.ToolTip.Leadership 통솔력
+HumanCharacteristics.Morale.ToolTip.InCrew 승무원 소속
+HumanCharacteristics.Morale.ToolTip.AlliesInPanic 아군 공황
+HumanCharacteristics.Morale.ToolTip.AlliesPower 인근 아군
+HumanCharacteristics.Morale.ToolTip.Danger 위험도
+HumanCharacteristics.Morale.ToolTip.Wounds 부상
+HumanDataWindow.Skills.Accuracy	사격술
+HumanDataWindow.Skills.Driving	운전
+HumanDataWindow.Skills.Experience	경험
+HumanDataWindow.Skills.Experience.Desc	병사 경험치
+HumanDataWindow.Skills.Gunner	포술
+HumanDataWindow.Skills.Scouting	정찰
+HumanDataWindow.Skills.Title	능력
+HumanInventory.Backpack	배낭
+HumanInventory.Buttons.ClosePanel	닫기
+HumanInventory.Buttons.PickAllItems	모두 줍기
+HumanInventory.Buttons.PickBestItems	최상 장비 줍기
+HumanInventory.Inventory	소지품
+IconListBoxItem_emptyAmmoName	탄약
+IconListBoxItem_emptyWpnName	무기
+InetServer.AccessDenied	접근 거부됨
+InetServer.ConnectGameNotRegistered	검색 서버에 게임이 등록되지 않았습니다
+InetServer.ConnectionLost	검색 서버와의 연결이 끊어졌습니다
+InetServer.ConnectIServerOverloaded	검색 서버가 과부하 상태입니다
+InetServer.ConnectIServerUnavailable	검색 서버 시스템을 사용할 수 없습니다
+InetServer.ConnectPasswordRestricted	검색 서버에서 허용되지 않는 비밀번호입니다
+InetServer.ConnectServerNameAlreadyExists	이미 사용 중인 이름입니다
+InetServer.JoinServerUnavailable	게임 서버를 더 이상 사용할 수 없습니다
+InetServer.UnknownError	검색 서버 시스템에서 알 수 없는 오류가 발생했습니다
+Infantry_Group	보병 분대
+Infantry_Group_Crew	승무원 소속:
+Infantry_Group_Passengers	탑승자 소속:
+ItemsInfoWindow.Ammos	탄약
+ItemsInfoWindow.Ammunition	전투 장비
+ItemsInfoWindow.Weapons	무기
+JET_MORTAR_SUPPORT	로켓포 지원
+Job.Commander	지휘관
+Job.Commander_Engineer	지휘관									   
+Job.Driver	운전수
+Job.Engineer	공병
+Job.Infantry	보병
+Job.Loader	장전수
+Job.MachineGunner	기관총수
+Job.Passenger	탑승자
+Job.Passenger10	탑승자
+Job.Passenger11	탑승자
+Job.Passenger12	탑승자
+Job.Passenger2	탑승자
+Job.Passenger3	탑승자
+Job.Passenger4	탑승자
+Job.Passenger5	탑승자
+Job.Passenger6	탑승자
+Job.Passenger7	탑승자
+Job.Passenger8	탑승자
+Job.Passenger9	탑승자
+Job.Recon	정찰병
+Job.Shooter	사수
+Job.Sniper	저격수
+LandscapeTypeEnum.MARSHES_AND_MEADOWS	습지 및 초원
+LandscapeTypeEnum.MOUNTAINS	산악
+LandscapeTypeEnum.RIVERS_AND_CANALS	강 및 운하
+LandscapeTypeEnum.TOWNS_AND_VILLAGES	도시 및 마을
+LandscapeTypeEnum.VALLEYS	계곡
+LandscapeTypeEnum.WOODS	삼림
+LoadingEx.Cancel	취소
+LoadingEx.CancelTooltip	임무 불러오기 중단
+LOAD_COMPLETE	게임을 불러왔습니다
+LocalNetMenu.NET_PASSWORD	비밀번호 입력
+MainMenuButtonPanel.MainMenuTitle	메뉴
+MainMenuEx.Authors	제작진
+MainMenuEx.Battles	전투
+MainMenuEx.Campaigns	캠페인
+MainMenuEx.DesignerMode	제작
+MainMenuEx.DLCActivation	DLC 인증
+MainMenuEx.Encyclopedia	백과사전
+MainMenuEx.Exit	종료
+MainMenuEx.GameMode	게임
+MainMenuEx.Multiplayer	멀티플레이
+MainMenuEx.PlayIntro	인트로 재생
+MainMenuEx.PlayIntroTooltip	인트로 재생
+MainMenuEx.Settings	설정
+MainMenuEx.TemplateCampaign	캠페인 템플릿
+MainMenuEx.TutorialMode	튜토리얼
+Master_volume	전체 음량
+MessageBoxEx.No	아니요
+MessageBoxEx.Yes	예
+MESSAGE_RESOLUTION_CHANGED	화면 해상도가 변경되었습니다. 변경 사항을 적용하시겠습니까?
+Minimap_btn_Quest_Tooltip	브리핑
+MissionDiaryEx.Buttons.ArmyComposition	전투 편성
+MissionDiaryEx.Buttons.StartBattle	전투 시작
+MissionDiaryEx.Difficulty.ExperiencedFighter	일반병
+MissionDiaryEx.Difficulty.Recruit	신병
+MissionDiaryEx.Difficulty.Veteran	베테랑
+MissionDiaryEx.DifficultyLevel	난이도
+MissionDiaryEx.Morale	사기
+MissionDiaryEx.Title.Diary	일지
+MissionDiaryEx.Title.MissionDescription	임무 설명
+MissionEnd.DISCONNECT_FROM_SERVER	서버와의 연결을 끊으시겠습니까?
+MissionEndEx.Enemy	적
+MissionEscape.DISCONNECT_FROM_SERVER	서버와의 연결을 끊으시겠습니까?
+MissionEscape.DROP_ALL_CLIENTS_AND_END_MISSION	모든 클라이언트를 내보내고 게임을 종료하시겠습니까?
+MissionGenerator.BattleSize	전장 크기
+MissionGenerator.BattleSize.Large	대형 (1600 x 1600)
+MissionGenerator.BattleSize.Medium	중형 (1200 x 1200)
+MissionGenerator.BattleSize.Small	소형 (800 x 800)
+MissionGenerator.BattleType	전투 유형
+MissionGenerator.BattleType.AIStorm	조우전
+MissionGenerator.BattleType.Attack	공격
+MissionGenerator.BattleType.Defend	방어
+MissionGenerator.BattleType.Siege	시간제 방어
+MissionGenerator.BattleType.Storm	돌격
+MissionGenerator.Campaign	캠페인
+MissionGenerator.CampaignDescription	캠페인 설명
+MissionGenerator.CampaignName	캠페인 이름
+MissionGenerator.Computer	컴퓨터
+MissionGenerator.Country	국가
+MissionGenerator.DefaultCampaignDescription	새 캠페인 설명
+MissionGenerator.DefaultCampaignName	새 캠페인
+MissionGenerator.DefaultMissionDescription	새 임무 설명
+MissionGenerator.DefaultMissionName	새 임무
+MissionGenerator.LaunchMission	시작
+MissionGenerator.Map	지도
+MissionGenerator.Mission.Description	임무 설명
+MissionGenerator.Mission.Name	임무 제목
+MissionGenerator.NewCampaign	새 캠페인
+MissionGenerator.NewCampaignGeneration	새 캠페인
+MissionGenerator.Random	무작위
+MissionGenerator.SaveMission	저장
+MissionGenerator.SingleMissions	단독 임무
+MissionGenerator.Support	지원
+MissionGenerator.Support.Artillery	포병
+MissionGenerator.Support.Aviation	항공 지원
+MissionGenerator.Support.Mixed	혼합
+MissionGenerator.Support.None	없음
+MissionGenerator.Title	임무 생성기
+MissionGenerator.Troops.Experience	숙련도
+MissionGenerator.Troops.Experience.Elite	정예
+MissionGenerator.Troops.Experience.Novice	신병
+MissionGenerator.Troops.Experience.Regular	일반병
+MissionGenerator.Troops.Experience.Veterans	베테랑
+MissionGenerator.Troops.Type	부대 유형
+MissionGenerator.Troops.Type.Artillery	포병 대대
+MissionGenerator.Troops.Type.Cars	차량화 사단
+MissionGenerator.Troops.Type.Infantry	보병 사단
+MissionGenerator.Troops.Type.Tanks	전차 대대
+MissionGenerator.Weather	날씨
+MissionRec.UNKNOWN_MIS_DESCRIPTION	새 임무
+MissionsListEx.ConfirmCampaignRemoval	선택한 캠페인을 정말 삭제하시겠습니까?
+MissionsListEx.ConfirmMissionRemoval	선택한 임무를 정말 삭제하시겠습니까?
+MissionsListEx.MissingStoresMessage	선택한 임무를 사용하려면\n다음 항목 중 하나를 구매하십시오:
+MissionStatistics.AbsoluteDefeat	완전 패배
+MissionStatistics.AbsoluteVictory	압도적 승리
+MissionStatistics.Defeat	패배
+MissionStatistics.Tie	피로스의 승리
+MissionStatistics.TotalDefeat	참패
+MissionStatistics.TotalVictory	완전 승리
+MissionStatistics.Victory	승리
+MISSION_RETREAT	정말 후퇴하시겠습니까?
+MISSION_VICTORY	승리했습니다!
+MORTAR_SUPPORT	박격포 지원
+MultiplayerChat.ForAll	[ 전체 ]
+MultiplayerChat.ForAlliance	[ 아군 ]
+MultiplayerCoordinationEx.ArmyCompositionAbortOnMapChange	경고!\n\n서버가 전장을 변경하여\n귀하의 부대가 수정되었습니다.
+MultiplayerCoordinationEx.ArmyTemplate	부대 템플릿
+MultiplayerCoordinationEx.AttackDefend	공격-방어
+MultiplayerCoordinationEx.Battlefield	전장
+MultiplayerCoordinationEx.CaptureTheFlag	깃발 뺏기
+MultiplayerCoordinationEx.Chat	채팅
+MultiplayerCoordinationEx.CheaterDetectedMessage.Part1	경고!\n\n플레이어 '
+MultiplayerCoordinationEx.CheaterDetectedMessage.Part2	'\n\n부정행위로 연결이 끊어졌습니다!
+MultiplayerCoordinationEx.ClientConnected	클라이언트 접속:
+MultiplayerCoordinationEx.ClientDisconnected	클라이언트 접속 종료:
+MultiplayerCoordinationEx.CommandPoints	지휘 포인트
+MultiplayerCoordinationEx.FirstAlliance	A팀
+MultiplayerCoordinationEx.ForAll	전체
+MultiplayerCoordinationEx.ForAlliance	아군
+MultiplayerCoordinationEx.GameType	게임 유형
+MultiplayerCoordinationEx.Missions	임무
+MultiplayerCoordinationEx.NegativePointsMessage	포인트가 음수이므로 전투 편성 화면으로\n이동합니다. 배치를 수정하십시오.
+MultiplayerCoordinationEx.OnAllianceMembersChange	경고!\n\n팀 구성이 변경되어\n사용 가능한 지휘 포인트와\n부대가 갱신되었습니다.
+MultiplayerCoordinationEx.PointsLeftMessage	사용하지 않은 포인트가 있습니다.\n전투 편성 화면에서 사용할 수 있습니다.
+MultiplayerCoordinationEx.Random	무작위
+MultiplayerCoordinationEx.Ready	준비
+MultiplayerCoordinationEx.SecondAlliance	B팀
+MultiplayerCoordinationEx.Send	보내기
+MultiplayerCoordinationEx.ServerPointsLeftMessage	사용하지 않은 포인트가 있습니다.\n전투 편성 화면에서 사용할 수 있습니다.\n\n그래도 계속하시겠습니까?
+MultiplayerCoordinationEx.TeamPlay	팀 플레이
+MultiplayerCoordinationEx.TimeInMinutes	시간 (분)
+MultiplayerEx.ConnectTo	접속
+MultiplayerEx.CreateServer	서버 시작
+MultiplayerEx.DirectIP	직접 IP
+MultiplayerEx.Internet	인터넷
+MultiplayerEx.IServerErrorOnServerCreationMessage	\n\n게임 서버는 로컬 네트워크에서만 사용할 수 있습니다.
+MultiplayerEx.LAN	LAN
+MultiplayerEx.MaxPlayers	최대 플레이어 수
+MultiplayerEx.MPGamesTable.Map	지도
+MultiplayerEx.MPGamesTable.Ping	핑
+MultiplayerEx.MPGamesTable.Players	플레이어
+MultiplayerEx.MPGamesTable.Server	서버
+MultiplayerEx.MPGamesTable.Version	버전
+MultiplayerEx.Password	비밀번호
+MultiplayerEx.PasswordConfirmation	비밀번호 확인
+MultiplayerEx.PlayerName	플레이어 이름
+MultiplayerEx.Port	포트
+MultiplayerEx.Reset	초기화
+MultiplayerEx.ServerIP	서버 IP 주소
+MultiplayerEx.ServerName	서버 이름
+MultiplayerPointsExchangeEx.Log.PointsSentByUser	포인트 수령, 보낸 플레이어:
+MultiplayerPointsExchangeEx.Log.PointsSentToUser	포인트 전송, 받은 플레이어:
+MultiplayerPointsExchangeEx.Title	플레이어에게 전송
+MultiplayerPointsExchangeEx.Points	포인트
+MultiplayerPointsExchangeEx.Units	유닛
+MultiplayerPointsExchangeEx.PointsTip	지정된 플레이어에게 설정된 수의 포인트를 전송합니다
+MultiplayerPointsExchangeEx.UnitsTip	선택한 유닛을 지정된 플레이어에게 전송합니다
+Music_volume	음악 음량
+need_cost	필요 포인트:
+NETBOTNAME	컴퓨터
+NetErrorCodes.BAD_GAME_VERSION	서버 버전이 일치하지 않습니다
+NetErrorCodes.BAD_HOST_NAME	잘못된 호스트 이름: {0}
+NetErrorCodes.BAD_PASSWORD	잘못된 비밀번호
+NetErrorCodes.CONNECTION_TOUT_NF	네트워크 장애로 시간 초과
+NetErrorCodes.CONNECTION_WITH_CLIENT_LOST	연결 끊김 - 플레이어: {0}
+NetErrorCodes.CONNECTION_WITH_SERVER_LOST	연결 끊김 - 서버: {0}
+NetErrorCodes.CONNECT_TIMEOUT	연결 실패: 시간 초과
+NetErrorCodes.DISCONNECTED_BY_SERVER	서버에 의해 연결이 끊어졌습니다
+NetErrorCodes.NO_SERVER	서버 없음
+NetErrorCodes.OK	확인
+NetErrorCodes.PLAYER_LEFT_THE_GAME	게임을 나간 플레이어: {0}
+NetErrorCodes.PORT_IS_UNAVAILABLE	사용할 수 없는 호스트: {0} / 포트: {1}
+NetErrorCodes.SERVER_IS_FULL	서버가 가득 찼습니다
+NetErrorCodes.SERVER_IS_PLAYING	게임이 이미 시작되었습니다
+NetErrorCodes.SERVER_NOT_CREATED	서버를 만들지 못했습니다
+NetErrorCodes.SOCKET_DISABLED	네트워크 소켓이 비활성화되었습니다
+NetErrorCodes.SOCKET_FULL	네트워크 소켓이 가득 찼습니다
+NetErrorCodes.SOCKS_FAILURE	SOCKS5로 생성/연결할 수 없음: {0}:{1}
+NetErrorCodes.UNKNOWN	알 수 없음
+NetErrorCodes.YOU_ARE_BLOCKED	서버에 의해 차단되었습니다
+NetMapsMenu.ALLIANCE_GROUP1	그룹 1
+NetMapsMenu.ALLIANCE_GROUP2	그룹 2
+NetMapsMenu.ALLIANCE_GROUP3	그룹 3
+NetMapsMenu.ALLIANCE_GROUP4	그룹 4
+NetMapsMenu.ALLIANCE_GROUP5	그룹 5
+NetMapsMenu.ALLIANCE_GROUP6	그룹 6
+NetMapsMenu.ALLIANCE_GROUP7	그룹 7
+NetMapsMenu.ALLIANCE_GROUP8	그룹 8
+NetMapsMenu.ALLIANCE_NONE	없음
+NetMapsMenu.ARMY_RANDOM	무작위
+NetMapsMenu.COLOR_BLUE	파랑
+NetMapsMenu.COLOR_BROWN	갈색
+NetMapsMenu.COLOR_CRIMSON	진홍
+NetMapsMenu.COLOR_GREEN	초록
+NetMapsMenu.COLOR_PURPLE	보라
+NetMapsMenu.COLOR_RANDOM	무작위
+NetMapsMenu.COLOR_TURQUOISE	청록
+NetMapsMenu.COLOR_YELLOW	노랑
+NetMapsMenu.DISCONNECT_FROM_SERVER	서버와의 연결을 끊으시겠습니까?
+NetMapsMenu.DROP_ALL_CLIENTS_AND_DISCONNECT	모든 클라이언트를 내보내고 연결을 끊으시겠습니까?
+NetMapsMenu.PLAYER_CLOSED	닫힘
+NetMapsMenu.PLAYER_COMPUTER	컴퓨터
+NetMapsMenu.PLAYER_OPEN	열림
+NetMapsMenu.СOLOR_RED	빨강
+NetMissionSubtype.DM_DESTROY_HUMEN	데스매치: 모든 병사 사살
+NetMissionSubtype.DM_DESTROY_VEHICLES	데스매치: 모든 차량 파괴
+NetMissionSubtype.UNKNOWN	알 수 없음
+NetUsersListBoxItem.CLOSED	닫힘
+NetUsersListBoxItem.OPEN	열림
+NET_PING_NA	해당 없음
+NET_PLAYER_NAME	네트워크 플레이어 이름 입력
+NEW_PLAYER	새 플레이어
+NOT_LOCALIZED	NOT_LOCALIZED
+Object_volume	효과음 음량
+OptionsCamera.KEYB_LINEAR_SPEED	키보드 이동
+OptionsCamera.KEYB_ROTATE_SPEED	키보드 회전
+OptionsCamera.MAX_HEIGHT	카메라 최대 높이 (미터)
+OptionsCamera.MIN_HEIGHT	카메라 최소 높이 (미터)
+OptionsCamera.MOUSE_SPEED	마우스 이동 및 회전
+OptionsCamera.MOUSE_WHEEL_SPEED	마우스 확대 / 축소
+OptionsCamera.SCREEN_BORDER_SPEED	스크롤 감도
+OptionsEx.Camera.KeyboardMoveSens	키보드 이동 속도
+OptionsEx.Camera.KeyboardRotateSens	키보드 회전 속도
+OptionsEx.Camera.MaxHeight	카메라 최대 높이
+OptionsEx.Camera.MinHeight	카메라 최소 높이
+OptionsEx.Camera.Mode	카메라 모드
+OptionsEx.Camera.Mode.Free	자유 모드
+OptionsEx.Camera.Mode.RTS	RTS 모드
+OptionsEx.Camera.MouseSens	마우스 회전 및 이동 속도
+OptionsEx.Camera.ScrollSpeed	스크롤 속도
+OptionsEx.Camera.ZoomSpeed	확대 속도
+OptionsEx.Controls.Command	명령
+OptionsEx.Controls.HotKey1	단축키 1
+OptionsEx.Controls.HotKey2	단축키 2
+OptionsEx.Controls.Tab.Camera	카메라
+OptionsEx.Controls.Tab.Group	그룹
+OptionsEx.Controls.Tab.Interface	인터페이스
+OptionsEx.Controls.Tab.User	사용자
+OptionsEx.Controls.WaitKey	키 입력
+OptionsEx.Game.Autosave	자동 저장
+OptionsEx.Game.ClassicSelectionMode	클래식 부대 선택 방식
+OptionsEx.Game.CommanderInfluence	지휘관 영향권 표시
+OptionsEx.Game.CompatibilityMode	호환 모드
+OptionsEx.Game.EnableCameraShaking	카메라 흔들림
+OptionsEx.Game.IgnoreMissionFail	임무 실패 무시
+OptionsEx.Game.InvertMouse	마우스 반전
+OptionsEx.Game.InvertWheel	마우스 휠 반전
+OptionsEx.Game.ScrollSpeedMenu	메뉴 스크롤 속도
+OptionsEx.Game.ShowCursorDistance	커서 거리 표시
+OptionsEx.Game.ShowEnemyType	적 종류 표시
+OptionsEx.Game.ShowFrustroom	미니맵 상세 투영
+OptionsEx.Game.ShowHumanBlood	혈흔 표시
+OptionsEx.Game.ShowIcons	아이콘 표시
+OptionsEx.Game.ShowSectorOfFire	사격 구역 표시
+OptionsEx.Game.ShowTarget	시선 표시
+OptionsEx.Game.SmartPause	스마트 일시정지
+OptionsEx.Game.StrategicMode.BigBattleGroups	전투단 상세 정보 아이콘
+OptionsEx.Game.StrategicMode.EliteMode	전략 지도 텍스처를 메모리에 유지
+OptionsEx.Game.StrategicMode.HistoricalUnits	역사적 부대 편성
+OptionsEx.Game.TooltipDelay	툴팁 지연
+OptionsEx.GlobalButtons.Apply	적용
+OptionsEx.GlobalButtons.Restore	복원
+OptionsEx.Interface.DamageHits	부대당 최대 피격 벡터 수
+OptionsEx.Interface.DamageRicochetes	부대당 최대 도탄 수
+OptionsEx.Interface.FontsScaling	글꼴 크기 조절
+OptionsEx.Interface.InterfaceScaling	인터페이스 자동 크기 조절
+OptionsEx.Interface.MinCaliber	피격 벡터 최소 구경
+OptionsEx.Interface.ShowSelectionIndicator	선택 표시기 표시
+OptionsEx.Interface.ShowTargetIndicator	목표 표시기 표시
+OptionsEx.Interface.ScalePercentIncr	인터페이스 확대 
+OptionsEx.RestoreDefaultsConfirmation	기본값으로 복원하시겠습니까?
+OptionsEx.Sound.EAX	EAX
+OptionsEx.Sound.Effects	효과음
+OptionsEx.Sound.Invert	스테레오 채널 반전
+OptionsEx.Sound.Music	음악
+OptionsEx.Sound.Mute	음소거
+OptionsEx.Sound.Speech	음성
+OptionsEx.Sound.Volume	음량
+OptionsEx.Tabs.Camera	카메라
+OptionsEx.Tabs.Controls	조작
+OptionsEx.Tabs.Game	게임
+OptionsEx.Tabs.Graphics	그래픽
+OptionsEx.Tabs.Interface	인터페이스
+OptionsEx.Tabs.Sound	사운드
+OptionsEx.Title	설정
+OptionsGameSettings.DO_USER_AUTOSAVE	자동 저장
+OptionsGameSettings.GOTO_NEXT_CAMPAIGN_MISSION_IF_FAIL	임무 실패 무시
+OptionsVideo.HZ	Hz
+PausePanel.PausePanelTitle	일시정지
+Play_music	음악 항상 재생
+QuestState_ACTIVE	명령 수신:
+QUIT_MESSAGE	정말 종료하시겠습니까?
+RealismDetail_High	높음
+RealismDetail_Low	낮음
+RealismDetail_Medium	중간
+RECON_PLANE	정찰기
+REPLACE_OLD_RECORD	기존 기록을 덮어쓰시겠습니까?
+Resolution	화면 설정
+FullscreenMode	전체 화면 모드 (권장하지 않음)
+IsBySystem  바탕 화면 설정 사용
+Monitor 모니터
+PrimaryMonitor	주 모니터
+RESTART_MISSION	전투를 다시 시작하시겠습니까?
+RESTART_TO_CHANGE_FONTS_SCALING_MODE	글꼴 크기 조절 방식을 바꾸려면 다시 시작하십시오
+RESTART_TO_CHANGE_INTERFACE_SCALING_MODE	인터페이스 크기 조절 방식을 바꾸려면 다시 시작하십시오
+RESTART_TO_CHANGE_RESOLUTION	해상도 또는 모니터를 바꾸려면 다시 시작하십시오
+Reverse_stereo	스테레오 채널 반전
+SaveLoadEx.LoadSave	불러오기
+SaveLoadEx.WriteSave	저장
+SaveLoadList.AUTOSAVEEND	자동 저장 (종료)
+SaveLoadList.AUTOSAVESTART	자동 저장 (시작)
+SAVELOAD_TOOLTIP_ARMYCOMPOSITION_SAVE	메뉴의 "부대" 저장
+SAVELOAD_TOOLTIP_AUTOSAVE_END	전투 종료 시 자동 저장
+SAVELOAD_TOOLTIP_AUTOSAVE_START	전투 시작 시 자동 저장
+SAVELOAD_TOOLTIP_DIF_HIGH_LEVEL	난이도: 어려움
+SAVELOAD_TOOLTIP_DIF_LOW_LEVEL	난이도: 쉬움
+SAVELOAD_TOOLTIP_DIF_MEDIUM_LEVEL	난이도: 보통
+SAVELOAD_TOOLTIP_MORALE	사기
+SAVELOAD_TOOLTIP_SKILLS_SAVE	메뉴에 저장
+SAVE_COMPLETE	게임을 저장했습니다
+SAVING_PTS	저장 중...
+SERVER_DEFAULT_NAME	시어터 오브 워
+Show_target_icons	목표 표시기
+Show_unit_icons	부대 아이콘 항상 표시
+Show_unit_sectors	공격 구역
+SkillsEx.Accuracy	사격술
+SkillsEx.AutoAssign	자동 배분
+SkillsEx.Bestowal	수여
+SkillsEx.Captured	포획
+SkillsEx.Clear	초기화
+SkillsEx.Continue	계속
+SkillsEx.Destroyed	격파
+SkillsEx.Driving	운전
+SkillsEx.Experience.Elite	정예
+SkillsEx.Experience.Elite.Short	정
+SkillsEx.Experience.ExperiencedFighter	일반병
+SkillsEx.Experience.ExperiencedFighter.Short	일
+SkillsEx.Experience.Recruit	신병
+SkillsEx.Experience.Recruit.Short	신
+SkillsEx.Experience.Veteran	베테랑
+SkillsEx.Experience.Veteran.Short	베
+SkillsEx.Gunner	포술
+SkillsEx.Intelligence 지능
+SkillsEx.Leadership 통솔력 
+SkillsEx.Load	불러오기
+SkillsEx.MainMenu	메인 메뉴
+SkillsEx.Next	다음
+SkillsEx.Previous	이전
+SkillsEx.Promotion	진급
+SkillsEx.Save	저장
+SkillsEx.Scouting	정찰
+SkillsEx.SkillPoints	능력 포인트
+SkillsEx.Skills	능력
+SkillsEx.Statistics	통계
+SkillsEx.Title	참모 능력
+SkillsEx.Tooltips.AutoAssignGroupSkills	선택한 부대들에 능력 포인트를 자동 배분
+SkillsEx.Tooltips.AutoAssignUnitSkills	선택한 부대에 능력 포인트를 자동 배분
+SkillsEx.Tooltips.Award	선택한 부대에 훈장 수여 - 통솔력에 영향
+SkillsEx.Tooltips.ClearGroupSkillsButton	선택한 부대들의 능력 포인트 배분 취소
+SkillsEx.Tooltips.ClearUnitSkills	선택한 부대의 능력 포인트 배분 취소
+SkillsEx.Tooltips.Continue	계속
+SkillsEx.Tooltips.Load	임무 불러오기
+SkillsEx.Tooltips.MainMenu	메인 메뉴로 돌아가기
+SkillsEx.Tooltips.NextUnit	다음 부대로 전환
+SkillsEx.Tooltips.PreviousUnit	이전 부대로 전환
+SkillsEx.Tooltips.Promote	선택한 부대 진급 - 통솔력에 영향
+SkillsEx.Tooltips.Save	임무 저장
+SkillsEx.TotalPoints	합계
+SkillsEx.VictoryPoints	승리 점수
+StatisticsPanelEx.AlliesPoints	아군 점수
+StatisticsPanelEx.AllyArmy	아군 병력
+StatisticsPanelEx.Capture	점령
+StatisticsPanelEx.EnemiesPoints	적군 점수
+StatisticsPanelEx.Losses	손실
+StatisticsPanelEx.MissionTime	임무 시간
+StatisticsPanelEx.SupportsCall	증원 요청
+StatisticsPanelEx.Victories	승리
+StatisticsPanelEx.VictoryPoints	승리 점수
+StatisticsTable.Achievements	격파
+StatisticsTable.EnemyArmy	적 병력
+StatisticsTable.Losses	손실
+StatisticsTable.PlayerArmy	아군 병력
+StrategicMode.Battle.ZoneAttack	공격 개시:
+StrategicMode.Battle.ZoneCapture	점령 완료:
+StrategicMode.Battle.ZoneDefence	방어선 유지:
+StrategicMode.Battle.ZoneSiege	포위된 적 공격:
+StrategicMode.Battle.ZoneStorm	적과 접촉 보고:
+StrategicMode.BattleGroup.AI.DefensiveMode	방어 태세로 전환
+StrategicMode.BattleGroup.Ammunition	탄약:
+StrategicMode.BattleGroup.Devastated	적에게 전멸당함
+StrategicMode.BattleGroup.DevastatedAndMerged	괴멸됨. 생존 병력이 편입된 부대:
+StrategicMode.BattleGroup.EscapePathBlockedByTerrain	후퇴 불가 (통과 불능 지형)
+StrategicMode.BattleGroup.EscapePathBlockedByTerrain.MustDie	지형 때문에 후퇴하지 못하고 전멸함
+StrategicMode.BattleGroup.Experience	경험치:
+StrategicMode.BattleGroup.Fuel	보유 연료:
+StrategicMode.BattleGroup.NoEscape	후퇴 불가 (모든 퇴로 차단)
+StrategicMode.BattleGroup.NoEscape.MustDie	후퇴하지 못하고 전멸함
+StrategicMode.BattleGroup.NoFuelForRetreat	후퇴 불가 (연료 고갈)
+StrategicMode.BattleGroup.NoFuelForRetreat.MustDie	연료 부족으로 후퇴하지 못하고 전멸함
+StrategicMode.BattleGroup.NoMovesForRetreat	후퇴 불가 (이동력 소진)
+StrategicMode.BattleGroup.NoMovesForRetreat.MustDie	이동력 부족으로 후퇴하지 못하고 전멸함
+StrategicMode.BattleGroup.Player.DefensiveMode	방어 태세로 전환함. 철수하거나 적 전투단을 반격할 수 있음
+StrategicMode.BattleGroup.Turns	남은 이동:
+StrategicMode.BattleGroup.Unlimited	무제한
+StrategicMode.BattleGroup.Victory	격파:
+StrategicMode.BattleGroups	전투단
+StrategicMode.BattleLog	전투 기록
+StrategicMode.CampaignTurns	턴 수:
+StrategicMode.Composition	전투 편성
+StrategicMode.CrushedBattleGroupEscapedMessage1	적 전투단
+StrategicMode.CrushedBattleGroupEscapedMessage2	\n공황 속에 후퇴했다
+StrategicMode.CrushedBattleGroupMessage1	적 전투단
+StrategicMode.CrushedBattleGroupMessage2	\n아군의 압도적인 전력에 괴멸되었다
+StrategicMode.CurrentTurn	현재 턴:
+StrategicMode.Defeat.EnemyBattleGroup	적 전투단
+StrategicMode.Defeat.PlayerBattleGroup	아군 전투단
+StrategicMode.EndTurn	턴 종료
+StrategicMode.EnemyBattleGroup	적 전투단
+StrategicMode.EnemyMissionTemplate	적 임무 템플릿
+StrategicMode.ForcedBattle	템플릿 테스트
+StrategicMode.ForcedBattle.AI_STORM	AI 돌격
+StrategicMode.ForcedBattleTitle	강제 전투 지역:
+StrategicMode.MissionType	임무 유형
+StrategicMode.MovementWarning1	정말 턴을 종료하시겠습니까? 아직 이동할 수 있는 전투단:\n
+StrategicMode.MovementWarning2	(이동 가능)
+StrategicMode.PlayerBattleGroup	아군 전투단
+StrategicMode.PlayerMissionTemplate	플레이어 임무 템플릿
+StrategicMode.Points.Attack	점령 점수:
+StrategicMode.Points.Capture	무혈 점령 점수:
+StrategicMode.Points.Defence	방어/통제 점수:
+StrategicMode.Points.Siege	포위 방어 점수:
+StrategicMode.Points.Storm	조우전 점수:
+StrategicMode.Points.Victory	승리 점수:
+StrategicMode.SupportsAndReinforcements	지원 및 증원
+StrategicMode.Tooltips.StrategyMapCenter	이 요소는 전략 지도의 초기 위치를 정의합니다
+StrategicMode.Tooltips.ZoneCenter	이 요소는 영역의 논리적 중심을 정의합니다
+StrategicMode.Turn	턴:
+STRATEGY_MAP_ELITE_MODE_CONFIRMATION	이 모드는 VRAM 512MB 이상의\n그래픽 카드가 필요합니다. 사용하시겠습니까?
+SupportsActivation.Artillery	포병 지원 요청 가능
+SupportsActivation.Aviation	항공 지원 요청 가능
+SupportsActivation.MLR	로켓포 지원 요청 가능
+SupportsActivation.Mortar	박격포 지원 요청 가능
+SupportsActivation.Reinforcement	증원 요청 가능
+SupportsPanelEx.InsufficientPoints	포인트 부족
+SupportsPanelEx.NoCommanders	지원을 요청할 수 있는 지휘관이 없습니다
+SupportsPanelEx.UnitsLimitExceeded	부대 한도 초과
+TacticMap.Captured	포획
+TacticMap.Destroyed	격파
+TacticMap.EnemyLosses	적 손실
+TacticMap.PlayerLosses	아군 손실
+TacticMap.ReturnToGameMode	게임으로 돌아가기
+TacticMap.Task	목표 #
+TacticMap.Title	전술 지도
+TacticMapButtonPanel.TacticMapTitle	지도
+TipsBox.Header	알고 계십니까?
+TipsBox.NextTip	다음
+TipsBox.ShowTips	전략 모드에서 팁 표시
+Tooltip.Anti_Tank_Rifle	대전차 소총
+Tooltip.Faust	대전차 로켓
+Tooltip.Grenade	수류탄
+Tooltip.Machine_Gun	기관총
+Tooltip.Pistol	권총
+Tooltip.Rifle	소총
+Tooltip.Sniper_Rifle	저격총
+Tooltip.Submachine_Gun	기관단총
+UnitFilterTooltips.All	전체
+UnitFilterTooltips.ArmoredCar	장갑차
+UnitFilterTooltips.Artillery	포병
+UnitFilterTooltips.Car	차량
+UnitFilterTooltips.Detachment	분대
+UnitFilterTooltips.Flak	대공포
+UnitFilterTooltips.Helicopter	헬리콥터
+UnitFilterTooltips.Howitzer	곡사포
+UnitFilterTooltips.Infantry	보병
+UnitFilterTooltips.MachineGun	중기관총
+UnitFilterTooltips.Mortar	박격포
+UnitFilterTooltips.Multiple	복수 필터
+UnitFilterTooltips.Plane	항공기
+UnitFilterTooltips.SPG	자주포
+UnitFilterTooltips.Tank	전차
+UnitWindow.HEALTH_STATE0	건강
+UnitWindow.HEALTH_STATE1	부상
+UnitWindow.HEALTH_STATE2	중상
+UnitWindow.HEALTH_STATE3	위독
+UnitWindow.MORALE_STATE0	대담
+UnitWindow.MORALE_STATE1	신중
+UnitWindow.MORALE_STATE2	동요
+UnitWindow.MORALE_STATE3	제압됨
+UnitWindow.MORALE_STATE4	공황
+UnitWindow.STATE0	대기
+UnitWindow.STATE1	공황
+UnitWindow.STATE2	이동 중
+UnitWindow.STATE3	공격 중
+UnitWindow.STATE4	방어 중
+UnitWindow.STATE5	재장전 중
+USE1CPU_CANNOT_BE_SET	CPU 1개 사용을 설정할 권한이 부족합니다
+VehicleArmorDataWindow.Hull.Back	후면
+VehicleArmorDataWindow.Hull.Bottom	하면
+VehicleArmorDataWindow.Hull.Front	전면
+VehicleArmorDataWindow.Hull.Name	차체 장갑
+VehicleArmorDataWindow.Hull.Side	측면
+VehicleArmorDataWindow.Hull.Top	상면
+VehicleArmorDataWindow.Turret.Back	후면
+VehicleArmorDataWindow.Turret.Front	전면
+VehicleArmorDataWindow.Turret.Mask	포방패
+VehicleArmorDataWindow.Turret.Name	포탑 장갑
+VehicleArmorDataWindow.Turret.Side	측면
+VehicleArmorDataWindow.Turret.Top	상면
+VehicleCharacteristicsPanelEx.Crew	승무원
+VehicleCharacteristicsPanelEx.Distance	거리
+VehicleCharacteristicsPanelEx.kmph	km/h
+VehicleCharacteristicsPanelEx.m	m
+VehicleCharacteristicsPanelEx.Passengers	탑승자
+VehicleCharacteristicsPanelEx.People	명
+VehicleCharacteristicsPanelEx.Speed	속도
+VehicleCharacteristicsPanelEx.VehicleNumber	번호
+CrewOpticsStatus.BeginString	광학 장비 #
+CrewOpticsStatus.StatusOk		정상
+CrewOpticsStatus.StatusDamaged	손상
+CrewOpticsStatus.StatusBroken	파손
+Version	버전:
+VictoryPanel.FinishMission	종료
+VictoryPanel.Victory	승리!
+VideoSettings.paramName.DetailPreset	프리셋
+VideoSettings.paramName.IsBySystem  바탕 화면 설정 사용
+VideoSettings.paramName.FogQuality	안개 항상 표시
+VideoSettings.paramName.GrassAll	풀 디테일
+VideoSettings.paramName.HDREnable	HDR
+VideoSettings.paramName.AntiAliasingEnable	안티앨리어싱
+VideoSettings.paramName.FPS_LIMIT	FPS 제한
+VideoSettings.paramName.HideBodies	시체 숨기기
+VideoSettings.paramName.mouseHardwareCursor	하드웨어 마우스 커서
+VideoSettings.paramName.Noise	고품질 지형 디테일
+VideoSettings.paramName.ObjectsQuality	모델 품질
+VideoSettings.paramName.PSM	그림자
+VideoSettings.paramName.RenderRoads	도로 표시
+VideoSettings.paramName.ShowAmmunition	전투 장비 항상 표시
+VideoSettings.paramName.Sky	고품질 하늘 디테일
+VideoSettings.paramName.SoftParticles	부드러운 입자
+VideoSettings.paramName.SSAO	주변광 차폐
+VideoSettings.paramName.TreeDistance	나무 렌더링 거리
+VideoSettings.paramName.TreesDistLod	나무 디테일
+VideoSettings.paramName.UseOneCpu	CPU 1개만 사용
+VideoSettings.paramName.VehicleEffects	차량 이동 효과 표시
+VideoSettings.paramName.WaterQuality	물 디테일
+VideoSettings.paramValue.DetailPreset.Custom	사용자 지정
+VideoSettings.paramValue.DetailPreset.High	높음
+VideoSettings.paramValue.DetailPreset.Low	낮음
+VideoSettings.paramValue.DetailPreset.Medium	중간
+VideoSettings.paramValue.GrassAll.Dense	빽빽한 풀
+VideoSettings.paramValue.GrassAll.Medium	보통
+VideoSettings.paramValue.GrassAll.No_Grass	없음
+VideoSettings.paramValue.GrassAll.Rare	성긴 풀
+VideoSettings.paramValue.GrassAll.Very_Dense	매우 빽빽한 풀
+VideoSettings.paramValue.ObjectsQuality.High	높음
+VideoSettings.paramValue.ObjectsQuality.Low	낮음
+VideoSettings.paramValue.ObjectsQuality.Medium	보통
+VideoSettings.paramValue.ObjectsQuality.Very_Low	매우 낮음
+VideoSettings.paramValue.PSM.None	없음
+VideoSettings.paramValue.PSM.Object_shadowing	물체 그림자
+VideoSettings.paramValue.PSM.Shadows_and_selfshading	자체 그림자
+VideoSettings.paramValue.SoftParticles.No	중간
+VideoSettings.paramValue.SoftParticles.Yes	높음
+VideoSettings.paramValue.TreeDistance.Far	높음
+VideoSettings.paramValue.TreeDistance.Medium	보통
+VideoSettings.paramValue.TreeDistance.Near	낮음
+VideoSettings.paramValue.TreesDistLod.High	높음
+VideoSettings.paramValue.TreesDistLod.Low	낮음
+VideoSettings.paramValue.TreesDistLod.Medium	중간
+VideoSettings.paramValue.WaterQuality.High	높음
+VideoSettings.paramValue.WaterQuality.Low	낮음
+VideoSettings.paramValue.WaterQuality.Medium	중간
+Voice_volume	음성 음량
+WAITING_PTS	잠시 기다려 주십시오
+WeaponAmmoInfoWindow.ACCURATE_DISTANCE	유효 사거리, m
+WeaponAmmoInfoWindow.dim_grouping	최소 각도
+WeaponAmmoInfoWindow.EFFECTIVE_DISTANCE	최대 사거리, m
+WeaponAmmoInfoWindow.grouping_at	집탄도
+WeaponAmmoInfoWindow.NO_AMMO	탄약 없음
+WeaponAmmoInfoWindow.NO_WEAPON	무기 없음
+WeaponAmmoInfoWindow.THROW_DISTANCE	투척 거리, m
+WeaponCharacteristics.Grouping	집탄도
+WeaponCharacteristics.GroupingMetrics	'
+WeaponCharacteristics.InitialSpeed	초속
+WeaponCharacteristics.MaxDistance	최대 거리
+WeaponCharacteristics.Meters	m
+WeaponCharacteristics.MetersPerSecond	m/s
+WeaponCharacteristics.Penetration	관통력
+WeaponCharacteristics.RateOfFire	발사 속도
+WeaponCharacteristics.ReloadTime	재장전 시간:
+WeaponCharacteristics.Seconds	초
+WeaponCharacteristics.ShotsPerMinute	발/분
+WeaponStaticVariety.Bow	전방 기관총 / 좌클릭 - 선택, 우클릭 - 해제
+WeaponStaticVariety.Cupola	큐폴라 기관총 / 좌클릭 - 선택, 우클릭 - 해제
+WeaponStaticVariety.Mortar	박격포 / 좌클릭 - 선택, 우클릭 - 해제
+WeaponStaticVariety.Primary	주포 / 좌클릭 - 선택, 우클릭 - 해제
+WeaponStaticVariety.Rear	후방 기관총 / 좌클릭 - 선택, 우클릭 - 해제
+WeaponStaticVariety.Secondary	보조 무기 / 좌클릭 - 선택, 우클릭 - 해제
+WeaponStaticVariety.Twin	동축 기관총 / 좌클릭 - 선택, 우클릭 - 해제
+WeatherPresets.default2	기본
+WeatherPresets.medenin_10_00	메데닌, 10:00
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.close_window	창 닫기
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_all_the_items_of_the_slot	이 칸의 모든 물품 버리기
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_and_pick_items_automatically	자동으로 버리고 줍기
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.drop_the_item	물품 버리기
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.pick_all_the_items_of_the_slot	이 칸의 모든 물품 줍기
+xmlskinlk.basebutton.tooltip.availableitemswindow.xml.pick_the_item	물품 줍기
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.change_the_skin	모델 텍스처 변경
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_down	아래로 회전
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_to_the_left	왼쪽으로 회전
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_to_the_right	오른쪽으로 회전
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.turn_up	위로 회전
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.zoom_in	확대
+xmlskinlk.basebutton.tooltip.encpanel3dview.xml.zoom_out	축소
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.armored_cars	장갑차
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.artillery	포병
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.cars	차량
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.flaks	대공포
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.hmg	중기관총
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.spg	자주포
+xmlskinlk.basebutton.tooltip.encyclopaedia.xml.tanks	전차
+xmlskinlk.basebutton.tooltip.ingame.xml.attach	연결
+xmlskinlk.basebutton.tooltip.ingame.xml.attack	공격
+xmlskinlk.basebutton.tooltip.ingame.xml.attack_ground	지역 사격
+xmlskinlk.basebutton.tooltip.ingame.xml.bottom	하부
+xmlskinlk.basebutton.tooltip.ingame.xml.center	중앙
+xmlskinlk.basebutton.tooltip.ingame.xml.column	종대
+xmlskinlk.basebutton.tooltip.ingame.xml.custom	자유
+xmlskinlk.basebutton.tooltip.ingame.xml.defend	방어 / 회전
+xmlskinlk.basebutton.tooltip.ingame.xml.disperse	산개
+xmlskinlk.basebutton.tooltip.ingame.xml.evacuate	하차
+xmlskinlk.basebutton.tooltip.ingame.xml.gather	밀집
+xmlskinlk.basebutton.tooltip.ingame.xml.hold_fire	사격 중지
+xmlskinlk.basebutton.tooltip.ingame.xml.hold_position	위치 고수
+xmlskinlk.basebutton.tooltip.ingame.xml.lay	포복
+xmlskinlk.basebutton.tooltip.ingame.xml.line	횡대
+xmlskinlk.basebutton.tooltip.ingame.xml.lowspeed	차량이 보병 속도로 이동
+xmlskinlk.basebutton.tooltip.ingame.xml.mineclearing	지뢰 제거
+xmlskinlk.basebutton.tooltip.ingame.xml.mining	지뢰 매설
+xmlskinlk.basebutton.tooltip.ingame.xml.move	이동
+xmlskinlk.basebutton.tooltip.ingame.xml.passengers	탑승자
+xmlskinlk.basebutton.tooltip.ingame.xml.retreat	후진 / 후퇴
+xmlskinlk.basebutton.tooltip.ingame.xml.rotate	회전
+xmlskinlk.basebutton.tooltip.ingame.xml.sit	질주
+xmlskinlk.basebutton.tooltip.ingame.xml.stay	구보
+xmlskinlk.basebutton.tooltip.ingame.xml.stop	정지
+xmlskinlk.basebutton.tooltip.ingame.xml.storm	돌격
+xmlskinlk.basebutton.tooltip.ingame.xml.top	상부
+xmlskinlk.basebutton.tooltip.ingame.xml.weapons	무기
+xmlskinlk.basebutton.tooltip.ingame.xml.wedge	쐐기대형
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_high	베테랑
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_low	신병
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.difficulty_medium	일반병
+xmlskinlk.basebutton.tooltip.missionbriefing.xml.morale	병력이 공황 상태
+xmlskinlk.basebutton.tooltip.nongamestd.xml.armored_cars	장갑차
+xmlskinlk.basebutton.tooltip.nongamestd.xml.artillery	포병
+xmlskinlk.basebutton.tooltip.nongamestd.xml.cars	차량
+xmlskinlk.basebutton.tooltip.nongamestd.xml.flak	대공포
+xmlskinlk.basebutton.tooltip.nongamestd.xml.fortification	방어 시설
+xmlskinlk.basebutton.tooltip.nongamestd.xml.infantry_groups	보병
+xmlskinlk.basebutton.tooltip.nongamestd.xml.machineguns	중기관총
+xmlskinlk.basebutton.tooltip.nongamestd.xml.spg	자주포
+xmlskinlk.basebutton.tooltip.nongamestd.xml.tanks	전차
+xmlskinlk.basebuttonex.tooltip.armycompositionlistex.xml.LeftScroll	왼쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.armycompositionlistex.xml.RightScroll	오른쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.briefingbuttonpanelex.xml.briefing	브리핑
+xmlskinlk.basebuttonex.tooltip.CameraModeButtonPanel.xml.CameraMode	카메라 모드
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.actionMode	자유 이동 제한/허용
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.aimfireattackground	조준 지역 사격
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.ambush	매복
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.attack	공격
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.attackground	지역 사격
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.autopickup	자동 줍기
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.centerattack	중앙 조준
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.clawformation	갈고리 대형
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.columnformation	종대 대형
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.crewout	탈출
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.defend	방어 / 회전
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.deffireattackground	방어 지역 사격
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.exit	뒤로
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.fireMode	사격 모드
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.formation	대형
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.formationalign	대형 자동 정렬
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.FreeAction	자유 모드
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.freeattack	자유 조준
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.freeformation	자유 대형
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.gearattack	하부 조준
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.headattack	상부 조준
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.holdfire	사격 중지
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.holdpos	위치 고수
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.hook	견인 연결
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.inventory	소지품
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.lineformation	횡대 대형
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.lowspeed	차량이 보병 속도로 이동
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.mineclearing	지뢰 제거
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.mining	지뢰 매설
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.move	이동
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.retreat	후진 / 후퇴
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.repair	주행 장치 수리
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.shadowmove	은밀 이동
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.shortrush	단거리 돌진 모드
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.smoke	연막 / 우클릭 - 가능하면 즉시 발사
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.sneak	은밀 이동
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.stop	정지
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.storm	돌격
+xmlskinlk.basebuttonex.tooltip.commandpanel.xml.unhook	견인 해제
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.CancelButton	취소
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.OKButton	확인
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.ScrollDownButton	감소
+xmlskinlk.basebuttonex.tooltip.dropcounterpanel.xml.ScrollUpButton	증가
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ManualRotation	마우스 회전 모드 활성화
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.OpenHatches	해치 열기
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.Rotate	모델 회전
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ZoomIn	확대
+xmlskinlk.basebuttonex.tooltip.encyclopaediaex.xml.ZoomOut	축소
+xmlskinlk.basebuttonex.tooltip.frontendbase.xml.ScrollDown	아래로 스크롤
+xmlskinlk.basebuttonex.tooltip.frontendbase.xml.ScrollUp	위로 스크롤
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group0	그룹 10
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group1	그룹 1
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group2	그룹 2
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group3	그룹 3
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group4	그룹 4
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group5	그룹 5
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group6	그룹 6
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group7	그룹 7
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group8	그룹 8
+xmlskinlk.basebuttonex.tooltip.groupspanel.xml.group9	그룹 9
+xmlskinlk.basebuttonex.tooltip.inventorybuttonpanel.xml.Inventory	소지품
+xmlskinlk.basebuttonex.tooltip.inventorybuttonpanel.xml.VehicleCharacteristics	차량 제원
+xmlskinlk.basebuttonex.tooltip.logbuttonpanel.xml.Log	일지
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.AIMessagesFilter	게임 객체 메시지 필터
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.AlliesMessagesFilter	아군 메시지 필터
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.BriefingMessagesFilter	브리핑 메시지 필터
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.EnemyMessagesFilter	적군 메시지 필터
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollDown	아래로 스크롤
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollToBottom	마지막 메시지로
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.ScrollUp	위로 스크롤
+xmlskinlk.basebuttonex.tooltip.logpanel.xml.SystemMessagesFilter	시스템 메시지 필터
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.closePanel	닫기
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.leftScroll	왼쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.pickAllItems	모든 물품 줍기
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.pickBestItems	최상 물품 줍기
+xmlskinlk.basebuttonex.tooltip.lootpanel.xml.rightScroll	오른쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.mainmenubuttonpanel.xml.mainmenu	메인 메뉴
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.briefing	브리핑
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.mainmenu	메인 메뉴
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.statistics	통계
+xmlskinlk.basebuttonex.tooltip.menubuttonspanelex.xml.tacticmap	전술 지도
+xmlskinlk.basebuttonex.tooltip.minimapex.xml.resizebutton	드래그하여 지도 크기 조절
+xmlskinlk.basebuttonex.tooltip.selectedgrouppanel.xml.leftScroll	왼쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.selectedgrouppanel.xml.rightScroll	오른쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.skillsex.xml.Decrease	감소
+xmlskinlk.basebuttonex.tooltip.skillsex.xml.Increase	증가
+xmlskinlk.basebuttonex.tooltip.statisticsbuttonpanelex.xml.statistics	통계
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.artillery	포병
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.cars	차량
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.flaks	대공포
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.infantry	보병
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.machineguns	중기관총
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.planes	항공기
+xmlskinlk.basebuttonex.tooltip.statisticspanel.xml.tanks	전차
+xmlskinlk.basebuttonex.tooltip.supportspanel.xml.scrollleft	왼쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.supportspanel.xml.scrollright	오른쪽으로 스크롤
+xmlskinlk.basebuttonex.tooltip.tacticmapbuttonpanel.xml.tacticmap	전술 지도
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.allunitsfilter	전체
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.artilleryfilter	포병
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.carsfilter	차량
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.flakartilleryfilter	대공포
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.infantryfilter	보병
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.machinegunsfilter	중기관총
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.planefilter	항공기
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.returntogame	재개
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.statistics	통계
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.tanksfilter	전차
+xmlskinlk.basebuttonex.tooltip.tacticmapview.xml.tasks	목표
+xmlskinlk.basebuttonex.tooltip.taskspanel.xml.ScrollDown	아래로 스크롤
+xmlskinlk.basebuttonex.tooltip.taskspanel.xml.ScrollUp	위로 스크롤
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.FastSpeed	게임 속도 2배
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.NormalSpeed	기본 게임 속도
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.PausePlay	일시정지
+xmlskinlk.basebuttonex.tooltip.timeflowpanel.xml.SlowSpeed	게임 속도 절반
+xmlskinlk.basebuttonex.tooltip.timerpanelex.xml.Timer	타이머
+xmlskinlk.basebuttonex.tooltip.weaponpanel.xml.exit	뒤로
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.attack	공격!
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.attack2	공격 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.defend	방어
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.defend2	방어 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.move	이동
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.move2	이동 2
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.storm	돌격
+xmlskinlk.commandcontextmenu.tooltip.commandcontextmenu.xml.storm2	돌격 2
+xmlskinlk.textguiitem.army_composition.xml.1	1
+xmlskinlk.textguiitem.army_composition.xml.2	2
+xmlskinlk.textguiitem.army_composition.xml.3	3
+xmlskinlk.textguiitem.army_composition.xml.4	4
+xmlskinlk.textguiitem.army_composition.xml.5	5
+xmlskinlk.textguiitem.army_composition.xml.6	6
+xmlskinlk.textguiitem.army_composition.xml.need_place	빈 칸이 부족합니다
+xmlskinlk.textguiitem.army_composition.xml.you_cannot_take_this_unit_or_group	이 부대/그룹은 선택할 수 없습니다
+xmlskinlk.textguiitem.combatsbase.xml.description	설명
+xmlskinlk.textguiitem.combatsbase.xml.name	이름
+xmlskinlk.textguiitem.createnetgamedialog.xml.name_of_the_game	게임 이름
+xmlskinlk.textguiitem.createnetgamedialog.xml.number_of_players	플레이어 수
+xmlskinlk.textguiitem.createnetgamedialog.xml.password	비밀번호
+xmlskinlk.textguiitem.encunittypeitem.xml.country	국가
+xmlskinlk.textguiitem.encunittypeitem.xml.unit_name	이름
+xmlskinlk.textguiitem.infopanelstatistics.xml.armored_car:	장갑차:
+xmlskinlk.textguiitem.infopanelstatistics.xml.artillery:	포병:
+xmlskinlk.textguiitem.infopanelstatistics.xml.captured	포획
+xmlskinlk.textguiitem.infopanelstatistics.xml.car:	차량:
+xmlskinlk.textguiitem.infopanelstatistics.xml.current_composition	현재 인원
+xmlskinlk.textguiitem.infopanelstatistics.xml.destroyed	격파
+xmlskinlk.textguiitem.infopanelstatistics.xml.enemy's_units	적 부대
+xmlskinlk.textguiitem.infopanelstatistics.xml.flak:	대공포:
+xmlskinlk.textguiitem.infopanelstatistics.xml.fortification:	방어 시설:
+xmlskinlk.textguiitem.infopanelstatistics.xml.human:	인원:
+xmlskinlk.textguiitem.infopanelstatistics.xml.machine_gun:	중기관총:
+xmlskinlk.textguiitem.infopanelstatistics.xml.player's_units	아군 부대
+xmlskinlk.textguiitem.infopanelstatistics.xml.spg:	자주포:
+xmlskinlk.textguiitem.infopanelstatistics.xml.tank:	전차:
+xmlskinlk.textguiitem.infopanelstatistics.xml.you_have	보유
+xmlskinlk.textguiitem.internetconnectdialog.xml.network_name_or_ip_address	네트워크 이름 또는 IP 주소
+xmlskinlk.textguiitem.internetconnectdialog.xml.password	비밀번호
+xmlskinlk.textguiitem.itemswindow.xml.ammos	탄약
+xmlskinlk.textguiitem.itemswindow.xml.bullets_count	탄 수
+xmlskinlk.textguiitem.itemswindow.xml.combat_gear	전투 장비
+xmlskinlk.textguiitem.itemswindow.xml.ground	전투 장비
+xmlskinlk.textguiitem.itemswindow.xml.grouping_at_100_m	100 m 집탄도
+xmlskinlk.textguiitem.itemswindow.xml.initial_speed	포구 속도, m/s
+xmlskinlk.textguiitem.itemswindow.xml.penetration	관통력, mm
+xmlskinlk.textguiitem.itemswindow.xml.rate_of_fire	발사 속도, 발/분
+xmlskinlk.textguiitem.itemswindow.xml.reload_time	재장전 시간, 초
+xmlskinlk.textguiitem.itemswindow.xml.weapons	무기
+xmlskinlk.textguiitem.missionbriefing.xml.objectives	목표:
+xmlskinlk.textguiitem.missionend.xml.artillery	포병
+xmlskinlk.textguiitem.missionend.xml.battle_time	전투 시간
+xmlskinlk.textguiitem.missionend.xml.captured	포획
+xmlskinlk.textguiitem.missionend.xml.destroyed	격파
+xmlskinlk.textguiitem.missionend.xml.enemy_casualties	적 손실
+xmlskinlk.textguiitem.missionend.xml.engines	차량
+xmlskinlk.textguiitem.missionend.xml.humen	병사
+xmlskinlk.textguiitem.missionend.xml.planes	항공기
+xmlskinlk.textguiitem.missionend.xml.player	플레이어
+xmlskinlk.textguiitem.missionend.xml.player_casualties	아군 손실
+xmlskinlk.textguiitem.missionend.xml.tanks	전차
+xmlskinlk.textguiitem.missionwindlg.xml.victory	승리
+xmlskinlk.textguiitem.multiplayerinfo.xml.players	플레이어
+xmlskinlk.textguiitem.netgameslistbox.xml.map	지도
+xmlskinlk.textguiitem.netgameslistbox.xml.ping	핑
+xmlskinlk.textguiitem.netgameslistbox.xml.players	플레이어
+xmlskinlk.textguiitem.netgameslistbox.xml.server_name	서버 이름
+xmlskinlk.textguiitem.netgameslistbox.xml.version	버전
+xmlskinlk.textguiitem.netmapsmenu.xml.alliance	동맹
+xmlskinlk.textguiitem.netmapsmenu.xml.army	군
+xmlskinlk.textguiitem.netmapsmenu.xml.chat	채팅
+xmlskinlk.textguiitem.netmapsmenu.xml.color	색상
+xmlskinlk.textguiitem.netmapsmenu.xml.description	설명
+xmlskinlk.textguiitem.netmapsmenu.xml.mapname	이름
+xmlskinlk.textguiitem.netmapsmenu.xml.messages	메시지
+xmlskinlk.textguiitem.netmapsmenu.xml.player	플레이어
+xmlskinlk.textguiitem.netmapsmenu.xml.status	상태
+xmlskinlk.textguiitem.netmapsmenu.xml.username	이름
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_01	주의!
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_02	인터넷 게임 서버를 만들려면
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_03	컴퓨터에 외부 IP 주소가 있어야 합니다.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_04	
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_05	로컬 게임 서버를 만들거나
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_06	인터넷을 통해 다른 플레이어에게
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_07	접속할 수는 있습니다.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_08	
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_09	자세한 내용은 Multiplayer Configuration Readme.mht
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_10	파일을 참조하십시오.
+xmlskinlk.textguiitem.noexternalipdialog.xml.msg_line_11	
+xmlskinlk.textguiitem.nongamestd.xml.cost	비용
+xmlskinlk.textguiitem.nongamestd.xml.crew	승무원 / 그룹
+xmlskinlk.textguiitem.nongamestd.xml.name	이름
+xmlskinlk.textguiitem.nongamestd.xml.unit	부대
+xmlskinlk.textguiitem.options.xml.camera_sensitivity	카메라 감도
+xmlskinlk.textguiitem.options.xml.command	명령
+xmlskinlk.textguiitem.options.xml.control_key1	조작 키 1
+xmlskinlk.textguiitem.options.xml.control_key2	조작 키 2
+xmlskinlk.textguiitem.options.xml.developer	개발자
+xmlskinlk.textguiitem.options.xml.press_a_key	키 입력
+xmlskinlk.textguiitem.profile.xml.available_profiles	사용 가능한 프로필
+xmlskinlk.textguiitem.profile.xml.information	정보
+xmlskinlk.textguiitem.saveloadgame.xml.description	설명
+xmlskinlk.textguiitem.saveloadgame.xml.play_time	플레이 시간
+xmlskinlk.textguiitem.saveloadgame.xml.record_name	기록 이름
+xmlskinlk.textguiitem.saveloadgame.xml.save_time	저장 시각
+xmlskinlk.textguiitem.skills.xml.artillery:	포병
+xmlskinlk.textguiitem.skills.xml.awards	훈장 수여
+xmlskinlk.textguiitem.skills.xml.captured	포획
+xmlskinlk.textguiitem.skills.xml.destroyed	손상
+xmlskinlk.textguiitem.skills.xml.driver	운전
+xmlskinlk.textguiitem.skills.xml.engines:	차량
+xmlskinlk.textguiitem.skills.xml.free_points:	남은 경험치
+xmlskinlk.textguiitem.skills.xml.gunlayer	포술
+xmlskinlk.textguiitem.skills.xml.infantry:	보병
+xmlskinlk.textguiitem.skills.xml.intelligence	지능
+xmlskinlk.textguiitem.skills.xml.leadership	통솔력
+xmlskinlk.textguiitem.skills.xml.marksmanship	사격술
+xmlskinlk.textguiitem.skills.xml.planes:	항공기
+xmlskinlk.textguiitem.skills.xml.rank	계급
+xmlskinlk.textguiitem.skills.xml.scout	정찰
+xmlskinlk.textguiitem.skills.xml.tanks:	전차
+xmlskinlk.textguiitem.skills.xml.used_points:	사용한 경험치
+xmlskinlk.textguiitem.timespeedpanel.xml.time_is_2_times_quicker	2배 빠르게
+xmlskinlk.textguiitem.timespeedpanel.xml.time_is_2_times_slower	2배 느리게
+xmlskinlk.textguiitem.unitwindow.xml.back	후면
+xmlskinlk.textguiitem.unitwindow.xml.bottom	하면
+xmlskinlk.textguiitem.unitwindow.xml.characteristics	제원
+xmlskinlk.textguiitem.unitwindow.xml.driver	운전
+xmlskinlk.textguiitem.unitwindow.xml.front	전면
+xmlskinlk.textguiitem.unitwindow.xml.gun_layer	포술
+xmlskinlk.textguiitem.unitwindow.xml.hull_armoring,_mm	차체 장갑, mm
+xmlskinlk.textguiitem.unitwindow.xml.intelligence	지능
+xmlskinlk.textguiitem.unitwindow.xml.leadership	통솔력
+xmlskinlk.textguiitem.unitwindow.xml.marksmanship	사격술
+xmlskinlk.textguiitem.unitwindow.xml.mask	포방패
+xmlskinlk.textguiitem.unitwindow.xml.maximum_speed,_km_per_hour	최고 속도, km/h
+xmlskinlk.textguiitem.unitwindow.xml.scout	정찰
+xmlskinlk.textguiitem.unitwindow.xml.side	측면
+xmlskinlk.textguiitem.unitwindow.xml.top	상면
+xmlskinlk.textguiitem.unitwindow.xml.tower_armoring,_mm	포탑 장갑, mm
+xmlskinlk.textguiitem.unitwindow.xml.turret_armoring,_mm	포탑 장갑, mm
+xmlskinlk.textguiitem.unitwindowtooltip.xml.b/m	하/방패
+xmlskinlk.textguiitem.unitwindowtooltip.xml.ba	후
+xmlskinlk.textguiitem.unitwindowtooltip.xml.driver	운전
+xmlskinlk.textguiitem.unitwindowtooltip.xml.f	전
+xmlskinlk.textguiitem.unitwindowtooltip.xml.gunlayer	포술
+xmlskinlk.textguiitem.unitwindowtooltip.xml.health	체력
+xmlskinlk.textguiitem.unitwindowtooltip.xml.hull	차체
+xmlskinlk.textguiitem.unitwindowtooltip.xml.intelligence	지능
+xmlskinlk.textguiitem.unitwindowtooltip.xml.leadership	통솔력
+xmlskinlk.textguiitem.unitwindowtooltip.xml.marksmanship	사격술
+xmlskinlk.textguiitem.unitwindowtooltip.xml.s	측
+xmlskinlk.textguiitem.unitwindowtooltip.xml.scout	정찰
+xmlskinlk.textguiitem.unitwindowtooltip.xml.spirit	사기
+xmlskinlk.textguiitem.unitwindowtooltip.xml.t	상
+xmlskinlk.textguiitem.unitwindowtooltip.xml.turret	포탑
+xmlskinlk.textguiitem.usercampaigns.xml.description	설명
+xmlskinlk.textguiitem.usercampaigns.xml.name	이름
+ZoneTypeEnum.CLOSED	폐쇄
+ZoneTypeEnum.INITIAL_ORIGINAL	초기 (시나리오)
+ZoneTypeEnum.INITIAL_RANDOM	초기
+ZoneTypeEnum.OPEN_ORIGINAL	개방 (시나리오)
+ZoneTypeEnum.OPEN_RANDOM	개방

@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+적 방어 시설을 파괴하라.
+[Mission.Description]
+독일군이 또 하나의 방어선을 차지했다. 그들은 치스메나 부근에 상당한 대전차 병력을 집중시켰다.
+
+명령:
+- 치스메나 일대의 적 방어 시설을 파괴하라.
+[Mission.Success]
+적 방어 시설을 파괴했다. 임무는 성공이다!
+[Mission.Failed]
+명령을 수행하지 못했다!
+[Submission_1.Objectives]
+고지를 점령하라.
+[Submission_1.Description]
+적 병력은 취락 북쪽 고지에 집중되어 있다. 방어하는 적 병력에는 대전차포와 자주포가 포함된다. 
+
+명령:
+- 적을 고지에서 몰아내라.
+[Submission_1.Success]
+임무를 완수했다! 적을 고지에서 몰아냈다.
+[Submission_1.Failed]
+적이 귀관의 공격을 격퇴했다. 명령을 수행하지 못했다!

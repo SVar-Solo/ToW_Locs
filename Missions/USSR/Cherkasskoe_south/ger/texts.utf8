@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Wehren Sie feindliche Angriffe im Süden von Tscherkasskoje ab. 
+[Mission.Description]
+Nahezu ein ganzes Infanteriebataillon der Division Großdeutschland rückt mit Panzern von Süden her vor, um Tscherkasskoje anzugreifen. Konzentrieren Sie Ihre Anstrengungen darauf, den ersten Schützengraben zu halten. Sollte der Feind durchbrechen, ziehen Sie sich in die Ersatzstellungen am südwestlichen Ortsrand des Dorfes zurück.
+[Mission.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Mission.Failed]
+Unsere Truppen mussten sich wegen des Angriffs durch den überlegenen Feind zurückziehen.
+[Submission_1.Objectives]
+Verhindern Sie, dass der Feind in den südlichen Teil von Tscherkasskoje eindringt, bis Verstärkung eingetroffen ist.
+[Submission_1.Success]
+Der feindliche Vorstoß wurde aufgehalten.
+[Submission_1.Failed]
+Der Feind ist bis zum Dorf durchgebrochen, unsere Truppen ziehen sich zurück.
+[Submission_2.Objectives]
+Weichen Sie ins Zentrum von Tscherkasskoje aus. Schützen Sie das Ausweichen der Hauptkräfte zur neuen Kampflinie mit Artillerie- und Panzerfeuer.
+[Submission_2.Success]
+Mission erfolgreich, unsere Truppen haben die neue Verteidigungslinie besetzt.
+[Submission_2.Failed]
+Die Kontrolle über die Truppe ist verloren; die Einheiten haben sich unkontrolliert und in isolierten Gruppen zurückgezogen.
+[StringTable.Reinforcement_tanks]
+Eine Panzergruppe der Divisionsreserve steht jetzt unter Ihrem Kommando.
+[StringTable.Reinforcement_spg]
+Eine Batterie Selbstfahrlafetten steht jetzt unter Ihrem Kommando.
+
+[StringTable.ChangeArmy]
+Kampfgruppen an der linken und rechten Flanke stehen jetzt unter Ihrem Kommando. 
+[StringTable.tanks]
+Panzer des 245. Unabhängigen Panzerregiments 
+[StringTable.SPG]
+Sturmgeschütze des 1440. Panzerartillerieregiments
+[StringTable.Infantry]
+Infanterie
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

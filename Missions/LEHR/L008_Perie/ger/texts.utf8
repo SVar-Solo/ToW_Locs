@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Halten Sie den Feind auf.
+[Submission1.Description]
+Nach langer Vorbereitungszeit haben die Amerikaner einen grossangelegten Angriff in diesem Frontabschnitt begonnen, mit dem Ziel, die verteidigenden Einheiten der Panzer Lehr Division zu zerstören. Die Situation an der Front ist schwierig. Der Feind ist in der Überzahl. Sie müssen den feindlichen Angriff um jeden Preis aufhalten.
+
+Ihre Befehle lauten:
+- Halten Sie den feindlichen Angriff auf.
+[Submission1.Success]
+Gute Arbeit! Der feindliche Angriff wurde gestoppt.
+[Submission1.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.
+[Submission2.Objectives]
+Schlagen Sie alle feindlichen Angriffe zurück.
+[Submission2.Description]
+Eine Gruppe amerikanischer Truppen nähert sich aus dem Norden, mit dem Ziel, die Verteidigungslinien der Panzer Lehr Division in dieser Gegend zu zerstören. Sie müssen den Angriff der amerikanischen Truppen aufhalten.
+
+Ihre Befehle lauten:
+- Schlagen Sie die gegnerischen Angriffe zurück.
+[Submission2.Success]
+Gute Arbeit! Die feindlichen Angriffe wurden zurückgeschlagen.
+[Submission2.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!

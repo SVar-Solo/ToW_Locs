@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Wyzwól Simaszkowo; odeprzyj kontrataki wroga; wyzwól Sznitki; zabezpiecz drogę do stacji Krinki.
+[Mission.Description]
+Wyzwól Simaszkowo; odeprzyj kontrataki wroga; wyzwól Sznitki; zabezpiecz drogę do stacji Krinki; i nie dopuść do przerzucania przez wroga posiłków wzdłuż tej drogi.
+[Mission.Success]
+Misja wykonana.
+[Mission.Failed]
+Misja nieudana!
+[StringTable.Subtitle_01]
+23 czerwca 1944 roku, Białoruś, na zachód od Wysoczan.
+[Submission1.Objectives]
+Wyzwól Simaszkowo.
+[Submission1.Description]
+Wyzwól Simaszkowo spod niemieckich okupantów i zorganizuj pozycje obronne. Potwierdzone dane rozpoznania wskazują na obecność wrogich grup pancernych na zachód i południe od Simaszkowa. 
+[Submission1.Success]
+Simaszkowo zostało wyzwolone.
+[Submission1.Failed]
+Zadanie nieudane.
+[Submission2.Objectives]
+Odeprzyj kontrataki wroga.
+[Submission2.Description]
+Potwierdzone dane rozpoznania wskazują na obecność wrogich grup pancernych na zachód i południe od Simaszkowa. Tymi siłami wróg spróbuje odbić Simaszkowo. Musisz utrzymać Simaszkowo i odeprzeć wszystkie kontrataki wroga.
+[Submission2.Success]
+Zadanie wykonane. Kontratak wroga został odparty.
+[Submission2.Failed]
+Zadanie nieudane.
+[Submission3.Objectives]
+Odetnij drogę do stacji Krinki.
+[Submission3.Description]
+Wyzwól Sznitki, posuń się na zachód i zabezpiecz drogę do stacji i wsi Krinki. Podążaj tą drogą na północ, eliminując wszystkie zauważone wojska wroga.
+[Submission3.Success]
+Zadanie wykonane.
+[Submission3.Failed]
+Zadanie nieudane.

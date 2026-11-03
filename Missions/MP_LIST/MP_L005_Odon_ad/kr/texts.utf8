@@ -1,0 +1,69 @@
+﻿[StringTable.]
+
+
+[StringTable.ArmyB_WIN]
+동맹 2 승리!
+
+[StringTable.ArmyA_WIN]
+동맹 1 승리!
+
+[StringTable.ArmyA_king_Hill_A]
+동맹 1이 깃발 A를 점령했다!
+
+[StringTable.ArmyA_king_Hill_B]
+동맹 1이 깃발 B를 점령했다!
+
+[StringTable.ArmyA_king_Hill_C]
+동맹 1이 깃발 C를 점령했다!
+
+[StringTable.ArmyA_king_Hill_D]
+동맹 1이 깃발 D를 점령했다!
+
+[StringTable.ArmyA_king_Hill_E]
+동맹 1이 깃발 E를 점령했다!
+
+[StringTable.ArmyB_king_Hill_A]
+동맹 2가 깃발 A를 점령했다!
+
+[StringTable.ArmyB_king_Hill_B]
+동맹 2가 깃발 B를 점령했다!
+
+[StringTable.ArmyB_king_Hill_C]
+동맹 2가 깃발 C를 점령했다!
+
+[StringTable.ArmyB_king_Hill_D]
+동맹 2가 깃발 D를 점령했다!
+
+[StringTable.ArmyB_king_Hill_E]
+동맹 2가 깃발 E를 점령했다!
+
+[StringTable.Hill_A_Lost]
+깃발 A를 잃었다!
+
+[StringTable.Hill_B_Lost]
+깃발 B를 잃었다!
+
+[StringTable.Hill_C_Lost]
+깃발 C를 잃었다!
+
+[StringTable.Hill_D_Lost]
+깃발 D를 잃었다!
+
+[StringTable.Hill_E_Lost]
+깃발 E를 잃었다!
+
+[StringTable.ArmyA_capture_ALL_flags]
+동맹 1이 모든 깃발을 점령했다! 동맹 2는 2분 안에 깃발을 최소 1개 되찾지 못하면 임무에 실패한다.
+
+[StringTable.ArmyB_capture_ALL_flags]
+동맹 2가 모든 깃발을 점령했다! 동맹 1은 2분 안에 깃발을 최소 1개 되찾지 못하면 임무에 실패한다.
+
+[StringTable.One_or_more_flags_lost]
+깃발을 하나 이상 잃었다!
+
+[StringTable.rus]
+증원 부대
+
+[StringTable.ger]
+증원 부대
+

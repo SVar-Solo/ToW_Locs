@@ -1,0 +1,28 @@
+﻿[Mission.Objectives]
+Impedisci al nemico di sfondare verso le nostre retrovie.
+[Mission.Description]
+Hai avuto dei rinforzi provenienti dalle riserve. Nel settore del fronte vicino al villaggio di Yadromino, una compagnia della divisione fucilieri si sta difendendo. Questa compagnia ha delle armi anticarro e avrai almeno un cannone da 45 mm a tua disposizione.
+
+I tuoi ordini sono:
+- Impedisci al nemico di sfondare verso le nostre retrovie.
+[Mission.Success]
+Gli ordini sono stati eseguiti! 
+[Mission.Failed]
+Non sei riuscito a eseguire i tuoi ordini!
+[Submission_1.Objectives]
+Ferma i carri armati nemici.
+[Submission_1.Description]
+Posiziona le tue forze in modo da sfruttare le debolezze del nemico. Ricorda di supportare gli attacchi di fanteria con un adeguata copertura d’artiglieria.
+
+I tuoi ordini sono:
+- Distruggi i carri armati nemici che stanno avanzando.
+[Submission_1.Success]
+Gli ordini dell’Alto Comando sono stati eseguiti! Hai distrutto i carri armati nemici.
+[Submission_1.Failed]
+Non sei riuscito a eseguire gli ordini dell’Alto Comando! Le tue truppe sono state sconfitte.
+[StringTable.Change_Infantry]
+Il comandante della compagnia di fucilieri è morto. Prendi il comando della sua compagnia. 
+[StringTable.Change_Artillery]
+Il comandante dell’artiglieria è mortalmente ferito. Hai il comando diretto dei suoi cannoni.
+[StringTable.Change_ALL]
+La situazione attuale richiede una maggiore coordinazione. Per aiutarti nella missione, sei stato nominato comandante dell’intera formazione. Ora hai sotto il tuo controllo un’intera compagnia di fucilieri e una batteria di artiglieria.

@@ -1,0 +1,149 @@
+﻿Fr.Soldat	이등병
+Fr.Soldat_de_1Classe	일등병
+Fr.Carporal	상등병
+Fr.Carporal_Chef	병장
+Fr.Sergent	하사
+Fr.Sergent_chef	중사
+Fr.Adjutant	상사
+Fr.Adjutant_chef	원사
+Fr.Sous_Lieutenant	소위
+Fr.Lieutenant	중위
+Fr.Capitaine	대위
+Fr.Major	소령
+Fr.Lieutenant_Colonel	중령
+Fr.Colonel	대령
+
+Ger.Schutze			이등병
+Ger.Oberschutze		일등병
+Ger.Gefreiter		상등병
+Ger.Obergefreiter	병장
+Ger.Unteroffizier	하사
+Ger.Unterfeldwebel	중사
+Ger.Feldwebel		상사
+Ger.Oberfeldwebel	원사
+
+Ger.Leutnant		소위
+Ger.Oberleutnant	중위
+Ger.Hauptmann		대위
+Ger.Major			소령
+Ger.Oberstleutnant	중령
+Ger.Oberst			대령
+
+Ger_SS.SS-Schutze				이등병
+Ger_SS.SS-Oberschutze  			일등병
+Ger_SS.SS-Sturmmann				상등병
+Ger_SS.SS-Rottenfuhrer			병장
+Ger_SS.SS-Unterscharfuhrer		하사
+Ger_SS.SS-Scharfuhrer			중사
+Ger_SS.SS-Oberscharfuhrer		상사
+Ger_SS.SS-Hauptscharfuhrer		원사
+
+Ger_SS.SS-Untersturmfuhrer		소위
+Ger_SS.SS-Oberststurmfuhrer		중위
+Ger_SS.SS-Hauptsturmfuhrer		대위
+Ger_SS.SS-Sturmbannfuhrer		소령
+Ger_SS.SS-Oberststurmbannfuhrer	중령
+Ger_SS.SS-Standartenfuhrer		대령
+
+Ger_LW.LW_Flieger			이등병
+Ger_LW.LW_Gefreiter			일등병
+Ger_LW.LW_Obergefreiter		상등병
+Ger_LW.LW_Stabsgefreiter	병장
+Ger_LW.LW_Unteroffizier		하사
+Ger_LW.LW_Unterfeldwebel	중사
+Ger_LW.LW_Feldwebel			상사
+Ger_LW.LW_Oberfeldwebel		원사
+
+Ger_LW.LW_Leutnant			소위
+Ger_LW.LW_Oberleutnant		중위
+Ger_LW.LW_Hauptmann			대위
+Ger_LW.LW_Major				소령
+Ger_LW.LW_Oberstleutnant	중령
+Ger_LW.LW_Oberst			대령
+
+
+Pol.Private	이등병
+Pol.Senior_Private	일등병
+Pol.Corporal	상등병
+Pol.Lance_Sergeant	하사
+Pol.Sergeant	중사
+Pol.Senior_Sergeant	상사
+Pol.Ensign	준위
+Pol.Junior_Lieutenant	소위
+Pol.Lieutenant	중위
+Pol.Captain	대위
+Pol.Major	소령
+Pol.Lieutenant_Coloner	중령
+Pol.Coloner	대령
+
+UK.Private	이등병
+UK.Lance_Corporal	상등병
+UK.Corporal	병장
+UK.Sergeant	하사
+UK.Staff_Sergeant	중사
+UK.Warrant_Officer	상사
+UK.Warrant_Officer_1Class	원사
+UK.2nd_Lieutenant	소위
+UK.Lieutenant	중위
+UK.Captain	대위
+UK.Major	소령
+UK.Lieutenant_Colonel	중령
+UK.Colonel	대령
+
+USA.Private	이등병
+USA.Private_1st_Class	일등병
+USA.Corporal	병장
+USA.Sergeant	하사
+USA.Staff_Sergeant	중사
+USA.Technical_Sergeant	기술 상사
+USA.Master_Sergeant	원사
+USA.Sergeant_Major	주임원사
+USA.2nd_Lieutenant	소위
+USA.1st_Lieutenant	중위
+USA.Captain	대위
+USA.Major	소령
+USA.Lieutenant_Colonel	중령
+USA.Colonel	대령
+
+Ita.Soldato	이등병
+Ita.Soldato_selto	일등병
+Ita.Caporale	상등병
+Ita.Caporale_maggiore	병장
+Ita.Sergente	하사
+Ita.Sergente_maggiore	중사
+Ita.Maresciallo_ordinario	상사
+Ita.Maresciallo_capo	원사
+Ita.Tenente	중위
+Ita.Primo_tenente	상급 중위
+Ita.Capitano	대위
+Ita.Maggiore	소령
+Ita.Tenente_colonnelo	중령
+Ita.Colonnelo	대령
+
+Rus.Ryadovoy	이등병
+Rus.Efreitor	상등병
+Rus.Mladshiy_Serzhant	하사
+Rus.Serzhant	중사
+Rus.Starshiy_Serzhant	상사
+Rus.Starshina	원사
+Rus.Mladshiy_Leitenant	소위
+Rus.Leitenant	중위
+Rus.Starshiy_Leitenant	상급 중위
+Rus.Kapitan	대위
+Rus.Major	소령
+Rus.Podpolkovnik	중령
+Rus.Polkovnik	대령
+
+PRK.Ryadovoy	전사
+PRK.Efreitor	상급 전사
+PRK.Mladshiy_Serzhant	하사
+PRK.Serzhant	중사
+PRK.Starshiy_Serzhant	상사
+PRK.Starshina	특무상사
+PRK.Leitenant	소위
+PRK.Starshiy_Leitenant	중위
+PRK.Kapitan	상위
+PRK.Starshiy_Kapitan	대위
+PRK.Major	소좌
+PRK.Podpolkovnik	중좌
+PRK.Polkovnik	상좌

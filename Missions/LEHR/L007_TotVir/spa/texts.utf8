@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Destruya la defensa enemiga y tome el pueblo.
+[Mission.Description]
+El enemigo ha convertido ese pueblo en un enclave estratégico y el cuartel general exige su captura. El terreno de esta zona presenta una gran colina que da al pueblo, lo que dificulta la observación de largo alcance. Nuestros elementos de reconocimiento informan de que el enemigo está bien fortificado y apoyado por artillería autopropulsada y cañones antitanque. 
+ 
+Sus órdenes:
+- Destruya las defensas enemigas.
+- Tome el pueblo.
+[Mission.Success]
+¡Bien hecho, comandante!
+[Mission.Failed]
+¡Misión fallida! Sus tropas han sido derrotadas.
+[Submission_1.Objectives]
+Capture la posición enemiga.
+[Submission_1.Description]
+El terreno abrupto obligará a enfrentamientos a menos de 500 metros, pero debe tomar el pueblo enemigo que tiene al frente.
+ 
+Sus órdenes:
+- Quite de en medio al enemigo y ocupe sus posiciones, ¡por todos los medios!
+[Submission_1.Success]
+¡Bien hecho, comandante! Sus tropas han salido victoriosas.
+[Submission_1.Failed]
+¡Misión fallida! Ha fallado.

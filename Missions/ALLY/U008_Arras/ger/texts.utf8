@@ -1,0 +1,47 @@
+﻿[Submission_2.Objectives]
+Eine feindliche Verteidigungsstellung wurde gesichtet. Ihre Aufgabe ist es, den Feind zu neutralisieren.
+[Submission_2.Description]
+Eine kürzlich durchgeführte Aufklärungsaktion hat eine deutsche Verteidigungsstellung in einem nahegelegenen Dorf erkannt. Um den Vormarsch der Einheiten der US 3. Armee zu unterstützen müssen Sie den Feind ausschalten. 
+
+Ihre Befehle:
+-	 Neutralisieren Sie die Feindeinheiten.
+[Submission_2.Success]
+Das Dorf ist in unserer Hand!
+[Submission_2.Failed]
+Der Widerstand der deutschen Truppen stellte sich als entschlossener heraus als erwartet! Sie haben diese Schlacht verloren.
+[Submission_1.Objectives]
+Kundschaften Sie die Siedlung mit allen zur Verfügung stehenden Mitteln aus.
+[Submission_1.Description]
+Die deutschen Truppen fliehen, haben aber eine kleine Nachhut hinter sich gelassen, die Sie jetzt angreifen müssen.
+
+Ihre Befehle:
+-	 Kundschaften Sie die nahegelegene Siedlung aus.
+[Submission_1.Success]
+Unsere Späher haben die Aufklärung der Späher beendet.
+[Submission_1.Failed]
+Die Späher wurden ausgeschaltet.
+[Submission_3.Objectives]
+Setzen Sie den Vormarsch entlang der Strasse fort. Zerstören Sie die letzte deutsche Verteidigungsstellung vor der Brücke über den Kanal.
+[Submission_3.Description]
+
+Ihre Befehle:
+-	 Setzen Sie Ihren Vormarsch zur nächsten Siedlung fort.
+-	 Greifen Sie die feindlichen Einheiten an sobald Sie sie gesichtet haben.
+[Submission_3.Success]
+Das letzte Hindernis auf Ihrem Weg nach Brüssel wurde aus dem Wege geräumt!
+[Submission_3.Failed]
+Sie haben verloren. Der Vormarsch der gesamten 3. Armee wird jetzt aufgrund Ihrer Niederlage verzögert.
+[Mission.Objectives]
+Säubern Sie alle deutschen Verteidigungsstellungen.
+[Mission.Description]
+Nach der Landung der Alliierten in der Normandie haben sich die deutschen Truppen schnell zurückgezogen, aber eine Reihe blieb und kämpfte. Die Deutschen stellten Verteidigungspositionen in fast jedem Dorft auf, und machten aus jedem eine Festung. Obwohl Rommel keine Zeit und Ressourcen hatte um eine zusammenhängende Verteidigungslinie aufzubauen, kämpften die Deutschen verzweifelt weiter.
+Der Zeitplan für die von Eisenhower und Montgomery geplante Operation wurde mehrfach durcheinandergeworfen und die Offensive musst wieder und wieder verschoben werden. 
+
+Ihre Befehle:
+-	 Zerstören Sie die deutschen Verteidigungsstellungen.
+[Mission.Success]
+Sie haben gewonnen und die Deutschen aus Ihren Verteidigungsstellungen vertrieben.
+[Mission.Failed]
+Sie haben verloren. Die Deutschen halten weiterhin einige Widerstandsnester in der Gegend.
+[StringTable.reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

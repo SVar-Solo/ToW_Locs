@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Zatrzymaj nieprzyjacielski atak.
+[Submission1.Description]
+Po wielu bitwach i tygodniach walki Amerykanie rozpoczęli zmasowaną ofensywę. Chcą raz na zawsze zniszczyć Panzer Lehr. Walczyłeś wzorowo, ale wszystko to pójdzie na marne, jeśli zawiedziesz w tym krytycznym momencie. Wróg znowu ma przewagę liczebną. Musisz stanąć na wysokości zadania!
+ 
+Rozkazy:
+- Zatrzymaj nieprzyjacielski atak.
+[Submission1.Success]
+Dobra robota! Nieprzyjacielski atak został zatrzymany, a Twoje wojska przetrwały i będą kontynuować walkę.
+[Submission1.Failed]
+Porażka! Twoja armia została pokonana.
+[Submission2.Objectives]
+Odeprzyj wszystkie ataki nieprzyjaciela.
+[Submission2.Description]
+Zwiadowcy wykryli Amerykańskie siły zbliżające się od północy. Nie możesz pozwolić im na kontynuowanie natarcia. Odeprzyj ich!
+ 
+Rozkazy:
+- Odeprzeć nieprzyjacielskie ataki.
+[Submission2.Success]
+Dobra robota! Nieprzyjacielskie ataki zostały odparte.
+[Submission2.Failed]
+Porażka! Twoja armia została zlikwidowana.

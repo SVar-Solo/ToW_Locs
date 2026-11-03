@@ -1,0 +1,53 @@
+﻿[Mission.Objectives]
+Wyzwolić miasto na północny wschód od głównych pozycji nieprzyjaciela.
+[Mission.Description]
+Niemcy stworzyli i wzmocnili pozycje obronne w pobliżu Saint-Lo. Według danych zwiadu lotniczego, nieprzyjaciel skoncentrował w tym rejonie główne siły 7. Armii. Teren znakomicie nadaje się na zasadzki i budowę umocnień obronnych, musimy więc ostrożnie posuwać się do przodu. 
+Twoje rozkazy: 
+-	Wykonać akcję zaczepną z użyciem czołgów i piechoty.
+-	Wyzwolić miasto znajdujące się na północnym wschodzie. 
+[Mission.Success]
+Zadanie wykonane! Operacja Kobra toczy się dalej.
+[Mission.Failed]
+Misja nie powiodła się. 
+[Submission_1.Objectives]
+Przeprowadzić akcję zaczepną w dwóch wsiach w okolicach Saint-Lo. 
+[Submission_1.Description]
+Wróg zgromadził główne siły obronne na wzgórzach w pobliżu miasta. Na drodze naszego natarcia znajdują się dwie wsie. Nie mamy informacji o zlokalizowanych tam siłach nieprzyjaciela. 
+Twoje rozkazy:
+-	Przeprowadzić akcję zaczepną w dwóch wsiach. 
+[Submission_1.Success]
+Przeprowadzono akcję zaczepną. Nieprzyjaciel został pokonany. 
+[Submission_1.Failed]
+Misja nie powiodła się.
+[Submission_2.Objectives]
+Uderz na główne umocnienia obronne na wzgórzu. 
+[Submission_2.Description]
+Wróg ustanowił linię obrony na drogach do miasta, wykorzystując okoliczne wzgórza.
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielską obronę na wzgórzu.
+[Submission_2.Success]
+Zadanie wykonane. 
+[Submission_2.Failed]
+Misja nie powiodła się.
+[Submission_3.Objectives]
+Zająć miasto Saint-Lo. 
+[Submission_3.Description]
+Miasto Saint-Lo ma olbrzymie znaczenie strategiczne. Jest ono istotne dla kontynuacji ofensywy w głąb Francji. 
+Twoje rozkazy:
+-	Wyzwolić miasto Saint-Lo, niszcząc garnizon obronny.
+[Submission_3.Success]
+Zasadzka została zniszczona! 
+[Submission_3.Failed]
+Misja nie powiodła się.
+[Submission_4.Objectives]
+Zniszczyć nieprzyjacielską baterię artylerii.
+[Submission_4.Description]
+Niemcy bardzo dobrze rozmieścili artylerię. Wszystkie drogi do miasta można było ostrzeliwać ze wzgórza, na którym znajdowała się nieprzyjacielska bateria. 
+Twoje rozkazy:
+-	Zniszczyć nieprzyjacielską baterię artylerii. 
+[Submission_4.Success]
+Bateria artylerii została zniszczona. 
+[Submission_4.Failed]
+Misja nie powiodła się.
+[StringTable.Reserv]
+Przybyły posiłki.

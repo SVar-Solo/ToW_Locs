@@ -1,0 +1,116 @@
+﻿[Mission.Objectives]
+Nie pozwól wrogowi wedrzeć się do osady.
+
+[Mission.Description]
+Za pomocą przydzielonego Ci oddziału saperów osłaniaj nasze wojska. Nie dopuść, aby wrogie wojska dotarły do amerykańskiej bazy transportowej.
+
+[Mission.Success]
+Pomyślnie wykonałeś zadanie. Dowództwo dziękuje za służbę.
+
+[Mission.Failed]
+Nie wykonałeś zadania.
+
+[SubMission_01.Objectives]
+W oczekiwaniu na śmigłowiec umieść oddział saperów w namiocie przy lądowisku. Masz cztery minuty na wykonanie zadania. Czas rozpoczyna się teraz.
+
+[SubMission_01.Description]
+Musimy użyć śmigłowca transportowego, aby dostarczyć oddział saperów do osady. W tym celu poczekaj na jego przybycie w namiocie położonym najbliżej lądowiska.
+
+[SubMission_01.Success]
+Zadanie wykonane.
+
+[SubMission_01.Failed]
+Zadanie nieudane.
+
+[SubMission_02.Objectives]
+Użyj śmigłowca, aby przetransportować oddział saperów do osady. Masz sześć minut na wykonanie zadania. Czas rozpoczyna się teraz.
+
+[SubMission_02.Description]
+Śmigłowiec transportowy armii USA może przerzucić oddział piechoty ponad górami. Użyj go, aby szybko przetransportować oddział saperów do osady atakowanej przez wrogą armię.
+
+[SubMission_02.Success]
+Zadanie wykonane.
+
+[SubMission_02.Failed]
+Zadanie nieudane.
+
+[SubMission_03.Objectives]
+Zaminuj most minami przeciwpancernymi. Masz sześć minut na wykonanie zadania. Czas rozpoczyna się teraz.
+
+[SubMission_03.Description]
+Wrogie jednostki znajdują się na podejściach do osady; wojska sojusznicze ledwo powstrzymują napór. Trzeba zaminować most minami przeciwpancernymi, aby wrogie czołgi wpadły w pułapkę.
+
+[SubMission_03.Success]
+Zadanie wykonane.
+
+[SubMission_03.Failed]
+Zadanie nieudane.
+
+[SubMission_04.Objectives]
+Zniszcz wrogie jednostki.
+
+[SubMission_04.Description]
+Użyj wszelkich dostępnych środków, aby zniszczyć wrogą armię. Wykorzystaj przewagę taktyczną sił sojuszniczych oraz najnowszy czołg armii USA.
+
+[SubMission_04.Success]
+Zadanie wykonane.
+
+[SubMission_04.Failed]
+Zadanie nieudane.
+
+[StringTable.avia_report]
+Dostępne jest wsparcie lotnicze. Wskaż punkt na terenie, w który ma zostać skierowane wsparcie lotnicze. Samoloty szturmowe atakują wroga samodzielnie.
+
+[StringTable.msg_01_01]
+Pod Twoim dowództwem znajduje się oddział saperów.
+Gdy w ustawieniach włączony jest „klasyczny tryb zaznaczania jednostek”, możesz zaznaczyć cały oddział piechoty, klikając lewym przyciskiem myszy jednego z żołnierzy z wciśniętym klawiszem Alt (lub klikając dwukrotnie lewym przyciskiem). Gdy tryb klasyczny jest wyłączony, z klawiszem Alt zaznaczany jest pojedynczy żołnierz.
+
+[StringTable.msg_01_02]
+Wyślij oddział do namiotu oznaczonego czerwonym dymem sygnałowym. Poczekaj na przybycie śmigłowca.
+
+[StringTable.msg_02_01]
+Aby załadować oddział na śmigłowiec, zaznacz oddział i kliknij śmigłowiec prawym przyciskiem myszy.
+
+[StringTable.msg_02_02]
+Aby wysłać śmigłowiec w wybrane miejsce, wystarczy go zaznaczyć i kliknąć prawym przyciskiem myszy punkt na ziemi przy czerwonym dymie sygnałowym w pobliżu wsi.
+
+[StringTable.msg_02_03]
+Aby wysadzić oddział ze śmigłowca, użyj polecenia „Wysiądź” {hkey:evacuate}.
+
+[StringTable.msg_02_04]
+Wyślij oddział bliżej mostu, kierując się czerwonym dymem sygnałowym.
+
+[StringTable.msg_03_01]
+Saperzy mają zwiększoną szansę wykrywania wrogich min w trybie rozminowywania. Umiejętność sapera jest oznaczona ikoną miny na ikonie żołnierza na dolnym panelu po zaznaczeniu oddziału.
+Saperzy są uzbrojeni w dwa rodzaje min:
+- Miny przeciwpancerne detonują tylko pod pojazdami i nie reagują na piechotę. Ich siła wybuchu wystarcza, by unieruchomić czołg.
+- Miny przeciwpiechotne są skuteczne przeciwko piechocie, ale detonują także pod pojazdami, nie wyrządzając im znacznych szkód.
+Pamiętaj, że miny mogą zostać zdetonowane przez zewnętrzny wybuch.
+
+[StringTable.msg_03_02]
+Aby położyć minę przeciwpancerną, zaznacz odpowiedniego żołnierza, wybierz minę przeciwpancerną w jego interfejsie, użyj polecenia „Mina” {hkey:mining} i wskaż punkt na ziemi lub moście, w którym mina ma zostać położona. Położona mina zostanie oznaczona flagą.
+
+[StringTable.msg_03_03]
+Możesz wskazać kilka punktów, przytrzymując klawisz SHIFT, następnie anulować polecenie LPM i, nadal przytrzymując SHIFT, wskazać PPM punkt odwrotu. Saper, położywszy miny, wycofa się wtedy do wskazanego punktu.
+
+[StringTable.msg_03_04]
+Wróg ma znaczną przewagę sił. Wycofaj oddział na tyły prawej flanki wsi. Stoi tam pusty ciężki czołg.
+
+[StringTable.msg_03_05]
+Jeśli wrogi czołg dotrze do mostu, wjedzie na minę i zablokuje drogę innym pojazdom.
+
+[StringTable.msg_04_01]
+Przed wsiadaniem do czołgu warto rzucić w jego pobliżu granat dymny, aby ukryć go przed wrogiem. Wtedy załoga będzie miała więcej czasu na przygotowanie czołgu do walki i rozdzielenie ról w załodze.
+
+[StringTable.msg_04_02]
+Aby przejąć czołg, zaznacz oddział saperów i kliknij czołg prawym przyciskiem myszy; ci żołnierze są dobrze wyszkoleni i potrafią obsługiwać czołg.
+
+[StringTable.msg_04_03]
+Pamiętaj, że każdy typ pojazdu ma charakterystykę prędkości maksymalnej i liczby biegów. Te parametry, a także umiejętności kierowcy, moc silnika, masa pojazdu, masa holowanego ładunku, nachylenie terenu i rodzaj gruntu bezpośrednio wpływają na tempo przyspieszania i maksymalną możliwą prędkość jazdy.
+
+[StringTable.msg_04_04]
+Niewystarczające doświadczenie kierowcy może powodować wolne przyspieszanie pojazdu, przypadkowe zatrzymania z powodu błędów w zmianie biegów lub chwilowe zgaśnięcia silnika.
+
+[StringTable.msg_04_05]
+Zniszcz nacierające siły wroga.
+Wchodząc na linię ognia, zawsze staraj się wybrać optymalną trasę ruchu czołgu, aby nie wystawiać burt na ogień.

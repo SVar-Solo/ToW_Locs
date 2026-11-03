@@ -1,0 +1,47 @@
+﻿[StringTable.Reserv]
+Des renforts sont arrivés.
+[Submission1.Objectives]
+Capturer le village et détruire les forces ennemies.
+[Submission1.Description]
+Des forces allemandes ont occupé le village voisin et semblent attendre des renforts. Il faut lancer une attaque immédiate sur le hameau avant que d’autres unités ennemies arrivent.
+
+Vos ordres sont :
+-	Capturer le village.
+-	Battre toutes les troupes adverses.
+[Submission1.Success]
+Mission accomplie avec succès. Les forces ennemies ont été chassées du village.
+[Submission1.Failed]
+Mission échouée.
+[Mission1.Objectives]
+Battre toutes les troupes adverses.
+[Mission1.Description]
+Des forces allemandes ont commencé à progresser vers Mortain. L’ennemi a capturé plusieurs petites localités dans le secteur. Selon nos renseignements, l’ennemi tente de mener une offensive majeure dans cette direction. Il faut les arrêter !
+
+Vos ordres sont :
+	Chasser l’ennemi des localités occupées.
+[Mission1.Success]
+Mission accomplie avec succès.
+[Mission1.Failed]
+Mission échouée.
+[Submission2.Objectives]
+Battre les forces adverses et capturer le village.
+[Submission2.Description]
+Un détachement d’unités ennemies a établi une position dans ce petit hameau. Elles se préparent à lancer une contre-offensive vers Mortain.
+
+Vos ordres sont :
+	Chasser l’ennemi des localités occupées.
+[Submission2.Success]
+Mission accomplie avec succès. Les villages sont sous votre contrôle.
+[Submission2.Failed]
+Mission échouée. Vos forces ont subi de lourdes pertes.
+[Submission3.Objectives]
+Battre le groupe blindé adverse.
+[Submission3.Description]
+L’ennemi a été renforcé par une petite force blindée.
+
+Vos ordres sont :
+-	Attaquer et détruire toutes les unités blindées ennemies.
+[Submission3.Success]
+Mission accomplie avec succès.
+[Submission3.Failed]
+Mission échouée. Vos forces ont subi de lourdes pertes.

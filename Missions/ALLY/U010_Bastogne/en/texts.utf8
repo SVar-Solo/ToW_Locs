@@ -1,0 +1,36 @@
+﻿[Mission.Objectives]
+Liberate the town of Houffalize and drive the enemy away from the heights.
+[Mission.Description]
+Clear skies have come finally after weeks of snow and severe weather and now the Army Air Corps is finally able to provide close air support over the Ardennes. Patton’s tanks have broken through to the city of Bastogne and relieved the troops that had stubbornly held out. Now that Bastogne has been secured, it’s time to drive the Germans back and end the Battle of the Bulge.
+
+Your orders are:
+-	Attack the enemy in Houffalize and drive them out.
+-	Continue your advance towards the heights and crush the enemy defenses.
+[Mission.Success]
+You have won and driven the Germans off.
+[Mission.Failed]
+You have lost the battle and provided the enemy with an important victory!
+[Submission_1.Objectives]
+Capture the town of Houffalize.
+[Submission_1.Description]
+After the surprise attacks by the Germans at the beginning of Battle of the Bulge, the US forces entrenched in and around the town of Bastogne, which itself was a key junction linking 7 different roads. Elements of the 101st Airborne and 10th Armored Divisions stubbornly resisted attack after attack against overwhelming odds and incredibly harsh weather. As the skies finally cleared above, advanced elements of Patton’s relief forces reached the city and counterattacks aimed at clearing the vicinity of German units were launched.  
+
+Your orders:
+-	Liberate the town of Houffalize.
+[Submission_1.Success]
+The town is ours!
+[Submission_1.Failed]
+You have lost. You were not able to capture the town.
+[Submission_2.Objectives]
+Capitalize on your victories so far and capture the heights to the East of Houffalize.
+[Submission_2.Description]
+To the East of the town lie several strategically important hills and ridgelines. Four days ago Germans captured those hills together with the town of Houffalize and now they are using our fortifications for defensive purposes. 
+
+Your orders:
+-	Destroy the enemy defenses on the heights.
+[Submission_2.Success]
+The hills are once again in our hands!
+[Submission_2.Failed]
+You have lost. You were unable to secure the important hills around Houffalize.
+[StringTable.reserv]
+Reinforcements have arrived to support you.

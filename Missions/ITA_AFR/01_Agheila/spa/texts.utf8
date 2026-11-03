@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Destruya el convoy
+[Submission_1.Description]
+Destruya el convoy enemigo que se aproxima a El Agheila.
+[Submission_01.Success]
+Misión cumplida.
+[Submission_01.Failed]
+Misión fallida.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Mantenga el punto fortificado
+[Mission.Description]
+Organice la defensa, mantenga el punto fortificado y bloquee por completo la carretera a El Agheila.
+[NewSubmission.Success]
+Misión cumplida.
+[NewSubmission.Failed]
+Misión fallida.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission_1.Success]
+El convoy ha sido destruido.
+[Submission_1.Failed]
+¡El convoy enemigo ha llegado a El Agheila!
+[NewSubmission.Objectives]
+[NewSubmission.Description]

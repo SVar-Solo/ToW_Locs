@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Défendre et tenir la zone indiquée.
+[Submission1.Description]
+Le XXX Corps britannique a lancé une nouvelle offensive sur le Panzergrenadier-Regiment 901 qui défend la ville de Tilly.
+ 
+Vos ordres:
+- tenir la ville
+[Submission1.Success]
+Beau travail, commandant !
+[Submission1.Failed]
+Vous avez échoué ! Vos unités ont été détruites.
+[Submission2.Objectives]
+Arrêter l’attaque ennemie.
+[Submission2.Description]
+Le XXX Corps britannique a lancé une série d’attaque de diversion pour perturber vos positions et permettre à la 7th Armoured Division de reprendre son offensive.
+ 
+Vos ordres:
+- arrêter l’attaque ennemie.
+[Submission2.Success]
+Beau travail, commandant ! L’attaque ennemie a été stoppée.
+[Submission2.Failed]
+Vous avez échoué ! Vos unités ont été détruites.

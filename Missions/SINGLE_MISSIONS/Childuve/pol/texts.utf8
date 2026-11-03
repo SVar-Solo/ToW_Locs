@@ -1,0 +1,17 @@
+﻿[Mission.Description]
+11 sierpnia 1944 roku o godz. 3.00 przednia straż 95. Gwardyjskiej Dywizji Strzeleckiej (95. gw. ds), która zajmowała szosę Chmielnik–Szydłów w rejonie Skadla–Rachice, została zaatakowana przez dużą grupę wrogich czołgów i piechoty zmotoryzowanej. W trakcie walki oddział poniósł ciężkie straty i został odrzucony w kierunku południowo-wschodnim. Wróg nadal posuwa się w kierunku Szydłowa. Otrzymano rozkaz: „Siłami 1076. pappanc przejść na zagrożony kierunek i odeprzeć ataki wrogich czołgów”.
+[StringTable.1]
+Rozkaz bojowy: Zająć obronę na podejściach do miasta Szydłów, odeprzeć ataki czołgów i piechoty zmotoryzowanej.
+[StringTable.2]
+2. bateria dotarła na pole bitwy.
+[StringTable.3]
+Baterie poniosły ciężkie straty. Ocalali żołnierze powinni wycofać się w rejon Szydłowa.
+[StringTable.4]
+Rozkaz wykonany, ataki wrogich czołgów odparte.
+
+
+
+[Mission.Objectives]
+Utrzymać pozycje
+[Mission.Success]
+[Mission.Failed]

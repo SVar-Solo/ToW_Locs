@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Repousser l’attaque allemande sur la gare de Prokhorovka.
+[Mission1.Description]
+Des unités allemandes ont lancé une attaque sur cette partie du front afin de percer nos lignes à la gare de Prokhorovka. Une foi la gare tombée, ils attaqueront au nord vers Oboyan afin d’encercler nos unités du front de Voronej.
+
+Vos ordres : 
+- 	Arrêter l’assaut allemand sur la gare Prokhorovka. 
+- 	Empêcher les Allemands de percer dans ce secteur.
+[Mission1.Success]
+L’attaque ennemie a été repoussée !
+[Mission1.Failed]
+L’ennemi est parvenu à percer à travers nos défenses.
+[Mission2.Objectives]
+Utilisez vos unités blindées pour détruire les chars ennemis.
+[Mission2.Description]
+L’ennemi est épuisé et le rapport de force joue maintenant en notre faveur. Néanmoins, des unités blindées adverses avancent vers Prokhorovka. Des éléments de la 5e armée blindée de la Garde arrivent pour vous soutenir.
+
+Vos ordres : 
+- 	Utiliser toutes les forces disponibles pour détruire les unités ennemies menaçant la gare de Prokhorovka.
+[Mission2.Success]
+L’ennemi a été mis en déroute – excellent travail commandant !
+[Mission2.Failed]
+Vos troupes ont été détruites et les fascistes poursuivent leur progression sans encombre.
+[Submission1.Objectives]
+Tenir les défenses autour de la gare de Prokhorovka.
+[Submission1.Description]
+Des chars allemands ont atteint Prokhorovka et s’apprêtent à délivrer un coup décisif sur nos défenses dans ce secteur. Les reconnaissances indiquent que les fascistes ont massé des forces importantes, nous pouvons nous attendre à une bataille difficile. Il faut remporter le combat et détruire les troupes allemandes.
+
+Vos ordres : 
+ - 	Utiliser toutes les forces disponibles pour détruire les unités ennemies menaçant la gare de Prokhorovka.
+[Submission1.Success]
+La bataille a été rude mais vous l’avez emporté. Grâce à vos efforts, nous pouvons lancer une contre-offensive.
+[Submission1.Failed]
+Les troupes allemandes ont percé et encerclent nos forces ! La bataille de Koursk se termine en désastre pour l’armée rouge. 
+ [StringTable.Reserv]
+Des renforts vous sont attribués.

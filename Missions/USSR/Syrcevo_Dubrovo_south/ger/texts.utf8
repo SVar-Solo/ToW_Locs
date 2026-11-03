@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Halten Sie die Verteidigungsstellungen auf der Linie Dubrowo - Solonetz. Verhindern Sie, dass feindliche Panzer nach Syrtsev vorstoßen.
+[Mission.Description]
+Halten Sie das rückwärtige Gebiet zusammen mit einer Batterie Panzerabwehrartillerie, einer Panzerbüchseneinheit und Panzern. Besondere Aufmerksamkeit sollte dem Halten der Stellungen im Dorf gewidmet werden. Setzen Sie Panzer für Angriffe aus dem Hinterhalt ein.
+[Mission.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Mission.Failed]
+Unsere Truppen mussten sich wegen des Angriffs durch den überlegenen Feind zurückziehen.
+[Submission1.Objectives]
+Wehren Sie die feindlichen Angriffe durch Panzerangriffe aus dem Hinterhalt ab.
+[Submission1.Success]
+Die feindlichen Panzer wurden zerstört!
+[Submission1.Failed]
+Unsere Panzer wurden zerstört, der Feind rückt weiter vor.
+[Submission2.Objectives]
+Bereiten Sie sich darauf vor, den nächsten Angriff abzuwehren. Panzer weichen zu alternativen Feuerstellungen aus. 
+[Submission2.Success]
+Mission abgeschlossen. Alle feindlichen Angriffe wurden abgewehrt.
+[Submission2.Failed]
+Unsere Panzer wurden zerstört, der Feind rückt weiter vor.
+[Submission3.Objectives]
+Gehen Sie zum Gegenangriff über. Stellen Sie die Frontlinie wieder her! Verhindern Sie, dass die feindlichen Panzer und die motorisierte Infanterie in unser rückwärtiges Gebiet durchbrechen.
+[Submission3.Success]
+Mission abgeschlossen, die Frontlinie wurde wiederhergestellt.
+[Submission3.Failed]
+Gegenangriff zurückgeschlagen, der Feind rückt weiter vor.
+[StringTable.Tanks!]
+Panzer! Feuern Sie aus möglichst kurzer Distanz auf ihre Seiten und Hecks!
+[StringTable.Air!]
+Luftangriff! Gehen Sie in Deckung!
+
+[StringTable.Tank]
+Panzer der 3. Motorisierten Brigade
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

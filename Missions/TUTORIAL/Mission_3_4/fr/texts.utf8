@@ -1,0 +1,116 @@
+﻿[Mission.Objectives]
+Ne laissez pas l’ennemi pénétrer dans la localité.
+
+[Mission.Description]
+À l’aide de l’escouade de sapeurs de combat qui vous est affectée, couvrez nos troupes. Ne laissez pas les troupes ennemies atteindre la base de transport américaine.
+
+[Mission.Success]
+Vous avez accompli la tâche avec succès. Le commandement vous remercie pour vos services.
+
+[Mission.Failed]
+Vous avez échoué à la tâche.
+
+[SubMission_01.Objectives]
+En attendant l’hélicoptère, placez l’escouade de sapeurs de combat dans la tente près de l’aire d’atterrissage. Vous avez quatre minutes pour accomplir la tâche. Le temps commence maintenant.
+
+[SubMission_01.Description]
+Nous devons utiliser un hélicoptère de transport pour acheminer l’escouade de sapeurs de combat jusqu’à la localité. Pour cela, attendez son arrivée dans la tente la plus proche de l’aire d’atterrissage.
+
+[SubMission_01.Success]
+Tâche accomplie.
+
+[SubMission_01.Failed]
+Mission échouée.
+
+[SubMission_02.Objectives]
+Utilisez l’hélicoptère pour déplacer l’escouade de sapeurs de combat jusqu’à la localité. Vous avez six minutes pour accomplir la tâche. Le temps commence maintenant.
+
+[SubMission_02.Description]
+Un hélicoptère de transport de l’US Army peut transférer une escouade d’infanterie au-dessus des montagnes. Utilisez-le pour déplacer rapidement votre escouade de sapeurs de combat vers la localité attaquée par l’armée ennemie.
+
+[SubMission_02.Success]
+Tâche accomplie.
+
+[SubMission_02.Failed]
+Mission échouée.
+
+[SubMission_03.Objectives]
+Minez le pont avec des mines antichars. Vous avez six minutes pour accomplir la tâche. Le temps commence maintenant.
+
+[SubMission_03.Description]
+Des unités ennemies sont aux abords de la localité ; les troupes alliées contiennent à peine l’assaut. Il faut miner le pont avec des mines antichars afin que les chars ennemis tombent dans le piège.
+
+[SubMission_03.Success]
+Tâche accomplie.
+
+[SubMission_03.Failed]
+Mission échouée.
+
+[SubMission_04.Objectives]
+Détruire les unités ennemies.
+
+[SubMission_04.Description]
+Utilisez tous les moyens disponibles pour détruire l’armée ennemie. Exploitez l’avantage tactique des forces alliées, ainsi que le tout nouveau char de l’US Army.
+
+[SubMission_04.Success]
+Tâche accomplie.
+
+[SubMission_04.Failed]
+Mission échouée.
+
+[StringTable.avia_report]
+Un appui aérien est disponible. Indiquez un point du terrain vers lequel l’appui aérien doit être dirigé. Les avions d’attaque attaquent l’ennemi de manière autonome.
+
+[StringTable.msg_01_01]
+Vous avez sous votre commandement une escouade de sapeurs de combat.
+Lorsque le « mode classique de sélection des unités » est activé dans les paramètres, vous pouvez sélectionner toute l’escouade d’infanterie par un clic gauche sur l’un des soldats en maintenant la touche Alt (ou par un double clic gauche). Lorsque le mode classique est désactivé, un soldat individuel est sélectionné avec la touche Alt maintenue.
+
+[StringTable.msg_01_02]
+Envoyez l’escouade à la tente marquée par un signal de fumée rouge. Attendez l’arrivée de l’hélicoptère.
+
+[StringTable.msg_02_01]
+Pour embarquer l’escouade dans l’hélicoptère, sélectionnez l’escouade et faites un clic droit sur l’hélicoptère.
+
+[StringTable.msg_02_02]
+Pour envoyer l’hélicoptère au point voulu, sélectionnez-le et faites un clic droit sur un point du sol près de la fumée de signalisation rouge, près du village.
+
+[StringTable.msg_02_03]
+Pour faire descendre l’escouade de l’hélicoptère, utilisez la commande « Débarquer » {hkey:evacuate}.
+
+[StringTable.msg_02_04]
+Envoyez votre escouade près du pont, en vous guidant sur la fumée de signalisation rouge.
+
+[StringTable.msg_03_01]
+Les sapeurs de combat ont une plus grande chance de détecter les mines ennemies en mode déminage. La compétence de sapeur de combat est signalée par une icône de mine sur l’icône du soldat dans le panneau inférieur lors de la sélection de l’escouade.
+Les sapeurs de combat sont armés de deux types de mines :
+- Les mines antichars n’explosent que sous les véhicules et ne réagissent pas à l’infanterie. Leur effet explosif suffit à immobiliser un char.
+- Les mines antipersonnel sont efficaces contre l’infanterie, mais explosent aussi sous les véhicules sans leur causer de dégâts importants.
+N’oubliez pas que les mines peuvent être déclenchées par une explosion extérieure.
+
+[StringTable.msg_03_02]
+Pour poser une mine antichar, sélectionnez le soldat voulu, choisissez la mine antichar dans son interface, sélectionnez la commande « Miner » {hkey:mining} et indiquez un point du sol ou du pont où la mine sera posée. La mine posée sera signalée par un drapeau.
+
+[StringTable.msg_03_03]
+Vous pouvez indiquer plusieurs points en maintenant la touche MAJ, puis annuler la commande avec le bouton gauche et, en maintenant de nouveau MAJ, indiquer le point de repli avec le bouton droit. Le sapeur de combat, après avoir posé les mines, se repliera alors au point indiqué.
+
+[StringTable.msg_03_04]
+L’ennemi a une supériorité de forces significative. Repliez votre escouade à l’arrière du flanc droit du village. Il s’y trouve un char lourd vide.
+
+[StringTable.msg_03_05]
+Si le char ennemi atteint le pont, il explosera sur une mine et bloquera le passage aux autres véhicules.
+
+[StringTable.msg_04_01]
+Avant de monter dans le char, il est conseillé de lancer une grenade fumigène près de lui pour le dissimuler à l’ennemi. L’équipage aura alors plus de temps pour préparer le char au combat et répartir les rôles.
+
+[StringTable.msg_04_02]
+Pour capturer le char, sélectionnez l’escouade de sapeurs de combat et faites un clic droit dessus ; ces soldats sont bien entraînés et capables de manœuvrer le char.
+
+[StringTable.msg_04_03]
+Notez que chaque type de véhicule mobile a des caractéristiques de vitesse maximale et de nombre de rapports. Ces caractéristiques, ainsi que la compétence du conducteur, la puissance du moteur, la masse du véhicule, la masse remorquée, la pente du terrain et le type de sol, influent directement sur le taux d’accélération et la vitesse maximale possible de déplacement.
+
+[StringTable.msg_04_04]
+Une expérience insuffisante du conducteur peut entraîner une accélération lente du véhicule, des arrêts aléatoires dus à des erreurs de changement de vitesse, ou des calages temporaires du moteur.
+
+[StringTable.msg_04_05]
+Détruire les forces ennemies qui avancent.
+Pour entrer dans la ligne de tir, essayez toujours de choisir l’itinéraire optimal du char afin de ne pas exposer les flancs au feu.

@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+ドイツ軍の攻撃をすべて撃退し、その後反撃に転じよ。
+[Mission.Description]
+ドイツ軍部隊はクレムリンが見える位置まで迫っている。モスクワをファシストに陥落させてはならない！
+
+命令：
+	- 敵の攻撃を挫き、モスクワへの進撃を遅滞させよ
+	- 反撃を開始せよ
+[Mission.Success]
+任務完了。
+[Mission.Failed]
+命令を遂行できなかった。
+[Submission_1.Objectives]
+敵の攻撃を挫け
+[Submission_1.Description]
+敵の攻撃を阻止せよ
+[Submission_1.Success]
+任務完了。 
+[Submission_2.Failed]
+任務失敗。
+[Submission_2.Success]
+任務完了。
+[Submission_2.Description]
+君は持ちこたえた。敵は敗走している。現状に鑑み、支援のため予備から戦車を割り当てる。追撃を続けるのだ！
+
+命令：
+	- 敵部隊に反撃せよ
+[Submission_2.Objectives]
+敵に反撃せよ
+[StringTable.Reserv_inf]
+予備の歩兵が君の指揮下に移された
+[StringTable.Reserv_Tanks]
+予備の戦車が君の指揮下に移された。
+[Submission_1.Failed]
+任務失敗。

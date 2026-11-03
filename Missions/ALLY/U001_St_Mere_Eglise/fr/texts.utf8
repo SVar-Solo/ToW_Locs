@@ -1,0 +1,26 @@
+﻿[Mission1.Objectives]
+Repousser l’ennemi de la ville.
+[Mission1.Description]
+Un petit groupe d’Allemands se trouvent dans la ville juste devant. L’ennemi ignore notre présence, il faut donc attaquer rapidement et avec détermination pour les en repousser.
+
+Vos ordres :
+-	Libérer la ville des Allemands.
+[Mission1.Success]
+Mission accomplie, l’ennemi a été battu et la ville est libérée ! L’offensive alliée peut continuer.
+[Mission1.Failed]
+La mission a échoué ! Vos troupes ont été éliminées ! Cette défaire va rendre le reste des opérations beaucoup plus difficile.
+[Submission2.Objectives]
+Repousser l’attaque allemande.
+[Submission2.Description]
+La situation est critique ! Les Allemands ont amené des réserves dans la zone d’opérations. Ils sont parvenus à percer et se dirigent vers la ville pour en reprendre le contrôle.
+
+Vos ordres : 
+-	Consolider les positions et repousser l’avance des forces ennemies.
+[Submission2.Success]
+Mission accomplie ! L’attaque ennemie a été repoussée. Bon travail !
+[Submission2.Failed]
+La mission a échoué ! Vos troupes ont été repoussées de la ville. Cet échec menace la réussite de toute l’opération !
+[StringTable.Reserv]
+Des renforts sont arrivés.
+[StringTable.Subtitle_01]
+France. Juin 1944

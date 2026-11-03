@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+陣地を維持せよ
+[Mission.Description]
+シディ・ブー・ジッド付近の陣地を保持せよ。
+[Mission.Success]
+任務完了。
+[Mission.Failed]
+任務失敗。
+[Submission_1.Objectives]
+町を保持せよ
+[Submission_1.Description]
+軍司令部が予備から戦車を提供したが、まだ移動中である。敵は必死にシディ・ブー・ジッドの奪回を試みている。増援が到着するまで町を保持せねばならない。
+[Submission_1.Success]
+任務完了。
+[Submission_1.Failed]
+任務失敗。
+[Submission_2.Objectives]
+敵砲兵陣地を破壊せよ
+[Submission_2.Description]
+軍司令部予備の戦車の指揮権を得た。それらを用いて小集落を占領し、敵砲兵陣地を破壊せよ。
+[Submission_2.Success]
+任務完了。
+[Submission_2.Failed]
+任務失敗。
+[StringTable.Add_tanks]
+- 少佐、軍司令部予備から貴官に戦車を回すよう命じた。アメリカ軍は大損害を被っており、反撃の時だ。貴官と部下たちの武運を祈る。

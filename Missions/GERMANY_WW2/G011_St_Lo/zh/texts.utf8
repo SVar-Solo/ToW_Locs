@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+沿圣洛郊区部署你的防御。敌军接近该镇时，你应当能够伏击他们。
+[Submission_1.Description]
+沿圣洛郊区部署你的防御。你可以调遣一个精锐伞兵班。善加利用。
+
+命令：
+- 	伏击正在逼近的美军。
+[Submission_1.Success]
+美军侦察分队已被消灭。
+[Submission_1.Failed]
+伏击失败了！
+[Submission_2.Objectives]
+动用你手中的一切兵力击退敌军的进攻。
+[Submission_2.Description]
+美军正试图在诺曼底站稳脚跟，圣洛是关键。我们决不能让他们夺取这座要镇。
+
+命令：
+-	不惜一切手段击退美军的进攻。
+[Submission_2.Success]
+成功！你挫败了美军的进攻！
+[Submission_2.Failed]
+你输了，指挥官。美军正在向前推进，我们把他们赶回海里的计划可能永远落空了。
+[Submission_3.Objectives]
+不惜一切代价守住这处阵地。
+[Submission_3.Description]
+美军顽强而坚韧，但绝不能让他们夺取圣洛，只有你能阻止他们！
+
+命令：
+- 	坚守阵地，阻止美军推进。
+[Submission_3.Success]
+你守住了。我们必须抓住每一个机会继续阻止美军。
+[Submission_3.Failed]
+你输了。指挥官，我们承受不起这样的失败。
+[Mission.Objectives]
+坚守俯瞰圣洛的高地上的阵地。
+[Mission.Description]
+圣洛镇对德军和美军都具有战略意义。失去该镇，实际上就意味着失去把美军赶回海里的机会。城镇郊外有两座山丘，应能提供绝佳的防御阵地，用以迎击逼近的美军。指挥官，保卫该镇吧；德国的命运系于此役！
+
+命令：
+- 	将你的部队部署在山丘上和农场周围，不惜一切代价阻止美军！
+[Mission.Success]
+德国人民不会忘记你今天的辉煌胜利。
+[Mission.Failed]
+由于你今天的失败，美军正急速抢占圣洛，我们取胜的机会已经减少。
+[StringTable.tank_reserv]
+坦克和炮兵部队已交由你指挥。
+[StringTable.reserv]
+额外的坦克和步兵现已由你指挥。

@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+Capture the railway station of Chern.
+[Mission1.Description]
+Using elements of the 3rd Tank Division you will commence an offensive toward Chern. At this sector of the front, the Russians have built up fairly strong defensive positions. The Chern station is a particularly good area for a defensive action so you will need to proceed with skill and speed to ensure a victory.
+
+Your orders: 
+- 	Eliminate the enemy troops and capture the Chern rail station.
+[Mission1.Success]
+The order has been fulfilled and the station is in now our hands! The Russians provided very fierce resistance though, so it looks like our advance towards Moscow might be more difficult than expected.
+[Mission1.Failed]
+The Russians were so stubborn in their defense that they managed to totally route your troops! The responsibility for this disaster lies solely with you. 
+[Submission_01.Objectives]
+Shell the enemy positions.
+[Submission_01.Description]
+Before you launch your offensive, shell the enemy positions. 
+[Submission_01.Success]
+The order has been fulfilled and the barrage was a success!
+[Submission_01.Failed]
+Your artillery barrage failed to dislodge the enemy positions. 
+[Submission2_1.Objectives]
+Attack the enemy troops from the right flank.
+[Submission2_1.Description]
+We have broken through the right flank of the Russian defense! They are trying to stop our offensive by committing their reserves at the rail station. They may be preparing for a counterattack, so be prepared.  
+
+Your orders:  
+- 	Attack the enemy troops from the right flank.
+[Submission2_1.Success]
+The order has been fulfilled and the attack was a success! 
+[Submission2_1.Failed]
+Orders failed. The Russians have repelled your attack! 
+[Submission1_1.Objectives]
+Attack the enemy troops at the Chern station. 
+[Submission1_1.Description]
+The Russian defense has been broken! They are trying to stop our offensive by committing their reserves at the rail station. They may be preparing for a counterattack, so be prepared.  
+
+Your orders: 
+-	 Attack the enemy at the Chern station.
+[Submission1_1.Success]
+Orders fulfilled, the station is in our hands!
+[Submission1_1.Failed]
+Orders failed, you failed to capture the station!
+[StringTable.Reserv]
+Reinforcements have arrived to support you.
+[StringTable.Reserv1]
+Reserves are on their way.

@@ -1,0 +1,25 @@
+﻿[Mission1.Objectives]
+Allontana il nemico dalla città.
+[Mission1.Description]
+C'è un piccolo gruppo di truppe tedesche nella città di fronte a noi. Il nemico non si aspetta un'aggressione, quindi dobbiamo attaccare immediatamente e allontanarlo dalla città.
+I tuoi ordini sono:
+- 	Libera la città dai tedeschi.
+[Mission1.Success]
+Missione completata! Il nemico è stato sconfitto e la città è stata liberata! Adesso gli Alleati possono proseguire la loro offensiva.
+[Mission1.Failed]
+Missione fallita! Le tue truppe sono state eliminate! Questa sconfitta renderà molto più difficile il resto dell'operazione.
+[Submission2.Objectives]
+Respingi l'attacco tedesco.
+[Submission2.Description]
+La situazione è critica! I tedeschi hanno spostato le loro riserve nella zona delle operazioni. Le truppe tedesche si sono aperte la strada con la forza e si stanno adesso muovendo in direzione di Saint-Mère-Église con lo scopo di eliminarci.
+
+I tuoi ordini sono:
+-	Consolida le tue posizioni e respingi le forze nemiche.
+[Submission2.Success]
+Missione completata! L'attacco nemico è stato respinto. Ottimo lavoro!
+[Submission2.Failed]
+Missione fallita! Le tue truppe sono state allontanate dalla città. Questo fallimento minaccia il successo dell'intera operazione.
+[StringTable.Reserv]
+I rinforzi sono arrivati.
+[StringTable.Subtitle_01]
+Francia. Giugno 1944

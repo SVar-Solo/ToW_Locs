@@ -1,0 +1,59 @@
+﻿[Mission.Objectives]
+将波兰军队逐出其防御阵地。
+[Mission.Description]
+我们期望凭借优势兵力迅速控制波兰。然而，波兰军队正顽强抵抗，整条战线上都在进行激烈战斗。必须立即出动北方集团军群第3和第4突击集团军发起攻势，对莫克拉河一带的波兰防御阵地予以毁灭性打击。你的任务是尽快击败你所在地区的波军。波军右翼有一处居民点，务必小心，那里可能部署有炮兵。步兵、坦克和你可能需要的一切都已交给你，所以发起进攻吧，为了我们的元首！
+
+命令：
+- 	将波兰军队逐出其防御阵地。
+[Mission.Success]
+波兰的防线已被粉碎。整个波兰很快就将臣服于我们的脚下！
+[Mission.Failed]
+你的部队竟然被击败了！那些波兰人怎么可能做到？你不配在战场上指挥部队！
+[ArtSupport.Objectives]
+炮击敌军阵地。
+[ArtSupport.Description]
+在投入地面突击之前，先对波兰防御阵地实施炮火急袭。炮火准备将帮助你迅速突破敌军第一道防线。
+
+命令：
+-	 炮击敌军阵地。
+[ArtSupport.Success]
+命令已完成，敌军阵地已遭炮击！
+[ArtSupport.Failed]
+你的炮火急袭未能对波军阵地造成足够的破坏。
+[StringTable.Subtitle_01]
+波兰，1939年9月
+[Submission1_1.Objectives]
+进攻波军防线的右翼。
+[Submission1_1.Description]
+波军已占据有利的防御阵地，并一直在击退德军北方集团军群第3和第4集团军的进攻。
+
+命令：
+- 	利用你现有的兵力攻击敌军防线的右翼。
+[Submission1_1.Success]
+命令已完成，波军已撤退！
+[Submission1_1.Failed]
+你不仅没有完成命令，还白白葬送了你手中的部队。
+[Submission2.Objectives]
+进攻波军坦克群。
+[Submission2.Description]
+敌军正企图动用装甲力量包围德军第3和第4集团军。你必须攻击波军坦克群，以阻止这一合围。
+
+命令：
+- 	攻击波军装甲部队。
+[Submission2.Success]
+你已完成任务，波军坦克群已被击败！
+[Submission2.Failed]
+你未能完成命令。德军第3和第4集团军现在面临被包围的危险。
+[Submission1.Objectives]
+向波军第二道防线的右翼进攻。
+[Submission1.Description]
+波军部队仍在抵抗，必须突破他们的防御阵地。沿其右翼再次发起进攻。
+
+命令：
+-	动用你的预备队，沿右翼攻击波军的第二道防线。
+[Submission1.Success]
+命令已完成，波军正在溃逃！
+[Submission1.Failed]
+你未能完成命令！
+[StringTable.reserv]
+增援部队已抵达支援你。

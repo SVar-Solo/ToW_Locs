@@ -1,0 +1,44 @@
+﻿[Mission1.Objectives]
+Odeprzeć nacierających ze wschodu faszystów.
+[Mission1.Description]
+Niemieckie wojska rozpoczęły natarcie w tej części frontu, w kierunku Wiaźmy, próbując przełamać naszą obronę i zbliżyć się do Moskwy. Musimy odeprzeć atak i zyskać czas na zgromadzenie rezerw.
+Twoje rozkazy: 
+-	Odeprzeć atak sił nieprzyjaciela, nacierających ze wschodu.
+[Mission1.Success]
+Niemiecki atak został odparty! Zyskaliśmy jeden dzień. Postawimy tysiące nowych zasieków, wyprodukujemy więcej czołgów i samolotów, wyszkolimy setki rekrutów. Faszyści nie zajmą Moskwy!
+[Mission1.Failed]
+Nieprzyjaciel przełamał naszą obronę i zmierza w kierunku Moskwy. Wielu twoich żołnierzy oddało swe życie na darmo. Nie jesteś godny miana radzieckiego dowódcy.
+[Mission2.Objectives]
+Odeprzeć Niemców atakujących z północy.
+[Mission2.Description]
+Z północy zbliżają się znaczne siły wroga. Nasze wojska zostały osłabione przez nieprzyjacielski atak ze wschodu. Zbierz wszelkie dostępne jednostki i odpieraj faszystów do czasu przybycia rezerw. Wróg nie może przełamać twojej obrony. Wróg nie może zdobyć Moskwy!
+Twoje rozkazy: 
+-	Odeprzyj atak niemieckiej piechoty, nacierającej z północy.
+[Mission2.Success]
+Dzięki nadludzkim wysiłkom udało ci się odeprzeć nieprzyjacielski atak!
+[Mission2.Failed]
+Nieprzyjaciel przełamał naszą obronę!
+[Mission3.Objectives]
+Przeprowadź kontratak, wykorzystując dostępne siły.
+[Mission3.Description]
+Niemcom nie udało się przełamać obrony wokół wsi. W międzyczasie zdążyły przybyć rezerwy. Wykorzystaj je do kontrataku, by maksymalnie zaszkodzić faszystom.
+Twoje rozkazy: 
+-	Kontratakować i odrzucić nieprzyjaciela od linii frontu.
+[Mission3.Success]
+Kontratak powiódł się! Zadaliśmy faszystom poważne straty.
+[Mission3.Failed]
+Nie wykonaliście rozkazów. W kontrataku niepotrzebnie poległo wielu dzielnych żołnierzy.
+[Submission1.Objectives]
+Utrzymać obronę w określonym rejonie.
+[Submission1.Description]
+Oddziały niemieckie nacierają na Moskwę. Stolica jest w niebezpieczeństwie. W pobliżu Wiaźmy okrążono wiele naszych armii. Związały one dwadzieścia osiem faszystowskich dywizji. Znaczne siły nieprzyjaciela zmierzają do Wiaźmy. Starają się okrążyć nasze oddziały i kontynuować marsz na Moskwę. 
+Twoje rozkazy:
+-	Utrzymać obronę wokół wsi.
+-	Uniemożliwić Niemcom przebicie się w kierunku Moskwy.
+
+[Submission1.Success]
+Zadanie wykonane! Zatrzymano nieprzyjacielskie natarcie na Moskwę!
+[Submission1.Failed]
+Zadanie nie zostało wykonane! Faszyści przełamali obronę i kontynuują natarcie w kierunku Moskwy!
+[StringTable.Reserv]
+Przybyły posiłki.

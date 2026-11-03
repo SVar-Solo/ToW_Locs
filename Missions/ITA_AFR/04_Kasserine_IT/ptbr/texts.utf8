@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Desaloje o inimigo
+[Submission_1.Description]
+A passagem é controlada pelo inimigo, que construiu fortificações em torno de uma pequena aldeia de montanha. Desaloje o inimigo de suas posições.
+[Submission_01.Success]
+Missão cumprida.
+[Submission_01.Failed]
+Missão fracassada.
+[Mission.Objectives]
+Limpe a estrada de montanha
+[Mission.Description]
+Sua unidade recebeu a tarefa de limpar a estrada de montanha e as áreas adjacentes.
+[NewSubmission.Success]
+Missão cumprida.
+[NewSubmission.Failed]
+Missão fracassada.
+[Submission_2.Objectives]
+Limpe o povoado
+[Submission_2.Description]
+O avanço é impedido pelas fortificações de flanco dos americanos, posicionados no entroncamento de estradas. Limpe o povoado do inimigo para desbloquear a estrada.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission_1.Success]
+Missão cumprida.
+[Submission_1.Failed]
+Missão fracassada.
+[Submission_2.Success]
+Missão cumprida.
+[Submission_2.Failed]
+Missão fracassada.

@@ -1,0 +1,46 @@
+﻿[StringTable.]
+[StringTable.ArmyB_WIN]
+L’Alliance 2 gagne !
+[StringTable.ArmyA_WIN]
+L’Alliance 1 gagne !
+[StringTable.ArmyA_king_Hill_A]
+L’Alliance 1 capture le drapeau A !
+[StringTable.ArmyA_king_Hill_B]
+L’Alliance 1 capture le drapeau B !
+[StringTable.ArmyA_king_Hill_C]
+L’Alliance 1 capture le drapeau C !
+[StringTable.ArmyA_king_Hill_D]
+L’Alliance 1 capture le drapeau D !
+[StringTable.ArmyA_king_Hill_E]
+L’Alliance 1 capture le drapeau E !
+[StringTable.ArmyB_king_Hill_A]
+L’Alliance 2 capture le drapeau A !
+[StringTable.ArmyB_king_Hill_B]
+L’Alliance 2 capture le drapeau B !
+[StringTable.ArmyB_king_Hill_C]
+L’Alliance 2 capture le drapeau C !
+[StringTable.ArmyB_king_Hill_D]
+L’Alliance 2 capture le drapeau D !
+[StringTable.ArmyB_king_Hill_E]
+L’Alliance 2 capture le drapeau E !
+[StringTable.Hill_A_Lost]
+Le drapeau A n’est plus contrôlé !
+[StringTable.Hill_B_Lost]
+Le drapeau B n’est plus contrôlé !
+[StringTable.Hill_C_Lost]
+Le drapeau C n’est plus contrôlé !
+[StringTable.Hill_D_Lost]
+Le drapeau D n’est plus contrôlé !
+[StringTable.Hill_E_Lost]
+Le drapeau E n’est plus contrôlé !
+[StringTable.ArmyA_capture_ALL_flags]
+L’Alliance 1 contrôle tous les drapeaux ! L’Alliance 2 doit capturer au moins un drapeau en deux minutes, faute de quoi elle perdra la partie.
+[StringTable.ArmyB_capture_ALL_flags]
+L’Alliance 2 contrôle tous les drapeaux ! L’Alliance 1 doit capturer au moins un drapeau en deux minutes, faute de quoi elle perdra la partie.
+[StringTable.One_or_more_flags_lost]
+Un ou plusieurs drapeaux sont perdus.
+
+[StringTable.rus]
+Renforts
+[StringTable.ger]
+Renforts

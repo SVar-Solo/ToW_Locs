@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Romper las defensas
+[Mission.Description]
+Mayor Gerhard, su grupo de combate debe avanzar hacia Le Kef por Thala. El camino a Thala pasa por el paso de Kasserine, donde, según nuestros servicios de inteligencia, defienden fuerzas estadounidenses. Rompa las defensas enemigas en el paso y continúe el avance.
+[Mission.Success]
+Las defensas enemigas han sido destruidas.
+[Mission.Failed]
+Retirada. No hemos logrado romper las defensas enemigas en el paso.
+[Submission_1.Objectives]
+Eliminar el flanco izquierdo
+[Submission_1.Description]
+Ataque de inmediato al enemigo y elimine el flanco izquierdo de sus defensas. Los servicios de inteligencia informan de que el camino a través del paso es bastante estrecho y está bajo el tiro ajustado de la artillería enemiga. Pero hay un sendero de montaña por el que podemos llegar a los cañones antitanque enemigos y destruirlos.
+[Submission_1.Success]
+¡El flanco izquierdo de las defensas enemigas ha sido destruido!
+[Submission_1.Failed]
+¡Misión fallida!
+[Submission_1_1.Objectives]
+Rechazar el contraataque
+[Submission_1_1.Description]
+¡El enemigo está contraatacando! ¡Movilice de inmediato sus fuerzas y rechace el asalto!
+[Submission_1_1.Success]
+El contraataque ha sido rechazado con éxito.
+[Submission_1_1.Failed]
+¡Misión fallida!
+[Submission_3.Objectives]
+Eliminar las defensas enemigas
+[Submission_3.Description]
+Según nuestros servicios de inteligencia, un pequeño grupo de combate enemigo ha establecido defensas más allá del paso. Para avanzar hacia Thala, es preciso eliminar las defensas enemigas.
+[Submission_3.Success]
+Las defensas enemigas han sido eliminadas.
+[Submission_3.Failed]
+¡Misión fallida!
+[Submission_2.Objectives]
+Eliminar el flanco derecho
+[Submission_2.Description]
+Nuestro reconocimiento descubrió que el enemigo ha minado todos los cruces del paso excepto uno, protegido por artillería e infantería enemigas. No tenemos tiempo para desminar, pues nuestra aviación informa de que una gran formación enemiga se aproxima al paso. Para permitir el avance de nuestras tropas, debemos aplastar el flanco derecho de las defensas enemigas.
+[Submission_2.Success]
+El flanco derecho de las defensas enemigas ha sido destruido.
+[Submission_2.Failed]
+¡Misión fallida!
+[Submission_2_1.Objectives]
+Aplastar al enemigo
+[Submission_2_1.Description]
+¡El grupo de combate enemigo está contraatacando! Debemos eliminarlo con un golpe demoledor.
+[Submission_2_1.Success]
+El grupo de combate enemigo ha sido eliminado.
+[Submission_2_1.Failed]
+¡Misión fallida!
+[StringTable.Reinforcement]
+Mayor Gerhard. Ahora tiene el mando de los tanques y la infantería de la 10.ª División Panzer.

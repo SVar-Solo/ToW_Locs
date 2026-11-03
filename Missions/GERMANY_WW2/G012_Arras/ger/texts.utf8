@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+Verhindern Sie, dass die Verteidigungslinien von dem aus dem Westen angreifenden Feind zerschlagen werden.
+[Submission1.Description]
+Nach einer langen Verzögerung nähern sich die Amerikaner jetzt der Gegend um Arras. Die Situation in diesem Frontabschnitt ist äusserst miserabel. Der Feind rückt aus dem Westen vor und ist in der Überzahl.
+
+Ihre Befehle:
+-	 Verhindern Sie, dass die Verteidigungslinien von dem aus dem Westen angreifenden Feind zerschlagen werden.
+[Submission1.Success]
+Mission erfüllt! Der Feind zieht sich zurück.
+[Submission1.Failed]
+Der Feind ist durch unsere Verteidigungslinien gedrungen - wir werden uns zurückziehen müssen!
+[Mission1.Objectives]
+Halten Sie den Amerikanischen Vormarsch auf.
+[Mission1.Description]
+Die Amerikanische 3. Armee nähert sich unserer Verteidigungslinie. Die Amerikaner bereiten eine grossangelegte Offensive aus verschiedenen Richtungen entlang der ganzen Frontlinie vor. Wir werden den Rückzug unserer Einheiten decken müssen, indem wir diese neueste Offensive aufhalten.
+
+Ihre Befehle: 
+-	 Halten Sie Ihre Verteidigungspositionen in dem markierten Bereich.
+-	 Halten Sie den Feind in diesem Frontabschnitt auf.
+[Mission1.Success]
+Mission erfüllt! Der Amerikanische Angriff ist zerschlagen! Das zeigt wieder einmal die überwältigende Überlegenheit deutscher Waffen.
+[Mission1.Failed]
+Ihre Verteidigungslinien wurden durchschlagen! Deutschland wird die gefallenen Soldaten des Reiches nicht vergessen, was aber von ihrem nutzlosen Kommandeur nicht gesagt werden kann!
+[Submission2.Objectives]
+Verhindern Sie den Durchbruch Ihrer südlichen Verteidigungslinien.
+[Submission2.Description]
+Eine grosse Gruppe US Einheiten nähert sich aus dem Süden. Flugzeuge und Artillerie unterstützen ihren Vormarsch.
+
+Ihre Befehle: 
+-	 Wehren Sie den neuen Angriff aus dem Süden ab.
+[Submission2.Success]
+Aufgabe erfüllt, der Feind wurde gestoppt!
+[Submission2.Failed]
+Der Feind ist durch Ihre Verteidigungslinie gestossen!
+[Submission3.Objectives]
+Eine weitere Angriffswelle nähert sich aus dem Südwesten
+[Submission3.Description]
+Unsere Aufklärungstrupps berichten, dass sich feindliche Truppen aus dem Südwesten nähern.
+
+Ihre Befehle: 
+-	 Schlagen Sie den feindlichen Angriff aus dem Südwesten zurück.
+[Submission3.Success]
+Sie haben den feindlichen Angriff erfolgreich abgewehrt!
+[Submission3.Failed]
+Der Feind ist durch Ihre Verteidigungslinien gebrochen; sie müssen zurückweichen!
+[Submission4.Objectives]
+- Wehren Sie den neuen Angriff aus dem Nordwesten ab.
+[Submission4.Description]
+Eine Gruppe US Einheiten nähert sich aus dem Nordwesten.
+
+Ihre Befehle: 
+ -	 Schlagen Sie den feindlichen Angriff aus dem Nordwesten zurück.
+[Submission4.Success]
+Mission erfüllt!
+[Submission4.Failed]
+Ihre Verteidigungslinien wurden durchbrochen!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen.

@@ -1,0 +1,282 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Capture the inhabited locality in the valley.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Capture the inhabited locality in the valley.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Inhabited locality captured.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Inhabited locality captured.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Friendly troops defeated.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Friendly troops defeated.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Your combat team has broken through to enemy’s main transport corridor, but the bulk of the enemy's forces are defending the inhabited locality. Destroy the enemy's defenses and capture the position.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Your combat team has broken through to enemy’s main transport corridor. However, the bulk of the enemy's forces are defending the inhabited locality, and they may also launch counterattacks. Capture the enemy position.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Deliver a crippling blow on the attacking hostiles. Do not let the enemy capture the inhabited locality.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+According to reconnaissance, an enemy advance party is moving towards the inhabited locality where your troops are garrisoned. Engage and eliminate the hostiles. If any are able to break through, eliminate them with the remaining defenders.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repel all enemy counterattacks on the inhabited locality.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Hold the line for the specified time until further notice.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Enemy captured the inhabited locality.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Enemy captured the inhabited locality.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+The inhabited locality in the valley is a strategic defensive point in the area, and it stands on the main transport corridor. If we lose this position, then our communications in the area will be severed. You must not let the enemy capture this position. You must hold the line for the specified time, and not let the enemy capture this position.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+The inhabited locality in the valley is a strategic defensive point in the area, and it stands on the main transport corridor. If we lose this position, then our communications in the area will be severed. You must not let the enemy capture this position.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_inf_support]
+Reserve armor team is at your command.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Infantry_support]
+Reserve infantry team is at your command.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Mechs_support]
+Mechanized infantry team is at your command.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Infantry_support]
+Reserve infantry team is at your command.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Mechs_support]
+Mechanized infantry team is at your command.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+Reserve infantry team is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_support]
+Reserve armor team is at your command.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+Reserve infantry team is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_support]
+Reserve armor team is at your command.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is available, and awaiting orders.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Air force is available, and awaiting orders.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Capture the inhabited locality in the valley.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Capture the inhabited locality in the valley.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Inhabited locality captured.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Inhabited locality captured.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Friendly troops defeated.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Friendly troops defeated.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Your combat team has broken through to enemy’s main transport corridor, but the bulk of the enemy's forces are defending the inhabited locality. Destroy the enemy's defenses and capture the position.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Your combat team has broken through to enemy’s main transport corridor. However, the bulk of the enemy's forces are defending the inhabited locality, and they may also launch counterattacks. Capture the enemy position.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Deliver a crippling blow on the attacking hostiles. Do not let the enemy capture the inhabited locality.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+According to reconnaissance, an enemy advance party is moving towards the inhabited locality where your troops are garrisoned. Engage and eliminate the hostiles. If any are able to break through, eliminate them with the remaining defenders.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Repel all enemy counterattacks on the inhabited locality.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Hold the line for the specified time until further notice.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Enemy captured the inhabited locality.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Enemy captured the inhabited locality.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+The inhabited locality in the valley is a strategic defensive point in the area, and it stands on the main transport corridor. If we lose this position, then our communications in the area will be severed. You must not let the enemy capture this position. You must hold the line for the specified time, and not let the enemy capture this position.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+The inhabited locality in the valley is a strategic defensive point in the area, and it stands on the main transport corridor. If we lose this position, then our communications in the area will be severed. You must not let the enemy capture this position.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_inf_support]
+Reserve armor team is at your command.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Infantry_support]
+Reserve infantry team is at your command.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Mechs_support]
+Mechanized infantry team is at your command.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Infantry_support]
+Reserve infantry team is at your command.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Mechs_support]
+Mechanized infantry team is at your command.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Infantry_support]
+Reserve infantry team is available.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_support]
+Reserve armor team is at your command.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Infantry_support]
+Reserve infantry team is available.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_support]
+Reserve armor team is at your command.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Air force is available, and awaiting orders.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Air force is available, and awaiting orders.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[Reinforcement.Group_tanks_inf]
+Reserve infantry-armor team
+
+[Reinforcement.Group_inf]
+Infantry
+
+[Reinforcement.Group_tanks_spg_arm]
+Reserve mechanized infantry
+
+[Reinforcement.Group_tanks]
+Tanks
+
+[Reinforcement.Group1[Reinforcement]]
+Reserve tanks and infantry
+
+[Reinforcement.Group2[Reinforcement]]
+Reserve SPGs and infantry 
+

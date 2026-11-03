@@ -1,0 +1,107 @@
+﻿hkey.lowspeed	保持步兵速度
+hkey.mining	布雷
+hkey.mineclearing	排雷
+hkey.attack	攻击
+hkey.defend	防御 \ 旋转
+hkey.groundattack	区域射击
+hkey.move	移动到指定位置
+hkey.nextunit	下一单位
+hkey.pause	暂停
+hkey.prevunit	上一单位
+hkey.retreat	倒车 \ 撤退
+hkey.stop	取消命令
+hkey.storm	突击 \ 移动
+hkey.ambush	伏击
+hkey.sneak	潜行
+hkey.smokecloudfast	烟幕（立即发射）
+hkey.smokecloud	烟幕
+hkey.attachdetach	挂接 \ 摘钩
+hkey.evacuate	下车
+hkey.autopickup	自动拾取
+hkey.addtogroup0	加入编组 10
+hkey.addtogroup1	加入编组 1
+hkey.addtogroup2	加入编组 2
+hkey.addtogroup3	加入编组 3
+hkey.addtogroup4	加入编组 4
+hkey.addtogroup5	加入编组 5
+hkey.addtogroup6	加入编组 6
+hkey.addtogroup7	加入编组 7
+hkey.addtogroup8	加入编组 8
+hkey.addtogroup9	加入编组 9
+hkey.group0	选择编组 10
+hkey.group1	选择编组 1
+hkey.group2	选择编组 2
+hkey.group3	选择编组 3
+hkey.group4	选择编组 4
+hkey.group5	选择编组 5
+hkey.group6	选择编组 6
+hkey.group7	选择编组 7
+hkey.group8	选择编组 8
+hkey.group9	选择编组 9
+hkey.remembergroup0	创建编组 10
+hkey.remembergroup1	创建编组 1
+hkey.remembergroup2	创建编组 2
+hkey.remembergroup3	创建编组 3
+hkey.remembergroup4	创建编组 4
+hkey.remembergroup5	创建编组 5
+hkey.remembergroup6	创建编组 6
+hkey.remembergroup7	创建编组 7
+hkey.remembergroup8	创建编组 8
+hkey.remembergroup9	创建编组 9
+hkey.inventory	物品栏
+hkey.vehicleCharacteristics	车辆性能
+hkey.exit	退出
+hkey.load	快速读取
+hkey.save	快速存档
+hkey.unitinfoicon	开关图标
+hkey.messagelog	消息记录
+hkey.view_sectors	开关攻击扇区
+hkey.viewtargetarrow	开关目标图标
+hkey.grab_screen	截图
+hkey.multiplayerchattalk	向盟友发送消息
+hkey.multiplayerchatyell	向所有人发送消息
+hkey.cameratopdownview	战术地图
+hkey.hide_panels	显示 / 隐藏界面
+hkey.nextmusictrack	下一首音乐
+hkey.camerafreelock	自由视角
+hkey.binocularview	望远镜视角
+hkey.cameramoveforward	相机前移
+hkey.cameramovebackward	相机后移
+hkey.cameramoveleft	相机左移
+hkey.cameramoveright	相机右移
+hkey.cameramoveup	相机上升
+hkey.cameramovedown	相机下降
+hkey.camerarotateup	相机向上旋转
+hkey.camerarotatedown	相机向下旋转
+hkey.camerarotateleft	相机向左旋转
+hkey.camerarotateright	相机向右旋转
+hkey.cameramovetomsg	相机移至信号来源
+hkey.camerasetdefault	重置相机视角
+hkey.bindcamera	第一人称视角
+hkey.linkcamera	相机锁定单位
+hkey.time2xspeed	调整游戏速度
+hkey.actionmode	行动模式
+hkey.setbodymodelay	匍匐
+hkey.setbodymodeknee	蹲行
+hkey.setbodymodestay	快跑
+hkey.firemode	开火模式
+hkey.attackup	攻击上部
+hkey.attackmedium	攻击中部
+hkey.attackdown	攻击下部
+hkey.attackbarrage	防御性区域射击
+hkey.formation	队形
+hkey.SwitchDamageMessagesMode	切换伤害信息模式
+hkey.MultiplayerExchangePoints	转让点数
+hkey.selectweaponandammoreset	清除武器选择
+hkey.selectweaponandammo1	选择主武器
+hkey.selectweaponandammo2	选择杀伤手榴弹
+hkey.selectweaponandammo3	选择反坦克手榴弹
+hkey.selectweaponandammo4	选择主炮
+hkey.selectweaponandammo5	选择穿甲弹
+hkey.selectweaponandammo6	选择高爆弹
+hkey.selectweaponandammo7	选择机枪
+hkey.selectweaponandammo8	选择武器 8
+hkey.selectweaponandammo9	选择武器 9
+hkey.repair	修理
+hkey.cameratypeswitch	切换相机模式（自由/居中）
+hkey.guiactivate	Esc

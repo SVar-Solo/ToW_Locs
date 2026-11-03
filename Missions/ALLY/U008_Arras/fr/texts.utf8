@@ -1,0 +1,47 @@
+﻿[Submission_2.Objectives]
+Une position ennemie a été localisée. Il faut déloger l’adversaire.
+[Submission_2.Description]
+Des renseignements récents nous ont permis de repérer une position défensive allemande dans le village voisin. Afin d’aider la progression de la 3e armée américaine, il faut neutraliser cette position. 
+
+Vos ordres :
+-	Eliminer les unités ennemies.
+[Submission_2.Success]
+Le village nous appartient !
+[Submission_2.Failed]
+La résistance offerte par les Allemands est plus coriace que prévue ! Nous avons perdu cette bataille.
+[Submission_1.Objectives]
+Sécuriser la localité par tous les moyens.
+[Submission_1.Description]
+Les troupes allemandes sont en fuite mais ont laissé une petite arrière-garde, à vous de la combattre.
+
+Vos ordres :
+-	Reconnaître la localité proche.
+[Submission_1.Success]
+Nos éclaireurs ont exploré tout le village.
+[Submission_1.Failed]
+L’unité de reconnaissance a été éliminée.
+[Submission_3.Objectives]
+Continuez votre progression sur la route. Détruisez la dernière position défensive allemande avant le pont sur le canal.
+[Submission_3.Description]
+
+Vos ordres :
+-	Continuer à avancer jusqu’au prochain village.
+-	Attaquer l’ennemi dès qu’il est repéré.
+[Submission_3.Success]
+Le dernier obstacle vers Bruxelles doit être éliminé !
+[Submission_3.Failed]
+Vous avez perdu. Toute la 3e armée va être retardée à cause de votre échec.
+[Mission.Objectives]
+Neutraliser toutes les positions défensives allemandes.
+[Mission.Description]
+Après le Débarquement allié en Normandie, les unités allemandes se sont rapidement repliées mais certaines unités sont restées sur place et ont combattu. Les Allemands ont installé des positions défensives dans pratiquement chaque village, les transformant en forteresse. Bien que Rommel ne soit pas parvenu à établir une ligne de défense fortifiée par manque de temps et de ressources, les Allemands combattent avec l’énergie du désespoir. 
+Le rythme des opérations prévu par Eisenhower et Montgomery a été ralentie à plusieurs reprises et l’offensive ne cesse d’être retardée.
+
+Vos ordres :
+-	Détruire les défenses allemandes.
+[Mission.Success]
+Vous avez gagné et vous avez délogé les Allemands de leurs positions défensives.
+[Mission.Failed]
+Vous avez perdu. Les Allemands sont parvenus à conserver des positions défensives importantes dans ce secteur.
+[StringTable.reserv]
+Des renforts sont arrivés en appui !

@@ -1,0 +1,45 @@
+﻿[Mission1.Objectives]
+夺取切尔尼火车站。
+[Mission1.Description]
+你将率领第3装甲师的部分兵力向切尔尼发起进攻。在这一段战线上，俄军构筑了相当坚固的防御阵地。切尔尼车站尤其适合防御作战，因此你需要技巧与速度并重，以确保取胜。
+
+命令：
+- 	消灭敌军，夺取切尔尼火车站。
+[Mission1.Success]
+命令已完成，车站现已落入我手！不过俄军的抵抗十分猛烈，看来我们向莫斯科的推进可能比预想的更加艰难。
+[Mission1.Failed]
+俄军防守如此顽强，竟将你的部队彻底击溃！这场惨败的责任完全在你。
+[Submission_01.Objectives]
+炮击敌军阵地。
+[Submission_01.Description]
+在发起攻势之前，先炮击敌军阵地。
+[Submission_01.Success]
+命令已完成，炮击大获成功！
+[Submission_01.Failed]
+你的炮火急袭未能动摇敌军阵地。
+[Submission2_1.Objectives]
+从右翼攻击敌军。
+[Submission2_1.Description]
+我们已突破俄军防御的右翼！他们正试图在火车站投入预备队来阻止我们的攻势。他们可能在准备反击，务必做好准备。
+
+命令：
+- 	从右翼攻击敌军。
+[Submission2_1.Success]
+命令已完成，进攻大获成功！
+[Submission2_1.Failed]
+命令失败。俄军击退了你的进攻！
+[Submission1_1.Objectives]
+攻击切尔尼车站的敌军。
+[Submission1_1.Description]
+俄军的防御已被突破！他们正试图在火车站投入预备队来阻止我们的攻势。他们可能在准备反击，务必做好准备。
+
+命令：
+-	 攻击切尔尼车站的敌军。
+[Submission1_1.Success]
+命令已完成，车站已落入我手！
+[Submission1_1.Failed]
+命令失败，你未能夺取车站！
+[StringTable.Reserv]
+增援部队已抵达支援你。
+[StringTable.Reserv1]
+预备队正在途中。

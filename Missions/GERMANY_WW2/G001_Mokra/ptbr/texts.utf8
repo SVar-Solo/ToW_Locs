@@ -1,0 +1,59 @@
+﻿[Mission.Objectives]
+Expulse as tropas polonesas de suas posições defensivas.
+[Mission.Description]
+Esperamos que nossas forças superiores assumam rapidamente o controle da Polônia. No entanto, as tropas polonesas oferecem resistência obstinada e travam-se combates ferozes ao longo de toda a frente. É necessário lançar imediatamente uma ofensiva com as forças do 3º e do 4º Exércitos do Grupo de Exércitos Norte e desferir um golpe esmagador contra as posições defensivas polonesas na área do rio Mokra. Sua tarefa é derrotar os poloneses em sua área o mais rápido possível. Há um povoado no flanco direito das tropas polonesas; tenha cuidado com ele, pois pode haver artilharia posicionada ali. Você dispõe de infantaria, tanques e tudo o mais que possa precisar; portanto, ataque, pelo nosso Führer!       
+
+Suas ordens:
+- 	Expulse as tropas polonesas de suas posições defensivas.
+[Mission.Success]
+As defesas polonesas foram esmagadas. Toda a Polônia logo cairá sob nossos calcanhares!
+[Mission.Failed]
+Incrível, suas tropas foram derrotadas! Como aqueles poloneses conseguiram isso? Você não merece comandar tropas em batalha!
+[ArtSupport.Objectives]
+Bombardeie as posições inimigas. 
+[ArtSupport.Description]
+Antes de iniciar o assalto terrestre, lance uma barragem de artilharia contra as posições defensivas polonesas. A preparação de artilharia ajudará você a superar rapidamente a primeira linha da defesa inimiga.
+
+Suas ordens:
+-	 Bombardeie as posições inimigas.
+[ArtSupport.Success]
+Ordem cumprida, posições inimigas bombardeadas!
+[ArtSupport.Failed]
+Sua barragem de artilharia não conseguiu causar danos adequados às posições polonesas.
+[StringTable.Subtitle_01]
+Polônia. Setembro de 1939
+[Submission1_1.Objectives]
+Ataque o flanco direito das defesas polonesas.
+[Submission1_1.Description]
+As tropas polonesas ocuparam posições favoráveis para a defesa e vêm repelindo os ataques do 3º e do 4º Exércitos alemães do Grupo de Exércitos Norte. 
+
+Suas ordens:
+- 	Use as forças de que dispõe para atacar o flanco direito da linha defensiva inimiga.
+[Submission1_1.Success]
+Ordens cumpridas e os poloneses recuaram! 
+[Submission1_1.Failed]
+Você não só fracassou em suas ordens como desperdiçou as tropas de que dispunha.
+[Submission2.Objectives]
+Ataque o grupo de tanques do exército polonês.
+[Submission2.Description]
+O inimigo tenta cercar o 3º e o 4º Exércitos alemães, empregando meios blindados. Você precisa atacar o grupo de tanques polonês para impedir esse cerco. 
+
+Suas ordens:
+- 	Ataque as unidades blindadas polonesas.
+[Submission2.Success]
+Você cumpriu sua missão e o grupo de tanques polonês foi derrotado! 
+[Submission2.Failed]
+Você fracassou em cumprir suas ordens. O 3º e o 4º Exércitos alemães agora correm o risco de ser cercados.
+[Submission1.Objectives]
+Ataque em direção ao flanco direito da linha defensiva secundária polonesa. 
+[Submission1.Description]
+As unidades polonesas ainda resistem e suas posições defensivas precisam ser superadas. Ataque mais uma vez ao longo de seu flanco direito.
+
+Sua ordem:
+-	Usando suas reservas, ataque as linhas defensivas secundárias polonesas ao longo de seu flanco direito.
+[Submission1.Success]
+Ordens cumpridas e os poloneses estão fugindo!
+[Submission1.Failed]
+Você fracassou em cumprir a ordem!
+[StringTable.reserv]
+Chegaram reforços para apoiá-lo.

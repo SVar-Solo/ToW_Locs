@@ -1,0 +1,39 @@
+﻿[Submission_1.Objectives]
+Resisti fino all'arrivo dei rinforzi.Distruggi il maggior numero di nemici possibile.
+[Submission_1.Description]
+
+I tuoi ordini sono:
+- 	Resisti fino all'arrivo dei rinforzi.
+- 	Distruggi il maggior numero di nemici possibile.
+[Submission_1.Success]
+I rinforzi sono arrivati!
+[Submission_1.Failed]
+Sconfitta! Non sei stato in grado di resistere abbastanza.
+[Submission_2.Objectives]
+Tieni le posizioni.
+[Submission_2.Description]
+Il terminal di Ponyri è un punto chiave delle nostre difese sul lato nord dell'altura di Kursk. i tedeschi lo hanno capito e hanno schierato in questo settore una parte dei loro carri pesanti e della loro artiglieria semovente.
+
+I tuoi ordini sono:
+- 	Tieni le posizioni nei pressi del terminal di Ponyri.
+[Submission_2.Success]
+Ottimo lavoro, comandante. Hai resistito di fronte a forze soverchianti.
+[Submission_2.Failed]
+Hai deluso la Madre Patria! Le tue truppe sono state distrutte.
+[Mission.Objectives]
+Ferma l'avanzata tedesca.
+[Mission.Description]
+Su tutto il lato settentrionale del saliente di Kursk, le unità tedesche stanno combattendo duramente per prendere il terminal di Ponyri.
+
+I tuoi ordini sono:
+- 	Impedisci al nemico di superare le nostre linee nei pressi del terminal di Ponyri. 
+[Mission.Success]
+Hai eseguito gli ordini. I tedeschi non sono riusciti a superare la linea del fronte.
+[Mission.Failed]
+Non sei riuscito a impedire che i tedeschi superassero le nostre linee. Adesso avanzano verso Kursk.
+[StringTable.T34_Income]
+Sono arrivati dei carri armati come rinforzo.
+[StringTable.SPG_reserv]
+E' arrivata dell'artiglieria semovente.
+[StringTable.Inf_reserv]
+Fanteria proveniente dalla riserva è adesso a tua disposizione.

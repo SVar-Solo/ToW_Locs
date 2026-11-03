@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Distruggi le difese nemiche nell’area indicata.
+[Mission.Description]
+Di fronte alle tue posizioni gli americani hanno stabilito delle postazioni fortificate attorno a un piccolo centro urbano. Secondo i nostri esploratori si tratta di una compagnia di fanteria supportata da cannoni anticarro da 57mm e da obici da 105 mm.
+ 
+I tuoi ordini sono:
+- Usando le forze a disposizione, attacca le posizioni del nemico e respingilo.
+[Mission.Success]
+Ben fatto, comandante! La difesa del nemico è superata.
+[Mission.Failed]
+Missione fallita! Le tue forze sono state respinte.
+[Submission_1.Objectives]
+Cattura il villaggio.
+[Submission_1.Description]
+Vai sul fianco delle posizioni difensive nemiche per prendere la città.
+ 
+I tuoi ordini sono:
+-	Cattura il villaggio. 
+[Submission_1.Success]
+Ben fatto, comandante! Il villaggio è stato preso.
+[Submission_1.Failed]
+Missione fallita! Le tue truppe sono state eliminate!

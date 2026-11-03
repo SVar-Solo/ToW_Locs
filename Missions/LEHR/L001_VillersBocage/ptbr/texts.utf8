@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Defenda a área especificada.
+[Mission.Description]
+Suas tropas, parte da divisão de elite Panzer Lehr, estão localizadas a nordeste de Villers-Bocage. Na manhã de 13 de julho de 1944, a 7ª Divisão Blindada britânica lançou um assalto para capturar Villers-Bocage e flanquear suas tropas. Os britânicos esperavam que uma série de ataques de sondagem contra seu flanco esquerdo comprometesse as reservas da Divisão e garantisse sua vitória. Você deve impedir que os britânicos penetrem fundo demais em suas defesas, pois isso poderia pôr em risco um cerco total e a eventual destruição de sua Divisão.
+ 
+Suas ordens:
+- Impeça o inimigo de avançar fundo em sua zona de controle defensiva.
+[Mission.Success]
+Bom trabalho, Comandante!
+[Mission.Failed]
+Missão fracassada! Suas tropas foram destruídas!
+[Submission_1.Objectives]
+Rechace os ataques inimigos.
+[Submission_1.Description]
+O inimigo domina os céus e pode atacar de várias direções diferentes. Suas próprias forças estão dispersas e devem defender uma área ampla.
+ 
+Suas ordens:
+- Estabeleça defesas suficientes para cobrir todas as vias de ataque.
+- Minimize suas perdas da melhor forma possível.
+- Rechace os ataques inimigos. 
+[Submission_1.Success]
+Bom trabalho, Comandante! Os ataques inimigos foram rechaçados.
+[Submission_1.Failed]
+Missão fracassada! Suas tropas foram derrotadas.
+[Submission_2.Objectives]
+Contra-ataque o inimigo em retirada.
+[Submission_2.Description]
+O inimigo sofreu perdas significativas e está recuando. Use suas reservas para persegui-lo e destruí-lo!
+ 
+Suas ordens:
+- Contra-ataque as forças inimigas em retirada.
+[Submission_2.Success]
+Bom trabalho, Comandante! As forças inimigas foram derrotadas.
+[Submission_2.Failed]
+Missão fracassada! Você foi derrotado.
+[StringTable.tanks_reserv]
+Você recebeu unidades blindadas adicionais da reserva da Divisão.

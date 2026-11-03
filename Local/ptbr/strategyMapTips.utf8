@@ -1,0 +1,42 @@
+﻿[STRATEGY_MAP_TIP.1]
+As batalhas da campanha começam no modo estratégico, com as equipes de combate disponíveis determinadas pela campanha. No modo estratégico, o jogador pode manobrar suas equipes de combate, usá-las para atacar o inimigo ou defender suas próprias posições e até solicitar apoio aéreo e de artilharia. O mapa estratégico é composto por várias áreas interligadas, pelas quais as equipes de combate inimigas e aliadas podem manobrar. No mapa estratégico, o jogador pode selecionar reforços e apoio e atribuir esses recursos às suas equipes de combate. Mais tarde, quando o jogador capturar locais-chave, poderá receber mais reforços e apoio. O jogador pode atribuir esses recursos a qualquer momento durante o seu turno, mas apenas a grupos de combate que não estejam engajados em combate.
+O mapa estratégico da região determina certas condições de movimentação em combate. As equipes de combate não podem entrar em áreas fechadas.
+
+\t Descrição dos modos de jogo:
+1. O modo estratégico é por turnos.
+2. Um turno inclui a movimentação do jogador, a movimentação do inimigo e qualquer combate resultante das manobras das unidades dos jogadores.
+3. O número de turnos permitidos é determinado pela campanha.
+4. O turno do jogador termina quando todas as suas equipes de combate esgotam seus pontos de ação. O turno pode ser encerrado antes, se o jogador desejar, por exemplo, caso queira que uma equipe de combate permaneça onde está para defender uma área contra o inimigo.
+5. O turno do inimigo termina da mesma forma, quando todas as equipes de combate inimigas esgotam seus pontos de ação, ou antes disso, se o jogador inimigo assim escolher.
+7. O combate ocorre quando as equipes de combate do jogador e do inimigo estão presentes no mesmo local.
+8. Para vencer uma campanha, o jogador precisa marcar mais pontos que o inimigo ou eliminar todas as equipes de combate inimigas.
+9. Os pontos são computados depois que todos os combates em todo o mapa terminam.
+
+[STRATEGY_MAP_TIP.2]
+\t Posicionamento de tropas no mapa estratégico
+1. Por padrão, todas as tropas do jogador começam na zona de reserva (ou retaguarda). De lá, elas podem ser posicionadas em qualquer área inicial do mapa tático.
+2. Uma área só pode abrigar uma equipe de combate do jogador ou do inimigo.
+3. Uma área pode oferecer um bônus à força que a conquistou, incluindo apoio aéreo ou de artilharia adicional, tropas, combustível ou reforços.
+4. Se uma equipe de combate for isolada de todas as áreas amigas, ela não poderá reabastecer sua munição, acessar as reservas nem, se também estiver sem pontos de ação, sair da área. O moral das tropas isoladas também é reduzido.
+
+[STRATEGY_MAP_TIP.3]
+Uma equipe de combate é um conjunto de tropas mais uma reserva. As tropas podem se mover pelo mapa tático e ser reabastecidas a partir de suas reservas. Uma reserva pertence exclusivamente à sua equipe de combate e só pode ser usada para reabastecer as tropas dessa equipe -- a menos que essa força aliada tenha sido cercada.
+
+\t Parâmetros da equipe de combate:
+1. Nível de experiência.
+2. Combustível. (O combustível é gasto na movimentação, não pode ser reabastecido quando a equipe está cercada e, fora isso, é reabastecido a cada turno.)
+3. Munição. (A munição é gasta durante o combate e não pode ser reabastecida quando a equipe está cercada.)
+4. Apoio.
+5. Velocidade de movimento. (Depende da presença de veículos, infantaria e artilharia, e cai para 1 quando uma área adjacente é ocupada pelo inimigo.)
+
+\t Movimentação da equipe de combate:
+1. Os movimentos são planejados e executados em sequência, uma equipe de combate por vez. Uma equipe de combate só pode se mover uma vez por turno. Equipes de combate recém-posicionadas não podem receber ordens no mesmo turno; não é possível posicioná-las e movê-las no mesmo turno.
+2. A equipe de combate atual deve parar de se mover antes que a próxima possa se mover.
+3. Todos os movimentos devem ser feitos antes do início do combate.
+4. Uma equipe de combate pode se mover de uma área para outra.
+5. Duas equipes de combate não podem ocupar a mesma área. Uma equipe de combate não pode atravessar uma área ocupada pelo inimigo.
+6. Uma equipe de combate não pode ser dividida em unidades separadas. Todas as unidades de uma equipe de combate se movem juntas.
+7. Equipes de combate que sofreram perdas não podem ser unidas a outras equipes de combate.
+8. Certas características do terreno podem impedir uma equipe de combate de se mover ou de entrar em combate.
+9. A retirada é muito parecida com o movimento normal. No entanto, se uma equipe de combate não tem para onde recuar, ela é destruída.
+

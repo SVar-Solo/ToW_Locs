@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Rechace los ataques enemigos al sur de Cherkásskoye. 
+[Mission.Description]
+Hasta un batallón de infantería con tanques de la División Grossdeutschland avanza desde el sur para asaltar Cherkásskoye. Concentre sus esfuerzos en mantener la primera trinchera. Si el enemigo irrumpe, retírese a las posiciones alternativas de las afueras suroccidentales de la aldea.
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+Nuestras fuerzas se retiran ante el asalto de un enemigo superior.
+[Submission_1.Objectives]
+Impida que el enemigo penetre en la parte sur de Cherkásskoye hasta que lleguen los refuerzos.
+[Submission_1.Success]
+El avance enemigo ha sido detenido.
+[Submission_1.Failed]
+El enemigo ha irrumpido en la aldea; nuestras tropas se retiran.
+[Submission_2.Objectives]
+Retírese a la parte central de Cherkásskoye. Cubra con fuego de artillería y de tanques el repliegue de la fuerza principal hacia la nueva línea.
+[Submission_2.Success]
+Misión cumplida: nuestras fuerzas han ocupado la nueva línea defensiva.
+[Submission_2.Failed]
+Se ha perdido el control de las tropas; las unidades se retiran en desorden, en grupos aislados.
+[StringTable.Reinforcement_tanks]
+Un grupo de tanques enviado desde las reservas de la división queda bajo su mando.
+[StringTable.Reinforcement_spg]
+Una batería de cañones autopropulsados queda bajo su control.
+
+[StringTable.ChangeArmy]
+Los grupos de combate de los flancos izquierdo y derecho quedan ahora bajo su mando. 
+[StringTable.tanks]
+Tanques del 245.º Regimiento Independiente de Tanques
+[StringTable.SPG]
+Cañones de asalto del 1440.º Regimiento de Artillería Autopropulsada
+[StringTable.Infantry]
+Infantería
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

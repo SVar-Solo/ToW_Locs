@@ -1,0 +1,121 @@
+﻿[StringTable.1]
+Contrôle de la caméra :
+Utilisez {hkey:cameramoveforward}, {hkey:cameramovebackward}, {hkey:cameramoveleft}, {hkey:cameramoveright} pour déplacer la caméra. La rotation s’active en appuyant sur la molette de la souris. En mode libre, la caméra pivote autour de son propre axe, et tourner la molette règle la hauteur verticale de la caméra. En mode centré, la caméra pivote autour d’un point du terrain situé devant elle, et tourner la molette rapproche ou éloigne la caméra de ce point. Vous pouvez changer rapidement de mode de caméra avec {hkey:cameratypeswitch}. Maintenir CTRL en tournant la molette modifie le champ de vision de la caméra. Maintenir MAJ accélère le déplacement de la caméra.
+
+[StringTable.1.1]
+Déplacer l’escouade derrière les sacs de sable.
+Le bouton gauche de la souris sert à sélectionner les troupes et à choisir les commandes dans le panneau de contrôle ; le bouton droit sert à donner les ordres. Selon l’objet sur lequel vous faites un clic droit, les troupes exécuteront une action ou une autre.
+
+[StringTable.1.2]
+Sélectionnez toute l’escouade en maintenant le bouton gauche de la souris enfoncé et en faisant glisser la souris de façon que tous les soldats se trouvent dans le cadre qui apparaît, puis relâchez le bouton. Vous pouvez aussi sélectionner une escouade en double-cliquant sur l’un de ses membres (ou en maintenant la touche ALT). Indiquez ensuite le point de destination par un clic droit.
+Pour placer toute l’escouade à l’abri derrière les sacs, vous devez indiquer le point de déplacement de chaque soldat individuellement ou utiliser la formation « libre ».
+[StringTable.2]
+Armer le poste de mitrailleuse :
+Sélectionnez un ou deux soldats de l’escouade par un clic gauche (maintenez la touche MAJ pour en sélectionner plusieurs). Placez ensuite le curseur sur la mitrailleuse lourde (le curseur change pour indiquer l’embarquement) et faites un clic droit. Les soldats sélectionnés serviront la mitrailleuse lourde et prendront automatiquement leurs postes. 
+[StringTable.3]
+Éliminer l’escouade ennemie : 
+Quand vos soldats voient des soldats ennemis, ils ouvrent le feu de leur propre initiative. Vous pouvez aussi donner des ordres de tir précis à chaque soldat individuellement (placez le curseur sur la cible et faites un clic droit). 
+[StringTable.4]
+Utiliser le tireur d’élite pour éliminer les servants du canon.
+Pour ordonner à un tireur d’élite d’attaquer un servant du canon, placez le curseur sur l’un d’eux et faites un clic droit. Pour éviter de vous tromper de cible, consultez le panneau auxiliaire contextuel qui indique les caractéristiques des soldats et du matériel sous le curseur. Vous pouvez aussi utiliser les commandes « Attaque » {hkey:attack} et « Tir de zone » {hkey:groundattack}, en visant un point précis avec le curseur (par exemple la tête d’un servant – un marqueur de cible spécial s’affichera).
+Si le tireur d’élite ne parvient pas à toucher les servants, essayez de l’approcher de l’autre côté.
+[StringTable.5]
+Capturer le canon :
+Sélectionnez les soldats, placez le curseur sur le canon (le curseur se change en icône d’« embarquement») et faites un clic droit. Vos soldats courront vers le canon pour le capturer. 
+[StringTable.6]
+Atteler le canon au camion et le déplacer vers le sud-ouest, en direction de la meule de foin.
+Sélectionnez le véhicule, cliquez sur le bouton « Atteler » (icône de crochet) dans le coin droit du menu du jeu ({hkey:attachdetach}), puis placez le curseur sur le canon et faites un clic droit. Le véhicule s’approchera du canon et les soldats l’attelleront au véhicule.
+Le véhicule s’approchera et les soldats attelleront le canon au véhicule. Placez les servants dans le véhicule (l’embarquement des soldats se fait comme pour servir la mitrailleuse lourde tout à l’heure).
+Sélectionnez ensuite le véhicule et faites un clic droit sur le point de passage cible pour le déplacer. 
+
+[StringTable.7]
+Détruire l’un des chars ennemis.
+Quand vos soldats voient des chars ennemis, ils ouvrent le feu dessus avec le canon de leur propre initiative. Vous pouvez aussi désigner une cible et choisir la direction de tir.
+Vous pouvez changer de mode de tir pour des parties précises du char : tourelle {hkey:attackup}, partie libre {hkey:attackmedium} ou chenilles {hkey:attackdown}.
+[StringTable.8]
+Capturer le char.
+Capturer un char revient à faire monter des soldats dans un véhicule.
+Sélectionnez l’escouade, placez le curseur sur le char (une icône s’allume pour indiquer l’interaction entre les soldats et ce type de matériel) et faites un clic droit dessus. Vos soldats courront pour servir le char.
+
+[StringTable.9]
+Ordonner une frappe d’artillerie sur la position ennemie :
+L’icône d’appui d’artillerie apparaît au-dessus du panneau inférieur du jeu. 
+Cliquez sur l’icône, puis faites un clic droit pour indiquer la cible souhaitée. 
+Vous pouvez aussi définir la zone de tir en maintenant le bouton droit de la souris enfoncé. 
+[StringTable.10]
+Demander un appui aérien dans la zone indiquée.
+Une icône d’appui aérien apparaîtra au-dessus du panneau d’interface inférieur.
+Cliquez sur l’icône d’appui aérien et indiquez l’emplacement de la cible. 
+Il existe 5 types d’aviation :
+- éclaireurs – effectuent une reconnaissance autour d’un point pendant une durée limitée ;
+- bombardiers – larguent des bombes sur le point indiqué puis rentrent à la base ;
+- chasseurs – patrouillent dans le ciel autour du point indiqué, attaquent les avions ennemis et frappent des cibles au sol avant de rentrer à la base ;
+- avions d’attaque – attaquent les cibles au sol les plus proches du point indiqué ou cherchent des cibles par eux-mêmes ;
+- bombardiers en piqué – attaquent les cibles à la bombe depuis un piqué abrupt, puis attaquent comme des avions d’attaque ordinaires.
+
+[StringTable.11]
+Utiliser le char capturé pour détruire le véhicule blindé ennemi et l’escouade d’infanterie ennemie.
+Avec le bouton « Mode de tir » {hkey:firemode}, vous pouvez interdire ou autoriser au char de tirer sans ordre.
+
+[StringTable.Pause]
+Pour reprendre après une pause, appuyez sur la touche « {hkey:pause} ».
+
+[StringTable.Pos]
+Vous allez dans la mauvaise direction.
+
+[Submission.Objectives]
+Terminer l’instruction de base !
+[Submission.Description]
+Soldat ! Vous avez rejoint les rangs de l’Armée rouge ! Avant de partir au front, vous devez terminer l’instruction de base. Vous devez accomplir les tâches suivantes fixées par le commandant :
+
+- Déplacer votre escouade derrière les sacs de sable et utiliser vos soldats pour capturer la mitrailleuse.
+- Utiliser l’équipe de tireurs d’élite pour éliminer les servants du canon, puis capturer le canon. 
+- Détruire un char ennemi.
+- Apprendre à utiliser les grenades.
+[Submission.Success]
+Vous avez terminé l’instruction de base !
+[Submission.Failed]
+Malheureusement, vous avez échoué à l’instruction de base !
+[StringTable.Fail]
+Vous avez échoué à l’instruction de base. Relancez la mission d’entraînement.
+[StringTable.Sniper]
+Comparez les compétences des deux tireurs d’élite. L’un a des niveaux élevés en « Tir » et en « Reconnaissance » ; l’autre est classé « faible » dans ces deux disciplines. Plus les niveaux sont élevés, plus le soldat est expérimenté.
+La compétence « Tir » indique la précision de votre soldat au tir avec des armes légères. La compétence « Reconnaissance » indique l’habileté du soldat à repérer les ennemis à distance, mais aussi la difficulté qu’a l’ennemi à le repérer. 
+Après chaque mission terminée, vous pouvez augmenter l’expérience de vos soldats, et donc leurs compétences au fil de la campagne.  
+[StringTable.Mine]
+Les soldats ennemis sont tombés sur un champ de mines !
+Il existe plusieurs types de champs de mines, avec des mines antichars ou antipersonnel.
+[StringTable.Win]
+Tâche accomplie !
+[StringTable.Car]
+Pour dételer le canon du véhicule, sélectionnez le véhicule auquel le canon est attelé et appuyez sur le bouton « Dételer » {hkey:attachdetach} – le canon sera détaché du véhicule. Faites ensuite descendre les soldats du véhicule (sélectionnez le véhicule et appuyez sur le bouton « Débarquer » {hkey:evacuate}). Pour que les soldats servent le canon, sélectionnez-les et faites un clic droit sur le canon.
+
+[StringTable.33]
+Il est beaucoup plus difficile pour l’ennemi de toucher des soldats couchés. Pour ordonner aux soldats de se coucher, appuyez sur le bouton « Ramper » {hkey:setbodymodelay}.
+Pour empêcher vos soldats de se déplacer d’eux-mêmes, changez le mode de comportement avec le bouton « Restreindre/autoriser le déplacement libre » {hkey:actionmode}.
+[StringTable.Pani]
+L’équipage du char ennemi panique (moral bas) et abandonne son char !
+
+[StringTable.SM7_GrenadeTraining_HE]
+Utiliser des grenades à main pour éliminer l’équipage du véhicule blindé.
+Vous avez maintenant sous votre contrôle 2 soldats équipés de grenades à main antipersonnel. Ces grenades ne peuvent pas endommager sérieusement les véhicules blindés, mais elles sont efficaces contre les équipages à découvert, les servants de canons, l’infanterie et les véhicules.
+Les obstacles affaiblissent l’onde de choc et arrêtent les éclats : la grenade doit donc être lancée au milieu du véhicule. Rapprochez le soldat, activez la commande « Tir de zone » {hkey:groundattack} ou « Attaque » {hkey:attack} et faites un clic droit au centre du véhicule blindé – un marqueur de réticule jaune ou rouge s’affichera et votre soldat lancera une grenade sur ce point.
+
+[StringTable.SM7_GrenadeTraining_HE_end]
+L’équipage du véhicule blindé a été éliminé.
+
+[StringTable.SM7_GrenadeTraining_AT]
+Utiliser des grenades antichars pour éliminer le char ennemi.
+Vous avez maintenant à votre disposition 2 soldats équipés de grenades antichars à main RPG-40. Ces grenades explosent au contact d’un obstacle et percent le blindage par l’onde de choc ; leur effet de fragmentation est faible. Une telle grenade contient une quantité impressionnante d’explosif, suffisante pour endommager le toit ou l’arrière de nombreux chars, mais loin de tous.
+Rapprochez le soldat du char par l’arrière, activez la commande « Tir de zone » {hkey:groundattack} ou « Attaque » {hkey:attack} et faites un clic droit dans la zone derrière la tourelle – c’est le point le plus vulnérable du char.
+
+[StringTable.SM7_GrenadeTraining_AT_end]
+Le char a été éliminé.
+
+[StringTable.SM7_GrenadeTraining_HEAT]
+Utiliser des grenades à main HEAT pour éliminer le char ennemi.
+Vous avez maintenant à votre disposition 2 soldats équipés de grenades à main HEAT RPG-43. Ces grenades explosent elles aussi au contact d’un obstacle, mais percent le blindage par un jet cumulatif, dont le pouvoir de pénétration est bien supérieur à celui de la grenade RPG-40, mais avec des dégâts comparativement moindres.
+Activez le « Mode infos de dégâts » {hkey:SwitchDamageMessagesMode} pour voir les vecteurs de pénétration et les messages contextuels sur les dégâts internes – cela s’applique à tous les projectiles du jeu. De même, rapprochez le soldat du char par l’arrière, activez la commande « Tir de zone » {hkey:groundattack} ou « Attaque » {hkey:attack} et faites un clic droit dans la zone derrière la tourelle – il y a de fortes chances de mettre le feu au char en touchant le moteur ou le réservoir de carburant.
+
+[StringTable.SM7_GrenadeTraining_HEAT_end]
+Le char a été éliminé.

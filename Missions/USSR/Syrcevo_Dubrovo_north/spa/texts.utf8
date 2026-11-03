@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Dispute el avance enemigo en dirección a Dubrova - Syrtsev.
+[Mission.Description]
+Junto con una batería de artillería antitanque y un pelotón de fusiles antitanque, mantenga firmemente la zona defensiva. Debe darse especial prioridad a mantener las posiciones del flanco derecho y en Syrtsev. 
+[Mission.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Mission.Failed]
+El enemigo ha roto la línea defensiva; nuestras tropas se retiran.
+[Submission_1.Objectives]
+Impida que el enemigo destruya la batería antiaérea emplazada en la aldea. 
+[Submission_1.Success]
+El intento de penetrar el flanco derecho de la defensa ha sido sofocado.
+[Submission_1.Failed]
+La batería antiaérea ha sido destruida; el enemigo avanza por el flanco derecho.
+[Submission_2.Objectives]
+Mantenga a toda costa las posiciones en las inmediaciones de Syrtsev.
+[Submission_2.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Submission_2.Failed]
+Nuestras fuerzas se retiran ante los golpes de un enemigo superior.
+[Submission_3.Objectives]
+Repliegue las tropas a las posiciones de Syrtsev. Impida que el enemigo capture la aldea.
+[Submission_3.Success]
+Misión cumplida: los ataques enemigos han sido rechazados.
+[Submission_3.Failed]
+Syrtsev ha sido ocupada por el enemigo; nuestras tropas se retiran.
+[StringTable.SPG_InCome]
+Los cañones de asalto del 1440.º Regimiento de Artillería Autopropulsada quedan ahora bajo su mando.
+[StringTable.Infantry_InCome]
+Una unidad de infantería del 272.º Regimiento de la Guardia queda ahora bajo su control. 
+[StringTable.Tanks_InCome]
+Un grupo de tanques de la 1.ª Brigada Mecanizada queda ahora bajo su control. 
+[StringTable.ChangeArmy]
+La unidad adyacente ha sido puesta bajo su mando.
+
+[StringTable.SPG]
+Cañones de asalto del 1440.º Regimiento de Artillería Autopropulsada
+[StringTable.TANKS]
+Tanques de la 1.ª Brigada Mecanizada
+[StringTable.INFANTRY]
+Infantería del 272.º Regimiento de Infantería de la Guardia
+
+[StringTable.avia_report]
+Apoyo aéreo disponible.
+[StringTable.art_report]
+Apoyo de artillería en espera.
+[StringTable.jetmortar_report]
+Batería de artillería de cohetes lista para abrir fuego.

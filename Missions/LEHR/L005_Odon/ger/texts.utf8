@@ -1,0 +1,25 @@
+﻿[Submission1.Objectives]
+Halten Sie die Verteidigungsanlagen der Stadt.
+[Submission1.Description]
+Zahlenmässig überlegene Feindeinheiten rücken vor, mit dem Ziel, die Verteidigung des 1. Infanterie Battalions des 901. motorisierten Infanterie Regiments der Panzer Lehr Division in der Gegend um Rorei zu brechen. Teile des 12. SS Panzer Regiments sind zur Verteidigung in Kooperation mit der Infanterie abkommandiert. 
+
+Ihre Befehle lauten:
+- halten Sie die Verteidigungsanlagen des Dorfes in Kooperation mit den Panzern.
+[Submission1.Success]
+Gute Arbeit! Der Feind konnte die Kampfmoral Ihrer Soldaten nicht brechen.
+[Submission1.Failed]
+Mission gescheitert! Ihre Armee wurde geschlagen.
+[Submission2.Objectives]
+Schlagen Sie die gegnerischen Angriffe zurück.
+[Submission2.Description]
+Aus dem Norden rücken feindliche EInheiten in Richtung des Dorfes vor, um einen harten Schlag gegen die Verteidigung des 1. Infanterie Battalions des 901. motorisierten Infanterie Regiments auszuführen.
+Sie müssen sofort handeln und den feindlichen Vormarsch aufhalten.
+
+Ihre Befehle lauten:
+- Schlagen Sie die gegnerischen Angriffe zurück.
+[Submission2.Success]
+Gute Arbeit! Der Feind konnte die Verteidigungslinien Ihrer Armee nicht durchbrechen.
+[Submission2.Failed]
+Mission gescheitert! Ihre Armee wurde aufgerieben!
+[StringTable.Change]
+Sie befehligen eine Gruppe Panzer.

@@ -1,0 +1,121 @@
+﻿[StringTable.1]
+Controle da câmera:
+Use {hkey:cameramoveforward}, {hkey:cameramovebackward}, {hkey:cameramoveleft}, {hkey:cameramoveright} para deslocar a câmera. A rotação é ativada pressionando a roda do mouse. No modo livre, a câmera gira em torno do próprio eixo, e girar a roda do mouse define a altura da câmera na vertical. No modo preso ao centro, a câmera gira em torno de um ponto do terreno à frente dela, e girar a roda do mouse desloca a câmera para a frente/para trás em relação a esse ponto. Você pode alternar rapidamente o modo da câmera com {hkey:cameratypeswitch}. Segurar CTRL e girar a roda do mouse altera o campo de visão da câmera. Segurar SHIFT faz a câmera se mover mais rápido.
+
+[StringTable.1.1]
+Mova a esquadra até a cobertura de sacos de areia.
+O botão esquerdo do mouse é usado para selecionar tropas e escolher comandos no painel de controle; o botão direito é usado para dar ordens. Dependendo do objeto sobre o qual você clicar com o botão direito, as tropas executarão uma ou outra ação.
+
+[StringTable.1.2]
+Selecione toda a esquadra mantendo pressionado o botão esquerdo do mouse e arrastando-o de modo que todos os soldados fiquem dentro da moldura que aparece; depois solte o botão. Você também pode selecionar uma esquadra clicando duas vezes em qualquer um de seus membros (ou mantendo pressionada a tecla ALT). Em seguida, indique o ponto de movimentação clicando com o botão direito no destino.
+Para mover toda a esquadra para trás da proteção dos sacos, você precisa indicar o ponto de movimentação para cada soldado individualmente ou usar a formação "livre".
+[StringTable.2]
+Guarneça o posto de metralhadora:
+Selecione um ou dois soldados da esquadra clicando neles com o botão esquerdo (mantenha SHIFT pressionado para selecionar mais de um). Em seguida, coloque o cursor sobre a metralhadora pesada (o cursor mudará para indicar embarque) e clique com o botão direito. Os soldados selecionados guarnecerão a metralhadora pesada e tomarão suas posições automaticamente. 
+[StringTable.3]
+Elimine a esquadra inimiga: 
+Quando seus soldados veem soldados inimigos, eles começam a atirar neles por conta própria. Você também pode atribuir ordens de tiro específicas a cada soldado individualmente (coloque o cursor sobre o alvo e clique com o botão direito). 
+[StringTable.4]
+Use o atirador de elite para eliminar a guarnição do canhão.
+Para ordenar que um atirador de elite ataque um membro da guarnição do canhão, coloque o cursor sobre um deles e clique com o botão direito. Para não errar o alvo, verifique o painel auxiliar pop-up que mostra as características dos soldados e do equipamento sob o cursor. Você também pode usar os comandos "Atacar" {hkey:attack} e "Fogo em área" {hkey:groundattack}, apontando o cursor para um ponto específico (por exemplo, a cabeça de um membro da guarnição do canhão — um marcador de alvo especial será exibido).
+Se o atirador de elite não conseguir atingir a guarnição do canhão, tente se aproximar pelo outro lado.
+[StringTable.5]
+Capture o canhão:
+Selecione os soldados, coloque o cursor sobre o canhão (o cursor mudará para um ícone de "embarcar") e clique com o botão direito. Seus soldados correrão até o canhão para capturá-lo. 
+[StringTable.6]
+Engate o canhão ao caminhão e leve-o para o sudoeste, em direção ao palheiro.
+Selecione o veículo, clique no botão "Engatar", com o ícone de gancho, no canto direito do menu do jogo ({hkey:attachdetach}), coloque o cursor sobre o canhão e clique com o botão direito. O veículo se aproximará do canhão e os soldados o engatarão ao veículo.
+O veículo se aproximará e os soldados engatarão o canhão ao veículo. Coloque a guarnição do canhão dentro do carro (embarcar soldados é semelhante ao modo como você guarneceu a metralhadora pesada antes).
+Em seguida, selecione o veículo e clique com o botão direito no ponto de passagem de destino para movê-lo. 
+
+[StringTable.7]
+Destrua um dos tanques inimigos.
+Quando seus soldados veem tanques inimigos, eles começam a disparar contra eles com o canhão por conta própria. Você também pode designar um alvo e escolher a direção do tiro.
+Você pode alternar o modo de tiro para partes específicas do tanque: torre {hkey:attackup}, parte livre {hkey:attackmedium} ou esteiras {hkey:attackdown}.
+[StringTable.8]
+Capture o tanque.
+Capturar um tanque é semelhante a colocar soldados em um veículo.
+Selecione a esquadra, coloque o cursor sobre o tanque (um ícone se acenderá indicando a interação entre os soldados e esse tipo de equipamento) e clique nele com o botão direito. Seus soldados correrão para guarnecer o tanque.
+
+[StringTable.9]
+Ordene um ataque de artilharia contra a posição inimiga:
+O ícone de apoio de artilharia aparece acima do painel inferior do jogo. 
+Clique no ícone e depois clique com o botão direito para indicar o alvo desejado. 
+Você também pode especificar a área de tiro mantendo pressionado o botão direito do mouse. 
+[StringTable.10]
+Solicite apoio aéreo na área especificada.
+Um ícone indicando apoio aéreo aparecerá acima do painel inferior da interface.
+Clique no ícone de apoio aéreo e indique o local do alvo. 
+Há 5 tipos de aviação:
+- reconhecimento - realiza reconhecimento ao redor de um único ponto por tempo limitado;
+- bombardeiros - lançam bombas no ponto especificado e retornam à base;
+- caças - patrulham o céu ao redor do ponto especificado, atacando aeronaves inimigas, e atacam alvos terrestres antes de retornar à base;
+- aviões de ataque - atacam os alvos terrestres mais próximos do ponto especificado ou procuram alvos por conta própria;
+- bombardeiros de mergulho - atacam alvos com bombas a partir de um mergulho íngreme e depois atacam como aviões de ataque comuns.
+
+[StringTable.11]
+Use o tanque capturado para destruir o veículo blindado inimigo e a esquadra de infantaria inimiga.
+Com o botão "Modo de fogo" {hkey:firemode}, você pode proibir ou permitir que o tanque atire sem ordens.
+
+[StringTable.Pause]
+Para retomar após a pausa, pressione a tecla "{hkey:pause}".
+
+[StringTable.Pos]
+Você está indo na direção errada.
+
+[Submission.Objectives]
+Conclua o treinamento básico!
+[Submission.Description]
+Soldado! Você ingressou nas fileiras do Exército Vermelho! Antes de partir para o front, você precisa concluir o treinamento básico. Você deve cumprir as seguintes tarefas estabelecidas pelo comandante:
+
+- Mova sua esquadra até a cobertura de sacos de areia e use seus soldados para capturar a metralhadora.
+- Use a equipe de atiradores de elite para eliminar a guarnição do canhão e depois capture o canhão. 
+- Destrua um tanque inimigo.
+- Aprenda a usar granadas.
+[Submission.Success]
+Você concluiu o treinamento básico!
+[Submission.Failed]
+Infelizmente você fracassou no treinamento básico!
+[StringTable.Fail]
+Você fracassou no treinamento básico. Reinicie a missão de treinamento.
+[StringTable.Sniper]
+Compare as habilidades dos dois atiradores de elite. Um deles tem altas classificações em ‘Pontaria’ e ‘Reconhecimento’; o outro está classificado como ‘baixo’ nas duas disciplinas. Quanto mais altas as classificações, mais experiente é o soldado.
+A habilidade ‘Pontaria’ mostra o quanto seu soldado é preciso ao atirar com armas leves. A habilidade ‘Reconhecimento’ mostra o quanto o soldado é hábil em avistar inimigos à distância e, ao mesmo tempo, o quanto é difícil para o inimigo avistá-lo. 
+Após cada missão concluída, você pode aumentar a experiência de seus soldados, aumentando assim suas habilidades durante a campanha.  
+[StringTable.Mine]
+Os soldados inimigos tropeçaram em um campo minado!
+Há vários tipos de campos minados, com minas antitanque ou antipessoais.
+[StringTable.Win]
+Tarefa concluída!
+[StringTable.Car]
+Para desengatar o canhão do veículo, selecione o veículo ao qual o canhão está engatado e pressione o botão "Desengatar" {hkey:attachdetach} - o canhão será separado do veículo. Depois desembarque os soldados do veículo (selecione o veículo e pressione o botão "Desembarcar" {hkey:evacuate}). Para que os soldados guarneçam o canhão, selecione-os e clique com o botão direito no canhão.
+
+[StringTable.33]
+É muito mais difícil para o inimigo atingir soldados deitados. Para ordenar que os soldados se deitem, pressione o botão "Rastejar" {hkey:setbodymodelay}.
+Para impedir que seus soldados se movam por conta própria, altere o modo de comportamento com o botão "Restringir/permitir movimento livre" {hkey:actionmode}.
+[StringTable.Pani]
+A guarnição do tanque inimigo entrou em pânico (moral baixa) e abandonou o veículo!
+
+[StringTable.SM7_GrenadeTraining_HE]
+Use granadas de mão para eliminar a guarnição do veículo blindado.
+Você agora tem 2 soldados com granadas de mão antipessoais sob o seu controle. Tais granadas não conseguem danificar seriamente veículos blindados, mas são eficazes contra guarnições expostas, guarnições de canhões, infantaria e veículos.
+Obstáculos enfraquecem a onda de choque e detêm os estilhaços, portanto a granada deve ser lançada para o meio do veículo. Aproxime o soldado, ative o comando "Fogo em área" {hkey:groundattack} ou "Atacar" {hkey:attack} e clique com o botão direito no centro do veículo blindado — um marcador de mira amarelo ou vermelho será exibido e seu soldado lançará uma granada nesse ponto.
+
+[StringTable.SM7_GrenadeTraining_HE_end]
+A guarnição do veículo blindado foi eliminada.
+
+[StringTable.SM7_GrenadeTraining_AT]
+Use granadas antitanque para eliminar o tanque inimigo.
+Você agora tem 2 soldados com granadas antitanque de mão RPG-40 à sua disposição. Essas granadas detonam ao impactar um obstáculo e perfuram a blindagem com a onda de choque; seu efeito de fragmentação é fraco. Uma granada dessas contém uma quantidade impressionante de explosivo, suficiente para danificar o teto ou a traseira de muitos tanques, mas longe de todos.
+Aproxime o soldado do tanque pela retaguarda, ative o comando "Fogo em área" {hkey:groundattack} ou "Atacar" {hkey:attack} e clique com o botão direito na área atrás da torre — esse é o ponto mais vulnerável do tanque.
+
+[StringTable.SM7_GrenadeTraining_AT_end]
+O tanque foi eliminado.
+
+[StringTable.SM7_GrenadeTraining_HEAT]
+Use granadas de mão HEAT para eliminar o tanque inimigo.
+Você agora tem 2 soldados com granadas de mão HEAT RPG-43 à sua disposição. Essas granadas também detonam ao impactar um obstáculo, mas penetram a blindagem por meio de um jato cumulativo, que tem capacidade de penetração muito maior que a da granada RPG-40, porém causa comparativamente menos dano.
+Ative o "Modo de informações de dano" {hkey:SwitchDamageMessagesMode} para ver os vetores de penetração e as mensagens pop-up sobre danos internos — isso vale para qualquer projétil do jogo. Da mesma forma, aproxime o soldado do tanque pela retaguarda, ative o comando "Fogo em área" {hkey:groundattack} ou "Atacar" {hkey:attack} e clique com o botão direito na área atrás da torre — há grande chance de incendiar o tanque atingindo o motor ou o tanque de combustível.
+
+[StringTable.SM7_GrenadeTraining_HEAT_end]
+O tanque foi eliminado.

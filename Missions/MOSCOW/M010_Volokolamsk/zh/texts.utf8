@@ -1,0 +1,45 @@
+﻿[Mission.Objectives]
+将村庄从纳粹德国侵略者手中解放出来。
+[Mission.Description]
+敌军正在溃逃！仅仅几天时间，我军的反攻就已推进至沃洛科拉姆斯克。大本营已命你在所辖战线地段追击并消灭一切残敌或据点。
+
+你的命令：
+- 将村庄从纳粹德国侵略者手中解放出来。
+[Mission.Success]
+你已解放该村。大本营的命令已完成！
+[Mission.Failed]
+你未能完成大本营的命令！
+[Submission_1.Objectives]
+解放居民点。
+[Submission_1.Description]
+西北方向有一处居民点，德军已将其作为通往沃洛科拉姆斯克的接近路上的关键据点。这是一条具有战略意义的要道，必须夺取。 
+
+你的命令：
+- 动用一切可用兵力摧毁敌军防御。
+- 将居民点从侵略者手中解放出来。
+[Submission_1.Success]
+大本营的命令已完成！
+[Submission_1.Failed]
+你未能完成大本营的命令。你的部队已被击溃。
+[Submission_2.Objectives]
+消灭敌军。
+[Submission_2.Description]
+德军已转入积极防御，并开始派出小股侦察分队。我军侦察兵已发现正在推进的敌军。
+
+你的命令：
+-消灭正在推进的敌军。
+[Submission_2.Success]
+敌军已被击败。你的任务已完成！
+[Submission_2.Failed]
+你未能完成命令！你的部队已被击溃。
+[Submission_3.Objectives]
+击退敌军的反击。
+[Submission_3.Description]
+该居民点已被我军占领，但德军并不打算让我们喘息。此刻他们正准备从北面发起反击。
+
+你的命令：
+- 击退敌军的反击。
+[Submission_3.Success]
+敌军的反击已被击退。你的命令已完成！
+[Submission_3.Failed]
+你未能完成大本营的命令！你未能守住先前经苦战夺取的阵地。

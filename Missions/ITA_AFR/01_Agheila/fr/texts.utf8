@@ -1,0 +1,28 @@
+﻿[Submission_1.Objectives]
+Détruisez le convoi
+[Submission_1.Description]
+Détruisez le convoi ennemi qui approche d’El Agheila.
+[Submission_01.Success]
+Mission accomplie.
+[Submission_01.Failed]
+Mission échouée.
+[StringTable.St1]
+[StringTable.St2]
+[Mission.Objectives]
+Tenez le point fortifié
+[Mission.Description]
+Organisez la défense, tenez le point fortifié et bloquez complètement la route d’El Agheila.
+[NewSubmission.Success]
+Mission accomplie.
+[NewSubmission.Failed]
+Mission échouée.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Success]
+Le convoi est détruit.
+[Submission_1.Failed]
+Le convoi ennemi a percé jusqu’à El Agheila !
+[NewSubmission.Objectives]
+[NewSubmission.Description]

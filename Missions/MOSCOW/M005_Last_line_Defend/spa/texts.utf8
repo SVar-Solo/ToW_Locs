@@ -1,0 +1,24 @@
+﻿[Mission.Objectives]
+Detenga el avance de las tropas alemanas en la zona de la estación de tren de Kriukovo.
+[Mission.Description]
+Los alemanes han concentrado una gran fuerza en la zona de la estación ferroviaria de Kriukovo. El plan del enemigo consiste en abrir brechas en las zonas más débiles de nuestra defensa y, con un ataque quirúrgico, tratarán de rodear y destruir cualquier unidad soviética restante. El Estado Mayor del 16º. ejército le ha asignado unidades de tanques adicionales para ayudarle en la defensa del área.
+ 
+Sus órdenes son:
+- Detener a las tropas alemanas que avanzan hacia la estación de tren de Kriukovo.
+[Mission.Success]
+¡Ha cumplido la orden del Estado Mayor! Ha detenido el avance de las tropas enemigas.
+[Mission.Failed]
+¡Ha fracasado en el cumplimiento de las órdenes del Estado Mayor! Han derrotado a sus tropas.
+[Submission_1.Objectives]
+Rechace todo ataque enemigo.
+[Submission_1.Description]
+No cuenta con suficientes efectivos a su mando como para montar una defensa en profundidad. Se le ha enviado parte de la 316º. División de Fusileros como refuerzo, pero incluso con estas tropas de más será imposible establecer una línea sólida de defensa. Debe ser prudente, comandante, y desplegar diversos puntos de apoyo para detener los ataques enemigos. Solo así será capaz de aguantar la acometida en inferioridad numérica.
+ 
+Sus órdenes son:
+- Rechace todo ataque enemigo.
+[Submission_1.Success]
+¡Se han rechazado los ataques enemigos! Ha cumplido la orden del Estado Mayor.
+[Submission_1.Failed]
+¡No ha conseguido cumplir la orden del Estado Mayor! Han derrotado a sus tropas.
+[StringTable.Tanks]
+Su misión actual exige más flexibilidad y coordinación. Por tanto, se le han asignado más unidades blindadas.

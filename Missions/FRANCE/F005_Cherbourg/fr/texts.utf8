@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Contenir toutes les attaques allemandes. Couvrir l’évacuation des troupes alliées du port de Cherbourg.
+[Mission.Description]
+Juin 1941, à la périphérie du port de Cherbourg se trouve l’une des dernières unités encore opérationnelles de l’armée française. Les Allemands occupent tout le pays. La propagande du docteur Goebbels travaille jour et nuit pour briser l’esprit de résistance des Français. Les dernières forces alliées ont besoin de temps pour embarquer et fuir vers les îles britanniques. A vous gagner ce temps précieux par votre sacrifice si besoin.
+
+Vos ordres sont :
+-	Contenir et résister à toutes les attaques allemandes avec toutes nos forces. Il faut tenir et empêcher les Allemands de percer vers les zones d’évacuation.
+[Mission.Success]
+Votre mission est une réussite !
+[Mission.Failed]
+Vous avez échoué dans votre mission !
+[Submission_1.Objectives]
+Repousser les attaques ennemies
+[Submission_1.Description]
+Vos défenses sont situées sur une hauteur stratégique. Les Allemands tentent de percer vers Cherbourg par plusieurs axes de progression. La clé du succès dépend de votre placement et de l’organisation de vos positions défensives.
+
+Les ordres :
+-	Repousser toutes les attaques de l’ennemi. 
+[Submission_1.Success]
+Vous avez repoussé les attaques ennemies avec succès !
+[Submission_1.Failed]
+Vous avez perdu !
+[Submission_2.Objectives]
+Attaquer la localité à l’ouest de la colline.
+[Submission_2.Description]
+Une localité à l’ouest de votre position est occupée par les Allemands. Vu la situation actuelle, l’ennemi ne s’attend pas à une action agressive de notre côté et il réorganise ses forces en prévision de sa prochaine attaque.
+
+Les ordres 
+-	Organiser une contre-attaque dans la direction du hameau et éliminer toutes les unités allemandes qui s’y trouvent. 
+
+[Submission_2.Success]
+Le village est entre nos mains ! Bravo commandant !
+[Submission_2.Failed]
+Vous avez échoué dans votre mission !
+[Submission_3.Objectives]
+Repousser les contre-attaques ennemies.
+[Submission_3.Description]
+L’attaque surprise a marché ! L’ennemi a subi de lourdes pertes en hommes et en matériel. De plus, le projet d’une attaque simultanée contre vos positions a été avorté. Mais ce n’est pas une victoire totale car l’ennemi prépare une contre-attaque. 
+
+Les ordres :
+-	Repousser la contre-attaque allemande.
+[Submission_3.Success]
+Vous avez gagné ! La contre-attaque ennemie a été stoppée !
+[Submission_3.Failed]
+Vous avez perdu ! Vous avez été incapable de stopper la contre-attaque ennemie.
+[StringTable.reserv]
+Des renforts sont arrivés.

@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+Arrêter l’attaque ennemie.
+[Submission1.Description]
+Après plusieurs longues semaines de combats, les Américains ont lancé une offensive majeure pour détruire la Panzer-Lehr une bonne fois pour toute. Vous avez combattu courageusement commandant et le pays est fier de ce que vous avez accompli, mais tout ce la ne servira à rien si vous échouez au moment décisif. Une nouvelle fois, vous êtes dominé en nombre, mais il vous faut pourtant vaincre là encore !
+ 
+Vos ordres :
+- arrêter l’attaque ennemie.
+[Submission1.Success]
+Beau travail, commandant ! L’attaque ennemie a été stoppée et vos unités vont pouvoir poursuivre le combat.
+[Submission1.Failed]
+Vous avez échoué ! Vos troupes ont été battues et vous n’avez pas réussi à stopper les Américains.
+[Submission2.Objectives]
+Repousser tous les assauts ennemis.
+[Submission2.Description]
+Nos unités de reconnaissance ont détecté une Task Force américaine approchant par le nord. Il faut absolument les empêcher d’avancer plus loin. Repoussez-les, commandant !
+ 
+Vos ordres :
+- repousser les attaques ennemies.
+[Submission2.Success]
+Beau travail, commandant ! L’attaque ennemie a été repoussée.
+[Submission2.Failed]
+Vous avez échoué ! Vos troupes ont été détruites.

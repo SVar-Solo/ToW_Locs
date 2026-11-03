@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Detenga al enemigo
+[Mission.Description]
+Tome el mando de las unidades de tanques, infantería y artillería de la 6.ª División Blindada y detenga el avance de la 10.ª División Panzer enemiga, impidiéndole capturar Thala. Nuestras tropas dispersas aún se retiran del paso de Kasserine. Debe asegurar las carreteras con sus unidades móviles y recuperar a nuestras tropas, apoyándolas si es necesario.
+[Mission.Success]
+¡Misión cumplida!
+[Mission.Failed]
+¡Misión fallida!
+[Submission1.Objectives]
+Ataque a la vanguardia alemana
+[Submission1.Description]
+Unidades de vanguardia enemigas se aproximan a nuestras posiciones. Destrúyalas.
+[Submission1.Success]
+¡La orden ha sido cumplida!
+[Submission1.Failed]
+¡La orden no ha sido cumplida!
+[Submission2.Objectives]
+Proteja la columna
+[Submission2.Description]
+Varios vehículos avanzan desde el paso de Kasserine; parecen ser nuestras unidades en retirada. Compruebe si es así y organice su protección frente a posibles ataques alemanes.
+[Submission2.Success]
+¡Misión cumplida!
+[Submission2.Failed]
+¡Misión fallida!
+[Submission4.Objectives]
+Rechace todos los ataques enemigos.
+[Submission4.Description]
+Resista durante 20 minutos hasta que nuestros aviones de ataque entren en acción. Hay unidades aliadas en camino y, además, la aviación actuará en nuestro favor; ya está en el aire y solo hay que resistir unos minutos.
+[Submission4.Failed]
+¡Misión fallida!
+[Submission4.Success]
+Misión cumplida.
+[StringTable.SubMission4_WIN]
+¡Coordenadas obtenidas, la artillería abre fuego!
+[StringTable.Message1]
+Tome el mando de las unidades de tanques, infantería y artillería de la 6.ª División Blindada y detenga el avance de la 10.ª División Panzer enemiga, impidiéndole capturar Thala. 
+[StringTable.Message2]
+Rechace todos los ataques enemigos. Resista durante 20 minutos hasta que nuestros aviones de ataque entren en acción.
+[StringTable.Message3]
+¡A cubierto! ¡Nuestras fuerzas aéreas van a machacar a los alemanes!

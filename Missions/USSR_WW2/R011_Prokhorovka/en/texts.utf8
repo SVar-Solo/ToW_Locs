@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Beat off the German attack on the Prokhorovka station.
+[Mission1.Description]
+German troops have launched an attack on this part of the front aiming to break through the line at the Prokhorovka station. After the station falls, they will attack north towards Oboyan in order to encircle the Voronezh front units.
+
+Your orders: 
+- 	Stop the German assault around the Prokhorovka station. 
+- 	Keep the Germans from breaking through in this sector.
+[Mission1.Success]
+The enemy attack was beaten off!
+[Mission1.Failed]
+The enemy has managed to break through our defenses.
+[Mission2.Objectives]
+Use your armored units to destroy the advancing enemy tanks.
+[Mission2.Description]
+The enemy has been exhausted and now the odds are in our favor. However, enemy armored units are moving towards Prokhorovka. Elements of our 5th Guards Tank Army are on their way to assist you.
+
+Your orders: 
+- 	Use all available forces to destroy the enemy units threatening the Prokhorovka station.
+[Mission2.Success]
+The enemy has been routed – excellent job commander!
+[Mission2.Failed]
+Your troops have been destroyed and the Fascists may advance unimpeded.
+[Submission1.Objectives]
+Hold your defenses around the Prokhorovka station.
+[Submission1.Description]
+German tanks have reached Prokhorovka and are preparing to deliver a mighty blow on our defensive positions in this sector. Recon reports indicate that the Fascists have massed great forces so we are expecting a hard battle. We must win this day and destroy the Germans.
+
+Your orders: 
+ - 	Use all available forces to destroy the enemy units threatening the Prokhorovka station.
+[Submission1.Success]
+The battle was hard fought but you have emerged victorious. Because of your efforts we can now launch a counter-offensive.
+[Submission1.Failed]
+The German troops have broken through and are encircling our forces! The battles around Kursk have proven a disaster for the Red Army.
+[StringTable.Reserv]
+Reinforcements have been assigned to your command.

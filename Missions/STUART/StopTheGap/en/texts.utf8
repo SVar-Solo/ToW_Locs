@@ -1,0 +1,60 @@
+﻿[MainTask.Objectives]
+Stop the breakthrough
+[MainTask.Description]
+Proceed to the settlement occupied by our forces. Use their help to make an ambush on the enemy convoy. They must not get to the pass, not even one of them - one German will put the cattle that used to be our army to rout. So good luck and may God help you. Remember - don’t let a single German reach the end of the pass alive! 
+[MainTask.Success]
+The enemy mobile group is defeated, its remnants fled. Keep up the good work!
+[MainTask.Failed]
+From Lieutenant Colonel Waters’ report: ...the enemy breached to the pass exit, overran our forces that were retiring pell-mell and destroyed them... 
+[StringTable.Incoming]
+The artillery observers report that the enemy convoy is reaching the pass and will soon approach our positions!
+[StringTable.IntroSubtitle1]
+Alan Mitchell: Damn, what's that?
+[StringTable.IntroSubtitle2]
+Running soldiers: Run for your life! Run for your life!!!
+[StringTable.IntroSubtitle3]
+Alan Mitchell: And what about those who can’t? (to the radio) Sir, things look blue, they run like rabbits...
+[StringTable.IntroSubtitle3a]
+(to the crew) Let’s stop and do some talking. Side arms at the ready!
+[StringTable.IntroSubtitle3b]
+- But we’re no MPs! - We're not gonna shoot at them, just bring them to reason!
+[StringTable.IntroSubtitle4]
+Alan Mitchell: Hold! Where are you hurrying, I wonder?
+[StringTable.IntroSubtitle5]
+Running GI: F*** you, hero! I don't want to die, there’s a bazillion of Germans! …
+[StringTable.IntroSubtitle6]
+... and you’re a softhead if you don’t wanna live, like those who stayed in the village!
+[StringTable.IntroSubtitle7]
+Alan Mitchell: Now we're talking. So not everyone has shitted their pants! ... 
+[StringTable.IntroSubtitle8]
+... And you, mind that the Germans will get you even in a New York outhouse!
+[StringTable.WinSubtitle1]
+Adjutant: Sir, they’re coming back!
+[StringTable.WinSubtitle2]
+Lieutenant Colonel Waters: Everything was holding by a thread...
+[StringTable.WinSubtitle3]
+...but they just did what they were to do.
+[StringTable.WinSubtitle4]
+Alan Mitchell: Sir! The crew...
+[StringTable.WinSubtitle5]
+Lieutenant Colonel Waters: We both have to hurry, I’ll have your report later, Mitchell...
+[StringTable.WinSubtitle6]
+... it’s getting tough at another battleground, I’ve got to be there.
+[StringTable.WinSubtitle7]
+You'll have further information by the radio, now here, take a letter from Nelly!
+[StringTable.FailSubtitle1]
+Wermacht captain: Well, Yankees, have you had enough of war? ...
+[StringTable.FailSubtitle2]
+Kameraden, there’s no need to prove the fact...
+[StringTable.FailSubtitle3]
+that the Americans are sheep at war!
+[StringTable.FailSubtitle4]
+Though that light tank of theirs fought damn nice, but we’ve burned it down eventually!
+[StringTable.StuartDestroyed]
+Alan Mitchell’s tank is destroyed!
+[StringTable.MitchellIsKilled]
+Alan Mitchell has been killed!
+[StringTable.EnemySuccessful]
+The enemy has breached to the pass exit! The mission is failed!
+[StringTable.ReturnInTank]
+Send the disembarked tank crewmen back into the tank to complete the mission.

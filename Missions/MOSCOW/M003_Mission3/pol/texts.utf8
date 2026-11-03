@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Działając w obronie, musisz uniemożliwić nieprzyjacielowi przebicie się na swoje tyły.
+[Mission.Description]
+Dostałeś posiłki w postaci czołgów z rezerw sztabu Armii. W sektorze frontu w pobliżu wsi Jadromino kompania Dywizji Strzelców broni się na wysuniętych pozycjach. W składzie kompanii znajdują się drużyny przeciwpancerne. Ponadto w twoim rejonie znajduje się jeden batalion dział 45 mm, złożony z 6 załóg. 
+Twoje rozkazy:
+-	Działając w obronie, musisz uniemożliwić nieprzyjacielowi przebicie się na swoje tyły.
+[Mission.Success]
+Zadanie wykonane!
+[Mission.Failed]
+Nie wykonałeś zadania!
+[Submission_1.Objectives]
+Zniszczyć nieprzyjacielskie czołgi.
+[Submission_1.Description]
+Wybierz pozycje tak, byś w dowolnej chwili mógł przerzucić czołgi w rejony wyłomu. Musisz wspierać piechotę ogniem.
+Twoje rozkazy:
+-	Zniszcz nacierające czołgi nieprzyjaciela.
+[Submission_1.Success]
+Zadanie wykonane! Nieprzyjacielskie czołgi zostały zniszczone.
+[Submission_1.Failed]
+Nie wykonałeś zadania! Twoje wojska zostały pokonane.
+[StringTable.Change_Infantry]
+Poległ dowódca kompanii strzelców. Obejmij dowództwo nad kompanią. 
+[StringTable.Change_Artillery]
+Dowódca baterii artylerii jest śmiertelnie ranny. Artyleria przechodzi pod twoje dowództwo.
+[StringTable.Change_ALL]
+Aktualna sytuacja wymaga lepszej koordynacji między wszystkimi jednostkami wojskowymi. Zostałeś mianowany dowódcą formacji. Teraz pod twoim dowództwem znajdują się kompania strzelców i bateria artylerii.

@@ -1,0 +1,26 @@
+﻿[Mission.Objectives]
+Tenir les positions
+[Mission.Description]
+Tenez les positions près de Sidi Bou Zid.
+[Mission.Success]
+Mission accomplie.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Objectives]
+Tenez la ville
+[Submission_1.Description]
+L'état-major de l'armée a fourni des chars de la réserve, mais ils sont encore en route. L'ennemi tente désespérément de reprendre Sidi Bou Zid. Vous devez tenir la ville jusqu'à l'arrivée des renforts.
+[Submission_1.Success]
+Mission accomplie.
+[Submission_1.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Détruisez les positions d'artillerie ennemies
+[Submission_2.Description]
+Vous avez maintenant le commandement des chars de la réserve de l'état-major de l'armée. Utilisez-les pour prendre la petite agglomération et détruire les positions d'artillerie ennemies.
+[Submission_2.Success]
+Mission accomplie.
+[Submission_2.Failed]
+Mission échouée.
+[StringTable.Add_tanks]
+- Commandant, j'ai donné l'ordre de vous fournir des chars de la réserve de l'état-major de l'armée. Les Américains ont subi de lourdes pertes, et il est temps de contre-attaquer. Bonne chance à vous et à vos hommes.

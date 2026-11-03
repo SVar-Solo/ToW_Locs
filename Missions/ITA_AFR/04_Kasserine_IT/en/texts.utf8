@@ -1,0 +1,32 @@
+﻿[Submission_1.Objectives]
+Dislodge the enemy
+[Submission_1.Description]
+The passage is controlled by the enemy that built fortifications around a small mountain village. Dislodge the enemy from his positions.
+[Submission_01.Success]
+Mission accomplished.
+[Submission_01.Failed]
+Mission failed.
+[Mission.Objectives]
+Сlear the mountain road
+[Mission.Description]
+Your unit is assigned with a task to clear the mountain road and the adjacent areas.
+[NewSubmission.Success]
+Mission accomplished.
+[NewSubmission.Failed]
+Mission failed.
+[Submission_2.Objectives]
+Clear the settlement
+[Submission_2.Description]
+Further advance is impeded by flank fortifications of the Americans that deployed at the road junction. Clear the settlement from the enemy in order to unblock the road.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[Submission_1.Success]
+Mission accomplished.
+[Submission_1.Failed]
+Mission failed.
+[Submission_2.Success]
+Mission accomplished.
+[Submission_2.Failed]
+Mission failed.

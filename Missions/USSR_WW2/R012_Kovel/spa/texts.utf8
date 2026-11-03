@@ -1,0 +1,70 @@
+﻿[Mission1.Objectives]
+Mantenga a los agresores fascistas alejados del pueblo.
+[Mission1.Description]
+Unidades alemanas de la Agrupación de Ejércitos Sur y Central están tomando posiciones defensivas en las afueras de la ciudad de Kovel’. Ha de eliminarlas.
+
+Sus órdenes:
+- 	Aleje a las unidades enemigas de sus posiciones defensivas alrededor de Kovel’.
+[Mission1.Success]
+El ataque ha sido todo un éxito y el pueblo ha sido liberado. Los lugareños hablan de las atrocidades inimaginables que han cometido los fascistas durante su ocupación. ¡Estas historias han añadido más rabia a los corazones de sus soldados!
+[Mission1.Failed]
+La orden no se ha llevado a cabo y su ataque se ha estrellado contra un muro. ¡Sus acciones precipitadas han puesto en peligro el éxito de toda la operación!
+[Submission2.Objectives]
+Contenga el ataque enemigo.
+[Submission2.Description]
+Los informes de reconocimiento dicen que hay muchas unidades enemigas avanzando hacia la estación de aprovisionamiento de combustible.
+
+Sus órdenes:
+-	Evite que el enemigo vuelva a tomar la estación de aprovisionamiento.
+[Submission2.Success]
+El contraataque del enemigo ya ha sido detenido. ¡Ya podemos seguir avanzando!
+[Submission2.Failed]
+El enemigo ha tomado la estación de aprovisionamiento. ¡Sus esfuerzos han sido inútiles!
+[Submission1.Objectives]
+Saque al enemigo de la estación de aprovisionamiento.
+[Submission1.Description]
+La compleja red de carreteras en esta zona es muy inadecuada para garantizar municiones, combustible y pertrechos a las unidades. Por eso, las estaciones de combustible son puntos estratégicos de gran importancia y no deben caer en manos del enemigo. Si encuentra algún almacén enemigo, utilice todos los medios para tomarlo y así podremos utilizarlo.
+
+Sus órdenes son:
+- 	Tome la estación de aprovisionamiento de combustible que está en manos del enemigo.
+- 	Establezca una cabeza de puente que nos permita acercar unidades de reserva al frente.
+[Submission1.Success]
+Ha tomado la estación de aprovisionamiento y hemos ganado un recurso logístico muy valioso.
+[Submission1.Failed]
+Ha sido incapaz de tomar este punto estratégico.
+[Mission1_1.Objectives]
+Adéntrese más en territorio enemigo.
+[Mission1_1.Description]
+¡Las defensas enemigas han sido atravesadas! Seguirá avanzando en esa dirección y atacará a las unidades alemanas que hay en la siguiente población. No podemos dejar que el enemigo recupere la iniciativa, así que ataque rápido, comandante.
+
+Sus órdenes:
+- 	Ataque a las fuerzas enemigas que hay en el pueblo.
+[Mission1_1.Success]
+Ha llevado a cabo muy bien sus órdenes. ¡Las defensas del enemigo se tambalean!
+[Mission1_1.Failed]
+Los alemanes han conseguido mantener sus posiciones en el pueblo.
+[Submission2_1.Objectives]
+Ataque a la agrupación de tanques del enemigo.
+[Submission2_1.Description]
+Los informes de reconocimiento parecen indicar un punto débil en el flanco alemán. Hemos atravesado sus débiles defensas pero ahora nos encontramos unidades blindadas pesadas.
+
+Sus órdenes:
+-	 Ataque a la agrupación de tanques del enemigo.
+[Submission2_1.Success]
+Las unidades de tanques del enemigo han sido destruidas.
+[Submission2_1.Failed]
+Las unidades del enemigo eran demasiado fuertes. Ha fallado, comandante.
+¡Sus tropas han sido destruidas!
+[Mission1_2.Objectives]
+Ataque a las fuerzas enemigas que hay en el pueblo.
+[Mission1_2.Description]
+¡Las defensas enemigas han sido destruidas! Para aprovechar la situación, debemos seguir avanzando y atacar a las tropas alemanas situadas en el pueblo. Inteligencia informa de que el enemigo ha desplegado muchas unidades de reserva. Prepárese, comandante.
+
+Sus órdenes:
+- 	Ataque a las tropas enemigas que hay en el pueblo.
+[Mission1_2.Success]
+Ha logrado tomar el pueblo.
+[Mission1_2.Failed]
+No hemos asegurado el pueblo y hemos perdido el empuje.
+[StringTable.Reserv]
+Se le han asignado refuerzos adicionales.

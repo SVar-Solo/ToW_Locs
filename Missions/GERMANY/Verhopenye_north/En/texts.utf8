@@ -1,0 +1,27 @@
+﻿[Mission.Objectives]
+Establish a bridgegead on the western shore of the Pena.
+[Mission.Description]
+Tanks and artillery with poor infantry support hold the line on the western shore of the river. There are isolated battle outposts on the eastern shore. The combat team will clear the eastern shore of enemy forces, then attack the western part of Verkhopenye and capture the river crossing.
+[Submission1.Objectives]
+Capture the bridge on the Pena, move to the western shore and defend the crossing.
+[Submission1.Success]
+Mission complete. 
+[Submission1.Failed]
+The attack has been stalled, immediate support is required. 
+[Submission2.Objectives]
+Hold the crossing until the main forces arrive.
+[Submission2.Success]
+Mission complete.
+[Submission2.Failed]
+Our forces are repelled by superior enemy forces.
+[Mission.Success]
+Mission complete. It is possible now to move the main forces of the division across the river.
+[Mission.Failed]
+We failed to carry out our orders. The enemy is too strong!
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

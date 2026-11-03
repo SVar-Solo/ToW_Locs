@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Utrzymajcie pozycje obronne na linii Dubrawa - Sołoniec. Uniemożliwcie wrogim czołgom przebicie się do Syrcewa.
+[Mission.Description]
+Wraz z baterią artylerii przeciwczołgowej, jednostką strzelców przeciwpancernych i czołgami, utrzymajcie broniony teren. Specjalnym priorytetem jest utrzymanie pozycji w wiosce. Wykorzystajcie czołgi do urządzania zasadzek.
+[Mission.Success]
+Misja zakończona sukcesem, ataki wroga odparte.
+[Mission.Failed]
+Nasze wojska wycofują się, atakowane przez przeważające siły wroga.
+[Submission1.Objectives]
+Odeprzyjcie atak wroga, stosując zasadzki czołgowe.
+[Submission1.Success]
+Nieprzyjacielskie czołgi zostały zniszczone.
+[Submission1.Failed]
+Nasze czołgi zostały zniszczone, wróg kontynuuje natarcie.
+[Submission2.Objectives]
+Przygotujcie się na odparcie kolejnego ataku. Czołgi wycofują się na pomocnicze pozycje strzeleckie! 
+[Submission2.Success]
+Zadanie wykonane. Wszystkie ataki nieprzyjaciela zostały odparte.
+[Submission2.Failed]
+Nasze czołgi zostały zniszczone, wróg kontynuuje natarcie.
+[Submission3.Objectives]
+Dokonajcie kontrataku. Przywróćcie linię frontu! Uniemożliwcie wrogim czołgom i piechocie zmotoryzowanej przebicie się na nasze tyły.
+[Submission3.Success]
+Misja ukończona, przywrócono linię frontu.
+[Submission3.Failed]
+Kontratak nieudany, wróg kontynuuje natarcie.
+[StringTable.Tanks!]
+Czołgi! Strzelajcie z jak najkrótszego dystansu, w burty i tyły!
+[StringTable.Air!]
+Nalot! Kryć się!
+
+[StringTable.Tank]
+Czołgi z 3 Brygady Zmotoryzowanej
+
+[StringTable.avia_report]
+Wsparcie powietrzne jest dostępne.
+[StringTable.art_report]
+Wsparcie artyleryjskie czeka na rozkazy.
+[StringTable.jetmortar_report]
+Bateria artylerii rakietowej gotowa do strzału.

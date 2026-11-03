@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Acabe con las principales posiciones enemigas en la población que hay al noreste y libérela.
+[Mission.Description]
+Los alemanes han levantado y reforzado posiciones de defensa cerca de Saint-Lô. Según los datos de reconocimiento aéreo, el enemigo ha concentrado los efectivos principales del 7o. ejército en esta zona. El terreno favorece las emboscadas y la presencia de plazas fuertes menores, lo que nos obliga a avanzar con mucha cautela.
+
+Sus órdenes son:
+- 	Haga un tanteo con tanques e infantería.
+- 	Libere la ciudad situada al noreste.
+[Mission.Success]
+¡Ha cumplido la misión! La operación Cobra continúa.
+[Mission.Failed]
+La misión ha fracasado.
+[Submission_1.Objectives]
+Haga una acción de tanteo en los dos pueblos situados en las afueras de Saint-Lô.
+[Submission_1.Description]
+El enemigo ha concentrado sus principales fuerzas de defensa en las colinas cercanas a la ciudad. Hay dos pueblos situados en la ruta de ofensiva de nuestras fuerzas. No tenemos datos sobre la presencia enemiga en esos lugares.
+
+Sus órdenes:
+- 	Lleve a cabo tanteos en los dos pueblos.
+[Submission_1.Success]
+Ha efectuado con éxito las acciones de tanteo. El enemigo ha sido derrotado.
+[Submission_1.Failed]
+La misión ha fracasado.
+[Submission_2.Objectives]
+Ataque las principales fortificaciones de la defensa de la colina.
+[Submission_2.Description]
+El enemigo ha construido una línea de defensa en los alrededores de la ciudad gracias a las colinas circundantes.
+
+Sus órdenes:
+-	Destruya las defensas enemigas de la colina.
+[Submission_2.Success]
+Ha cumplido la misión.
+[Submission_2.Failed]
+La misión ha fracasado.
+[Submission_3.Objectives]
+Tome la ciudad de Saint-Lô.
+[Submission_3.Description]
+La ciudad de Saint-Lô es un punto estratégico de suma importancia. Es la puerta de entrada a futuros avances por Francia.
+
+Sus órdenes:
+-	Libere la ciudad de Saint-Lô destruyendo la guarnición enemiga que la defiende.
+[Submission_3.Success]
+¡Ha acabado con la emboscada!
+[Submission_3.Failed]
+La misión ha fracasado.
+[Submission_4.Objectives]
+Destruya la batería de artillería enemiga.
+[Submission_4.Description]
+Los alemanes han colocado la artillería de forma muy inteligente. Cualquier acercamiento a la ciudad puede ser barrido con fuego desde la colina, donde está situada la batería enemiga.
+
+Sus órdenes:
+- 	Destruya la batería de artillería de la colina.
+[Submission_4.Success]
+Ha destruido la batería de artillería.
+[Submission_4.Failed]
+La misión ha fracasado.
+[StringTable.Reserv]
+Han llegado refuerzos.

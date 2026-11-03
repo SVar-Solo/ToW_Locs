@@ -1,0 +1,68 @@
+﻿[Mission.Objectives]
+Die Briten versuchen Caen zu erreichen und Sie müssen sie aufhalten.
+[Mission.Description]
+Britische Truppen unter dem Befehl von General Montgomery wollen Villers-Bocage einnehmen und dann weiter nach Caen vorrücken. Ihnen stehen mehrere Panzer der Schweren SS-Panzer-Abteilung 101 zur Verfügung, geführt von dem Tank-Asss Michael Wittmann. Schlagen Sie schnell und hart gegen den britische Panzerkonvoi zu, der sich Ihnen nähert. 
+
+Ihre Befehle:
+-	 Halten Sie den britischen Panzerkonvoi auf. Zerstören Sie so viele Feindpanzer und Material wie möglich.  
+[Mission.Success]
+Mission erfüllt! Ihre Taten heute werden noch jahrelang in Erinnerung bleiben.
+[Mission.Failed]
+Mission gescheitert! Eine Gelegenheit den Briten schwere Verluste beizubringen wurde verpasst.
+[Submission_1.Objectives]
+Greifen Sie den feindlichen Panzerkonvoi an.
+[Submission_1.Description]
+Teile der britischen 7. Panzerdivision marschieren die Strasse entlang und nähern sich der kleinen Stadt Villers-Bocage, auf ihrem Weg nach Caen. 
+
+Ihre Befehle: 
+-	 Nutzen Sie das Überraschungsmoment, Schnelligkeit und Ihre überlegenen Panzer um den britischen Streitkräften den maximalen Schaden beizubringen.	 
+[Submission_1.Success]
+Sie haben die britischen Streitkräfte dezimiert.
+[Submission_1.Failed]
+Ihr Angriff ist gescheitert.
+[Submission_2.Objectives]
+Sorgen Sie dafür, dass Michael Wittmann und seine Mannschaft überlebt wenn möglich.
+[Submission_2.Description]
+Panzerass Michael Wittmann und seine Mannschaft sind als Kampftruppe und auch als Symbol äusserst wichtig. Sie müssen ihn und seine Mannschaft um jeden Preis am Leben halten!
+[Submission_2.Success]
+Michael Wittmann hat die Schlacht überlebt und wird ohne Zweifel den alliierten Streitkräften in künftigen Schlachten weiter empfindliche Niederlagen zufinden.
+[Submission_2.Failed]
+Michael Wittmann wurde getötet. 
+[Submission_3.Objectives]
+Führen Sie Ihren Angriff gegen die übrigen britischen Einheiten fort.
+[Submission_3.Description]
+Sie haben den britischen Streitkräften empfindliche Schäden und einen ordentlichen Dämpfer ihrer Moral beigebracht. Führen Sie Ihren Angriff gegen die übrigen britischen Einheiten fort.
+
+Ihre Befehle: 
+-	 Die Briten scheinen sich um einen kleinen Bauernhof in der Gegend neu zu formieren. Finden und zerstören Sie sie.
+[Submission_3.Success]
+Ihr Angriff auf die Farm war erfolgreich.
+[Submission_3.Failed]
+Ihr Angriff gegen die britischen Streitkräfte in der Nähe der Farm ist gescheitert.
+[Submission_4.Objectives]
+Erobern Sie eine wichtige Schlüsselposition in der Nähe des kleinen Bauernhofs.
+[Submission_4.Description]
+Der Feind wurde in der Nähe eines Bauernhof bei Villers-Bocage entdeckt. Der Bauernhof liegt in der Nähe einer strategisch wichtigen Kreuzung und muss eingenommen werden.
+
+Ihre Befehle: 
+-	 Zerstören Sie alle britischen Einheiten in der Nähe des Bauernhofs.
+-	 Halten Sie den Bauernhof gegen britische Gegenangriffe.
+[Submission_4.Success]
+Sie haben den Bauernhof eingenommen und die britischen Einheiten vertrieben.
+[Submission_4.Failed]
+Ihr Angriff auf die Farm ist gescheitert.
+[Submission_5.Objectives]
+Wehren Sie alle Versuche der Briten ab, den Bauernhof wieder in Besitz zu nehmen.
+[Submission_5.Description]
+Sie haben die Britien überrascht und Ihnen empfindlichen Schaden zugefügt, aber sie formieren und gruppieren sich neu und wollen die Stadt Villers-Bocage unter allen Umständen einnehmen. Sie müssen diesen Gegenangriff abwehren.
+
+Ihre Befehle:
+-	 Schlagen Sie den feindlichen Gegenangriff zurück.
+[Submission_5.Success]
+Sie haben gewonnen! Ihre Taten heute werden für immer in den Annalen des Krieges eingehen.
+[Submission_5.Failed]
+Sie wurden geschlagen und der Britische Vormarsch auf Caen kann ungehindert weitergehen.
+[StringTable.inf_reserv]
+Eine Infanteriegruppe wurde Ihrem Kommando unterstellt.
+[StringTable.tank_reserv]
+Sie erhalten zusätzliche Panzereinheiten aus unserer Reserve.

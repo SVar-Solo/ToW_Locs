@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Nuestras fuerzas han sido cercadas y ahora tratamos de abrir una brecha.
+[Mission.Description]
+Su principal objetivo es romper el cerco enemigo. Tras una acción de penetración por el río, impida que los rusos coloquen puestos de defensa antitanque que obstaculicen la marcha de nuestras unidades.
+[Mission.Success]
+Ha logrado romper el cerco.
+[Mission.Failed]
+Sus fuerzas no han podido romper el cerco.
+[Submission_1.Objectives]
+Rompa el cerco y avance hasta la población que hay a orillas del río. Para ensanchar el corredor de avance, entable combate con toda unidad enemiga con la que se encuentre y destrúyala.
+[Submission_1.Description]
+Sus órdenes:
+	- Llegue a la población, a orillas del río.
+	- Destruya a cuantas tropas enemigas encuentre por el camino.
+[Submission_1.Success]
+¡Victoria! Sus fuerzas han abierto una brecha y han podido establecer un punto de apoyo a lo largo del río.
+[Submission_1.Failed]
+Ha fallado. Nuestras fuerzas no han logrado romper el cerco.
+[StringTable.ger_reserv]
+El Estado Mayor le ha asignado algunas unidades blindadas. Úselas con prudencia, comandante.

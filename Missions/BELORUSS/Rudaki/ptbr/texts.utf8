@@ -1,0 +1,48 @@
+﻿[Mission.Objectives]
+Liberte Rudaki e Osipovo. Assegure a estrada para Vitebsk.
+[Mission.Description]
+Liberte Rudaki e Osipovo. Assegure a estrada para Vitebsk.
+[Mission.Success]
+Missão cumprida.
+[Mission.Failed]
+Missão fracassada.
+[Submission1.Objectives]
+Liberte Rudaki.
+[Submission1.Description]
+Liberte Rudaki.
+[Submission1.Success]
+Tarefa cumprida.
+[Submission1.Failed]
+Tarefa fracassada.
+[Submission2.Objectives]
+Liberte Osipovo.
+[Submission2.Description]
+Liberte Osipovo.
+[Submission2.Success]
+Tarefa cumprida.
+[Submission2.Failed]
+Tarefa fracassada.
+[Submission3.Objectives]
+Estabeleça uma posição defensiva em Osipovo e repila os contra-ataques inimigos.
+[Submission3.Description]
+Estabeleça uma posição defensiva em Osipovo; prepare-se para repelir os ataques inimigos.
+[Submission3.Success]
+Tarefa cumprida.
+[Submission3.Failed]
+Tarefa fracassada.
+[Submission4.Objectives]
+Intercepte e destrua imediatamente o destacamento do QG inimigo que recua pela estrada para o norte! Se o comboio do QG escapar do cerco, sua missão fracassará.
+[Submission4.Description]
+Intercepte e destrua imediatamente o destacamento do QG inimigo que recua pela estrada para o norte!
+[Submission4.Success]
+Tarefa cumprida.
+[Submission4.Failed]
+Tarefa fracassada.
+[Submission5.Objectives]
+O inimigo tenta romper em direção a Rudaki. Intercepte e destrua o grupo blindado.
+[Submission5.Description]
+O inimigo tenta romper em direção a Rudaki. Intercepte e destrua o grupo blindado.
+[Submission5.Success]
+Tarefa cumprida.
+[Submission5.Failed]
+Tarefa fracassada.

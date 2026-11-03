@@ -1,0 +1,35 @@
+﻿[Mission.Objectives]
+독일군의 모든 공격을 격퇴한 뒤 반격에 나서라.
+[Mission.Description]
+독일군이 크렘린이 보이는 거리까지 접근했다. 모스크바가 파시스트에게 함락되어서는 안 된다!
+
+명령:
+	- 적의 공격을 무디게 하고 모스크바를 향한 진격을 지연시킬 것
+	- 반격을 개시할 것
+[Mission.Success]
+임무 완수.
+[Mission.Failed]
+명령 수행에 실패했다.
+[Submission_1.Objectives]
+적의 공격을 무디게 하라
+[Submission_1.Description]
+적의 공격을 저지하라
+[Submission_1.Success]
+임무 완수. 
+[Submission_2.Failed]
+임무 실패.
+[Submission_2.Success]
+임무 완수.
+[Submission_2.Description]
+귀관은 버텨냈다. 적이 도주하고 있다. 현재 상황을 감안해 귀관을 지원할 전차를 예비대에서 배정한다. 계속 적을 추격해야 한다!
+
+명령:
+	- 적 부대를 역공할 것
+[Submission_2.Objectives]
+적을 역공하라
+[StringTable.Reserv_inf]
+예비 보병이 귀관의 지휘 하에 이관되었다
+[StringTable.Reserv_Tanks]
+예비 전차대가 귀관의 지휘 하에 이관되었다.
+[Submission_1.Failed]
+임무 실패.

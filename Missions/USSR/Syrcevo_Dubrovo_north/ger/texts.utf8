@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Halten Sie den Vorstoß des Feindes in Richtung Dubrowo - Syrtsev auf.
+[Mission.Description]
+Halten Sie das rückwärtige Gebiet zusammen mit einer Batterie Panzerabwehrartillerie und einem Panzerbüchsenzug. Besondere Aufmerksamkeit sollte dem Halten der Stellungen auf der rechten Flanke und in Syrtsev selbst gewidmet werden. 
+[Mission.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Mission.Failed]
+Der Feind hat unsere Verteidigungslinie durchbrochen, unsere Truppen ziehen sich zurück.
+[Submission_1.Objectives]
+Verhindern Sie, dass der Feind die Flugabwehrbatterie im Dorf zerstört. 
+[Submission_1.Success]
+Der Versuch, die rechte Flanke der Verteidigung zu durchbrechen, wurde gestoppt.
+[Submission_1.Failed]
+Die Flugabwehrbatterie wurde zerstört, der Feind rückt auf die rechte Flanke vor.
+[Submission_2.Objectives]
+Halten Sie die Stellungen in der Nähe von Syrtsev um jeden Preis.
+[Submission_2.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Submission_2.Failed]
+Unsere Truppen mussten sich wegen des Angriffs durch den überlegenen Feind zurückziehen.
+[Submission_3.Objectives]
+Weichen Sie mit den Truppen zu Stellungen in Syrtsev aus. Halten Sie den Feind davon ab, das Dorf einzunehmen.
+[Submission_3.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Submission_3.Failed]
+Syrtsev wurde vom Feind besetzt, unsere Truppen mussten sich zurückziehen.
+[StringTable.SPG_InCome]
+Sturmgeschütze des 1440. Panzerartillerieregiments stehen jetzt unter Ihrem Kommando.
+[StringTable.Inf_InCome]
+Eine Infanterieeinheit des 272. Garderegiments steht jetzt unter Ihrem Kommando. 
+[StringTable.Tanks_InCome]
+Eine Panzergruppe der 1. Mechanisierten Brigade steht jetzt unter Ihrem Kommando. 
+[StringTable.ChangeArmy]
+Die benachbarte Einheit wurde unter Ihr Kommando gestellt.
+
+[StringTable.SPG]
+Sturmgeschütze des 1440. Panzerartillerieregiments
+[StringTable.TANKS]
+Panzer der 1. Mechanisierten Brigade
+[StringTable.INFANTRY]
+Infanterie des 272. Gardeinfanterieregiments
+[StringTable.Infantry_InCome]
+Eine Infanterieeinheit des 272. Garderegiments steht jetzt unter Ihrem Kommando.
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

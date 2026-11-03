@@ -1,0 +1,29 @@
+﻿[Mission.Objectives]
+Locate and destroy the enemy AA battery.
+[Mission.Description]
+Division commander has ordered the dispatching of sabotage reconnaissance groups with the task of destroying air defense command posts and taking out as many AA guns as possible. Unteroffizier Steiner will gather and lead a group of high-skilled soldiers to carry out the mission.
+[Submission_1.Objectives]
+Steiner's group is to infiltrate the enemy AA battery positions and take it out. There is a transmitter in one of the village houses. Use it to call for air support.
+[StringTable.radio_avia]
+The enemy radio set is located. Aircraft support is now under your control.
+[StringTable.radio_mortar]
+The enemy radio set is located. Mortar fire is at your disposal.
+[Submission_1.Success]
+Steiner's group reports: the AA battery has been destroyed. 
+[Submission_1.Failed]
+Steiner's group has been killed. The division commander's orders were not carried out.
+[Mission.Success]
+The sabotage reconnaissance group has completed its mission. Awaiting ground attack aircraft support.
+[Mission.Failed]
+The sabotage reconnaissance group has been killed. Strong enemy air defense prevents us from using aircraft.
+[StringTable.Radio_avia_dis]
+Communication with the base is lost. It is impossible to call for aircraft support.
+[StringTable.Radio_mortar_dis]
+Communication is lost. It is impossible to fire without fire adjustment.
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

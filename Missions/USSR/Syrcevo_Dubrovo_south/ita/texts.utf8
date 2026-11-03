@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Tenere le posizioni difensive sulla linea Dubrova-Solonec. Impedire ai carri nemici di sfondare fino a Syrcev.
+[Mission.Description]
+Insieme a una batteria di artiglieria anticarro, a un'unità di fucili anticarro e ai carri armati, tenere l'area difensiva. Priorità assoluta va data al mantenimento delle posizioni nel villaggio. Usare i carri per le imboscate.
+[Mission.Success]
+Missione compiuta, gli attacchi nemici sono stati respinti.
+[Mission.Failed]
+Le nostre forze si ritirano sotto i colpi di un nemico superiore.
+[Submission1.Objectives]
+Respingere l'attacco nemico con imboscate di carri.
+[Submission1.Success]
+I carri armati nemici sono stati distrutti.
+[Submission1.Failed]
+I nostri carri sono stati distrutti, il nemico incalza l'avanzata.
+[Submission2.Objectives]
+Prepararsi a respingere il prossimo attacco. I carri ripiegano sulle posizioni di tiro di riserva! 
+[Submission2.Success]
+Missione compiuta. Tutti gli attacchi nemici sono stati respinti.
+[Submission2.Failed]
+I nostri carri sono stati distrutti, il nemico incalza l'avanzata.
+[Submission3.Objectives]
+Contrattaccare il nemico. Ripristinare la prima linea! Impedire a carri e fanteria motorizzata nemici di sfondare fino alle nostre retrovie.
+[Submission3.Success]
+Missione compiuta, la prima linea è stata ripristinata.
+[Submission3.Failed]
+Contrattacco respinto, il nemico incalza l'avanzata.
+[StringTable.Tanks!]
+Carri armati! Fate fuoco a distanza più ravvicinata possibile sui loro fianchi e sul retro!
+[StringTable.Air!]
+Attacco aereo! Mettetevi al riparo!
+
+[StringTable.Tank]
+Carri armati della 3a Brigata motorizzata
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

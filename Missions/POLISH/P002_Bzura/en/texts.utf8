@@ -1,0 +1,47 @@
+﻿[Mission.Objectives]
+Destroy the German artillery battery on the heights. Repulse all attacks from the enemy.
+[Mission.Description]
+Germans have positioned an artillery battery on the heights ahead in order to cover the roads leading into Warsaw. They seek to prevent our forces from reinforcing the capital. The German command did not expect a strike against the flank of the advancing 8th Army, so we now have a chance to strike them a critical blow.    
+
+Your orders are: 
+-	Destroy the German artillery battery 
+-	Defend against all enemy attacks 
+[Mission.Success]
+Mission accomplished!
+[Mission.Failed]
+You have failed!
+[Submission_1.Objectives]
+Destroy the German artillery battery.
+[Submission_1.Description]
+A German gun battery is positioned on the heights. Fire from the battery prevents our troops from advancing further. 
+
+Orders:	
+-	Destroy the enemy gun battery and occupy the heights.
+[Submission_1.Success]
+Task completed.
+[Submission_1.Failed]
+You have failed in your task!
+[Submission_2.Objectives]
+German tanks and infantry have been spotted. Attack them at once!
+[Submission_2.Description]
+Our scouts have spotted German tanks accompanied by infantry. To continue our advance it is important to eliminate them. 
+
+Orders:
+-	Stop this new enemy advance, take up defensive positions and eliminate the enemy.
+[Submission_2.Success]
+The attack has been repelled.
+[Submission_2.Failed]
+You have failed in your task.
+[Submission_3.Objectives]
+Take up defensive positions on the heights and repulse the German counterattacks.
+[Submission_3.Description]
+The German artillery battery has been neutralized, but the enemy is already preparing to counterattack to retake their lost positions.
+
+Your orders:
+-	Take up defensive positions on the heights and repulse all counterattacks by the enemy.
+[Submission_3.Success]
+The enemy counterattack has failed. Well done!
+[Submission_3.Failed]
+We have sustained heavy looses. We are defeated!
+[StringTable.reserv]
+Reinforcements have entered the battle!

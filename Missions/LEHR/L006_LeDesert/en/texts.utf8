@@ -1,0 +1,22 @@
+﻿[Mission.Objectives]
+Destroy the enemy defenses in the area specified.
+[Mission.Description]
+Ahead of our positions the Americans have established a fortified position centered around a small town. According to our scouts, roughly a company of infantry are in position supported by 57mm AT guns as well as 105mm Howitzers.
+ 
+Your orders:
+- Using the forces a under your command, attack the enemy positions and drive them off.
+[Mission.Success]
+Well done Commander! The enemy defense is broken.
+[Mission.Failed]
+Mission failed! Your command has been defeated.
+[Submission_1.Objectives]
+Capture the village.
+[Submission_1.Description]
+Flank the main enemy defensive position in order to secure the town.
+ 
+Your orders:
+- Capture the village. 
+[Submission_1.Success]
+Well done commander! The village has been captured.
+[Submission_1.Failed]
+Mission failed! Your  troops are eliminated.

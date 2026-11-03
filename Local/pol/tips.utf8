@@ -1,0 +1,84 @@
+﻿[TIP_DESC.1]
+Po wczytaniu misji rozpocznie się faza rozmieszczenia. Pozwala ona ustawić jednostki w strefie rozmieszczenia, wydać pierwsze rozkazy i w razie potrzeby przygotować niektóre umocnienia. Dzięki temu możesz zorganizować optymalną obronę lub przygotować atak, zanim rozpocznie się bitwa.
+
+[TIP_DESC.2]
+Wydając rozkazy, możesz ustawić jednostki zwrócone w różne strony i zmienić gęstość ich szyku. W tym celu po kliknięciu ikony rozkazu przytrzymaj prawy przycisk myszy i poruszaj myszą, a następnie wybierz żądane ustawienie jednostek oraz odstępy między nimi.
+
+[TIP_DESC.3]
+Załogi pojazdów zazwyczaj nie mogą używać przyrządów optycznych w czasie jazdy ani podczas obracania wieży.
+
+[TIP_DESC.4]
+Po udanej bitwie możesz zwiększyć umiejętności Strzelectwo, Zwiad, Prowadzenie pojazdów i Artyleria u żołnierzy, którzy wyróżnili się w walce. Odpowiednimi przyciskami możesz rozdzielić doświadczenie automatycznie między wszystkich żołnierzy albo przydzielić punkty wybranemu żołnierzowi. Odznaczenia i awanse wpływają na umiejętność Dowodzenie. Inteligencja żołnierza nie zmienia się - wpływa ona na tempo zdobywania doświadczenia.
+
+[TIP_DESC.5]
+Strzelanie i ruch ujawniają jednostki. Piechota jest lepiej zamaskowana w okopach, w budynkach i leżąc w trawie. Im wyższa umiejętność Zwiad, tym trudniej wykryć żołnierza i tym lepiej wykrywa on oddziały wroga.
+
+[TIP_DESC.6]
+Wydając rozkaz „Ostrzał obszaru” {hkey:groundattack}, możesz wskazać obszar zamiast pojedynczego punktu. W tym celu poruszaj myszą, przytrzymując prawy przycisk myszy. Możesz też ustawić konkretny punkt celowania na dowolnym obiekcie (wyświetli się żółty, nieruchomy znacznik), a w trybie „Atak” {hkey:attack} znacznik będzie czerwony i pozostanie na obiekcie, gdy ten się porusza.
+
+[TIP_DESC.7]
+Tryb wstrzymania ognia dla zaznaczonych jednostek możesz szybko przełączyć klawiszem {hkey:firemode}. Ograniczenie ruchu przełącza się klawiszem {hkey:actionmode}.
+
+[TIP_DESC.8]
+Aby podnieść broń poległego żołnierza, podejdź do jego ciała, kliknij ikonę pistoletu u góry głównego paska informacji {hkey:inventory} i wybierz przedmioty, które chcesz podnieść lub upuścić. Żołnierze automatycznie podnoszą też lepszą broń i amunicję.
+
+[TIP_DESC.9]
+Przyrządy optyczne pojazdów mogą zostać uszkodzone. Stan przyrządów optycznych swoich pojazdów sprawdzisz w podpowiedzi po najechaniu kursorem na członka załogi.
+
+[TIP_DESC.10]
+W trybie zasadzki {hkey:ambush} Twoje jednostki, z wyjątkiem piechoty, nie otworzą ognia do celu oddalonego o więcej niż 500 metrów. Piechota spróbuje znaleźć osłonę w promieniu 5 metrów od siebie i nie otworzy ognia do celów oddalonych o więcej niż 100 metrów.
+
+[TIP_DESC.11]
+Gdy w trybie „Obrona” dozwolony jest swobodny ruch, piechota może szukać najbliższych osłon w promieniu 5 metrów oraz zmieniać postawę strzelecką na dogodniejszą.
+
+[TIP_DESC.12]
+Piechota potrafi rozminować pole minowe w promieniu 2 metrów od siebie. Saperzy mogą zakładać miny, a ich szansa na wykrycie i bezpieczne rozbrojenie miny jest znacznie wyższa niż u zwykłej piechoty. Miny mogą też wybuchnąć od eksplozji pocisków w pobliżu.
+
+[TIP_DESC.13]
+Fala uderzeniowa wybuchu pocisku słabnie na przeszkodach znajdujących się na jej drodze. Każda przeszkoda (płyta pancerna działa, okop, mur itp.) zmniejsza obrażenia o połowę.
+Pole odłamków rozchodzi się nierównomiernie względem wektora upadku pocisku. Obrażenia od odłamków blokują także przeszkody oraz żołnierz stojący na ich drodze.
+
+[TIP_DESC.14]
+Możesz zabronić jednostce używania dowolnej broni lub amunicji, klikając PPM odpowiednią ikonę w interfejsie uzbrojenia. LPM wymusza użycie konkretnej broni lub amunicji. W takim wypadku rozkaz „Obrót” {hkey:defend} dotyczy nie całej jednostki, lecz tylko tej broni.
+
+[TIP_DESC.15]
+Pojazdy z wyrzutniami granatów dymnych mogą natychmiast wystrzelić granat dymny po kliknięciu PPM przycisku „Zasłona dymna” {hkey:smokecloudfast}, o ile zajęte jest stanowisko dowódcy.
+
+[TIP_DESC.16]
+Umiejętność działonowego nie wpływa na celność karabinów maszynowych, także kadłubowych, ale wpływa na celność karabinu sprzężonego.
+
+[TIP_DESC.17]
+Czołgiści potrafią naprawiać uszkodzone gąsienice i koła pojazdów.
+
+[TIP_DESC.18]
+Czołgi mogą holować nieruchome działa i przewozić żołnierzy.
+
+[TIP_DESC.19]
+Na prędkość pojazdu wpływają jego masa, masa holowanego ładunku, moc silnika, parametry skrzyni biegów, nachylenie terenu i rodzaj nawierzchni. Zaplanuj optymalną trasę, biorąc pod uwagę wzniesienia i rodzaje podłoża.
+
+[TIP_DESC.20]
+Piechota w okopie nie zginie, gdy przejedzie nad nią czołg.
+
+[TIP_DESC.21]
+Korony powalonych drzew pomogą zamaskować Twój pojazd.
+
+[TIP_DESC.22]
+Wybierając stanowisko ogniowe, weź pod uwagę nachylenie terenu - w przeciwnym razie jednostka nie będzie mogła wycelować działa w cel. Linia widzenia i linia ognia zazwyczaj się nie pokrywają, dlatego jednostka nie zawsze może strzelać nawet do obserwowanego celu.
+
+[TIP_DESC.23]
+Wiele jednostek potrafi prowadzić ogień pośredni w trybie „Ostrzał obszaru” {hkey:groundattack}. Użyj go, aby zneutralizować przypuszczalną pozycję wroga.
+
+[TIP_DESC.24]
+W razie potrzeby użyj rozkazu „Odwrót” {hkey:retreat}, aby wycofać czołg z walki bez odsłaniania słabo opancerzonych boków i tyłu.
+
+[TIP_DESC.25]
+Z każdym strzałem do nieruchomego celu jednostka stopniowo się przestrzeliwuje, a rozrzut trafień maleje. Zmiana celu lub pozycji jednostki zeruje to przestrzelanie.
+
+[TIP_DESC.26]
+Jeden żołnierz może obrócić ciężki karabin maszynowy lub moździerz, ale do jego przesunięcia potrzeba dwóch. Większe działa może obracać i przesuwać co najmniej dwóch żołnierzy.
+
+[TIP_DESC.27]
+Aby zmienić pole widzenia kamery (zoom), użyj CTRL + kółko myszy. Aby przyspieszyć ruch kamery, przytrzymaj SHIFT. Lornetkę włączysz klawiszem {hkey:binocularview}. Aby szybko przełączyć tryb kamery ze swobodnego na wyśrodkowany, naciśnij {hkey:cameratypeswitch}. Kamerę możesz przypiąć do jednostki klawiszem {hkey:bindcamera} lub {hkey:linkcamera}.
+
+[TIP_DESC.28]
+Po włączeniu „Trybu info o obrażeniach” {hkey:SwitchDamageMessagesMode} na pojazdach będą wyświetlane wektory trafień, przebić, rykoszetów i niewypałów pocisków. Na łatwym i średnim poziomie trudności przy uszkodzonych jednostkach wroga pojawiają się krótkie komunikaty.

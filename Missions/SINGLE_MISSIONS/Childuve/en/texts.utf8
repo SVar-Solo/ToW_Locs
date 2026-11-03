@@ -1,0 +1,17 @@
+﻿[Mission.Description]
+On August 11, 1944, at 3.00, the vanguard of the 95th Guards Rifle Division (95th Guards sd), which occupied the Khmelnyk-Szydlov highway in the Skadla-Rachice area, was attacked by a large group of enemy tanks and motorized infantry. During the battle, the detachment suffered heavy losses and was pushed back in the south-east direction. The enemy continues to advance in the direction of Szydlov. An order was received: "By the forces of 1076 IPTAP, move to the threatened direction, and repel the attacks of enemy tanks."
+[StringTable.1]
+Combat order: To take up defense on the approaches to the city of Szydlov, to repel the attacks of tanks and motorized infantry.
+[StringTable.2]
+The 2nd battery approached the battlefield.
+[StringTable.3]
+The batteries suffered heavy losses. The surviving fighters should withdraw to the Szydlov area.
+[StringTable.4]
+The order was fulfilled, the attacks of enemy tanks were repulsed.
+
+
+
+[Mission.Objectives]
+Hold positions
+[Mission.Success]
+[Mission.Failed]

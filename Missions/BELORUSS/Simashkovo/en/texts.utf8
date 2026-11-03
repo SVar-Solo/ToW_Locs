@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Liberate Simashkovo; repel enemy counter-attacks; liberate Shnitki; secure the road to the Krinki station.
+[Mission.Description]
+Liberate Simashkovo; repel enemy counter-attacks; liberate Shnitki; secure the road to the Krinki station; and prevent the enemy from redeploying reinforcements along this road.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[StringTable.Subtitle_01]
+June 23, 1944, Belorussia, to the west of Vysochany.
+[Submission1.Objectives]
+Liberate Simashkovo.
+[Submission1.Description]
+Liberate Simashkovo from the German occupants and establish defensive positions. The confirmed recon data indicates presence of enemy armoured groups to the west and south of Simashkovo. 
+[Submission1.Success]
+Simashkovo liberated.
+[Submission1.Failed]
+Task failed.
+[Submission2.Objectives]
+Repel enemy counter-attacks.
+[Submission2.Description]
+The confirmed recon data indicates presence of enemy armoured groups to the west and south of Simashkovo. With this force, the enemy will try to recapture Simashkovo. You must hold Simashkovo and repel all enemy counter-attacks.
+[Submission2.Success]
+Task accomplished. Enemy counter-attack repelled.
+[Submission2.Failed]
+Task failed.
+[Submission3.Objectives]
+Cut the road to the Krinki station.
+[Submission3.Description]
+Liberate Shnitki, advance to the west and secure the road to the Krinki station and village. Follow this road to the north, eliminating all spotted enemy troops.
+[Submission3.Success]
+Task accomplished.
+[Submission3.Failed]
+Task failed.

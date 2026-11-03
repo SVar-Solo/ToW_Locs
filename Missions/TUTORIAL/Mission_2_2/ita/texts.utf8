@@ -1,0 +1,35 @@
+﻿[StringTable.1]
+Respingete l'attacco nemico.
+Tattiche nemiche:
+I carri armati pesanti aggirano le posizioni e raggiungono le retrovie per distruggere la vostra artiglieria. La fanteria attacca le trincee. I carri armati leggeri coprono l'avanzata della fanteria.
+Le vostre tattiche: i vostri soldati devono mantenere la posizione. Usate i pezzi e i soldati con fucili anticarro PTRD per immobilizzare e poi distruggere i carri armati pesanti nemici, quindi distruggete quelli leggeri. Usate la fanteria per distruggere la fanteria nemica che avanza sulle posizioni.
+
+[StringTable.2]
+Respingete l'attacco nemico.
+Tattiche nemiche:
+La fanteria attacca le trincee, poi i carri armati passano all'attacco, coprendo la fanteria con il fuoco.
+Le vostre tattiche:
+Selezionate il tipo di proiettile HE per i pezzi e, insieme alla fanteria, distruggete la fanteria nemica in avanzata. Non appena i carri armati nemici vanno all'attacco, distruggeteli con il tiro mirato dei pezzi.
+
+[Submission1.Objectives]
+Mantenete la difesa e respingete gli attacchi nemici.
+
+[Submission1.Description]
+Le truppe tedesche avanzano in questo settore del fronte con l'obiettivo di distruggere le posizioni difensive del nostro esercito. Lo Stavka ritiene necessario fermare l'avanzata delle truppe nemiche in quest'area.
+
+Ordini ricevuti:
+- mantenere la difesa nell'area indicata;
+- respingere gli attacchi tedeschi.
+
+[Submission1.Success]
+Ordini del comando eseguiti! L'avanzata nemica in questo settore del fronte è stata fermata! Sei degno del grado di ufficiale russo!
+
+[Submission1.Failed]
+Ordini non eseguiti! Il nemico ha sfondato la difesa in questo settore del fronte!
+
+[StringTable.Win]
+Compito completato!
+
+[StringTable.Disp]
+Modalità di schieramento:
+Nell'area evidenziata potete spostare le vostre truppe (fanteria, artiglieria, carri armati, mitragliatrici, ecc.), sia singolarmente sia in gruppo. Per orientarle nella direzione desiderata senza cambiare posizione, selezionate le truppe e fate clic con il tasto destro nella direzione voluta. Dopo aver schierato le truppe, verificate visivamente le loro linee di tiro avvicinando la camera al suolo.

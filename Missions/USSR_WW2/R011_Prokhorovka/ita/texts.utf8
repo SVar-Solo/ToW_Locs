@@ -1,0 +1,36 @@
+﻿[Mission1.Objectives]
+Respingi l'attacco tedesco alla stazione di Prokhorovka.
+[Mission1.Description]
+Le truppe tedesche hanno lanciato un attacco in questa parte del fronte, cercando di superare le linee e raggiungere la stazione di Prokhorovka. Se la stazione cadrà, attaccheranno a nord verso Oboyan per circondare le unità sul fronte di Voronezh.
+
+I tuoi ordini sono:
+- 	Respingi l'attacco tedesco alla stazione di Prokhorovka.
+- 	Impedisci ai tedeschi di aprirsi la strada in questo settore.
+[Mission1.Success]
+L'attacco nemico è stato respinto!
+[Mission1.Failed]
+Il nemico è riuscito a superare le nostre difese.
+[Mission2.Objectives]
+Usa le tue unità corazzate per distruggere i carri nemici.
+[Mission2. Description]
+Il nemico è esausto e adesso la situazione è in nostro favore. Comunque delle unità corazzate nemiche si stanno muovendo verso Prokhorovka. Elementi della nostra Quinta Armata della Guardia ti appoggeranno.
+
+I tuoi ordini sono:
+- 	Usa tutte le forze disponibili per fermare le unità nemiche che minacciano la stazione di Prokhorovka.
+[Mission2.Success]
+Il nemico è stato messo in fuga. Ottimo lavoro, comandante!
+[Mission2.Failed]
+Le tue truppe sono state distrutte e i fascisti possono proseguire l'avanzata.
+[Submission1.Objectives]
+Tieni le posizioni alla stazione di Prokhorovka.
+[Submission1.Description]
+I carri armati tedeschi hanno raggiunto Prokhorovka e si stanno preparando per attaccare duramente le nostre posizioni difensive in questo settore. I rapporti dicono che i fascisti hanno ammassato molte forze e quindi ci aspettiamo uno scontro impegnativo. Oggi, però, dobbiamo vincere e distruggere i tedeschi.
+
+I tuoi ordini sono:
+ - 	Usa tutte le forze disponibili per fermare le unità nemiche che minacciano la stazione di Prokhorovka.
+[Submission1.Success]
+La battaglia è stata molto dura, ma sei risultato il vincitore. Grazie ai tuoi sforzi, adesso possiamo lanciare una contro-offensiva.
+[Submission1.Failed]
+Le truppe tedesche sono passate e stanno circondando le nostre forze! La battaglia di Kursk è stata un disastro per l'Armata Rossa.
+[StringTable.Reserv]
+Ti sono stati assegnati dei rinforzi.

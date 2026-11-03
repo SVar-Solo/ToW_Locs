@@ -1,0 +1,54 @@
+﻿[Mission.Objectives]
+Американцы уже вот-вот на подходе со стороны точки 2, атакуйте их, не дожидаясь подхода!  Ещё раз напоминаю - сделайте рельеф местности своим могущественным союзником. Удачи!
+[Mission.Success]
+Эвакуация успешно проведена!
+[Mission.Failed]
+Все "Тигры" подбиты или уничтожены, враг прорвался к деревне до завершения эвакуации. Задача провалена!
+
+[Mission.Description]
+[StringTable.FirstWaveDefeated]
+Первая атака противника захлебнулась, но вводит в бой свои резервы со стороны точки 3. Держитесь!
+[StringTable.IntroSubtitle1]
+Майор Герхард в "Кубельвагене" к командирам "Тигров":
+[StringTable.IntroSubtitle2]
+Господа, противник очень силён, но...
+[StringTable.IntroSubtitle3]
+ещё раз позволю Вам напомнить, что ...
+[StringTable.IntroSubtitle4]
+"Тигр" практически неуязвим на дальней дистанции.
+[StringTable.IntroSubtitle5]
+Местность позволяет вести огонь издалека, ...
+[StringTable.IntroSubtitle6]
+это должно стать козырем в нашей игре.
+[StringTable.InfoSubtitle7]
+Удачи господа офицеры! Вперёд! Gott mit uns!
+[StringTable.InfoSubtitle8]
+Командиры "Тигров": Zu Befehl!
+[StringTable.IntroSubtitle7]
+Удачи господа офицеры! Вперёд! Gott mit uns!
+[StringTable.IntroSubtitle8]
+Командиры "Тигров": Zu Befehl!
+[StringTable.SubtitleWin1]
+Майор Герхард: ...им это удалось! Но я и не ждал ничего иного.
+[StringTable.SubtitleWin2]
+Господа, поздравляю Вас с победой!
+[StringTable.SubtitleWin3]
+Однако не могу Вас порадовать трижды заслуженным отдыхом
+[StringTable.SubtitleWin4]
+Пока наше внимание было направлено...
+[StringTable.SubtitleWin5]
+на американцев, англичане обошли нас с фланга.
+[StringTable.SubtitleWin6]
+Вам надлежит контратаковать их немедленно.
+[StringTable.SubtitleWin7]
+Судьба Рейха вновь в наших руках!
+[StringTable.SubtitleWin8]
+Экипаж "Тигра": Zu Befehl!
+[StringTable.SubtitleFail1]
+Радиоголоса танкистов союзников: Пленных не брать! Kill'em all!
+[StringTable.SubtitleFail2]
+You slauthered my buddy Jimmy! Die, f***ed bastard!
+[StringTable.SubtitleFail3]
+No mercy to bitches' children! Drive over them!
+[StringTable.SubtitleFail4]
+Watch'em burn!

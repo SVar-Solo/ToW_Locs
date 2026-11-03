@@ -1,0 +1,28 @@
+﻿[Mission.Objectives]
+Impida que el enemigo abra brechas en nuestras retaguardias.
+[Mission.Description]
+Ha recibido refuerzos: tanques de la reserva del cuartel general del ejército.  En la zona del frente cercano al pueblo de Iadromino, una compañía de la División de Fusileros realiza acciones defensivas. Esta compañía debería contar con algún recurso antitanque y usted también debería tener a su disposición un cañón antitanque de 45 mm como mínimo.
+
+Sus órdenes son:
+- Impida que el enemigo abra brechas en las retaguardias.
+[Mission.Success]
+¡Ha cumplido la orden!
+[Mission.Failed]
+Ha fracasado en el cumplimiento de la orden.
+[Submission_1.Objectives]
+Detenga a todo tanque enemigo.
+[Submission_1.Description]
+Posicione sus efectivos para contraatacar rápidamente y aprovechar cualquier punto débil enemigo. No olvide proporcionar un apoyo de artillería adecuado a cualquier ataque de infantería.
+
+Sus órdenes son:
+- Destruya los tanques enemigos que se acercan.
+[Submission_1.Success]
+¡Se ha cumplido la orden del Estado Mayor! Los tanques enemigos han sido destruidos.
+[Submission_1.Failed]
+¡Ha fracasado en el cumplimiento de las órdenes del Estado Mayor! Han derrotado a sus tropas.
+[StringTable.Change_Infantry]
+El oficial de la compañía de fusileros ha caído. Hágase cargo de esta compañía. 
+[StringTable.Change_Artillery]
+Han herido mortalmente al oficial de la batería de artillería. Estos efectivos pasan ahora a estar bajo mando directo de usted.
+[StringTable.Change_ALL]
+La situación actual reclama una coordinación mejor y más directa. Para cumplir esta tarea, se le ha nombrado comandante de toda la formación. Ahora tiene a su mando toda la compañía fusilera y la batería de artillería.

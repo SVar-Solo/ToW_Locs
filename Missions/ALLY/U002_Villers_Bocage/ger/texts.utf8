@@ -1,0 +1,23 @@
+﻿[Mission1.Objectives]
+Begleiten Sie den gepanzerten Konvoi bis zum markierten Bereich.
+[Mission1.Description]
+Alliierte Truppen vergrössern ständig ihre Brückenköpfe in der Normandie. Im Moment ist die Sicherung von Caen am wichtigsten, denn sobald es sich in unserer Hand befinden, kann unser Vormarsch weitergehen.
+
+Ein Konvoi englischer gepanzerter Einheiten (die berühmten Wüstenratten) rückt entlang einer grossen Strasse auf die Stadt Caen vor. Das Oberkommando will, dass wir mit der englischen 7. Panzerdivision die deutschen Stellungen in dieser Gegend in einer Zangenbewegung einkreisen. 
+[Mission1.Success]
+Sie haben Ihre Aufgabe erfüllt und wir werden wohl schon bald Caen einnehmen können. Die Deutschen werden uns nicht ins Meer zurückwerfen können!
+[Mission1.Failed]
+Sie haben Ihre Aufgabe nicht erfüllt, und die Deutschen haben Sie geschlagen. Wenn man berücksichtigt wie viele Einheiten Ihnen zur Verfügung standen ist es wirklich unglaublich, dass Sie geschlagen wurden!     
+[Mission2.Objectives]
+Zerstören Sie die feindlichen Panzer.
+[Mission2.Description]
+Unterwegs in Richtung Caen geriet der Panzerkonvoi des englischen Regiments in einen Hinterhalt der 2. Kompanie der (schweren) SS-Panzer Abteilung 101 unter Befehl von Michael Wittmann. Einige der Panzer des Konvois wurden beschädigt. Die Deutschen bereiten sich jetzt darauf vor einen Schlag gegen Villers-Bocage durchzuführen.  
+
+Ihre Befehle: 
+-	Zerstören Sie die feindlichen Panzer.
+[Mission2.Success]
+Befehl ausgeführt! Die feindlichen Panzer wurden zerstört und die Strasse nach Caen ist frei!
+[Mission2.Failed]
+Ihre Truppen wurden geschlagen! Sie haben die Schlacht verloren!
+[StringTable.Reserv]
+Verstärkungen sind eingetroffen, um Sie zu unterstützen.

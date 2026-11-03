@@ -1,0 +1,456 @@
+﻿[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Conquistare il ponte, spingersi in profondità nel territorio nemico e attaccare la base militare segnata sulla mappa.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Il nemico ha conquistato il ponte.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Il ponte è una parte fondamentale del corridoio di trasporto e il punto tattico chiave dell'area. Dovete respingere l'attacco nemico. Non lasciate che conquistino il ponte.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Respingete l'attacco nemico. Non lasciate che il ponte cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Conquistare il ponte, spingersi in profondità nel territorio nemico e attaccare la base militare segnata sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è a vostra disposizione.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Supporto aereo disponibile.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è a vostra disposizione.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati è a vostra disposizione.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati di riserva è disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati di riserva è disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati è a vostra disposizione.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Conquistare il ponte, spingersi in profondità nel territorio nemico e attaccare la base militare segnata sulla mappa.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Il nemico ha conquistato il ponte.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+Il ponte è una parte fondamentale del corridoio di trasporto e il punto tattico chiave dell'area. Dovete respingere l'attacco nemico. Non lasciate che conquistino il ponte.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Respingete l'attacco nemico. Non lasciate che il ponte cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Conquistare il ponte, spingersi in profondità nel territorio nemico e attaccare la base militare segnata sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Infantry_support]
+La squadra di fanteria è ai vostri ordini.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_support]
+Il gruppo corazzato di riserva è a vostra disposizione.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Supporto aereo disponibile.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Il supporto di mortai è a vostra disposizione.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati è a vostra disposizione.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati di riserva è disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati di riserva è disponibile.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Tanks_infantry_support]
+La squadra di fanteria e mezzi corazzati è a vostra disposizione.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[Reinforcement.Group_reinforcement_tanks]
+Carri armati
+
+[Reinforcement.Group_reinforcement_inf]
+Fanteria
+
+[Reinforcement.Group1[Reinforcement]]
+Carri armati e fanteria
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Conquistare il ponte e la testa di ponte. Respingere tutti i contrattacchi nemici.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze. Tenetevi pronti a respingere eventuali contrattacchi nemici.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Conquistare il ponte e la testa di ponte. Respingere tutti i contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze. Tenetevi pronti a respingere eventuali contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Objectives]
+Respingete l'attacco nemico. Non lasciate che il ponte cada in mano nemica.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Description]
+Il ponte è una parte fondamentale del corridoio di trasporto e il punto tattico chiave dell'area. Dovete respingere l'attacco nemico. Non lasciate che conquistino il ponte.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.ATTACK.attack_usa.defend_prk.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.STORM.attack_usa.assault_prk.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_prk.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.STORM.attack_usa.assault_prk.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.DEFEND.defend_usa.attack_prk.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.AI_STORM.assault_usa.attack_prk.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.SIEGE.defend_usa.attack_prk.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Objectives]
+Conquistare il ponte e la testa di ponte. Respingere tutti i contrattacchi nemici.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze. Tenetevi pronti a respingere eventuali contrattacchi nemici.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Success]
+Missione compiuta
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Objectives]
+Conquistare il ponte e la testa di ponte. Respingere tutti i contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Description]
+Dovete attraversare il fiume per continuare l'attacco. Distruggete le pesanti difese nemiche vicino al ponte e al vicino centro abitato e conquistate il ponte. Poi avanzate in profondità nel territorio nemico e travolgete la base militare nemica, dove potrete consolidare le vostre forze. Tenetevi pronti a respingere eventuali contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Success]
+Missione compiuta
+
+[BriefingSubmissions.STORM.attack_usa.assault_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Objectives]
+Respingete l'attacco nemico. Non lasciate che il ponte cada in mano nemica.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Description]
+Il ponte è una parte fondamentale del corridoio di trasporto e il punto tattico chiave dell'area. Dovete respingere l'attacco nemico. Non lasciate che conquistino il ponte.
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Success]
+Missione compiuta
+
+[BriefingSubmissions.AI_STORM.assault_usa.attack_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Success]
+Missione compiuta
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Objectives]
+Respingete tutti gli attacchi nemici. Mantenete il ponte e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Description]
+Il nemico sta facendo di tutto per conquistare il ponte e attraversare il fiume. Dovete mantenere il ponte a tutti i costi e non lasciate che cada in mano nemica.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Success]
+Missione compiuta
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_rus.Mission.Failed]
+Missione fallita.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.ATTACK.attack_usa.defend_rus.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.STORM.attack_usa.assault_rus.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_usa.assault_rus.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.STORM.attack_usa.assault_rus.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.DEFEND.defend_usa.attack_rus.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.AI_STORM.assault_usa.attack_rus.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.MORTAR_SUPPORT]
+La batteria di mortai è pronta al combattimento.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.SIEGE.defend_usa.attack_rus.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+

@@ -1,0 +1,24 @@
+﻿[Submission1.Objectives]
+Distruggi l'artiglieria nemica.
+[Submission1.Description]
+Le unità di artiglieria nemica sono una minaccia per le nostre truppe, che sono pronte per la nuova offensiva. Usa le tue truppe corazzate per attaccare le posizioni dell'artiglieria nemica.
+
+I tuoi ordini sono:
+-	Distruggi l'artiglieria nemica.
+[Submission1.Success]
+L'artiglieria è stata distrutta!
+[Submission1.Failed]
+L'artiglieria del nemico è ancora attiva e continua a minacciare le nostre truppe.
+[Mission1.Objectives]
+Distruggi le difese nemiche.
+[Mission1.Description]
+Le divisioni Alleate in ritirata si sono ammassate nell'area di Gravlin, Arras e Brugge. Il Gruppo d'Armata "A" e il Gruppo d'Armata "B" le hanno attaccate da est e da sud-est. Le truppe inglesi hanno iniziato l'evacuazione dall'area di Dinkirk per tornare in Inghilterra. Le unità francesi stanno proteggendo la ritirata inglese, prendendo posizione nella periferia di Dunkirk. Non dobbiamo permettere alle unità nemiche di fuggire e di attraversare il mare. Attaccale e distruggile immediatamente!
+
+I tuoi ordini sono:
+-	Usa le forze che hai a disposizione per eliminare le posizioni difensive nella periferia della cittadina.
+[Mission1.Success]
+Congratulazioni! Hai mostrato la nostra superiorità sui francesi! Grazie alla tua vittoria, potremmo ancora raggiungere le unità inglesi prima che riescano a evacuare.
+[Mission1.Failed]
+Purtroppo hai perso! I francesi sono riusciti a difendere la loro linea del fronte e gli inglesi hanno avuto un giorno in più a disposizione per evacuare le proprie forze. 
+[StringTable.Reserv]
+I rinforzi sono arrivati in tuo aiuto.

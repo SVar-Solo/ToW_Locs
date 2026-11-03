@@ -1,0 +1,121 @@
+﻿[StringTable.1]
+Sterowanie kamerą:
+Użyj {hkey:cameramoveforward}, {hkey:cameramovebackward}, {hkey:cameramoveleft}, {hkey:cameramoveright}, aby przesuwać kamerę. Obrót włącza się, naciskając kółko myszy. W trybie swobodnym kamera obraca się wokół własnej osi, a obracanie kółkiem myszy zmienia jej wysokość w pionie. W trybie przypiętym do środka kamera obraca się wokół punktu na terenie przed nią, a obracanie kółkiem myszy przesuwa kamerę do przodu lub do tyłu względem tego punktu. Tryb kamery szybko przełączysz za pomocą {hkey:cameratypeswitch}. Przytrzymanie CTRL i obracanie kółkiem myszy zmienia kąt widzenia kamery. Przytrzymanie SHIFT przyspiesza ruch kamery.
+
+[StringTable.1.1]
+Przesuń oddział za osłonę z worków z piaskiem.
+Lewy przycisk myszy służy do zaznaczania jednostek i wybierania poleceń na panelu sterowania, a prawy do wydawania rozkazów. W zależności od obiektu, na którym klikniesz prawym przyciskiem, jednostki wykonają różne czynności.
+
+[StringTable.1.2]
+Zaznacz cały oddział, przytrzymując lewy przycisk myszy i przesuwając mysz tak, aby wszyscy żołnierze znaleźli się w pojawiającej się ramce, a następnie puść przycisk. Oddział możesz też zaznaczyć, klikając dwukrotnie dowolnego z jego żołnierzy (lub przytrzymując klawisz ALT). Następnie wskaż punkt docelowy ruchu, klikając go prawym przyciskiem myszy.
+Aby przenieść cały oddział za osłonę z worków, musisz wskazać punkt ruchu dla każdego żołnierza osobno albo użyć szyku „swobodnego”.
+[StringTable.2]
+Obsadź stanowisko karabinu maszynowego:
+Zaznacz jednego lub dwóch żołnierzy z oddziału, klikając ich lewym przyciskiem myszy (przytrzymaj SHIFT, aby zaznaczyć więcej niż jednego). Następnie najedź kursorem na ciężki karabin maszynowy (kursor zmieni się, wskazując wsiadanie) i kliknij prawym przyciskiem. Zaznaczeni żołnierze obsadzą ciężki karabin maszynowy i automatycznie zajmą swoje miejsca. 
+[StringTable.3]
+Wyeliminuj wrogi oddział: 
+Gdy Twoi żołnierze zobaczą wrogów, sami zaczną do nich strzelać. Możesz też wydać każdemu żołnierzowi osobny rozkaz ostrzału (najedź kursorem na cel i kliknij prawym przyciskiem). 
+[StringTable.4]
+Użyj snajpera, aby wyeliminować obsługę działa.
+Aby rozkazać snajperowi zaatakować członka obsługi działa, najedź kursorem na jednego z nich i kliknij prawym przyciskiem. Aby nie pomylić celu, sprawdź wyskakujący panel pomocniczy z parametrami żołnierzy i sprzętu znajdujących się pod kursorem. Możesz też użyć poleceń „Atak” {hkey:attack} i „Ostrzał obszarowy” {hkey:groundattack}, celując kursorem w konkretny punkt (na przykład w głowę członka obsługi działa – wyświetli się specjalny znacznik celu).
+Jeśli snajper nie może trafić obsługi działa, spróbuj podejść z drugiej strony.
+[StringTable.5]
+Przejmij działo:
+Zaznacz żołnierzy, następnie najedź kursorem na działo (kursor zmieni się w ikonę „wsiadania”) i kliknij prawym przyciskiem. Twoi żołnierze pobiegną do działa, aby je przejąć. 
+[StringTable.6]
+Zaczep działo do ciężarówki i przewieź je na południowy zachód, w stronę stogu siana.
+Zaznacz pojazd, następnie kliknij przycisk „Zaczep” z ikoną haka w prawym rogu menu gry ({hkey:attachdetach}), najedź kursorem na działo i kliknij prawym przyciskiem. Pojazd podjedzie do działa, a żołnierze zaczepią je do pojazdu.
+Pojazd podjedzie, a żołnierze zaczepią działo do pojazdu. Umieść obsługę działa w samochodzie (wsiadanie żołnierzy przebiega tak samo, jak wcześniejsze obsadzanie ciężkiego karabinu maszynowego).
+Następnie zaznacz pojazd i kliknij prawym przyciskiem docelowy punkt trasy, aby go przemieścić. 
+
+[StringTable.7]
+Zniszcz jeden z wrogich czołgów.
+Gdy Twoi żołnierze zobaczą wrogie czołgi, sami zaczną do nich strzelać z działa. Możesz też wyznaczyć cel ostrzału i wybrać kierunek strzału.
+Możesz przełączać tryb ostrzału na wybrane części czołgu: wieżę {hkey:attackup}, część nieruchomą {hkey:attackmedium} lub gąsienice {hkey:attackdown}.
+[StringTable.8]
+Przejmij czołg.
+Przejmowanie czołgu przebiega podobnie jak umieszczanie żołnierzy w pojeździe.
+Zaznacz oddział, następnie najedź kursorem na czołg (zaświeci się ikona wskazująca interakcję żołnierzy z tym typem sprzętu) i kliknij go prawym przyciskiem. Twoi żołnierze pobiegną obsadzić czołg.
+
+[StringTable.9]
+Zleć uderzenie artylerii na pozycje wroga:
+Ikona wsparcia artylerii pojawia się nad dolnym panelem gry. 
+Kliknij ikonę, a następnie kliknij prawym przyciskiem, aby wskazać wybrany cel. 
+Możesz też wyznaczyć obszar ostrzału, przytrzymując prawy przycisk myszy. 
+[StringTable.10]
+Wezwij wsparcie lotnicze w wyznaczonym rejonie.
+Ikona wsparcia lotniczego pojawi się nad dolnym panelem interfejsu.
+Kliknij ikonę wsparcia lotniczego i wskaż miejsce celu. 
+Są 5 rodzajów lotnictwa:
+- samoloty rozpoznawcze – prowadzą rozpoznanie wokół jednego punktu przez ograniczony czas;
+- bombowce – zrzucają bomby na wskazany punkt i wracają do bazy;
+- myśliwce – patrolują niebo wokół wskazanego punktu, atakują wrogie samoloty, a przed powrotem do bazy atakują cele naziemne;
+- samoloty szturmowe – atakują cele naziemne najbliższe wskazanemu punktowi albo samodzielnie szukają celów;
+- bombowce nurkujące – atakują cele bombami ze stromego lotu nurkowego, a następnie atakują jak zwykłe samoloty szturmowe.
+
+[StringTable.11]
+Użyj przejętego czołgu, aby zniszczyć wrogi pojazd opancerzony i wrogi oddział piechoty.
+Za pomocą przycisku „Tryb ognia” {hkey:firemode} możesz zakazać lub zezwolić czołgowi na strzelanie bez rozkazu.
+
+[StringTable.Pause]
+Aby wznowić grę po pauzie, naciśnij klawisz „{hkey:pause}”.
+
+[StringTable.Pos]
+Poruszasz się w złym kierunku.
+
+[Submission.Objectives]
+Ukończ szkolenie podstawowe!
+[Submission.Description]
+Żołnierzu! Wstąpiłeś w szeregi Armii Czerwonej! Zanim wyruszysz na front, musisz ukończyć szkolenie podstawowe. Musisz wykonać następujące zadania wyznaczone przez dowódcę:
+
+- Przesuń oddział za osłonę z worków z piaskiem i użyj żołnierzy do przejęcia karabinu maszynowego.
+- Użyj zespołu snajperskiego, aby wyeliminować obsługę działa, a następnie przejmij działo. 
+- Zniszcz wrogi czołg.
+- Naucz się używać granatów.
+[Submission.Success]
+Ukończyłeś szkolenie podstawowe!
+[Submission.Failed]
+Niestety nie zdałeś szkolenia podstawowego!
+[StringTable.Fail]
+Nie zdałeś szkolenia podstawowego. Uruchom misję szkoleniową ponownie.
+[StringTable.Sniper]
+Porównaj umiejętności dwóch snajperów. Jeden ma wysokie oceny w ‘Strzelectwie’ i ‘Zwiadzie’, a drugi w obu dyscyplinach ma oceny „niskie”. Im wyższe oceny, tym bardziej doświadczony żołnierz.
+Umiejętność ‘Strzelectwo’ pokazuje, jak celnie żołnierz strzela z broni strzeleckiej. Umiejętność ‘Zwiad’ pokazuje, jak dobrze żołnierz wypatruje wrogów z daleka, a zarazem jak trudno zauważyć go przeciwnikowi. 
+Po każdej ukończonej misji możesz zwiększyć doświadczenie swoich żołnierzy, a tym samym ich umiejętności w trakcie kampanii.  
+[StringTable.Mine]
+Wrogie oddziały wpadły na pole minowe!
+Istnieje kilka rodzajów pól minowych, z minami przeciwpancernymi lub przeciwpiechotnymi.
+[StringTable.Win]
+Zadanie wykonane!
+[StringTable.Car]
+Aby odczepić działo od pojazdu, zaznacz pojazd, do którego jest zaczepione, i naciśnij przycisk „Odczep” {hkey:attachdetach} – działo zostanie odłączone od pojazdu. Następnie wysadź żołnierzy z pojazdu (zaznacz pojazd i naciśnij przycisk „Wysiądź” {hkey:evacuate}). Aby żołnierze obsadzili działo, zaznacz ich i kliknij działo prawym przyciskiem myszy.
+
+[StringTable.33]
+Wrogowi znacznie trudniej trafić żołnierzy leżących. Aby rozkazać żołnierzom położyć się, naciśnij przycisk „Czołganie” {hkey:setbodymodelay}.
+Aby Twoi żołnierze nie poruszali się samodzielnie, zmień tryb zachowania przyciskiem „Ogranicz/zezwól na swobodny ruch” {hkey:actionmode}.
+[StringTable.Pani]
+Załoga wrogiego czołgu wpadła w panikę (niskie morale) i opuszcza wóz!
+
+[StringTable.SM7_GrenadeTraining_HE]
+Użyj granatów ręcznych, aby wyeliminować załogę pojazdu opancerzonego.
+Masz teraz pod swoją kontrolą 2 żołnierzy z ręcznymi granatami przeciwpiechotnymi. Takie granaty nie są w stanie poważnie uszkodzić pojazdów opancerzonych, ale są skuteczne przeciwko odsłoniętym załogom, obsługom dział, piechocie i pojazdom nieopancerzonym.
+Przeszkody osłabiają falę uderzeniową i zatrzymują odłamki, dlatego granat należy rzucić do wnętrza pojazdu. Podprowadź żołnierza bliżej, włącz polecenie „Ostrzał obszarowy” {hkey:groundattack} lub „Atak” {hkey:attack} i kliknij prawym przyciskiem środek pojazdu opancerzonego – wyświetli się żółty lub czerwony znacznik celownika, a Twój żołnierz rzuci granat w ten punkt.
+
+[StringTable.SM7_GrenadeTraining_HE_end]
+Załoga pojazdu opancerzonego została wyeliminowana.
+
+[StringTable.SM7_GrenadeTraining_AT]
+Użyj granatów przeciwpancernych, aby wyeliminować wrogi czołg.
+Masz teraz do dyspozycji 2 żołnierzy z ręcznymi granatami przeciwpancernymi RPG-40. Te granaty detonują przy zderzeniu z przeszkodą i przebijają pancerz falą uderzeniową; ich działanie odłamkowe jest słabe. Taki granat zawiera imponującą ilość materiału wybuchowego, wystarczającą, by uszkodzić dach lub tył wielu czołgów, ale zdecydowanie nie wszystkich.
+Podprowadź żołnierza bliżej czołgu od tyłu, włącz polecenie „Ostrzał obszarowy” {hkey:groundattack} lub „Atak” {hkey:attack} i kliknij prawym przyciskiem obszar za wieżą – to najbardziej wrażliwe miejsce czołgu.
+
+[StringTable.SM7_GrenadeTraining_AT_end]
+Czołg został wyeliminowany.
+
+[StringTable.SM7_GrenadeTraining_HEAT]
+Użyj ręcznych granatów kumulacyjnych, aby wyeliminować wrogi czołg.
+Masz teraz do dyspozycji 2 żołnierzy z ręcznymi granatami kumulacyjnymi RPG-43. Te granaty również detonują przy zderzeniu z przeszkodą, lecz przebijają pancerz strumieniem kumulacyjnym, który ma znacznie większą zdolność przebijania niż granat RPG-40, ale zadaje stosunkowo mniejsze obrażenia.
+Włącz „Tryb informacji o uszkodzeniach” {hkey:SwitchDamageMessagesMode}, aby zobaczyć wektory przebicia i wyskakujące komunikaty o uszkodzeniach wewnętrznych – dotyczy to wszystkich pocisków w grze. Podobnie podprowadź żołnierza bliżej czołgu od tyłu, włącz polecenie „Ostrzał obszarowy” {hkey:groundattack} lub „Atak” {hkey:attack} i kliknij prawym przyciskiem obszar za wieżą – trafienie w silnik lub zbiornik paliwa daje duże szanse na podpalenie czołgu.
+
+[StringTable.SM7_GrenadeTraining_HEAT_end]
+Czołg został wyeliminowany.

@@ -1,0 +1,22 @@
+﻿[Submission_1.Objectives]
+Détruisez les défenses ennemies.
+[Submission_1.Description]
+À la suite de leur repli, les troupes allemandes se sont établies sur une nouvelle ligne de défense dans le secteur de Yadromino. Il vous faut détruire ces défenses ennemies afin de poursuivre votre progression en direction de Volokolamsk.
+
+Vos ordres sont:
+- Détruisez les défenses ennemies.
+[Submission_1.Success]
+Mission accomplie! Vous avez détruit les défenses ennemies.
+[Submission_1.Failed]
+La mission est un échec!
+[Submission_2.Objectives]
+Repoussez l’attaque ennemie!
+[Submission_2.Description]
+Les troupes allemandes ont lancé une contre-offensive visant la destruction de nos troupes dans le secteur. Il est impératif de ne rien concéder à l’ennemi et de tenir coûte que coûte face à cette nouvelle attaque.
+
+Vos ordres sont:
+- Repoussez l’attaque ennemie.
+[Submission_2.Success]
+Mission accomplie! Vous avez repoussé l’attaque ennemie!
+[Submission_2.Failed]
+Vous avez échoué! Vos troupes ont été défaites!

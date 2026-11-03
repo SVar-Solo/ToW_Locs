@@ -1,0 +1,36 @@
+﻿[Submission01.Objectives]
+突破敌军防御，解放村庄
+[Submission01.Description]
+决定性的时刻已经到来；我们必须打断法西斯中央集团军群的脊梁。为此，苏军的所有预备队都已集结在这一地段。你的部队是这次新攻势的重要一环。为协助你的行动，已将重型坦克划归你指挥。好好利用它们，不辜负我们对你能力的信任。
+
+你的命令：
+- 	突破敌军防御。
+- 	把村庄从法西斯侵略者手中解放出来。
+[Submission01.Success]
+敌军正在撤退！村庄已解放！成果确实令人印象深刻。  
+[Submission01.Failed]
+你的进攻被粉碎了。现在我们不能继续推进，而必须准备迎击德军的反击。
+[Submission02.Objectives]
+突破敌军防御。
+[Submission02.Description]
+步兵和反坦克炮守卫着通往村庄的接近路。必须摧毁敌军的第一道防线。
+
+你的命令：
+- 	突破敌军防御。
+[Submission02.Success]
+敌军防御已被突破。
+[Submission02.Failed]
+你的部队已被消灭。你辜负了指挥部的期望！
+[Submission03.Objectives]
+解放村庄。
+[Submission03.Description]
+遭受重创的敌军已撤至第二道防线，并在那里得到增援。你必须消灭这些部队并继续推进。
+
+你的命令：
+- 	把村庄从法西斯侵略者手中解放出来。
+[Submission03.Success]
+村庄已解放。取得了巨大的成功，指挥官！
+[Submission03.Failed]
+你白白葬送了你指挥下士兵的生命。
+[StringTable.Reserv]
+增援部队已划归你指挥。

@@ -1,0 +1,48 @@
+﻿[Submission_1.Objectives]
+Prepara le difese nella periferia di Saint-Lo. Dovresti riuscire a preparare una imboscata mentre il nemico si avvicina alla città.
+[Submission_1.Description]
+Prepara le difese nella periferia di Saint-Lo. A tua disposizione hai un distaccamento di fanteria di elite.
+
+I tuoi ordini sono:
+-	Usa le tue truppe per tendere un'imboscata alle forze americane.
+[Submission_1.Success]
+Il reparto americano di truppe di ricognizione è stato eliminato.
+[Submission_1.Failed]
+L'imboscata è fallita!
+[Submission_2.Objectives]
+Respingi il nemico usando tutte le risorse che hai a disposizione.
+[Submission_2.Description]
+Le forze americane stanno cercando di stabilire una testa di ponte in Normandia e la cittadina di Saint-Lo ne è la chiave. Dobbiamo impedir loro di raggiungerla.
+
+I tuoi ordini sono:
+-	Respingi gli attacchi delle forze americane a tutti i costi.
+[Submission_2.Success]
+Hai vinto! Hai respinto l'attacco americano!
+[Submission_2.Failed]
+Sei stato sconfitto. Gli americani stanno avanzando e adesso i nostri piani di respingerli verso l'oceano potrebbero non realizzarsi mai più. 
+[Submission_3.Objectives]
+Sostieni l'attacco delle forze nemiche.
+[Submission_3.Description]
+Gli americani sono duri e cocciuti, ma non devono riuscire a prendere Saint-Lo e solo tu li puoi fermare!
+
+I tuoi ordini sono:
+-	Mantieni le posizioni in ogni modo e ferma l'avanzata americana.
+[Submission_3.Success]
+Hai resistito al nemico. Dobbiamo continuare a combattere gli americani ad ogni occasione.
+[Submission_3.Failed]
+Hai perso. Non possiamo permetterci queste sconfitte, comandante.
+[Mission.Objectives]
+Mantieni le posizioni sulle colline che sovrastano Saint-Lo.
+[Mission. Description]
+La città di Saint-Lo ha una importanza strategica sia per l'esercito tedesco che per quello americano. Perdere la città, significa perdere la possibilità di ricacciare in mare gli americani. Ci sono due colline ai margini della città, che offrono eccezionali posizioni difensive per affrontare il nemico in arrivo. Difendi la città comandante, il destino della Germania dipende da questo!
+
+I tuoi ordini sono:
+-	Schiera le tue forze sulle colline e intorno all'insediamento e ferma gli americani a ogni costo.
+[Mission.Success]
+La tua impresa non sarà dimenticata dal popolo tedesco.
+[Mission.Failed]
+A causa del tuo fallimento, gli americani stanno occupando Saint-Lo e le nostre possibilità di vittoria sono diminuite.
+[StringTable.tank_reserv]
+Nuove unità corazzate e di artiglieria sono arrivate e sono ai tuoi ordini.
+[StringTable.reserv]
+Nuove unità corazzate e di fanteria sono arrivate e sono ai tuoi ordini.

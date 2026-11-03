@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Выбить противника из населенных пунктов Иф, Бра, Юбер Фоли.
+[Mission.Description]
+Уничтожить закрепившегося в указанных населенных пунктах противника.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Освободить населенный пункт Иф.
+[Submission_1.Description]
+Очистить от противника указанный населенный пункт.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Уничтожить вражеский гарнизон в Бра.
+[Submission_2.Description]
+Уничтожить опорный пункт врага.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Выбить противника из Юбер-Фоли.
+[Submission_3.Description]
+Очистить Юбер Фоли от врага.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Дорога на юг.
+[Submission_4.Description]
+Взять под контроль дорогу.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_1.Success]
+Задание выполнено.
+[Submission_1.Failed]
+Задание не выполнено.
+[Submission_2.Success]
+Задание выполнено.
+[Submission_2.Failed]
+Задача не выполнена.
+[Submission_3.Success]
+Задание выполнено.
+[Submission_3.Failed]
+Задание не выполнено.
+[Submission_4.Success]
+Задача выполнена.
+[Submission_4.Failed]
+Задача не выполнена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Задача не выполнена.
+[StringTable.Tanks]
+Группа резерва на связи.

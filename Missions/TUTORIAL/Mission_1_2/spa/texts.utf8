@@ -1,0 +1,110 @@
+﻿[Submission_1.Objectives]
+Determinación de la visibilidad directa e indirecta.
+
+[Submission_1.Description]
+Dispone de dos soldados, situados a cierta distancia el uno del otro. Por el lado enemigo, un tanque Pz.IV F2 sale del poblado. Durante su movimiento, diversos obstáculos (casas, árboles y otros objetos) bloquean la visibilidad de este tanque para sus unidades.
+
+[Submission_1.Success]
+¡Tarea completada!
+
+[Submission_1.Failed]
+¡Tarea fallida!
+
+[StringTable.Direct_undirect_vis]
+Uno de los soldados ve el tanque enemigo en línea de visión directa; cuando se selecciona a este soldado, el icono del tanque se vuelve rojo brillante. El segundo soldado no ve el tanque directamente a pesar de que la distancia permitiría verlo. Esto es posible porque en el mapa hay objetos que obstruyen la vista. En este caso, el icono del tanque para ese soldado se vuelve semitransparente. Esto significa que el soldado que tiene el tanque en línea de visión directa lo está "señalando" al soldado que no lo ve directamente. Cuando se quita la selección a ambos soldados, o cuando se seleccionan varias unidades a la vez, el icono del tanque se vuelve rojo brillante. En esta situación, ambas unidades pueden disparar al objetivo si hay línea de fuego.
+
+[StringTable.unvis]
+El tanque es invisible para todas sus unidades. En esta situación, ninguna de sus unidades puede disparar directamente al objetivo enemigo. Durante un tiempo, sus unidades "recordarán" la ubicación del enemigo; en ese caso, el icono sobre el enemigo cambiará de aspecto.
+La hierba, los arbustos y los árboles, incluidos los caídos, también son obstáculos para la visibilidad. Esto puede aprovecharse tácticamente, pero fíjese en el tamaño de las copas y en la altura de la hierba para determinar si su unidad quedará oculta tras ellos. Si empieza a disparar, el camuflaje se perderá durante un tiempo.
+Además de la visibilidad directa, a cierta distancia la infantería puede determinar la ubicación aproximada del enemigo por el sonido si este dispara, se mueve o gira la torreta.
+
+[StringTable.Direct_vis]
+Para todas sus unidades, el tanque está en línea de visión directa. Intente seleccionar todas sus unidades una por una. El icono del tanque siempre es rojo brillante. En esta situación, si hay línea de fuego, cualquiera de sus unidades puede disparar al objetivo.
+Con la "línea de visión" activada en los ajustes, puede comprobar la línea de fuego con una de las órdenes: "atacar" {hkey:attack}, "asalto" {hkey:storm} o "fuego de área" {hkey:groundattack}. Tras activar la orden y antes de darla, se mostrará una flecha desde su unidad hasta el puntero del ratón. El color rojo de la flecha indica un tramo en el que no hay obstáculos en la línea de fuego; el negro, el tramo posterior a un obstáculo. Para el equipo, aparecerá una información emergente junto al puntero del ratón que explica por qué no hay línea de fuego. Si mueve el cursor del ratón fuera de los sectores de visión de la unidad, parte de la flecha se coloreará de azul.
+
+[StringTable.ENTER]
+El juego permite anclar la cámara a su unidad. La cámara puede girar libremente. También puede seleccionar cualquier otra unidad (o grupo de unidades) y controlarla. Al pulsar {hkey:bindcamera}, la cámara se desplaza y se ancla a la unidad; al pulsar {hkey:linkcamera}, la cámara se ancla a la unidad manteniendo la distancia actual. Esta función opera con todas las unidades dentro de la zona de juego jugable. Fuera de la zona de juego no es posible anclar la cámara a una unidad.
+
+[Mission.Objectives]
+Particularidades de la visualización de la visibilidad en el juego.
+
+[Mission.Description]
+Con sus dos soldados y un tanque enemigo en movimiento se simulan distintas variantes de representación de una unidad enemiga en diversas condiciones de visibilidad. En concreto:
+- ambas unidades del jugador ven directamente el tanque enemigo;
+- una de las unidades del jugador ve el tanque enemigo en línea de visión directa, mientras que la otra no ve al enemigo "directamente";
+- ninguno de los dos soldados ve el tanque enemigo.
+
+							   
+									  
+										  
+[Mission.Success]
+¡Tarea completada!
+
+[Mission.Failed]
+¡Tarea fallida!
+
+[Submission_2.Objectives]
+Anclar la cámara directamente a una unidad.
+
+[Submission_2.Description]
+En el mapa hay dos unidades amigas y dos enemigas. Una de las unidades enemigas está fuera de la zona de juego. El juego permite anclar la cámara a cualquier unidad, incluida una enemiga, situada dentro de la zona de juego. No es posible anclar la cámara a unidades fuera de la zona de juego.
+
+[Submission_2.Success]
+¡Tarea completada!
+
+[Submission_2.Failed]
+¡Tarea fallida!
+
+[StringTable.Line_of_Fire]
+Se ha puesto a su disposición un cañón. En la mayoría de los casos, si una unidad enemiga está en línea de visión directa del cañón, hay línea de fuego. Pero hay casos en los que existe visibilidad directa pero no línea de fuego: esto se debe a un obstáculo en la línea de fuego del cañón (pliegue del terreno, valla, etc.) o a que el cañón no puede apuntar al objetivo por un ángulo de depresión/elevación insuficiente del tubo. Si el cañón no ve directamente a la unidad enemiga, pero hay una unidad de su ejército que sí la ve directamente, en ese caso la línea de fuego suele estar ausente, aunque hay situaciones en las que el cañón no ve directamente al enemigo y sin embargo tiene línea de fuego. Con mayor frecuencia, esta situación se da cuando la unidad enemiga está a una distancia superior al alcance de visibilidad o cuando el enemigo queda oculto por la vegetación. En ese caso, el cañón puede disparar.
+
+[Submission_3.Objectives]
+Destruya el tanque enemigo.
+
+[Submission_3.Description]
+Dispone de un cañón. Destruya el tanque enemigo.
+
+[Submission_3.Success]
+¡Tarea completada!
+
+[Submission_3.Failed]
+¡Tarea fallida!
+
+[StringTable.Howitzer_1]
+Tome el mando de una batería de artillería. Puede efectuar fuego indirecto desde una posición cubierta si la trayectoria del proyectil lo permite. La inclinación de la trayectoria depende de la velocidad inicial del proyectil: cuanto menor es la velocidad, más fácil resulta lanzar el proyectil por encima de los pliegues del terreno si la distancia es corta. A veces tendrá que elegir con cuidado la posición adecuada para el cañón, de modo que pueda disparar a la zona requerida.
+
+[StringTable.Howitzer_2]
+Si solo hay una unidad seleccionada, al pasar el cursor del ratón sobre el enemigo se calculará la trayectoria y el tipo de icono junto al cursor indicará si es posible disparar. El cálculo de la trayectoria tiene en cuenta la velocidad inicial del proyectil actual, así que seleccione a la fuerza proyectiles HE haciendo clic con el botón derecho en el icono del proyectil en el panel de armas, ya que tienen una velocidad inicial menor. Intente inutilizar el equipo ligero del enemigo con la orden "Fuego de área" {hkey:groundattack}. Si solo hay una unidad seleccionada, tras activar la orden aparecerá una línea con una flecha que muestra si hay visibilidad directa hasta el cursor, y el tipo de icono junto al cursor indica si existe una trayectoria indirecta hasta ese punto. Puede indicar un único punto o especificar una zona de fuego manteniendo pulsado el botón derecho del ratón.
+
+[Submission_4.Objectives]
+Inutilice al grupo de equipo ligero enemigo.
+
+[Submission_4.Description]
+Dispone de una batería de artillería. Inutilice al grupo de vehículos enemigos.
+
+[Submission_4.Success]
+¡Tarea completada!
+
+[Submission_4.Failed]
+¡Tarea fallida!
+
+[StringTable.Tank_Vis_Line_1]
+Tome el mando de un tanque M3 "Lee".
+Cada puesto de la dotación de un vehículo puede estar equipado con dispositivos ópticos o mirillas de observación por los que el tripulante mira alternativamente. Los dispositivos ópticos pueden quedar inutilizados; la información sobre su estado se obtiene en una información emergente si pasa el cursor del ratón sobre el puesto de un tripulante en el panel de información inferior de la interfaz. Los dispositivos de observación tienen un sector de visión limitado en vertical y en horizontal, y pueden tener aumento óptico, carecer de aumento o tener visibilidad reducida. Los tripulantes al descubierto observan sin dispositivos ópticos, como la infantería normal.
+
+[StringTable.Tank_Vis_Line_2]
+Cambie la posición de su tanque e inutilice el Pz IV enemigo.
+El artillero de la torreta no puede disparar el cañón de 37 mm porque no tiene proyectiles, pero observa a través de sus dispositivos ópticos y ha divisado un tanque delante, parcialmente oculto por un pliegue del terreno. El cañón del sponson puede disparar, pero no tiene línea de fuego.
+Para comprobar la línea de fuego de un cañón concreto del tanque, seleccione el cañón haciendo clic con el botón izquierdo en su icono en el panel de armas y después use una de las órdenes (por ejemplo, "atacar" {hkey:attack}, "asalto" {hkey:storm} o "fuego de área" {hkey:groundattack}) para comprobar la línea de fuego.
+
+[Submission_5.Objectives]
+Inutilice el tanque enemigo.
+
+[Submission_5.Description]
+Dispone de un tanque M3 "Lee". Inutilice el tanque enemigo.
+
+[Submission_5.Success]
+¡Tarea completada!
+
+[Submission_5.Failed]
+¡Tarea fallida!

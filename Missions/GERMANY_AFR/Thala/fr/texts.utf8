@@ -1,0 +1,34 @@
+﻿[Mission.Objectives]
+Éliminez l'ennemi
+[Mission.Description]
+Éliminez l'ennemi dans la ville de Thala.
+[Mission.Success]
+Les défenses ennemies à Thala ont été complètement éliminées.
+[Mission.Failed]
+Mission échouée.
+[Submission_1.Objectives]
+Menez une reconnaissance
+[Submission_1.Description]
+Menez une reconnaissance pour trouver les positions ennemies. Corrigez les frappes au sol de notre aviation d'assaut.
+[Submission_1.Success]
+Les positions d'artillerie ennemies ont été localisées. Les coordonnées précises ont été transmises à l'aviation.
+[Submission_1.Failed]
+Mission échouée.
+[Submission_2.Objectives]
+Détruisez les chars ennemis
+[Submission_2.Description]
+Des chars britanniques ont été repérés. Nous avons l'ordre d'engager et de détruire les chars ennemis.
+[Submission_2.Success]
+La force blindée ennemie a été éliminée.
+[Submission_2.Failed]
+Mission échouée.
+[StringTable.income]
+Nous avons reçu des troupes supplémentaires pour poursuivre l'offensive.
+[Submission_3.Objectives]
+Éliminez les défenses ennemies sur les hauteurs
+[Submission_3.Description]
+L'ennemi a établi des défenses sur les hauteurs au-delà de Thala. Selon nos renseignements, les Britanniques disposent d'un armement antichar suffisant. Éliminez les défenses ennemies sur les hauteurs.
+[Submission_3.Success]
+Les défenses ennemies ont été éliminées.
+[Submission_3.Failed]
+Mission échouée.

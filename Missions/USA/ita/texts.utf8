@@ -1,0 +1,188 @@
+﻿[Battle Group 6.Name]
+X Corpo
+
+[Battle Group 2.Name]
+21º Rgt. Marine ind.
+
+[USA.Epilogue]
+Le forze ONU e sudcoreane si unirono sotto un obiettivo comune: la distruzione delle forze nordcoreane e la rettifica dei confini. Erano determinate a respingere i nordcoreani oltre i confini settentrionali della Repubblica Popolare Democratica di Corea, e ci riuscirono. Fu un ribaltamento sorprendente, che poté realizzarsi solo con la piena collaborazione delle forze di terra, aeree e navali, che sferrarono attacchi coordinati e simultanei contro il fronte, i fianchi e le retrovie nemiche, con il sostegno di numerose unità aeree e di artiglieria. La superiorità di uomini e mezzi giocò a loro favore, poiché il nemico era privo di difese contraeree, artiglieria e carri armati.
+
+[Battle Group 1.Name]
+
+
+[USA.FailureEpilogue]
+L’offensiva congiunta delle truppe statunitensi e sudcoreane in Corea mise in luce una serie di carenze nelle loro formazioni e nei loro reparti. Le forze del Comando ONU si dimostrarono incapaci di condurre un’offensiva abbastanza rapida e il combattimento rivelò la scarsa preparazione dei rinforzi. Non erano stati addestrati a combattere di notte né a sfruttare a proprio vantaggio il terreno montuoso della Corea. Adottavano formazioni adatte soprattutto alla pianura, attaccavano lungo l’intero fronte e limitavano le operazioni di combattimento alle ore diurne. Non tentavano di aggirare i fianchi del nemico né di sfruttare le montagne. La loro fanteria poteva combattere solo se sostenuta da artiglieria, carri armati e aviazione. L’uso massiccio delle strade, i fianchi e le retrovie mal difesi e una diffusa paura dell’accerchiamento: tutte queste carenze affliggevano le truppe del Comando ONU.
+
+[Battle Group 2.FullName]
+21º Reggimento Marine indipendente
+
+[Battle Group 6.FullName]
+Reparti del X Corpo
+
+[Battle Group 15.Name]
+15º Btg. fant. ind.
+
+[Battle Group 15.FullName]
+15º Battaglione di fanteria indipendente
+
+[Battle Group 16.Name]
+10ª Div. fant.
+
+[Battle Group 16.FullName]
+Reparti della 10ª divisione di fanteria
+
+[Battle Group 17.Name]
+I Corpo
+
+[Battle Group 17.FullName]
+Reparti del I Corpo
+
+[Battle Group 22.Name]
+II Corpo
+
+[Battle Group 19.Name]
+1ª Brig. corazzata
+
+[Battle Group 21.Name]
+18ª Brig. fant.
+
+[Battle Group 20.Name]
+70º Rgt. fant. ind.
+
+[Battle Group 22.FullName]
+Reparti del II Corpo
+
+[Battle Group 20.FullName]
+70º Reggimento di fanteria indipendente
+
+[Battle Group 21.FullName]
+18ª Brigata di fanteria
+
+[Battle Group 19.FullName]
+1ª Brigata corazzata
+
+[Battle Group 23.Name]
+17ª Div. mecc.
+
+[Battle Group 23.FullName]
+17ª Divisione meccanizzata
+
+[USA.FullName]
+Controffensiva
+
+[USA.Description]
+Grazie alla superiore potenza aerea e di artiglieria del Comando ONU, le truppe nordcoreane non riuscirono a sfondare il perimetro di Pusan e a ricacciare in mare i suoi difensori. Al contrario, il potente contrattacco lanciato dalle forze statunitensi e sudcoreane costrinse la Corea del Nord ad abbandonare diverse posizioni chiave. A metà settembre 1950 i nordcoreani erano interamente sulla difensiva.
+Assicuratasi l’area di Pusan, le forze sudcoreane cominciarono a pianificare la controffensiva. Avrebbero distrutto le truppe nordcoreane e occupato l’intera Corea.
+Il piano prevedeva due attacchi: il primo delle truppe di terra, lanciato dall’area di Pusan, e il secondo di truppe sbarcate dal mare a Incheon. Insieme avrebbero accerchiato e distrutto le truppe nordcoreane nella Corea del Sud.
+Sull’asse principale di avanzata il Comando ONU schierò sei divisioni di fanteria, una brigata di fanteria, tre divisioni di artiglieria indipendenti e tre battaglioni corazzati indipendenti. L’appoggio aereo era affidato a ben 1100 velivoli d’attacco.
+Lo sbarco a Incheon doveva essere assicurato dal X Corpo statunitense, composto dalla 1ª divisione Marine (USA), dalla 7ª divisione di fanteria (USA), dal 41 Commando (Gran Bretagna) e dal 17º reggimento di fanteria (Repubblica di Corea). Il loro appoggio era affidato a 250 navi e circa 500 aerei.
+La controffensiva fu lanciata il 15 settembre 1950.
+
+[HAMGEN_PUKTO.FullName]
+Hamgyeongbuk-do
+
+[HAMGEN_PUKTO.Description]
+Hamgyeongbuk-do è la provincia più settentrionale della Corea del Nord. A nord confina con la Cina e la sua lunga costa orientale è bagnata dal Mar del Giappone. Nella provincia si trova il principale nodo ferroviario della Corea del Nord, che gestisce i carichi provenienti sia dalla Cina sia dall’Unione Sovietica. Il terreno è in prevalenza pianeggiante, ma a ovest si trova un’ampia catena montuosa.
+
+[YANGANDO.FullName]
+Ryanggang-do
+
+[YANGANDO.Description]
+La provincia di Ryanggang-do confina a nord con la Cina. Occupata in gran parte da montagne attraversate da stretti passi, è difficilmente percorribile. Ciononostante il Ryanggang-do è un'area strategica molto importante, poiché ospita la principale ferrovia proveniente dall'Unione Sovietica, che rifornisce le truppe nordcoreane di mezzi militari e armamenti.
+
+[HAMGEN_NAMDO.FullName]
+Hwanghaenam-do
+
+[HAMGEN_NAMDO.Description]
+Montuosa a ovest, Hwanghaenam-do si spiana in terreni agricoli di prim’ordine man mano che si estende a est verso la costa sul Mar del Giappone. Questa terra ricca produce riso, grano e colza, rendendo la provincia il principale centro agricolo della Corea del Nord. La conquista di Hwanghaenam-do offrirebbe un ottimo punto d’appoggio per spingere i combattimenti più a nord.
+
+[CHAGANDO.FullName]
+Chagang-do
+
+[CHAGANDO.Description]
+Confinante a nord con la Cina, il Chagang-do è una delle province industriali più sviluppate della Corea del Nord. Il suo principale nodo ferroviario smista tutti i carichi provenienti dalla Cina e dall'Unione Sovietica, e la provincia ospita le principali basi di rifornimento delle truppe nordcoreane. Il Chagang-do non ha sbocco sul mare.
+
+[PHENAN_PUKTO.FullName]
+Pyeonganbuk-do
+
+[PHENAN_PUKTO.Description]
+La provincia settentrionale di Pyeonganbuk-do confina con la Cina. Il suo capoluogo, Sineuiju, è un importante nodo di trasporto e il porto di Yongampo è uno dei principali centri dell’industria ittica sul Mar Giallo. Il terreno è in prevalenza montuoso, con valli che dominano l’area costiera.
+
+[PHENAN_NAMDO.FullName]
+Pyeongannam-do
+
+[PHENAN_NAMDO.Description]
+La provincia nordcoreana di Pyeongannam-do, il cui capoluogo è Pyeongseong, confina a nord con Pyeonganbuk-do e Chagang-do, a est e sud-est con Hwanghaenam-do e Gangwon-do, a sud con Hwanghaebuk-do e Pyeongyang. A ovest confina con il Mar Giallo. La provincia ha un valore strategico come base di partenza per il ridispiegamento di truppe e rifornimenti via mare.
+
+[PHENYAN.FullName]
+Pyeongyang
+
+[PHENYAN.Description]
+Pyeongyang, nome sia della capitale sia della provincia circostante, è un importante centro economico della Corea del Nord e un grande baluardo industriale. La città di Pyeongyang sorge su una pianura circondata da montagne. Nel 1946 si separò da Pyeongannam-do divenendo una provincia indipendente. La città e l’area circostante sono fortemente fortificate e ben difese.
+
+[KANWONDO_PUKTO.FullName]
+Gangwondo-pukto
+
+[KANWONDO_PUKTO.Description]
+La provincia nordcoreana di Gangwondo-pukto si trova lungo la regione di confine. È in prevalenza altopiano, ma il terreno lungo la costa è adatto al trasporto di veicoli.
+
+[HVANHE_PUKTO.FullName]
+Hwanghae-pukto
+
+[HVANHE_PUKTO.Description]
+Il confine meridionale della provincia di Hwanghaebuk-do segue il 38º parallelo. Le forze nemiche sono concentrate a sud. La provincia è di importanza strategica critica per la difesa di Pyeongyang, la capitale della Corea del Nord.
+
+[KANWONDO_NAMDO.FullName]
+Gangwondo-Namdo
+
+[KANWONDO_NAMDO.Description]
+Il confine settentrionale della provincia di Gangwonnam-do segue il 38º parallelo, che divide la penisola coreana in Corea del Nord e Corea del Sud. Essendo una terra montuosa, la provincia non ha fortificazioni pesanti e i passi di montagna sono insidiosi: anche una piccola forza difensiva può contenere una forza attaccante superiore. I piccoli villaggi e i monasteri sono stati trasformati in cittadelle difensive molto difficili da conquistare. Restano libere solo le piste rocciose inadatte ai veicoli.
+
+[KENGIDO.FullName]
+Gyeonggi-do
+
+[KENGIDO.Description]
+Ospitando Seul, la capitale della Corea del Sud, Gyeonggi-do è una provincia di importanza strategica critica. Pur essendo in prevalenza pianeggiante, la provincia è punteggiata di centri abitati, molti dei quali fortificati. Naturalmente Seul stessa è protetta dalle truppe più esperte della Corea del Sud ed è circondata da forti fortificazioni. Il confine settentrionale della provincia segue il 38º parallelo, che divide la Corea in Nord e Sud.
+
+[KENSAN_PUKTO.FullName]
+Gyeongsangbuk-do
+
+[KENSAN_PUKTO.Description]
+Gyeongsangbuk-do offre l’accesso alla costa orientale della penisola coreana. Chi controlla questa provincia può ricevere rifornimenti via mare, un notevole vantaggio strategico. Gyeongsangbuk-do ha numerose valli montane, ma vicino alla costa orientale le montagne si abbassano e le valli si allargano e si spianano. Ciò rende l’area molto comoda per attaccare ma difficile da difendere.
+
+[CHUNCHON_PUKTO.FullName]
+Chungcheongbuk-do
+
+[CHUNCHON_PUKTO.Description]
+Chungcheongbuk-do è il principale corridoio di trasporto verso Seul, la capitale della Corea del Sud. In questa provincia sono concentrate numerose basi militari e fortificazioni. Ottenere il controllo di Chungcheongbuk-do darebbe un vantaggio significativo.
+
+[CHUNCHON_NAMDO.FullName]
+Chungcheongnam-do
+
+[CHUNCHON_NAMDO.Description]
+Gran parte di Chungcheongnam-do è occupata da montagne quasi impraticabili, ma vi sono alcune aree vulnerabili all’attacco, anche se naturalmente sono fortemente difese e fortificate. Tutti i centri abitati sono stati trasformati in capisaldi, ma alcuni sentieri rocciosi sono impraticabili per i veicoli. Ciò li rende perfetti per piccole squadre di fanteria, che possono manovrare di nascosto e cogliere il nemico di sorpresa.
+
+[PUSAN.FullName]
+Pusan
+
+[PUSAN.Description]
+Il perimetro di Pusan è l’ultima posizione delle truppe sudcoreane. Quest’area strategica di massima importanza funge da testa di ponte per le forze statunitensi e vanta numerosi capisaldi ben difesi. Conquistare il perimetro di Pusan, oltre ai porti di Pusan, Ulsan e Pohang, impedirebbe alle forze del Comando delle Nazioni Unite di far affluire rinforzi e rifornimenti.
+
+[KENSAN_NAMDO.FullName]
+Gyeongsangnam-do
+
+[KENSAN_NAMDO.Description]
+La provincia di Gyeongsangnam-do confina con le province di Jeollabuk-do e Gyeongsangbuk-do. È in gran parte occupata da montagne e ospita tre parchi nazionali: Gayasan, Deogyusan e Jirisan. La vetta più alta è il monte Deogyusan (1614 metri). Come il resto della penisola coreana, la provincia ha un clima monsonico: estati calde e umide e inverni relativamente freddi e secchi. La temperatura media annua è di 10,6 gradi Celsius e le precipitazioni annue sono di 1395,2 mm (dati del 1993). La maggior parte delle precipitazioni (850 mm) cade durante la stagione delle piogge, che dura tre mesi estivi.
+
+[CHOPLA_PUKTO.FullName]
+Jeollabuk-do
+
+[CHOPLA_PUKTO.Description]
+Jeollabuk-do si trova sulla costa occidentale. Il suo porto è cruciale per il movimento di personale e rifornimenti. Tuttavia, a eccezione delle aree costiere, la provincia è occupata da montagne insidiose, perciò non vi sono fortificazioni pesanti.
+
+[CHOPLA_NAMDO.FullName]
+Jeollanam-do
+
+[CHOPLA_NAMDO.Description]
+Jeollanam-do è la provincia più meridionale della Corea del Sud. Le montagne dominano la sua regione settentrionale. Verso le regioni meridionali e costiere, però, i rilievi si spianano in ampie valli. Dal punto di vista strategico, la parte meridionale della provincia è importante per l’arrivo di rifornimenti via mare, grazie ai suoi numerosi grandi porti. Il comando militare statunitense ne trae vantaggio.
+

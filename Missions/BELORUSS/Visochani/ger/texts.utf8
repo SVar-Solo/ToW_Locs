@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Befreien Sie Vysochany von den deutschen Besatzern und zerstören Sie den feindlichen Stützpunkt.
+[Mission.Description]
+Sie müssen die feindliche Garnison in Kurtenki ausschalten, die die Straße nach Vysochany kontrolliert; diese Straße sichern; feindliche Panzertruppen im Gebiet Kurtenki-Vysochany vernichten; und die Artillerie am südlichen Stadtrand von Vysochany unterdrücken.
+[Mission.Success]
+Aufgabe erfüllt, Vysochany befreit.
+[Mission.Failed]
+Aufgabe fehlgeschlagen.
+[Submission1.Objectives]
+Befreien Sie Kurtenki.
+[Submission1.Description]
+Vernichten Sie die feindliche Garnison in Kurtenki und sichern Sie die Straße nach Vysochany. Bereiten Sie sich darauf vor, feindliche Gegenangriffe abzuwehren.
+[Submission1.Success]
+Kurtenki gesichert.
+[Submission1.Failed]
+Aufgabe fehlgeschlagen.
+[Submission2.Objectives]
+Vernichten Sie die feindliche Panzerkolonne, die der Garnison von Kurtenki zu Hilfe kommt.
+[Submission2.Description]
+Die feindliche Panzerkolonne kommt aus Vysochany der Garnison von Kurtenki zu Hilfe. Fangen Sie sie ab und vernichten Sie sie, indem Sie sie in einen Hinterhalt locken.
+[Submission2.Success]
+Feindliche Kolonne vernichtet.
+[Submission2.Failed]
+Aufgabe fehlgeschlagen.
+[Submission3.Objectives]
+Eine weitere feindliche Panzergruppe ist von Vysochany aufgebrochen, um Sie abzufangen. Vernichten Sie sie und fahren Sie mit der Befreiung des Dorfes fort.
+[Submission3.Description]
+Sichern Sie die Straße nach Vysochany vollständig. Vernichten Sie die feindliche Panzergruppe.
+[Submission3.Success]
+Die Straße nach Vysochany ist frei.
+[Submission3.Failed]
+Aufgabe erfüllt.

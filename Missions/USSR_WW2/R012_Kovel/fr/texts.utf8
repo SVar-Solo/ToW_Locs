@@ -1,0 +1,69 @@
+﻿[Mission1.Objectives]
+Chasser l’agresseur fasciste hors du village.
+[Mission1.Description]
+Des unités du groupe d’armée Sud et Centre tiennent une position défensive à la périphérie de Kovel. Il faut les éliminer.
+
+Vos ordres : 
+- 	Mettre en déroute les unités ennemies qui défendent les abords de Kovel.
+[Mission1.Success]
+L’attaque a réussi et le village a été libéré. Les villageois rapportent de nombreuses atrocités commises par les troupes fascistes pendant leur occupation. Ces récits ne font que renforcer la détermination de nos soldats !
+[Mission1.Failed]
+La mission n’a pas pu être accomplie et l’attaque a mal tourné. Votre action imprudente a mis en péril le succès de l’entière opération !
+[Submission2.Objectives]
+Résister à l’attaque ennemie.
+[Submission2.Description]
+Des reconnaissances indiquent que plusieurs unités ennemies approchent du dépôt d’essence.
+
+Vos ordres : 
+-	Empêcher l’ennemi de s’emparer du dépôt d’essence.
+[Submission2.Success]
+La contre-attaque ennemie a été repoussée. Nous pouvons poursuivre notre avance !
+[Submission2.Failed]
+L’ennemi a capturé le dépôt d’essence. Vos efforts ont échoué.
+[Submission1.Objectives]
+Chasser l’ennemi du dépôt d’essence.
+[Submission1.Description]
+Le mauvais état du réseau routier dans ce secteur gêne l’approvisionnement des unités en armes et en ravitaillement. Pour cette raison, les dépôts d’essence sont vitaux et ne doivent pas tomber aux mains de l’ennemi. Si vous rencontrez un dépôt ennemi, utilisez tous vos moyens pour le capturer.
+
+Vos ordres sont : 
+- 	Capturer le dépôt d’essence ennemi.
+- 	Mettre en place une tête de pont pour faire venir des réserves dans ce secteur du front. 
+[Submission1.Success]
+Le dépôt d’essence a été capturé et nous avons gagné un précieux atout logistique.
+[Submission1.Failed]
+Vous n’êtes pas parvenu à capturer cet emplacement stratégique.
+[Mission1_1.Objectives]
+Avancer dans la profondeur du dispositif ennemi.
+[Mission1_1.Description] 
+Les défenses de l’ennemi ont été percées ! C’est à vous d’avancer dans cette direction pour attaquer les unités allemandes dans la prochaine ville. Il ne faut pas permettre que l’ennemi reprenne l’initiative, agissez rapidement, commandant.
+
+Vos ordres :
+- 	Attaquer les forces ennemies dans le village.
+[Mission1_1.Success]
+Vos ordres ont été promptement exécutés et les défenses ennemies s’effondrent !
+[Mission1_1.Failed]
+Les Allemands sont parvenus à conserver leur position dans le village.
+[Submission2_1.Objectives]
+Attaquer le groupe de chars ennemis.
+[Submission2_1.Description]
+Une reconnaissance a permis de repérer une faille sur le flanc ennemi. Nous avons progressé face à des défenses éparses, mais nous rencontrons maintenant des unités blindées lourdes
+
+Vos ordres : 
+-	Attaquer le groupe de chars ennemis.
+[Submission2_1.Success]
+Les chars ennemis ont été détruits.
+[Submission2_1.Failed]
+Les unités ennemies se sont révélés trop coriaces. Vous avez échoué, commandant. Vos unités ont été détruites !
+[Mission1_2.Objectives]
+Attaquer les forces ennemies dans le village.
+[Mission1_2.Description]
+Les défenses de l’ennemi sont brisées ! Pour exploiter ce succès, il faut continuer à avancer et attaquer les troupes allemandes situées dans le village. Les renseignements indiquent que l’ennemi a déployé de forces considérables, soyez prudent commandant.
+
+Vos ordres : 
+- 	Attaquer les forces ennemies dans le village.
+[Mission1_2.Success]
+Vous avez réussi à capturer le village.
+[Mission1_2.Failed]
+Le village n’a pas été sécurisé et l’élan de l’offensive a été brisé.
+[StringTable.Reserv]
+Des renforts vous sont attribués.

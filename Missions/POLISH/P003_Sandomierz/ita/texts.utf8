@@ -1,0 +1,35 @@
+﻿[StringTable.Reserv]
+Sono arrivati dei rinforzi per darti supporto.
+[Mission1.Objectives]
+Mantieni e difendi le posizioni nella zona indicata.
+[Mission1.Description]
+La terza armata tedesca sta avanzando rapidamente nella Polonia orientale, con l'unico scopo di compiere una larga manovra di accerchiamento attorno all'intero gruppo settentrionale delle forze polacche. L'Alto Comando polacco ha deciso di concentrare il maggior numero possibile di forze nelle regioni sud-orientali del paese. Va impedito alle forze tedesche di attraversare la linea del fronte.
+
+I tuoi ordini sono:
+-	Mantieni le posizioni difensive nella zona indicata.
+[Mission1.Success]
+Missione completata! L'avanzata delle truppe nemiche è stata arrestata!
+[Mission1.Failed]
+Le tue truppe sono state sconfitte! Il nemico ha distrutto le difese polacche e continua ad avanzare!
+[Submission1.Objectives]
+Attacca le truppe nemiche che avanzano da sud.
+[Submission1.Description]
+I nostri esploratori comunicano che una piccola parte delle truppe tedesche si sta muovendo da sud in direzione di Sandomierz. Il nemico sta probabilmente cercando di spezzare questa linea del fronte e poi di attraversare il fiume per proseguire verso Sandomierz.
+
+I tuoi ordini sono:
+-	Attacca le truppe nemiche che avanzano da sud.
+[Submission1.Success]
+Missione completata! Le truppe nemiche sono state attaccate e allontanate dalle nostre linee difensive.
+[Submission1.Failed]
+Missione non completata! Le truppe nemiche hanno inflitto gravi perdite alle nostre!
+[Submission2.Objectives]
+Attacca le truppe nemiche che avanzano da ovest.
+[Submission2.Description]
+Le truppe tedesche stanno raccogliendo le forze per attaccare questo settore del fronte. I nostri esploratori comunicano che il grosso delle truppe nemiche si sta muovendo da ovest in direzione di Sandomierz.
+
+I tuoi ordini sono:
+-	Attacca le truppe nemiche che avanzano da ovest.
+[Submission2.Success]
+Missione completata! Le unità tedesche sono state allontanate dalle nostre linee difensive.
+[Submission2.Failed]
+Missione non completata! Le truppe tedesche hanno sfruttato la situazione e inflitto gravi perdite alle nostre!

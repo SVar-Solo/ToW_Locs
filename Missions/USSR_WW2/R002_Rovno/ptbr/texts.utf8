@@ -1,0 +1,44 @@
+﻿[Mission1.Objectives]
+Destrua as divisões blindadas inimigas que avançam do Oeste.
+[Mission1.Description]
+As tropas fascistas capturaram Lutsk. O próximo golpe visa romper a linha de frente perto de Rovno. Segundo um relatório de reconhecimento, colunas de tanques alemães estão se movendo para Rovno vindas do Oeste.
+Nosso corpo mecanizado foi enviado para tapar a brecha aberta pelas tropas inimigas.
+
+Suas ordens:
+- 	Destrua os batalhões de tanques inimigos.
+[Mission1.Success]
+A ordem do comandante foi cumprida! Os batalhões de tanques inimigos que se aproximavam do Oeste foram completamente destruídos. Os alemães não conseguiram quebrar o moral dos soldados russos!
+[Mission1.Failed]
+Apesar das ações heroicas de seus soldados, suas tropas foram destruídas! Os alemães romperam as defesas nesta área da frente!
+[Mission1_1.Objectives]
+Destrua os batalhões de tanques inimigos que vêm do Sudoeste.
+[Mission1_1.Description]
+Os alemães capturaram Lutsk, e os 13º e 14º batalhões de tanques inimigos estão se movendo para Rovno para romper a linha de frente e se aproximar de Kiev.
+Um relatório de reconhecimento diz que os batalhões de tanques estão se movendo do Sudoeste.
+
+Suas ordens:
+- 	Destrua os batalhões de tanques inimigos.
+[Mission1_1.Success]
+A ordem do comandante foi cumprida! Os batalhões de tanques inimigos que vinham do Sudoeste foram aniquilados. Os alemães não conseguiram quebrar o moral dos soldados russos!
+[Mission1_1.Failed]
+Apesar das ações heroicas de seus soldados, suas tropas foram destruídas! Os alemães romperam a linha de frente nesta parte da frente!
+[Submission1.Objectives]
+Detenha o avanço dos batalhões de tanques inimigos.
+[Submission1.Description]
+Nos primeiros dias da guerra, nosso exército sofreu grandes perdas. Ontem os agressores fascistas capturaram Lutsk. Confusão e pânico reinam na frente. Há pouca informação objetiva até agora, mas os relatórios de reconhecimento dizem que colunas de tanques alemães estão se movendo em nossa direção e é claro que o próximo golpe visa romper a linha de frente em Rovno. O 19º Corpo Mecanizado já está engajado em combates pesados em nosso flanco. Sua tarefa é conter a todo custo o avanço dos tanques inimigos em sua área. Isso dará às nossas tropas a chance de se reagrupar e, possivelmente, contra-atacar.
+
+Suas ordens:
+- 	Detenha o avanço dos 13º e 14º batalhões de tanques inimigos na área indicada, usando as forças dos 20º, 40º, 43º e 35º batalhões de tanques do 9º e do 19º Corpos Mecanizados.
+
+[Submission1.Success]
+A ordem do comandante foi cumprida! O avanço dos batalhões de tanques alemães na área foi detido!
+[Submission1.Failed]
+Apesar das ações heroicas de seus soldados, suas tropas foram destruídas! Os alemães romperam as defesas nesta parte da linha de frente!
+[StringTable.Reserv]
+Os reforços chegaram.
+[StringTable.Subtitle_01]
+Rússia. Junho de 1941
+[StringTable.Ger]
+O Exército Alemão lançou a Operação Barbarossa e cruzou a fronteira para a Rússia.
+[StringTable.Rus]
+O Exército Vermelho lançou uma contraofensiva na esperança de deter ou retardar o ímpeto alemão.

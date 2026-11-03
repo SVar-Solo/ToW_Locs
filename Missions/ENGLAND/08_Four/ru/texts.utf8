@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Текущей целью  наступления является освобождение от противника населенных пунктов Грантвилль, Солье, Фур.
+[Mission.Description]
+Выбить укрепившегося противника из указанных населенных пунктов.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Выбить противника из населенного пункта Грантвилль.
+[Submission_1.Description]
+Уничтожить опорный пункт врага.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1.Objectives]
+[Submission1.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission2.Objectives]
+[Submission2.Description]
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Занять деревню Солье.
+[Submission_2.Description]
+Выбить противника из Солье.
+[Submission_3.Objectives]
+Освободить населенный пункт Фур.
+[Submission_3.Description]
+Уничтожить гарнизон противника в населенном пункте Фур.
+[Submission_2.Success]
+Задание выполнено.
+[Submission_2.Failed]
+Задание провалено.
+[Submission_1.Success]
+Задание выполнено.
+[Submission_1.Failed]
+Задача не выполнена.
+[Submission_3.Success]
+Задание выполнено.
+[Submission_3.Failed]
+Задача не выполнена.
+[Mission.Success]
+Задача выполнена.
+[Mission.Failed]
+Задача не выполнена.
+[StringTable.Tanks]
+Группа резерва на связи.

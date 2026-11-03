@@ -1,0 +1,116 @@
+﻿[Mission.Objectives]
+Não permita que o inimigo irrompa no povoado.
+
+[Mission.Description]
+Usando a esquadra de engenheiros de combate designada a você, dê cobertura às nossas tropas. Não deixe que as tropas inimigas alcancem a base de transporte americana.
+
+[Mission.Success]
+Você cumpriu a tarefa com sucesso. O comando agradece pelo seu serviço.
+
+[Mission.Failed]
+Você fracassou na tarefa.
+
+[SubMission_01.Objectives]
+Enquanto espera o helicóptero, coloque a esquadra de engenheiros de combate na tenda perto da área de pouso. Você tem quatro minutos para cumprir a tarefa. O tempo começa agora.
+
+[SubMission_01.Description]
+Precisamos usar um helicóptero de transporte para levar a esquadra de engenheiros de combate ao povoado. Para isso, aguarde sua chegada na tenda mais próxima da área de pouso.
+
+[SubMission_01.Success]
+Tarefa concluída.
+
+[SubMission_01.Failed]
+Tarefa fracassada.
+
+[SubMission_02.Objectives]
+Use o helicóptero para levar a esquadra de engenheiros de combate ao povoado. Você tem seis minutos para cumprir a tarefa. O tempo começa agora.
+
+[SubMission_02.Description]
+Um helicóptero de transporte do Exército dos EUA é capaz de transferir uma esquadra de infantaria sobre as montanhas. Use-o para levar rapidamente sua esquadra de engenheiros de combate ao povoado atacado pelo exército inimigo.
+
+[SubMission_02.Success]
+Tarefa concluída.
+
+[SubMission_02.Failed]
+Tarefa fracassada.
+
+[SubMission_03.Objectives]
+Minere a ponte com minas antitanque. Você tem seis minutos para cumprir a tarefa. O tempo começa agora.
+
+[SubMission_03.Description]
+Unidades inimigas estão nos acessos ao povoado; as tropas aliadas mal conseguem conter o ímpeto. É preciso minerar a ponte com minas antitanque para que os tanques inimigos caiam na armadilha.
+
+[SubMission_03.Success]
+Tarefa concluída.
+
+[SubMission_03.Failed]
+Tarefa fracassada.
+
+[SubMission_04.Objectives]
+Destrua as unidades inimigas.
+
+[SubMission_04.Description]
+Use todos os meios disponíveis para destruir o exército inimigo. Use a vantagem tática das forças aliadas, bem como o mais novo tanque do Exército dos EUA.
+
+[SubMission_04.Success]
+Tarefa concluída.
+
+[SubMission_04.Failed]
+Tarefa fracassada.
+
+[StringTable.avia_report]
+Há apoio aéreo disponível. Especifique um ponto no terreno para onde o apoio aéreo deve ser direcionado. Os aviões de ataque atacam o inimigo de forma independente.
+
+[StringTable.msg_01_01]
+Sob o seu comando está uma esquadra de engenheiros de combate.
+Quando o "modo clássico de seleção de unidades" está ativado nas configurações, você pode selecionar toda a esquadra de infantaria clicando com o botão esquerdo em um dos soldados com a tecla Alt pressionada (ou com um clique duplo do botão esquerdo). Quando o modo clássico está desativado, um soldado individual é selecionado com a tecla Alt pressionada.
+
+[StringTable.msg_01_02]
+Envie a esquadra para a tenda marcada com um sinal de fumaça vermelha. Aguarde a chegada do helicóptero.
+
+[StringTable.msg_02_01]
+Para embarcar a esquadra no helicóptero, selecione a esquadra e clique com o botão direito no helicóptero.
+
+[StringTable.msg_02_02]
+Para enviar o helicóptero ao ponto desejado, basta selecioná-lo e clicar com o botão direito em um ponto do solo perto da fumaça de sinalização vermelha, junto ao vilarejo.
+
+[StringTable.msg_02_03]
+Para desembarcar a esquadra do helicóptero, use o comando "Desembarcar" {hkey:evacuate}.
+
+[StringTable.msg_02_04]
+Envie sua esquadra para perto da ponte, guiando-se pela fumaça de sinalização vermelha.
+
+[StringTable.msg_03_01]
+Os engenheiros de combate têm maior chance de detectar minas inimigas no modo de desminagem. A habilidade de engenheiro de combate é marcada por um ícone de mina no ícone do soldado no painel inferior ao selecionar a esquadra.
+Os engenheiros de combate estão armados com dois tipos de minas:
+- As minas antitanque detonam somente sob veículos e não reagem à infantaria. Seu efeito explosivo é suficiente para imobilizar um tanque.
+- As minas antipessoais são eficazes contra a infantaria, mas também detonam sob veículos sem causar danos significativos.
+Lembre-se de que as minas podem ser detonadas por uma explosão externa.
+
+[StringTable.msg_03_02]
+Para colocar uma mina antitanque, selecione o soldado necessário, selecione a mina antitanque em sua interface, selecione o comando "Minar" {hkey:mining} e especifique um ponto no solo ou na ponte onde a mina será colocada. A mina colocada será marcada com uma bandeira.
+
+[StringTable.msg_03_03]
+Você pode especificar vários pontos mantendo a tecla SHIFT pressionada, depois cancelar o comando com o botão esquerdo e, mantendo SHIFT novamente, especificar o ponto de retirada com o botão direito. Então o engenheiro de combate, após colocar as minas, recuará até o ponto especificado.
+
+[StringTable.msg_03_04]
+O inimigo tem uma vantagem significativa em forças. Recue sua esquadra para a retaguarda do flanco direito do vilarejo. Há um tanque pesado vazio ali.
+
+[StringTable.msg_03_05]
+Se o tanque inimigo chegar à ponte, ele detonará uma mina e bloqueará o caminho para outros veículos.
+
+[StringTable.msg_04_01]
+Antes de embarcar no tanque, é aconselhável lançar uma granada de fumaça perto dele para escondê-lo do inimigo. Assim a tripulação terá mais tempo para preparar o tanque para o combate e distribuir as funções na tripulação.
+
+[StringTable.msg_04_02]
+Para capturar o tanque, selecione a esquadra de engenheiros de combate e clique nele com o botão direito; esses soldados são bem treinados e capazes de operar o tanque.
+
+[StringTable.msg_04_03]
+Note que cada tipo de veículo móvel tem características de velocidade máxima e número de marchas. Essas características, bem como a habilidade do motorista, a potência do motor, a massa do veículo, a massa rebocada, a inclinação do terreno e o tipo de solo, afetam diretamente a taxa de aceleração e a velocidade máxima possível de deslocamento.
+
+[StringTable.msg_04_04]
+A experiência insuficiente do motorista pode levar a uma aceleração lenta do veículo, a paradas aleatórias por erros na troca de marchas ou a calços temporários do motor.
+
+[StringTable.msg_04_05]
+Destrua as forças inimigas que avançam.
+Para entrar na linha de tiro, procure sempre escolher a rota de movimento ideal do tanque para não expor os flancos ao fogo.

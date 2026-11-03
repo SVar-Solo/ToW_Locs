@@ -1,0 +1,123 @@
+﻿[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Objectives]
+Destroy the enemy's defenses near the airfield.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Objectives]
+Eliminate the attacking hostiles. Do not let the enemy capture the inhabited locality.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Description]
+The enemy is setting up fierce resistance in the area. According to reconnaissance, the enemy has concentrated their forces to launch an offensive and capture the inhabited locality. You must fend off the coming attack. Do not let the enemy capture the position.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Description]
+You must capture the enemy airfield to the northwest, which is marked on the map. You will have to destroy the enemy defenses located on the approaches to the airfield.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Success]
+Airfield captured.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Success]
+Airfield captured.
+
+[BriefingSubmissions.STORM.attack_rus.assault_usa.Mission.Failed]
+Friendly troops defeated.
+
+[BriefingSubmissions.ATTACK.attack_rus.defend_usa.Mission.Failed]
+Friendly troops defeated.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Objectives]
+Fend off the enemy attack. Do not allow the enemy to capture the inhabited locality.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.AI_STORM.assault_rus.attack_usa.Mission.Description]
+The enemy is trying to secure the area around the inhabited locality. Fend off the enemy attack, and do not let them capture the position.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Objectives]
+Repel all enemy attacks on the inhabited locality.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Objectives]
+Repel all enemy attacks on the inhabited locality.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Success]
+Mission accomplished.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Failed]
+Mission failed.
+
+[BriefingSubmissions.DEFEND.defend_rus.attack_usa.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingSubmissions.SIEGE.defend_rus.attack_usa.Mission.Description]
+Do not let the enemy capture the inhabited locality that stands at the road junction. Use light fortifications in the area.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.Tanks_inf_support]
+Infantry-armor team is at your command.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.AVIA_SUPPORT]
+Air force is available.
+
+[BriefingElements.AI_STORM.assault_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.Mechs_inf_support]
+Mechanized infantry is at your disposal.
+
+[BriefingElements.STORM.attack_rus.assault_usa.Mechs_inf_support]
+Mechanized infantry is at your disposal.
+
+[BriefingElements.STORM.attack_rus.assault_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.ART_SUPPORT]
+Artillery is available.
+
+[BriefingElements.STORM.attack_rus.assault_usa.AVIA_SUPPORT]
+Air forces are at your disposal.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.AVIA_SUPPORT]
+Air forces are at your disposal.
+
+[BriefingElements.STORM.attack_rus.assault_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.ATTACK.attack_rus.defend_usa.MORTAR_SUPPORT]
+Mortar support is available.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.SPG_inf_support]
+Infantry-SPG team is at your disposal.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.SPG_inf_support]
+Infantry-SPG team is at your disposal.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.ART_SUPPORT]
+Artillery support is available.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.AVIA_SUPPORT]
+Air support is at your disposal.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.AVIA_SUPPORT]
+Air support is at your disposal.
+
+[BriefingElements.DEFEND.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[BriefingElements.SIEGE.defend_rus.attack_usa.MORTAR_SUPPORT]
+Mortar support is at your command.
+
+[Reinforcement.Group1[Reinforcement]]
+Reserve infantry-armor team
+

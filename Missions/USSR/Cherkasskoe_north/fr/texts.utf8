@@ -1,0 +1,58 @@
+﻿[Mission.Objectives]
+Empêchez l’ennemi de percer la ligne de front. 
+[Mission.Description]
+L’ennemi tente de percer la défense de la division. L’ordre est de tenir Tcherkasskoïe. Accordez une priorité particulière au maintien de la première tranchée et du point d’appui antichar. Contre-attaquez les groupes ennemis qui avancent.
+[Submission1.Objectives]
+Détruisez les chars ennemis.
+[Submission2.Objectives]
+Empêchez l’ennemi de déborder nos positions.
+[Submission3.Objectives]
+L’ennemi a percé la ligne de front avec des chars et de l’infanterie et poursuit son avance.
+[Submission4.Objectives]
+Une unité ennemie de la taille d’une compagnie, appuyée par des chars lourds et des canons d’assaut, a lancé l’assaut sur le village. Repoussez l’attaque ennemie.
+[Mission.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Mission.Failed]
+Nos forces se replient sous l’assaut d’un ennemi supérieur en nombre.
+[Submission1.Success]
+Mission accomplie, les chars ennemis ont été détruits. 
+[Submission1.Failed]
+Mission échouée, les chars ennemis poursuivent leur progression.
+[Submission2.Success]
+Mission accomplie, la manœuvre de débordement a été déjouée.
+[Submission2.Failed]
+Les chars ennemis ont débordé nos positions.
+[Submission_2_1.Success]
+Mission accomplie, le groupe d’enveloppement est détruit.
+[Submission_2_1.Failed]
+Contre-attaque repoussée, l’ennemi poursuit son avance.
+[Submission_2_2.Success]
+Les chars ennemis qui avaient percé ont été détruits, l’équilibre est rétabli.
+[Submission_2_2.Failed]
+La contre-attaque a échoué. Les chars ennemis ont atteint les arrières de la division !
+[Submission3.Success]
+Mission accomplie. 
+[Submission3.Failed]
+L’ennemi a percé et progresse vers le poste de commandement de la division !
+[Submission4.Success]
+Mission accomplie, les attaques ennemies ont été repoussées.
+[Submission4.Failed]
+Nos forces se replient sous les coups d’un ennemi supérieur en nombre. 
+[StringTable.Tanks!]
+Des chars ! Préparez-vous à repousser l’attaque blindée.
+[StringTable.Stukas]
+Frappe aérienne ! À couvert !
+[StringTable.SM2]
+Nous avons bien étrillé ces chars, et les aviateurs nous ont donné un coup de main.
+[StringTable.SM2_1]
+Les Allemands vont très probablement passer par nos positions. Surveillez les flancs !
+
+[StringTable.SPGs_Tanks]
+Chars et canons automoteurs du 245e RCI et du 1440e RAA
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+아군은 포위당했으며 지금 돌파를 시도하고 있다.
+[Mission.Description]
+귀관의 주요 목표는 적의 포위망을 돌파하는 것이다. 강까지 길을 뚫은 뒤 러시아군이 대전차 방어 진지를 구축하지 못하도록 막아, 후속 부대가 방해받지 않고 진격할 수 있게 하라.
+[Mission.Success]
+포위망을 돌파하는 데 성공했다.
+[Mission.Failed]
+귀관의 부대는 돌파에 실패했다.
+[Submission_1.Objectives]
+포위망을 돌파하여 강변 도시를 향해 진격하라. 진격로를 넓히기 위해 마주치는 모든 적 부대와 교전하여 격파하라. 
+[Submission_1.Description]
+명령:
+	- 강변 도시로 진격할 것
+	- 도중에 만나는 모든 적 부대를 파괴할 것
+[Submission_1.Success]
+승리! 귀관의 부대가 돌파하여 강변에 거점을 구축했다.
+[Submission_1.Failed]
+실패했다. 아군은 돌파에 실패했다.
+[StringTable.ger_reserv]
+사령부가 귀관의 지휘 하에 장갑 부대 몇 개를 배정했다. 현명하게 운용하라, 지휘관!

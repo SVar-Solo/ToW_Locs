@@ -1,0 +1,33 @@
+﻿[Mission1.Objectives]
+Odeprzeć niemiecki atak z zachodu.
+[Mission1.Description]
+Niemiecka 3. dywizja pancerna zmierza z zachodu w kierunku Czerna, by przełamać naszą obronę i zbliżyć się do Tuły. Wróg ma znaczną przewagę liczebną.
+Twoje rozkazy: 
+-	Zatrzymać niemiecką 3. dywizję pancerną. 
+[Mission1.Success]
+Atak wojsk nieprzyjaciela został odparty! Niemcom nie udało się przełamać obrony w Czernie!
+[Mission1.Failed]
+Wróg przebił się przez obronę i dotarł do stacji! Jeszcze jeden krok w kierunku Moskwy...
+[Mission1_1.Objectives]
+Odeprzeć nieprzyjaciela, nacierającego z południa.
+[Mission1_1.Description]
+Niemieckie oddziały przebiły się przez linie frontu na południe od Czerna i w tej chwili szybko zbliżają się, by okrążyć nasze siły i połączyć się z 3. dywizją pancerną przed atakiem na Tułę.
+Twoje rozkazy:
+-	Zatrzymać nieprzyjaciela, nacierającego z południa.
+[Mission1_1.Success]
+Udało się odeprzeć atak nieprzyjaciela!
+[Mission1_1.Failed]
+Wróg przebił się do stacji! Nie wykonałeś zadania.
+[Submission1.Objectives]
+Obronić i utrzymać stację Czerno.
+[Submission1.Description]
+Niemieckie jednostki atakują nasze pozycje w pobliżu stacji Czern. Między nimi a Tułą jesteśmy tylko my i za wszelką cenę musimy zatrzymać wroga. 
+Twoje rozkazy: 
+-	Obronić się w rejonie stacji Czerno. 
+-	Uniemożliwić nieprzyjacielowi przebicie się do Tuły.
+[Submission1.Success]
+Wróg został zniszczony! Zadanie wykonane!
+[Submission1.Failed]
+Nieprzyjaciel przebił się przez naszą obronę. Droga do Tuły stoi otworem!
+[StringTable.Reserv]
+Przybyły posiłki.

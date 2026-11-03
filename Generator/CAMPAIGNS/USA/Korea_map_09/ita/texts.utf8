@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Attaccate e mettete in sicurezza le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+Le posizioni nemiche in questa valle sorvegliano il principale corridoio di trasporto che collega le loro forze orientali e occidentali. Dovete conquistare le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Le vostre perdite sono troppo pesanti. Missione fallita.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Attaccate le posizioni nemiche segnate sulla mappa. Distruggete le loro difese e respingete tutti i contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Le vostre perdite sono troppo pesanti. Missione fallita.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+Le posizioni nemiche in questa valle sorvegliano il principale corridoio di trasporto che collega le loro forze orientali e occidentali. Dovete conquistare le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Respingete tutti gli attacchi nemici e sostenete le truppe in difesa con un contrattacco.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Respingere tutti gli attacchi nemici entro il tempo stabilito dal quartier generale.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Missione fallita.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile, in attesa di ordini.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Aeroporto conquistato.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+La forza di carri armati di riserva è disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+La forza di carri armati di riserva è disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Supporto di artiglieria disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Aviazione disponibile.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva attende ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+La squadra di fanteria di riserva attende ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artiglieria disponibile.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+L'aviazione attende ordini.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Supporto di mortai disponibile.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Success]
+Missione compiuta.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Failed]
+Missione fallita.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Failed]
+Missione fallita.
+
+[Reinforcement.Group1[Reinforcement]]
+Mezzi corazzati e fanteria
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Attaccate e mettete in sicurezza le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+Le posizioni nemiche in questa valle sorvegliano il principale corridoio di trasporto che collega le loro forze orientali e occidentali. Dovete conquistare le posizioni nemiche segnate sulla mappa.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Attaccate le posizioni nemiche segnate sulla mappa. Distruggete le loro difese e respingete tutti i contrattacchi nemici.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Secondo la ricognizione, un distaccamento avanzato nemico ha conquistato il villaggio segnato sulla mappa. Riprendetelo prima che il nemico possa rinforzarsi e organizzare le difese. Durante l'attacco mantieni la ricognizione e fate attenzione alle riserve nemiche in avvicinamento.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Respingere tutti gli attacchi nemici.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Il nostro gruppo avanzato, composto da fanteria e artiglieria semovente, ha interrotto il principale corridoio di trasporto nemico. Mantenete le posizioni conquistate e non permettete al nemico di ripristinare le sue linee di rifornimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Respingere tutti gli attacchi nemici.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Objectives]
+Conquistare e mantenere il villaggio
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Description]
+Marcia forzata fino al villaggio segnato sulla mappa. Organizzate lì le difese e mantenetelo per il tempo stabilito, fino all'arrivo del grosso delle nostre forze.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Description]
+Marcia forzata fino al villaggio segnato sulla mappa. Organizzate lì le difese e mantenetelo per il tempo stabilito, fino all'arrivo del grosso delle nostre forze.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Objectives]
+Conquistare e mantenere il villaggio
+

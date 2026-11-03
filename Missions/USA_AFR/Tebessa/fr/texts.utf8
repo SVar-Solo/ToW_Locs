@@ -1,0 +1,30 @@
+﻿[Mission.Objectives]
+Brisez l’ennemi
+[Mission.Description]
+Lieutenant-colonel Waters ! Vous devez briser l’attaque ennemie sur Tébessa.
+[Mission.Success]
+L’ordre a été exécuté ! L’ennemi n’a pas réussi à percer jusqu’à Tébessa.
+[Mission.Failed]
+L’ennemi a percé nos défenses et avance rapidement vers Tébessa.
+[StringTable.Reinf]
+Colonel Waters ! Des renforts sont en route. Tenez bon !
+[Submission1.Objectives]
+Tenez la ligne
+[Submission1.Description]
+Tenez la ligne ! L’ennemi ne doit pas percer le col !
+[Submission1.Success]
+L’ennemi a été vaincu et prend la fuite !
+[Submission1.Failed]
+L’ennemi a percé les défenses ! Nos troupes se replient sur Tébessa.
+[StringTable.Woters]
+Soldats, à l’action ! Nous ne devons pas céder devant l’ennemi !
+[StringTable.Woters1]
+Voilà les Allemands.
+[StringTable.Woters2]
+Les renforts sont arrivés.
+[StringTable.Woters3]
+Merde ! Les Allemands ont neutralisé l’artillerie sur la hauteur.
+[StringTable.tank_spg]
+Chars et canons automoteurs
+[StringTable.human]
+Infanterie.

@@ -1,0 +1,192 @@
+﻿[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Objectives]
+Ataque e assegure as posições inimigas assinaladas no mapa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Description]
+As posições inimigas neste vale guardam o principal corredor de transporte, que liga suas forças do leste e do oeste. Você deve capturar as posições inimigas assinaladas no mapa.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_prk.defend_usa.Mission.Failed]
+Suas baixas são excessivas. Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Objectives]
+Ataque as posições inimigas assinaladas no mapa. Destrua suas defesas e repila todos os contra-ataques inimigos.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Failed]
+Suas baixas são excessivas. Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_prk.assault_usa.Mission.Description]
+As posições inimigas neste vale guardam o principal corredor de transporte, que liga suas forças do leste e do oeste. Você deve capturar as posições inimigas assinaladas no mapa.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Objectives]
+Repila todos os ataques inimigos e apoie as tropas defensoras lançando um contra-ataque.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_prk.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Objectives]
+Repila todos os ataques inimigos.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Objectives]
+Repila todos os ataques inimigos dentro do tempo especificado pelo quartel-general.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_prk.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_prk.attack_usa.Mission.Failed]
+Missão fracassada.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.ART_SUPPORT]
+Apoio de artilharia disponível, aguardando ordens.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.AVIA_SUPPORT]
+Apoio aéreo disponível.
+
+[BriefingElements.AI_STORM.assault_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.Tanks_support]
+Força de tanques da reserva disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.Tanks_support]
+Força de tanques da reserva disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.ART_SUPPORT]
+Apoio de artilharia disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.AVIA_SUPPORT]
+Força aérea disponível.
+
+[BriefingElements.ATTACK.attack_prk.defend_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.STORM.attack_prk.assault_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.Infantry_support]
+A equipe de infantaria da reserva está aguardando ordens.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.Infantry_support]
+A equipe de infantaria da reserva está aguardando ordens.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.ART_SUPPORT]
+Artilharia disponível.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.AVIA_SUPPORT]
+A força aérea está aguardando ordens.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.AVIA_SUPPORT]
+A força aérea está aguardando ordens.
+
+[BriefingElements.DEFEND.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingElements.SIEGE.defend_prk.attack_usa.MORTAR_SUPPORT]
+Apoio de morteiros disponível.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Success]
+Missão cumprida.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Failed]
+Missão fracassada.
+
+[Reinforcement.Group1[Reinforcement]]
+Veículos blindados e infantaria
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Objectives]
+Ataque e assegure as posições inimigas assinaladas no mapa.
+
+[BriefingSubmissions.ATTACK.attack_usa.defend_prk.Mission.Description]
+As posições inimigas neste vale guardam o principal corredor de transporte, que liga suas forças do leste e do oeste. Você deve capturar as posições inimigas assinaladas no mapa.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Objectives]
+Ataque as posições inimigas assinaladas no mapa. Destrua suas defesas e repila todos os contra-ataques inimigos.
+
+[BriefingSubmissions.STORM.attack_usa.assault_prk.Mission.Description]
+Segundo o reconhecimento, um destacamento avançado inimigo capturou a aldeia assinalada no mapa. Retome-a antes que o inimigo tenha chance de reabastecer suas forças e estabelecer suas defesas. Durante o ataque, mantenha o reconhecimento e fique atento às reservas inimigas que se aproximam.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Objectives]
+Repila todos os ataques inimigos.
+
+[BriefingSubmissions.DEFEND.defend_usa.attack_prk.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Description]
+Nosso grupo avançado, composto por infantaria e artilharia autopropulsada, cortou o principal corredor de transporte do inimigo. Mantenha as posições capturadas e não deixe que o inimigo restabeleça suas linhas de suprimento.
+
+[BriefingSubmissions.SIEGE.defend_usa.attack_prk.Mission.Objectives]
+Repila todos os ataques inimigos.
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Objectives]
+Capture e mantenha a aldeia
+
+[BriefingSubmissions.AI_STORM.assault_usa1.attack_prk.Mission.Description]
+Avance em marcha forçada até a aldeia assinalada no mapa. Estabeleça suas defesas ali e mantenha-a pelo período de tempo designado, até a chegada do grosso de nossas forças.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Description]
+Avance em marcha forçada até a aldeia assinalada no mapa. Estabeleça suas defesas ali e mantenha-a pelo período de tempo designado, até a chegada do grosso de nossas forças.
+
+[BriefingSubmissions.AI_STORM.assault_usa2.attack_prk.Mission.Objectives]
+Capture e mantenha a aldeia
+

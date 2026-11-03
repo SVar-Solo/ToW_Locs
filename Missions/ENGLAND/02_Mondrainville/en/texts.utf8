@@ -1,0 +1,46 @@
+﻿[Mission.Objectives]
+Liberate Mondrainville, press southward, secure the road to Caen, and eliminate all enemy strong points.
+[Mission.Description]
+Press forward, block the road to Caen, and clear the enemy from the area surrounding Mondrainville.
+[Submission_01.Success]
+Mondrainville captured.
+[Submission_01.Failed]
+Failed to capture Mondrainville.
+[Submission_1.Objectives]
+Drive the enemy from the farm.
+[Submission_1.Description]
+According to air recon, there is an enemy artillery battery at the farm. Eliminate it.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission1_2.Objectives]
+[Submission1_2.Description]
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Repel the enemy attack on Mondrainville.
+[Submission_3.Description]
+In an attempt to hold Mondrainville, the enemy is sending in reinforcements.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_2.Objectives]
+Secure the road to Caen.
+[Submission_2.Description]
+Dislodge the enemy from the group of buildings along the road to Caen.
+[Submission_3.Success]
+Attack repelled.
+[Submission_3.Failed]
+Mission failed.
+[Submission_1.Success]
+Artillery battery eliminated. Farm secured.
+[Submission_1.Failed]
+Failed to accomplish the task.
+[Submission_2.Success]
+Road secured.
+[Submission_2.Failed]
+Failed to accomplish the task.
+[Mission.Success]
+Mission accomplished.
+[Mission.Failed]
+Mission failed.
+[StringTable.Tanks]
+Reserve force available.

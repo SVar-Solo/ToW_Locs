@@ -1,0 +1,23 @@
+﻿[Mission.Objectives]
+Détruire les défenses ennemies et capturer le village.
+[Mission.Description]
+L’ennemie a fait de ce village une importante position stratégique, le QG demande de s’en emparer. Le terrain dans le secteur comprend une grosse colline qui domine la localité, ce qui gêne toute observation à distance. Nos reconnaissances indiquent que l’ennemi est bien retranché et appuyé par de l’artillerie auto-tractée et des canons AC. 
+ 
+Vos ordres :
+- détruire les défenses ennemies.
+- s’emparer du village.
+[Mission.Success]
+Beau travail, commandant !
+[Mission.Failed]
+Vous avez échoué ! Vos troupes ont été battues.
+[Submission_1.Objectives]
+Capturer la position ennemie.
+[Submission_1.Description]
+Le relief du terrain nous oblige à engager le combat à moins de 500 m, mais il faut s’emparer de ce village à tout prix.
+ 
+Vos ordres :
+- en utilisant tous les moyens à votre disposition, repoussez l’ennemi et occupez ses positions !
+[Submission_1.Success]
+Beau travail, commandant ! Vos troupes sont victorieuses.
+[Submission_1.Failed]
+Vous avez échoué !

@@ -1,0 +1,58 @@
+﻿[Submission1.Objectives]
+Keep the defenses from being breached by the enemy attacking from the west.
+[Submission1.Description]
+After a long delay, the Americans have begun approaching the area around Arras. The situation on this part of the front is very grave. The enemy army is advancing from the west and has numerical superiority.
+
+Your orders:
+- 	Keep our defenses from being breached by an enemy attack from the West.
+[Submission1.Success]
+Mission accomplished! The enemy is falling back.
+[Submission1.Failed]
+The enemy had broken through our defenses – we’ll have to retreat!
+[Mission1.Objectives]
+Stop the American advance.
+[Mission1.Description]
+The American 3rd Army has approached our defensive lines. The Americans are preparing for a large-scale advance all along the front line and from different directions. We’ll have to cover the retreat of our troops by holding back this latest advance.
+
+Your orders: 
+-	Hold the defenses in the area specified.
+- 	Stop the enemy troops on this part of the front line.
+[Mission1.Success]
+Mission accomplished! The American attack is now in tatters! This shows again the overwhelming superiority of German weapons.
+[Mission1.Failed]
+Your defenses have been breached! Germany will not forget the Reich’s fallen soldiers but will hardly remember their worthless commander!
+[Submission2.Objectives]
+Prevent your Southern defenses from being breached.
+[Submission2.Description]
+A large group of US troops is moving in from the south. Aircraft and artillery support their advance.
+
+Your orders: 
+- 	Resist this new assault from the South.
+[Submission2.Success]
+Mission accomplished, the enemy been stopped!
+[Submission2.Failed]
+The enemy has broken through your defenses!
+[Submission3.Objectives]
+Another attack wave is approaching from the Southwest
+[Submission3.Description]
+Reconnaissance says enemy troops are advancing from the Southwest.
+
+Your orders: 
+- 	Beat off the enemy attack coming from the Southwest.
+[Submission3.Success]
+You’ve succeeded in beating off the enemy attack!
+[Submission3.Failed]
+The enemy broken your defenses; you’ll have to fall back!
+[Submission4.Objectives]
+Resist this new attack originating from the Northwest.
+[Submission4.Description]
+A group of US troops is moving from the Northwest.
+
+Your orders: 
+ -	 Hold out against the enemy troops attacking from the Northwest.
+[Submission4.Success]
+Mission accomplished!
+[Submission4.Failed]
+The defenses of your troops have been broken!
+[StringTable.Reserv]
+You’ve got reinforcements.

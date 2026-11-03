@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Halten Sie die Linie im südlichen Teil des Dorfes Werchopenje.
+[Mission.Description]
+Sichern Sie zusammen mit einer Batterie Panzerabwehrartillerie, einer Panzerbüchseneinheit und mehreren Panzern die Stellung südöstlich von Werchopenje. Besondere Aufmerksamkeit sollte dem Halten der Stellungen in der Gegend um die Brücken, die über die Pena führen, gewidmet werden. Verhindern Sie, dass der Feind den Fluss überquert.
+[Mission.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Mission.Failed]
+Der Feind hat am westlichen Ufer der Pena eine Stellung errichtet, unsere Truppen müssen sich zurückziehen.
+[Submission_1.Objectives]
+Besetzen Sie die aufgegebenen Stellungen. Überwachen Sie das Ausweichen über den Fluss. 
+[Submission_1.Success]
+Die Hauptkräfte haben die Verteidigung entlang des Flussufers erfolgreich durchgeführt.
+[Submission_1.Failed]
+Die Aufnahmetruppe wurde besiegt, die Hauptkräfte sind in Gefahr.
+[Submission_2.Objectives]
+Besetzen Sie die Stellungen in der Nähe des Übergangs. Verhindern Sie, dass der Feind auf das gegenüberliegende Ufer wechseln kann.
+[Submission_2.Success]
+Mission abgeschlossen, die feindlichen Angriffe wurden abgewehrt.
+[Submission_2.Failed]
+Der Feind hat die Brigade gefangen genommen und richtet einen Brückenkopf auf unserem Ufer ein!
+[Submission_3.Objectives]
+Weichen Sie zum anderen Ufer der Pena aus. Verhindern Sie, dass der Feind den Fluss überquert. 
+[Submission_3.Success]
+Der Feind wurde vor der Wassersperre aufgehalten.
+[Submission_3.Failed]
+Der Feind hat den Fluss überquert und unsere Truppen aus dem südlichen Teil des Dorfes Werchopenje zurückgedrängt.
+[StringTable.Add_to_plArmy]
+Alle Einheiten in Stellungen entlang des Flussufers der Pena stehen jetzt unter Ihrem Kommando.
+[StringTable.Rus_Tanks]
+Eine Panzergruppe aus der Reserve steht jetzt unter Ihrem Kommando.
+[StringTable.infantry]
+Eine Infanterieeinheit aus der Reserve steht jetzt unter Ihrem Kommando.
+
+[StringTable.inf]
+Infanterie
+[StringTable.Tanks]
+Panzer des 6. Panzerkorps
+
+[StringTable.avia_report]
+Luftunterstützung ist verfügbar.
+[StringTable.art_report]
+Artillerieunterstützung steht bereit.
+[StringTable.jetmortar_report]
+Raketenartilleriebatterie ist bereit zum Feuern.

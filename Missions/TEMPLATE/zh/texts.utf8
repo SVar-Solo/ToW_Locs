@@ -1,0 +1,237 @@
+﻿[TEMPLATE.FullName]
+新战役
+
+[TEMPLATE.Description]
+战役描述
+
+[HAMGEN_PUKTO.FullName]
+咸镜北道
+
+[HAMGEN_PUKTO.Description]
+咸镜北道是朝鲜最北端的省份。北部与中国接壤，漫长的东部海岸线濒临日本海。该省拥有朝鲜的主要铁路枢纽，负责处理来自中国和苏联的货运。地形以平原为主，但西部有一大片山脉。
+
+[YANGANDO.FullName]
+两江道
+
+[YANGANDO.Description]
+两江道北部与中国接壤。该省大部分被山地占据，狭窄的山口纵横交错，几乎无法通行。尽管如此，两江道仍是极其重要的战略区域，因为来自苏联的主要铁路干线通向这里，为朝鲜军队供应军事装备和武器。
+
+[HAMGEN_NAMDO.FullName]
+黄海南道
+
+[HAMGEN_NAMDO.Description]
+黄海南道西部虽多山，但向东延伸至日本海沿岸时则逐渐变为优质农田。这片富饶的土地出产稻米、小麦和油菜，使该省成为朝鲜主要的农业中心。夺取黄海南道将为向北进一步作战提供绝佳的立足点。
+
+[CHAGANDO.FullName]
+慈江道
+
+[CHAGANDO.Description]
+慈江道北部与中国接壤，是朝鲜工业最发达的省份之一。其主要铁路枢纽负责处理来自中国和苏联的全部货物，该省还设有朝鲜军队的主要补给基地。慈江道不临海。
+
+[PHENAN_PUKTO.FullName]
+平安北道
+
+[PHENAN_PUKTO.Description]
+平安北道位于北部，与中国接壤。其首府新义州是重要的交通枢纽，龙岩浦港是黄海渔业的主要中心之一。地形以山地为主，沿海地区则以山谷为主。
+
+[PHENAN_NAMDO.FullName]
+平安南道
+
+[PHENAN_NAMDO.Description]
+朝鲜的平安南道，首府为平城，北邻平安北道和慈江道，东邻黄海南道和江原道，东南接黄海北道，南邻平壤。西临黄海。该省作为部队和物资海运调动的集结地，具有战略价值。
+
+[PHENYAN.FullName]
+平壤
+
+[PHENYAN.Description]
+平壤——既是首都城市，也是周边省份的名称——是朝鲜的重要经济中心，也是重要的工业重镇。平壤市坐落在群山环绕的平原上。1946年，它从平安南道分出，成为独立的省份。该市及周边地区防御工事密布，守备森严。
+
+[KANWONDO_PUKTO.FullName]
+江原北道
+
+[KANWONDO_PUKTO.Description]
+朝鲜的江原北道位于边境地区。该省大部分为高地，但沿海岸线的地形适合车辆通行。
+
+[HVANHE_PUKTO.FullName]
+黄海北道
+
+[HVANHE_PUKTO.Description]
+黄海北道的南部边界沿北纬38度线。敌军集中在南面。该省对于保卫朝鲜首都平壤具有至关重要的战略意义。
+
+[KANWONDO_NAMDO.FullName]
+江原南道
+
+[KANWONDO_NAMDO.Description]
+江原南道的北部边界沿北纬38度线，该线将朝鲜半岛划分为朝鲜和韩国。该省多山，没有任何重型防御工事，山口地势险恶：即使是一支小规模的防御部队也能牵制住占优势的进攻部队。小村庄和寺院已被改造为极难攻克的防御堡垒。只有不适合车辆通行的岩石小径尚未被占据。
+
+[KENGIDO.FullName]
+京畿道
+
+[KENGIDO.Description]
+京畿道是韩国首都首尔所在地，是战略上至关重要的省份。该省虽以平原为主，但散布着居民点，其中许多已被加固。首尔本身自然由韩国最富经验的部队守卫，周围同样环绕着重型防御工事。该省北部边界沿北纬38度线，该线将朝鲜半岛划分为朝鲜和韩国。
+
+[KENSAN_PUKTO.FullName]
+庆尚北道
+
+[KENSAN_PUKTO.Description]
+庆尚北道可通往朝鲜半岛东海岸。谁控制了这个省，谁就能通过海路获得补给，这是巨大的战略优势。庆尚北道有众多山谷，但靠近东海岸处，山势降低，山谷变宽变平。这使该地区非常便于进攻，却难以防守。
+
+[CHUNCHON_PUKTO.FullName]
+忠清北道
+
+[CHUNCHON_PUKTO.Description]
+忠清北道是通往韩国首都首尔的主要交通走廊。该省集中了众多军事基地和防御工事。控制忠清北道将带来显著优势。
+
+[CHUNCHON_NAMDO.FullName]
+忠清南道
+
+[CHUNCHON_NAMDO.Description]
+忠清南道的大部分地区被几乎无法通行的山地占据，但有些地区易受攻击，当然这些地区防御森严、工事坚固。所有人口聚居地都已被改造为据点，但部分岩石小径车辆无法通行。这使其成为小股步兵分队的理想之地，他们可以隐蔽机动，出其不意地打击敌人。
+
+[PUSAN.FullName]
+釜山
+
+[PUSAN.Description]
+釜山防御圈是韩军的最后阵地。这一最重要的战略区域是美军的滩头阵地，拥有众多防御严密的据点。夺取釜山防御圈以及釜山、蔚山和浦项港，将阻止联合国军向这里运送增援和补给。
+
+[KENSAN_NAMDO.FullName]
+庆尚南道
+
+[KENSAN_NAMDO.Description]
+庆尚南道与全罗北道和庆尚北道相邻。该省大部分为山地，境内有三座国家公园：伽倻山、德裕山和智异山。最高峰是德裕山（1614米）。与朝鲜半岛其他地区一样，该省属季风气候：夏季温暖潮湿，冬季相对寒冷干燥。年平均气温为10.6摄氏度，年降水量为1395.2毫米（截至1993年）。大部分降水（850毫米）集中在持续整个夏季三个月的雨季。
+
+[CHOPLA_PUKTO.FullName]
+全罗北道
+
+[CHOPLA_PUKTO.Description]
+全罗北道位于西海岸。其港口对人员和物资的运输至关重要。然而，除沿海地区外，该省被险峻的山地占据，因此没有重型防御工事。
+
+[CHOPLA_NAMDO.FullName]
+全罗南道
+
+[CHOPLA_NAMDO.Description]
+全罗南道是韩国最南端的省份。北部地区以山地为主。然而，向南部和沿海地区，山地渐趋平缓，变为宽阔的山谷。就战略意义而言，该省南部因拥有众多大型港口，对海上补给运送十分重要。
+
+[Battle Group 6.Name]
+第1装甲师
+
+[Battle Group 13.Name]
+第2装甲师
+
+[Battle Group 4.Name]
+第101坦克旅
+
+[Battle Group 3.Name]
+第101机械化师
+
+[Battle Group 2.Name]
+第101步兵师
+
+[Battle Group 14.Name]
+第1步兵师
+
+[Battle Group 8.Name]
+第1机械化师
+
+[Battle Group 12.Name]
+第2炮兵师
+
+[Battle Group 9.Name]
+第1炮兵师
+
+[Battle Group 18.Name]
+第101炮兵师
+
+[Reinforcement.PRK_artillery]
+炮兵
+
+[Reinforcement.PRK_tanks]
+坦克
+
+[Battle Group 6.FullName]
+第1装甲师
+
+[Battle Group 8.FullName]
+第1机械化师
+
+[Battle Group 9.FullName]
+第1炮兵师
+
+[Battle Group 12.FullName]
+第2炮兵师
+
+[Battle Group 13.FullName]
+第2装甲师
+
+[Battle Group 14.FullName]
+第1步兵师
+
+[Battle Group 24.Name]
+第10炮兵师
+
+[Battle Group 24.FullName]
+第10炮兵师
+
+[Battle Group 25.Name]
+第10机械化师
+
+[Battle Group 25.FullName]
+第10机械化师
+
+[Battle Group 26.Name]
+第10步兵师
+
+[Battle Group 26.FullName]
+第10步兵师
+
+[Battle Group 27.Name]
+第10坦克旅
+
+[Battle Group 27.FullName]
+第10坦克旅
+
+[Battle Group 28.Name]
+第20机械化师
+
+[Battle Group 28.FullName]
+第20机械化师
+
+[Battle Group 29.Name]
+第20步兵师
+
+[Battle Group 29.FullName]
+第20步兵师
+
+[TEMPLATE.Epilogue]
+统帅部向你和你的部队的胜利致以祝贺！英勇无畏的精神，以及你的士兵和军官们无与伦比的表现，促成了这场伟大的胜利！但若没有你的指挥与控制、敏锐的战术嗅觉和战略远见，他们绝不可能成功！
+
+[TEMPLATE.FailureEpilogue]
+尽管你的部队英勇无畏，仍然被击败了。敌人过于强大。然而，任何惨痛的失败也是一堂好课，它会使未来的胜利更近一步。没有失败就没有胜利。战败之后，优秀的指挥官只会变得更强大、更睿智。
+
+[Battle Group 2.FullName]
+第101步兵师
+
+[Battle Group 3.FullName]
+第101机械化师
+
+[Battle Group 4.FullName]
+第101坦克旅
+
+[Battle Group 18.FullName]
+第101炮兵师
+
+[Reinforcement.PRK_Tank]
+坦克
+
+[Battle Group 30.Name]
+第107机械化师
+
+[Battle Group 30.FullName]
+第107机械化师
+
+[Battle Group 31.Name]
+第2坦克旅
+
+[Battle Group 31.FullName]
+第2坦克旅
+

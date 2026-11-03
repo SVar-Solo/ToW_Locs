@@ -1,0 +1,22 @@
+﻿[Submission_1.Objectives]
+Destroy the enemy defenses.
+[Submission_1.Description]
+While retreating, German troops formed up along a new defensive line in the area of Yadromino. You need to destroy these enemy defenses in order to continue your advance further toward Volokolamsk.
+
+Your order is to:
+- Destroy the enemy defenses.
+[Submission_1.Success]
+Your order has been fulfilled! You destroyed the enemy’s defense.
+[Submission_1.Failed]
+You failed to fulfill your task! Your troops were defeated.
+[Submission_2.Objectives]
+Repel the enemy attack.
+[Submission_2.Description]
+German troops have launched another counter-offensive to destroy our troops in this area. It is imperative that you do not give up any ground and hold out against this latest attack.
+
+Your order is to:
+-Repel the enemy’s attack.
+[Submission_2.Success]
+Task complete! You repelled the enemy attack.
+[Submission_2.Failed]
+Task failed! Your troops were defeated.

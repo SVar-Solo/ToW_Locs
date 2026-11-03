@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+我军已被包围，现正试图突围。
+[Mission.Description]
+你的主要目标是突破敌人的包围圈。一路杀到河边后，防止俄国人设置反坦克防御阵地，以便我们的后续部队畅通无阻地推进。
+[Mission.Success]
+你已成功突破包围圈。
+[Mission.Failed]
+你的部队未能突围。
+[Submission_1.Objectives]
+突破包围圈，向河畔的城镇推进。为拓宽我们的推进通道，与沿途遇到的所有敌军交战并将其消灭。 
+[Submission_1.Description]
+你的命令：
+	- 向河畔的城镇推进
+	- 消灭沿途的所有敌军
+[Submission_1.Success]
+胜利！你的部队已成功突破，并在河沿线建立了据点。
+[Submission_1.Failed]
+你失败了。我军未能实现突围。
+[StringTable.ger_reserv]
+司令部已将一些装甲部队划归你指挥。指挥官，请善加利用！

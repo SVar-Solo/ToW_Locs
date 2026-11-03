@@ -1,0 +1,29 @@
+﻿[Mission.Objectives]
+Localisez et détruisez la batterie antiaérienne ennemie.
+[Mission.Description]
+Le commandant de la division a ordonné l'envoi de groupes de reconnaissance et de sabotage chargés de détruire les postes de commandement de la défense aérienne et de neutraliser le plus de canons antiaériens possible. L'Unteroffizier Steiner rassemblera et dirigera un groupe de soldats très aguerris pour mener cette mission.
+[Submission_1.Objectives]
+Le groupe de Steiner doit s'infiltrer dans les positions de la batterie antiaérienne ennemie et la neutraliser. Un émetteur se trouve dans l'une des maisons du village. Utilisez-le pour appeler un appui aérien.
+[StringTable.radio_avia]
+L'émetteur radio ennemi est localisé. L'appui aérien est désormais sous votre commandement.
+[StringTable.radio_mortar]
+L'émetteur radio ennemi est localisé. Les tirs de mortiers sont à votre disposition.
+[Submission_1.Success]
+Le groupe de Steiner signale que la batterie antiaérienne a été détruite. 
+[Submission_1.Failed]
+Le groupe de Steiner a été anéanti. Les ordres du commandant de la division n'ont pas été exécutés.
+[Mission.Success]
+Le groupe de reconnaissance et de sabotage a rempli sa mission. En attente de l'appui des avions d'attaque au sol.
+[Mission.Failed]
+Le groupe de reconnaissance et de sabotage a été anéanti. La forte défense antiaérienne ennemie nous empêche d'utiliser l'aviation.
+[StringTable.Radio_avia_dis]
+La liaison avec la base est perdue. Impossible d'appeler un appui aérien.
+[StringTable.Radio_mortar_dis]
+La liaison est perdue. Impossible de tirer sans réglage de tir.
+
+[StringTable.avia_report]
+Un appui aérien est disponible.
+[StringTable.art_report]
+Appui d'artillerie en attente.
+[StringTable.jetmortar_report]
+Batterie d'artillerie à roquettes prête à tirer.

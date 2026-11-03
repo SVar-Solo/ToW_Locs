@@ -1,0 +1,37 @@
+﻿[Mission.Objectives]
+Il gruppo di combattimento occuperà la periferia meridionale di Cerkasskoe e si consoliderà sull'obiettivo.
+[Mission.Description]
+La ricognizione chiarirà la posizione del nemico, la sua potenza di fuoco e i punti di passaggio del fossato anticarro. Attraversare il fossato anticarro il più rapidamente possibile e distruggere la prima linea difensiva. Aggirare e neutralizzare le difese sovietiche e consolidarsi sull'abitato.
+[Mission.Success]
+La parte meridionale di Cerkasskoe è stata occupata.  Le forze nemiche si sono ritirate verso nord.
+[Mission.Failed]
+Non siamo riusciti a eseguire l'ordine. Il nemico è troppo forte!
+[Submission_1.Objectives]
+Raggiungere la prima linea di trincee nemiche e occupare le posizioni con la fanteria.
+[Submission_1.Success]
+La linea di ostacoli è stata superata. Attacco alla prima trincea.
+[Submission_1.Failed]
+L'attacco si è arenato, è necessario un supporto immediato!
+[Submission_2.Objectives]
+Attaccare il nemico sulla periferia meridionale di Cerkasskoe. Occupare e tenere il villaggio.
+[Submission_2.Success]
+La parte meridionale di Cerkasskoe è stata occupata.
+[Submission_2.Failed]
+L'attacco si è arenato, è necessario un supporto immediato!
+[Submission_3.Objectives]
+Respingere il contrattacco dei carri armati nemici. Impedire al nemico di conquistare l'abitato.
+[Submission_3.Success]
+Il contrattacco nemico è stato sventato con successo.
+[Submission_3.Failed]
+Le nostre forze ripiegano sotto la pressione del nemico.
+[StringTable.Ifantry_support]
+Un'unità di fanteria è ora sotto il vostro controllo.
+[StringTable.Inf_1]
+Fanteria
+
+[StringTable.avia_report]
+Aeroporto conquistato.
+[StringTable.art_report]
+Supporto d'artiglieria in attesa.
+[StringTable.jetmortar_report]
+Batteria di artiglieria a razzi pronta al fuoco.

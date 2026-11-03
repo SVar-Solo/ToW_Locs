@@ -1,0 +1,43 @@
+﻿[Submission_1.Objectives]
+Przeprowadzić uderzenie zaczepne. Wypchnąć wroga z doliny. 
+[Submission_1.Description]
+Wojska niemieckie się wycofują! Odcięliśmy je w ślepej uliczce pod Falaise, lecz mimo to wciąż stawiają zaciekły opór. Plan Eisenhowera, zakładający okrążenie Niemców, nie został jeszcze zrealizowany. Nieprzyjaciel stworzył kilka gniazd oporu u podnóża pobliskich wzgórz. 
+Twoje rozkazy:
+-	Przeprowadzić uderzenie zaczepne w pobliżu wsi i zniszczyć wszystkie wykryte jednostki nieprzyjaciela. 
+[Submission_1.Success]
+Dolina znalazła się w naszych rękach!
+[Submission_1.Failed]
+Zostałeś pokonany. 
+[Submission_2.Objectives]
+Zaatakować wzgórza i wyprzeć nieprzyjaciela z pozycji obronnych.
+[Submission_2.Description]
+Przed nami ostatnia linia niemieckiej obrony. Zapewniono ci wsparcie lotnictwa, masz zniszczyć nieprzyjacielską obronę na wzgórzach. Wykorzystaj przewagę powietrzną oraz przewagę liczebną na ziemi. 
+Twoje rozkazy:
+-	Zniszczyć obronę nieprzyjaciela, przebić się do przyczółka na wzgórzach i okopać się tam. 
+[Submission_2.Success]
+Wróg został pokonany. 
+[Submission_2.Failed]
+Porażka! Nie udało ci się przełamać obrony nieprzyjaciela.
+[Mission.Objectives]
+Zniszczyć opór i całkowicie wyeliminować obronę nieprzyjaciela.
+[Mission.Description]
+Siły niemieckie cofają się pod naporem aliantów, ale wciąż stawiają zaciekły opór. Charakterystyka terenu w okolicach Falaise daje Niemcom przewagę, nawet jeśli siły alianckie są znacznie większe. Ogniska oporu u podnóża wzgórz stoją na drodze naszym wojskom. Musimy się przebić, zanim wróg się zreorganizuje. 
+Twoje rozkazy: 
+-	Zgasić wszystkie ogniska niemieckiego oporu u podnóża wzgórz. 
+-	Po zgromadzeniu sił wykonaj ostateczne uderzenie, przełamując i całkowicie niszcząc główne siły obrony wroga. 
+[Mission.Success]
+Zwyciężyłeś. Ogniska oporu nieprzyjaciela zostały zniszczone.
+[Mission.Failed]
+Przegrałeś. Niemieckie siły odparły twoje natarcie.
+[StringTable.reserv]
+Przybyły posiłki.
+[Submission_3.Objectives]
+Odeprzyj nieprzyjacielski kontratak.
+[Submission_3.Description]
+Straciwszy pozycje obronne, nieprzyjaciel ma zamiar przejść do kontrataku z wykorzystaniem rezerw.
+Twoje rozkazy:
+-	Odeprzeć nieprzyjacielski kontratak.
+[Submission_3.Success]
+Wróg został zniszczony. Jego kontratak się nie powiódł.
+[Submission_3.Failed]
+Porażka.

@@ -1,0 +1,52 @@
+﻿[Mission.Objectives]
+Libere Cuverville y asegure las carreteras para preparar nuestro avance posterior.
+[Mission.Description]
+La aldea estratégica de Cuverville tiene carreteras que conducen al sur y al sureste. Asegurar las carreteras es vital para nuestro avance.
+[Submission_01.Success]
+[Submission_01.Failed]
+[Submission_1.Objectives]
+Asegure la granja en las afueras de Cuverville.
+[Submission_1.Description]
+La granja ocupada por el enemigo.
+[NewSubmission.Success]
+[NewSubmission.Failed]
+[Submission_2.Objectives]
+Libere la aldea de Cuverville.
+[Submission_2.Description]
+El enemigo se ha consolidado y ha adoptado una posición defensiva en Cuverville.
+[NewSubmission1.Success]
+[NewSubmission1.Failed]
+[Submission_3.Objectives]
+Asegure la carretera que conduce al sur.
+[Submission_3.Description]
+Asegure la carretera y elimine a todos los hostiles de la zona.
+[NewSubmission2.Success]
+[NewSubmission2.Failed]
+[Submission_4.Objectives]
+Asegure la carretera al sureste de Cuverville.
+[Submission_4.Description]
+Despeje de enemigos la carretera y la zona circundante.
+[NewSubmission3.Success]
+[NewSubmission3.Failed]
+[Submission_4.Success]
+Misión cumplida.
+[Submission_4.Failed]
+No se ha logrado cumplir la tarea.
+[Mission.Success]
+Misión cumplida.
+[Mission.Failed]
+Misión fallida.
+[Submission_1.Success]
+Misión cumplida.
+[Submission_1.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_2.Success]
+Cuverville capturada. Misión cumplida.
+[Submission_2.Failed]
+No se ha logrado cumplir la tarea.
+[Submission_3.Success]
+Misión cumplida.
+[Submission_3.Failed]
+Misión fallida.
+[StringTable.Tanks]
+Fuerza de reserva disponible.

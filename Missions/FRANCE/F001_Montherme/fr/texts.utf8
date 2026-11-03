@@ -1,0 +1,90 @@
+﻿[Mission.Objectives]
+Etablir une nouvelle ligne défensive.
+[Mission.Description]
+Le 14 mai, les troupes allemandes ont percé à Sedan. Les forces françaises ont été incapables de résister à l’action conjointe des blindés et des bombardiers en piqué dans cette nouvelle forme de Blitzkrieg. Les troupes belges reculent vers Anvers et se mettent en position défensive. Les 1er et 2e corps britanniques sont en position de Wavre à Louvain où la 3e division, sous le commandement du général Montgomery, est engagée dans un violent combat. La 7e armée française sur le flanc bat en retraite. Dans pratiquement tous les engagements, la puissance et la vigueur de l’offensive allemande semblent irrésistibles. Dans le secteur de Monthermé, les Allemands, avec deux divisions blindées, ont coupé au travers de la Mass et ont capturé nos positions défensives fortifiées. Il est absolument vital de rétablir une ligne défensive dans le secteur. 
+
+Vos ordres sont :
+-	Eliminer les forces ennemies dans le secteur et établir une nouvelle ligne défensive
+-	Défendre le pont ferroviaire
+[Mission.Success]
+Mission accomplie ! L’ennemi a échoué dans sa tentative pour percer nos défenses. Cela a été rendu possible en grande partie grâce à vos efforts, commandant. Bien joué ! Néanmoins, des troupes allemandes appuyées par une armada de chars lourds et légers ont totalement dispersé et dérouté nos troupes sur la ligne de front et rien ne semble pouvoir les arrêter. Nous allons encore avoir besoin de vous.
+[Mission.Failed]
+Vous avez échoué ! Les forces allemandes, appuyées par des blindés lourds et légers, ont totalement dispersé et dérouté nos troupes. Les Allemands progressent à une allure inédite, comme cela a rarement été vu dans l’histoire ! A pratiquement chaque bataille, il semble impossible de les arrêter.  
+[SubMission_01_01.Objectives]
+Déloger et détruire les unités ennemies près du pont.
+[SubMission_01_01.Description]
+Des troupes d’assaut allemandes se trouvent dans notre secteur. Elles ont capturé un pont de chemin de fer sur la Maas. Il est probable que l’ennemi va tenter d’utiliser ce pont pour nous contourner par l’arrière. Le pont doit être repris !
+ 
+Vos ordres :
+-	Repérer et détruire les troupes d’assaut allemandes.
+-	Reprendre possession du pont
+[SubMission_01_01.Success]
+Vous avez rempli votre mission !
+[SubMission_01_01.Failed]
+Vous avez échoué !
+[Submission_01_02.Objectives]
+Repérer et détruire les unités d’assaut ennemies qui se trouvent près du pont.
+[Submission_01_02.Description]
+Des troupes d’assaut allemandes sont arrivées dans votre secteur. Elles ont capturé un pont de chemin de fer sur la Maas. Selon nos informations, un autre groupe d’unités ennemies progresse en direction du pont, il faut les arrêter.
+
+Les ordres
+-	Détruire les troupes d’assaut ennemies
+-	Rétablir ou maintenir la défense du pont
+[Submission_01_02.Success]
+Vous avez accompli votre mission avec succès !
+[Submission_01_02.Failed]
+Vous avez échoué !
+[Submission_02_01.Objectives]
+Déloger l’ennemi pendant sa progression
+[Submission_02_01.Description]
+Nos troupes se sont révélées incapables de résister à l’action cordonnée des blindés allemands et des bombardiers en piqué et ont subi de lourdes pertes. Non seulement nous ne sommes pas parvenus à rétablir une ligne défensive, mais la section d’assaut allemande qui s’est infiltrée dans le secteur a réussi à prendre le contrôle du pont de chemin de fer. Cela a permis à l’ennemi de nous contourner et de menacer nos zones arrières.
+ 
+Vos ordres sont :
+-	Etablir des positions défensives
+-	Trouver et détruire toutes les unités ennemies dans votre secteur d’opérations
+[Submission_02_01.Success]
+Mission accomplie ! Bravo commandant !
+[Submission_02_01.Failed]
+Vous avez échoué !
+[Submission_02_02.Objectives]
+Trouver et détruire toutes les unités ennemies.
+[Submission_02_02.Description]
+Nos troupes sont parvenues à rétablir une ligne défensive et ont délogé le groupe d’assaut allemand. Selon nos informations, l’ennemi tente maintenant de percer notre ligne de défense à deux endroits à la fois. Attendez-vous à une attaque à la fois de Monthermé et près du pont de chemin de fer sur la Maas.
+
+Vos ordres sont :
+-	Tenir fermement toutes vos positions défensives
+-	Eliminer toutes les unités ennemies attaquantes
+[Submission_02_02.Success]
+Mission accomplie !
+[Submission_02_02.Failed]
+Vous avez échoué !
+[Submission_02_03.Objectives]
+Déloger l’ennemi.
+[Submission_02_03.Description]
+Nos troupes sont parvenues à rétablir une ligne de défense mais un groupe d’assaut ennemi s’est emparé du pont de chemin de fer. Cela a permis à l’ennemi de nous contourner et de menacer dangereusement nos zones arrière. Selon nos informations, l’ennemi tente maintenant de percer notre ligne de défense à deux endroits à la fois. Attendez-vous à une attaque à la fois de Monthermé et par le pont de chemin de fer sur la Maas. L’ennemi utilise intensivement l’action cordonnée de ses blindés et de ses bombardiers en piqué.
+
+Vos ordres sont :
+-	Etablir une position défensive
+-	Eliminer l’ennemi dans toutes les directions
+[Submission_02_03.Success]
+Mission accomplie.
+[Submission_02_03.Failed]
+La mission a échoué.
+[Submission_02_04.Objectives]
+Bloquer l’avance ennemie.
+[Submission_02_04.Description]
+Nos troupes se sont révélées incapables de résister à l’action cordonnée des blindés allemands et des bombardiers en piqué et ont subi des pertes sensibles. Nous sommes toutefois parvenus à déloger le groupe d’assaut allemand qui s’était emparé du pont de chemin de fer. Selon nos informations, l’ennemi tente maintenant de percer notre ligne de défense à deux endroits à la fois. Attendez-vous à une attaque à la fois de Monthermé et par le pont de chemin de fer sur la Maas.
+
+Vos ordres :
+-	Etablir une position défensive 
+-	Eliminer les forces ennemies attaquant de plusieurs directions
+[Submission_02_04.Success]
+Mission accomplie.
+[Submission_02_04.Failed]
+La mission a échoué.
+[StringTable.Fr_Support]
+Des renforts sont arrivés !
+[StringTable.Support]
+Des renforts sont arrivés !
+[StringTable.Subtitle_01]
+France, 1940

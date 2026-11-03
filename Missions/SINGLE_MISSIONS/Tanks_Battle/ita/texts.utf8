@@ -1,0 +1,20 @@
+﻿[Mission.Objectives]
+Le nostre forze sono state circondare e ora stanno cercando di spezzare l’accerchiamento.
+[Mission.Description]
+Il tuo obiettivo principale è di spezzare l'accerchiamento nemico. Dopo esserti aperto la strada fino al fiume, impedisci ai russi di preparare delle posizioni di difesa anti-carro che possano impedire alle nostre unità di allontanarsi..
+[Mission.Success]
+Sei riuscito a spezzare l'accerchiamento.
+[Mission.Failed]
+Le tue forze non sono riuscite a spezzare l’accerchiamento.
+[Submission_1.Objectives]
+Spezza l'accerchiamento e avanza fino alla zona abitata vicino al fiume. Tutte le truppe nemiche che incontri devono essere distrutte per allargare la nostra via di fuga. 
+[Submission_1.Description]
+I tuoi ordini sono di:
+	- avanzare fino alla zona abitata vicino al fiume.
+	- distruggere tutte le truppe nemiche che incontri sulla strada.
+[Submission_1.Success]
+Vittoria! Le tue forze hanno spezzato l’accerchiamento e stabilito delle posizioni lungo il fiume.
+[Submission_1.Failed]
+Hai fallito. Le nostre forze non sono riuscite a fuggire.
+[StringTable.ger_reserv]
+Il Comando dell'Esercito ti ha inviato dei carri armati dalla riserva. Usali con saggezza, comandante!

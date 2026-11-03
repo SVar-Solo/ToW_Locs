@@ -1,0 +1,110 @@
+﻿[Submission_1.Objectives]
+Determinare la visibilità diretta e indiretta.
+
+[Submission_1.Description]
+Avete a disposizione due soldati, posizionati a una certa distanza l'uno dall'altro. Sul lato nemico, un carro armato Pz.IV F2 esce dall'abitato. Durante il movimento, vari ostacoli (case, alberi e altri oggetti) bloccano la visibilità di questo carro alle vostre unità.
+
+[Submission_1.Success]
+Compito completato!
+
+[Submission_1.Failed]
+Compito fallito!
+
+[StringTable.Direct_undirect_vis]
+Uno dei soldati vede il carro armato nemico in linea di vista diretta; quando questo soldato è selezionato, l'icona del carro diventa rosso vivo. Il secondo soldato non vede direttamente il carro, nonostante la distanza lo consentirebbe. Ciò è possibile perché sulla mappa ci sono oggetti che ostruiscono la visuale. In questo caso l'icona del carro per quel soldato diventa semitrasparente. Significa che il soldato che ha il carro in linea di vista diretta lo "segnala" al soldato che non lo vede direttamente. Quando la selezione viene tolta a entrambi i soldati, oppure quando vengono selezionate più unità insieme, l'icona del carro diventa rosso vivo. In questa situazione entrambe le vostre unità possono aprire il fuoco sul bersaglio, se esiste una linea di tiro.
+
+[StringTable.unvis]
+Il carro armato è invisibile a tutte le vostre unità. In questa situazione nessuna delle vostre unità può sparare direttamente sul bersaglio nemico. Per un certo tempo le vostre unità "ricorderanno" la posizione del nemico; in questo caso l'icona sopra il nemico cambierà aspetto.
+Anche erba, cespugli e alberi, compresi quelli abbattuti, sono ostacoli alla visibilità. Si può sfruttare tatticamente questo fatto, ma prestate attenzione alle dimensioni delle chiome e all'altezza dell'erba per capire se la vostra unità resterà nascosta dietro di esse. Se inizi a sparare, il mimetismo viene meno per un certo tempo.
+Oltre alla visibilità diretta, a una certa distanza la fanteria può determinare la posizione approssimativa del nemico dal rumore, se il nemico spara, si muove o ruotate la torretta.
+
+[StringTable.Direct_vis]
+Per tutte le vostre unità il carro armato è in linea di vista diretta. Provate a selezionare una per una tutte le vostre unità. L'icona del carro è sempre rosso vivo. In questa situazione, se esiste una linea di tiro, qualsiasi vostra unità può aprire il fuoco sul bersaglio.
+Con l'opzione "linea di vista" attivata nelle impostazioni, potete verificare la linea di tiro con uno dei comandi: "Attacca" {hkey:attack}, "Assalto" {hkey:storm} o "Fuoco d'area" {hkey:groundattack}. Dopo aver attivato il comando e prima di impartire l'ordine, verrà mostrata una freccia dalla vostra unità al puntatore del mouse. Il colore rosso della freccia indica un tratto privo di ostacoli sulla linea di tiro; il colore nero indica il tratto dopo un ostacolo. Per i mezzi, vicino al puntatore del mouse comparirà un suggerimento che spiega perché non c'è linea di tiro. Se spostate il cursore del mouse fuori dai settori di visuale dell'unità, parte della freccia sarà colorata di blu.
+
+[StringTable.ENTER]
+Il gioco permette di agganciare la camera alla vostra unità. La camera può ruotare liberamente. Potete anche selezionare qualsiasi altra unità (o gruppo di unità) e controllarla. Premendo {hkey:bindcamera}, la camera si sposta e si aggancia all'unità; premendo {hkey:linkcamera}, la camera si aggancia all'unità mantenendo la distanza attuale. Questa funzione vale per tutte le unità all'interno della zona di gioco giocabile. Al di fuori della zona di gioco non è possibile agganciare la camera a un'unità.
+
+[Mission.Objectives]
+Caratteristiche della visualizzazione della visibilità nel gioco.
+
+[Mission.Description]
+Usando i vostri due soldati e un carro armato nemico in movimento, vengono simulate diverse varianti di visualizzazione di un'unità nemica in varie condizioni di visibilità. In particolare:
+- entrambe le unità del giocatore vedono direttamente il carro armato nemico;
+- una delle unità del giocatore vede il carro nemico in linea di vista diretta, mentre l'altra non vede il nemico "direttamente";
+- entrambi i soldati non vedono il carro armato nemico.
+
+							   
+									  
+										  
+[Mission.Success]
+Compito completato!
+
+[Mission.Failed]
+Compito fallito!
+
+[Submission_2.Objectives]
+Agganciare la camera direttamente a un'unità.
+
+[Submission_2.Description]
+Sulla mappa ci sono due unità alleate e due unità nemiche. Una delle unità nemiche si trova fuori dalla zona di gioco. Il gioco permette di agganciare la camera a qualsiasi unità, compresa un'unità nemica, che si trovi all'interno della zona di gioco. Non è possibile agganciare la camera a unità fuori dalla zona di gioco.
+
+[Submission_2.Success]
+Compito completato!
+
+[Submission_2.Failed]
+Compito fallito!
+
+[StringTable.Line_of_Fire]
+Avete a disposizione un pezzo d'artiglieria. Nella maggior parte dei casi, se un'unità nemica è in linea di vista diretta del pezzo, esiste una linea di tiro. Ma ci sono casi in cui c'è visibilità diretta ma non c'è linea di tiro: ciò è causato da un ostacolo sulla linea di tiro del pezzo (una piega del terreno, una recinzione, ecc.), oppure dal fatto che il pezzo non può essere puntato sul bersaglio per un angolo di depressione/elevazione della canna insufficiente. Se il pezzo non vede direttamente l'unità nemica, ma c'è un'unità del vostro esercito che la vede direttamente, in questo caso la linea di tiro per lo più manca, ma ci sono situazioni in cui il pezzo non vede direttamente il nemico ma ha una linea di tiro. Più spesso questa situazione si verifica quando il nemico si trova a una distanza superiore alla portata di visibilità, oppure quando è nascosto dalla vegetazione. In questo caso il pezzo può aprire il fuoco.
+
+[Submission_3.Objectives]
+Distruggete il carro armato nemico.
+
+[Submission_3.Description]
+Avete a disposizione un pezzo d'artiglieria. Distruggete il carro armato nemico.
+
+[Submission_3.Success]
+Compito completato!
+
+[Submission_3.Failed]
+Compito fallito!
+
+[StringTable.Howitzer_1]
+Assumete il comando di una batteria di artiglieria. Può condurre tiro indiretto da una posizione defilata se la traiettoria del proiettile lo permette. La curvatura della traiettoria dipende dalla velocità iniziale del proiettile. Più bassa è la velocità, più è facile far passare il proiettile sopra le pieghe del terreno se la distanza è breve. A volte dovrete scegliere con cura la posizione giusta per il pezzo, in modo che possa battere l'area richiesta.
+
+[StringTable.Howitzer_2]
+Se è selezionata una sola unità, quando passate il cursore del mouse sul nemico la traiettoria viene calcolata e il tipo di icona sul cursore indica se il tiro è possibile. Il calcolo della traiettoria tiene conto della velocità iniziale del proiettile attuale, quindi selezionate forzatamente i proiettili HE facendo clic con il tasto destro sull'icona del proiettile nel pannello delle armi, poiché hanno una velocità iniziale inferiore. Provate a mettere fuori combattimento i mezzi leggeri nemici con il comando "Fuoco d'area" {hkey:groundattack}. Se è selezionata una sola unità, dopo aver attivato il comando comparirà una linea con una freccia che mostra se c'è visibilità diretta fino al cursore, e il tipo di icona sul cursore indica se esiste una traiettoria indiretta verso quel punto. Potete indicare un singolo punto oppure definire un'area di tiro tenendo premuto il tasto destro del mouse.
+
+[Submission_4.Objectives]
+Mettete fuori combattimento il gruppo di mezzi leggeri nemici.
+
+[Submission_4.Description]
+Avete a disposizione una batteria di artiglieria. Mettete fuori combattimento il gruppo di veicoli nemici.
+
+[Submission_4.Success]
+Compito completato!
+
+[Submission_4.Failed]
+Compito fallito!
+
+[StringTable.Tank_Vis_Line_1]
+Assumete il comando di un carro armato M3 "Lee".
+Ogni posto dell'equipaggio in un veicolo può essere dotato di dispositivi ottici o feritoie di osservazione attraverso cui il membro dell'equipaggio guarda a turno. I dispositivi ottici possono essere messi fuori uso; le informazioni sul loro stato si ottengono in un suggerimento passando il cursore del mouse sulla posizione di un membro dell'equipaggio nel pannello informativo inferiore dell'interfaccia. I dispositivi di osservazione hanno un settore visivo limitato in verticale e in orizzontale, e possono avere ingrandimento ottico, nessun ingrandimento o visibilità ridotta. I membri dell'equipaggio scoperti osservano senza dispositivi ottici, come la normale fanteria.
+
+[StringTable.Tank_Vis_Line_2]
+Cambiate la posizione del vostro carro armato e mettete fuori combattimento il Pz IV nemico.
+Il cannoniere in torretta non può sparare con il cannone da 37 mm perché non ha proiettili, ma osserva attraverso i suoi dispositivi ottici e ha individuato un carro armato più avanti, parzialmente nascosto da una piega del terreno. Il cannone nello sponson è in grado di sparare ma non ha linea di tiro.
+Per verificare la linea di tiro di un cannone specifico del carro, selezionate il cannone facendo clic con il tasto sinistro sulla sua icona nel pannello delle armi, poi usate uno dei comandi (per esempio "Attacca" {hkey:attack}, "Assalto" {hkey:storm} o "Fuoco d'area" {hkey:groundattack}) per verificare la linea di tiro.
+
+[Submission_5.Objectives]
+Mettete fuori combattimento il carro armato nemico.
+
+[Submission_5.Description]
+Avete a disposizione un carro armato M3 "Lee". Mettete fuori combattimento il carro armato nemico.
+
+[Submission_5.Success]
+Compito completato!
+
+[Submission_5.Failed]
+Compito fallito!

@@ -1,0 +1,43 @@
+﻿[Mission1.Objectives]
+Détruire les divisions blindées ennemies progressant de l’ouest.
+[Mission1.Description]
+Les troupes fascistes ont capturé Lutsk. Le prochain coup vise à percer le front près de Rovno. D’après une reconnaissance, des colonnes de chars se dirigent vers Rovno venant de l’ouest.
+Notre corps mécanisé a été engagé pour colmater la brèche créée par les unités ennemies.
+
+Vos ordres :
+- 	Détruire les bataillons blindés adverses.
+[Mission1.Success]
+Les ordres ont été exécutés ! Les bataillons blindés ennemis approchant par l’ouest ont été complètement détruit. Les Allemands ne sont pas parvenus à briser le moral des soldats russes !
+[Mission1.Failed]
+Malgré les actions héroïques de vos soldats, vos troupes ont été détruites ! Les Allemands ont percé nos lignes dans ce secteur du front !
+[Mission1_1.Objectives]
+Détruire les bataillons blindés adverses approchant du sud-ouest.
+[Mission1_1.Description]
+Les Allemands ont capturé Lutsk, les 13e et 14e armées se dirigent vers Rovno venant de l’ouest pour percer le front et se rapprocher de Kiev. Un rapport de reconnaissance indique que des unités blindées avancent également du sud-ouest.
+
+Vos ordres :
+- 	Détruire les bataillons blindés adverses.
+[Mission1_1.Success]
+Les ordres ont été exécutés ! Les bataillons blindés ennemis approchant par le sud-ouest ont été complètement détruit. Les Allemands ne sont pas parvenus à briser le moral des soldats russes !
+[Mission1_1.Failed]
+Malgré les actions héroïques de vos soldats, vos troupes ont été détruites ! Les Allemands ont percé nos lignes dans ce secteur du front !
+[Submission1.Objectives]
+Arrêter la progression des blindés ennemis.
+[Submission1.Description]
+Dans les premiers jours de la guerre, notre armée a subi de lourdes pertes. Hier, l’agresseur fasciste a capturé Lutsk. La confusion et la panique règnent sur tout le front. Peu d’informations sont disponibles mais une reconnaissance indique que des unités blindées avancent dans notre direction et il est évident que leur prochain objectif est de percer le front près de Rovno. Le 19e corps mécanisé est déjà engagé dans de violents combats sur notre flanc. Votre mission est de retarder l’ennemi aussi longtemps que possible et à tout prix. Cela donnera à nos troupes une chance de se regrouper et de peut-être contre-attaquer. 
+
+Vos ordres : 
+- 	Arrêter la progression des 13e et 14e bataillons blindés ennemis dans la zone indiquée en utilisant des éléments des 20e, 40e, 43e et 35e brigades blindées du 9e et 19e corps mécanisés.
+
+[Submission1.Success]
+Les ordres du commandement ont été exécutés ! La progression des unités blindées allemandes a été bloquée dans ce secteur !
+[Submission1.Failed]
+Malgré les actions héroïques de vos soldats, vos troupes ont été détruites ! Les Allemands ont percé nos lignes dans ce secteur du front !
+[StringTable.Reserv]
+Des renforts sont arrivés.
+[StringTable.Subtitle_01]
+Russie. Juin 1941
+[StringTable.Ger]
+L’armée allemande a lancé l’opération Barbarossa et a traversé la frontière avec l’URSS.
+[StringTable.Rus]
+L’armée rouge a lancé une contre-offensive pour tenter de stopper la progression inexorable de l’envahisseur.

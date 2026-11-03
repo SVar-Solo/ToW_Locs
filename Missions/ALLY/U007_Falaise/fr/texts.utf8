@@ -1,0 +1,47 @@
+﻿[Submission_1.Objectives]
+Mener une action de reconnaissance. Chasser l’ennemi de la vallée. 
+[Submission_1.Description]
+Les forces allemandes battent en retraite ! Nous avons réussi à les contenir dans un cul-de-sac près de Falaise, mais quoi qu’il en soit, elles offrent encore une forte résistance. L’objectif d’Eisenhower de complètement encercler les Allemands n’a pas encore été entièrement accompli. L’ennemi a installé quelques poches de résistance dans les collines proches
+
+Vos ordres :
+- 	Mener une action de reconnaissance dans le village voisin et détruire toutes les unités ennemies rencontrées.
+[Submission_1.Success]
+La vallée est sous votre contrôle !
+[Submission_1.Failed]
+Vous avez été défait. 
+[Submission_2.Objectives]
+Attaquer les collines et chasser l’ennemi de ses positions défensives.
+[Submission_2.Description]
+La dernière ligne de défense allemande se trouve juste devant. Vous bénéficiez d’un appui aérien tactique et vous devez détruire les défenses allemandes. Utilisez votre supériorité aérienne ainsi que votre avantage numérique pour l’emporter.
+
+Vos ordres :
+- 	Détruire les forces ennemies, percer au travers des collines et établir une position défensive.
+ [Submission_2.Success]
+L’ennemi a été défait. 
+[Submission_2.Failed]
+Défaite ! Vous n’avez pas réussi à percer les défenses ennemies.
+[Mission.Objectives]
+Ecraser la résistance ennemie et détruire complètement ses défenses.
+[Mission.Description]
+Les forces allemandes battent en retraite sous la pression des armées alliées, mais l’ennemi offre encore une résistance sérieuse. Les particularités du terrain près de Falaise donnent un avantage aux Allemands, même si les Alliés sont largement supérieurs en nombre. Les poches de résistance qui subsistent sur les collines sont nombreuses et représentent des obstacles importants. Il faut maintenir notre effort avant que les Allemands puissent se réorganiser.
+
+Vos ordres : 
+- 	Réduire toutes les poches de résistance dans les collines. 
+- 	Après avoir concentré vos forces, infligez un coup décisif, percez les défenses et détruisez toutes les forces allemandes. 
+[Mission.Success]
+Vous avez gagné. Les poches de résistance ennemies ont été détruites.
+[Mission.Failed]
+Vous avez perdu. Les troupes allemandes sont parvenues à résister à votre tentative pour les détruire.
+[StringTable.reserv]
+Des renforts sont arrivés en appui !
+[Submission_3.Objectives]
+Repousser la contre-attaque ennemie.
+[Submission_3.Description]
+Ayant perdu ses positions défensives, l’ennemi tente de lancer une contre-attaque en utilisant ses dernières réserves.
+
+Vos ordres :
+- 	Repousser la contre-attaque ennemie.
+[Submission_3.Success]
+L’ennemi a été détruit. Sa contre-attaque a échoué.
+[Submission_3.Failed]
+Défaite ! La contre-attaque a réussi et l’ennemi a repris l’avantage.

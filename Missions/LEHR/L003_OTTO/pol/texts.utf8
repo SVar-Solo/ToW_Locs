@@ -1,0 +1,33 @@
+﻿[Mission.Objectives]
+Zdobyć i utrzymać wieś Otto.
+[Mission.Description]
+Według danych wywiadowczych Brytyjczycy niewielkimi siłami okupują wieś, która znajduje się przed nami. Ich pozycje są prawdopodobnie dobrze umocnione, niemniej jednak zdarza się rzadka okazja, by ich wyprzeć. Dowodzisz siłami 902. Pułku Grenadierów Pancernych i wsparciem pancernym.
+ 
+Rozkazy:
+- Zaatakuj i wyprzyj siły brytyjskie znajdujące się we wsi Otto. 
+[Mission.Success]
+Dobra robota! Nieprzyjacielska obrona została przełamana.
+[Mission.Failed]
+Porażka! 
+[Submission_1.Objectives]
+Zaatakuj nieprzyjacielskie pozycje we wsi Otto.
+[Submission_1.Description]
+Wieś Otto znajduje się na południowy wschód od Twoich początkowych pozycji. Najwyraźniej wcześniejsze rozpoznanie nie było trafne. Wieś jest lepiej broniona i umocniona, niż się spodziewaliśmy. Rozważnie koordynuj ataki i zajmij miasteczko!
+ 
+Rozkazy:
+- Zdobyć Otto.
+[Submission_1.Success]
+Dobra robota! Wieś została zdobyta.
+[Submission_1.Failed]
+Porażka!
+[Submission_2.Objectives]
+Zorganizuj swoje wojska i przygotuj obronę przed nieprzyjacielskim kontratakiem.
+[Submission_2.Description]
+Po utracie wsi wróg z pewnością wykona kontratak, aby ją odzyskać.
+ 
+Rozkazy:
+- Odeprzyj wszystkie ataki.
+[Submission_2.Success]
+Dobra robota! Ataki nieprzyjaciela zostały odparte.
+[Submission_2.Failed]
+Porażka! Twoje siły zostały rozbite.

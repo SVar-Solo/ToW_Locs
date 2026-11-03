@@ -1,0 +1,40 @@
+﻿[Mission.Objectives]
+Fermate il nemico
+[Mission.Description]
+Prendete il comando delle unità di carri armati, fanteria e artiglieria della 6ª divisione corazzata e fermate l’avanzata della 10ª divisione corazzata (Panzer) nemica, impedendole di conquistare Thala. Le nostre truppe disperse stanno ancora ripiegando dal passo di Kasserine. Dovete assicurare le strade con le vostre unità mobili e riportare indietro le nostre truppe, sostenendole se necessario.
+[Mission.Success]
+Missione compiuta!
+[Mission.Failed]
+Missione fallita!
+[Submission1.Objectives]
+Attaccate l’avanguardia tedesca
+[Submission1.Description]
+Reparti di avanguardia nemici si avvicinano alle nostre posizioni. Distruggeteli.
+[Submission1.Success]
+L’ordine è stato eseguito!
+[Submission1.Failed]
+L’ordine non è stato eseguito!
+[Submission2.Objectives]
+Proteggete la colonna
+[Submission2.Description]
+Diversi veicoli si muovono dal passo di Kasserine: sembrano le nostre unità in ritirata. Verificate se è così e provvedete a proteggerle da possibili attacchi tedeschi.
+[Submission2.Success]
+Missione compiuta!
+[Submission2.Failed]
+Missione fallita!
+[Submission4.Objectives]
+Respingere tutti gli attacchi nemici.
+[Submission4.Description]
+Tenete la posizione per 20 minuti, finché i nostri aerei d’assalto non entreranno in azione. Unità alleate sono in arrivo e, inoltre, l’aviazione agirà a nostro favore: è già in volo, bisogna resistere ancora pochi minuti.
+[Submission4.Failed]
+Missione fallita!
+[Submission4.Success]
+Missione compiuta.
+[StringTable.SubMission4_WIN]
+Coordinate acquisite, l’artiglieria apre il fuoco!
+[StringTable.Message1]
+Prendete il comando delle unità di carri armati, fanteria e artiglieria della 6ª divisione corazzata e fermate l’avanzata della 10ª divisione corazzata (Panzer) nemica, impedendole di conquistare Thala. 
+[StringTable.Message2]
+Respingete tutti gli attacchi nemici. Tenete la posizione per 20 minuti, finché i nostri aerei d’assalto non entreranno in azione.
+[StringTable.Message3]
+Al riparo! La nostra aviazione sta per schiacciare i tedeschi nella polvere!

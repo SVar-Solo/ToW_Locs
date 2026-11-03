@@ -1,0 +1,22 @@
+﻿[Submission1.Objectives]
+阻止敌军进攻。
+[Submission1.Description]
+经过漫长的鏖战和数周的战斗，美军发动了大规模攻势，要将装甲教导师彻底消灭。指挥官，你作战英勇，你的部队为祖国争得了荣誉，但若在这关键时刻失败，一切都将付诸东流。我们再次处于劣势，但这就是我们的命运，你必须再一次克服它！
+ 
+命令：
+- 阻止敌军进攻。
+[Submission1.Success]
+干得好，指挥官！敌军的进攻已被阻止，你的部队得以继续战斗。
+[Submission1.Failed]
+任务失败！你的部队已被击败，未能阻止美军。
+[Submission2.Objectives]
+击退所有敌军进攻。
+[Submission2.Description]
+我们的前出侦察兵发现一支美军特遣队正从北面逼近。绝不能让他们再前进一步。指挥官，把他们挡住！
+ 
+命令：
+- 击退敌军进攻。
+[Submission2.Success]
+干得好，指挥官！敌军的进攻已被击退。
+[Submission2.Failed]
+任务失败！你的部队已被消灭。

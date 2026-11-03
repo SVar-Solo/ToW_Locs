@@ -1,0 +1,77 @@
+﻿[Mission.Objectives]
+Storm the settlement
+
+[Mission.Description]
+Enter the settlement, engage the enemy infantry, discover and capture a tank. Destroy the enemy tank. Retreat to the specified point.
+
+[Mission.Success]
+You have successfully completed all tasks!
+
+[Mission.Failed]
+Task failed.
+
+[Submission_1.Objectives]
+Take the settlement and capture the tank
+
+[Submission_1.Description]
+Take the enemy-controlled settlement, discover the tank and capture it.
+
+[Submission_1.Success]
+Tank discovered and captured
+
+[Submission_1.Failed]
+Task failed.
+
+[Submission_2.Objectives]
+Destroy the enemy artillery
+
+[Submission_2.Description]
+Destroy the enemy artillery. To complete the task more effectively, use smoke shells for cover.
+
+[Submission_2.Success]
+Enemy artillery destroyed
+
+[Submission_2.Failed]
+Task failed.
+
+[Submission_3.Objectives]
+Destroy the enemy tank
+
+[Submission_3.Description]
+Destroy the enemy tank moving from the south-west direction. You can use a smoke screen.
+
+[Submission_3.Success]
+Enemy tank destroyed
+
+[Submission_3.Failed]
+Task failed.
+
+[Submission_4.Objectives]
+Evacuate
+
+[Submission_4.Description]
+Evacuate your troops to the evacuation point. Use a smoke screen to cover the retreat.
+
+[Submission_4.Success]
+Your troops have been evacuated
+
+[Submission_4.Failed]
+Task failed
+
+[StringTable.Storm]
+For the most effective assault on buildings, first determine where the enemy is, so as not to come under crossfire. Place several soldiers so that they reliably control the exit from a distance; with the other soldiers, stealthily approach the building to grenade-throwing range. It is better to throw grenades through the doorway using the "Area fire" {hkey:groundattack} command. You can also use anti-tank grenades to destroy the building.
+
+[StringTable.Ambush]
+Use the crawl movement mode {hkey:setbodymodelay} so that your people are less visible to the enemy. Keep in mind that in free movement mode, your infantry, being near cover or buildings, will try to hide there and may expose themselves to fire, so prohibit them from free movement {hkey:actionmode}.
+
+[StringTable.House]
+Use houses as cover: your infantry will be less vulnerable.
+
+[StringTable.Variation]
+In most combat situations, you can act in many ways. In this case, the guns can be destroyed either by infantry, using smoke grenades for cover, or by a tank.
+
+[StringTable.Smoke]
+The tank is equipped with a smoke discharger designed for setting smoke screens. If there is a commander in the tank and the device is loaded, you can use the "Smoke screen (instant shoot)" {hkey:smokecloudfast} command. Then the smoke screen will be set immediately next to the tank, without specifying a firing point.
+
+[StringTable.Evac]
+Evacuate your troops to the evacuation point. It can be seen on the minimap, or switch to tactical map mode {hkey:cameratopdownview}. Use a smoke screen to cover the retreat. Move the tank in reverse {hkey:retreat} until you leave the enemy's line of fire.

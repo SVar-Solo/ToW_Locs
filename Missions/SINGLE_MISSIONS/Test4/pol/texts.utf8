@@ -1,0 +1,66 @@
+﻿[Mission.Objectives]
+Przeprowadź operację dywersyjną na tyłach wroga w pobliżu miasta Sandomierz. Znajdź skład paliw i uzbrojenia i zniszcz go. Jeśli natrafisz na stanowiska dział przeciwlotniczych, wezwij artylerię dalekiego zasięgu i naloty, aby się z nimi rozprawić.
+[Mission.Description]
+Armia Radziecka zbliża się do granic samej Trzeciej Rzeszy. Obie strony przygotowywały się do nieuniknionej bitwy o niewielkie miasto Sandomierz. Radzieckie Naczelne Dowództwo wysłało specjalne oddziały dywersyjne, by przeniknęły na tyły wroga. Mają za zadanie rozpoznać pozycje nieprzyjaciela oraz zniszczyć obiekty logistyczne i obronę przeciwlotniczą. Twój elitarny oddział musi dokonać dywersji na składzie paliw i uzbrojenia oraz wypatrzyć i zniszczyć napotkane stanowiska dział plot. W skład oddziału wchodzą nasi najlepsi zwiadowcy i snajper. Wykorzystaj ich mądrze!
+[Mission.Success]
+Wszystkie zadania zostały wykonane!
+[Mission.Failed]
+Misja nieudana!
+[Submission_1.Objectives]
+Przeniknij do osady. Rozpoznaj sytuację. Wyeliminuj straże przy składzie paliw i uzbrojenia. Znajdź i zdobądź wszelkie Panzerschrecki, gdyż ich siła przeciwpancerna może Ci się przydać później.
+[Submission_1.Description]
+Po niezauważonym przedostaniu się przez linię frontu wroga Twój oddział znajduje się głęboko na jego tyłach. Uważaj na wrogie posterunki rozmieszczone wzdłuż dróg oraz na strategicznych skrzyżowaniach i obiektach. Patrole zmotoryzowane są częste, a jeśli Cię wykryją, szybko wezwą posiłki. Twoim głównym zadaniem jest zniszczenie składu paliw i uzbrojenia.
+[Submission_1.Success]
+Strefa specjalna zniszczona.
+[Submission_1.Failed]
+Misja nieudana
+[Submission_2.Objectives]
+Rozpoznaj lokalizację stanowisk dział przeciwlotniczych. Poproś o ogień artyleryjski i wsparcie lotnicze, by je zniszczyć. Zdobądź wrogi transport, aby ułatwić przebicie się przez most.  
+[Submission_2.Description]
+Nasze lotnictwo nieustannie atakuje strategiczne obiekty niemieckie, ale straty są wysokie. Wróg po mistrzowsku maskuje stanowiska artylerii przeciwlotniczej, a wypatrzenie ich z powietrza okazało się trudne i kosztowne w ludziach i sprzęcie. Twój oddział jest idealnie ulokowany, by pomóc w tym zadaniu. Przeszukaj okolicę w poszukiwaniu dział przeciwlotniczych, a po ich napotkaniu poproś o ogień artylerii i samoloty szturmowe, by je zniszczyć.
+[Submission_2.Success]
+Stanowiska przeciwlotnicze zostały namierzone i zniszczone.
+[Submission_2.Failed]
+Misja nieudana.
+[Submission_3.Objectives]
+Przebij się w stronę mostów na Wiśle. Wybij straże na obu brzegach rzeki.
+[Submission_3.Description]
+Główne zadanie zostało wykonane. Teraz Twój oddział musi wrócić do swoich. Jedyna droga wiedzie z powrotem przez most na Wiśle...
+[Submission_3.Success]
+Misja wykonana
+[Submission_3.Failed]
+Misja nieudana.
+[Submission_4.Objectives]
+Nasze samoloty rozpoznawcze wykryły kolumnę czołgów zmierzającą autostradą ku mostom na Wiśle.
+Twoje rozkazy:
+-Zniszcz kolumnę czołgów wszelkimi środkami.
+[Submission_4.Description]
+Nasze samoloty rozpoznawcze zauważyły kolumnę czołgów zmierzającą autostradą ku mostom przez Wisłę. Twoim zadaniem jest zaczekać, aż kolumna się zbliży, a następnie zablokować most, niszcząc czołowy czołg. Może się tu przydać skorzystanie ze zdobycznych niemieckich Panzerschreków...
+[Submission_4.Success]
+Dobra robota!
+[Submission_4.Failed]
+Zadanie nieudane
+[Submission_5.Objectives]
+Zauważono wrogi posterunek blokujący. Jeśli zostaniesz wykryty, zabij strażników.
+[Submission_5.Description]
+Zauważono wrogi posterunek blokujący. Jeśli zostaniesz wykryty, zabij strażników.
+[Submission_5.Success]
+Misja wykonana.
+[Submission_5.Failed]
+Misja nieudana
+[StringTable.Zonder]
+Wróg poprosił o posiłki.
+[StringTable.EnemyVisible]
+Wróg zauważył Twoje oddziały i trzeba go wyeliminować. Czasu jest mało, masz tylko około 4-5 minut, zanim mogą nadejść dodatkowe jednostki wroga.
+[StringTable.Ahtung]
+Wróg zauważył Twój oddział.
+[StringTable.CallSupport]
+Namierzono niemieckie działa przeciwlotnicze. Sam oddział dywersyjny nie zdoła zniszczyć tego stanowiska. Poproś o wsparcie artylerii i lotnictwa, by wyeliminować wroga.
+[Submission_6.Objectives]
+Zauważono wrogi posterunek blokujący. Jeśli zostaniesz wykryty, zabij strażników.
+[Submission_6.Description]
+Posterunek znajduje się na strategicznie ważnej drodze. Polscy partyzanci donieśli, że droga jest stale kontrolowana przez zmotoryzowany patrol.
+[Submission_6.Success]
+Posterunek został zlikwidowany
+[Submission_6.Failed]
+Przegrałeś, a Twoje elitarne oddziały zostały wybite!

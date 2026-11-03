@@ -1,0 +1,21 @@
+﻿[StringTable.Subtitle_01]
+Écoutez-moi bien ! Vous allez gravir la colline 320 et effectuer une reconnaissance.
+[StringTable.Subtitle_02]
+À vos ordres, monsieur.
+[StringTable.Subtitle_03]
+Les sept Panzers avancent le long de la route.
+[StringTable.Subtitle_04]
+Posez vite des mines antichars au bord sud du pont ! 
+[StringTable.Subtitle_05]
+À vos ordres, monsieur.
+[Submission1.Objectives]
+Empêcher les chars ennemis de progresser vers le sud.
+[Submission1.Description]
+En marche depuis peu après que les Allemands ont percuté la ligne de front américaine, votre section a maintenant atteint le pied de la colline 330, juste au sud d’un cours d’eau encaissé qui serpente à travers la forêt dense. Durant ce périple frustrant et confus, vous avez été renvoyé d’un quartier général et d’un poste de commandement à l’autre – personne en position d’autorité ne semblait savoir ce qui se passait ni ce qu’on attendait de vous. Enfin, il y a environ deux heures, votre commandant de compagnie vous a confié une mission claire : empêcher tout char allemand de progresser vers le sud par le pont qui franchit le cours d’eau entre les collines 320 et 330.
+
+Vos ordres :
+- empêcher les chars ennemis de progresser vers le sud.
+[Submission1.Success]
+Mission accomplie. 
+[Submission1.Failed]
+Mission échouée.

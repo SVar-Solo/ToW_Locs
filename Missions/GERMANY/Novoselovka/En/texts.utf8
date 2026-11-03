@@ -1,0 +1,50 @@
+﻿[Mission.Objectives]
+Destroy the enemy defenses in the Novoselovka area.
+[Mission.Description]
+Withdrawn Russian units along with tank and antitank artillery groups switched to the defensive in the sector to the south of Novoselovka and in the village itself. The enemy defensive line's flanks are covered with minefields. The combat team is ordered to assault Novoselovka, break through the enemy defenses and capture the village.
+[Mission.Success]
+Mission complete, Novoselovka has been occupied.
+[Mission.Failed]
+We have failed to carry out our orders. The enemy is too strong! 
+[Submission_1.Objectives]
+Destroy the enemy defense in the village.
+[Submission_1.Success]
+Enemy defenses have been destroyed. Positions have been occupied.
+[Submission_1.Failed]
+The attack has been stalled, immediate support is required!
+[Submission_2.Objectives]
+Press the advance northward. Occupy the southern part of Novoselovka village.
+[Submission_2.Success]
+The southern part of the village has been occupied.
+[Submission_2.Failed]
+The attack has been stalled, immediate support is required.
+[Submission_3.Objectives]
+Capture the enemy positions to the northwest of Novoselovka.
+[Submission_3.Success]
+Mission complete. Enemy forces have withdrawn to the northwest.
+[Submission_3.Failed]
+The attack has been stalled, immediate support is required.
+[Submission_4.Objectives]
+Repel the counterattack of the Russian tanks!
+[Submission_4.Success]
+Enemy tanks have been destroyed!
+[Submission_4.Failed]
+Our forces withdraw under enemy pressure.
+[StringTable.First_support]
+A group of tanks from division reserves is now under your command.
+[StringTable.Second_support]
+An infantry unit and self-propelled guns are now under your command.
+
+[StringTable.Inf]
+Infantry
+[StringTable.Tanks]
+Tanks
+[StringTable.SPG]
+Self-propelled guns
+
+[StringTable.avia_report]
+Air support is available.
+[StringTable.art_report]
+Artillery support standing by.
+[StringTable.jetmortar_report]
+Rocket artillery battery ready to fire.

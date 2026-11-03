@@ -1,0 +1,88 @@
+﻿[MainTask.Objectives]
+Capture the village
+[MainTask.Success]
+The surviving enemy soldiers are surrendering, the village is ours. Keep up the good work, boys!
+[MainTask.Failed]
+The enemy has turned out to be too strong for your tank unit. The operation is cancelled!
+[MainTask.Description]
+Our ultimate objective in this area is to capture a village held by the enemy, however, due to the strong enemy defense we can’t deploy our infantry, artillery and aviation at once. Therefore, your group of light tanks must first perform a probe attack, destroy any enemy forces impeding our actions outside the village and support our infantry attack afterwards.
+[FlakSuppress.Objectives]
+Neutralize anti-aircraft guns
+[FlakSuppress.Success]
+Enemy SPAAGs are neutralized, and our monitoring service has successfully recorded the village coordinates. Our liaison officers have already reported them to the pilots and the artillery battery, so stay away from the village! It’s gonna be tough there in a few minutes!
+[FlakSuppress.Description]
+According to intelligence reports, the village is well protected from air attacks by enemy SPAAGs. Therefore, our first objective is to search and neutralize them. This will allow our aviation to appear on the battlefield. It were these self propelled anti-aircraft guns that prevented us from obtaining detailed terrain air photos, and it seems that the maps we possess lack accuracy. We have our closest airfield just within range of our bombers, so detection of village coordinates with the help of your tank radio signal bearing will not only benefit our pilots, but our artillery battery too.
+[DealWithReinforcement.Objectives]
+Break the reinforcements
+[DealWithReinforcement.Success]
+Approaching enemy reinforcements have been defeated!
+[DealWithReinforcement.Description]
+The enemy’s reserve forces, though few in numbers, still must be taken into account. Destroy enemy reinforcements approaching the village.
+[StringTable.SupportsAreIncoming]
+Artillery strike preparations are completed, the accurate coordinates have been reported to the pilots and their aircraft are on the way. Leave the strike zone immediately!
+[StringTable.InfantryInAction]
+Our infantry is going to attack right after the artillery and air strikes! Give them the support they need!
+[StringTable.IntroSubtitle1]
+Captain Jackson: Well, newbies?! On to your first battle...
+[StringTable.IntroSubtitle2]
+... you’re just not supposed to walk around with such a sour look on your face!
+[StringTable.IntroSubtitle3]
+- Hey, Mitchell, take that smile off your face!
+[StringTable.IntroSubtitle4]
+- I’m gonna show you some discipline and subordination after the battle!
+[StringTable.IntroSubtitle5]
+Tank commander Alan Mitchell to his crew: 
+[StringTable.IntroSubtitle6]
+- Guys, if we’re newbies, then Jackson is a greenhorn!
+[StringTable.IntroSubtitle7]
+- While we were slogging our guts out in Camp Beauregard...
+[StringTable.IntroSubtitle8]
+...he was a croupier in a casino, so he knows about war less than we do!
+[StringTable.IntroSubtitle9]
+(after laughing out for a while) How do you know that, Alan?
+[StringTable.IntroSubtitle10]
+- My future father-in-law does know something of use!
+[StringTable.StuartTankLost]
+Alan Mitchell's tank has been knocked out in the battle!
+[StringTable.StuartCrewLost]
+Alan Mitchell’s tank crew has suffered losses!
+[StringTable.WinSubtitle1]
+Alan Mitchell: Yeah, guys, it was tough!
+[StringTable.WinSubtitle2]
+Tank driver: I'm gonna park right by that truck.
+[StringTable.WinSubtitle3]
+Alan Mitchell: OK, so about that Jackson was the croupier...
+ [StringTable.WinSubtitle4]
+...we better keep our mouths shut. Got that?!
+[StringTable.WinSubtitle5]
+Jackson to his attendants: Now we’re gonna get promoted for sure, ...
+[StringTable.WinSubtitle6]
+...both in rank and duty position, and Mitchell's gonna be a sergeant...
+[StringTable.WinSubtitle7]
+...forever!
+[StringTable.WinSubtitle8]
+Alan Mitchell: Beg to report, sir! (reports on the battle)
+[StringTable.FailSubtitle1]
+Lieutenant Hans Neumann: Rudolf, go check the tank!
+[StringTable.FailSubtitle2]
+Oberschütze Rudolf Hagen: Jawohl! ...
+[StringTable.FailSubtitle3]
+Yeah, this is hell of a scene... This stiff over here is holding a board.
+[StringTable.FailSubtitle4]
+Lieutenant Neumann: Give it to me! Let’s have a look...
+[StringTable.FailSubtitle5]
+Well, a girl’s photo, some letters, a volume of Shakespeare...
+[StringTable.FailSubtitle6]
+...but no maps or other documents! He destroyed them, dying!
+[StringTable.FailSubtitle7]
+Oberschütze Rudolf Hagen: This miss Nelly Smith is a cutie...
+[StringTable.FailSubtitle8]
+...I better memorize the address. When we conquer America I’ll have someone to have fun with!
+[StringTable.FailSubtitle9]
+Lieutenant, rolling the letter up: Hagen, shut up! You'll never be able to love and die...
+[StringTable.FailSubtitle10]
+...like this Mitchell did!
+[StringTable.MitchellIsKilled]
+Alan Mitchell has been killed!
+[StringTable.ReturnInTank]
+Send the disembarked tank crewmen back into the tank to complete the mission.

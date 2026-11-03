@@ -1,0 +1,150 @@
+﻿Fr.Soldat	Солдат
+Fr.Soldat_de_1Classe	Солдат 1-го класса
+Fr.Carporal	Капрал
+Fr.Carporal_Chef	Старший капрал
+Fr.Sergent	Сержант
+Fr.Sergent_chef	Старший сержант
+Fr.Adjutant	Аджюдан
+Fr.Adjutant_chef	Старший аджюдан	
+Fr.Sous_Lieutenant	Второй лейтенант
+Fr.Lieutenant	Лейтенант
+Fr.Capitaine	Капитан
+Fr.Major	Коммандант
+Fr.Lieutenant_Colonel	Подполковник
+Fr.Colonel	Полковник
+
+Ger.Schutze			Стрелок
+Ger.Oberschutze		Старший Стрелок
+Ger.Gefreiter		Ефрейтор
+Ger.Obergefreiter	Обер-ефрейтор
+Ger.Unteroffizier	Унтер-офицер
+Ger.Unterfeldwebel	Унтер-фельдфебель
+Ger.Feldwebel		Фельдфебель
+Ger.Oberfeldwebel	Оберфельфебель
+
+Ger.Leutnant		Лейтенант
+Ger.Oberleutnant	Обер-лейтенант
+Ger.Hauptmann		Гауптман
+Ger.Major			Майор
+Ger.Oberstleutnant	Подполковник
+Ger.Oberst			Полковник
+
+Ger_SS.SS-Schutze			Манн
+Ger_SS.SS-Oberschutze  		Обершутце
+Ger_SS.SS-Sturmmann			Штурманн
+Ger_SS.SS-Rottenfuhrer		Роттенфюрер
+Ger_SS.SS-Unterscharfuhrer	Унтершарфюрер
+Ger_SS.SS-Scharfuhrer		Шарфюрер
+Ger_SS.SS-Oberscharfuhrer	Обершарфюрер
+Ger_SS.SS-Hauptscharfuhrer	Гауптшарфюрер
+
+Ger_SS.SS-Untersturmfuhrer	Унтерштурмфюрер
+Ger_SS.SS-Oberststurmfuhrer	Оберштурмфюрер
+Ger_SS.SS-Hauptsturmfuhrer	Гауптштурмфюрер
+Ger_SS.SS-Sturmbannfuhrer	Штурмбаннфюрер
+Ger_SS.SS-Oberststurmbannfuhrer	Оберштурмбаннфюрер
+Ger_SS.SS-Standartenfuhrer	Штандартенфюрер
+
+Ger_LW.LW_Flieger			Флигер
+Ger_LW.LW_Gefreiter			Ефрейтор
+Ger_LW.LW_Obergefreiter		Обер-ефрейтор
+Ger_LW.LW_Stabsgefreiter	Штабс-ефрейтор
+Ger_LW.LW_Unteroffizier		Унтер-офицер
+Ger_LW.LW_Unterfeldwebel	Унтер-фельдфебель
+Ger_LW.LW_Feldwebel			Фельдфебель
+Ger_LW.LW_Oberfeldwebel		Оберфельфебель
+
+Ger_LW.LW_Leutnant			Лейтенант
+Ger_LW.LW_Oberleutnant		Обер-лейтенант
+Ger_LW.LW_Hauptmann			Гауптман
+Ger_LW.LW_Major				Майор
+Ger_LW.LW_Oberstleutnant	Подполковник
+Ger_LW.LW_Oberst			Полковник
+
+
+
+Pol.Private	Рядовой
+Pol.Senior_Private	Старший рядовой
+Pol.Corporal	Капрал
+Pol.Lance_Sergeant	Взводный
+Pol.Sergeant	Сержант
+Pol.Senior_Sergeant	Старший сержант
+Pol.Ensign	Хорунжий
+Pol.Junior_Lieutenant	Подпоручик
+Pol.Lieutenant	Поручик
+Pol.Captain	Капитан
+Pol.Major	Майор
+Pol.Lieutenant_Coloner	Подполковник
+Pol.Coloner	Полковник
+
+UK.Private	Рядовой
+UK.Lance_Corporal	Ланс-капрал
+UK.Corporal	Капрал
+UK.Sergeant	Сержант
+UK.Staff_Sergeant	Штаб-сержант
+UK.Warrant_Officer	Воррэнт-офицер 2 класса
+UK.Warrant_Officer_1Class	Воррэнт-офицер 1 класса
+UK.2nd_Lieutenant	Второй лейтенант
+UK.Lieutenant	Лейтенант
+UK.Captain	Капитан
+UK.Major	Майор
+UK.Lieutenant_Colonel	Подполковник
+UK.Colonel	Полковник
+
+USA.Private	Рядовой
+USA.Private_1st_Class	Рядовой 1-го класса
+USA.Corporal	Капрал
+USA.Sergeant	Сержант
+USA.Staff_Sergeant	Штаб-сержант
+USA.Technical_Sergeant	Техник-сержант
+USA.Master_Sergeant	Мастер-сержант
+USA.Sergeant_Major	Первый сержант
+USA.2nd_Lieutenant	Второй лейтенант
+USA.1st_Lieutenant	Первый лейтенант
+USA.Captain	Капитан
+USA.Major	Майор
+USA.Lieutenant_Colonel	Подполковник
+USA.Colonel	Полковник
+
+Ita.Soldato	Рядовой
+Ita.Soldato_selto	Старший солдат
+Ita.Caporale	Капрал
+Ita.Caporale_maggiore	Старший капрал
+Ita.Sergente	Сержант
+Ita.Sergente_maggiore	Старший сержант
+Ita.Maresciallo_ordinario	Фельдфебель
+Ita.Maresciallo_capo	Старший фельдфебель
+Ita.Tenente	Лейтенант
+Ita.Primo_tenente	Первый лейтенант
+Ita.Capitano	Капитан
+Ita.Maggiore	Майор
+Ita.Tenente_colonnelo	Подполковник
+Ita.Colonnelo	Полковник
+
+Rus.Ryadovoy	Рядовой
+Rus.Efreitor	Ефрейтор
+Rus.Mladshiy_Serzhant	Младший сержант
+Rus.Serzhant	Сержант
+Rus.Starshiy_Serzhant	Старший сержант
+Rus.Starshina	Старшина
+Rus.Mladshiy_Leitenant	Младший лейтенант
+Rus.Leitenant	Лейтенант
+Rus.Starshiy_Leitenant	Старший лейтенант
+Rus.Kapitan	Капитан
+Rus.Major	Майор
+Rus.Podpolkovnik	Подполковник
+Rus.Polkovnik	Полковник
+
+PRK.Ryadovoy	Рядовой
+PRK.Efreitor	Ефрейтор
+PRK.Mladshiy_Serzhant	Младший сержант
+PRK.Serzhant	Сержант
+PRK.Starshiy_Serzhant	Старший сержант
+PRK.Starshina	Старшина
+PRK.Leitenant	Лейтенант
+PRK.Starshiy_Leitenant	Старший лейтенант
+PRK.Kapitan	Капитан
+PRK.Starshiy_Kapitan	Старший капитан
+PRK.Major	Майор
+PRK.Podpolkovnik	Подполковник
+PRK.Polkovnik	Полковник

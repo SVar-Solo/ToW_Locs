@@ -1,0 +1,44 @@
+﻿[Mission.Objectives]
+Mantenha a linha na parte sul da aldeia de Verkhopenye.
+[Mission.Description]
+Em conjunto com uma bateria de artilharia antitanque, uma unidade de fuzis antitanque e alguns tanques, garanta o ponto forte a sudeste de Verkhopenye. Deve-se dar especial prioridade a manter as posições nas proximidades das pontes sobre o Pena. Impeça o inimigo de atravessar o rio.
+[Mission.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Mission.Failed]
+O inimigo estabeleceu uma posição na margem oeste do Pena, nossas tropas recuam.
+[Submission_1.Objectives]
+Ocupe as posições abandonadas. Cubra o recuo através do rio.
+[Submission_1.Success]
+A força principal assumiu com sucesso a defesa ao longo da margem do rio.
+[Submission_1.Failed]
+A equipe de cobertura foi derrotada, a força principal está ameaçada!
+[Submission_2.Objectives]
+Guarneça as posições nas proximidades da travessia. Impeça o inimigo de passar para a margem oposta.
+[Submission_2.Success]
+Missão cumprida, os ataques inimigos foram repelidos.
+[Submission_2.Failed]
+O inimigo capturou a ponte e está estabelecendo uma cabeça de ponte em nossa margem!
+[Submission_3.Objectives]
+Recue para a margem oposta do Pena. Impeça as tropas inimigas de atravessar o rio.
+[Submission_3.Success]
+O inimigo foi detido diante da barreira de água.
+[Submission_3.Failed]
+O inimigo atravessou o rio e empurrou nossas forças para fora da parte sul da aldeia de Verkhopenye.
+[StringTable.Add_to_plArmy]
+Todas as unidades nas posições ao longo da margem do Pena estão agora sob o seu controle.
+[StringTable.Rus_Tanks]
+Um grupo de tanques foi enviado das reservas.
+[StringTable.infantry]
+Uma unidade de infantaria das reservas chegou e passou ao seu controle.
+
+[StringTable.inf]
+Infantaria
+[StringTable.Tanks]
+Tanques do 6º Corpo de Tanques
+
+[StringTable.avia_report]
+Apoio aéreo disponível.
+[StringTable.art_report]
+Apoio de artilharia a postos.
+[StringTable.jetmortar_report]
+Bateria de artilharia de foguetes pronta para atirar.

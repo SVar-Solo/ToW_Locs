@@ -1,0 +1,32 @@
+﻿[Mission.Objectives]
+Liberate Vysochany from the German occupants and destroy enemy foothold.
+[Mission.Description]
+You must eliminate the enemy garrison in Kurtenki that controls the road to Vysochany; secure this road; destroy enemy armoured troops in the Kurtenki-Vysochany area; and suppress artillery on the southern outskirts of Vysochany.
+[Mission.Success]
+Task accomplished, Vysochany liberated.
+[Mission.Failed]
+Task failed.
+[Submission1.Objectives]
+Liberate Kurtenki.
+[Submission1.Description]
+Eliminate enemy garrison in Kurtenki and secure the road to Vysochany. Get ready to repel enemy counter-attack.
+[Submission1.Success]
+Kurtenki secured.
+[Submission1.Failed]
+Task failed.
+[Submission2.Objectives]
+Destroy enemy armoured column coming to the aid of Kurtenki’s garrison.
+[Submission2.Description]
+The enemy armoured column is coming to the aid of Kurtenki’s garrison from Vysochany. Intercept and destroy it by drawing it into an ambush.
+[Submission2.Success]
+Enemy column destroyed.
+[Submission2.Failed]
+Task failed.
+[Submission3.Objectives]
+Another enemy armoured group set off from Vysochany to intercept you. Destroy it and proceed to liberation of the village.
+[Submission3.Description]
+Fully secure the road to Vysochany. Destroy enemy armoured group.
+[Submission3.Success]
+The road to Vysochany is free.
+[Submission3.Failed]
+Task accomplished.

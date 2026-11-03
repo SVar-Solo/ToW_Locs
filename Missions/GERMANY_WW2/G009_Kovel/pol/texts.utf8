@@ -1,0 +1,71 @@
+﻿[SubMission_1.Objectives]
+Odeprzeć główny atak jednostek Armii Czerwonej. Przejść do kontrataku i zająć stację paliw. 
+[SubMission_1.Description]
+Armia Czerwona naciera na całej długości frontu. Ostatnia wzmocniona linia obronna sił niemieckich przed dawną zachodnią granicą ZSRR przebiega przez miasto Kowel. Sztab Generalny wydał rozkaz obrony do samego końca. Wywiad informuje, że Rosjanie najprawdopodobniej przeprowadzą atak próbny, aby sprawdzić naszą obronę w tym sektorze.
+Twoje rozkazy:
+-	Odeprzeć atak Rosjan, następnie rozpocząć kontratak, by rozbić wroga. 
+-	Zdobyć stację paliw.
+[SubMission_1.Success]
+Zadanie wykonane!
+[SubMission_1.Failed]
+Zawiodłeś! 
+[Mission.Objectives]
+Uniemożliwić nieprzyjacielowi przebicie się przez obronę.
+[Mission.Description]
+Rosjanie rozpoczęli natarcie w celu wyzwolenia miasta Kowel. Musisz bronić miasta i odeprzeć ten atak. 
+Twoje rozkazy:
+-	Odeprzeć wszystkie ataki nieprzyjaciela.
+[Mission.Success]
+Zatrzymaliśmy rosyjskie natarcie. Niemcy będą pamiętać bohaterstwo swoich żołnierzy. 
+[Mission.Failed]
+To czarny dzień w historii Niemiec! Nie udało ci się zatrzymać Rosjan i przegrałeś bitwę.
+
+[Submission_2.Objectives]
+Musisz doprowadzić te cysterny nienaruszone do stacji paliw. 
+[Submission_2.Description]
+Rosjanie uciekli, zabierz te cysterny na stację benzynową. 
+
+Twoje rozkazy:
+-	Dostarczyć cysterny do stacji paliw we wsi.
+[Submission_2.Success]
+Dobra robota. Te cysterny z pewnością się przydadzą. 
+[Submission_2.Failed]
+Cysterny zostały zniszczone.
+[Submission_3.Objectives]
+Jak najlepiej zorganizuj linie obronne i odeprzyj radzieckie natarcie.
+[Submission_3.Description]
+Według danych wywiadu Rosjanie szykują się do kolejnego natarcia. Przygotuj się do obrony.
+
+Twoje rozkazy: 
+-	Utrzymaj pozycje i odeprzyj natarcie wroga. 
+[Submission_3.Success]
+Dobra robota! Atakujące oddziały zostały zniszczone.
+[Submission_3.Failed]
+Nieprzyjacielski atak był zbyt mocny. Przegrałeś.
+[Submission_5.Objectives]
+Zniszcz atakujące jednostki radzieckie.
+[Submission_5.Description]
+Radzieckie jednostki zmierzają w kierunku składu paliwa. Musisz je powstrzymać! Uważaj na radzieckich sabotażystów, pragnących przeniknąć twoje linie i uderzyć na pozycje artylerii.
+Twoje rozkazy:
+-	Zniszczyć zbliżające się radzieckie jednostki.
+[Submission_5.Success]
+Nieprzyjacielskie jednostki zostały zniszczone.
+[Submission_5.Failed]
+Wróg się przebił!
+[Submission_6.Objectives]
+Zniszcz konwój radzieckich cystern. Jeśli będzie to możliwe, zdobądź je. 
+[Submission_6.Description]
+W czasie ataku ze stacji wyjechały 4 cysterny z paliwem! Musisz zatrzymać ten konwój. 
+
+Twoje rozkazy:
+-	Zdobądź konwój cystern. W razie kłopotów zniszcz je.
+[Submission_6.Success]
+Dobra robota! Paliwo nie wpadło w ręce Rosjan.
+[Submission_6.Failed]
+Pojazdy przebiły się. Nie udało ci się ich zatrzymać. 
+[StringTable.inf_reserv]
+Powierzono ci oddział piechoty. 
+[StringTable.Tank_reserv]
+Powierzono ci czołgi.
+[StringTable.SPG_reserv]
+Otrzymałeś rezerwy dział samobieżnych.

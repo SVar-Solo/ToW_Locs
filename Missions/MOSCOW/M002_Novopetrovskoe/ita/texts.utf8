@@ -1,0 +1,12 @@
+﻿[Submission1.Objectives]
+Ferma l’avanzata delle truppe tedesche.
+[Submission1.Description]
+Forze nemiche superiori stanno avanzando verso la città di Istra. Il fianco destro della 16ma Armata sta cedendo sotto una pressione insostenibile. Devi fermare l’offensiva tedesca 
+
+I tuoi ordini sono:
+- Ferma l’avanzata delle truppe tedesche.
+- Impedisci alle truppe tedesche di superare le tue difese.
+[Submission1.Success]
+Gli ordini dell’Alto Comando sono stati eseguiti! Hai fermato l’avanzata delle forze tedesche.
+[Submission1.Failed]
+Non sei riuscito a eseguire i tuoi ordini! Il nemico ha superato le nostre difese e sta avanzando vero la città di Istra.

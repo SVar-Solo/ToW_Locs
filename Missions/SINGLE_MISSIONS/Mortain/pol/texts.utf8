@@ -1,0 +1,56 @@
+﻿[Mission.Objectives]
+Zatrzymać nieprzyjacielskie natarcie.
+[Mission.Description]
+Widząc niebezpieczeństwo okrążenia kolejnych sił, niemieckie dowództwo naczelne przeprowadziło niewielki, lecz zaciekły kontratak, nazwany Operacją Lüttich. 
+Twoje rozkazy:
+-	Zatrzymać niemieckie natarcie.
+[Mission.Success]
+Zadanie wykonane. Zmasowane uderzenie pancerne sił niemieckich zostało zatrzymane.
+[Mission.Failed]
+Niemieckie natarcie powiodło się, ponieśliśmy ciężkie straty.
+[Submission1.Objectives]
+Zaatakować zgrupowanie sił nieprzyjaciela. 
+[Submission1.Description]
+Zwiad melduje, że z północnego wschodu zbliża się do nas pierwsza fala niemieckiego natarcia.
+Twoje rozkazy:
+-	Zaatakować nieprzyjaciela, nacierającego od północnego wschodu.
+[Submission1.Success]
+Zadanie wykonane. Siły nieprzyjaciela wycofują się.
+[Submission1.Failed]
+Zadanie niewykonane. Twoje siły zostały pokonane.
+[Submission2.Objectives]
+Uderzyć na siły nieprzyjaciela.
+[Submission2.Description]
+Niemcy kontynuują natarcie, teraz prawdopodobnie zaatakują nas od wschodu.
+Twoje rozkazy:
+-	Zaatakuj nieprzyjaciela, nacierającego ze wschodu.
+[Submission2.Success]
+Zadanie wykonane. Atak nieprzyjaciela został zatrzymany.
+[Submission2.Failed]
+Zadanie niewykonane. Twoje siły zostały zniszczone.
+[Submission3.Objectives]
+Zaatakować wojska, zbliżające się od północy.
+[Submission3.Description]
+Jeszcze nie wygraliśmy. Z północy zbliża się kolejne niemieckie natarcie. Tym razem mają przewagę liczebną, ale musimy się utrzymać. 
+Twoje rozkazy:
+-	Zniszczyć główne natarcie wroga.
+[Submission3.Success]
+Zadanie wykonane. Ta faza planu nieprzyjaciela została powstrzymana.
+[Submission3.Failed]
+Zadanie nie zostało wykonane. Nieprzyjacielskie natarcie powiodło się. Twoje wojska zostały zniszczone.
+[StringTable.Reserve]
+Przybyły posiłki.
+[Submission4.Objectives]
+Uderzyć na siły niemieckie.
+[Submission4.Description]
+Na razie się trzymamy, ale wygląda na to, że Niemcy planują jeszcze jedno uderzenie, tym razem ze wschodu.
+Twoje rozkazy:
+-	Uderz na zbliżające się od wschodu siły nieprzyjaciela i zapobiegnij okrążeniu naszych sił.
+[Submission4.Success]
+Zadanie wykonane. Wróg nie zdołał się przebić i okrążyć naszych sił.
+[Submission4.Failed]
+Zadanie niewykonane. Twoje wojska zostały zniszczone.
+[StringTable.Subtitle_01]
+Francja. Sierpień 1944.
+[StringTable.Reserv]
+Otrzymałeś rezerwy.

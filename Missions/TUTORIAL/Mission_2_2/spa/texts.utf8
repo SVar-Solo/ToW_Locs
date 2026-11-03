@@ -1,0 +1,35 @@
+﻿[StringTable.1]
+Rechace el ataque enemigo.
+Tácticas del enemigo:
+Los tanques pesados flanquean y llegan a la retaguardia para destruir su artillería. La infantería ataca las trincheras. Los tanques ligeros cubren el avance de la infantería.
+Sus tácticas: Sus soldados deben mantener su posición. Use cañones y soldados con fusiles antitanque PTRD para inmovilizar y luego destruir los tanques pesados del enemigo, y después destruya sus tanques ligeros. Use la infantería para destruir a la infantería enemiga que avanza sobre las posiciones.
+
+[StringTable.2]
+Rechace el ataque enemigo.
+Tácticas del enemigo:
+La infantería ataca las trincheras y después los tanques pasan al ataque, cubriendo a la infantería con su fuego.
+Sus tácticas:
+Seleccione el tipo de proyectil HE para los cañones y, junto con la infantería, destruya a la infantería enemiga que avanza. En cuanto los tanques enemigos pasen al ataque, destrúyalos con fuego dirigido de los cañones.
+
+[Submission1.Objectives]
+Mantenga la defensa y rechace los ataques enemigos.
+
+[Submission1.Description]
+Las tropas alemanas avanzan en este sector del frente con el objetivo de destruir las posiciones defensivas de nuestro ejército. La Stavka considera necesario detener el avance de las tropas enemigas en esta zona.
+
+Orden recibida:
+- mantener la defensa en la zona indicada;
+- rechazar los ataques alemanes.
+
+[Submission1.Success]
+¡Órdenes del mando cumplidas! ¡El avance enemigo en este sector del frente ha sido detenido! ¡Es digno del rango de oficial ruso!
+
+[Submission1.Failed]
+¡Órdenes no cumplidas! ¡El enemigo ha roto la defensa en este sector del frente!
+
+[StringTable.Win]
+¡Tarea completada!
+
+[StringTable.Disp]
+Modo de despliegue:
+En la zona resaltada puede mover sus tropas (infantería, artillería, tanques, ametralladoras, etc.), tanto de forma individual como en grupos. Para girar en la dirección deseada sin cambiar de posición, seleccione las tropas y haga clic con el botón derecho en la dirección deseada. Tras desplegar las tropas, compruebe visualmente sus líneas de fuego acercando la cámara al suelo.
